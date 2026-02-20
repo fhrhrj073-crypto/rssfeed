@@ -852,6 +852,1246 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "One Useful Thing",
+      "feedUrl": "https://www.oneusefulthing.org/feed",
+      "siteUrl": "https://www.oneusefulthing.org",
+      "articles": [
+        {
+          "id": "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+          "author": "Ethan Mollick",
+          "description": "It's not just chatbots anymore",
+          "link": "https://www.oneusefulthing.org/p/a-guide-to-which-ai-to-use-in-the",
+          "publishedOn": "2026-02-18T01:45:41.000Z",
+          "wordCount": null,
+          "title": "A Guide to Which AI to Use in the Agentic Era",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!O-pO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff77c79c7-9fb2-4cd0-b075-a6201a212a6c_1456x816.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!O-pO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff77c79c7-9fb2-4cd0-b075-a6201a212a6c_1456x816.png"
+        },
+        {
+          "id": "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+          "author": "Ethan Mollick",
+          "description": "Thriving in a world of agents",
+          "link": "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+          "publishedOn": "2026-01-27T16:55:55.000Z",
+          "wordCount": null,
+          "title": "Management as AI superpower",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!ml-7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6cbe84ef-5e39-49bb-a6e8-4d427d42b54e_2496x1696.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!ml-7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6cbe84ef-5e39-49bb-a6e8-4d427d42b54e_2496x1696.jpeg"
+        }
+      ]
+    },
+    {
+      "title": "Lenny's Newsletter",
+      "feedUrl": "https://www.lennysnewsletter.com/feed",
+      "siteUrl": "https://www.lennysnewsletter.com",
+      "articles": [
+        {
+          "id": "https://www.lennysnewsletter.com/p/head-of-claude-code-what-happens",
+          "author": "Lenny Rachitsky",
+          "description": "Listen now | Anthropic’s Boris Cherny on building Claude Code, how to maximize AI productivity, and what comes next after coding is “solved”",
+          "link": "https://www.lennysnewsletter.com/p/head-of-claude-code-what-happens",
+          "publishedOn": "2026-02-19T13:31:57.000Z",
+          "wordCount": null,
+          "title": "Head of Claude Code: What happens after coding is solved | Boris Cherny",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/188147394/a6e840acec04b288bd91cab412ce20b5.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.lennysnewsletter.com/p/how-to-do-ai-analysis-you-can-actually",
+          "author": null,
+          "description": "Four prompting techniques to prevent AI’s most common mistakes",
+          "link": "https://www.lennysnewsletter.com/p/how-to-do-ai-analysis-you-can-actually",
+          "publishedOn": "2026-02-17T13:45:26.000Z",
+          "wordCount": null,
+          "title": "How to do AI analysis you can actually trust",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!o_Ba!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8cd6012c-6a31-4cc1-962e-35820925743f_1456x970.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!o_Ba!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8cd6012c-6a31-4cc1-962e-35820925743f_1456x970.png"
+        },
+        {
+          "id": "https://www.lennysnewsletter.com/p/how-to-do-ai-analysis-you-can-actually-db6",
+          "author": "Lenny Rachitsky",
+          "description": "Four prompting techniques to prevent AI’s most common mistakes",
+          "link": "https://www.lennysnewsletter.com/p/how-to-do-ai-analysis-you-can-actually-db6",
+          "publishedOn": "2026-02-17T13:02:46.000Z",
+          "wordCount": null,
+          "title": "How to do AI analysis you can actually trust",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/188217942/2c1631d1207a16ddf49ed09c8092b3ce.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-opus-vs-codex",
+          "author": "Lenny Rachitsky",
+          "description": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+          "link": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-opus-vs-codex",
+          "publishedOn": "2026-02-16T16:02:43.000Z",
+          "wordCount": null,
+          "title": "🎙️ This week on How I AI: Opus vs. Codex showdown, and AI for accessibility",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/ab825675-e3a6-4dd3-9c1b-bb10c333bed3_2048x2048.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/ab825675-e3a6-4dd3-9c1b-bb10c333bed3_2048x2048.png"
+        },
+        {
+          "id": "https://www.lennysnewsletter.com/p/how-this-visually-impaired-engineer",
+          "author": "Claire Vo",
+          "description": "How this visually impaired engineer uses Claude Code to transform Slack images into descriptions, correct typos instantly, and summarize links—all with simple keyboard shortcuts",
+          "link": "https://www.lennysnewsletter.com/p/how-this-visually-impaired-engineer",
+          "publishedOn": "2026-02-16T13:03:24.000Z",
+          "wordCount": null,
+          "title": "How this visually impaired engineer uses Claude Code to make his life more accessible | Joe McCormick",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/187810878/8c3d5e3b9bcd7c912c974e214696c655.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.lennysnewsletter.com/p/sequoia-ceo-coach-why-its-never-been",
+          "author": "Lenny Rachitsky",
+          "description": "Listen now | From HubSpot to Sequoia: Brian Halligan on scaling, leadership, AI, hiring mistakes, and the crisis that changed his life",
+          "link": "https://www.lennysnewsletter.com/p/sequoia-ceo-coach-why-its-never-been",
+          "publishedOn": "2026-02-15T13:31:20.000Z",
+          "wordCount": null,
+          "title": "Sequoia CEO coach: Why it’s never been easier to start a company, and never been harder to scale one | Brian Halligan (co-founder, HubSpot)",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/187154837/acee91c9622d5684521ac125dd5d7973.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.lennysnewsletter.com/p/community-wisdom-how-pms-are-using",
+          "author": "Kiyani",
+          "description": "Community Wisdom 173",
+          "link": "https://www.lennysnewsletter.com/p/community-wisdom-how-pms-are-using",
+          "publishedOn": "2026-02-14T17:03:27.000Z",
+          "wordCount": null,
+          "title": "🧠 Community Wisdom: How PMs are using AI coding tools, implementing reverse free trials, distinguishing yourself as a product manager vs. project manager, pricing your consulting work, and more",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png"
+        },
+        {
+          "id": "https://www.lennysnewsletter.com/p/engineers-are-becoming-sorcerers",
+          "author": "Lenny Rachitsky",
+          "description": "OpenAI’s Sherwin Wu on why the productivity gap is widening, how his engineers now manage 10-20 parallel agents, and why you need to build for where models are heading",
+          "link": "https://www.lennysnewsletter.com/p/engineers-are-becoming-sorcerers",
+          "publishedOn": "2026-02-12T13:31:43.000Z",
+          "wordCount": null,
+          "title": "“Engineers are becoming sorcerers” | The future of software development with OpenAI’s Sherwin Wu",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/186818429/0c973f2259c6b0142cb97b24fdaca94d.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.lennysnewsletter.com/p/claude-opus-46-vs-gpt-53-codex-how",
+          "author": "Claire Vo",
+          "description": "I tested GPT-5.3 Codex vs. Claude Opus 4.6 on real code, shipping 44 PRs in five days to see which AI model actually works best",
+          "link": "https://www.lennysnewsletter.com/p/claude-opus-46-vs-gpt-53-codex-how",
+          "publishedOn": "2026-02-11T13:02:52.000Z",
+          "wordCount": null,
+          "title": "Claude Opus 4.6 vs. GPT-5.3 Codex: How I shipped 93,000 lines of code in 5 days",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/187548554/edfca93b21db4b66b087909b6ef6fedc.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.lennysnewsletter.com/p/building-ai-product-sense-part-2",
+          "author": "Marily Nika",
+          "description": "A weekly ritual to help you understand and design trustworthy AI products for a messy world",
+          "link": "https://www.lennysnewsletter.com/p/building-ai-product-sense-part-2",
+          "publishedOn": "2026-02-10T14:31:00.000Z",
+          "wordCount": null,
+          "title": "Building AI product sense, part 2",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!Lhcd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d645f64-dc02-4f41-a227-97a5af6f9cd2_1456x970.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!Lhcd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d645f64-dc02-4f41-a227-97a5af6f9cd2_1456x970.png"
+        },
+        {
+          "id": "https://www.lennysnewsletter.com/p/building-ai-product-sense-part-2-0aa",
+          "author": "Lenny Rachitsky",
+          "description": "A weekly ritual to help you understand and design trustworthy AI products for a messy world",
+          "link": "https://www.lennysnewsletter.com/p/building-ai-product-sense-part-2-0aa",
+          "publishedOn": "2026-02-10T10:02:26.000Z",
+          "wordCount": null,
+          "title": "Building AI product sense, part 2",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/187450314/08b022c65ded296d1f3fe0991b6e9ca4.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-to-build",
+          "author": "Lenny Rachitsky",
+          "description": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+          "link": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-to-build",
+          "publishedOn": "2026-02-09T16:02:35.000Z",
+          "wordCount": null,
+          "title": "🎙️ This week on How I AI: How to build your own AI developer tools with Claude Code",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/d5289361-ef77-49e0-8319-e9bdb5f63ea7_2048x2048.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/d5289361-ef77-49e0-8319-e9bdb5f63ea7_2048x2048.png"
+        },
+        {
+          "id": "https://www.lennysnewsletter.com/p/how-to-build-your-own-ai-developer",
+          "author": "Claire Vo",
+          "description": "Learn how to build custom tools that transform AI-generated Markdown plans into interactive visual diagrams and UI mockups",
+          "link": "https://www.lennysnewsletter.com/p/how-to-build-your-own-ai-developer",
+          "publishedOn": "2026-02-09T13:03:17.000Z",
+          "wordCount": null,
+          "title": "How to build your own AI developer tools with Claude Code | CJ Hess (Tenex)",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/187028306/abcdcbd0b305fe2bba990379cd432c5f.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.lennysnewsletter.com/p/getting-paid-to-vibe-code",
+          "author": "Lenny Rachitsky",
+          "description": "Lovable’s first professional vibe coder on why non-technical people have an advantage with AI, and how he ships enterprise-grade products without writing code",
+          "link": "https://www.lennysnewsletter.com/p/getting-paid-to-vibe-code",
+          "publishedOn": "2026-02-08T13:31:22.000Z",
+          "wordCount": null,
+          "title": "The rise of the professional vibe coder (a new AI-era job) | Lazar Jovanovic (Professional Vibe Coder)",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/186928764/e2cb8cb3ab3e609ca0c5fc1837344e76.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.lennysnewsletter.com/p/community-wisdom-common-mistakes",
+          "author": "Kiyani",
+          "description": "Community Wisdom 172",
+          "link": "https://www.lennysnewsletter.com/p/community-wisdom-common-mistakes",
+          "publishedOn": "2026-02-07T16:57:18.000Z",
+          "wordCount": null,
+          "title": "🧠 Community Wisdom: Common mistakes when hiring a growth PM, using AI to speed up bug reporting, launching a solo consulting practice, resume titles for engineers transitioning to PM, and more",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png"
+        },
+        {
+          "id": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-automate-the",
+          "author": null,
+          "description": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+          "link": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-automate-the",
+          "publishedOn": "2026-02-04T16:02:49.000Z",
+          "wordCount": null,
+          "title": "🎙️ This week on How I AI: Automate the tasks you hate + “Anyone can cook”: How v0 is bringing Git workflows to vibe coding",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/52029ba8-b2ae-4fcc-9c49-8141fbedec24_2048x2048.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/52029ba8-b2ae-4fcc-9c49-8141fbedec24_2048x2048.png"
+        },
+        {
+          "id": "https://www.lennysnewsletter.com/p/anyone-can-cook-how-v0-is-bringing",
+          "author": "Claire Vo",
+          "description": "Vercel’s CEO demonstrates how v0’s new Git workflow integration enables anyone to contribute production-ready code changes while maintaining engineering best practices",
+          "link": "https://www.lennysnewsletter.com/p/anyone-can-cook-how-v0-is-bringing",
+          "publishedOn": "2026-02-04T13:03:45.000Z",
+          "wordCount": null,
+          "title": "Guillermo Rauch: Vercel CEO on how v0 hit 3,200 PRs merged per day (and lets anyone ship)",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/186765986/81bd98ef7d2e7084b68b47f1ef50ea0b.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.lennysnewsletter.com/p/how-to-build-ai-product-sense",
+          "author": "Tal Raviv",
+          "description": "The secret is using Cursor for non-technical work (inside: 75 free days of Cursor Pro to try this out!)",
+          "link": "https://www.lennysnewsletter.com/p/how-to-build-ai-product-sense",
+          "publishedOn": "2026-02-03T13:45:58.000Z",
+          "wordCount": null,
+          "title": "How to build AI product sense",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!TIEN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffce07243-d494-4f0a-b65b-3f70f90c987e_1456x970.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!TIEN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffce07243-d494-4f0a-b65b-3f70f90c987e_1456x970.png"
+        },
+        {
+          "id": "https://www.lennysnewsletter.com/p/how-this-pm-uses-mcps-to-automate",
+          "author": "Claire Vo",
+          "description": "How to use Zapier's MCP server to connect Claude with 8,000+ apps: automating CRM updates, meeting preparation, and creating a virtuous cycle of customer feedback",
+          "link": "https://www.lennysnewsletter.com/p/how-this-pm-uses-mcps-to-automate",
+          "publishedOn": "2026-02-02T13:04:58.000Z",
+          "wordCount": null,
+          "title": "How this PM uses MCPs to automate his meeting prep, CRM updates, and customer feedback synthesis | Reid Robinson (Zapier)",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/185900212/2efdfef62eed118aeae64e48991c8951.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.lennysnewsletter.com/p/dr-becky-on-the-surprising-overlap",
+          "author": "Lenny Rachitsky",
+          "description": "Clinical psychologist Dr. Becky Kennedy on why repair is more important than perfection, how to set boundaries that work, the power of \"I believe you\" and \"I believe in you,\" and more",
+          "link": "https://www.lennysnewsletter.com/p/dr-becky-on-the-surprising-overlap",
+          "publishedOn": "2026-02-01T13:31:43.000Z",
+          "wordCount": null,
+          "title": "A child psychologist’s guide to working with difficult adults | Dr. Becky Kennedy",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/184714824/ee52d0a66b8e717cc19f7809b5e9e6e0.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "The VC Corner",
+      "feedUrl": "https://www.thevccorner.com/feed",
+      "siteUrl": "https://www.thevccorner.com",
+      "articles": [
+        {
+          "id": "https://www.thevccorner.com/p/why-too-much-startup-funding-leads-to-failure",
+          "author": "Ruben Dominguez",
+          "description": "Big checks early feel like validation, but history shows they often accelerate failure. Here’s why too much capital too soon can be a curse, not a blessing.",
+          "link": "https://www.thevccorner.com/p/why-too-much-startup-funding-leads-to-failure",
+          "publishedOn": "2026-02-20T16:40:30.000Z",
+          "wordCount": null,
+          "title": "Why Your Series A Might Kill Your Startup",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!DSXx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa525dafb-65bf-442f-8657-e267ba20bfb7_1024x582.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!DSXx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa525dafb-65bf-442f-8657-e267ba20bfb7_1024x582.png"
+        },
+        {
+          "id": "https://www.thevccorner.com/p/26-pitch-decks-raised-400m",
+          "author": "Ruben Dominguez",
+          "description": "Pre-Seed to Series B — the actual decks that closed",
+          "link": "https://www.thevccorner.com/p/26-pitch-decks-raised-400m",
+          "publishedOn": "2026-02-19T16:00:08.000Z",
+          "wordCount": null,
+          "title": "26 Pitch Decks That Raised $400M in 2026",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!njz4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1459cee9-3408-424a-883b-a78343e48b38_1902x739.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!njz4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1459cee9-3408-424a-883b-a78343e48b38_1902x739.png"
+        },
+        {
+          "id": "https://www.thevccorner.com/p/nvidia-groq-deal-venture-capital",
+          "author": "Ruben Dominguez",
+          "description": "What the Nvidia–Groq deal teaches us about VC outcomes and the next era of AI startups",
+          "link": "https://www.thevccorner.com/p/nvidia-groq-deal-venture-capital",
+          "publishedOn": "2026-02-18T13:58:59.000Z",
+          "wordCount": null,
+          "title": "This Is Why Big Companies Pay $20B for Small Startups",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!98mD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc10c94b6-64c1-4641-971e-8ee3064142a7_1536x1024.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!98mD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc10c94b6-64c1-4641-971e-8ee3064142a7_1536x1024.png"
+        },
+        {
+          "id": "https://www.thevccorner.com/p/8-ai-prompts-that-replace-a-25kyear",
+          "author": null,
+          "description": "Institutional-grade stock analysis, running in your browser.",
+          "link": "https://www.thevccorner.com/p/8-ai-prompts-that-replace-a-25kyear",
+          "publishedOn": "2026-02-17T13:54:06.000Z",
+          "wordCount": null,
+          "title": "8 AI Prompts That Replace a $25K/Year Financial Analyst",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/55e5abc7-ca69-4e24-a6a6-536b11bdb9df_1920x1080.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/55e5abc7-ca69-4e24-a6a6-536b11bdb9df_1920x1080.webp"
+        },
+        {
+          "id": "https://www.thevccorner.com/p/dario-amodei-agi-1-3-years-full-breakdown",
+          "author": "Ruben Dominguez",
+          "description": "The CEO of Anthropic just laid out the most detailed AI timeline any lab leader has ever given. Most people aren't paying attention.",
+          "link": "https://www.thevccorner.com/p/dario-amodei-agi-1-3-years-full-breakdown",
+          "publishedOn": "2026-02-16T12:46:34.000Z",
+          "wordCount": null,
+          "title": "Dario Amodei Says AGI Is 1-3 Years Away. Here's His Full Breakdown.",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!Xx0a!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3f6cc3e-dabe-41ed-b56c-581b5b3f4858_1280x720.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!Xx0a!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3f6cc3e-dabe-41ed-b56c-581b5b3f4858_1280x720.webp"
+        },
+        {
+          "id": "https://www.thevccorner.com/p/global-ai-adoption-saas-multiples",
+          "author": "Ruben Dominguez",
+          "description": "Another week, another pulse check on venture.",
+          "link": "https://www.thevccorner.com/p/global-ai-adoption-saas-multiples",
+          "publishedOn": "2026-02-15T17:40:34.000Z",
+          "wordCount": null,
+          "title": "Global AI Adoption📊, SaaS Multiples Compress📉, How People Use ChatGPT💬",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!aF7v!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F647a9454-015a-44b0-96a5-cc9e57514ec9_680x634.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!aF7v!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F647a9454-015a-44b0-96a5-cc9e57514ec9_680x634.jpeg"
+        },
+        {
+          "id": "https://www.thevccorner.com/p/brex-exit-venture-capital-math",
+          "author": "Ruben Dominguez",
+          "description": "Why a $5 billion win feels like a loss and the real cost of a high valuation",
+          "link": "https://www.thevccorner.com/p/brex-exit-venture-capital-math",
+          "publishedOn": "2026-02-13T18:17:22.000Z",
+          "wordCount": null,
+          "title": "The Brex Deal and the Lie Venture Capital Tells Itself",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!U0AM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8061be9c-11e7-4c3c-b2c6-cea8197b5c1b_1200x675.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!U0AM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8061be9c-11e7-4c3c-b2c6-cea8197b5c1b_1200x675.jpeg"
+        },
+        {
+          "id": "https://www.thevccorner.com/p/100-ai-agent-ideas-implementation-guide",
+          "author": "Ruben Dominguez",
+          "description": "The complete list for side hustlers, solopreneurs, and founders",
+          "link": "https://www.thevccorner.com/p/100-ai-agent-ideas-implementation-guide",
+          "publishedOn": "2026-02-11T17:56:38.000Z",
+          "wordCount": null,
+          "title": "100 AI Agent Ideas You Can Build This Weekend",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/8de00f2b-c8e9-4dda-8fa8-bf92d30d02b6_3808x1280.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/8de00f2b-c8e9-4dda-8fa8-bf92d30d02b6_3808x1280.png"
+        },
+        {
+          "id": "https://www.thevccorner.com/p/family-offices-that-cut-pre-seed",
+          "author": "Ruben Dominguez",
+          "description": "The investor list that saves you 40 hours of research and gets you in front of decision-makers who actually write checks",
+          "link": "https://www.thevccorner.com/p/family-offices-that-cut-pre-seed",
+          "publishedOn": "2026-02-10T17:03:04.000Z",
+          "wordCount": null,
+          "title": "Family Offices That Cut Pre-Seed Checks (And How to Reach Them)",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/e82698e1-8d84-42a9-86d3-6270cbaa9a05_800x450.gif",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/e82698e1-8d84-42a9-86d3-6270cbaa9a05_800x450.gif"
+        },
+        {
+          "id": "https://www.thevccorner.com/p/exit-scenario-model-ipo-secondary-acquisition",
+          "author": "Ruben Dominguez",
+          "description": "This excel template turns exit narratives into cash-flow reality",
+          "link": "https://www.thevccorner.com/p/exit-scenario-model-ipo-secondary-acquisition",
+          "publishedOn": "2026-02-09T16:29:20.000Z",
+          "wordCount": null,
+          "title": "The Exit Scenario Tool You Need",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!WmlR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3d1d131-2720-42d1-b369-e996f2bbac22_2048x883.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!WmlR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3d1d131-2720-42d1-b369-e996f2bbac22_2048x883.jpeg"
+        },
+        {
+          "id": "https://www.thevccorner.com/p/12-financial-models-claude-opus-46",
+          "author": "Ruben Dominguez",
+          "description": "Another week, another pulse check on venture.",
+          "link": "https://www.thevccorner.com/p/12-financial-models-claude-opus-46",
+          "publishedOn": "2026-02-08T15:31:10.000Z",
+          "wordCount": null,
+          "title": "12 Financial Models📊, Claude Opus 4.6🤖, AI Dominates🔥",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/ff363978-cb9f-4b3b-8c59-19594aaa036c_1152x604.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/ff363978-cb9f-4b3b-8c59-19594aaa036c_1152x604.webp"
+        },
+        {
+          "id": "https://www.thevccorner.com/p/the-onion-theory-of-risk-for-startups",
+          "author": "Ruben Dominguez",
+          "description": "From Marc Andreessen’s insight to modern founder playbooks: how peeling away uncertainty builds value, raises rounds, and shapes the next generation of startups.",
+          "link": "https://www.thevccorner.com/p/the-onion-theory-of-risk-for-startups",
+          "publishedOn": "2026-02-06T16:02:43.000Z",
+          "wordCount": null,
+          "title": "The Onion Theory of Startup Risk: The 5 Layers Every Investor Evaluates",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!F1Sr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdab3520a-9c51-405e-9ae0-0be5b2d24961_931x523.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!F1Sr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdab3520a-9c51-405e-9ae0-0be5b2d24961_931x523.png"
+        },
+        {
+          "id": "https://www.thevccorner.com/p/why-second-time-founders-succeed",
+          "author": "Ruben Dominguez",
+          "description": "What First-Time Founders Can Learn From the Painful, Profitable Lessons of Round Two",
+          "link": "https://www.thevccorner.com/p/why-second-time-founders-succeed",
+          "publishedOn": "2026-02-05T14:21:03.000Z",
+          "wordCount": null,
+          "title": "The Second-Time Founder Effect: How Experience Shapes Startup Success",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!aXcX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4aa7b332-4022-479c-97a7-921dbc67df50_800x397.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!aXcX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4aa7b332-4022-479c-97a7-921dbc67df50_800x397.png"
+        },
+        {
+          "id": "https://www.thevccorner.com/p/what-if-the-real-ai-risk-isnt-superintelligence",
+          "author": "Ruben Dominguez",
+          "description": "Taking a different look at AI progress, limits, and the cost of certainty",
+          "link": "https://www.thevccorner.com/p/what-if-the-real-ai-risk-isnt-superintelligence",
+          "publishedOn": "2026-02-04T18:02:31.000Z",
+          "wordCount": null,
+          "title": "What If the Real AI Risk Isn’t Superintelligence?",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!TEIr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F52021bac-e768-4ed5-93fb-a3dc6f799f43_1280x565.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!TEIr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F52021bac-e768-4ed5-93fb-a3dc6f799f43_1280x565.jpeg"
+        },
+        {
+          "id": "https://www.thevccorner.com/p/elon-musk-xai-spacex-vertical-integration",
+          "author": "Ruben Dominguez",
+          "description": "How SpaceX and xAI collapsed AI, compute, capital, and deployment into one system",
+          "link": "https://www.thevccorner.com/p/elon-musk-xai-spacex-vertical-integration",
+          "publishedOn": "2026-02-03T14:25:12.000Z",
+          "wordCount": null,
+          "title": "Elon Musk and the Outer Limit of Vertical Integration",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!eanM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1d6359c-5f92-409b-b2de-02ba70619996_1024x718.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!eanM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1d6359c-5f92-409b-b2de-02ba70619996_1024x718.jpeg"
+        },
+        {
+          "id": "https://www.thevccorner.com/p/venture-capital-fund-math-explained",
+          "author": "Ruben Dominguez",
+          "description": "Before the hype, before the founders, before the first check , it’s the math that decides whether a venture fund will work.",
+          "link": "https://www.thevccorner.com/p/venture-capital-fund-math-explained",
+          "publishedOn": "2026-02-02T18:30:45.000Z",
+          "wordCount": null,
+          "title": "Everything You Knew About VC Fund Math Is Wrong",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/99c59fd3-5282-4e92-af4f-eb2c8a0d6780_1400x900.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/99c59fd3-5282-4e92-af4f-eb2c8a0d6780_1400x900.webp"
+        },
+        {
+          "id": "https://www.thevccorner.com/p/applied-intuitions-15b-blueprint",
+          "author": "Ruben Dominguez",
+          "description": "Another week, another pulse check on venture.",
+          "link": "https://www.thevccorner.com/p/applied-intuitions-15b-blueprint",
+          "publishedOn": "2026-02-01T16:40:10.000Z",
+          "wordCount": null,
+          "title": "Applied Intuition’s $15B Blueprint🚗, 2,500 Verified AI & SaaS Angels👼, Bitcoin Crash⚠️",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!wzpb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee1851ae-a6b3-46c3-867a-cf7dcf7fc387_1000x604.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!wzpb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee1851ae-a6b3-46c3-867a-cf7dcf7fc387_1000x604.jpeg"
+        },
+        {
+          "id": "https://www.thevccorner.com/p/what-top-vcs-check-in-due-diligence-bc9",
+          "author": "Ruben Dominguez",
+          "description": "Get funded faster with this one-page framework that shows investors you're investment-ready. Ideal for founders, angels, and VCs to streamline startup diligence and avoid costly misses.",
+          "link": "https://www.thevccorner.com/p/what-top-vcs-check-in-due-diligence-bc9",
+          "publishedOn": "2026-01-31T17:44:20.000Z",
+          "wordCount": null,
+          "title": "What Top VCs Check in Due Diligence Before Writing Checks (+ EXCEL TEMPLATE Inside)",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!kcB8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F44bef0e5-5c13-4c74-874d-ba6ccc8b6321_1960x1034.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!kcB8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F44bef0e5-5c13-4c74-874d-ba6ccc8b6321_1960x1034.jpeg"
+        },
+        {
+          "id": "https://www.thevccorner.com/p/venture-capital-vs-consensus-capital",
+          "author": "Ruben Dominguez",
+          "description": "Inside the story of how Venture Capital has turned into Consensus Capital.",
+          "link": "https://www.thevccorner.com/p/venture-capital-vs-consensus-capital",
+          "publishedOn": "2026-01-29T17:30:26.000Z",
+          "wordCount": null,
+          "title": "When Did Venture Capital Stop Being Venture?",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!ZU2u!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F94239dbf-aec9-4625-b860-775e7709d5e0_1920x750.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!ZU2u!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F94239dbf-aec9-4625-b860-775e7709d5e0_1920x750.jpeg"
+        },
+        {
+          "id": "https://www.thevccorner.com/p/dario-amodei-safe-ai-agi-anthropic",
+          "author": "Ruben Dominguez",
+          "description": "From OpenAI cofounder to Anthropic CEO, and the 2017 framework that reads like a map of today",
+          "link": "https://www.thevccorner.com/p/dario-amodei-safe-ai-agi-anthropic",
+          "publishedOn": "2026-01-28T17:00:04.000Z",
+          "wordCount": null,
+          "title": "Dario Amodei and the Long Game of Safe AI",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!tQfB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0df2f7b6-333a-47cb-a0b4-40dcc8f28daf_1280x712.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!tQfB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0df2f7b6-333a-47cb-a0b4-40dcc8f28daf_1280x712.webp"
+        }
+      ]
+    },
+    {
+      "title": "TheNeuron",
+      "feedUrl": "https://www.theneuron.ai/feed",
+      "siteUrl": "https://www.theneuron.ai/",
+      "articles": [
+        {
+          "id": "https://www.theneuron.ai/newsletter/googles-sharpest-brain-yet/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/googles-sharpest-brain-yet/",
+          "publishedOn": "2026-02-20T12:05:28.000Z",
+          "wordCount": null,
+          "title": "😺 Google’s sharpest brain yet? 🧠",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/gemini-cli-explained-everything-you-need-to-know-about-googles-free-coding-agent/",
+          "author": null,
+          "description": "He built GitHub Copilot at Microsoft. Then he moved to Google, built an AI coding tool at a hackathon, and his team now ships 100 to 150 features every single week. Here's every insight from his first-ever deep interview about Gemini CLI.",
+          "link": "https://www.theneuron.ai/explainer-articles/gemini-cli-explained-everything-you-need-to-know-about-googles-free-coding-agent/",
+          "publishedOn": "2026-02-20T00:30:00.000Z",
+          "wordCount": null,
+          "title": "Gemini CLI, Explained: Everything You Need to Know About Google's Free AI Coding Agent",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/gemini-3-1-pro-google-reasoning-update/",
+          "author": null,
+          "description": "Google just dropped Gemini 3.1 Pro, and the \".1\" is misleading. This update more than doubles the model's reasoning scores, brings Deep Think-style intelligence to everyday use, and makes Google AI Studio a legitimate full-stack coding tool. Here's everything you need to know.",
+          "link": "https://www.theneuron.ai/explainer-articles/gemini-3-1-pro-google-reasoning-update/",
+          "publishedOn": "2026-02-19T23:27:05.667Z",
+          "wordCount": null,
+          "title": "Gemini 3.1 Pro: Google's \"Minor\" Update That Doubled Its AI's Reasoning Power",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/claude-code-complete-guide-best-tutorials-2026/",
+          "author": null,
+          "description": "We watched 5+ hours of Claude Code tutorials so you don't have to. Here's everything you need to know to go from zero to building real, functional projects, with timestamped links so you can follow along.",
+          "link": "https://www.theneuron.ai/explainer-articles/claude-code-complete-guide-best-tutorials-2026/",
+          "publishedOn": "2026-02-19T22:30:00.000Z",
+          "wordCount": null,
+          "title": "Claude Code: The Complete Guide to Building Real Projects (From Two of YouTube's Best Tutorials)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/newsletter/openai-built-a-crypto-thief/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/openai-built-a-crypto-thief/",
+          "publishedOn": "2026-02-19T12:05:49.006Z",
+          "wordCount": null,
+          "title": "😺 OpenAI built a crypto thief",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/anthropic-claude-sonnet-4-6-deep-dive/",
+          "author": null,
+          "description": "Anthropic just dropped a Sonnet-class model that matches its own flagship Opus on real-world work tasks, computer use, and financial analysis, at one-fifth the price. Here's everything you need to know about what makes it different.",
+          "link": "https://www.theneuron.ai/explainer-articles/anthropic-claude-sonnet-4-6-deep-dive/",
+          "publishedOn": "2026-02-18T07:30:00.000Z",
+          "wordCount": null,
+          "title": "Sonnet 4.6, Explained: Anthropic's new mid-tier model is here.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/test-driven-development-ai-coding-guide/",
+          "author": null,
+          "description": "AI agents write code fast. TDD makes sure that code actually works. Here's the technique top developers use to turn AI from a wild guesser into a disciplined builder.",
+          "link": "https://www.theneuron.ai/explainer-articles/test-driven-development-ai-coding-guide/",
+          "publishedOn": "2026-02-17T22:00:00.000Z",
+          "wordCount": null,
+          "title": "Test-Driven Development Is the Best Way to Code with AI. Here's How to Start.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/ai-coding-plugins-beginners-guide-2026/",
+          "author": null,
+          "description": "AI can write code for you. But without the right guardrails, it writes bad code. Here are the plugins, techniques, and workflows the best developers use to keep their AI agents on track.",
+          "link": "https://www.theneuron.ai/explainer-articles/ai-coding-plugins-beginners-guide-2026/",
+          "publishedOn": "2026-02-17T20:00:00.000Z",
+          "wordCount": null,
+          "title": "The Beginner's Guide to AI Coding Plugins That Actually Work",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/newsletter/pentagon-vs-anthropic-is-getting-ugly/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/pentagon-vs-anthropic-is-getting-ugly/",
+          "publishedOn": "2026-02-17T11:40:25.431Z",
+          "wordCount": null,
+          "title": "😸 Pentagon vs. Anthropic is getting ugly",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Towards Data Science",
+      "feedUrl": "https://towardsdatascience.com/feed",
+      "siteUrl": "https://towardsdatascience.com/",
+      "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=608422",
+          "author": "Yariv Adan",
+          "description": "The New Rules of Entrepreneurship in the Era of Commoditized Magic\nThe post Donkeys, Not Unicorns appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/donkeys-not-unicorns-the-new-rules-of-commoditized-magic/",
+          "publishedOn": "2026-02-20T18:21:56.000Z",
+          "wordCount": 4196,
+          "title": "Donkeys, Not Unicorns",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/13X5birWGw5nO0aEsFdsMSg.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608420",
+          "author": "Nikolay Nikitin",
+          "description": "The guide to automated improvement of scientific and industrial repositories using open-source AI agents\nThe post An End-to-End Guide to Beautifying Your Open-Source Repo with Agentic AI appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/an-end-to-end-guide-to-beautifying-your-open-source-repo-with-agentic-ai/",
+          "publishedOn": "2026-02-20T13:30:00.000Z",
+          "wordCount": 5971,
+          "title": "An End-to-End Guide to Beautifying Your Open-Source Repo with Agentic AI",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/osa_preview.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608418",
+          "author": "Corné POTGIETER",
+          "description": "A pragmatic journey using website analytics as a real-world example\nThe post From Monolith to Contract-Driven Data Mesh appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/from-monolith-to-contract-driven-data-mesh/",
+          "publishedOn": "2026-02-20T12:00:00.000Z",
+          "wordCount": 5026,
+          "title": "From Monolith to Contract-Driven Data Mesh",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-18-2026-10_20_50-AM.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608416",
+          "author": "Benjamin Lee",
+          "description": "AI can write the code, but you have to steer the ship. Master the knowledge to keep you relevant in the age of AI.\nThe post The Missing Curriculum: Essential Concepts For Data Scientists in the Age of AI Coding Agents appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-missing-curriculum-essential-concepts-for-data-scientists-in-the-age-of-ai-coding-agents/",
+          "publishedOn": "2026-02-19T20:16:51.000Z",
+          "wordCount": 5244,
+          "title": "The Missing Curriculum: Essential Concepts For Data Scientists in the Age of AI Coding Agents",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/petr-sidorov-eZzEGnQGf0s-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608414",
+          "author": "Nikhil Dasari",
+          "description": "How categorical data becomes statistical evidence.\nThe post Understanding the Chi-Square Test Beyond the Formula appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/understanding-the-chi-square-test-beyond-the-formula/",
+          "publishedOn": "2026-02-19T18:28:26.000Z",
+          "wordCount": 6254,
+          "title": "Understanding the Chi-Square Test Beyond the Formula",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/pexels-pixabay-220211-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608412",
+          "author": "Ryan Pégoud",
+          "description": "All you need to know about Chain of Causation reasoning and the current state of Autonomous Driving!\nThe post AlpamayoR1: Large Causal Reasoning Models for Autonomous Driving appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/alpamayor1-large-causal-reasoning-models-for-autonomous-driving/",
+          "publishedOn": "2026-02-19T13:30:00.000Z",
+          "wordCount": 4461,
+          "title": "AlpamayoR1: Large Causal Reasoning Models for Autonomous Driving",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/pramod-tiwari-FANRALn9WI-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608410",
+          "author": "Lorenzo Cesconetto",
+          "description": "A deep dive into the hardware infrastructure that enables multi-GPU communication for AI workloads\nThe post AI in Multiple GPUs: How GPUs Communicate appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-gpus-communicate/",
+          "publishedOn": "2026-02-19T12:00:00.000Z",
+          "wordCount": 3624,
+          "title": "AI in Multiple GPUs: How GPUs Communicate",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-18-2026-at-08_49_33-PM.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608408",
+          "author": "Samir Saci",
+          "description": "When your warehouse and transportation teams blame each other for late deliveries, who's right? We can ask an agent connected to the data settle the debate.\nThe post Can AI Solve Failures in Your Supply Chain? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/can-ai-solve-failures-in-your-supply-chain/",
+          "publishedOn": "2026-02-18T21:00:00.000Z",
+          "wordCount": 5847,
+          "title": "Can AI Solve Failures in Your Supply Chain?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/thumbnail_light.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608406",
+          "author": "Partha Sarkar",
+          "description": "Designing a hybrid SQL + vector retrieval system without schema changes, data migration, or performance trade-offs\nThe post Building Cost-Efficient Agentic RAG on Long-Text Documents in SQL Tables appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/building-cost-efficient-agentic-rag-on-long-text-documents-in-sql-tables/",
+          "publishedOn": "2026-02-18T20:00:00.000Z",
+          "wordCount": 5365,
+          "title": "Building Cost-Efficient Agentic RAG on Long-Text Documents in SQL Tables",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/gemini-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608403",
+          "author": "Nikola Ilic",
+          "description": "Get the data architecture right, and everything else becomes easier.\nI know it sounds simple, but in reality, little nuances in designing your data architecture may have costly implications. This article provides a crash course on the architectures that shape your daily decisions - from relational databases to event-driven systems.\nThe post Why Every Analytics Engineer Needs to Understand Data Architecture appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/why-every-analytics-engineer-needs-to-understand-data-architecture/",
+          "publishedOn": "2026-02-18T19:00:00.000Z",
+          "wordCount": 4671,
+          "title": "Why Every Analytics Engineer Needs to Understand Data Architecture",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/AE-Data-Arch.webp"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608401",
+          "author": "Sam Black",
+          "description": "Stop babysitting training runs. Start shipping research. Autonomous experiment management built for/by deep learning engineers.\nThe post Agentic AI for Modern Deep Learning Experimentation appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/agentic-ai-for-modern-deep-learning-experimentation/",
+          "publishedOn": "2026-02-18T18:20:33.000Z",
+          "wordCount": 5434,
+          "title": "Agentic AI for Modern Deep Learning Experimentation",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/pexels-mart-production-7256344-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608397",
+          "author": "Stephanie Kirmer",
+          "description": "The work to do before the work begins\nThe post Advance Planning for AI Project Evaluation appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/advance-planning-for-ai-project-evaluation/",
+          "publishedOn": "2026-02-18T00:31:16.000Z",
+          "wordCount": 3981,
+          "title": "Advance Planning for AI Project Evaluation",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/image-2.jpeg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608395",
+          "author": "Eivind Kjosbakken",
+          "description": "Learn how to set up OpenClaw as a personalized AI agent\nThe post Use OpenClaw to Make a Personal AI Assistant appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/use-openclaw-to-make-a-personal-ai-assistant/",
+          "publishedOn": "2026-02-18T00:25:14.000Z",
+          "wordCount": 4673,
+          "title": "Use OpenClaw to Make a Personal AI Assistant",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/image-68.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608393",
+          "author": "Vyacheslav Efimov",
+          "description": "Everything you need to know to get started\nThe post Building a LangGraph Agent from Scratch appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/building-a-langgraph-agent-from-scratch/",
+          "publishedOn": "2026-02-17T20:22:34.000Z",
+          "wordCount": 4788,
+          "title": "Building a LangGraph Agent from Scratch",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/LangGraph-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608391",
+          "author": "Chinmay Kakatkar",
+          "description": "Conceptual overview and practical guidance\nThe post Iron Triangles: Powerful Tools for Analyzing Trade-Offs in AI Product Development appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/iron-triangles-powerful-tools-for-analyzing-trade-offs-in-ai-product-development/",
+          "publishedOn": "2026-02-17T19:49:40.000Z",
+          "wordCount": 4360,
+          "title": "Iron Triangles: Powerful Tools for Analyzing Trade-Offs in AI Product Development",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/adam-jicha-q_j1Ghv_mv8-unsplash.jpeg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608387",
+          "author": "Moulik Gupta",
+          "description": "Why insanely fast GPUs still can’t make LLMs feel instant\nThe post The Strangest Bottleneck in Modern LLMs appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-strangest-bottleneck-in-modern-llms/",
+          "publishedOn": "2026-02-16T11:14:00.000Z",
+          "wordCount": 4846,
+          "title": "The Strangest Bottleneck in Modern LLMs",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/wmremove-transformed.jpeg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608389",
+          "author": "Thomas Reid",
+          "description": "One of the new things I’ve come across recently, while researching command-line-based coding assistants, is the mention and use of a tool I hadn’t heard of before. That tool is called Tmux, which stands for Terminal Multiplexer.  In the simplest possible terms, Tmux allows you to split up a single terminal window into a number […]\nThe post A beginner’s guide to Tmux: a multitasking superpower for your terminal appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/a-beginners-guide-to-tmux-a-multitasking-superpower-for-your-terminal/",
+          "publishedOn": "2026-02-15T11:50:00.000Z",
+          "wordCount": 4597,
+          "title": "A beginner’s guide to Tmux: a multitasking superpower for your terminal",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/Gemini_Generated_Image_c8uglc8uglc8uglc-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608385",
+          "author": "Yu Dong",
+          "description": "A practical onboarding checklist for building trust, business fluency, and data intuition\nThe post Your First 90 Days as a Data Scientist appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/your-first-90-days-as-a-data-scientist/",
+          "publishedOn": "2026-02-14T11:25:00.000Z",
+          "wordCount": 4203,
+          "title": "Your First 90 Days as a Data Scientist",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/ds_onboarding.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608383",
+          "author": "TDS Editors",
+          "description": "Stephanie Kirmer on the $200 billion investment bubble, how AI companies can rebuild trust, and how her day-to-day work changed with the rise of LLMs.\nThe post The Evolving Role of the ML Engineer appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-evolving-role-of-the-ml-engineer/",
+          "publishedOn": "2026-02-13T15:00:00.000Z",
+          "wordCount": 3744,
+          "title": "The Evolving Role of the ML Engineer",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/stephanie-kirmer.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608378",
+          "author": "Lorenzo Cesconetto",
+          "description": "Learn PyTorch distributed operations for multi GPU AI workloads\nThe post AI in Multiple GPUs: Point-to-Point and Collective Operations appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/point-to-point-and-collective-operations/",
+          "publishedOn": "2026-02-13T13:00:00.000Z",
+          "wordCount": 4601,
+          "title": "AI in Multiple GPUs: Point-to-Point and Collective Operations",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/NCCL_1GPU_multiGPU.png"
+        }
+      ]
+    },
+    {
+      "title": "OneZero - Medium",
+      "feedUrl": "https://onezero.medium.com/feed",
+      "siteUrl": "https://onezero.medium.com?source=rss----444d13b52878---4",
+      "articles": []
+    },
+    {
+      "title": "UX Collective - Medium",
+      "feedUrl": "https://uxdesign.cc/feed",
+      "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
+      "articles": [
+        {
+          "id": "https://medium.com/p/8581f20102ff",
+          "author": "Édouard Wautier",
+          "description": "",
+          "link": "https://uxdesign.cc/field-study-prototypes-over-mockups-8581f20102ff?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-02-20T12:13:54.000Z",
+          "wordCount": null,
+          "title": "Field study: prototypes over mockups",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0e41da7d7652",
+          "author": "Pedro A. Brêtas",
+          "description": "",
+          "link": "https://uxdesign.cc/are-we-performing-ourselves-into-exhaustion-0e41da7d7652?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-02-18T17:37:12.000Z",
+          "wordCount": null,
+          "title": "Are we performing ourselves into exhaustion?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/708666ddab2b",
+          "author": "Rodrigo Osornio",
+          "description": "",
+          "link": "https://uxdesign.cc/openai-ads-as-content-708666ddab2b?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-02-18T17:35:45.000Z",
+          "wordCount": null,
+          "title": "OpenAI: from ads to content",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/69fb46013816",
+          "author": "Albertmauri",
+          "description": "",
+          "link": "https://uxdesign.cc/5-reasons-why-ar-glasses-are-inevitable-69fb46013816?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-02-18T12:19:36.000Z",
+          "wordCount": null,
+          "title": "5 Reasons why AR glasses are inevitable",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/af0b514a1314",
+          "author": "Dora Czerna",
+          "description": "",
+          "link": "https://uxdesign.cc/bad-model-behaviour-by-design-af0b514a1314?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-02-18T12:18:39.000Z",
+          "wordCount": null,
+          "title": "Bad (model) behaviour by design",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/642987dc9ec9",
+          "author": "Hoang Nguyen",
+          "description": "I showed my team an AI-generated design. Two senior designers called it ‘solid.’ None of them questioned where it came from.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/the-problem-with-best-practices-in-the-age-of-ai-642987dc9ec9?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-02-18T12:15:15.000Z",
+          "wordCount": null,
+          "title": "The problem with best practices in the age of AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/120137cc0221",
+          "author": "Rita Kind-Envy",
+          "description": "A myth from paleontology explains almost everything that hurts.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/dinosaurs-and-designers-are-underrated-120137cc0221?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-02-18T12:14:23.000Z",
+          "wordCount": null,
+          "title": "Dinosaurs and designers are underrated",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/df456a8d12de",
+          "author": "Kevin Muldoon",
+          "description": "And why AI just made it urgent.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/why-code-is-not-the-source-of-truth-df456a8d12de?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-02-17T19:38:16.000Z",
+          "wordCount": null,
+          "title": "Why code is not the source of truth",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6662d0a9a3ec",
+          "author": "Kai Wong",
+          "description": "Businesses need to know who their user is, and how many there are\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/how-user-segmentation-rather-than-personas-helps-you-get-design-buy-in-6662d0a9a3ec?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-02-17T12:18:33.000Z",
+          "wordCount": null,
+          "title": "How user segmentation, rather than personas, helps you get design buy-in",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f6c63585f7af",
+          "author": "Gaurav Ramesh",
+          "description": "",
+          "link": "https://uxdesign.cc/getting-carried-away-when-intelligence-is-replaced-by-compliance-f6c63585f7af?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-02-17T12:17:32.000Z",
+          "wordCount": null,
+          "title": "Getting carried away: When intelligence is replaced by compliance",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Stories by The Startup Grind Team on Medium",
+      "feedUrl": "https://startupgrind.medium.com/feed",
+      "siteUrl": "https://medium.com/@startupgrind?source=rss-a81d7d77d923------2",
+      "articles": []
+    },
+    {
+      "title": "The Pragmatic Engineer",
+      "feedUrl": "https://blog.pragmaticengineer.com/feed",
+      "siteUrl": "https://blog.pragmaticengineer.com/",
+      "articles": [
+        {
+          "id": "697ba13c7779050001e3775d",
+          "author": "Gergely Orosz",
+          "description": "I used to pay $120/year for a SaaS that hasn’t added new features in four years, and didn’t fix its broken billing system for three years. Using an LLM, I managed to rewrite all the functionality I used to pay for in 20 minutes. Is this bad news for “write once, don’t update later” SaaS?",
+          "link": "https://blog.pragmaticengineer.com/i-replaced-a-120-year-micro-saas-in-20-minutes-with-llm-generated-code/",
+          "publishedOn": "2026-01-29T18:41:45.000Z",
+          "wordCount": 1808,
+          "title": "I replaced a $120/year micro-SaaS in 20 minutes with LLM-generated code",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Generative AI - Medium",
+      "feedUrl": "https://generativeai.pub/feed",
+      "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
+      "articles": [
+        {
+          "id": "https://medium.com/p/296833815d71",
+          "author": "Jim Clyde Monge",
+          "description": "Lyria 3 is an AI model that can generate a 30-second track from either text, image, or video input.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/google-releases-lyria-3-an-ai-that-generates-music-with-vocals-in-seconds-296833815d71?source=rss----440100e76000---4",
+          "publishedOn": "2026-02-20T08:00:31.000Z",
+          "wordCount": null,
+          "title": "Google Releases Lyria 3 — An AI That Generates Music with Vocals in Seconds",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/79d24d94e90d",
+          "author": "Zoom In AI",
+          "description": "",
+          "link": "https://generativeai.pub/a-chinese-ai-generated-a-tom-cruise-vs-79d24d94e90d?source=rss----440100e76000---4",
+          "publishedOn": "2026-02-20T07:59:47.000Z",
+          "wordCount": null,
+          "title": "A Chinese AI generated a Tom Cruise vs.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d7eaac1080c9",
+          "author": "Ahmed M. Abdelfattah",
+          "description": "Qwen 3.5 beats GPT-5.2 on most benchmarks. It was built on the hardware Washington tried to make unusable.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/america-banned-chinas-best-ai-chips-alibaba-said-thank-you-d7eaac1080c9?source=rss----440100e76000---4",
+          "publishedOn": "2026-02-20T07:55:40.000Z",
+          "wordCount": null,
+          "title": "America Banned China’s Best AI Chips. Alibaba Said Thank You.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/44a2aa5cc1d9",
+          "author": "Mr. Ånand",
+          "description": "",
+          "link": "https://generativeai.pub/inside-openclaw-how-a-persistent-ai-agent-actually-works-44a2aa5cc1d9?source=rss----440100e76000---4",
+          "publishedOn": "2026-02-20T07:54:44.000Z",
+          "wordCount": null,
+          "title": "Inside OpenClaw: How a Persistent AI Agent Actually Works",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/86833e571d61",
+          "author": "Adham Khaled",
+          "description": "Web 4.0 isn’t about better browsing. It’s about AI agents that earn their survival — or vanish.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/the-ai-that-dies-if-it-doesnt-make-money-86833e571d61?source=rss----440100e76000---4",
+          "publishedOn": "2026-02-20T07:53:57.000Z",
+          "wordCount": null,
+          "title": "The AI That Dies If It Doesn’t Make Money",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7aed4ab4082f",
+          "author": "Edward Tremblay",
+          "description": "",
+          "link": "https://generativeai.pub/7-ways-i-got-my-content-cited-by-ai-chatgpt-and-claude-7aed4ab4082f?source=rss----440100e76000---4",
+          "publishedOn": "2026-02-20T07:51:18.000Z",
+          "wordCount": null,
+          "title": "7 Ways I Got My Content Cited by AI (ChatGPT and Claude)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/dbfbe52f4575",
+          "author": "MohamedAbdelmenem",
+          "description": "If you’re building AI for global markets, your cultural assumptions are a product risk. Here’s the three-step audit to fix them.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/1-4-billion-people-fell-in-love-with-robots-last-night-you-still-think-ai-is-scary-dbfbe52f4575?source=rss----440100e76000---4",
+          "publishedOn": "2026-02-20T07:50:27.000Z",
+          "wordCount": null,
+          "title": "1.4 Billion People Fell in Love With Robots Last Night. You Still Think AI is Scary?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7497636d66d4",
+          "author": "Gauraw Singh",
+          "description": "Google just added Lyria 3 to Gemini — a full AI music tool with vocals, cover art, and genre presets. I spent a morning with it. Here’s…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/gemini-has-a-new-music-button-i-made-a-song-in-30-seconds-7497636d66d4?source=rss----440100e76000---4",
+          "publishedOn": "2026-02-20T07:48:59.000Z",
+          "wordCount": null,
+          "title": "Gemini Has a New Music Button. I Made a Song in 30 Seconds.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4c008adbe433",
+          "author": "Jim Clyde Monge",
+          "description": "Here are five things about OpenClaw that every user must know.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/5-interesting-things-about-openclaw-you-probably-didnt-know-about-4c008adbe433?source=rss----440100e76000---4",
+          "publishedOn": "2026-02-19T12:39:25.000Z",
+          "wordCount": null,
+          "title": "5 Interesting Things About OpenClaw You Probably Didn’t Know About",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/fcc5fe48cbc0",
+          "author": "Abdullah Topraksoy",
+          "description": "",
+          "link": "https://generativeai.pub/from-burnout-to-breakthrough-how-i-turned-my-side-hustle-into-a-sustainable-business-fcc5fe48cbc0?source=rss----440100e76000---4",
+          "publishedOn": "2026-02-19T12:36:16.000Z",
+          "wordCount": null,
+          "title": "From Burnout to Breakthrough: How I Turned My Side Hustle Into a Sustainable Business",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
