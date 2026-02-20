@@ -1,16 +1,10 @@
+cacheUrl: https://fhrhrj073-crypto.github.io/rssfeed/cache.json
 siteTitle: 我的 AI & 白嫖 資訊聚合
 siteDescription: 每天最新免費模型、OpenClaw 續命、AI 自進化新聞
-feeds:
-  - url: https://openai.com/blog/rss   # OpenAI 最新
-    title: OpenAI Blog
-  - url: https://blog.google/technology/ai/rss/   # Google AI
-    title: Google AI Blog
-  - url: https://www.deepmind.com/blog/rss.xml
-    title: DeepMind Blog
-  - url: https://arxiv.org/rss/cs.LG   # ArXiv 機器學習論文
-    title: ArXiv ML
-  - url: https://huggingface.co/blog/feed.xml
-    title: Hugging Face
-  - url: https://github.com/openclaw/openclaw/releases.atom   # OpenClaw 更新
-    title: OpenClaw Releases
-  # 加更多你想追的 RSS，格式：url: 連結，title: 自訂名稱（可選）
+sources:
+  - href: https://openai.com/blog/rss
+  - href: https://blog.google/technology/ai/rss/
+  - href: https://www.deepmind.com/blog/rss.xml
+  - href: https://arxiv.org/rss/cs.LG
+  - href: https://huggingface.co/blog/feed.xml
+  - href: https://github.com/openclaw/openclaw/releases.atom
