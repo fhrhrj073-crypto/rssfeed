@@ -1,9 +1,8 @@
 cacheUrl: https://fhrhrj073-crypto.github.io/rssfeed/cache.json
-siteTitle: OpenClaw YouTube 大神
-siteDescription: 讓 OpenClaw 自己學習越變越強
+siteTitle: OpenClaw 學習資源
+siteDescription: OpenClaw 學習資源 - Substack + Medium + YouTube
 sources:
-  # OpenClaw YouTube 大神 (20個)
-  # 英文 - 最全面進階
+  # YouTube - OpenClaw 大神 (14個)
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC4JX40jDee_tINbkjycV4Sg
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCfQNB91qRP_5ILeu_S_bSkg
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCuwpzP90g1LuGk6JUNms_AQ
@@ -13,10 +12,42 @@ sources:
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCmq5lIl4C6xX3q7N6W6K7jA
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC2uHamL9bElAtNO7j8d9Xvg
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCvK4b80ULXbL0RQGrqd6W6g
-  
-  # 中文 - 台灣/中文創作者
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCcQA-MzQxCvET1S-BekQdAA
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCwew_LjtIVo_MTwHM6ILNog
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC38YXS2v9NWq99MCzXj9vJA
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCZgwgJ1i9ywc2UweRwp09gg
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCTPhGcD_get0sdECVEBYpvw
+  
+  # Substack - 讓 OpenClaw 學習 (20個)
+  - href: https://www.oneusefulthing.org/feed
+  - href: https://www.lennysnewsletter.com/feed
+  - href: https://thegeneralist.substack.com/feed
+  - href: https://noahpinion.substack.com/feed
+  - href: https://aicfoffice.substack.com/feed
+  - href: https://linasnewsletter.substack.com/feed
+  - href: https://www.thebignewsletter.com/feed
+  - href: https://derekthompson.substack.com/feed
+  - href: https://productmarketfit.substack.com/feed
+  - href: https://www.thevccorner.com/feed
+  - href: https://www.stateof.ai/feed
+  - href: https://chainofthought.substack.com/feed
+  - href: https://www.theneuron.ai/feed
+  - href: https://www.bensbites.ai/feed
+  - href: https://aifire.substack.com/feed
+  - href: https://theaientrepreneurs.substack.com/feed
+  - href: https://theresanaiforthat.substack.com/feed
+  - href: https://categorypirates.substack.com/feed
+  - href: https://ultrasuccessful.substack.com/feed
+  - href: https://makewritingyourjob.substack.com/feed
+  
+  # Medium Publication (10個)
+  - href: https://towardsdatascience.com/feed
+  - href: https://freecodecamp.org/feed
+  - href: https://onezero.medium.com/feed
+  - href: https://uxdesign.cc/feed
+  - href: https://startupgrind.medium.com/feed
+  - href: https://blog.pragmaticengineer.com/feed
+  - href: https://generativeai.pub/feed
+  - href: https://artificialintelligence.medium.com/feed
+  - href: https://datasciencecollective.medium.com/feed
+  - href: https://aiadvances.pub/feed
