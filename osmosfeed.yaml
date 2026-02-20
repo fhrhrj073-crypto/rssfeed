@@ -1,10 +1,41 @@
 cacheUrl: https://fhrhrj073-crypto.github.io/rssfeed/cache.json
-siteTitle: 我的 AI & 白嫖 資訊聚合
-siteDescription: 每天最新免費模型、OpenClaw 續命、AI 自進化新聞
+siteTitle: AI News & OpenClaw
+siteDescription: AI 新聞、論文、OpenClaw 資訊
 sources:
-  - href: https://openai.com/blog/rss
-  - href: https://blog.google/technology/ai/rss/
-  - href: https://www.deepmind.com/blog/rss.xml
-  - href: https://arxiv.org/rss/cs.LG
+  # RSS - OpenAI & Hugging Face
+  - href: https://openai.com/news/rss.xml
   - href: https://huggingface.co/blog/feed.xml
-  - href: https://github.com/openclaw/openclaw/releases.atom
+  - href: https://papers.takara.ai/api/feed
+  - href: https://zernel.github.io/huggingface-trending-feed/feed.xml
+  
+  # arXiv 論文
+  - href: http://export.arxiv.org/rss/cs.AI
+  - href: http://export.arxiv.org/rss/cs.LG
+  - href: http://export.arxiv.org/rss/cs.CL
+  - href: https://rss.arxiv.org/rss/cs.IR
+  - href: https://rss.arxiv.org/rss/cs.SE
+  - href: https://rss.arxiv.org/rss/cs.PL
+  
+  # Substack
+  - href: https://www.latent.space/feed
+  - href: https://www.interconnects.ai/feed
+  - href: https://importai.substack.com/feed
+  - href: https://www.understandingai.org/feed
+  - href: https://www.aitidbits.ai/feed
+  - href: https://www.ignorance.ai/feed
+  - href: https://thesequence.substack.com/feed
+  - href: https://aiguide.substack.com/feed
+  - href: https://newsletter.artofsaience.com/feed
+  - href: https://www.thealgorithmicbridge.com/feed
+  
+  # YouTube
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCzqyWknLv1yD5GM5D5AsvcSw
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCALJ3jVCPzD4TWxmgbCNJ8A
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCLmG4xI1oHn3xT6I1N4tW2w
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC4ju36NX3uN1L8NytFwSjkg
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC3KfHRX5MlZwI9PFk-G4JZQ
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCrmM4X2L-vq0Llt5eC3I7Gw
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCn7ijqdVsbqy6es7R0s4kOA
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC2uHamL9bElAtNO7j8d9Xvg
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC-kL4VJ9z6zRd6t7l7uC1jA
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCIuKWTx3r4xX6r5XzXvk1Q
