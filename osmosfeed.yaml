@@ -1,6 +1,6 @@
 cacheUrl: https://fhrhrj073-crypto.github.io/rssfeed/cache.json
-siteTitle: AI News & OpenClaw
-siteDescription: AI 新聞、論文、OpenClaw 資訊
+siteTitle: AI News & OpenClaw 大神
+siteDescription: AI 新聞、論文、OpenClaw YouTube 大神
 sources:
   # RSS - OpenAI & Hugging Face
   - href: https://openai.com/news/rss.xml
@@ -28,14 +28,21 @@ sources:
   - href: https://newsletter.artofsaience.com/feed
   - href: https://www.thealgorithmicbridge.com/feed
   
-  # YouTube
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCzqyWknLv1yD5GM5D5AsvcSw
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCALJ3jVCPzD4TWxmgbCNJ8A
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCLmG4xI1oHn3xT6I1N4tW2w
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC4ju36NX3uN1L8NytFwSjkg
+  # OpenClaw YouTube 大神 (20個)
+  # 英文 - 最全面進階
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC4JX40jDee_tINbkjycV4Sg
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCfQNB91qRP_5ILeu_S_bSkg
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCuwpzP90g1LuGk6JUNms_AQ
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCawZsQWqfGSbCI5yjkdVkTA
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC4XKVMQKmVq7xLNHkXqJvMQ
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC3KfHRX5MlZwI9PFk-G4JZQ
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCrmM4X2L-vq0Llt5eC3I7Gw
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCn7ijqdVsbqy6es7R0s4kOA
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCmq5lIl4C6xX3q7N6W6K7jA
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC2uHamL9bElAtNO7j8d9Xvg
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC-kL4VJ9z6zRd6t7l7uC1jA
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCIuKWTx3r4xX6r5XzXvk1Q
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCvK4b80ULXbL0RQGrqd6W6g
+  
+  # 中文 - 台灣/中文創作者
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCcQA-MzQxCvET1S-BekQdAA
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCwew_LjtIVo_MTwHM6ILNog
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC38YXS2v9NWq99MCzXj9vJA
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCZgwgJ1i9ywc2UweRwp09gg
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCTPhGcD_get0sdECVEBYpvw
