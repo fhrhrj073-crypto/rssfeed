@@ -1,33 +1,7 @@
 cacheUrl: https://fhrhrj073-crypto.github.io/rssfeed/cache.json
-siteTitle: AI News & OpenClaw 大神
-siteDescription: AI 新聞、論文、OpenClaw YouTube 大神
+siteTitle: OpenClaw YouTube 大神
+siteDescription: 讓 OpenClaw 自己學習越變越強
 sources:
-  # RSS - OpenAI & Hugging Face
-  - href: https://openai.com/news/rss.xml
-  - href: https://huggingface.co/blog/feed.xml
-  - href: https://papers.takara.ai/api/feed
-  - href: https://zernel.github.io/huggingface-trending-feed/feed.xml
-  
-  # arXiv 論文
-  - href: http://export.arxiv.org/rss/cs.AI
-  - href: http://export.arxiv.org/rss/cs.LG
-  - href: http://export.arxiv.org/rss/cs.CL
-  - href: https://rss.arxiv.org/rss/cs.IR
-  - href: https://rss.arxiv.org/rss/cs.SE
-  - href: https://rss.arxiv.org/rss/cs.PL
-  
-  # Substack
-  - href: https://www.latent.space/feed
-  - href: https://www.interconnects.ai/feed
-  - href: https://importai.substack.com/feed
-  - href: https://www.understandingai.org/feed
-  - href: https://www.aitidbits.ai/feed
-  - href: https://www.ignorance.ai/feed
-  - href: https://thesequence.substack.com/feed
-  - href: https://aiguide.substack.com/feed
-  - href: https://newsletter.artofsaience.com/feed
-  - href: https://www.thealgorithmicbridge.com/feed
-  
   # OpenClaw YouTube 大神 (20個)
   # 英文 - 最全面進階
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC4JX40jDee_tINbkjycV4Sg
