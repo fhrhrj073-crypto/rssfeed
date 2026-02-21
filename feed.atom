@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-02-20T19:23:49.103Z</updated>
+    <updated>2026-02-21T00:55:25.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google just dropped Gemini 3.1... (WOAH)]]></title>
+        <id>https://www.youtube.com/watch?v=W5dlgzluems</id>
+        <link href="https://www.youtube.com/watch?v=W5dlgzluems"/>
+        <updated>2026-02-20T20:02:30.000Z</updated>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini 3.1 Pro Simulations 👀]]></title>
+        <id>https://www.youtube.com/shorts/A4_MUgnS6rw</id>
+        <link href="https://www.youtube.com/shorts/A4_MUgnS6rw"/>
+        <updated>2026-02-20T19:47:26.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Donkeys, Not Unicorns]]></title>
         <id>https://towardsdatascience.com/?p=608422</id>
@@ -1665,15 +1684,6 @@ The post AI in Multiple GPUs: Point-to-Point and Collective Operations appeared 
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Dr. Jackei 科技生活日誌</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「中翻」馬斯克是如何管理 xAI的？前工程師 Sulaiman Ghori 爆料完整訪談]]></title>
-        <id>https://www.youtube.com/watch?v=VF-uy0r1QxQ</id>
-        <link href="https://www.youtube.com/watch?v=VF-uy0r1QxQ"/>
-        <updated>2026-01-22T12:08:00.000Z</updated>
-        <author>
-            <name>電腦王阿達</name>
         </author>
     </entry>
 </feed>
