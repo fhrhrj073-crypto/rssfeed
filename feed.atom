@@ -2,10 +2,130 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-02-22T00:58:42.005Z</updated>
+    <updated>2026-02-23T00:59:17.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[😸 Learn how to automate your emails]]></title>
+        <id>https://www.theneuron.ai/newsletter/learn-how-to-automate-your-emails/</id>
+        <link href="https://www.theneuron.ai/newsletter/learn-how-to-automate-your-emails/"/>
+        <updated>2026-02-22T19:31:27.130Z</updated>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Complete Guide to Making Claude Code Work For You (Even While You Sleep)]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/claude-code-automations-complete-guide/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/claude-code-automations-complete-guide/"/>
+        <updated>2026-02-22T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Claude Code can now run specialized AI workers, automate recurring tasks, and handle your Monday morning busywork before you wake up. Here's everything it can do, how to set it up, and the engineering trick that makes it all affordable.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make Claude Code Do Your Boring Tasks on Autopilot]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/claude-code-recurring-automations-tutorial/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/claude-code-recurring-automations-tutorial/"/>
+        <updated>2026-02-22T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[You can now schedule Claude Code to handle recurring tasks automatically, from checking urgent emails to prepping client meetings. Here's exactly how to set it up, whether you're technical or not.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI's Codex App Is a Command Center for AI Agents. Here's How It Works (And How OpenAI Actually Uses It).]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/openai-codex-app-deep-dive-how-it-works/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/openai-codex-app-deep-dive-how-it-works/"/>
+        <updated>2026-02-22T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Codex app hit 1 million downloads in its first week, got a Super Bowl ad, and made GUIs cool again for developers. We break down everything inside OpenAI's "command center for agents," plus behind-the-scenes insights from the team that built it.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SaaS Isn’t Dead🏗️, Anthropic Runs Your Business for $0.30 🤖, Founder Salaries Rise Slowly Despite AI Billions💰]]></title>
+        <id>https://www.thevccorner.com/p/saas-isnt-dead-anthropic-runs-your</id>
+        <link href="https://www.thevccorner.com/p/saas-isnt-dead-anthropic-runs-your"/>
+        <updated>2026-02-22T16:53:16.000Z</updated>
+        <summary type="html"><![CDATA[Another week, another pulse check on venture.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Reality of Vibe Coding: AI Agents and the Security Debt Crisis]]></title>
+        <id>https://towardsdatascience.com/?p=608429</id>
+        <link href="https://towardsdatascience.com/the-reality-of-vibe-coding-ai-agents-and-the-security-debt-crisis/"/>
+        <updated>2026-02-22T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why optimizing for speed over safety is leaving applications vulnerable, and how to fix it.
+The post The Reality of Vibe Coding: AI Agents and the Security Debt Crisis appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Reya Vir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 OpenClaw use cases that will make you a productivity MACHINE]]></title>
+        <id>https://www.youtube.com/watch?v=XeTgMEapbag</id>
+        <link href="https://www.youtube.com/watch?v=XeTgMEapbag"/>
+        <updated>2026-02-22T14:45:03.000Z</updated>
+        <author>
+            <name>Alex Finn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code Killer Is Here — And It’s Open Source]]></title>
+        <id>https://medium.com/p/9c6e07387fb3</id>
+        <link href="https://generativeai.pub/claude-code-killer-is-here-and-its-open-source-9c6e07387fb3?source=rss----440100e76000---4"/>
+        <updated>2026-02-22T10:17:02.000Z</updated>
+        <summary type="html"><![CDATA[I tried this open-source CLI tool…
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Deep concept</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Every Claude Code Tutorial Teaches You the Same 5 Things. None of Them Matter in Production.]]></title>
+        <id>https://medium.com/p/76fde74239ca</id>
+        <link href="https://generativeai.pub/every-claude-code-tutorial-teaches-you-the-same-5-things-none-of-them-matter-in-production-76fde74239ca?source=rss----440100e76000---4"/>
+        <updated>2026-02-22T10:12:19.000Z</updated>
+        <summary type="html"><![CDATA[CLAUDE.md, slash commands, multi-Claude worktrees, headless mode, “think hard.” Every Claude Code tutorial covers the same checklist. I…
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Phil | Rentier Digital Automation</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The US Is Building Cathedrals. China Is Building Cities.]]></title>
+        <id>https://medium.com/p/6b27f65fe8b4</id>
+        <link href="https://generativeai.pub/the-us-is-building-cathedrals-china-is-building-cities-6b27f65fe8b4?source=rss----440100e76000---4"/>
+        <updated>2026-02-22T10:12:01.000Z</updated>
+        <summary type="html"><![CDATA[While the West debates regulation, China deploys. The Qwen 3.5, GLM-5, and SeeDance 2.0 releases prove the AI world is splitting. Here’s…
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>MohamedAbdelmenem</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sam and Dario wants you to think your job is gone so they can borrow another billion]]></title>
+        <id>https://medium.com/p/6dd32bebbedd</id>
+        <link href="https://generativeai.pub/sam-and-dario-wants-you-to-think-your-job-is-gone-so-they-can-borrow-another-billion-6dd32bebbedd?source=rss----440100e76000---4"/>
+        <updated>2026-02-22T10:11:34.000Z</updated>
+        <author>
+            <name>Marco van Hurne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Widening AI Accountability Gap]]></title>
+        <id>https://medium.com/p/dbb3cc69b1a8</id>
+        <link href="https://generativeai.pub/the-widening-ai-accountability-gap-dbb3cc69b1a8?source=rss----440100e76000---4"/>
+        <updated>2026-02-22T10:10:35.000Z</updated>
+        <author>
+            <name>Chris Rand</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Should you learn Python as a beginner?🤔]]></title>
         <id>https://www.youtube.com/shorts/U72snoggHGw</id>

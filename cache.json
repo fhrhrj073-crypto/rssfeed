@@ -193,6 +193,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfQNB91qRP_5ILeu_S_bSkg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=XeTgMEapbag",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=XeTgMEapbag",
+          "publishedOn": "2026-02-22T14:45:03.000Z",
+          "wordCount": null,
+          "title": "5 OpenClaw use cases that will make you a productivity MACHINE",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=P4jryx4ek0c",
           "author": null,
           "description": "",
@@ -1281,6 +1291,22 @@
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
         {
+          "id": "https://www.thevccorner.com/p/saas-isnt-dead-anthropic-runs-your",
+          "author": "Ruben Dominguez",
+          "description": "Another week, another pulse check on venture.",
+          "link": "https://www.thevccorner.com/p/saas-isnt-dead-anthropic-runs-your",
+          "publishedOn": "2026-02-22T16:53:16.000Z",
+          "wordCount": null,
+          "title": "SaaS Isn’t Dead🏗️, Anthropic Runs Your Business for $0.30 🤖, Founder Salaries Rise Slowly Despite AI Billions💰",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!wQLd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8ea0e1cb-3559-436f-8043-c259caa13c75_1999x1125.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!wQLd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8ea0e1cb-3559-436f-8043-c259caa13c75_1999x1125.webp"
+        },
+        {
           "id": "https://www.thevccorner.com/p/why-too-much-startup-funding-leads-to-failure",
           "author": "Ruben Dominguez",
           "description": "Big checks early feel like validation, but history shows they often accelerate failure. Here’s why too much capital too soon can be a curse, not a blessing.",
@@ -1608,6 +1634,46 @@
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
         {
+          "id": "https://www.theneuron.ai/newsletter/learn-how-to-automate-your-emails/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/learn-how-to-automate-your-emails/",
+          "publishedOn": "2026-02-22T19:31:27.130Z",
+          "wordCount": null,
+          "title": "😸 Learn how to automate your emails",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/claude-code-automations-complete-guide/",
+          "author": null,
+          "description": "Claude Code can now run specialized AI workers, automate recurring tasks, and handle your Monday morning busywork before you wake up. Here's everything it can do, how to set it up, and the engineering trick that makes it all affordable.",
+          "link": "https://www.theneuron.ai/explainer-articles/claude-code-automations-complete-guide/",
+          "publishedOn": "2026-02-22T19:30:00.000Z",
+          "wordCount": null,
+          "title": "The Complete Guide to Making Claude Code Work For You (Even While You Sleep)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/claude-code-recurring-automations-tutorial/",
+          "author": null,
+          "description": "You can now schedule Claude Code to handle recurring tasks automatically, from checking urgent emails to prepping client meetings. Here's exactly how to set it up, whether you're technical or not.",
+          "link": "https://www.theneuron.ai/explainer-articles/claude-code-recurring-automations-tutorial/",
+          "publishedOn": "2026-02-22T18:30:00.000Z",
+          "wordCount": null,
+          "title": "How to Make Claude Code Do Your Boring Tasks on Autopilot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/openai-codex-app-deep-dive-how-it-works/",
+          "author": null,
+          "description": "The Codex app hit 1 million downloads in its first week, got a Super Bowl ad, and made GUIs cool again for developers. We break down everything inside OpenAI's \"command center for agents,\" plus behind-the-scenes insights from the team that built it.",
+          "link": "https://www.theneuron.ai/explainer-articles/openai-codex-app-deep-dive-how-it-works/",
+          "publishedOn": "2026-02-22T18:00:00.000Z",
+          "wordCount": null,
+          "title": "OpenAI's Codex App Is a Command Center for AI Agents. Here's How It Works (And How OpenAI Actually Uses It).",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theneuron.ai/explainer-articles/claude-code-guide-how-to-use-it%20/",
           "author": null,
           "description": "We watched 7 videos from Claude Code's creator and top power users, then organized every insight into one guide that takes you from zero to running an army of AI agents.",
@@ -1724,6 +1790,16 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=608429",
+          "author": "Reya Vir",
+          "description": "Why optimizing for speed over safety is leaving applications vulnerable, and how to fix it.\nThe post The Reality of Vibe Coding: AI Agents and the Security Debt Crisis appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-reality-of-vibe-coding-ai-agents-and-the-security-debt-crisis/",
+          "publishedOn": "2026-02-22T15:00:00.000Z",
+          "wordCount": 3843,
+          "title": "The Reality of Vibe Coding: AI Agents and the Security Debt Crisis",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/lucid-origin_Modern_flat_vector_illustration_of_AI_coding_while_security_shields_around_an_ap-0.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=608427",
           "author": "Joe Sasson",
@@ -2097,6 +2173,56 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/9c6e07387fb3",
+          "author": "Deep concept",
+          "description": "I tried this open-source CLI tool…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/claude-code-killer-is-here-and-its-open-source-9c6e07387fb3?source=rss----440100e76000---4",
+          "publishedOn": "2026-02-22T10:17:02.000Z",
+          "wordCount": null,
+          "title": "Claude Code Killer Is Here — And It’s Open Source",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/76fde74239ca",
+          "author": "Phil | Rentier Digital Automation",
+          "description": "CLAUDE.md, slash commands, multi-Claude worktrees, headless mode, “think hard.” Every Claude Code tutorial covers the same checklist. I…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/every-claude-code-tutorial-teaches-you-the-same-5-things-none-of-them-matter-in-production-76fde74239ca?source=rss----440100e76000---4",
+          "publishedOn": "2026-02-22T10:12:19.000Z",
+          "wordCount": null,
+          "title": "Every Claude Code Tutorial Teaches You the Same 5 Things. None of Them Matter in Production.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6b27f65fe8b4",
+          "author": "MohamedAbdelmenem",
+          "description": "While the West debates regulation, China deploys. The Qwen 3.5, GLM-5, and SeeDance 2.0 releases prove the AI world is splitting. Here’s…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/the-us-is-building-cathedrals-china-is-building-cities-6b27f65fe8b4?source=rss----440100e76000---4",
+          "publishedOn": "2026-02-22T10:12:01.000Z",
+          "wordCount": null,
+          "title": "The US Is Building Cathedrals. China Is Building Cities.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6dd32bebbedd",
+          "author": "Marco van Hurne",
+          "description": "",
+          "link": "https://generativeai.pub/sam-and-dario-wants-you-to-think-your-job-is-gone-so-they-can-borrow-another-billion-6dd32bebbedd?source=rss----440100e76000---4",
+          "publishedOn": "2026-02-22T10:11:34.000Z",
+          "wordCount": null,
+          "title": "Sam and Dario wants you to think your job is gone so they can borrow another billion",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/dbb3cc69b1a8",
+          "author": "Chris Rand",
+          "description": "",
+          "link": "https://generativeai.pub/the-widening-ai-accountability-gap-dbb3cc69b1a8?source=rss----440100e76000---4",
+          "publishedOn": "2026-02-22T10:10:35.000Z",
+          "wordCount": null,
+          "title": "The Widening AI Accountability Gap",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/1449f532522e",
           "author": "Jim Clyde Monge",
