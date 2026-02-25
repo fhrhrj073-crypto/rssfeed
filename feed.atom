@@ -2,10 +2,284 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-02-24T00:57:15.629Z</updated>
+    <updated>2026-02-25T01:03:07.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[25 ADVANCED Use Cases For OpenClaw...]]></title>
+        <id>https://www.youtube.com/watch?v=3110hx3ygp0</id>
+        <link href="https://www.youtube.com/watch?v=3110hx3ygp0"/>
+        <updated>2026-02-24T23:59:50.000Z</updated>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Set up a multi-agent team using OpenClaw in Discord]]></title>
+        <id>https://www.youtube.com/watch?v=vxpuLIA17q4</id>
+        <link href="https://www.youtube.com/watch?v=vxpuLIA17q4"/>
+        <updated>2026-02-24T22:33:59.000Z</updated>
+        <author>
+            <name>Alex Finn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Every Major AI Model Works the Same Way. These Two Startups Are Betting That's a Mistake.]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/diffusion-energy-based-models-mercury-2-kona-beyond-autoregressive-ai/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/diffusion-energy-based-models-mercury-2-kona-beyond-autoregressive-ai/"/>
+        <updated>2026-02-24T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Inception's Mercury 2 and Logical Intelligence's Kona both reject the token-by-token approach powering ChatGPT, Claude, and Gemini. One is 10x faster. The other is 50x more accurate on reasoning. Here's why it matters.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do you know it?🤔 Comment below.]]></title>
+        <id>https://www.youtube.com/shorts/XnWRQEyMXcA</id>
+        <link href="https://www.youtube.com/shorts/XnWRQEyMXcA"/>
+        <updated>2026-02-24T20:38:26.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing Token Generation in PyTorch Decoder Models]]></title>
+        <id>https://towardsdatascience.com/?p=608450</id>
+        <link href="https://towardsdatascience.com/optimizing-token-generation-in-pytorch-decoder-models/"/>
+        <updated>2026-02-24T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hiding host-device synchronization via CUDA stream interleaving
+The post Optimizing Token Generation in PyTorch Decoder Models appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Chaim Rand</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decisioning at the Edge: Policy Matching at Scale]]></title>
+        <id>https://towardsdatascience.com/?p=608448</id>
+        <link href="https://towardsdatascience.com/decisioning-at-the-edge-policy-matching-at-scale/"/>
+        <updated>2026-02-24T19:22:15.000Z</updated>
+        <summary type="html"><![CDATA[Policy-to-Agency Optimization with PuLP
+The post Decisioning at the Edge: Policy Matching at Scale appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Erika Gomes-Gonçalves</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inception’s Mercury 2: The First Reasoning Diffusion Model]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/inceptions-mercury-2-the-first-reasoning-diffusion-model/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/inceptions-mercury-2-the-first-reasoning-diffusion-model/"/>
+        <updated>2026-02-24T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mercury 2 is the first reasoning diffusion LLM, and it claims to complete reasoning tasks 5x faster than speed-optimized autoregressive models like Claude 4.5 Haiku and GPT-5.2 Mini. Instead of generating text one token at a time, it refines outputs in parallel, shifting the speed–quality curve at the modeling level.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenClaw Fast Reasoning Model Cost Comparison: GPT-5 Mini vs Mercury 2 vs Claude Haiku 4.5]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/openclaw-fast-reasoning-model-cost-comparison-gpt-5-mini-vs-mercury-2-vs-claude-haiku-45/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/openclaw-fast-reasoning-model-cost-comparison-gpt-5-mini-vs-mercury-2-vs-claude-haiku-45/"/>
+        <updated>2026-02-24T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Choosing the right fast reasoning model isn’t just about benchmarks, it’s about token shape. We break down Mercury 2, GPT-5 mini, and Claude 4.5 Haiku across classification, summarization, and agent workflows to see which one actually minimizes token spend. The winner depends on whether your system reads more than it writes, how often you hit cache, and how much output you generate per call.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA’s Blackwell Ultra Signals the Efficiency Era of AI Infrastructure]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/nvidia-blackwell-ultra-gb300-agentic-ai-performance/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/nvidia-blackwell-ultra-gb300-agentic-ai-performance/"/>
+        <updated>2026-02-24T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIA’s Blackwell Ultra platform claims up to 50x higher throughput per megawatt and 35x lower cost per token compared to Hopper. With cloud providers deploying GB300 NVL72 systems for agentic coding and long-context AI, inference efficiency is becoming the new competitive battlefield.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ways to use ai]]></title>
+        <id>https://www.youtube.com/shorts/mI1d1WqIQWQ</id>
+        <link href="https://www.youtube.com/shorts/mI1d1WqIQWQ"/>
+        <updated>2026-02-24T16:18:02.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use AI for your next job interview]]></title>
+        <id>https://www.lennysnewsletter.com/p/how-to-use-ai-in-your-next-job-interview</id>
+        <link href="https://www.lennysnewsletter.com/p/how-to-use-ai-in-your-next-job-interview"/>
+        <updated>2026-02-24T13:45:06.000Z</updated>
+        <summary type="html"><![CDATA[Insights from 30+ tech professionals, and a free AI coach to put them into practice]]></summary>
+        <author>
+            <name>Noam Segal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing Deep Learning Models with SAM]]></title>
+        <id>https://towardsdatascience.com/?p=608446</id>
+        <link href="https://towardsdatascience.com/optimizing-deep-learning-models-with-sam/"/>
+        <updated>2026-02-24T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A deep dive into the Sharpness-Aware-Minimization (SAM) algorithm and how it improves the generalizability of modern deep learning models
+The post Optimizing Deep Learning Models with SAM appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Anindya Dey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use AI for your next job interview]]></title>
+        <id>https://www.lennysnewsletter.com/p/how-to-use-ai-for-your-next-job-interview</id>
+        <link href="https://www.lennysnewsletter.com/p/how-to-use-ai-for-your-next-job-interview"/>
+        <updated>2026-02-24T13:03:23.000Z</updated>
+        <summary type="html"><![CDATA[Insights from 30+ tech professionals, and a free AI coach to put them into practice]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How complexity accumulates]]></title>
+        <id>https://medium.com/p/e222182a67f5</id>
+        <link href="https://uxdesign.cc/how-complexity-accumulates-e222182a67f5?source=rss----138adf9c44c---4"/>
+        <updated>2026-02-24T12:33:11.000Z</updated>
+        <author>
+            <name>Michael Parent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Being an AI-native designer isn’t what you think it is]]></title>
+        <id>https://medium.com/p/dae1d03e68f5</id>
+        <link href="https://uxdesign.cc/being-an-ai-native-designer-isnt-what-you-think-it-is-dae1d03e68f5?source=rss----138adf9c44c---4"/>
+        <updated>2026-02-24T12:33:09.000Z</updated>
+        <summary type="html"><![CDATA[What 28 design leaders have said AI-native design really is
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Kai Wong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic's 2022 Pitch Deck Just Leaked]]></title>
+        <id>https://www.thevccorner.com/p/anthropic-2022-pitch-deck-leaked</id>
+        <link href="https://www.thevccorner.com/p/anthropic-2022-pitch-deck-leaked"/>
+        <updated>2026-02-24T12:14:36.000Z</updated>
+        <summary type="html"><![CDATA[10 slides. No product. FTX money. Now worth $380B.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 Anthropic caught 24,000 spies]]></title>
+        <id>https://www.theneuron.ai/newsletter/anthropic-caught-24-000-spies/</id>
+        <link href="https://www.theneuron.ai/newsletter/anthropic-caught-24-000-spies/"/>
+        <updated>2026-02-24T12:03:26.011Z</updated>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The End of Static Security: Aikido Security and the Dawn of Self-Securing Software]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/the-end-of-static-security-aikido-security-and-the-dawn-of-self-securing-software/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/the-end-of-static-security-aikido-security-and-the-dawn-of-self-securing-software/"/>
+        <updated>2026-02-24T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In an era where AI-powered hackers move at machine speed, traditional security can’t keep up. Aikido Security Cofounder Roeland Delrue explains how their new "Aikido Infinite" platform closes the "patch gap" by transforming security from a static audit into a continuous, autonomous loop of discovery and remediation.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Bots Formed a Cartel. No One Told Them To.]]></title>
+        <id>https://towardsdatascience.com/?p=608443</id>
+        <link href="https://towardsdatascience.com/ai-bots-formed-a-cartel-no-one-told-them-to/"/>
+        <updated>2026-02-24T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Inside the research that shows algorithmic price-fixing isn't a bug in the code. It's a feature of the math.
+The post AI Bots Formed a Cartel. No One Told Them To. appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Kaushik Rajan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SECURE OpenClaw Setup Guide (ClawdBot Tutorial)]]></title>
+        <id>https://www.youtube.com/watch?v=YCD2FSvj35I</id>
+        <link href="https://www.youtube.com/watch?v=YCD2FSvj35I"/>
+        <updated>2026-02-24T11:13:38.000Z</updated>
+        <author>
+            <name>Metics Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Around the Horn Digest: Everything That Happened in AI This Week (Feb 23-28, 2026)]]></title>
+        <id>https://www.theneuron.ai/ai-news-digests/around-the-horn-digest-everything-that-happened-in-ai-this-week-feb-23-28-2026/</id>
+        <link href="https://www.theneuron.ai/ai-news-digests/around-the-horn-digest-everything-that-happened-in-ai-this-week-feb-23-28-2026/"/>
+        <updated>2026-02-24T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From IBM's stock crash on COBOL fears to AI wargames going nuclear to GPT-5.3 leaks, here's every story we tracked this week.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Machines to Speak Human: Inside the World of Natural Language Processing]]></title>
+        <id>https://medium.com/p/aa453add9da6</id>
+        <link href="https://generativeai.pub/teaching-machines-to-speak-human-inside-the-world-of-natural-language-processing-aa453add9da6?source=rss----440100e76000---4"/>
+        <updated>2026-02-24T03:02:11.000Z</updated>
+        <summary type="html"><![CDATA[From rule-based systems to powerful AI models like transformers, explore how NLP evolved to decode human language, power chatbots, analyze…
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Hayanan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The CTO’s Context Dilemma]]></title>
+        <id>https://medium.com/p/bf03d3096117</id>
+        <link href="https://generativeai.pub/the-ctos-context-dilemma-bf03d3096117?source=rss----440100e76000---4"/>
+        <updated>2026-02-24T03:01:20.000Z</updated>
+        <summary type="html"><![CDATA[Here’s the 7-dimension framework for the decision most teams are getting wrong - plus a ready-to-use scoring template and 3 AI prompts to…
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Kapil Viren Ahuja</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poker Made an AI Better at Math]]></title>
+        <id>https://medium.com/p/6816781090fd</id>
+        <link href="https://generativeai.pub/poker-made-an-ai-better-at-math-6816781090fd?source=rss----440100e76000---4"/>
+        <updated>2026-02-24T02:59:53.000Z</updated>
+        <summary type="html"><![CDATA[A three-card game with no mathematical content produced an 18% jump in math benchmarks. The implications are larger than the numbers.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Kaushik Rajan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three AI Models Launched in 16 Days. Software Stocks Lost $800 Billion.]]></title>
+        <id>https://medium.com/p/88e8da626bb1</id>
+        <link href="https://generativeai.pub/three-ai-models-launched-in-16-days-software-stocks-lost-800-billion-88e8da626bb1?source=rss----440100e76000---4"/>
+        <updated>2026-02-24T02:59:29.000Z</updated>
+        <summary type="html"><![CDATA[GPT-5.3-Codex, Claude Sonnet 4.6, and Gemini 3.1 Pro aren’t just competing with each other. They’re dismantling the SaaS business model in…
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Ahmed M. Abdelfattah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Killed the Soul of the World’s Favorite Language-Learning App]]></title>
+        <id>https://medium.com/p/3ad9750232df</id>
+        <link href="https://generativeai.pub/how-ai-killed-the-soul-of-the-worlds-favorite-language-learning-app-3ad9750232df?source=rss----440100e76000---4"/>
+        <updated>2026-02-24T02:57:08.000Z</updated>
+        <summary type="html"><![CDATA[A look at Duolingo’s user-(retention)-centered approach.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Tarek Gara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karpathy’s MicroGPT: A Complete Code Walkthrough of GPT in 243 Lines of Pure Python]]></title>
+        <id>https://medium.com/p/d0f55fdded64</id>
+        <link href="https://generativeai.pub/karpathys-microgpt-a-complete-code-walkthrough-of-gpt-in-243-lines-of-pure-python-d0f55fdded64?source=rss----440100e76000---4"/>
+        <updated>2026-02-24T02:56:46.000Z</updated>
+        <author>
+            <name>The Dev Suite</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Three ways to spot a deepfake]]></title>
         <id>https://www.youtube.com/shorts/v47uzWSn9Vw</id>
@@ -2095,15 +2369,6 @@ The post AI in Multiple GPUs: Point-to-Point and Collective Operations appeared 
         <updated>2026-01-26T17:36:39.000Z</updated>
         <author>
             <name>電腦王阿達</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shopify Tutorial for Beginners 2026 - Step by Step]]></title>
-        <id>https://www.youtube.com/watch?v=_p7hoAdVv3g</id>
-        <link href="https://www.youtube.com/watch?v=_p7hoAdVv3g"/>
-        <updated>2026-01-26T12:00:59.000Z</updated>
-        <author>
-            <name>Metics Media</name>
         </author>
     </entry>
 </feed>
