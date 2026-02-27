@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=rmenKCClYUs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rmenKCClYUs",
+          "publishedOn": "2026-02-26T10:21:18.000Z",
+          "wordCount": null,
+          "title": "10 Python one liners you’ll actually use",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/bT86YM-quxg",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
@@ -588,16 +598,6 @@
           "wordCount": null,
           "title": "How to Start an LLC with Northwest Registered Agent (2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=CLutx-rqGgc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=CLutx-rqGgc",
-          "publishedOn": "2026-01-28T12:00:20.000Z",
-          "wordCount": null,
-          "title": "Make.com Tutorial for Beginners 2026 (Full Guide)",
-          "imageUrl": null
         }
       ]
     },
@@ -606,6 +606,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCawZsQWqfGSbCI5yjkdVkTA",
       "siteUrl": "https://www.youtube.com/channel/UCawZsQWqfGSbCI5yjkdVkTA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/HNGVhlfWlyU",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/HNGVhlfWlyU",
+          "publishedOn": "2026-02-26T20:53:19.000Z",
+          "wordCount": 2012,
+          "title": "future gyms",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/KVSdEJyQc9M",
           "author": null,
@@ -921,6 +931,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCwew_LjtIVo_MTwHM6ILNog",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=9pn9-yAyjFA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=9pn9-yAyjFA",
+          "publishedOn": "2026-02-26T06:58:07.000Z",
+          "wordCount": null,
+          "title": "OpenClaw 太強了，幾個月前說的決定，它附日期附來源全找回來了｜三層記憶系統完整公開",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=OB6o29I78rY",
           "author": null,
           "description": "",
@@ -1053,22 +1073,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!O-pO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff77c79c7-9fb2-4cd0-b075-a6201a212a6c_1456x816.png"
-        },
-        {
-          "id": "https://www.oneusefulthing.org/p/management-as-ai-superpower",
-          "author": "Ethan Mollick",
-          "description": "Thriving in a world of agents",
-          "link": "https://www.oneusefulthing.org/p/management-as-ai-superpower",
-          "publishedOn": "2026-01-27T16:55:55.000Z",
-          "wordCount": null,
-          "title": "Management as AI superpower",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!ml-7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6cbe84ef-5e39-49bb-a6e8-4d427d42b54e_2496x1696.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!ml-7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6cbe84ef-5e39-49bb-a6e8-4d427d42b54e_2496x1696.jpeg"
         }
       ]
     },
@@ -1077,6 +1081,22 @@
       "feedUrl": "https://www.lennysnewsletter.com/feed",
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
+        {
+          "id": "https://www.lennysnewsletter.com/p/ai-is-critical-for-humanitys-survival",
+          "author": "Lenny Rachitsky",
+          "description": "Listen now (87 mins) | Jeetu Patel on going all-in on AI, why most big companies hedge when they should double down, and why he can’t do his job without AI",
+          "link": "https://www.lennysnewsletter.com/p/ai-is-critical-for-humanitys-survival",
+          "publishedOn": "2026-02-26T13:31:32.000Z",
+          "wordCount": null,
+          "title": "AI is critical for humanity’s survival: Cisco president on the AI revolution | Jeetu Patel",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/187580003/a9bf93d97a8b7d39f87910ef716247af.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://www.lennysnewsletter.com/p/5-openclaw-agents-run-my-home-finances",
           "author": "Claire Vo",
@@ -1501,6 +1521,22 @@
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
         {
+          "id": "https://www.thevccorner.com/p/lean-revenue-dashboard-for-startups",
+          "author": "Ruben Dominguez",
+          "description": "A compact, practical model for tracking MRR, retention, and customer momentum, all without a full finance team.",
+          "link": "https://www.thevccorner.com/p/lean-revenue-dashboard-for-startups",
+          "publishedOn": "2026-02-26T17:53:49.000Z",
+          "wordCount": null,
+          "title": "The Lean Revenue Model Every Startup Needs",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!F1EM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fea9aba7d-66d3-42b7-aa4a-8650d620c243_1408x720.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!F1EM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fea9aba7d-66d3-42b7-aa4a-8650d620c243_1408x720.png"
+        },
+        {
           "id": "https://www.thevccorner.com/p/alex-karp-palantir-500b-interview-lessons",
           "author": "Ruben Dominguez",
           "description": "The CEO who ignored Silicon Valley for 20 years and gave venture returns to retail investors",
@@ -1892,6 +1928,36 @@
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
         {
+          "id": "https://www.theneuron.ai/explainer-articles/quick-cut-in-adobe-firefly-ai-video-editing-for-faster-first-cuts/",
+          "author": null,
+          "description": "Adobe has introduced Quick Cut (beta) inside Firefly, an AI-powered feature that automatically assembles uploaded or generated clips into a structured first draft. By identifying key moments in interviews and organizing B-roll, Quick Cut helps creators move past the blank timeline and get to story-ready edits faster—ideal for social videos, product demos, and high-volume content.",
+          "link": "https://www.theneuron.ai/explainer-articles/quick-cut-in-adobe-firefly-ai-video-editing-for-faster-first-cuts/",
+          "publishedOn": "2026-02-26T13:50:10.033Z",
+          "wordCount": null,
+          "title": "Quick Cut in Adobe Firefly: AI Video Editing for Faster First Cuts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/newsletter/perplexity-computer-cloudclaw/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/perplexity-computer-cloudclaw/",
+          "publishedOn": "2026-02-26T13:33:27.326Z",
+          "wordCount": null,
+          "title": "😸 Perplexity Computer = CloudClaw?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/perplexity-wants-to-replace-your-computer-with-19-ais/",
+          "author": null,
+          "description": "Perplexity just launched \"Computer,\" a system that orchestrates 19 specialized AI models to handle entire projects end-to-end. Here's what it does, how it works, and why it matters.",
+          "link": "https://www.theneuron.ai/explainer-articles/perplexity-wants-to-replace-your-computer-with-19-ais/",
+          "publishedOn": "2026-02-26T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Perplexity Wants to Replace Your Computer With 19 AIs",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theneuron.ai/newsletter/diffusion-models-are-coming-for-text-at-0-80-per-million-flat/",
           "author": null,
           "description": "",
@@ -2138,6 +2204,46 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=608357",
+          "author": "TDS Editors",
+          "description": "A system-level perspective on architecture, agents, and responsible scale\nThe post Designing Data and AI Systems That Hold Up in Production appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/designing-data-and-ai-systems-that-hold-up-in-production/",
+          "publishedOn": "2026-02-26T16:30:00.000Z",
+          "wordCount": 4167,
+          "title": "Designing Data and AI Systems That Hold Up in Production",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/Mike-Author-Spotlight.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608465",
+          "author": "Alexander Levin",
+          "description": "Part 1. Hybrid Solution for Dynamic Vehicle Routing — Context and Architecture\nThe post A Generalizable MARL-LP Approach for Scheduling in Logistics appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/generalizable-marl-lp-approach-for-scheduling-in-logistics/",
+          "publishedOn": "2026-02-26T15:00:00.000Z",
+          "wordCount": 6201,
+          "title": "A Generalizable MARL-LP Approach for Scheduling in Logistics",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/image-175.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608461",
+          "author": "Laurent Picard",
+          "description": "A practical guide to identifying, restoring, and transforming elements within your images\nThe post Detecting and Editing Visual Objects with Gemini appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/detecting-and-editing-visual-objects-with-gemini/",
+          "publishedOn": "2026-02-26T13:30:00.000Z",
+          "wordCount": 10342,
+          "title": "Detecting and Editing Visual Objects with Gemini",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/cover_image_-1.gif"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608463",
+          "author": "Salvatore Cagliari",
+          "description": "Have you ever wondered what happens when you apply a filter in a DAX expression? Well, Today I will take you on a deep dive into this fascinating topic, with examples to help you learn something new and surprising.\nThe post Take a Deep Dive into Filtering in DAX appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/take-a-deep-dive-into-filtering-in-dax/",
+          "publishedOn": "2026-02-26T12:00:00.000Z",
+          "wordCount": 5656,
+          "title": "Take a Deep Dive into Filtering in DAX",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/nathan-dumlao-eksqjXTLpak-unsplash-scaled-1.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=608459",
           "author": "Kenneth Leung",
@@ -2491,6 +2597,46 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/b8e8602eddaa",
+          "author": "Josh LaMar",
+          "description": "",
+          "link": "https://uxdesign.cc/the-ux-of-survival-in-the-age-of-ai-deepfakes-b8e8602eddaa?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-02-26T23:53:58.000Z",
+          "wordCount": null,
+          "title": "The UX of survival in the age of AI deepfakes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f3dad8ab37a8",
+          "author": "Nate Sowder",
+          "description": "",
+          "link": "https://uxdesign.cc/dear-diary-youre-the-last-good-listener-f3dad8ab37a8?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-02-26T21:26:46.000Z",
+          "wordCount": null,
+          "title": "Dear diary, you’re the last good listener",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5ef8e53a4673",
+          "author": "Dora Czerna",
+          "description": "",
+          "link": "https://uxdesign.cc/breaking-the-echo-chamber-in-your-interface-5ef8e53a4673?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-02-26T11:53:22.000Z",
+          "wordCount": null,
+          "title": "Breaking the echo chamber in your interface",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f7f556cb8125",
+          "author": "Tony Beltramelli",
+          "description": "",
+          "link": "https://uxdesign.cc/your-users-arent-human-anymore-start-building-for-agents-today-f7f556cb8125?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-02-26T11:52:24.000Z",
+          "wordCount": null,
+          "title": "Your users aren’t human anymore; start building for agents today",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/6c8a0059ed0e",
           "author": "Angele Lenglemetz",
