@@ -2,10 +2,211 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-03-03T00:59:39.141Z</updated>
+    <updated>2026-03-04T00:56:16.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Great AI Slimdown: OpenAI, Google, and Alibaba Shift to Speed and Scale]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/the-great-ai-slimdown-openai-google-alibaba-shift-to-speed-scale/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/the-great-ai-slimdown-openai-google-alibaba-shift-to-speed-scale/"/>
+        <updated>2026-03-03T23:18:41.113Z</updated>
+        <summary type="html"><![CDATA[OpenAI, Google, and Alibaba all dropped new models today—but the real story isn’t raw power. It’s speed, cost, and on-device AI. GPT-5.3 Instant, Gemini 3.1 Flash-Lite, and Qwen 3.5 signal a shift away from massive parameter races toward deployable, real-world intelligence.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside the Fusion-AI Flywheel: AI Is Helping Build the Thing That Will Power AI]]></title>
+        <id>https://www.theneuron.ai/the-neuron-ai-explained-podcast/inside-the-fusion-ai-flywheel-ai-is-helping-build-the-thing-that-will-power-ai/</id>
+        <link href="https://www.theneuron.ai/the-neuron-ai-explained-podcast/inside-the-fusion-ai-flywheel-ai-is-helping-build-the-thing-that-will-power-ai/"/>
+        <updated>2026-03-03T22:36:13.292Z</updated>
+        <summary type="html"><![CDATA[Commonwealth Fusion Systems co-founder Brandon Sorbom explains how AI and fusion energy are building each other, and why the "always 30 years away" joke might finally be dead.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comment "openclaw" below👇]]></title>
+        <id>https://www.youtube.com/shorts/llpJdviHzAQ</id>
+        <link href="https://www.youtube.com/shorts/llpJdviHzAQ"/>
+        <updated>2026-03-03T19:40:55.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[teens made out like bandits]]></title>
+        <id>https://www.youtube.com/shorts/KO2rv1YbwpQ</id>
+        <link href="https://www.youtube.com/shorts/KO2rv1YbwpQ"/>
+        <updated>2026-03-03T18:55:01.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI-Powered Fundraising Prep: The Founder’s Tactical Playbook]]></title>
+        <id>https://www.thevccorner.com/p/ai-fundraising-prep-founders-tactical-playbook</id>
+        <link href="https://www.thevccorner.com/p/ai-fundraising-prep-founders-tactical-playbook"/>
+        <updated>2026-03-03T18:20:07.000Z</updated>
+        <summary type="html"><![CDATA[I spent the last month talking to founders who recently closed seed rounds.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graph Coloring You Can See]]></title>
+        <id>https://towardsdatascience.com/?p=608512</id>
+        <link href="https://towardsdatascience.com/graph-coloring-you-can-see-visual-intuition-with-python/"/>
+        <updated>2026-03-03T18:03:07.000Z</updated>
+        <summary type="html"><![CDATA[Visual intuition with Python
+The post Graph Coloring You Can See appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Rhyd Lewis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Stop Writing Loops in Pandas]]></title>
+        <id>https://towardsdatascience.com/?p=608510</id>
+        <link href="https://towardsdatascience.com/stop-writing-loops-in-pandas-do-this-instead/"/>
+        <updated>2026-03-03T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How to think in columns, write faster code, and finally use Pandas like a professional
+The post Why You Should Stop Writing Loops in Pandas  appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ibrahim Salami</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to debug a team that isn’t working: the Waterline Model]]></title>
+        <id>https://www.lennysnewsletter.com/p/how-to-debug-a-team-that-isnt-working</id>
+        <link href="https://www.lennysnewsletter.com/p/how-to-debug-a-team-that-isnt-working"/>
+        <updated>2026-03-03T13:45:17.000Z</updated>
+        <summary type="html"><![CDATA[A guide to solving team problems (without always blaming the people)]]></summary>
+        <author>
+            <name>Molly Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Quit My $130,000 ML Engineer Job After Learning 4 Lessons]]></title>
+        <id>https://towardsdatascience.com/?p=608508</id>
+        <link href="https://towardsdatascience.com/i-quit-my-130000-ml-engineer-job-after-learning-4-lessons/"/>
+        <updated>2026-03-03T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[What they don't tell you about "dream tech jobs"
+The post I Quit My $130,000 ML Engineer Job After Learning 4 Lessons appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Egor Howell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to debug a team that isn’t working: the Waterline Model]]></title>
+        <id>https://www.lennysnewsletter.com/p/how-to-debug-a-team-that-isnt-working-d43</id>
+        <link href="https://www.lennysnewsletter.com/p/how-to-debug-a-team-that-isnt-working-d43"/>
+        <updated>2026-03-03T13:02:55.000Z</updated>
+        <summary type="html"><![CDATA[A guide to solving team problems (without always blaming the people)]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agentic RAG vs Classic RAG: From a Pipeline to a Control Loop]]></title>
+        <id>https://towardsdatascience.com/?p=608506</id>
+        <link href="https://towardsdatascience.com/agentic-rag-vs-classic-rag-from-a-pipeline-to-a-control-loop/"/>
+        <updated>2026-03-03T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A practical guide to choosing between single-pass pipelines and adaptive retrieval loops based on your use case's complexity, cost, and reliability requirements
+The post Agentic RAG vs Classic RAG: From a Pipeline to a Control Loop appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Mostafa Ibrahim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 OpenAI leaked GPT-5.4 three times]]></title>
+        <id>https://www.theneuron.ai/newsletter/openai-leaked-gpt-5-4-three-times/</id>
+        <link href="https://www.theneuron.ai/newsletter/openai-leaked-gpt-5-4-three-times/"/>
+        <updated>2026-03-03T11:30:14.979Z</updated>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A farewell to Flash]]></title>
+        <id>https://medium.com/p/5ed35d338ee1</id>
+        <link href="https://uxdesign.cc/a-farewell-to-flash-5ed35d338ee1?source=rss----138adf9c44c---4"/>
+        <updated>2026-03-03T10:47:39.000Z</updated>
+        <author>
+            <name>Adir SL</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How being a strategic advisor helps grow design influence]]></title>
+        <id>https://medium.com/p/396f9982af2c</id>
+        <link href="https://uxdesign.cc/how-being-a-strategic-advisor-helps-grow-design-influence-396f9982af2c?source=rss----138adf9c44c---4"/>
+        <updated>2026-03-03T10:45:39.000Z</updated>
+        <summary type="html"><![CDATA[How to gain influence when your org doesn’t prioritize designers
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Kai Wong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Monotype turns selling fonts into daylight robbery]]></title>
+        <id>https://medium.com/p/aac8e29a7cde</id>
+        <link href="https://uxdesign.cc/how-monotype-turns-selling-fonts-into-daylight-robbery-aac8e29a7cde?source=rss----138adf9c44c---4"/>
+        <updated>2026-03-03T10:44:43.000Z</updated>
+        <summary type="html"><![CDATA[From small businesses to even the government, they may eat you up.
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Faux Icing</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The justification tax]]></title>
+        <id>https://medium.com/p/e5ea3df72bd5</id>
+        <link href="https://uxdesign.cc/the-justification-tax-e5ea3df72bd5?source=rss----138adf9c44c---4"/>
+        <updated>2026-03-03T08:41:21.000Z</updated>
+        <author>
+            <name>Vlad Derdeicea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When design teams get rid of writers, nobody wins]]></title>
+        <id>https://medium.com/p/6f8e4a568649</id>
+        <link href="https://uxdesign.cc/when-design-teams-get-rid-of-writers-nobody-wins-6f8e4a568649?source=rss----138adf9c44c---4"/>
+        <updated>2026-03-03T08:40:22.000Z</updated>
+        <author>
+            <name>Nick DiLallo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One API Key to Rule Them All: How OpenRouter Lets You Use Every AI Model Without the Headache]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/one-api-key-to-rule-them-all-how-openrouter-lets-you-use-every-ai-model-without-the-headache/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/one-api-key-to-rule-them-all-how-openrouter-lets-you-use-every-ai-model-without-the-headache/"/>
+        <updated>2026-03-03T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tired of juggling API keys for ChatGPT, Claude, Gemini, and Llama? OpenRouter gives you one unified API to access 400+ AI models; here's how to set it up in under 5 minutes.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-5.4 Is Leaking. Wait… What Happened to 5.3?]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/gpt-54-is-leaking-wait-what-happened-to-53/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/gpt-54-is-leaking-wait-what-happened-to-53/"/>
+        <updated>2026-03-03T02:36:21.614Z</updated>
+        <summary type="html"><![CDATA[Leaks in Codex logs and GitHub pull requests suggest OpenAI is already testing GPT-5.4—just weeks after launching GPT-5.3. Scrubbed commits, A/B flags, and “Fast mode” hints point to rapid iteration happening behind the scenes.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[They spent MILLIONS on this...]]></title>
+        <id>https://www.youtube.com/watch?v=deEri629Nnw</id>
+        <link href="https://www.youtube.com/watch?v=deEri629Nnw"/>
+        <updated>2026-03-03T02:17:31.000Z</updated>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenClaw is 100x better with this tool (Mission Control)]]></title>
         <id>https://www.youtube.com/watch?v=RhLpV6QDBFE</id>
@@ -3394,35 +3595,6 @@ The post AI in Multiple GPUs: Point-to-Point and Collective Operations appeared 
         <summary type="html"><![CDATA[How to use Zapier's MCP server to connect Claude with 8,000+ apps: automating CRM updates, meeting preparation, and creating a virtuous cycle of customer feedback]]></summary>
         <author>
             <name>Claire Vo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Shopify: Tutorial for Beginners 2026]]></title>
-        <id>https://www.youtube.com/watch?v=8nxk8FARDTw</id>
-        <link href="https://www.youtube.com/watch?v=8nxk8FARDTw"/>
-        <updated>2026-02-02T12:00:12.000Z</updated>
-        <author>
-            <name>Metics Media</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Applied Intuition’s $15B Blueprint🚗, 2,500 Verified AI & SaaS Angels👼, Bitcoin Crash⚠️]]></title>
-        <id>https://www.thevccorner.com/p/applied-intuitions-15b-blueprint</id>
-        <link href="https://www.thevccorner.com/p/applied-intuitions-15b-blueprint"/>
-        <updated>2026-02-01T16:40:10.000Z</updated>
-        <summary type="html"><![CDATA[Another week, another pulse check on venture.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A child psychologist’s guide to working with difficult adults | Dr. Becky Kennedy]]></title>
-        <id>https://www.lennysnewsletter.com/p/dr-becky-on-the-surprising-overlap</id>
-        <link href="https://www.lennysnewsletter.com/p/dr-becky-on-the-surprising-overlap"/>
-        <updated>2026-02-01T13:31:43.000Z</updated>
-        <summary type="html"><![CDATA[Clinical psychologist Dr. Becky Kennedy on why repair is more important than perfection, how to set boundaries that work, the power of "I believe you" and "I believe in you," and more]]></summary>
-        <author>
-            <name>Lenny Rachitsky</name>
         </author>
     </entry>
 </feed>
