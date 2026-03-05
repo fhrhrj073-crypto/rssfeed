@@ -2,10 +2,151 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-03-04T00:56:16.967Z</updated>
+    <updated>2026-03-05T00:58:25.460Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Things that don’t matter when you write]]></title>
+        <id>https://medium.com/p/9746f09d125c</id>
+        <link href="https://uxdesign.cc/things-that-dont-matter-when-you-write-9746f09d125c?source=rss----138adf9c44c---4"/>
+        <updated>2026-03-04T22:50:05.000Z</updated>
+        <summary type="html"><![CDATA[Extensive experience and “new” ideas are among them.
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Rita Kind-Envy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accessibility testing takes more than a scan]]></title>
+        <id>https://medium.com/p/9984faf40985</id>
+        <link href="https://uxdesign.cc/accessibility-testing-takes-more-than-a-scan-9984faf40985?source=rss----138adf9c44c---4"/>
+        <updated>2026-03-04T22:47:39.000Z</updated>
+        <author>
+            <name>Allie Paschal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The world’s cheapest compliment]]></title>
+        <id>https://medium.com/p/26c990cf5e59</id>
+        <link href="https://uxdesign.cc/the-worlds-cheapest-compliment-26c990cf5e59?source=rss----138adf9c44c---4"/>
+        <updated>2026-03-04T22:47:37.000Z</updated>
+        <author>
+            <name>Pedro A. Brêtas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Ways to Implement Variable Discretization]]></title>
+        <id>https://towardsdatascience.com/?p=608526</id>
+        <link href="https://towardsdatascience.com/5-ways-for-variable-discretization/"/>
+        <updated>2026-03-04T21:27:50.000Z</updated>
+        <summary type="html"><![CDATA[An overview of powerful methods for transforming continuous variables into discrete ones
+The post 5 Ways to Implement Variable Discretization appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Rukshan Pramoditha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Codex App Windows Guide: Key Features and Best Ways to Use It]]></title>
+        <id>https://www.theneuron.ai/undefined/codex-app-windows-guide-key-features-and-best-ways-to-use-it/</id>
+        <link href="https://www.theneuron.ai/undefined/codex-app-windows-guide-key-features-and-best-ways-to-use-it/"/>
+        <updated>2026-03-04T19:43:00.044Z</updated>
+        <summary type="html"><![CDATA[Codex App for Windows is live, and it’s more than “new OS support.” It gives teams one place to run multiple AI coding tasks in parallel, keep work isolated, and review clean diffs without branch chaos. We break down what’s new and exactly when to choose the App, CLI, or Web.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Tuning Hyperparameters. Start Tuning Your Problem.]]></title>
+        <id>https://towardsdatascience.com/?p=608524</id>
+        <link href="https://towardsdatascience.com/stop-tuning-hyperparameters-start-tuning-your-problem/"/>
+        <updated>2026-03-04T19:40:16.000Z</updated>
+        <summary type="html"><![CDATA[80% of ML projects fail from bad problem framing, not bad models. A 5-step protocol to define the right problem before you write training code.
+The post Stop Tuning Hyperparameters. Start Tuning Your Problem. appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Kaushik Rajan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should we really be rushing to replace ourselves with AI? The Pro Human AI Declaration says NO.]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/pro-human-ai-declaration-political-coalition-superintelligence-ban/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/pro-human-ai-declaration-political-coalition-superintelligence-ban/"/>
+        <updated>2026-03-04T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Steve Bannon and Susan Rice signed the same document. The AFL-CIO and evangelical Christians co-endorsed it. Here's what the Pro-Human AI Declaration actually says, and why its coalition matters more than its content.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[self-driving cars EVERYWHERE]]></title>
+        <id>https://www.youtube.com/shorts/dscgpwF1RvA</id>
+        <link href="https://www.youtube.com/shorts/dscgpwF1RvA"/>
+        <updated>2026-03-04T16:59:05.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Escaping the Prototype Mirage: Why Enterprise AI Stalls]]></title>
+        <id>https://towardsdatascience.com/?p=608520</id>
+        <link href="https://towardsdatascience.com/escaping-the-prototype-mirage-why-enterprise-ai-stalls/"/>
+        <updated>2026-03-04T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Too many prototypes, too few products
+The post Escaping the Prototype Mirage: Why Enterprise AI Stalls appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Reya Vir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hostinger Supabase Tutorial 2026 - How to Self Host Supabase]]></title>
+        <id>https://www.youtube.com/watch?v=th3wasHy_O0</id>
+        <link href="https://www.youtube.com/watch?v=th3wasHy_O0"/>
+        <updated>2026-03-04T12:01:35.000Z</updated>
+        <author>
+            <name>Metics Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RAG with Hybrid Search: How Does Keyword Search Work?]]></title>
+        <id>https://towardsdatascience.com/?p=608518</id>
+        <link href="https://towardsdatascience.com/rag-with-hybrid-search-how-does-keyword-search-work/"/>
+        <updated>2026-03-04T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Understanding keyword search, TF-IDF, and BM25
+The post RAG with Hybrid Search: How Does Keyword Search Work? appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Maria Mouschoutzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[AI學堂] Nano Banana 2 實測｜最強 AI 圖像生成模型？速度暴升＋4K 圖片生成＋成本大降解析]]></title>
+        <id>https://www.youtube.com/watch?v=pYeZYbOQE28</id>
+        <link href="https://www.youtube.com/watch?v=pYeZYbOQE28"/>
+        <updated>2026-03-04T11:59:59.000Z</updated>
+        <author>
+            <name>Dr. Jackei 科技生活日誌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😸 OpenAI, Gemini, Qwen new models]]></title>
+        <id>https://www.theneuron.ai/newsletter/openai-gemini-qwen-new-models/</id>
+        <link href="https://www.theneuron.ai/newsletter/openai-gemini-qwen-new-models/"/>
+        <updated>2026-03-04T10:30:11.950Z</updated>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Want people to pay for your stuff? Show the value like this]]></title>
+        <id>https://medium.com/p/6cf3d74c35c0</id>
+        <link href="https://uxdesign.cc/want-people-to-pay-for-your-stuff-show-the-value-like-this-6cf3d74c35c0?source=rss----138adf9c44c---4"/>
+        <updated>2026-03-04T00:52:02.000Z</updated>
+        <summary type="html"><![CDATA[How to write benefits so that users can make an easy but well-informed choice — a Google Developer Program case study.
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Rita Kind-Envy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Great AI Slimdown: OpenAI, Google, and Alibaba Shift to Speed and Scale]]></title>
         <id>https://www.theneuron.ai/explainer-articles/the-great-ai-slimdown-openai-google-alibaba-shift-to-speed-scale/</id>
@@ -3566,35 +3707,6 @@ The post AI in Multiple GPUs: Point-to-Point and Collective Operations appeared 
         <summary type="html"><![CDATA[The secret is using Cursor for non-technical work (inside: 75 free days of Cursor Pro to try this out!)]]></summary>
         <author>
             <name>Tal Raviv</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to run ClawdBot for DIRT CHEAP]]></title>
-        <id>https://www.youtube.com/watch?v=lxfakTpdz1Y</id>
-        <link href="https://www.youtube.com/watch?v=lxfakTpdz1Y"/>
-        <updated>2026-02-02T22:20:21.000Z</updated>
-        <author>
-            <name>Alex Finn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything You Knew About VC Fund Math Is Wrong]]></title>
-        <id>https://www.thevccorner.com/p/venture-capital-fund-math-explained</id>
-        <link href="https://www.thevccorner.com/p/venture-capital-fund-math-explained"/>
-        <updated>2026-02-02T18:30:45.000Z</updated>
-        <summary type="html"><![CDATA[Before the hype, before the founders, before the first check , it’s the math that decides whether a venture fund will work.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How this PM uses MCPs to automate his meeting prep, CRM updates, and customer feedback synthesis | Reid Robinson (Zapier)]]></title>
-        <id>https://www.lennysnewsletter.com/p/how-this-pm-uses-mcps-to-automate</id>
-        <link href="https://www.lennysnewsletter.com/p/how-this-pm-uses-mcps-to-automate"/>
-        <updated>2026-02-02T13:04:58.000Z</updated>
-        <summary type="html"><![CDATA[How to use Zapier's MCP server to connect Claude with 8,000+ apps: automating CRM updates, meeting preparation, and creating a virtuous cycle of customer feedback]]></summary>
-        <author>
-            <name>Claire Vo</name>
         </author>
     </entry>
 </feed>
