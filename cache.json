@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/7E4xYNAVtp8",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/7E4xYNAVtp8",
+          "publishedOn": "2026-03-07T18:53:23.000Z",
+          "wordCount": 2086,
+          "title": "Do you know the answer? Comment below👇",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=r65lJG83D4k",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=r65lJG83D4k",
+          "publishedOn": "2026-03-07T13:01:29.000Z",
+          "wordCount": null,
+          "title": "Blitzy Is The Best Coding Platform I've Ever Used - Full Walkthrough & Results",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/h9WjnhNMcqE",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
@@ -541,16 +561,6 @@
           "wordCount": null,
           "title": "LIVE: Running ClawdBot on a $10,000 Mac Studio",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iGkhfUvRV6o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iGkhfUvRV6o",
-          "publishedOn": "2026-02-05T22:35:13.000Z",
-          "wordCount": null,
-          "title": "Claude Opus 4.6 is a MASSIVE upgrade for ClawdBot and Claude Code (full guide)",
-          "imageUrl": null
         }
       ]
     },
@@ -697,26 +707,6 @@
           "publishedOn": "2026-02-07T08:08:56.000Z",
           "wordCount": null,
           "title": "OpenClaw Setup Tutorial (Simple & Secure) - Clawdbot",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bSiMSSeno9g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bSiMSSeno9g",
-          "publishedOn": "2026-02-06T12:08:57.000Z",
-          "wordCount": null,
-          "title": "What Is OpenClaw? And How Does It Work? - Explained for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=LO38dWCaZvk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=LO38dWCaZvk",
-          "publishedOn": "2026-02-06T10:13:26.000Z",
-          "wordCount": null,
-          "title": "OpenClaw VPS Setup Tutorial (Step-by-Step) - Clawdbot Setup",
           "imageUrl": null
         }
       ]
@@ -1290,16 +1280,6 @@
           "wordCount": null,
           "title": "Relaxing Piano & Strings Cinematic Instrumental Album｜Wind of Longing | Extend Version",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WkL1X2zWss4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WkL1X2zWss4",
-          "publishedOn": "2026-02-06T07:52:18.000Z",
-          "wordCount": null,
-          "title": "Relaxing Piano & Strings Cinematic Instrumental Album｜Wind of Longing",
-          "imageUrl": null
         }
       ]
     },
@@ -1331,6 +1311,22 @@
       "feedUrl": "https://www.lennysnewsletter.com/feed",
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
+        {
+          "id": "https://www.lennysnewsletter.com/p/community-wisdom-business-books-that",
+          "author": "Kiyani",
+          "description": "Community Wisdom 176",
+          "link": "https://www.lennysnewsletter.com/p/community-wisdom-business-books-that",
+          "publishedOn": "2026-03-07T16:44:42.000Z",
+          "wordCount": null,
+          "title": "🧠 Community Wisdom: Business books that haven’t aged well, vibe coding with your Figma design systems, Claude Code vs. other coding tools and more",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png"
+        },
         {
           "id": "https://www.lennysnewsletter.com/p/how-to-debug-a-team-that-isnt-working",
           "author": "Molly Graham",
@@ -2137,22 +2133,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!F1Sr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdab3520a-9c51-405e-9ae0-0be5b2d24961_931x523.png"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/why-second-time-founders-succeed",
-          "author": "Ruben Dominguez",
-          "description": "What First-Time Founders Can Learn From the Painful, Profitable Lessons of Round Two",
-          "link": "https://www.thevccorner.com/p/why-second-time-founders-succeed",
-          "publishedOn": "2026-02-05T14:21:03.000Z",
-          "wordCount": null,
-          "title": "The Second-Time Founder Effect: How Experience Shapes Startup Success",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!aXcX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4aa7b332-4022-479c-97a7-921dbc67df50_800x397.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!aXcX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4aa7b332-4022-479c-97a7-921dbc67df50_800x397.png"
         }
       ]
     },
@@ -2161,6 +2141,26 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/how-to-learn-to-code-2026-ryan-carson-guide/",
+          "author": null,
+          "description": "The founder of Treehouse taught 1 million people to code. Here's how he would teach the next 1 million in 2026. Read on for every actionable lesson from his Neuron livestream, organized into a step-by-step playbook.",
+          "link": "https://www.theneuron.ai/explainer-articles/how-to-learn-to-code-2026-ryan-carson-guide/",
+          "publishedOn": "2026-03-07T19:03:01.340Z",
+          "wordCount": null,
+          "title": "How to Learn to Code in 2026: Ryan Carson's Complete Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/ai-news-digests/the-neurons-ai-skill-of-the-day-digest-march-2026/",
+          "author": null,
+          "description": "Go beyond prompts. March's best AI skills, workflows, and automation recipes for ChatGPT, Claude, Gemini, and the new wave of coding agents; concrete techniques you can use at work today.",
+          "link": "https://www.theneuron.ai/ai-news-digests/the-neurons-ai-skill-of-the-day-digest-march-2026/",
+          "publishedOn": "2026-03-07T16:00:00.000Z",
+          "wordCount": null,
+          "title": "The Neuron's AI Skill of the Day Digest (March 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/ai-news-digests/around-the-horn-digest-everything-that-happened-in-ai-this-week-mar-813-2026/",
           "author": null,
@@ -2688,6 +2688,26 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=608545",
+          "author": "Maria Mouschoutzi",
+          "description": "Why traditional RAG loses context and how contextual retrieval dramatically improves retrieval accuracy\nThe post Understanding Context and Contextual Retrieval in RAG appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/understanding-context-and-contextual-retrieval-in-rag/",
+          "publishedOn": "2026-03-07T15:00:00.000Z",
+          "wordCount": 4929,
+          "title": "Understanding Context and Contextual Retrieval in RAG",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/Picture1-e1772726785198.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608543",
+          "author": "Kaushik Rajan",
+          "description": "Five classical data science skills are becoming the scarcest resource in tech. A 90-day roadmap to build them while everyone else chases AI hype.\nThe post The AI Bubble Has a Data Science Escape Hatch appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-ai-bubble-has-a-data-science-escape-hatch/",
+          "publishedOn": "2026-03-07T13:00:00.000Z",
+          "wordCount": 5383,
+          "title": "The AI Bubble Has a Data Science Escape Hatch",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/image-186-1.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=608541",
           "author": "Sara A. Metwalli",
