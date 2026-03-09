@@ -2,10 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-03-08T00:58:27.182Z</updated>
+    <updated>2026-03-09T00:58:33.210Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to actually make money from coding.]]></title>
+        <id>https://www.youtube.com/shorts/kvkPA_ORf48</id>
+        <link href="https://www.youtube.com/shorts/kvkPA_ORf48"/>
+        <updated>2026-03-08T20:09:51.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 Anthropic: AI capabilities vs real usage, compared]]></title>
+        <id>https://www.theneuron.ai/newsletter/ninja-cats-wage-cuts-and-claude-going-rogue/</id>
+        <link href="https://www.theneuron.ai/newsletter/ninja-cats-wage-cuts-and-claude-going-rogue/"/>
+        <updated>2026-03-08T17:30:09.446Z</updated>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AGI Is Closer Than You Think💡, Prompt Engineering Is Dead🧠, AI Will Eat Application Software⚠️]]></title>
+        <id>https://www.thevccorner.com/p/agi-is-closer-than-you-think-prompt</id>
+        <link href="https://www.thevccorner.com/p/agi-is-closer-than-you-think-prompt"/>
+        <updated>2026-03-08T16:30:43.000Z</updated>
+        <summary type="html"><![CDATA[Another week, another pulse check on venture.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Real AI Threat to Your Career Isn't Job Losses. It's What Happens to Your Paycheck.]]></title>
+        <id>https://www.theneuron.ai/undefined/the-real-ai-threat-to-your-career-isnt-job-losses-its-what-happens-to-your-paycheck/</id>
+        <link href="https://www.theneuron.ai/undefined/the-real-ai-threat-to-your-career-isnt-job-losses-its-what-happens-to-your-paycheck/"/>
+        <updated>2026-03-08T15:23:20.374Z</updated>
+        <summary type="html"><![CDATA[Software job postings are up 11%. Block just cut 40% of its workforce. Both are true. The real story is what happens to wages when AI makes every task cheaper.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Write C Code Without Learning C: The Magic of PythoC]]></title>
+        <id>https://towardsdatascience.com/?p=608549</id>
+        <link href="https://towardsdatascience.com/write-c-code-without-learning-c-the-magic-of-pythoc/"/>
+        <updated>2026-03-08T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Compile native, standalone applications using the Python syntax you already know.
+The post Write C Code Without Learning C: The Magic of PythoC appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Thomas Reid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Pass Technical Interviews Without Grinding LeetCode]]></title>
+        <id>https://www.youtube.com/watch?v=yOKMIEOCkRU</id>
+        <link href="https://www.youtube.com/watch?v=yOKMIEOCkRU"/>
+        <updated>2026-03-08T14:06:01.000Z</updated>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The last interface]]></title>
+        <id>https://medium.com/p/6f488a54fc4e</id>
+        <link href="https://uxdesign.cc/the-last-interface-6f488a54fc4e?source=rss----138adf9c44c---4"/>
+        <updated>2026-03-08T13:06:29.000Z</updated>
+        <author>
+            <name>Heenesh Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LatentVLA: Latent Reasoning Models for Autonomous Driving]]></title>
+        <id>https://towardsdatascience.com/?p=608547</id>
+        <link href="https://towardsdatascience.com/latentvla-latent-reasoning-models-for-autonomous-driving/"/>
+        <updated>2026-03-08T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What if natural language is not the best abstraction for driving?
+The post LatentVLA: Latent Reasoning Models for Autonomous Driving appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ryan Pégoud</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The most successful AI company you’ve never heard of | Qasar Younis]]></title>
+        <id>https://www.lennysnewsletter.com/p/the-most-successful-ai-company-youve-never-heard-of</id>
+        <link href="https://www.lennysnewsletter.com/p/the-most-successful-ai-company-youve-never-heard-of"/>
+        <updated>2026-03-08T12:31:38.000Z</updated>
+        <summary type="html"><![CDATA[Listen now | Qasar Younis on why staying under-the-radar helped him build a $15 billion company, why emotions are a filter that distorts decision-making, and why the real AI revolution is happening in the physical]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Learn to Code in 2026: Ryan Carson's Complete Guide]]></title>
         <id>https://www.theneuron.ai/explainer-articles/how-to-learn-to-code-2026-ryan-carson-guide/</id>
@@ -3961,43 +4050,6 @@ The post AI in Multiple GPUs: Point-to-Point and Collective Operations appeared 
         <summary type="html"><![CDATA[Community Wisdom 172]]></summary>
         <author>
             <name>Kiyani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenClaw Setup Tutorial (Simple & Secure) - Clawdbot]]></title>
-        <id>https://www.youtube.com/watch?v=ko_uSu-sXrI</id>
-        <link href="https://www.youtube.com/watch?v=ko_uSu-sXrI"/>
-        <updated>2026-02-07T08:08:56.000Z</updated>
-        <author>
-            <name>Metics Media</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIVE: Running ClawdBot on a $10,000 Mac Studio]]></title>
-        <id>https://www.youtube.com/watch?v=SGEaHsul_y4</id>
-        <link href="https://www.youtube.com/watch?v=SGEaHsul_y4"/>
-        <updated>2026-02-06T21:08:47.000Z</updated>
-        <author>
-            <name>Alex Finn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Onion Theory of Startup Risk: The 5 Layers Every Investor Evaluates]]></title>
-        <id>https://www.thevccorner.com/p/the-onion-theory-of-risk-for-startups</id>
-        <link href="https://www.thevccorner.com/p/the-onion-theory-of-risk-for-startups"/>
-        <updated>2026-02-06T16:02:43.000Z</updated>
-        <summary type="html"><![CDATA[From Marc Andreessen’s insight to modern founder playbooks: how peeling away uncertainty builds value, raises rounds, and shapes the next generation of startups.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Relaxing Piano & Strings Cinematic Instrumental Album｜Wind of Longing | Extend Version]]></title>
-        <id>https://www.youtube.com/watch?v=pf72m-KzgLQ</id>
-        <link href="https://www.youtube.com/watch?v=pf72m-KzgLQ"/>
-        <updated>2026-02-06T14:36:57.000Z</updated>
-        <author>
-            <name>ZEDOTECH</name>
         </author>
     </entry>
 </feed>

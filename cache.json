@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/kvkPA_ORf48",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/kvkPA_ORf48",
+          "publishedOn": "2026-03-08T20:09:51.000Z",
+          "wordCount": 2108,
+          "title": "How to actually make money from coding.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=yOKMIEOCkRU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yOKMIEOCkRU",
+          "publishedOn": "2026-03-08T14:06:01.000Z",
+          "wordCount": null,
+          "title": "How to Pass Technical Interviews Without Grinding LeetCode",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/7E4xYNAVtp8",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
@@ -551,16 +571,6 @@
           "wordCount": null,
           "title": "I just spent $20,000 on OpenClaw. Here's why...",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SGEaHsul_y4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SGEaHsul_y4",
-          "publishedOn": "2026-02-06T21:08:47.000Z",
-          "wordCount": null,
-          "title": "LIVE: Running ClawdBot on a $10,000 Mac Studio",
-          "imageUrl": null
         }
       ]
     },
@@ -697,16 +707,6 @@
           "publishedOn": "2026-02-08T09:57:48.000Z",
           "wordCount": null,
           "title": "OpenClaw Hostinger Tutorial: How to Set up OpenClaw on a Hostinger VPS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ko_uSu-sXrI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ko_uSu-sXrI",
-          "publishedOn": "2026-02-07T08:08:56.000Z",
-          "wordCount": null,
-          "title": "OpenClaw Setup Tutorial (Simple & Secure) - Clawdbot",
           "imageUrl": null
         }
       ]
@@ -1270,16 +1270,6 @@
           "wordCount": null,
           "title": "Mac 安裝 OpenClaw 教學｜本機部署＋Telegram 串接完整步驟",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pf72m-KzgLQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pf72m-KzgLQ",
-          "publishedOn": "2026-02-06T14:36:57.000Z",
-          "wordCount": null,
-          "title": "Relaxing Piano & Strings Cinematic Instrumental Album｜Wind of Longing | Extend Version",
-          "imageUrl": null
         }
       ]
     },
@@ -1311,6 +1301,22 @@
       "feedUrl": "https://www.lennysnewsletter.com/feed",
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
+        {
+          "id": "https://www.lennysnewsletter.com/p/the-most-successful-ai-company-youve-never-heard-of",
+          "author": "Lenny Rachitsky",
+          "description": "Listen now | Qasar Younis on why staying under-the-radar helped him build a $15 billion company, why emotions are a filter that distorts decision-making, and why the real AI revolution is happening in the physical",
+          "link": "https://www.lennysnewsletter.com/p/the-most-successful-ai-company-youve-never-heard-of",
+          "publishedOn": "2026-03-08T12:31:38.000Z",
+          "wordCount": null,
+          "title": "The most successful AI company you’ve never heard of | Qasar Younis",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/189615019/e413d2c4aa12df594b3cc3a34a7ae86d.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://www.lennysnewsletter.com/p/community-wisdom-business-books-that",
           "author": "Kiyani",
@@ -1783,6 +1789,22 @@
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
         {
+          "id": "https://www.thevccorner.com/p/agi-is-closer-than-you-think-prompt",
+          "author": "Ruben Dominguez",
+          "description": "Another week, another pulse check on venture.",
+          "link": "https://www.thevccorner.com/p/agi-is-closer-than-you-think-prompt",
+          "publishedOn": "2026-03-08T16:30:43.000Z",
+          "wordCount": null,
+          "title": "AGI Is Closer Than You Think💡, Prompt Engineering Is Dead🧠, AI Will Eat Application Software⚠️",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!yH87!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee2df5dc-f892-4dd3-9af3-4bb1beb83199_680x550.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!yH87!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee2df5dc-f892-4dd3-9af3-4bb1beb83199_680x550.jpeg"
+        },
+        {
           "id": "https://www.thevccorner.com/p/great-saas-reset-10x-arr-club",
           "author": "Ruben Dominguez",
           "description": "Why 10× revenue is a thing of the past and what comes next",
@@ -2117,22 +2139,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/ff363978-cb9f-4b3b-8c59-19594aaa036c_1152x604.webp"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/the-onion-theory-of-risk-for-startups",
-          "author": "Ruben Dominguez",
-          "description": "From Marc Andreessen’s insight to modern founder playbooks: how peeling away uncertainty builds value, raises rounds, and shapes the next generation of startups.",
-          "link": "https://www.thevccorner.com/p/the-onion-theory-of-risk-for-startups",
-          "publishedOn": "2026-02-06T16:02:43.000Z",
-          "wordCount": null,
-          "title": "The Onion Theory of Startup Risk: The 5 Layers Every Investor Evaluates",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!F1Sr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdab3520a-9c51-405e-9ae0-0be5b2d24961_931x523.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!F1Sr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdab3520a-9c51-405e-9ae0-0be5b2d24961_931x523.png"
         }
       ]
     },
@@ -2141,6 +2147,26 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/newsletter/ninja-cats-wage-cuts-and-claude-going-rogue/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/ninja-cats-wage-cuts-and-claude-going-rogue/",
+          "publishedOn": "2026-03-08T17:30:09.446Z",
+          "wordCount": null,
+          "title": "😺 Anthropic: AI capabilities vs real usage, compared",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/undefined/the-real-ai-threat-to-your-career-isnt-job-losses-its-what-happens-to-your-paycheck/",
+          "author": null,
+          "description": "Software job postings are up 11%. Block just cut 40% of its workforce. Both are true. The real story is what happens to wages when AI makes every task cheaper.",
+          "link": "https://www.theneuron.ai/undefined/the-real-ai-threat-to-your-career-isnt-job-losses-its-what-happens-to-your-paycheck/",
+          "publishedOn": "2026-03-08T15:23:20.374Z",
+          "wordCount": null,
+          "title": "The Real AI Threat to Your Career Isn't Job Losses. It's What Happens to Your Paycheck.",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/explainer-articles/how-to-learn-to-code-2026-ryan-carson-guide/",
           "author": null,
@@ -2688,6 +2714,26 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=608549",
+          "author": "Thomas Reid",
+          "description": "Compile native, standalone applications using the Python syntax you already know.\nThe post Write C Code Without Learning C: The Magic of PythoC appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/write-c-code-without-learning-c-the-magic-of-pythoc/",
+          "publishedOn": "2026-03-08T15:00:00.000Z",
+          "wordCount": 4848,
+          "title": "Write C Code Without Learning C: The Magic of PythoC",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/Gemini_Generated_Image_24r5024r5024r502-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608547",
+          "author": "Ryan Pégoud",
+          "description": "What if natural language is not the best abstraction for driving?\nThe post LatentVLA: Latent Reasoning Models for Autonomous Driving appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/latentvla-latent-reasoning-models-for-autonomous-driving/",
+          "publishedOn": "2026-03-08T13:00:00.000Z",
+          "wordCount": 4588,
+          "title": "LatentVLA: Latent Reasoning Models for Autonomous Driving",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/pramod-tiwari-WB1FLR5Fod8-unsplash-scaled-1.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=608545",
           "author": "Maria Mouschoutzi",
@@ -3361,6 +3407,16 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/6f488a54fc4e",
+          "author": "Heenesh Patel",
+          "description": "",
+          "link": "https://uxdesign.cc/the-last-interface-6f488a54fc4e?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-03-08T13:06:29.000Z",
+          "wordCount": null,
+          "title": "The last interface",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/28b0b10900dd",
           "author": "Adrian Levy",
