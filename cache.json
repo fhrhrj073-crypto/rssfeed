@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/hMd8D4VPLO4",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/hMd8D4VPLO4",
+          "publishedOn": "2026-03-15T19:53:59.000Z",
+          "wordCount": 2160,
+          "title": "This probably isn't what you think it is!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=QL15V0vzt88",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QL15V0vzt88",
+          "publishedOn": "2026-03-15T15:46:57.000Z",
+          "wordCount": null,
+          "title": "How to Build a Video Player in Next.js (Step-by-Step)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/xwm2dVJ4Dxg",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
@@ -434,16 +454,6 @@
           "wordCount": 2914,
           "title": "Have you used Rust as a back end language?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/VYAU0jkySsw",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/VYAU0jkySsw",
-          "publishedOn": "2026-02-13T21:00:07.000Z",
-          "wordCount": 2060,
-          "title": "Which backend language is the best for you?",
-          "imageUrl": null
         }
       ]
     },
@@ -600,16 +610,6 @@
           "publishedOn": "2026-02-15T17:24:39.000Z",
           "wordCount": null,
           "title": "100 hours of OpenClaw lessons in 35 minutes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aKB9BVonkzk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aKB9BVonkzk",
-          "publishedOn": "2026-02-13T21:18:37.000Z",
-          "wordCount": null,
-          "title": "LIVE: My OpenClaw setup is incredible",
           "imageUrl": null
         }
       ]
@@ -1205,36 +1205,6 @@
           "wordCount": 1999,
           "title": "So, OpenClaw",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=1QllIBmWKO4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=1QllIBmWKO4",
-          "publishedOn": "2026-02-13T19:48:40.000Z",
-          "wordCount": null,
-          "title": "Forward Future Live | 02.13.26 | Guests from MOTS, Warp, & Shield AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/eQz3KuG3_bk",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/eQz3KuG3_bk",
-          "publishedOn": "2026-02-13T19:14:30.000Z",
-          "wordCount": 2025,
-          "title": "Speed is ALL that matters for AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/UUuL-Rv7j40",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/UUuL-Rv7j40",
-          "publishedOn": "2026-02-13T14:00:49.000Z",
-          "wordCount": 2011,
-          "title": "Vibe coding is about to get so fast",
-          "imageUrl": null
         }
       ]
     },
@@ -1282,16 +1252,6 @@
           "wordCount": null,
           "title": "打造你的專屬 AI 助理！OpenClaw 安裝全攻略：自動比價、接電話、寫程式，近乎全能的個人版 Jarvis",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=v9HNi-wqQLM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=v9HNi-wqQLM",
-          "publishedOn": "2026-02-14T04:40:49.000Z",
-          "wordCount": null,
-          "title": "體積縮小一半、效能不縮水！性價比最高的家用儲能：能源方舟 1200 輕量化登場",
-          "imageUrl": null
         }
       ]
     },
@@ -1327,6 +1287,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC38YXS2v9NWq99MCzXj9vJA",
       "siteUrl": "https://www.youtube.com/channel/UC38YXS2v9NWq99MCzXj9vJA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/dMqRNz11K0Y",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/dMqRNz11K0Y",
+          "publishedOn": "2026-03-15T03:19:36.000Z",
+          "wordCount": 2004,
+          "title": "《我家動物園》好努力的鸚鵡咪咪",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=AdUdh4--URs",
           "author": null,
@@ -1467,6 +1437,22 @@
       "feedUrl": "https://www.lennysnewsletter.com/feed",
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
+        {
+          "id": "https://www.lennysnewsletter.com/p/the-tactical-playbook-for-getting-more-comp",
+          "author": "Lenny Rachitsky",
+          "description": "Why negotiation starts before the offer, the exact phrases that unlock 20%-40% more comp, how to flip interviews into discovery calls, and why product people negotiate worse than everyone else",
+          "link": "https://www.lennysnewsletter.com/p/the-tactical-playbook-for-getting-more-comp",
+          "publishedOn": "2026-03-15T12:31:37.000Z",
+          "wordCount": null,
+          "title": "The tactical playbook for getting 20-40% more comp (without sounding greedy) | Jacob Warwick (Executive Negotiator)",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/189787695/76a2ce4e5787f5d38b59dbd61e6603ec.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://www.lennysnewsletter.com/p/community-wisdom-getting-a-skeptical",
           "author": "Kiyani",
@@ -1939,6 +1925,22 @@
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
         {
+          "id": "https://www.thevccorner.com/p/yc-w26-db-1t-services-opportunity",
+          "author": "Ruben Dominguez",
+          "description": "Another week, another pulse check on venture.",
+          "link": "https://www.thevccorner.com/p/yc-w26-db-1t-services-opportunity",
+          "publishedOn": "2026-03-15T19:01:10.000Z",
+          "wordCount": null,
+          "title": "YC W26 DB💰, $1T Services Opportunity🤖, How to Set Up Claude Cowork⚙️",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/43098cf1-924a-45bd-8abb-f31d5392f117_3000x1999.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/43098cf1-924a-45bd-8abb-f31d5392f117_3000x1999.jpeg"
+        },
+        {
           "id": "https://www.thevccorner.com/p/non-dilutive-funding-sources-startups-database",
           "author": "Ruben Dominguez",
           "description": "The complete database of grants, revenue-based financing, prizes, government programs, venture debt, and corporate credits. Zero equity required.",
@@ -2305,22 +2307,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!aF7v!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F647a9454-015a-44b0-96a5-cc9e57514ec9_680x634.jpeg"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/brex-exit-venture-capital-math",
-          "author": "Ruben Dominguez",
-          "description": "Why a $5 billion win feels like a loss and the real cost of a high valuation",
-          "link": "https://www.thevccorner.com/p/brex-exit-venture-capital-math",
-          "publishedOn": "2026-02-13T18:17:22.000Z",
-          "wordCount": null,
-          "title": "The Brex Deal and the Lie Venture Capital Tells Itself",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!U0AM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8061be9c-11e7-4c3c-b2c6-cea8197b5c1b_1200x675.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!U0AM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8061be9c-11e7-4c3c-b2c6-cea8197b5c1b_1200x675.jpeg"
         }
       ]
     },
@@ -2329,6 +2315,16 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/newsletter/over-2b-in-ai-funding-hit-in-a-single-news-cycle/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/over-2b-in-ai-funding-hit-in-a-single-news-cycle/",
+          "publishedOn": "2026-03-15T22:30:10.248Z",
+          "wordCount": null,
+          "title": "😺 Over $2B in AI funding hit in a single news cycle",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/newsletter/the-enterprise-ai-platform-war-has-a-scoreboard-now-anthropic-is-winning/",
           "author": null,
@@ -3106,6 +3102,26 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=608606",
+          "author": "Alle Sravani",
+          "description": "Is your data strategy 2026-ready? Get a deep dive into the mandatory shift toward human-in-the-loop oversight, active metadata, and the strategic advantages of European data sovereignty.\nThe post The 2026 Data Mandate: Is Your Governance Architecture a Fortress or a Liability? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-2026-data-mandate-is-your-governance-architecture-a-fortress-or-a-liability/",
+          "publishedOn": "2026-03-15T15:00:00.000Z",
+          "wordCount": 4273,
+          "title": "The 2026 Data Mandate: Is Your Governance Architecture a Fortress or a Liability?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/governance.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608604",
+          "author": "Ananya Bhattacharyya",
+          "description": "Master six advanced causal inference methods with Python: doubly robust estimation, instrumental variables, regression discontinuity, modern difference-in-differences, heterogeneous treatment effects and sensitivity analysis. Includes code and a practical decision framework.\nThe post The Causal Inference Playbook: Advanced Methods Every Data Scientist Should Master appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-causal-inference-playbook-advanced-methods-every-data-scientist-should-master/",
+          "publishedOn": "2026-03-15T13:00:00.000Z",
+          "wordCount": 6370,
+          "title": "The Causal Inference Playbook: Advanced Methods Every Data Scientist Should Master",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/Screenshot-2026-03-12-at-9.53.17-AM.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=608602",
           "author": "Kaushik Rajan",
@@ -3985,26 +4001,6 @@
           "wordCount": 4597,
           "title": "A beginner’s guide to Tmux: a multitasking superpower for your terminal",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/Gemini_Generated_Image_c8uglc8uglc8uglc-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608385",
-          "author": "Yu Dong",
-          "description": "A practical onboarding checklist for building trust, business fluency, and data intuition\nThe post Your First 90 Days as a Data Scientist appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/your-first-90-days-as-a-data-scientist/",
-          "publishedOn": "2026-02-14T11:25:00.000Z",
-          "wordCount": 4203,
-          "title": "Your First 90 Days as a Data Scientist",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/ds_onboarding.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608383",
-          "author": "TDS Editors",
-          "description": "Stephanie Kirmer on the $200 billion investment bubble, how AI companies can rebuild trust, and how her day-to-day work changed with the rise of LLMs.\nThe post The Evolving Role of the ML Engineer appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-evolving-role-of-the-ml-engineer/",
-          "publishedOn": "2026-02-13T15:00:00.000Z",
-          "wordCount": 3744,
-          "title": "The Evolving Role of the ML Engineer",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/stephanie-kirmer.jpg"
         }
       ]
     },
@@ -4019,6 +4015,16 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/489b20c4ffcc",
+          "author": "Dora Czerna",
+          "description": "",
+          "link": "https://uxdesign.cc/your-phone-isnt-eavesdropping-the-reality-is-stranger-489b20c4ffcc?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-03-15T20:55:09.000Z",
+          "wordCount": null,
+          "title": "Your phone isn’t eavesdropping. The reality is stranger.",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/a61df9dff743",
           "author": "Rita Kind-Envy",
@@ -4749,6 +4755,86 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/3cce0595a887",
+          "author": "Jim Clyde Monge",
+          "description": "When his rescue dog was given months to live, a machine learning consultant used AI tools to design a custom cancer vaccine — and it…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/this-guy-uses-chatgpt-and-alphafold-to-save-his-dying-dog-from-cancer-3cce0595a887?source=rss----440100e76000---4",
+          "publishedOn": "2026-03-15T11:14:54.000Z",
+          "wordCount": null,
+          "title": "This Guy Used ChatGPT and AlphaFold to Save His Dying Dog from Cancer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2be84988026e",
+          "author": "MohamedAbdelmenem",
+          "description": "Six cursors on a screen isn’t collaboration. Here’s the orchestration pattern Anthropic used to build their C compiler. (With working…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/that-viral-6-agent-demo-is-lying-to-you-heres-how-to-build-the-real-thing-2be84988026e?source=rss----440100e76000---4",
+          "publishedOn": "2026-03-15T11:09:38.000Z",
+          "wordCount": null,
+          "title": "That Viral 6-Agent Demo is Lying to You. Here’s How to Build the Real Thing.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/916d91b8971d",
+          "author": "Erica Pollock",
+          "description": "Maybe you, like me, read Matt Shumer’s viral piece a couple weeks ago about AI eliminating 50% of white-collar jobs in the next 1–5 years…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/something-bigger-is-happening-916d91b8971d?source=rss----440100e76000---4",
+          "publishedOn": "2026-03-15T11:05:57.000Z",
+          "wordCount": null,
+          "title": "Something Bigger is Happening",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3d406acbd35a",
+          "author": "Harshini Sre",
+          "description": "",
+          "link": "https://generativeai.pub/is-ai-slop-actually-creative-3d406acbd35a?source=rss----440100e76000---4",
+          "publishedOn": "2026-03-15T11:05:02.000Z",
+          "wordCount": null,
+          "title": "Is AI Slop Actually Creative?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/17156dab3ce8",
+          "author": "Ahmed M. Abdelfattah",
+          "description": "On Monday, Nvidia will change not just how fast chips compute, but how they talk to each other. Almost nobody noticed the difference yet.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/nvidias-next-chip-won-t-be-faster-it-will-be-lighter-17156dab3ce8?source=rss----440100e76000---4",
+          "publishedOn": "2026-03-15T11:03:58.000Z",
+          "wordCount": null,
+          "title": "Nvidia’s Next Chip Won’t Be Faster. It Will Be Lighter.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a1cc0d6e125d",
+          "author": "PRADIP KAITY",
+          "description": "Its more than character consistency, accurate text generation, and better control over images.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/use-nano-banana-pro-better-than-99-of-people-5-use-cases-a1cc0d6e125d?source=rss----440100e76000---4",
+          "publishedOn": "2026-03-15T11:02:28.000Z",
+          "wordCount": null,
+          "title": "Use Nano Banana Pro Better Than 99% of People: 5 Use Cases",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5905d103776a",
+          "author": "Ahmed M. Abdelfattah",
+          "description": "The distance between the two deals isn’t measured in ethics. It’s measured in two paragraphs of contract language. That gap is where the…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/anthropic-refused-got-blacklisted-openai-agreed-got-the-contract-same-day-5905d103776a?source=rss----440100e76000---4",
+          "publishedOn": "2026-03-15T11:02:26.000Z",
+          "wordCount": null,
+          "title": "Anthropic Refused. Got Blacklisted. OpenAI Agreed. Got the Contract. Same Day.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b8b2c84f1229",
+          "author": "Anubhav",
+          "description": "A practical engineering comparison of modern syntax, control flow, state, observability, and where each framework breaks down in…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/langgraph-vs-crewai-vs-autogen-which-agent-framework-should-you-actually-use-in-2026-b8b2c84f1229?source=rss----440100e76000---4",
+          "publishedOn": "2026-03-15T10:58:05.000Z",
+          "wordCount": null,
+          "title": "LangGraph vs CrewAI vs AutoGen: Which Agent Framework Should You Actually Use in 2026?",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/cbac5f8a26de",
           "author": "Jim Clyde Monge",
