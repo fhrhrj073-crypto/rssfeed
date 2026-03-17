@@ -2,10 +2,243 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-03-16T01:06:14.557Z</updated>
+    <updated>2026-03-17T00:58:40.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Context engineering: A repeatable AI workflow for product designers]]></title>
+        <id>https://medium.com/p/8d7b55b83b2b</id>
+        <link href="https://uxdesign.cc/context-engineering-a-repeatable-ai-workflow-for-product-designers-8d7b55b83b2b?source=rss----138adf9c44c---4"/>
+        <updated>2026-03-16T22:09:10.000Z</updated>
+        <summary type="html"><![CDATA[A step-by-step method to feed AI the right inputs in the right order, without prompt gymnastics.
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Vadym Grin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A designer’s field report on the Iconic blind spot in AI world models]]></title>
+        <id>https://medium.com/p/fccc7b8610bb</id>
+        <link href="https://uxdesign.cc/a-designers-field-report-on-the-iconic-blind-spot-in-ai-world-models-fccc7b8610bb?source=rss----138adf9c44c---4"/>
+        <updated>2026-03-16T22:09:09.000Z</updated>
+        <author>
+            <name>Peter (Zak) Zakrzewski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia showed up at my house]]></title>
+        <id>https://www.youtube.com/shorts/eKaAaj4tv3Y</id>
+        <link href="https://www.youtube.com/shorts/eKaAaj4tv3Y"/>
+        <updated>2026-03-16T22:01:17.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silicon Valley’s New AI Pitch: Fix the Grid, Cool the Racks, Win the Future]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/silicon-valleys-new-ai-pitch-fix-the-grid-cool-the-racks-win-the-future/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/silicon-valleys-new-ai-pitch-fix-the-grid-cool-the-racks-win-the-future/"/>
+        <updated>2026-03-16T20:44:07.050Z</updated>
+        <summary type="html"><![CDATA[At Sunday’s Startup & VC Reception one theme swallowed the room whole: data center power and cooling.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIVE: MASSIVE Nvidia Announcements (full Jensen Huang GTC Keynote)]]></title>
+        <id>https://www.youtube.com/watch?v=YaakcHNtUEw</id>
+        <link href="https://www.youtube.com/watch?v=YaakcHNtUEw"/>
+        <updated>2026-03-16T20:38:00.000Z</updated>
+        <author>
+            <name>Alex Finn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Top-Tier VCs Actually Look For in 2026]]></title>
+        <id>https://www.thevccorner.com/p/what-top-vcs-look-for-2026-founder-playbook</id>
+        <link href="https://www.thevccorner.com/p/what-top-vcs-look-for-2026-founder-playbook"/>
+        <updated>2026-03-16T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[40 questions they’ll ask you. The benchmarks they measure you against. The 15 things that kill deals. And how Sequoia, a16z, and Benchmark each decide differently.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hallucinations in LLMs Are Not a Bug in the Data]]></title>
+        <id>https://towardsdatascience.com/?p=608615</id>
+        <link href="https://towardsdatascience.com/hallucinations-in-llms-are-not-a-bug-in-the-data/"/>
+        <updated>2026-03-16T19:15:31.000Z</updated>
+        <summary type="html"><![CDATA[It’s a feature of the architecture
+The post Hallucinations in LLMs Are Not a Bug in the Data appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Javier Marin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Follow the AI Footpaths]]></title>
+        <id>https://towardsdatascience.com/?p=608612</id>
+        <link href="https://towardsdatascience.com/follow-the-ai-footpaths/"/>
+        <updated>2026-03-16T19:00:37.000Z</updated>
+        <summary type="html"><![CDATA[Shadow AI and the desire paths of modern work
+The post Follow the AI Footpaths appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Aleksandra Osipova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Production-Ready Claude Code Skill]]></title>
+        <id>https://towardsdatascience.com/?p=608610</id>
+        <link href="https://towardsdatascience.com/how-to-build-a-production-ready-claude-code-skill/"/>
+        <updated>2026-03-16T18:04:24.000Z</updated>
+        <summary type="html"><![CDATA[What I learned building and distributing my first Skill from scratch
+The post How to Build a Production-Ready Claude Code Skill appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Hajime Takeda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Around the Horn Digest: Everything That Happened in AI This Week (Mar 15–21, 2026)]]></title>
+        <id>https://www.theneuron.ai/ai-news-digests/around-the-horn-digest-everything-that-happened-in-ai-this-week-mar-1521-2026/</id>
+        <link href="https://www.theneuron.ai/ai-news-digests/around-the-horn-digest-everything-that-happened-in-ai-this-week-mar-1521-2026/"/>
+        <updated>2026-03-16T15:36:58.643Z</updated>
+        <summary type="html"><![CDATA[Heres's everything that's happened in AI so far this week (starting on Sunday, March 15).]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎙️ This week on How I AI: From Figma to Claude Code and back & From journalist to iOS developer]]></title>
+        <id>https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-from-figma</id>
+        <link href="https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-from-figma"/>
+        <updated>2026-03-16T15:03:06.000Z</updated>
+        <summary type="html"><![CDATA[Your weekly listens from How I AI, part of the Lenny's Podcast Network]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From journalist to iOS developer: How LinkedIn’s editor builds with Claude Code | Daniel Roth]]></title>
+        <id>https://www.lennysnewsletter.com/p/from-journalist-to-ios-developer</id>
+        <link href="https://www.lennysnewsletter.com/p/from-journalist-to-ios-developer"/>
+        <updated>2026-03-16T12:04:08.000Z</updated>
+        <summary type="html"><![CDATA[Watch now | 🎙️ How LinkedIn’s editor uses dueling Claude agents to plan features, write code, review security, and ship iOS apps—with zero coding experience]]></summary>
+        <author>
+            <name>Claire Vo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bayesian Thinking for People Who Hated Statistics]]></title>
+        <id>https://towardsdatascience.com/?p=608608</id>
+        <link href="https://towardsdatascience.com/bayesian-thinking-for-people-who-hated-statistics/"/>
+        <updated>2026-03-16T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You already think like a Bayesian. Your stats class just taught the formula before the intuition. Here's a 5-step framework to apply it at work.
+The post Bayesian Thinking for People Who Hated Statistics appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Kaushik Rajan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The last interface, sycophancy in AI, design is how it wins]]></title>
+        <id>https://medium.com/p/015c5d1f322c</id>
+        <link href="https://uxdesign.cc/the-last-interface-sycophancy-in-ai-design-is-how-it-wins-015c5d1f322c?source=rss----138adf9c44c---4"/>
+        <updated>2026-03-16T09:22:34.000Z</updated>
+        <author>
+            <name>Fabricio Teixeira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Leaderboard To Monitor OpenClaw Variants Performance]]></title>
+        <id>https://medium.com/p/9cf09eb16bf7</id>
+        <link href="https://generativeai.pub/a-leaderboard-to-monitor-openclaw-variants-performance-9cf09eb16bf7?source=rss----440100e76000---4"/>
+        <updated>2026-03-16T08:45:29.000Z</updated>
+        <summary type="html"><![CDATA[ClawCharts tracks the explosive Claw ecosystem in real time, ranking nine projects by stars, commits, and contributor momentum.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Jim Clyde Monge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perplexity Computer Just Did in 7 Minutes What Took Me Hours]]></title>
+        <id>https://medium.com/p/ffda9d76c6ed</id>
+        <link href="https://generativeai.pub/perplexity-computer-just-did-in-7-minutes-what-took-me-hours-ffda9d76c6ed?source=rss----440100e76000---4"/>
+        <updated>2026-03-16T08:37:50.000Z</updated>
+        <summary type="html"><![CDATA[Perplexity Computer coordinates 19 AI models for real research tasks. Here’s what it did in 7 minutes, plus 7 ready-to-use prompts.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Adham Khaled</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Claude Code Skills Every Developer Needs in 2026]]></title>
+        <id>https://medium.com/p/52b15ae68685</id>
+        <link href="https://generativeai.pub/7-claude-code-skills-every-developer-needs-in-2026-52b15ae68685?source=rss----440100e76000---4"/>
+        <updated>2026-03-16T08:37:48.000Z</updated>
+        <summary type="html"><![CDATA[Starting a new project? These community-built skills handle the boring parts so you can focus on building.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Ruqaiya Beguwala</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Letter to Anthropic]]></title>
+        <id>https://medium.com/p/0c09d04de7c5</id>
+        <link href="https://generativeai.pub/open-letter-to-anthropic-0c09d04de7c5?source=rss----440100e76000---4"/>
+        <updated>2026-03-16T08:35:57.000Z</updated>
+        <author>
+            <name>Andrew Cole, AI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Studied OpenClaw Memory System — Here’s What I Found]]></title>
+        <id>https://medium.com/p/c05c6d50def4</id>
+        <link href="https://generativeai.pub/i-studied-openclaw-memory-system-heres-what-i-found-c05c6d50def4?source=rss----440100e76000---4"/>
+        <updated>2026-03-16T08:29:50.000Z</updated>
+        <summary type="html"><![CDATA[Over the past year, almost all AI products have been talking about one word: memory.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Gao Dalie (高達烈)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I use AI to make my life easier.]]></title>
+        <id>https://www.youtube.com/shorts/X_LdwPD3CDQ</id>
+        <link href="https://www.youtube.com/shorts/X_LdwPD3CDQ"/>
+        <updated>2026-03-16T07:58:56.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吸塵器＋拖把通通丟掉！石頭科技 F25 Ultra 淨蒸者：22000Pa 超大吸力，高溫除菌洗地機天花板！]]></title>
+        <id>https://www.youtube.com/watch?v=gKjsZmJUUFU</id>
+        <link href="https://www.youtube.com/watch?v=gKjsZmJUUFU"/>
+        <updated>2026-03-16T07:55:11.000Z</updated>
+        <author>
+            <name>電腦王阿達</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😼 NVIDIA Wants to Own Every Layer of the AI Economy (And GTC 2026 Was the Blueprint)]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/-nvidia-wants-to-own-every-layer-of-the-ai-economy-and-gtc-2026-was-the-blueprint/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/-nvidia-wants-to-own-every-layer-of-the-ai-economy-and-gtc-2026-was-the-blueprint/"/>
+        <updated>2026-03-16T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Jensen Huang's GTC 2026 keynote wasn't a product dump. It was a declaration: NVIDIA plans to become the operating layer for the entire agentic AI economy, from chips to inference to industrial deployment.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Every AI Model Explained in 20 Minutes]]></title>
+        <id>https://www.youtube.com/watch?v=I0me2uEbfuE</id>
+        <link href="https://www.youtube.com/watch?v=I0me2uEbfuE"/>
+        <updated>2026-03-16T01:05:23.000Z</updated>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[😺 Over $2B in AI funding hit in a single news cycle]]></title>
         <id>https://www.theneuron.ai/newsletter/over-2b-in-ai-funding-hit-in-a-single-news-cycle/</id>
@@ -5210,46 +5443,6 @@ The post The Strangest Bottleneck in Modern LLMs appeared first on Towards Data 
         <summary type="html"><![CDATA[Listen now | From HubSpot to Sequoia: Brian Halligan on scaling, leadership, AI, hiring mistakes, and the crisis that changed his life]]></summary>
         <author>
             <name>Lenny Rachitsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A beginner’s guide to Tmux: a multitasking superpower for your terminal]]></title>
-        <id>https://towardsdatascience.com/?p=608389</id>
-        <link href="https://towardsdatascience.com/a-beginners-guide-to-tmux-a-multitasking-superpower-for-your-terminal/"/>
-        <updated>2026-02-15T11:50:00.000Z</updated>
-        <summary type="html"><![CDATA[One of the new things I’ve come across recently, while researching command-line-based coding assistants, is the mention and use of a tool I hadn’t heard of before. That tool is called Tmux, which stands for Terminal Multiplexer.  In the simplest possible terms, Tmux allows you to split up a single terminal window into a number […]
-The post A beginner’s guide to Tmux: a multitasking superpower for your terminal appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Thomas Reid</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[突發！OpenClaw＋Antigravity被封鎖？即刻轉用 GLM-5！低成本替代方案實測]]></title>
-        <id>https://www.youtube.com/watch?v=AdUdh4--URs</id>
-        <link href="https://www.youtube.com/watch?v=AdUdh4--URs"/>
-        <updated>2026-02-15T07:59:06.000Z</updated>
-        <author>
-            <name>文恩澄 Rannes Man</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Have you used Rust as a back end language?]]></title>
-        <id>https://www.youtube.com/shorts/1ROTLQjaUZc</id>
-        <link href="https://www.youtube.com/shorts/1ROTLQjaUZc"/>
-        <updated>2026-02-14T22:47:06.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧠 Community Wisdom: How PMs are using AI coding tools, implementing reverse free trials, distinguishing yourself as a product manager vs. project manager, pricing your consulting work, and more]]></title>
-        <id>https://www.lennysnewsletter.com/p/community-wisdom-how-pms-are-using</id>
-        <link href="https://www.lennysnewsletter.com/p/community-wisdom-how-pms-are-using"/>
-        <updated>2026-02-14T17:03:27.000Z</updated>
-        <summary type="html"><![CDATA[Community Wisdom 173]]></summary>
-        <author>
-            <name>Kiyani</name>
         </author>
     </entry>
 </feed>
