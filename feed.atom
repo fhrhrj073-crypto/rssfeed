@@ -2,10 +2,150 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-03-20T00:58:26.465Z</updated>
+    <updated>2026-03-21T00:54:55.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Playing dumb: how AI is beating scammers at their own game]]></title>
+        <id>https://medium.com/p/87f49b276dff</id>
+        <link href="https://uxdesign.cc/playing-dumb-how-ai-is-beating-scammers-at-their-own-game-87f49b276dff?source=rss----138adf9c44c---4"/>
+        <updated>2026-03-20T21:39:50.000Z</updated>
+        <author>
+            <name>Dora Czerna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google says “Vibe Design” is here, but it didn’t pass my vibe check]]></title>
+        <id>https://medium.com/p/d3caae4922bf</id>
+        <link href="https://uxdesign.cc/google-says-vibe-design-is-here-but-it-didnt-pass-my-vibe-check-d3caae4922bf?source=rss----138adf9c44c---4"/>
+        <updated>2026-03-20T21:39:49.000Z</updated>
+        <summary type="html"><![CDATA[Wall Street thinks “Stitch” is a job killer, but designers aren’t going anywhere.
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Elvis Hsiao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIVE: I built my own AI research lab (Hermes agent/OpenClaw)]]></title>
+        <id>https://www.youtube.com/watch?v=WDtlvsgF4xs</id>
+        <link href="https://www.youtube.com/watch?v=WDtlvsgF4xs"/>
+        <updated>2026-03-20T20:13:12.000Z</updated>
+        <author>
+            <name>Alex Finn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The White House Just Told Congress How to Regulate AI. Here's What It Actually Says.]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/the-white-house-just-told-congress-how-to-regulate-ai-heres-what-it-actually-says/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/the-white-house-just-told-congress-how-to-regulate-ai-heres-what-it-actually-says/"/>
+        <updated>2026-03-20T19:35:45.147Z</updated>
+        <summary type="html"><![CDATA[The U.S. Trump administration released a sweeping AI policy framework today covering everything from child safety to copyright. The biggest move: telling states to stop making their own rules.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Math That’s Killing Your AI Agent]]></title>
+        <id>https://towardsdatascience.com/?p=608650</id>
+        <link href="https://towardsdatascience.com/the-math-thats-killing-your-ai-agent/"/>
+        <updated>2026-03-20T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[An 85% accurate AI agent fails 4 out of 5 times on a 10-step task. Learn the compound probability math behind production failures (and the 4-check pre-deployment framework to fix it).
+The post The Math That’s Killing Your AI Agent appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Kaushik Rajan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future Live | 03.20.26 | Guests from MOTS Podcast, Microsoft, Eliza Labs, and Sentient!]]></title>
+        <id>https://www.youtube.com/watch?v=lnQ1K-fr1Ws</id>
+        <link href="https://www.youtube.com/watch?v=lnQ1K-fr1Ws"/>
+        <updated>2026-03-20T16:13:39.000Z</updated>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Robust Credit Scoring Models (Part 3)]]></title>
+        <id>https://towardsdatascience.com/?p=608648</id>
+        <link href="https://towardsdatascience.com/building-robust-credit-scoring-models-part-3/"/>
+        <updated>2026-03-20T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Handling outliers and missing values in borrower data using Python.
+The post Building Robust Credit Scoring Models (Part 3) appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>JUNIOR JUMBONG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become an AI Engineer Fast]]></title>
+        <id>https://www.youtube.com/watch?v=Zk9LxO_dB64</id>
+        <link href="https://www.youtube.com/watch?v=Zk9LxO_dB64"/>
+        <updated>2026-03-20T14:01:03.000Z</updated>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You’re Not a Fraud. You’re Undervalued: Why Reverse Imposter Syndrome Hits Founders Hard]]></title>
+        <id>https://www.thevccorner.com/p/reverse-imposter-syndrome-founder-visibility-gap</id>
+        <link href="https://www.thevccorner.com/p/reverse-imposter-syndrome-founder-visibility-gap"/>
+        <updated>2026-03-20T13:43:09.000Z</updated>
+        <summary type="html"><![CDATA[The overlooked bias that affects ambitious builders, operators, and visionaries.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Measure AI Value]]></title>
+        <id>https://towardsdatascience.com/?p=608646</id>
+        <link href="https://towardsdatascience.com/how-to-measure-ai-value/"/>
+        <updated>2026-03-20T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[While efficiency is an important source of AI value, it is only part of the picture
+The post How to Measure AI Value appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Dr. Janna Lipenkova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agentic RAG Failure Modes: Retrieval Thrash, Tool Storms, and Context Bloat (and How to Spot Them Early)]]></title>
+        <id>https://towardsdatascience.com/?p=608644</id>
+        <link href="https://towardsdatascience.com/agentic-rag-failure-modes-retrieval-thrash-tool-storms-and-context-bloat-and-how-to-spot-them-early/"/>
+        <updated>2026-03-20T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why agentic RAG systems fail silently in production and how to detect them before your cloud bill does
+The post Agentic RAG Failure Modes: Retrieval Thrash, Tool Storms, and Context Bloat (and How to Spot Them Early) appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Mostafa Ibrahim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小毛驢 周董style]]></title>
+        <id>https://www.youtube.com/shorts/kOBmcKo_HXw</id>
+        <link href="https://www.youtube.com/shorts/kOBmcKo_HXw"/>
+        <updated>2026-03-20T10:28:16.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>電腦王阿達</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😸 Google vs OpenAI: Battle of the Super-Apps]]></title>
+        <id>https://www.theneuron.ai/newsletter/google-vs-openai-battle-of-the-super-apps/</id>
+        <link href="https://www.theneuron.ai/newsletter/google-vs-openai-battle-of-the-super-apps/"/>
+        <updated>2026-03-20T09:00:13.964Z</updated>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Around the Horn Digest: Everything That Happened in AI This Week (Mar 21-27, 2026)]]></title>
+        <id>https://www.theneuron.ai/ai-news-digests/arouond-the-horn-digest-weekof-march-21-2026/</id>
+        <link href="https://www.theneuron.ai/ai-news-digests/arouond-the-horn-digest-weekof-march-21-2026/"/>
+        <updated>2026-03-20T08:57:57.371Z</updated>
+        <summary type="html"><![CDATA[Google shipped a superapp while OpenAI announced one. Cursor built its own coding model. Bezos wants $100B to automate factories. Adobe opened Firefly to 30+ models. And that's just Friday.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenClaw memory SOLVE]]></title>
         <id>https://www.youtube.com/shorts/NLZguC1gobY</id>
@@ -5475,197 +5615,6 @@ The post Understanding the Chi-Square Test Beyond the Formula appeared first on 
 The post AlpamayoR1: Large Causal Reasoning Models for Autonomous Driving appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Ryan Pégoud</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Interesting Things About OpenClaw You Probably Didn’t Know About]]></title>
-        <id>https://medium.com/p/4c008adbe433</id>
-        <link href="https://generativeai.pub/5-interesting-things-about-openclaw-you-probably-didnt-know-about-4c008adbe433?source=rss----440100e76000---4"/>
-        <updated>2026-02-19T12:39:25.000Z</updated>
-        <summary type="html"><![CDATA[Here are five things about OpenClaw that every user must know.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Jim Clyde Monge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Burnout to Breakthrough: How I Turned My Side Hustle Into a Sustainable Business]]></title>
-        <id>https://medium.com/p/fcc5fe48cbc0</id>
-        <link href="https://generativeai.pub/from-burnout-to-breakthrough-how-i-turned-my-side-hustle-into-a-sustainable-business-fcc5fe48cbc0?source=rss----440100e76000---4"/>
-        <updated>2026-02-19T12:36:16.000Z</updated>
-        <author>
-            <name>Abdullah Topraksoy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😺 OpenAI built a crypto thief]]></title>
-        <id>https://www.theneuron.ai/newsletter/openai-built-a-crypto-thief/</id>
-        <link href="https://www.theneuron.ai/newsletter/openai-built-a-crypto-thief/"/>
-        <updated>2026-02-19T12:05:49.006Z</updated>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI in Multiple GPUs: How GPUs Communicate]]></title>
-        <id>https://towardsdatascience.com/?p=608410</id>
-        <link href="https://towardsdatascience.com/how-gpus-communicate/"/>
-        <updated>2026-02-19T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A deep dive into the hardware infrastructure that enables multi-GPU communication for AI workloads
-The post AI in Multiple GPUs: How GPUs Communicate appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Lorenzo Cesconetto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your AI Agent Should Have Its Own Computer (Here's How to Set That Up)]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/openclaw-personal-ai-agent-setup-guide-an-use-cases-february-2026/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/openclaw-personal-ai-agent-setup-guide-an-use-cases-february-2026/"/>
-        <updated>2026-02-19T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenClaw turns a spare computer into a team of AI agents that work while you sleep. Here's how real people are actually setting it up, what it costs, and how some are already making money from it.]]></summary>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding might not be for you if you can't do this.]]></title>
-        <id>https://www.youtube.com/shorts/QcD5y2Esb9I</id>
-        <link href="https://www.youtube.com/shorts/QcD5y2Esb9I"/>
-        <updated>2026-02-19T00:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIVE: Anthropic BANS OpenClaw. It's OVER!]]></title>
-        <id>https://www.youtube.com/watch?v=OEOiERQKKEQ</id>
-        <link href="https://www.youtube.com/watch?v=OEOiERQKKEQ"/>
-        <updated>2026-02-18T21:23:47.000Z</updated>
-        <author>
-            <name>Alex Finn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I used OpenClaw to replace my brain]]></title>
-        <id>https://www.youtube.com/shorts/E0lD7Oy_JDo</id>
-        <link href="https://www.youtube.com/shorts/E0lD7Oy_JDo"/>
-        <updated>2026-02-18T21:14:49.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can AI Solve Failures in Your Supply Chain?]]></title>
-        <id>https://towardsdatascience.com/?p=608408</id>
-        <link href="https://towardsdatascience.com/can-ai-solve-failures-in-your-supply-chain/"/>
-        <updated>2026-02-18T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When your warehouse and transportation teams blame each other for late deliveries, who's right? We can ask an agent connected to the data settle the debate.
-The post Can AI Solve Failures in Your Supply Chain? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Samir Saci</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Cost-Efficient Agentic RAG on Long-Text Documents in SQL Tables]]></title>
-        <id>https://towardsdatascience.com/?p=608406</id>
-        <link href="https://towardsdatascience.com/building-cost-efficient-agentic-rag-on-long-text-documents-in-sql-tables/"/>
-        <updated>2026-02-18T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Designing a hybrid SQL + vector retrieval system without schema changes, data migration, or performance trade-offs
-The post Building Cost-Efficient Agentic RAG on Long-Text Documents in SQL Tables appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Partha Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenClaw tracks my entire life]]></title>
-        <id>https://www.youtube.com/shorts/sMjdOtabOuM</id>
-        <link href="https://www.youtube.com/shorts/sMjdOtabOuM"/>
-        <updated>2026-02-18T19:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Every Analytics Engineer Needs to Understand Data Architecture]]></title>
-        <id>https://towardsdatascience.com/?p=608403</id>
-        <link href="https://towardsdatascience.com/why-every-analytics-engineer-needs-to-understand-data-architecture/"/>
-        <updated>2026-02-18T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Get the data architecture right, and everything else becomes easier.
-I know it sounds simple, but in reality, little nuances in designing your data architecture may have costly implications. This article provides a crash course on the architectures that shape your daily decisions - from relational databases to event-driven systems.
-The post Why Every Analytics Engineer Needs to Understand Data Architecture appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Nikola Ilic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is very important to understand.]]></title>
-        <id>https://www.youtube.com/shorts/yCmI3JZjClM</id>
-        <link href="https://www.youtube.com/shorts/yCmI3JZjClM"/>
-        <updated>2026-02-18T18:38:07.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agentic AI for Modern Deep Learning Experimentation]]></title>
-        <id>https://towardsdatascience.com/?p=608401</id>
-        <link href="https://towardsdatascience.com/agentic-ai-for-modern-deep-learning-experimentation/"/>
-        <updated>2026-02-18T18:20:33.000Z</updated>
-        <summary type="html"><![CDATA[Stop babysitting training runs. Start shipping research. Autonomous experiment management built for/by deep learning engineers.
-The post Agentic AI for Modern Deep Learning Experimentation appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sam Black</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch out for AI]]></title>
-        <id>https://www.youtube.com/shorts/xryheW9Xc5k</id>
-        <link href="https://www.youtube.com/shorts/xryheW9Xc5k"/>
-        <updated>2026-02-18T17:47:31.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are we performing ourselves into exhaustion?]]></title>
-        <id>https://medium.com/p/0e41da7d7652</id>
-        <link href="https://uxdesign.cc/are-we-performing-ourselves-into-exhaustion-0e41da7d7652?source=rss----138adf9c44c---4"/>
-        <updated>2026-02-18T17:37:12.000Z</updated>
-        <author>
-            <name>Pedro A. Brêtas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI: from ads to content]]></title>
-        <id>https://medium.com/p/708666ddab2b</id>
-        <link href="https://uxdesign.cc/openai-ads-as-content-708666ddab2b?source=rss----138adf9c44c---4"/>
-        <updated>2026-02-18T17:35:45.000Z</updated>
-        <author>
-            <name>Rodrigo Osornio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Is Why Big Companies Pay $20B for Small Startups]]></title>
-        <id>https://www.thevccorner.com/p/nvidia-groq-deal-venture-capital</id>
-        <link href="https://www.thevccorner.com/p/nvidia-groq-deal-venture-capital"/>
-        <updated>2026-02-18T13:58:59.000Z</updated>
-        <summary type="html"><![CDATA[What the Nvidia–Groq deal teaches us about VC outcomes and the next era of AI startups]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenClaw Full Course: Setup, Skills, Voice, Memory & More]]></title>
-        <id>https://www.youtube.com/watch?v=vte-fDoZczE</id>
-        <link href="https://www.youtube.com/watch?v=vte-fDoZczE"/>
-        <updated>2026-02-18T13:18:26.000Z</updated>
-        <author>
-            <name>Tech With Tim</name>
         </author>
     </entry>
 </feed>
