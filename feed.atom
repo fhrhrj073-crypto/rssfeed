@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-03-21T00:54:55.007Z</updated>
+    <updated>2026-03-22T01:01:14.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Real Operating Plan: Inside a Fully Linked Startup FP&A Model]]></title>
+        <id>https://www.thevccorner.com/p/real-startup-fpa-model-operating-plan</id>
+        <link href="https://www.thevccorner.com/p/real-startup-fpa-model-operating-plan"/>
+        <updated>2026-03-21T19:31:14.000Z</updated>
+        <summary type="html"><![CDATA[Plan growth, defend your raise, and prove you won’t run out of money.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🧠 Community Wisdom: Beating the solo-founder procrastination trap, best tools for B2B prospecting, finding your first real users pre-launch, and more]]></title>
+        <id>https://www.lennysnewsletter.com/p/community-wisdom-beating-the-solo</id>
+        <link href="https://www.lennysnewsletter.com/p/community-wisdom-beating-the-solo"/>
+        <updated>2026-03-21T17:19:36.000Z</updated>
+        <summary type="html"><![CDATA[Community Wisdom 178]]></summary>
+        <author>
+            <name>Kiyani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Escaping the SQL Jungle]]></title>
+        <id>https://towardsdatascience.com/?p=608655</id>
+        <link href="https://towardsdatascience.com/escaping-the-sql-jungle/"/>
+        <updated>2026-03-21T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most data platforms don’t break overnight; they grow into complexity, query by query. Over time, business logic spreads across SQL scripts, dashboards, and scheduled jobs until the system becomes a “SQL jungle.” This article explores how that happens and how to bring structure back.
+The post Escaping the SQL Jungle appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Mike Huls</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Gentle Introduction to Nonlinear Constrained Optimization with Piecewise Linear Approximations]]></title>
+        <id>https://towardsdatascience.com/?p=608652</id>
+        <link href="https://towardsdatascience.com/a-gentle-introduction-to-nonlinear-constrained-optimization-with-piecewise-linear-approximations/"/>
+        <updated>2026-03-21T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Piecewise linear approximations are a practical way to handle nonlinear constrained models using LP/MIP
+The post A Gentle Introduction to Nonlinear Constrained Optimization with Piecewise Linear Approximations appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Caio Biondi de Carvalho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code × Discord 教學｜用 Discord 控制 AI 寫程式（打造 AI Agent）]]></title>
+        <id>https://www.youtube.com/watch?v=z_n-CrdeRWs</id>
+        <link href="https://www.youtube.com/watch?v=z_n-CrdeRWs"/>
+        <updated>2026-03-21T08:02:51.000Z</updated>
+        <author>
+            <name>ZEDOTECH</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Playing dumb: how AI is beating scammers at their own game]]></title>
         <id>https://medium.com/p/87f49b276dff</id>
@@ -5355,266 +5406,6 @@ The post Donkeys, Not Unicorns appeared first on Towards Data Science.]]></summa
 The post An End-to-End Guide to Beautifying Your Open-Source Repo with Agentic AI appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Nikolay Nikitin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Field study: prototypes over mockups]]></title>
-        <id>https://medium.com/p/8581f20102ff</id>
-        <link href="https://uxdesign.cc/field-study-prototypes-over-mockups-8581f20102ff?source=rss----138adf9c44c---4"/>
-        <updated>2026-02-20T12:13:54.000Z</updated>
-        <author>
-            <name>Édouard Wautier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😺 Google’s sharpest brain yet? 🧠]]></title>
-        <id>https://www.theneuron.ai/newsletter/googles-sharpest-brain-yet/</id>
-        <link href="https://www.theneuron.ai/newsletter/googles-sharpest-brain-yet/"/>
-        <updated>2026-02-20T12:05:28.000Z</updated>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[n8n Hostinger Setup 2026 - Step by Step]]></title>
-        <id>https://www.youtube.com/watch?v=dar7XPQZ8jQ</id>
-        <link href="https://www.youtube.com/watch?v=dar7XPQZ8jQ"/>
-        <updated>2026-02-20T12:01:07.000Z</updated>
-        <author>
-            <name>Metics Media</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Monolith to Contract-Driven Data Mesh]]></title>
-        <id>https://towardsdatascience.com/?p=608418</id>
-        <link href="https://towardsdatascience.com/from-monolith-to-contract-driven-data-mesh/"/>
-        <updated>2026-02-20T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A pragmatic journey using website analytics as a real-world example
-The post From Monolith to Contract-Driven Data Mesh appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Corné POTGIETER</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Releases Lyria 3 — An AI That Generates Music with Vocals in Seconds]]></title>
-        <id>https://medium.com/p/296833815d71</id>
-        <link href="https://generativeai.pub/google-releases-lyria-3-an-ai-that-generates-music-with-vocals-in-seconds-296833815d71?source=rss----440100e76000---4"/>
-        <updated>2026-02-20T08:00:31.000Z</updated>
-        <summary type="html"><![CDATA[Lyria 3 is an AI model that can generate a 30-second track from either text, image, or video input.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Jim Clyde Monge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Chinese AI generated a Tom Cruise vs.]]></title>
-        <id>https://medium.com/p/79d24d94e90d</id>
-        <link href="https://generativeai.pub/a-chinese-ai-generated-a-tom-cruise-vs-79d24d94e90d?source=rss----440100e76000---4"/>
-        <updated>2026-02-20T07:59:47.000Z</updated>
-        <author>
-            <name>Zoom In AI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[America Banned China’s Best AI Chips. Alibaba Said Thank You.]]></title>
-        <id>https://medium.com/p/d7eaac1080c9</id>
-        <link href="https://generativeai.pub/america-banned-chinas-best-ai-chips-alibaba-said-thank-you-d7eaac1080c9?source=rss----440100e76000---4"/>
-        <updated>2026-02-20T07:55:40.000Z</updated>
-        <summary type="html"><![CDATA[Qwen 3.5 beats GPT-5.2 on most benchmarks. It was built on the hardware Washington tried to make unusable.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Ahmed M. Abdelfattah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside OpenClaw: How a Persistent AI Agent Actually Works]]></title>
-        <id>https://medium.com/p/44a2aa5cc1d9</id>
-        <link href="https://generativeai.pub/inside-openclaw-how-a-persistent-ai-agent-actually-works-44a2aa5cc1d9?source=rss----440100e76000---4"/>
-        <updated>2026-02-20T07:54:44.000Z</updated>
-        <author>
-            <name>Mr. Ånand</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI That Dies If It Doesn’t Make Money]]></title>
-        <id>https://medium.com/p/86833e571d61</id>
-        <link href="https://generativeai.pub/the-ai-that-dies-if-it-doesnt-make-money-86833e571d61?source=rss----440100e76000---4"/>
-        <updated>2026-02-20T07:53:57.000Z</updated>
-        <summary type="html"><![CDATA[Web 4.0 isn’t about better browsing. It’s about AI agents that earn their survival — or vanish.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Adham Khaled</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Ways I Got My Content Cited by AI (ChatGPT and Claude)]]></title>
-        <id>https://medium.com/p/7aed4ab4082f</id>
-        <link href="https://generativeai.pub/7-ways-i-got-my-content-cited-by-ai-chatgpt-and-claude-7aed4ab4082f?source=rss----440100e76000---4"/>
-        <updated>2026-02-20T07:51:18.000Z</updated>
-        <author>
-            <name>Edward Tremblay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1.4 Billion People Fell in Love With Robots Last Night. You Still Think AI is Scary?]]></title>
-        <id>https://medium.com/p/dbfbe52f4575</id>
-        <link href="https://generativeai.pub/1-4-billion-people-fell-in-love-with-robots-last-night-you-still-think-ai-is-scary-dbfbe52f4575?source=rss----440100e76000---4"/>
-        <updated>2026-02-20T07:50:27.000Z</updated>
-        <summary type="html"><![CDATA[If you’re building AI for global markets, your cultural assumptions are a product risk. Here’s the three-step audit to fix them.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>MohamedAbdelmenem</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini Has a New Music Button. I Made a Song in 30 Seconds.]]></title>
-        <id>https://medium.com/p/7497636d66d4</id>
-        <link href="https://generativeai.pub/gemini-has-a-new-music-button-i-made-a-song-in-30-seconds-7497636d66d4?source=rss----440100e76000---4"/>
-        <updated>2026-02-20T07:48:59.000Z</updated>
-        <summary type="html"><![CDATA[Google just added Lyria 3 to Gemini — a full AI music tool with vocals, cover art, and genre presets. I spent a morning with it. Here’s…
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Gauraw Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini 3.1 Pro Frame Mogs everyone else]]></title>
-        <id>https://www.youtube.com/shorts/9BwUuGAL6Cc</id>
-        <link href="https://www.youtube.com/shorts/9BwUuGAL6Cc"/>
-        <updated>2026-02-20T02:30:08.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini CLI, Explained: Everything You Need to Know About Google's Free AI Coding Agent]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/gemini-cli-explained-everything-you-need-to-know-about-googles-free-coding-agent/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/gemini-cli-explained-everything-you-need-to-know-about-googles-free-coding-agent/"/>
-        <updated>2026-02-20T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[He built GitHub Copilot at Microsoft. Then he moved to Google, built an AI coding tool at a hackathon, and his team now ships 100 to 150 features every single week. Here's every insight from his first-ever deep interview about Gemini CLI.]]></summary>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini 3.1 Pro: Google's "Minor" Update That Doubled Its AI's Reasoning Power]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/gemini-3-1-pro-google-reasoning-update/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/gemini-3-1-pro-google-reasoning-update/"/>
-        <updated>2026-02-19T23:27:05.667Z</updated>
-        <summary type="html"><![CDATA[Google just dropped Gemini 3.1 Pro, and the ".1" is misleading. This update more than doubles the model's reasoning scores, brings Deep Think-style intelligence to everyday use, and makes Google AI Studio a legitimate full-stack coding tool. Here's everything you need to know.]]></summary>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code: The Complete Guide to Building Real Projects (From Two of YouTube's Best Tutorials)]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/claude-code-complete-guide-best-tutorials-2026/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/claude-code-complete-guide-best-tutorials-2026/"/>
-        <updated>2026-02-19T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[We watched 5+ hours of Claude Code tutorials so you don't have to. Here's everything you need to know to go from zero to building real, functional projects, with timestamped links so you can follow along.]]></summary>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic just BANNED OpenClaw...]]></title>
-        <id>https://www.youtube.com/watch?v=2HiHDIFStzg</id>
-        <link href="https://www.youtube.com/watch?v=2HiHDIFStzg"/>
-        <updated>2026-02-19T22:05:08.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pelican Test]]></title>
-        <id>https://www.youtube.com/shorts/-7OhTjMeY_0</id>
-        <link href="https://www.youtube.com/shorts/-7OhTjMeY_0"/>
-        <updated>2026-02-19T21:47:58.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment your answer👇]]></title>
-        <id>https://www.youtube.com/shorts/lM4PLvC7190</id>
-        <link href="https://www.youtube.com/shorts/lM4PLvC7190"/>
-        <updated>2026-02-19T20:57:47.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Missing Curriculum: Essential Concepts For Data Scientists in the Age of AI Coding Agents]]></title>
-        <id>https://towardsdatascience.com/?p=608416</id>
-        <link href="https://towardsdatascience.com/the-missing-curriculum-essential-concepts-for-data-scientists-in-the-age-of-ai-coding-agents/"/>
-        <updated>2026-02-19T20:16:51.000Z</updated>
-        <summary type="html"><![CDATA[AI can write the code, but you have to steer the ship. Master the knowledge to keep you relevant in the age of AI.
-The post The Missing Curriculum: Essential Concepts For Data Scientists in the Age of AI Coding Agents appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Benjamin Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You NEED to do this with OpenClaw immediately!]]></title>
-        <id>https://www.youtube.com/watch?v=Aj6hoC9JaLI</id>
-        <link href="https://www.youtube.com/watch?v=Aj6hoC9JaLI"/>
-        <updated>2026-02-19T20:03:13.000Z</updated>
-        <author>
-            <name>Alex Finn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the Chi-Square Test Beyond the Formula]]></title>
-        <id>https://towardsdatascience.com/?p=608414</id>
-        <link href="https://towardsdatascience.com/understanding-the-chi-square-test-beyond-the-formula/"/>
-        <updated>2026-02-19T18:28:26.000Z</updated>
-        <summary type="html"><![CDATA[How categorical data becomes statistical evidence.
-The post Understanding the Chi-Square Test Beyond the Formula appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Nikhil Dasari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Tried Google's Hardest Coding Interview (Here's What Happened)]]></title>
-        <id>https://www.youtube.com/watch?v=8DjDn-YSWaA</id>
-        <link href="https://www.youtube.com/watch?v=8DjDn-YSWaA"/>
-        <updated>2026-02-19T16:24:32.000Z</updated>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[26 Pitch Decks That Raised $400M in 2026]]></title>
-        <id>https://www.thevccorner.com/p/26-pitch-decks-raised-400m</id>
-        <link href="https://www.thevccorner.com/p/26-pitch-decks-raised-400m"/>
-        <updated>2026-02-19T16:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Pre-Seed to Series B — the actual decks that closed]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Head of Claude Code: What happens after coding is solved | Boris Cherny]]></title>
-        <id>https://www.lennysnewsletter.com/p/head-of-claude-code-what-happens</id>
-        <link href="https://www.lennysnewsletter.com/p/head-of-claude-code-what-happens"/>
-        <updated>2026-02-19T13:31:57.000Z</updated>
-        <summary type="html"><![CDATA[Listen now | Anthropic’s Boris Cherny on building Claude Code, how to maximize AI productivity, and what comes next after coding is “solved”]]></summary>
-        <author>
-            <name>Lenny Rachitsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AlpamayoR1: Large Causal Reasoning Models for Autonomous Driving]]></title>
-        <id>https://towardsdatascience.com/?p=608412</id>
-        <link href="https://towardsdatascience.com/alpamayor1-large-causal-reasoning-models-for-autonomous-driving/"/>
-        <updated>2026-02-19T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[All you need to know about Chain of Causation reasoning and the current state of Autonomous Driving!
-The post AlpamayoR1: Large Causal Reasoning Models for Autonomous Driving appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ryan Pégoud</name>
         </author>
     </entry>
 </feed>
