@@ -2,10 +2,117 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-03-22T01:01:14.653Z</updated>
+    <updated>2026-03-23T01:03:00.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[This is important for you to understand...]]></title>
+        <id>https://www.youtube.com/shorts/xe9dVnOcm20</id>
+        <link href="https://www.youtube.com/shorts/xe9dVnOcm20"/>
+        <updated>2026-03-23T00:01:08.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This should be your ONLY focus right now.]]></title>
+        <id>https://www.youtube.com/shorts/JmlXplONBXg</id>
+        <link href="https://www.youtube.com/shorts/JmlXplONBXg"/>
+        <updated>2026-03-22T19:19:44.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😸 The TL;DR on the White House's new AI plan]]></title>
+        <id>https://www.theneuron.ai/newsletter/the-tl-dr-on-the-white-house-s-new-ai-plan/</id>
+        <link href="https://www.theneuron.ai/newsletter/the-tl-dr-on-the-white-house-s-new-ai-plan/"/>
+        <updated>2026-03-22T17:30:11.075Z</updated>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sorry, designers, we don’t decide the future of design]]></title>
+        <id>https://medium.com/p/1510374e8807</id>
+        <link href="https://uxdesign.cc/sorry-designers-we-dont-decide-the-future-of-design-1510374e8807?source=rss----138adf9c44c---4"/>
+        <updated>2026-03-22T17:07:11.000Z</updated>
+        <author>
+            <name>Michael Buckley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prompt Caching with the OpenAI API: A Full Hands-On Python tutorial]]></title>
+        <id>https://towardsdatascience.com/?p=608660</id>
+        <link href="https://towardsdatascience.com/prompt-caching-with-openai-api-full-hands-on-python-tutorial/"/>
+        <updated>2026-03-22T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A step-by-step guide to making your OpenAI apps faster, cheaper, and more efficient
+The post Prompt Caching with the OpenAI API: A Full Hands-On Python tutorial appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Maria Mouschoutzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rate Cuts😬, 80+ Ways to Fund Without Diluting💸, AI Is Breaking Valuation Models💣]]></title>
+        <id>https://www.thevccorner.com/p/rate-cuts-80-ways-to-fund-without</id>
+        <link href="https://www.thevccorner.com/p/rate-cuts-80-ways-to-fund-without"/>
+        <updated>2026-03-22T14:31:17.000Z</updated>
+        <summary type="html"><![CDATA[Another week, another pulse check on venture.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 OpenClaw use cases that will actually improve your life...]]></title>
+        <id>https://www.youtube.com/watch?v=qRA0MyPlEPE</id>
+        <link href="https://www.youtube.com/watch?v=qRA0MyPlEPE"/>
+        <updated>2026-03-22T13:15:13.000Z</updated>
+        <author>
+            <name>Alex Finn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Navier-Stokes Solver in Python from Scratch: Simulating Airflow]]></title>
+        <id>https://towardsdatascience.com/?p=608657</id>
+        <link href="https://towardsdatascience.com/building-a-navier-stokes-solver-in-python-from-scratch-simulating-airflow/"/>
+        <updated>2026-03-22T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A hands-on guide to implementing CFD with NumPy, from discretization to airflow simulation around a bird's wing
+The post Building a Navier-Stokes Solver in Python from Scratch: Simulating Airflow appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ferran Alia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The art of influence: The single most important skill that AI can’t replace | Jessica Fain (Webflow, ex-Slack)]]></title>
+        <id>https://www.lennysnewsletter.com/p/the-art-of-influence-jessica-fain</id>
+        <link href="https://www.lennysnewsletter.com/p/the-art-of-influence-jessica-fain"/>
+        <updated>2026-03-22T12:31:51.000Z</updated>
+        <summary type="html"><![CDATA[A PM’s guide to influencing executives: align with their incentives, present three options, and follow the breadcrumbs]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Steps to Pass Technical Interviews - What I Actually Did]]></title>
+        <id>https://www.youtube.com/watch?v=BH3y1V7KUKg</id>
+        <link href="https://www.youtube.com/watch?v=BH3y1V7KUKg"/>
+        <updated>2026-03-22T11:58:53.000Z</updated>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「中翻」馬斯克宣布「TeraFab」計畫：晶圓製造、SpaceX、Tesla、xAI 四強聯手，打造人類最強運算叢集！]]></title>
+        <id>https://www.youtube.com/watch?v=uexIVhNL314</id>
+        <link href="https://www.youtube.com/watch?v=uexIVhNL314"/>
+        <updated>2026-03-22T09:49:33.000Z</updated>
+        <author>
+            <name>電腦王阿達</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Real Operating Plan: Inside a Fully Linked Startup FP&A Model]]></title>
         <id>https://www.thevccorner.com/p/real-startup-fpa-model-operating-plan</id>
@@ -5317,95 +5424,6 @@ The post Architecting GPUaaS for Enterprise AI On-Prem appeared first on Towards
         <updated>2026-02-21T13:53:19.000Z</updated>
         <author>
             <name>Amber Bouabdallah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code Changed How People Work. Here's How to Actually Use It.]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/claude-code-guide-how-to-use-it%20/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/claude-code-guide-how-to-use-it%20/"/>
-        <updated>2026-02-21T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We watched 7 videos from Claude Code's creator and top power users, then organized every insight into one guide that takes you from zero to running an army of AI agents.]]></summary>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google just dropped Gemini 3.1... (WOAH)]]></title>
-        <id>https://www.youtube.com/watch?v=W5dlgzluems</id>
-        <link href="https://www.youtube.com/watch?v=W5dlgzluems"/>
-        <updated>2026-02-20T20:02:30.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini 3.1 Pro Simulations 👀]]></title>
-        <id>https://www.youtube.com/shorts/A4_MUgnS6rw</id>
-        <link href="https://www.youtube.com/shorts/A4_MUgnS6rw"/>
-        <updated>2026-02-20T19:47:26.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Donkeys, Not Unicorns]]></title>
-        <id>https://towardsdatascience.com/?p=608422</id>
-        <link href="https://towardsdatascience.com/donkeys-not-unicorns-the-new-rules-of-commoditized-magic/"/>
-        <updated>2026-02-20T18:21:56.000Z</updated>
-        <summary type="html"><![CDATA[The New Rules of Entrepreneurship in the Era of Commoditized Magic
-The post Donkeys, Not Unicorns appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Yariv Adan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIVE: INSANE OpenClaw Use Cases]]></title>
-        <id>https://www.youtube.com/watch?v=P4jryx4ek0c</id>
-        <link href="https://www.youtube.com/watch?v=P4jryx4ek0c"/>
-        <updated>2026-02-20T17:58:58.000Z</updated>
-        <author>
-            <name>Alex Finn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forward Future Live | 02.20.26 | Guests from IFS, Vantor, Pindrop Security, and Runway!]]></title>
-        <id>https://www.youtube.com/watch?v=JktkeSkt7Fc</id>
-        <link href="https://www.youtube.com/watch?v=JktkeSkt7Fc"/>
-        <updated>2026-02-20T17:23:21.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini 3.1 Pro Benchmarks]]></title>
-        <id>https://www.youtube.com/shorts/gnd1K0h6fjM</id>
-        <link href="https://www.youtube.com/shorts/gnd1K0h6fjM"/>
-        <updated>2026-02-20T17:13:46.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Your Series A Might Kill Your Startup]]></title>
-        <id>https://www.thevccorner.com/p/why-too-much-startup-funding-leads-to-failure</id>
-        <link href="https://www.thevccorner.com/p/why-too-much-startup-funding-leads-to-failure"/>
-        <updated>2026-02-20T16:40:30.000Z</updated>
-        <summary type="html"><![CDATA[Big checks early feel like validation, but history shows they often accelerate failure. Here’s why too much capital too soon can be a curse, not a blessing.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An End-to-End Guide to Beautifying Your Open-Source Repo with Agentic AI]]></title>
-        <id>https://towardsdatascience.com/?p=608420</id>
-        <link href="https://towardsdatascience.com/an-end-to-end-guide-to-beautifying-your-open-source-repo-with-agentic-ai/"/>
-        <updated>2026-02-20T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The guide to automated improvement of scientific and industrial repositories using open-source AI agents
-The post An End-to-End Guide to Beautifying Your Open-Source Repo with Agentic AI appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Nikolay Nikitin</name>
         </author>
     </entry>
 </feed>
