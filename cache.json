@@ -453,6 +453,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfQNB91qRP_5ILeu_S_bSkg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=UlC7pTdH_y4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UlC7pTdH_y4",
+          "publishedOn": "2026-03-24T22:20:54.000Z",
+          "wordCount": null,
+          "title": "How to use OpenClaw for free (local AI models guide)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=LaHXmRE-_fs",
           "author": null,
           "description": "",
@@ -590,16 +600,6 @@
           "publishedOn": "2026-02-24T22:33:59.000Z",
           "wordCount": null,
           "title": "Set up a multi-agent team using OpenClaw in Discord",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XeTgMEapbag",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XeTgMEapbag",
-          "publishedOn": "2026-02-22T14:45:03.000Z",
-          "wordCount": null,
-          "title": "5 OpenClaw use cases that will make you a productivity MACHINE",
           "imageUrl": null
         }
       ]
@@ -746,6 +746,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCawZsQWqfGSbCI5yjkdVkTA",
       "siteUrl": "https://www.youtube.com/channel/UCawZsQWqfGSbCI5yjkdVkTA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=mhoFqhLXc3g",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mhoFqhLXc3g",
+          "publishedOn": "2026-03-24T17:51:31.000Z",
+          "wordCount": null,
+          "title": "Hard Takeoff has started",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=lnQ1K-fr1Ws",
           "author": null,
@@ -1212,16 +1222,6 @@
           "wordCount": null,
           "title": "支援 Nano Banana 2！DomoAI 影片轉影片、AI 換臉與數位化身全教學",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=crvhiEQKnBE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=crvhiEQKnBE",
-          "publishedOn": "2026-02-23T10:44:55.000Z",
-          "wordCount": null,
-          "title": "網購族必看！綠界「CashBack 返多多」最高10%無腦回饋，三大支付都能賺！",
-          "imageUrl": null
         }
       ]
     },
@@ -1391,6 +1391,38 @@
       "feedUrl": "https://www.lennysnewsletter.com/feed",
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
+        {
+          "id": "https://www.lennysnewsletter.com/p/state-of-the-product-job-market-in-ee9",
+          "author": "Lenny Rachitsky",
+          "description": "AI roles are exploding, PM and eng job openings are the highest in years, and the overall number of tech jobs is up",
+          "link": "https://www.lennysnewsletter.com/p/state-of-the-product-job-market-in-ee9",
+          "publishedOn": "2026-03-24T12:45:12.000Z",
+          "wordCount": null,
+          "title": "State of the product job market in early 2026",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!R7qT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9aa1359e-86e1-4279-b080-ae33cff8af21_1456x970.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!R7qT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9aa1359e-86e1-4279-b080-ae33cff8af21_1456x970.png"
+        },
+        {
+          "id": "https://www.lennysnewsletter.com/p/state-of-the-product-job-market-in-372",
+          "author": "Lenny Rachitsky",
+          "description": "AI roles are exploding, PM and eng job openings are the highest in years, and the overall number of tech jobs is up",
+          "link": "https://www.lennysnewsletter.com/p/state-of-the-product-job-market-in-372",
+          "publishedOn": "2026-03-24T09:02:05.000Z",
+          "wordCount": null,
+          "title": "State of the product job market in early 2026",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/191937166/5ceb97a8c3ecf305f351f45ebeaa3e5a.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-microsofts",
           "author": "Lenny Rachitsky",
@@ -1879,6 +1911,22 @@
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
         {
+          "id": "https://www.thevccorner.com/p/yc-w26-demo-day-2026-complete-breakdown",
+          "author": null,
+          "description": "One already at $27M ARR. Here’s what the data says:",
+          "link": "https://www.thevccorner.com/p/yc-w26-demo-day-2026-complete-breakdown",
+          "publishedOn": "2026-03-24T18:04:27.000Z",
+          "wordCount": null,
+          "title": "YC W26 Demo Day: Everything You Need to Know About the Strongest Batch in Y Combinator History",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!g5Tl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F46dbd27c-f536-46c2-a328-04504b825caa_1080x675.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!g5Tl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F46dbd27c-f536-46c2-a328-04504b825caa_1080x675.webp"
+        },
+        {
           "id": "https://www.thevccorner.com/p/rate-cuts-80-ways-to-fund-without",
           "author": "Ruben Dominguez",
           "description": "Another week, another pulse check on venture.",
@@ -2261,22 +2309,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!-_bo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03332763-5f62-4766-b104-dc9ef9c00717_1408x768.png"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/saas-isnt-dead-anthropic-runs-your",
-          "author": "Ruben Dominguez",
-          "description": "Another week, another pulse check on venture.",
-          "link": "https://www.thevccorner.com/p/saas-isnt-dead-anthropic-runs-your",
-          "publishedOn": "2026-02-22T16:53:16.000Z",
-          "wordCount": null,
-          "title": "SaaS Isn’t Dead🏗️, Anthropic Runs Your Business for $0.30 🤖, Founder Salaries Rise Slowly Despite AI Billions💰",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!wQLd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8ea0e1cb-3559-436f-8043-c259caa13c75_1999x1125.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!wQLd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8ea0e1cb-3559-436f-8043-c259caa13c75_1999x1125.webp"
         }
       ]
     },
@@ -2285,6 +2317,26 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/codex-101-a-beginners-guide-to-openais-coding-agent/",
+          "author": null,
+          "description": "Codex isn’t just a model that writes code, it’s an agent that can inspect repos, run commands, review changes, and work across multiple surfaces. Here’s the beginner-friendly guide to understanding what it does and how to use it for basic tasks, as well.",
+          "link": "https://www.theneuron.ai/explainer-articles/codex-101-a-beginners-guide-to-openais-coding-agent/",
+          "publishedOn": "2026-03-24T15:45:58.902Z",
+          "wordCount": null,
+          "title": "Codex 101: A Beginner’s Guide to OpenAI’s Coding Agent",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/newsletter/bernie-sanders-interviewed-claude-on-camera-here-s-what-happened/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/bernie-sanders-interviewed-claude-on-camera-here-s-what-happened/",
+          "publishedOn": "2026-03-24T10:35:06.875Z",
+          "wordCount": null,
+          "title": "😸 Bernie Sanders Interviewed Claude on Camera: Here's What Happened",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/newsletter/the-tl-dr-on-the-white-house-s-new-ai-plan/",
           "author": null,
@@ -3064,46 +3116,6 @@
           "wordCount": null,
           "title": "Around the Horn Digest: Everything That Happened in AI This Week (Feb 23-28, 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/learn-how-to-automate-your-emails/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/learn-how-to-automate-your-emails/",
-          "publishedOn": "2026-02-22T19:31:27.130Z",
-          "wordCount": null,
-          "title": "😸 Learn how to automate your emails",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/claude-code-automations-complete-guide/",
-          "author": null,
-          "description": "Claude Code can now run specialized AI workers, automate recurring tasks, and handle your Monday morning busywork before you wake up. Here's everything it can do, how to set it up, and the engineering trick that makes it all affordable.",
-          "link": "https://www.theneuron.ai/explainer-articles/claude-code-automations-complete-guide/",
-          "publishedOn": "2026-02-22T19:30:00.000Z",
-          "wordCount": null,
-          "title": "The Complete Guide to Making Claude Code Work For You (Even While You Sleep)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/claude-code-recurring-automations-tutorial/",
-          "author": null,
-          "description": "You can now schedule Claude Code to handle recurring tasks automatically, from checking urgent emails to prepping client meetings. Here's exactly how to set it up, whether you're technical or not.",
-          "link": "https://www.theneuron.ai/explainer-articles/claude-code-recurring-automations-tutorial/",
-          "publishedOn": "2026-02-22T18:30:00.000Z",
-          "wordCount": null,
-          "title": "How to Make Claude Code Do Your Boring Tasks on Autopilot",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/openai-codex-app-deep-dive-how-it-works/",
-          "author": null,
-          "description": "The Codex app hit 1 million downloads in its first week, got a Super Bowl ad, and made GUIs cool again for developers. We break down everything inside OpenAI's \"command center for agents,\" plus behind-the-scenes insights from the team that built it.",
-          "link": "https://www.theneuron.ai/explainer-articles/openai-codex-app-deep-dive-how-it-works/",
-          "publishedOn": "2026-02-22T18:00:00.000Z",
-          "wordCount": null,
-          "title": "OpenAI's Codex App Is a Command Center for AI Agents. Here's How It Works (And How OpenAI Actually Uses It).",
-          "imageUrl": null
         }
       ]
     },
@@ -3112,6 +3124,46 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=608676",
+          "author": "Eivind Kjosbakken",
+          "description": "Supercharge Claude Code with continual learning\nThe post How to Make Claude Code Improve from its Own Mistakes appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-make-claude-code-improve-from-its-mistakes/",
+          "publishedOn": "2026-03-24T16:30:00.000Z",
+          "wordCount": 4326,
+          "title": "How to Make Claude Code Improve from its Own Mistakes",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/Gemini-Generated-Image-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608674",
+          "author": "Rashi Desai",
+          "description": "How AI agents, data foundations, and human-centered analytics are reshaping the future of decision-making\nThe post From Dashboards to Decisions: Rethinking Data & Analytics in the Age of AI  appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/from-dashboards-to-decisions-rethinking-data-analytics-in-the-age-of-ai/",
+          "publishedOn": "2026-03-24T15:00:00.000Z",
+          "wordCount": 4436,
+          "title": "From Dashboards to Decisions: Rethinking Data & Analytics in the Age of AI",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/marco-kaufmann-0kbNh7XrJ7Q-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608672",
+          "author": "Mukul Sood",
+          "description": "We’ve become remarkably good at building sophisticated agent systems, but we haven’t developed the same rigor around proving they work. \nThe post Production-Ready LLM Agents: A Comprehensive Framework for Offline Evaluation appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/production-ready-llm-agents-a-comprehensive-framework-for-offline-evaluation/",
+          "publishedOn": "2026-03-24T13:30:00.000Z",
+          "wordCount": 6512,
+          "title": "Production-Ready LLM Agents: A Comprehensive Framework for Offline Evaluation",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/featureimage_llmagent_offlineevaluaation-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608670",
+          "author": "Hugo Lu",
+          "description": "How to leverage a framework to effectively prioritize AI Initiatives to rapidly accelerate growth and efficiency\nThe post The Complete Guide to AI Implementation for Chief Data & AI Officers in 2026 appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-complete-guide-to-ai-implementation-for-chief-data-ai-officers-in-2026/",
+          "publishedOn": "2026-03-24T12:00:00.000Z",
+          "wordCount": 8643,
+          "title": "The Complete Guide to AI Implementation for Chief Data & AI Officers in 2026",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/CDO_DIGEST-1.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=608668",
           "author": "Ibrahim Salami",
@@ -4101,16 +4153,6 @@
           "wordCount": 4631,
           "title": "Build Effective Internal Tooling with Claude Code",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/image-143.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608429",
-          "author": "Reya Vir",
-          "description": "Why optimizing for speed over safety is leaving applications vulnerable, and how to fix it.\nThe post The Reality of Vibe Coding: AI Agents and the Security Debt Crisis appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-reality-of-vibe-coding-ai-agents-and-the-security-debt-crisis/",
-          "publishedOn": "2026-02-22T15:00:00.000Z",
-          "wordCount": 3843,
-          "title": "The Reality of Vibe Coding: AI Agents and the Security Debt Crisis",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/02/lucid-origin_Modern_flat_vector_illustration_of_AI_coding_while_security_shields_around_an_ap-0.jpg"
         }
       ]
     },
@@ -4125,6 +4167,76 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/4b4166b9bc63",
+          "author": "Arin Bhowmick",
+          "description": "",
+          "link": "https://uxdesign.cc/design-debt-is-now-as-dangerous-as-technical-debt-4b4166b9bc63?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-03-24T21:47:23.000Z",
+          "wordCount": null,
+          "title": "Design debt is now as dangerous as technical debt",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/baa6cd270c62",
+          "author": "Ida Persson",
+          "description": "",
+          "link": "https://uxdesign.cc/making-vs-the-machine-baa6cd270c62?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-03-24T21:44:24.000Z",
+          "wordCount": null,
+          "title": "Making vs. the machine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/850d5e4fd9cc",
+          "author": "Anna Lefour",
+          "description": "",
+          "link": "https://uxdesign.cc/the-design-engineer-symptom-what-a-rising-job-title-reveals-850d5e4fd9cc?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-03-24T21:43:28.000Z",
+          "wordCount": null,
+          "title": "The design engineer symptom: what a rising job title reveals",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3f07ce9e6032",
+          "author": "Dolphia",
+          "description": "",
+          "link": "https://uxdesign.cc/when-ai-experiences-fail-who-is-held-accountable-3f07ce9e6032?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-03-24T21:42:48.000Z",
+          "wordCount": null,
+          "title": "When AI experiences fail, who is held accountable?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d172cee23d5a",
+          "author": "Jonathan Ng",
+          "description": "Why perfect design is failing businesses.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/the-paradox-of-precision-d172cee23d5a?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-03-24T21:41:57.000Z",
+          "wordCount": null,
+          "title": "The paradox of precision",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/dbb3ec3729bb",
+          "author": "Kai Wong",
+          "description": "Designers are struggling to slow teams down for research. Here’s what helps.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/how-behavioral-science-can-help-persuade-our-team-to-do-one-more-user-test-dbb3ec3729bb?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-03-24T11:26:32.000Z",
+          "wordCount": null,
+          "title": "How behavioral science can help persuade our team to do one more user test",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d72041945c26",
+          "author": "Dora Czerna",
+          "description": "",
+          "link": "https://uxdesign.cc/who-can-actually-afford-ai-tools-now-d72041945c26?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-03-24T08:19:17.000Z",
+          "wordCount": null,
+          "title": "Who can actually afford AI tools now?",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/47a60a45323e",
           "author": "Patrick Neeman",
@@ -4794,86 +4906,6 @@
           "wordCount": null,
           "title": "Extended overthinking",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/568b86eb87f2",
-          "author": "Fabricio Teixeira",
-          "description": "",
-          "link": "https://uxdesign.cc/hidden-cost-of-ai-prototypes-leadership-myths-how-designers-use-ai-568b86eb87f2?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-02-23T12:33:42.000Z",
-          "wordCount": null,
-          "title": "Hidden cost of AI prototypes, leadership myths, how designers use AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/4643d1f14171",
-          "author": "Hoang Nguyen",
-          "description": "Fifteen years ago, the iPhone killed Flash and nearly erased an entire design discipline.\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/what-designers-can-learn-from-the-first-iphone-moment-of-ai-4643d1f14171?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-02-23T12:21:58.000Z",
-          "wordCount": null,
-          "title": "What designers can learn from the first iPhone moment of AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c0a0c535f456",
-          "author": "Nicole Alexandra Michaelis",
-          "description": "",
-          "link": "https://uxdesign.cc/designers-we-should-be-killing-it-right-now-c0a0c535f456?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-02-23T12:21:37.000Z",
-          "wordCount": null,
-          "title": "Designers, we should be killing it right now",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/16cdba2df6ad",
-          "author": "Elvis Hsiao",
-          "description": "Why the future of design belongs to creative thinkers and problem solvers\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/something-big-might-be-happening-16cdba2df6ad?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-02-23T12:19:35.000Z",
-          "wordCount": null,
-          "title": "Something big “might” be happening",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/608a1ba03e97",
-          "author": "Catherine Chu",
-          "description": "",
-          "link": "https://uxdesign.cc/no-vr-cant-make-you-walk-in-others-shoes-608a1ba03e97?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-02-23T12:18:59.000Z",
-          "wordCount": null,
-          "title": "No, VR can’t make you walk in others’ shoes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/6fa58e2c865e",
-          "author": "Jonathan Ng",
-          "description": "Lessons in design, from a USB drive to the age of AI, and beyond.\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/on-craft-and-connivence-6fa58e2c865e?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-02-23T12:18:47.000Z",
-          "wordCount": null,
-          "title": "On craft and connivence",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/928b2919c960",
-          "author": "Andrea Filiberto Lucas",
-          "description": "",
-          "link": "https://uxdesign.cc/surveillance-by-default-consent-by-assumption-928b2919c960?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-02-23T12:16:59.000Z",
-          "wordCount": null,
-          "title": "Surveillance by default, consent by assumption",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9473ad7ff386",
-          "author": "Maxim Kich",
-          "description": "Mission control didn’t run on intuition. Neither should your design process.\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/ux-questionnaires-is-it-rocket-science-9473ad7ff386?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-02-23T12:16:18.000Z",
-          "wordCount": null,
-          "title": "UX questionnaires. Is it rocket science?",
-          "imageUrl": null
         }
       ]
     },
@@ -4905,6 +4937,106 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/60993c3a40bb",
+          "author": "Jim Clyde Monge",
+          "description": "Cybersecurity researcher shows how a simple command allows Nemoclaw to modify its own configuration and bypass security controls.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/cybersecurity-expert-uncovers-major-flaw-in-nvidia-nemoclaw-security-60993c3a40bb?source=rss----440100e76000---4",
+          "publishedOn": "2026-03-24T14:43:50.000Z",
+          "wordCount": null,
+          "title": "Cybersecurity Expert Uncovers Major Flaw in NVIDIA Nemoclaw Security",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7bfc93933605",
+          "author": "Revant",
+          "description": "Two weeks ago, I opened my Obsidian vault looking for notes from an architecture review. The kind of meeting where one bad call costs you…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/i-automated-my-meeting-notes-and-now-i-dont-trust-myself-to-take-them-manually-7bfc93933605?source=rss----440100e76000---4",
+          "publishedOn": "2026-03-24T14:41:01.000Z",
+          "wordCount": null,
+          "title": "I Automated My Meeting Notes and Now I Don’t Trust Myself to Take Them Manually",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c59c946cf500",
+          "author": "Keith Winter",
+          "description": "",
+          "link": "https://generativeai.pub/part-one-why-im-using-ai-to-fight-a-wandering-mind-c59c946cf500?source=rss----440100e76000---4",
+          "publishedOn": "2026-03-24T14:38:21.000Z",
+          "wordCount": null,
+          "title": "Part One: Why I’m Using AI to Fight a Wandering Mind",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7cca7501dfec",
+          "author": "Reuven Gorsht",
+          "description": "",
+          "link": "https://generativeai.pub/the-ai-economy-has-two-winners-and-one-casualty-7cca7501dfec?source=rss----440100e76000---4",
+          "publishedOn": "2026-03-24T14:37:08.000Z",
+          "wordCount": null,
+          "title": "The AI Economy Has Two Winners and One Casualty",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/be74d83ee855",
+          "author": "nardaimonia",
+          "description": "",
+          "link": "https://generativeai.pub/vibe-coding-has-a-hidden-filter-and-it-is-not-in-how-well-you-prompt-be74d83ee855?source=rss----440100e76000---4",
+          "publishedOn": "2026-03-24T14:34:46.000Z",
+          "wordCount": null,
+          "title": "Vibe-coding has a hidden filter and it is not in how well you prompt",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e79144888341",
+          "author": "Mohamed Abdelsalam",
+          "description": "This journey reminds me of how far we’ve come, and I hope it inspires you, too.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/from-stack-overflow-to-ai-agents-e79144888341?source=rss----440100e76000---4",
+          "publishedOn": "2026-03-24T14:32:53.000Z",
+          "wordCount": null,
+          "title": "From Stack Overflow to AI Agents",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/888b75aac33b",
+          "author": "Gaurav Shrivastav",
+          "description": "Here’s what happens when you let an LLM navigate a document the way a human would and how it scored 98.7% on financial benchmarks.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/i-threw-out-my-vector-database-rag-got-way-better-888b75aac33b?source=rss----440100e76000---4",
+          "publishedOn": "2026-03-24T14:31:41.000Z",
+          "wordCount": null,
+          "title": "I Threw Out My Vector Database. RAG Got Way Better.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/53413d386526",
+          "author": "Son Anh",
+          "description": "",
+          "link": "https://generativeai.pub/why-i-stopped-debugging-llms-by-vibes-53413d386526?source=rss----440100e76000---4",
+          "publishedOn": "2026-03-24T14:31:10.000Z",
+          "wordCount": null,
+          "title": "Why I Stopped Debugging LLMs by “Vibes”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d63127f5807f",
+          "author": "Morgan Linton",
+          "description": "After spending more time trying to optimize the heck out of my AGENTS.md\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/your-agents-md-is-probably-making-your-coding-agent-worse-d63127f5807f?source=rss----440100e76000---4",
+          "publishedOn": "2026-03-24T14:28:54.000Z",
+          "wordCount": null,
+          "title": "Your AGENTS.md is probably making your coding agent worse",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c80bd754c753",
+          "author": "Anubhav",
+          "description": "What I would learn, what I would ignore, what I would build, and how I would know I was actually getting better.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/how-i-would-become-an-ai-engineer-in-2026-if-i-had-to-start-over-c80bd754c753?source=rss----440100e76000---4",
+          "publishedOn": "2026-03-24T14:26:38.000Z",
+          "wordCount": null,
+          "title": "How I Would Become an AI Engineer in 2026 If I Had to Start Over",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/6735f8d7a262",
           "author": "MohamedAbdelmenem",
