@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-03-29T01:08:21.662Z</updated>
+    <updated>2026-03-30T01:09:09.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[😺 Anthropic leaked Claude Mythos. Cybersecurity stocks crashed]]></title>
+        <id>https://www.theneuron.ai/newsletter/anthropic-leaked-claude-mythos-cybersecurity-stocks-crashed/</id>
+        <link href="https://www.theneuron.ai/newsletter/anthropic-leaked-claude-mythos-cybersecurity-stocks-crashed/"/>
+        <updated>2026-03-30T00:05:15.779Z</updated>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The long and short of telephone progress]]></title>
+        <id>https://medium.com/p/e51cc1570847</id>
+        <link href="https://uxdesign.cc/the-long-and-short-of-telephone-progress-e51cc1570847?source=rss----138adf9c44c---4"/>
+        <updated>2026-03-29T16:26:21.000Z</updated>
+        <summary type="html"><![CDATA[Antitrust regulation, the birth of “Silicon Valley” and approaching the limits of Moore’s law
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Neel Dozome</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become an AI Engineer Fast (Skills, Projects, Salary)]]></title>
+        <id>https://towardsdatascience.com/?p=608718</id>
+        <link href="https://towardsdatascience.com/how-to-become-an-ai-engineer-fast-skills-projects-salary/"/>
+        <updated>2026-03-29T16:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Spoiler, it will take longer than 3 months
+The post How to Become an AI Engineer Fast (Skills, Projects, Salary) appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Egor Howell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Claude Mythos”🧠, SaaS Funeral💀, From Execution to Judgment🎯]]></title>
+        <id>https://www.thevccorner.com/p/claude-mythos-saas-funeral-from-execution</id>
+        <link href="https://www.thevccorner.com/p/claude-mythos-saas-funeral-from-execution"/>
+        <updated>2026-03-29T14:26:57.000Z</updated>
+        <summary type="html"><![CDATA[Another week, another pulse check on tech]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FULL Claude Code Tutorial for Beginners in 2026! (Step-By-Step)]]></title>
+        <id>https://www.youtube.com/watch?v=qYqIhX9hTQk</id>
+        <link href="https://www.youtube.com/watch?v=qYqIhX9hTQk"/>
+        <updated>2026-03-29T13:01:50.000Z</updated>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-Healing Neural Networks in PyTorch: Fix Model Drift in Real Time Without Retraining]]></title>
+        <id>https://towardsdatascience.com/?p=608713</id>
+        <link href="https://towardsdatascience.com/self-healing-neural-networks-in-pytorch-fix-model-drift-in-real-time-without-retraining/"/>
+        <updated>2026-03-29T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What happens when your production model drifts and retraining isn’t an option? This article shows how a self-healing neural network detects drift, adapts in real time using a lightweight adapter, and recovers 27.8% accuracy—without retraining or downtime.
+The post Self-Healing Neural Networks in PyTorch: Fix Model Drift in Real Time Without Retraining appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Emmimal P Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From skeptic to true believer: How OpenClaw changed my life | Claire Vo]]></title>
+        <id>https://www.lennysnewsletter.com/p/how-openclaw-changed-my-life-claire-vo</id>
+        <link href="https://www.lennysnewsletter.com/p/how-openclaw-changed-my-life-claire-vo"/>
+        <updated>2026-03-29T12:31:50.000Z</updated>
+        <summary type="html"><![CDATA[Listen now | Claire Vo went from OpenClaw skeptic to running nine specialized AI agents across her family calendar, inbound sales, kids’ homework help, and more]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch till the end👀]]></title>
+        <id>https://www.youtube.com/shorts/735oSEdvgZQ</id>
+        <link href="https://www.youtube.com/shorts/735oSEdvgZQ"/>
+        <updated>2026-03-29T10:05:12.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🧠 Community Wisdom: When AI velocity outpaces your product strategy, when your estimates keep slipping, one day in San Francisco, pairing Claude Code with Codex, and more]]></title>
         <id>https://www.lennysnewsletter.com/p/community-wisdom-when-ai-velocity</id>
@@ -5176,117 +5257,6 @@ Continue reading on UX Collective »]]></summary>
 Continue reading on UX Collective »]]></summary>
         <author>
             <name>Chris R Becker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scaling ML Inference on Databricks: Liquid or Partitioned? Salted or Not?]]></title>
-        <id>https://towardsdatascience.com/?p=608485</id>
-        <link href="https://towardsdatascience.com/liquid-or-partitioned-salted-or-not-scaling-ml-inference-on-databricks/"/>
-        <updated>2026-02-28T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A case study on techniques to maximize your clusters
-The post Scaling ML Inference on Databricks: Liquid or Partitioned? Salted or Not? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Hector Mejia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic just turned down the DOD...]]></title>
-        <id>https://www.youtube.com/watch?v=rgqxrw26twA</id>
-        <link href="https://www.youtube.com/watch?v=rgqxrw26twA"/>
-        <updated>2026-02-28T00:18:04.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Was Bleeding Tokens in OpenClaw. Here's the System That Fixed It.]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/i-was-bleeding-tokens-in-openclaw-heres-the-system-that-fixed-it/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/i-was-bleeding-tokens-in-openclaw-heres-the-system-that-fixed-it/"/>
-        <updated>2026-02-27T21:59:45.408Z</updated>
-        <summary type="html"><![CDATA[How to stop overpaying for AI by routing every task to the cheapest model that can actually do the job.]]></summary>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Baby Keem know ball]]></title>
-        <id>https://www.youtube.com/shorts/_HkwxN4uO68</id>
-        <link href="https://www.youtube.com/shorts/_HkwxN4uO68"/>
-        <updated>2026-02-27T21:10:21.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIVE: I built an army of OpenClaw agents. I have lost control.]]></title>
-        <id>https://www.youtube.com/watch?v=5zbsR03aGAE</id>
-        <link href="https://www.youtube.com/watch?v=5zbsR03aGAE"/>
-        <updated>2026-02-27T21:07:43.000Z</updated>
-        <author>
-            <name>Alex Finn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Stealth Startups Know That Others Don't]]></title>
-        <id>https://www.thevccorner.com/p/what-stealth-startups-know-that-others</id>
-        <link href="https://www.thevccorner.com/p/what-stealth-startups-know-that-others"/>
-        <updated>2026-02-27T19:30:43.000Z</updated>
-        <summary type="html"><![CDATA[Forget the hype cycle. The most disruptive startups today are building in silence. Here’s what stealth really means and how to do it right.]]></summary>
-        <author>
-            <name>The VC Corner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Just Dropped a 32-Page Playbook for Teaching Claude to Work Like a Real Team Member]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/anthropic-just-dropped-a-32-page-playbook-for-teaching-claude-to-work-like-a-real-team-member/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/anthropic-just-dropped-a-32-page-playbook-for-teaching-claude-to-work-like-a-real-team-member/"/>
-        <updated>2026-02-27T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Anthropic released a comprehensive guide to building "skills" for Claude, reusable instruction sets that let you teach it your workflows once and benefit every time.]]></summary>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding the Pong Game from Scratch in Python]]></title>
-        <id>https://towardsdatascience.com/?p=608478</id>
-        <link href="https://towardsdatascience.com/coding-the-pong-game-from-scratch-in-python/"/>
-        <updated>2026-02-27T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Implementing the classic Pong game in Python using OOP and Turtle
-The post Coding the Pong Game from Scratch in Python appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Mahnoor Javed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Asking if a Model Is Interpretable]]></title>
-        <id>https://towardsdatascience.com/?p=608476</id>
-        <link href="https://towardsdatascience.com/stop-asking-if-a-model-is-interpretable/"/>
-        <updated>2026-02-27T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Start asking what question the explanation should answer.
-The post Stop Asking if a Model Is Interpretable appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Manuel Franco de la Peña</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up an LLC in 2026 - Step by Step]]></title>
-        <id>https://www.youtube.com/watch?v=uN7vClnXWbU</id>
-        <link href="https://www.youtube.com/watch?v=uN7vClnXWbU"/>
-        <updated>2026-02-27T13:55:03.000Z</updated>
-        <author>
-            <name>Metics Media</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generative AI, Discriminative Human]]></title>
-        <id>https://towardsdatascience.com/?p=608473</id>
-        <link href="https://towardsdatascience.com/generative-ai-discriminative-human/"/>
-        <updated>2026-02-27T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[How to think critically about AI in an ocean of hype
-The post Generative AI, Discriminative Human appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Jason Tamara Widjaja</name>
         </author>
     </entry>
 </feed>
