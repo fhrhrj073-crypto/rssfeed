@@ -2,10 +2,246 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-03-31T01:07:25.306Z</updated>
+    <updated>2026-04-01T01:13:57.491Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Agentic AI, design systems & Figma: a practical guide]]></title>
+        <id>https://medium.com/p/6ab0b681718d</id>
+        <link href="https://uxdesign.cc/agentic-ai-design-systems-figma-a-practical-guide-6ab0b681718d?source=rss----138adf9c44c---4"/>
+        <updated>2026-03-31T22:39:40.000Z</updated>
+        <author>
+            <name>Christine Vallaure</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek and Grok cloud dancing data color schemes]]></title>
+        <id>https://medium.com/p/56de4473f2e7</id>
+        <link href="https://uxdesign.cc/deepseek-and-grok-cloud-dancing-data-color-schemes-56de4473f2e7?source=rss----138adf9c44c---4"/>
+        <updated>2026-03-31T22:37:18.000Z</updated>
+        <summary type="html"><![CDATA[Data Visualization Studies with the 2026 Pantone Color of the Year.
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Theresa-Marie Rhyne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Dispatch and the Power of Interfaces]]></title>
+        <id>https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of</id>
+        <link href="https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of"/>
+        <updated>2026-03-31T22:34:37.000Z</updated>
+        <summary type="html"><![CDATA[We often lack the tools for the job, even if the AI is capable enough]]></summary>
+        <author>
+            <name>Ethan Mollick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designers finally have a say in the product they design.]]></title>
+        <id>https://medium.com/p/396c999e1227</id>
+        <link href="https://uxdesign.cc/designers-finally-have-a-say-in-the-product-they-design-396c999e1227?source=rss----138adf9c44c---4"/>
+        <updated>2026-03-31T22:34:19.000Z</updated>
+        <author>
+            <name>Daniel Mitev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MASSIVE CLAUDE CODE LEAK! THIS CHANGES EVERYTHING!]]></title>
+        <id>https://www.youtube.com/watch?v=FRjmzUGEpHo</id>
+        <link href="https://www.youtube.com/watch?v=FRjmzUGEpHo"/>
+        <updated>2026-03-31T19:32:23.000Z</updated>
+        <author>
+            <name>Alex Finn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One on One with Marc Benioff]]></title>
+        <id>https://www.youtube.com/watch?v=TMbGHKcuxPk</id>
+        <link href="https://www.youtube.com/watch?v=TMbGHKcuxPk"/>
+        <updated>2026-03-31T17:58:12.000Z</updated>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic Leaks Claude Code, a Literal Blueprint for AI Coding Agents]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/anthropic-leaks-claude-code-a-literal-blueprint-for-ai-coding-agents/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/anthropic-leaks-claude-code-a-literal-blueprint-for-ai-coding-agents/"/>
+        <updated>2026-03-31T17:33:51.621Z</updated>
+        <summary type="html"><![CDATA[Anthropic’s apparent Claude Code leak looks embarrassing on the surface, but the bigger story is what it exposed: the architecture of a modern AI coding agent. From memory design to permissions and multi-agent orchestration, the leak offers a rare blueprint for how these systems are actually built.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Map of Meaning: How Embedding Models “Understand” Human Language]]></title>
+        <id>https://towardsdatascience.com/?p=608727</id>
+        <link href="https://towardsdatascience.com/the-map-of-meaning-how-embedding-models-understand-human-language/"/>
+        <updated>2026-03-31T17:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn why embedding models are like a GPS for meaning. Instead of searching for exact words, it navigates a "Map of Ideas" to find concepts that share the same vibe. From battery types to soda flavors, learn how to fine-tune these digital fingerprints for pinpoint accuracy in your next AI project.
+The post The Map of Meaning: How Embedding Models “Understand” Human Language appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Gustavo Santos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make Claude Code Better at One-Shotting Implementations]]></title>
+        <id>https://towardsdatascience.com/?p=608725</id>
+        <link href="https://towardsdatascience.com/how-to-make-claude-code-better-at-one-shotting-implementations/"/>
+        <updated>2026-03-31T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Make your coding agent more efficient
+The post How to Make Claude Code Better at One-Shotting Implementations appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Your Startup Actually Worth? Most Founders Find Out Too Late]]></title>
+        <id>https://www.thevccorner.com/p/founder-valuation-studio-startup-valuation-tool-2026</id>
+        <link href="https://www.thevccorner.com/p/founder-valuation-studio-startup-valuation-tool-2026"/>
+        <updated>2026-03-31T15:43:49.000Z</updated>
+        <summary type="html"><![CDATA[A four-method valuation framework built for founders who want a defensible number before they walk into a partner meeting.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did Hermes Agent just kill OpenClaw? (full guide)]]></title>
+        <id>https://www.youtube.com/watch?v=tP6yf22OJdI</id>
+        <link href="https://www.youtube.com/watch?v=tP6yf22OJdI"/>
+        <updated>2026-03-31T13:15:10.000Z</updated>
+        <author>
+            <name>Alex Finn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Cowork - Full Course for Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=tf_KmDNZXzI</id>
+        <link href="https://www.youtube.com/watch?v=tf_KmDNZXzI"/>
+        <updated>2026-03-31T13:01:10.000Z</updated>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenClaw: The complete guide to building, training, and living with your personal AI agent]]></title>
+        <id>https://www.lennysnewsletter.com/p/openclaw-the-complete-guide-to-building</id>
+        <link href="https://www.lennysnewsletter.com/p/openclaw-the-complete-guide-to-building"/>
+        <updated>2026-03-31T12:45:57.000Z</updated>
+        <summary type="html"><![CDATA[I built a team of 9 AI agents that run my work and life. Here's how you can too.]]></summary>
+        <author>
+            <name>Claire Vo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Personal AI Agent in a couple of Hours]]></title>
+        <id>https://towardsdatascience.com/?p=608723</id>
+        <link href="https://towardsdatascience.com/building-a-personal-ai-agent-in-a-couple-of-hours/"/>
+        <updated>2026-03-31T12:24:00.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been so surprised by how fast individual builders can now ship real and useful prototypes. Tools like Claude Code, Google AntiGravity, and the growing ecosystem around them have crossed a threshold: you can inspect what others are building online and realize just how fast you can build today. Over the past weeks, I’ve started […]
+The post Building a Personal AI Agent in a couple of Hours appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ivo Bernardo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[AI學堂] OpenClaw 不用自己 Setup？由零開始實測，用 MyClaw.ai 1分鐘開工＋網絡爬蟲實戰｜廣東話手把手教學]]></title>
+        <id>https://www.youtube.com/watch?v=qyL7LKI4L78</id>
+        <link href="https://www.youtube.com/watch?v=qyL7LKI4L78"/>
+        <updated>2026-03-31T11:59:49.000Z</updated>
+        <author>
+            <name>Dr. Jackei 科技生活日誌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta-Harness: Is Automated Agent Engineering the Next Frontier?]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/meta-harness-is-automated-agent-engineering-the-next-frontier/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/meta-harness-is-automated-agent-engineering-the-next-frontier/"/>
+        <updated>2026-03-31T11:50:12.111Z</updated>
+        <summary type="html"><![CDATA[Meta-Harness makes a simple but important point: AI performance depends on more than model weights. The instructions, tools, memory, and workflow around the model matter too, and this paper shows those pieces can now be improved automatically.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is this hack life-changing?]]></title>
+        <id>https://www.youtube.com/shorts/D7C-ttjHUoM</id>
+        <link href="https://www.youtube.com/shorts/D7C-ttjHUoM"/>
+        <updated>2026-03-31T11:29:57.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turning 127 Million Data Points Into an Industry Report]]></title>
+        <id>https://towardsdatascience.com/?p=608720</id>
+        <link href="https://towardsdatascience.com/turning-127-million-data-points-into-an-industry-report/"/>
+        <updated>2026-03-31T10:35:00.000Z</updated>
+        <summary type="html"><![CDATA[What I learned about data wrangling, segmentation, and storytelling while building an application security report from scratch
+The post Turning 127 Million Data Points Into an Industry Report appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Braden Riggs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 This is how we'd teach AI from scratch in 2026]]></title>
+        <id>https://www.theneuron.ai/newsletter/this-is-how-we-d-teach-ai-from-scratch-in-2026/</id>
+        <link href="https://www.theneuron.ai/newsletter/this-is-how-we-d-teach-ai-from-scratch-in-2026/"/>
+        <updated>2026-03-31T08:30:17.026Z</updated>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Actually Use AI in 2026: The Complete Guide]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/how-to-actually-use-ai-in-2026-the-complete-guide/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/how-to-actually-use-ai-in-2026-the-complete-guide/"/>
+        <updated>2026-03-31T07:18:22.971Z</updated>
+        <summary type="html"><![CDATA[The 5-level AI proficiency stack from projects to agents, which tool to use for what, and why most people are stuck at Level 2.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Around the Horn Digest: Everything That Happened in AI Today (Mar 30, 2026)]]></title>
+        <id>https://www.theneuron.ai/newsletter/around-the-horn-digest-everything-that-happened-in-ai-today-mar-30-2026/</id>
+        <link href="https://www.theneuron.ai/newsletter/around-the-horn-digest-everything-that-happened-in-ai-today-mar-30-2026/"/>
+        <updated>2026-03-31T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI killed Sora after burning $1M/day, Anthropic gave Claude computer use, a $100M pro-AI PAC emerged, bots officially outnumber humans online, and over $2B in AI funding dropped in a single weekend.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Neuron's AI Skill of the Day Digest: April 2026 (Week 1)]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/the-neurons-ai-skill-of-the-day-digest-april-2026-week-1/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/the-neurons-ai-skill-of-the-day-digest-april-2026-week-1/"/>
+        <updated>2026-03-31T03:43:00.004Z</updated>
+        <summary type="html"><![CDATA[Every AI Skill of the Day from The Neuron's first week of April 2026, collected in one place. This week: how Anthropic's design lead uses Cowork, plus more skills added daily.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code's Creator Just Dropped His 15 Favorite Power Features (Most People Don't Know About)]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/-claude-codes-creator-just-dropped-his-15-favorite-power-features-most-people-dont-know-about-/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/-claude-codes-creator-just-dropped-his-15-favorite-power-features-most-people-dont-know-about-/"/>
+        <updated>2026-03-31T03:17:14.666Z</updated>
+        <summary type="html"><![CDATA[Boris Cherny, the creator of Claude Code, revealed 15 hidden features he uses daily. Here's what they do, why they matter, and how to start using them today.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Self EVOLUTION (Meta Harness)]]></title>
+        <id>https://www.youtube.com/watch?v=61JUHDK-em8</id>
+        <link href="https://www.youtube.com/watch?v=61JUHDK-em8"/>
+        <updated>2026-03-31T02:01:55.000Z</updated>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LIVE: Hermes vs OpenClaw live tests]]></title>
         <id>https://www.youtube.com/watch?v=9Qrs-n5HkC8</id>
@@ -5036,203 +5272,6 @@ The post Code Less, Ship Faster: Building APIs with FastAPI appeared first on T
 The post Exciting Changes Are Coming to the TDS Author Payment Program appeared first on Towards Data Science.]]></summary>
         <author>
             <name>TDS Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Coinbase scaled AI to 1,000+ engineers | Chintan Turakhia]]></title>
-        <id>https://www.lennysnewsletter.com/p/how-coinbase-scaled-ai-to-1000-engineers</id>
-        <link href="https://www.lennysnewsletter.com/p/how-coinbase-scaled-ai-to-1000-engineers"/>
-        <updated>2026-03-02T13:03:27.000Z</updated>
-        <summary type="html"><![CDATA[Watch now | 🎙️ How to drive AI adoption in a 1,000+ engineer organization: from PR speed runs to feedback-to-feature automation and identifying power users through data-driven analysis]]></summary>
-        <author>
-            <name>Claire Vo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😸 You're behind on AI. Here's the recap]]></title>
-        <id>https://www.theneuron.ai/newsletter/you-re-behind-on-ai-here-s-the-recap/</id>
-        <link href="https://www.theneuron.ai/newsletter/you-re-behind-on-ai-here-s-the-recap/"/>
-        <updated>2026-03-02T12:30:10.715Z</updated>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 AI Prompt Patterns You NEED To Know (in Genspark)]]></title>
-        <id>https://www.youtube.com/watch?v=mib1r_UuGEs</id>
-        <link href="https://www.youtube.com/watch?v=mib1r_UuGEs"/>
-        <updated>2026-03-02T12:16:40.000Z</updated>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hostinger Review 2026 - Is it Actually Good? (Honest Opinion)]]></title>
-        <id>https://www.youtube.com/watch?v=UjUnaLHfJz4</id>
-        <link href="https://www.youtube.com/watch?v=UjUnaLHfJz4"/>
-        <updated>2026-03-02T12:00:49.000Z</updated>
-        <author>
-            <name>Metics Media</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😸 President Trump vs Anthropic vs OpenAI]]></title>
-        <id>https://www.theneuron.ai/newsletter/president-trump-vs-anthropic-vs-openai/</id>
-        <link href="https://www.theneuron.ai/newsletter/president-trump-vs-anthropic-vs-openai/"/>
-        <updated>2026-03-02T10:55:12.734Z</updated>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Something big, surveillance by default, agentic UX principles]]></title>
-        <id>https://medium.com/p/1ffe13091f97</id>
-        <link href="https://uxdesign.cc/something-big-surveillance-by-default-agentic-ux-principles-1ffe13091f97?source=rss----138adf9c44c---4"/>
-        <updated>2026-03-02T08:56:46.000Z</updated>
-        <author>
-            <name>Fabricio Teixeira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Made to create, learning to curate: the designer’s dilemma]]></title>
-        <id>https://medium.com/p/0c6a89340a06</id>
-        <link href="https://uxdesign.cc/made-to-create-learning-to-curate-the-designers-dilemma-0c6a89340a06?source=rss----138adf9c44c---4"/>
-        <updated>2026-03-02T08:50:48.000Z</updated>
-        <summary type="html"><![CDATA[Designers aren’t burning out because AI is hard to use. They’re burning out because nothing else changed around it.
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Dora Czerna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An AI Industry Watcher's Attempt to Capture Everything Going on In AI Right Now (in one article)]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/an-ai-industry-watchers-attempt-to-capture-everything-going-on-in-ai-right-now-in-one-article/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/an-ai-industry-watchers-attempt-to-capture-everything-going-on-in-ai-right-now-in-one-article/"/>
-        <updated>2026-03-02T04:30:00.000Z</updated>
-        <summary type="html"><![CDATA[From the developer wars between OpenAI and Anthropic, to $690B in datacenter spending, to ARC-AGI benchmarks getting demolished, to the OpenClaw fork explosion... we tried to capture everything happening in AI in a single article.]]></summary>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pentagon vs Anthropic: Could a Company Be a Conscientious Objector?]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/the-pentagon-vs-anthropic-could-a-company-be-a-conscientious-objector/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/the-pentagon-vs-anthropic-could-a-company-be-a-conscientious-objector/"/>
-        <updated>2026-03-02T03:10:27.659Z</updated>
-        <summary type="html"><![CDATA[The Supreme Court says corporations can speak. It says they can pray. So could a company refuse to go to war on religious or moral objections? The Pentagon's beef with Anthropic create an interesting thought experiment.]]></summary>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pentagon vs Anthropic, Explained: The Week AI Drew a Line in the Sand (And the Government Kicked It Over)]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/the-pentagon-vs-anthropic-explained-the-week-ai-drew-a-line-in-the-sand-and-the-government-kicked-it-over/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/the-pentagon-vs-anthropic-explained-the-week-ai-drew-a-line-in-the-sand-and-the-government-kicked-it-over/"/>
-        <updated>2026-03-02T03:09:58.460Z</updated>
-        <summary type="html"><![CDATA[Anthropic refused to let the Pentagon use its AI without limits. Within 48 hours, it was blacklisted, replaced, and still being used in combat. Here's everything that happened.]]></summary>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Around the Horn Digest: Everything That Happened in AI This Week (Mar 1-7, 2026)]]></title>
-        <id>https://www.theneuron.ai/ai-news-digests/around-the-horn-digest-everything-that-happened-in-ai-this-week-mar-1-7-2026/</id>
-        <link href="https://www.theneuron.ai/ai-news-digests/around-the-horn-digest-everything-that-happened-in-ai-this-week-mar-1-7-2026/"/>
-        <updated>2026-03-02T00:18:43.004Z</updated>
-        <summary type="html"><![CDATA[From Anthropic's Pentagon standoff to Nvidia's Groq-powered chip to the AI scare that tanked markets, here's every story we tracked this week.]]></summary>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is the most powerful skill to learn.]]></title>
-        <id>https://www.youtube.com/shorts/dJNQCRTCkFc</id>
-        <link href="https://www.youtube.com/shorts/dJNQCRTCkFc"/>
-        <updated>2026-03-02T00:00:50.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is this going to transform word press forever?]]></title>
-        <id>https://www.youtube.com/shorts/A-LnRjxVHSA</id>
-        <link href="https://www.youtube.com/shorts/A-LnRjxVHSA"/>
-        <updated>2026-03-02T00:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What do you think the answer is? Comment below👇]]></title>
-        <id>https://www.youtube.com/shorts/MBXWkXzh874</id>
-        <link href="https://www.youtube.com/shorts/MBXWkXzh874"/>
-        <updated>2026-03-01T19:56:11.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[never thought this could be real]]></title>
-        <id>https://www.youtube.com/shorts/whAYgnVLiVE</id>
-        <link href="https://www.youtube.com/shorts/whAYgnVLiVE"/>
-        <updated>2026-03-01T17:55:56.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero-Waste Agentic RAG: Designing Caching Architectures to Minimize Latency and LLM Costs at Scale]]></title>
-        <id>https://towardsdatascience.com/?p=608489</id>
-        <link href="https://towardsdatascience.com/zero-waste-agentic-rag-designing-caching-architectures-to-minimize-latency-and-llm-costs-at-scale/"/>
-        <updated>2026-03-01T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Reducing LLM costs by 30% with validation-aware, multi-tier caching
-The post Zero-Waste Agentic RAG: Designing Caching Architectures to Minimize Latency and LLM Costs at Scale appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Partha Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The wisdom curve]]></title>
-        <id>https://medium.com/p/18b5448b45fa</id>
-        <link href="https://uxdesign.cc/the-wisdom-curve-18b5448b45fa?source=rss----138adf9c44c---4"/>
-        <updated>2026-03-01T14:36:10.000Z</updated>
-        <author>
-            <name>Darren Yeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI adoption theatre: When innovation becomes performance]]></title>
-        <id>https://medium.com/p/fd03bb16b0ce</id>
-        <link href="https://uxdesign.cc/the-ai-adoption-theatre-when-innovation-becomes-performance-fd03bb16b0ce?source=rss----138adf9c44c---4"/>
-        <updated>2026-03-01T14:33:36.000Z</updated>
-        <summary type="html"><![CDATA[An LLM that can reason, synthesize, generate, and adapt, sitting right there in your workflow. That part is real. The problem is what…
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Marcos Rezende</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic VS Pentagon⚔️, State of Pre-Seed📊, Perplexity's new AI Command Center🖥️]]></title>
-        <id>https://www.thevccorner.com/p/anthropic-vs-pentagon-state-of-pre</id>
-        <link href="https://www.thevccorner.com/p/anthropic-vs-pentagon-state-of-pre"/>
-        <updated>2026-03-01T13:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Another week, another pulse check on venture.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The design process is dead. Here’s what’s replacing it. | Jenny Wen (head of design at Claude)]]></title>
-        <id>https://www.lennysnewsletter.com/p/the-design-process-is-dead</id>
-        <link href="https://www.lennysnewsletter.com/p/the-design-process-is-dead"/>
-        <updated>2026-03-01T13:31:18.000Z</updated>
-        <summary type="html"><![CDATA[Listen now | Anthropic’s Jenny Wen on why the traditional design process is dead, how engineers are forcing the role to evolve, and what designers must do to stay relevant in the age of AI]]></summary>
-        <author>
-            <name>Lenny Rachitsky</name>
         </author>
     </entry>
 </feed>
