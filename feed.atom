@@ -2,10 +2,179 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-04-02T01:04:06.684Z</updated>
+    <updated>2026-04-03T01:06:13.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Open-Source just LEVELED UP (GEMMA 4)]]></title>
+        <id>https://www.youtube.com/watch?v=BrJdGP21B5g</id>
+        <link href="https://www.youtube.com/watch?v=BrJdGP21B5g"/>
+        <updated>2026-04-03T00:13:51.000Z</updated>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Just Brought a Power-User AI Trick to the Masses]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/microsoft-just-brought-a-power-user-ai-trick-to-the-masses/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/microsoft-just-brought-a-power-user-ai-trick-to-the-masses/"/>
+        <updated>2026-04-02T21:46:51.343Z</updated>
+        <summary type="html"><![CDATA[Microsoft’s latest Copilot rollout takes one of the smartest tricks in AI, using multiple models to critique, compare, and execute work, and brings it into Microsoft 365 for the mainstream. What used to belong to power users is starting to become a default workflow for everyone else.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI’s Cap Table Just Leaked. Here’s What’s Actually Inside.]]></title>
+        <id>https://www.thevccorner.com/p/openai-leaked-cap-table-2026-full-breakdown</id>
+        <link href="https://www.thevccorner.com/p/openai-leaked-cap-table-2026-full-breakdown"/>
+        <updated>2026-04-02T19:39:35.000Z</updated>
+        <summary type="html"><![CDATA[Sam Altman owns 0%. SoftBank is up $50 billion. And the nonprofit situation is stranger than anyone realized.]]></summary>
+        <author>
+            <name>The VC Corner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenClaw Tutorial for Beginners - Full Setup Guide]]></title>
+        <id>https://www.youtube.com/watch?v=WDHgibiZ9S8</id>
+        <link href="https://www.youtube.com/watch?v=WDHgibiZ9S8"/>
+        <updated>2026-04-02T17:30:52.000Z</updated>
+        <author>
+            <name>Metics Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here's how you make money from CODING.]]></title>
+        <id>https://www.youtube.com/shorts/iKXiVbBiefM</id>
+        <link href="https://www.youtube.com/shorts/iKXiVbBiefM"/>
+        <updated>2026-04-02T16:01:08.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linear Regression Is Actually a Projection Problem (Part 2: From Projections to Predictions)]]></title>
+        <id>https://towardsdatascience.com/?p=608742</id>
+        <link href="https://towardsdatascience.com/linear-regression-is-actually-a-projection-problem-part-2-from-projections-to-predictions/"/>
+        <updated>2026-04-02T15:37:44.000Z</updated>
+        <summary type="html"><![CDATA[The Vector View of Least Squares.
+The post Linear Regression Is Actually a Projection Problem (Part 2: From Projections to Predictions) appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Nikhil Dasari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI Agent That Interacts With All Your Data Sources]]></title>
+        <id>https://www.youtube.com/watch?v=LHKhYH0xDSg</id>
+        <link href="https://www.youtube.com/watch?v=LHKhYH0xDSg"/>
+        <updated>2026-04-02T13:37:48.000Z</updated>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Handle Classical Data in Quantum Models]]></title>
+        <id>https://towardsdatascience.com/?p=608740</id>
+        <link href="https://towardsdatascience.com/how-to-handle-classical-data-in-quantum-models/"/>
+        <updated>2026-04-02T13:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Workflows and encoding techniques in quantum machine learning
+The post How to Handle Classical Data in Quantum Models appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Sara A. Metwalli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An AI state of the union: We’ve passed the inflection point, dark factories are coming, and automation timelines | Simon Willison]]></title>
+        <id>https://www.lennysnewsletter.com/p/an-ai-state-of-the-union</id>
+        <link href="https://www.lennysnewsletter.com/p/an-ai-state-of-the-union"/>
+        <updated>2026-04-02T12:32:28.000Z</updated>
+        <summary type="html"><![CDATA[Listen now | Simon Willison on why November 2025 changed software engineering forever, the lethal trifecta, his top agentic engineering patterns, and much more]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenClaw 不用自己 Setup？由零開始實測，用 MyClaw.ai 1分鐘開工＋網絡爬蟲實戰｜廣東話手把手教學]]></title>
+        <id>https://www.youtube.com/shorts/B6YZ5mU09_k</id>
+        <link href="https://www.youtube.com/shorts/B6YZ5mU09_k"/>
+        <updated>2026-04-02T11:30:14.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Dr. Jackei 科技生活日誌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantum Simulations with Python]]></title>
+        <id>https://towardsdatascience.com/?p=608738</id>
+        <link href="https://towardsdatascience.com/quantum-simulations-with-python/"/>
+        <updated>2026-04-02T10:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Run Quantum Experiments with Qiskit-Aer
+The post Quantum Simulations with Python appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Mauro Di Pietro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Someone Poisoned npm’s Most Popular HTTP Library. It Took Three Hours to Notice.]]></title>
+        <id>https://medium.com/p/e1382dcd808c</id>
+        <link href="https://generativeai.pub/someone-poisoned-npms-most-popular-http-library-it-took-three-hours-to-notice-e1382dcd808c?source=rss----440100e76000---4"/>
+        <updated>2026-04-02T10:01:56.000Z</updated>
+        <author>
+            <name>ali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Talked to 500GB of Retail Data With Zero Domain Knowledge. AI Designed a Strategy I never expected]]></title>
+        <id>https://medium.com/p/11e97b37ad04</id>
+        <link href="https://generativeai.pub/i-talked-to-500gb-of-retail-data-with-zero-domain-knowledge-ai-designed-a-strategy-i-never-expected-11e97b37ad04?source=rss----440100e76000---4"/>
+        <updated>2026-04-02T10:01:45.000Z</updated>
+        <author>
+            <name>@null_author</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Paid for Claude Max 5x as a Normal User So You Don’t Have To. Or Do You?]]></title>
+        <id>https://medium.com/p/a9ed5046f316</id>
+        <link href="https://generativeai.pub/i-paid-for-claude-max-5x-as-a-normal-user-so-you-dont-have-to-or-do-you-a9ed5046f316?source=rss----440100e76000---4"/>
+        <updated>2026-04-02T10:01:43.000Z</updated>
+        <summary type="html"><![CDATA[Spoiler: I stopped hitting limits. And I didn’t expect that to matter as much as it did.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>hejrene | Rene</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can We Talk About AI Without Tearing Authors Apart?]]></title>
+        <id>https://medium.com/p/8101bcd1b9e8</id>
+        <link href="https://generativeai.pub/can-we-talk-about-ai-without-tearing-authors-apart-8101bcd1b9e8?source=rss----440100e76000---4"/>
+        <updated>2026-04-02T09:49:58.000Z</updated>
+        <summary type="html"><![CDATA[The fine line between accountability and online mob mentality
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Regina Paul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😼 OpenAI's President Just Told You Exactly What the Company is Betting Everything On]]></title>
+        <id>https://www.theneuron.ai/newsletter/openai-s-president-just-told-you-exactly-what-the-company-is-betting-everything-on/</id>
+        <link href="https://www.theneuron.ai/newsletter/openai-s-president-just-told-you-exactly-what-the-company-is-betting-everything-on/"/>
+        <updated>2026-04-02T08:30:13.394Z</updated>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Around the Horn Digest: Everything That Happened in AI Today (Wednesday, April 1, 2026)]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/-around-the-horn-digest-everything-that-happened-in-ai-today-wednesday-april-1-2026/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/-around-the-horn-digest-everything-that-happened-in-ai-today-wednesday-april-1-2026/"/>
+        <updated>2026-04-02T00:26:35.635Z</updated>
+        <summary type="html"><![CDATA[OpenAI closed a record $122B round at an $852B valuation while investors fled to Anthropic on the secondary market, Oracle fired ~25,000 people to fund AI data centers, Anthropic raced to contain a massive Claude Code source leak, Q1 2026 venture funding hit $297B (an all-time record), and a Science study proved sycophantic AI is making users worse.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Every designer on my team ships the same quality now]]></title>
         <id>https://medium.com/p/e6fbc0c4feec</id>
@@ -5018,148 +5187,6 @@ The post Stop Tuning Hyperparameters. Start Tuning Your Problem. appeared first 
 The post Escaping the Prototype Mirage: Why Enterprise AI Stalls appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Reya Vir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hostinger Supabase Tutorial 2026 - How to Self Host Supabase]]></title>
-        <id>https://www.youtube.com/watch?v=th3wasHy_O0</id>
-        <link href="https://www.youtube.com/watch?v=th3wasHy_O0"/>
-        <updated>2026-03-04T12:01:35.000Z</updated>
-        <author>
-            <name>Metics Media</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RAG with Hybrid Search: How Does Keyword Search Work?]]></title>
-        <id>https://towardsdatascience.com/?p=608518</id>
-        <link href="https://towardsdatascience.com/rag-with-hybrid-search-how-does-keyword-search-work/"/>
-        <updated>2026-03-04T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Understanding keyword search, TF-IDF, and BM25
-The post RAG with Hybrid Search: How Does Keyword Search Work? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Maria Mouschoutzi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[AI學堂] Nano Banana 2 實測｜最強 AI 圖像生成模型？速度暴升＋4K 圖片生成＋成本大降解析]]></title>
-        <id>https://www.youtube.com/watch?v=pYeZYbOQE28</id>
-        <link href="https://www.youtube.com/watch?v=pYeZYbOQE28"/>
-        <updated>2026-03-04T11:59:59.000Z</updated>
-        <author>
-            <name>Dr. Jackei 科技生活日誌</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😸 OpenAI, Gemini, Qwen new models]]></title>
-        <id>https://www.theneuron.ai/newsletter/openai-gemini-qwen-new-models/</id>
-        <link href="https://www.theneuron.ai/newsletter/openai-gemini-qwen-new-models/"/>
-        <updated>2026-03-04T10:30:11.950Z</updated>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Want people to pay for your stuff? Show the value like this]]></title>
-        <id>https://medium.com/p/6cf3d74c35c0</id>
-        <link href="https://uxdesign.cc/want-people-to-pay-for-your-stuff-show-the-value-like-this-6cf3d74c35c0?source=rss----138adf9c44c---4"/>
-        <updated>2026-03-04T00:52:02.000Z</updated>
-        <summary type="html"><![CDATA[How to write benefits so that users can make an easy but well-informed choice — a Google Developer Program case study.
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Rita Kind-Envy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Great AI Slimdown: OpenAI, Google, and Alibaba Shift to Speed and Scale]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/the-great-ai-slimdown-openai-google-alibaba-shift-to-speed-scale/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/the-great-ai-slimdown-openai-google-alibaba-shift-to-speed-scale/"/>
-        <updated>2026-03-03T23:18:41.113Z</updated>
-        <summary type="html"><![CDATA[OpenAI, Google, and Alibaba all dropped new models today—but the real story isn’t raw power. It’s speed, cost, and on-device AI. GPT-5.3 Instant, Gemini 3.1 Flash-Lite, and Qwen 3.5 signal a shift away from massive parameter races toward deployable, real-world intelligence.]]></summary>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside the Fusion-AI Flywheel: AI Is Helping Build the Thing That Will Power AI]]></title>
-        <id>https://www.theneuron.ai/the-neuron-ai-explained-podcast/inside-the-fusion-ai-flywheel-ai-is-helping-build-the-thing-that-will-power-ai/</id>
-        <link href="https://www.theneuron.ai/the-neuron-ai-explained-podcast/inside-the-fusion-ai-flywheel-ai-is-helping-build-the-thing-that-will-power-ai/"/>
-        <updated>2026-03-03T22:36:13.292Z</updated>
-        <summary type="html"><![CDATA[Commonwealth Fusion Systems co-founder Brandon Sorbom explains how AI and fusion energy are building each other, and why the "always 30 years away" joke might finally be dead.]]></summary>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment "openclaw" below👇]]></title>
-        <id>https://www.youtube.com/shorts/llpJdviHzAQ</id>
-        <link href="https://www.youtube.com/shorts/llpJdviHzAQ"/>
-        <updated>2026-03-03T19:40:55.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[teens made out like bandits]]></title>
-        <id>https://www.youtube.com/shorts/KO2rv1YbwpQ</id>
-        <link href="https://www.youtube.com/shorts/KO2rv1YbwpQ"/>
-        <updated>2026-03-03T18:55:01.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI-Powered Fundraising Prep: The Founder’s Tactical Playbook]]></title>
-        <id>https://www.thevccorner.com/p/ai-fundraising-prep-founders-tactical-playbook</id>
-        <link href="https://www.thevccorner.com/p/ai-fundraising-prep-founders-tactical-playbook"/>
-        <updated>2026-03-03T18:20:07.000Z</updated>
-        <summary type="html"><![CDATA[I spent the last month talking to founders who recently closed seed rounds.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graph Coloring You Can See]]></title>
-        <id>https://towardsdatascience.com/?p=608512</id>
-        <link href="https://towardsdatascience.com/graph-coloring-you-can-see-visual-intuition-with-python/"/>
-        <updated>2026-03-03T18:03:07.000Z</updated>
-        <summary type="html"><![CDATA[Visual intuition with Python
-The post Graph Coloring You Can See appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Rhyd Lewis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Should Stop Writing Loops in Pandas]]></title>
-        <id>https://towardsdatascience.com/?p=608510</id>
-        <link href="https://towardsdatascience.com/stop-writing-loops-in-pandas-do-this-instead/"/>
-        <updated>2026-03-03T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How to think in columns, write faster code, and finally use Pandas like a professional
-The post Why You Should Stop Writing Loops in Pandas  appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ibrahim Salami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to debug a team that isn’t working: the Waterline Model]]></title>
-        <id>https://www.lennysnewsletter.com/p/how-to-debug-a-team-that-isnt-working</id>
-        <link href="https://www.lennysnewsletter.com/p/how-to-debug-a-team-that-isnt-working"/>
-        <updated>2026-03-03T13:45:17.000Z</updated>
-        <summary type="html"><![CDATA[A guide to solving team problems (without always blaming the people)]]></summary>
-        <author>
-            <name>Molly Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Quit My $130,000 ML Engineer Job After Learning 4 Lessons]]></title>
-        <id>https://towardsdatascience.com/?p=608508</id>
-        <link href="https://towardsdatascience.com/i-quit-my-130000-ml-engineer-job-after-learning-4-lessons/"/>
-        <updated>2026-03-03T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[What they don't tell you about "dream tech jobs"
-The post I Quit My $130,000 ML Engineer Job After Learning 4 Lessons appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Egor Howell</name>
         </author>
     </entry>
 </feed>
