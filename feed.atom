@@ -2,10 +2,116 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-04-05T01:08:43.199Z</updated>
+    <updated>2026-04-06T01:09:36.680Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Salesforce CEO on Microsoft Blocking OpenAI Investment, AI Scapegoating, OpenClaw, and Regulation]]></title>
+        <id>https://www.youtube.com/watch?v=OzUqfN4mcrM</id>
+        <link href="https://www.youtube.com/watch?v=OzUqfN4mcrM"/>
+        <updated>2026-04-05T21:48:47.000Z</updated>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic just blocked OpenClaw. Here’s what you need to do immediately]]></title>
+        <id>https://www.youtube.com/watch?v=cNALFf9R4t4</id>
+        <link href="https://www.youtube.com/watch?v=cNALFf9R4t4"/>
+        <updated>2026-04-05T21:15:01.000Z</updated>
+        <author>
+            <name>Alex Finn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 Marc Andreessen just described your future coworker]]></title>
+        <id>https://www.theneuron.ai/newsletter/marc-andreessen-just-described-your-future-coworker/</id>
+        <link href="https://www.theneuron.ai/newsletter/marc-andreessen-just-described-your-future-coworker/"/>
+        <updated>2026-04-05T17:30:29.595Z</updated>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proxy-Pointer RAG: Achieving Vectorless Accuracy at Vector RAG Scale and Cost]]></title>
+        <id>https://towardsdatascience.com/?p=608745</id>
+        <link href="https://towardsdatascience.com/proxy-pointer-rag-achieving-vectorless-accuracy-at-vector-rag-scale-and-cost/"/>
+        <updated>2026-04-05T16:46:00.000Z</updated>
+        <summary type="html"><![CDATA[A new way to build vector RAG—structure-aware and reasoning-capable
+The post Proxy-Pointer RAG: Achieving Vectorless Accuracy at Vector RAG Scale and Cost appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Partha Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Your Startup Actually Worth? 🔢, AI Shifts Value Capture 🤖, How to get cited by LLMs🔎]]></title>
+        <id>https://www.thevccorner.com/p/what-is-your-startup-actually-worth</id>
+        <link href="https://www.thevccorner.com/p/what-is-your-startup-actually-worth"/>
+        <updated>2026-04-05T15:47:41.000Z</updated>
+        <summary type="html"><![CDATA[Another week, another pulse check on Tech.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Have you heard about this?]]></title>
+        <id>https://www.youtube.com/shorts/83aLsRbz34A</id>
+        <link href="https://www.youtube.com/shorts/83aLsRbz34A"/>
+        <updated>2026-04-05T13:45:01.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Data Scientist’s Take on the $599 MacBook Neo]]></title>
+        <id>https://towardsdatascience.com/?p=608759</id>
+        <link href="https://towardsdatascience.com/a-data-scientists-take-on-the-599-macbook-neo/"/>
+        <updated>2026-04-05T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why it doesn’t fit my workflow but still makes sense for beginners
+The post A Data Scientist’s Take on the $599 MacBook Neo appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Benjamin Nweke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic’s $1B to $19B growth run: how Claude became the fastest-growing AI product in history | Amol Avasare]]></title>
+        <id>https://www.lennysnewsletter.com/p/anthropics-1b-to-19b-growth-run</id>
+        <link href="https://www.lennysnewsletter.com/p/anthropics-1b-to-19b-growth-run"/>
+        <updated>2026-04-05T12:31:45.000Z</updated>
+        <summary type="html"><![CDATA[Listen now | Anthropic’s Head of Growth on scaling from $1B to $19B ARR in 14 months through big bets, intentional onboarding friction, deep focus, and CASH—an internal AI system for autonomous growth experiments]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The invisible layer of UX most designers ignore]]></title>
+        <id>https://medium.com/p/69272cda4468</id>
+        <link href="https://uxdesign.cc/the-invisible-layer-of-ux-most-designers-ignore-69272cda4468?source=rss----138adf9c44c---4"/>
+        <updated>2026-04-05T11:01:28.000Z</updated>
+        <author>
+            <name>Allie Paschal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Vibe coding” is accelerating the erosion of design authority]]></title>
+        <id>https://medium.com/p/4dc21b233606</id>
+        <link href="https://uxdesign.cc/vibe-coding-is-accelerating-the-erosion-of-design-authority-4dc21b233606?source=rss----138adf9c44c---4"/>
+        <updated>2026-04-05T11:01:16.000Z</updated>
+        <author>
+            <name>Michael Buckley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenClaw Hostinger Setup Tutorial - Step by Step]]></title>
+        <id>https://www.youtube.com/watch?v=OUTTpiHA4dk</id>
+        <link href="https://www.youtube.com/watch?v=OUTTpiHA4dk"/>
+        <updated>2026-04-05T11:00:36.000Z</updated>
+        <author>
+            <name>Metics Media</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🧠 Community Wisdom: Evaluating startup equity, navigating pre-seed fundraising, MCPs vs. CLIs, Monzo’s U.S. exit, and more]]></title>
         <id>https://www.lennysnewsletter.com/p/community-wisdom-evaluating-startup</id>
@@ -5096,127 +5202,6 @@ The post LatentVLA: Latent Reasoning Models for Autonomous Driving appeared firs
 The post Understanding Context and Contextual Retrieval in RAG appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Maria Mouschoutzi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blitzy Is The Best Coding Platform I've Ever Used - Full Walkthrough & Results]]></title>
-        <id>https://www.youtube.com/watch?v=r65lJG83D4k</id>
-        <link href="https://www.youtube.com/watch?v=r65lJG83D4k"/>
-        <updated>2026-03-07T13:01:29.000Z</updated>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI Bubble Has a Data Science Escape Hatch]]></title>
-        <id>https://towardsdatascience.com/?p=608543</id>
-        <link href="https://towardsdatascience.com/the-ai-bubble-has-a-data-science-escape-hatch/"/>
-        <updated>2026-03-07T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Five classical data science skills are becoming the scarcest resource in tech. A 90-day roadmap to build them while everyone else chases AI hype.
-The post The AI Bubble Has a Data Science Escape Hatch appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Kaushik Rajan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Around the Horn Digest: Everything That Happened in AI This Week (Mar 8–13, 2026)]]></title>
-        <id>https://www.theneuron.ai/ai-news-digests/around-the-horn-digest-everything-that-happened-in-ai-this-week-mar-813-2026/</id>
-        <link href="https://www.theneuron.ai/ai-news-digests/around-the-horn-digest-everything-that-happened-in-ai-this-week-mar-813-2026/"/>
-        <updated>2026-03-06T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Everything interesting that happened in AI so far this week: The Pentagon banned Anthropic, Anthropic sued back, GPT-5.4 made Claude devs sweat, a GitHub bot got prompt-injected into installing malware on 4,000 machines, and a Terraform agent nuked someone's production database. Normal week, yeah?]]></summary>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment your answers below👇]]></title>
-        <id>https://www.youtube.com/shorts/h9WjnhNMcqE</id>
-        <link href="https://www.youtube.com/shorts/h9WjnhNMcqE"/>
-        <updated>2026-03-06T22:00:44.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Makes Quantum Machine Learning “Quantum”?]]></title>
-        <id>https://towardsdatascience.com/?p=608541</id>
-        <link href="https://towardsdatascience.com/what-makes-quantum-machine-learning-quantum/"/>
-        <updated>2026-03-06T19:39:55.000Z</updated>
-        <summary type="html"><![CDATA[And where is it today?
-The post What Makes Quantum Machine Learning “Quantum”? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sara A. Metwalli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bop It! from scratch]]></title>
-        <id>https://www.youtube.com/shorts/vG_5QnX1JBY</id>
-        <link href="https://www.youtube.com/shorts/vG_5QnX1JBY"/>
-        <updated>2026-03-06T19:24:16.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One of the best ways to make money as a developer.]]></title>
-        <id>https://www.youtube.com/shorts/gdHicBONzZg</id>
-        <link href="https://www.youtube.com/shorts/gdHicBONzZg"/>
-        <updated>2026-03-06T18:23:02.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Great SaaS Reset: From 30× Euphoria to AI-Driven Repricing]]></title>
-        <id>https://www.thevccorner.com/p/great-saas-reset-10x-arr-club</id>
-        <link href="https://www.thevccorner.com/p/great-saas-reset-10x-arr-club"/>
-        <updated>2026-03-06T17:51:58.000Z</updated>
-        <summary type="html"><![CDATA[Why 10× revenue is a thing of the past and what comes next]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Future Live | 03.06.26 | Guests from Augment Code, NEAR Protocol, and Modular!]]></title>
-        <id>https://www.youtube.com/watch?v=dYk-bt9BFIs</id>
-        <link href="https://www.youtube.com/watch?v=dYk-bt9BFIs"/>
-        <updated>2026-03-06T17:20:58.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Data Team’s Survival Guide for the Next Era of Data]]></title>
-        <id>https://towardsdatascience.com/?p=608537</id>
-        <link href="https://towardsdatascience.com/the-data-teams-survival-guide-for-the-next-era-of-data/"/>
-        <updated>2026-03-06T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[6 pillars to declutter your stack, escape the service trap, and build the missing foundations for the new primary data consumer: the AI agent.
-The post The Data Team’s Survival Guide for the Next Era of Data appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Mahdi Karabiben</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Email Marketing Tutorial for Beginners (2026)]]></title>
-        <id>https://www.youtube.com/watch?v=J0CEiuOfON0</id>
-        <link href="https://www.youtube.com/watch?v=J0CEiuOfON0"/>
-        <updated>2026-03-06T14:43:34.000Z</updated>
-        <author>
-            <name>Metics Media</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Black Box Problem: Why AI-Generated Code Stops Being Maintainable]]></title>
-        <id>https://towardsdatascience.com/?p=608534</id>
-        <link href="https://towardsdatascience.com/the-black-box-problem-why-ai-generated-code-stops-being-maintainable/"/>
-        <updated>2026-03-06T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Same notification system, two architectures. Unstructured generation couples everything into a single module. Structured generation decomposes into independent components with explicit, one-directional dependencies. Image by the author
-The post The Black Box Problem: Why AI-Generated Code Stops Being Maintainable appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Yonatan Sason</name>
         </author>
     </entry>
 </feed>
