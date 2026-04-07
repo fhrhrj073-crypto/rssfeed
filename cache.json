@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/zv64PIUVkHo",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/zv64PIUVkHo",
+          "publishedOn": "2026-04-06T13:01:43.000Z",
+          "wordCount": 2069,
+          "title": "Did you know this coding SECRET?",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/83aLsRbz34A",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
@@ -474,16 +484,6 @@
           "wordCount": null,
           "title": "How to Pass Technical Interviews Without Grinding LeetCode",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/7E4xYNAVtp8",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/7E4xYNAVtp8",
-          "publishedOn": "2026-03-07T18:53:23.000Z",
-          "wordCount": 2086,
-          "title": "Do you know the answer? Comment below👇",
-          "imageUrl": null
         }
       ]
     },
@@ -492,6 +492,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfQNB91qRP_5ILeu_S_bSkg",
       "siteUrl": "https://www.youtube.com/channel/UCfQNB91qRP_5ILeu_S_bSkg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Pe_wvdV2E6c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Pe_wvdV2E6c",
+          "publishedOn": "2026-04-06T20:32:55.000Z",
+          "wordCount": null,
+          "title": "LIVE: ANTHROPIC BANNED OPENCLAW. DO THIS NOW!! plus: MASSIVE ANNOUNCEMENT",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=cNALFf9R4t4",
           "author": null,
@@ -766,6 +776,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCawZsQWqfGSbCI5yjkdVkTA",
       "siteUrl": "https://www.youtube.com/channel/UCawZsQWqfGSbCI5yjkdVkTA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/8uPMM8HhRUc",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/8uPMM8HhRUc",
+          "publishedOn": "2026-04-06T15:01:09.000Z",
+          "wordCount": 2026,
+          "title": "This Website is not for Humans",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=OzUqfN4mcrM",
           "author": null,
@@ -1245,6 +1265,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZgwgJ1i9ywc2UweRwp09gg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=dBr29TN_BeQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dBr29TN_BeQ",
+          "publishedOn": "2026-04-06T11:44:57.000Z",
+          "wordCount": null,
+          "title": "[AI學堂] Google 新 AI App 實測！AI Edge Gallery 免費下載＋免VPN，離線 AI 得唔得？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/B6YZ5mU09_k",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
@@ -1357,6 +1387,38 @@
       "feedUrl": "https://www.lennysnewsletter.com/feed",
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
+        {
+          "id": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-i-gave-claude",
+          "author": "Lenny Rachitsky",
+          "description": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+          "link": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-i-gave-claude",
+          "publishedOn": "2026-04-06T15:03:07.000Z",
+          "wordCount": null,
+          "title": "🎙️ This week on How I AI: I gave Claude Code our entire codebase. Our customers noticed.",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/2ffb1073-2637-4e08-80a1-5033ad58451a_2048x2048.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/2ffb1073-2637-4e08-80a1-5033ad58451a_2048x2048.png"
+        },
+        {
+          "id": "https://www.lennysnewsletter.com/p/i-gave-claude-code-our-entire-codebase",
+          "author": "Claire Vo",
+          "description": "Watch now | 🎙️ Al Chen (Field Engineer at Galileo) shows how he uses AI to query his entire codebase and deliver precise, real-time answers to enterprise customers—without relying on docs or engineering",
+          "link": "https://www.lennysnewsletter.com/p/i-gave-claude-code-our-entire-codebase",
+          "publishedOn": "2026-04-06T12:03:35.000Z",
+          "wordCount": null,
+          "title": "I gave Claude Code our entire codebase. Our customers noticed. | Al Chen (Galileo)",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/192864109/6c64e86742bb7890d52370d49ce5eb87.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://www.lennysnewsletter.com/p/anthropics-1b-to-19b-growth-run",
           "author": "Lenny Rachitsky",
@@ -1804,38 +1866,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/the-most-successful-ai-company-youve-never-heard-of",
-          "author": "Lenny Rachitsky",
-          "description": "Listen now | Qasar Younis on why staying under-the-radar helped him build a $15 billion company, why emotions are a filter that distorts decision-making, and why the real AI revolution is happening in the physical",
-          "link": "https://www.lennysnewsletter.com/p/the-most-successful-ai-company-youve-never-heard-of",
-          "publishedOn": "2026-03-08T12:31:38.000Z",
-          "wordCount": null,
-          "title": "The most successful AI company you’ve never heard of | Qasar Younis",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/189615019/e413d2c4aa12df594b3cc3a34a7ae86d.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/community-wisdom-business-books-that",
-          "author": "Kiyani",
-          "description": "Community Wisdom 176",
-          "link": "https://www.lennysnewsletter.com/p/community-wisdom-business-books-that",
-          "publishedOn": "2026-03-07T16:44:42.000Z",
-          "wordCount": null,
-          "title": "🧠 Community Wisdom: Business books that haven’t aged well, vibe coding with your Figma design systems, Claude Code vs. other coding tools and more",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png"
         }
       ]
     },
@@ -1844,6 +1874,22 @@
       "feedUrl": "https://www.thevccorner.com/feed",
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
+        {
+          "id": "https://www.thevccorner.com/p/claude-skills-complete-guide-2026",
+          "author": "Ruben Dominguez",
+          "description": "Build once. Never re-explain yourself again.",
+          "link": "https://www.thevccorner.com/p/claude-skills-complete-guide-2026",
+          "publishedOn": "2026-04-06T15:01:18.000Z",
+          "wordCount": null,
+          "title": "Claude Skills: The Feature That Saves You 200 Hours",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/23bf6422-837b-4a6c-a695-08e9cfdc9b24_523x355.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/23bf6422-837b-4a6c-a695-08e9cfdc9b24_523x355.png"
+        },
         {
           "id": "https://www.thevccorner.com/p/what-is-your-startup-actually-worth",
           "author": "Ruben Dominguez",
@@ -2251,6 +2297,16 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/newsletter/ai-did-what-for-20k/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/ai-did-what-for-20k/",
+          "publishedOn": "2026-04-06T08:30:14.754Z",
+          "wordCount": null,
+          "title": "😸 AI did WHAT for $20K?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/newsletter/marc-andreessen-just-described-your-future-coworker/",
           "author": null,
@@ -2990,26 +3046,6 @@
           "wordCount": null,
           "title": "The Real AI Threat to Your Career Isn't Job Losses. It's What Happens to Your Paycheck.",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/how-to-learn-to-code-2026-ryan-carson-guide/",
-          "author": null,
-          "description": "The founder of Treehouse taught 1 million people to code. Here's how he would teach the next 1 million in 2026. Read on for every actionable lesson from his Neuron livestream, organized into a step-by-step playbook.",
-          "link": "https://www.theneuron.ai/explainer-articles/how-to-learn-to-code-2026-ryan-carson-guide/",
-          "publishedOn": "2026-03-07T19:03:01.340Z",
-          "wordCount": null,
-          "title": "How to Learn to Code in 2026: Ryan Carson's Complete Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/ai-news-digests/the-neurons-ai-skill-of-the-day-digest-march-2026/",
-          "author": null,
-          "description": "Go beyond prompts. March's best AI skills, workflows, and automation recipes for ChatGPT, Claude, Gemini, and the new wave of coding agents; concrete techniques you can use at work today.",
-          "link": "https://www.theneuron.ai/ai-news-digests/the-neurons-ai-skill-of-the-day-digest-march-2026/",
-          "publishedOn": "2026-03-07T16:00:00.000Z",
-          "wordCount": null,
-          "title": "The Neuron's AI Skill of the Day Digest (March 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -3018,6 +3054,36 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=608761",
+          "author": "Amit Shreiber",
+          "description": "The geometric foundations you need to understand the dot product\nThe post The Geometry Behind the Dot Product: Unit Vectors, Projections, and Intuition appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-geometry-behind-the-dot-product-unit-vectors-projections-and-intuition/",
+          "publishedOn": "2026-04-06T15:45:00.000Z",
+          "wordCount": 5175,
+          "title": "The Geometry Behind the Dot Product: Unit Vectors, Projections, and Intuition",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/a_edited-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608755",
+          "author": "Eivind Kjosbakken",
+          "description": "Learn how to apply coding agents in parallel to work more efficiently\nThe post How to Run Claude Code Agents in Parallel appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-run-claude-code-agents-in-parallel/",
+          "publishedOn": "2026-04-06T13:14:00.000Z",
+          "wordCount": 5161,
+          "title": "How to Run Claude Code Agents in Parallel",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/image-8.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608753",
+          "author": "Brandon Janes",
+          "description": "We are living through a paradigm shift in how we prove we are who we say we are online. Instead of asking What do you know? (password, PIN, mother’s maiden name) or What do you look like? (Face ID, fingerprint) the question has become How do you behave?\nThe post Behavior is the New Credential appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/behavior-is-the-new-credential/",
+          "publishedOn": "2026-04-06T10:37:00.000Z",
+          "wordCount": 4292,
+          "title": "Behavior is the New Credential",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/image-332.png"
+        },
         {
           "id": "https://towardsdatascience.com/?p=608745",
           "author": "Partha Sarkar",
@@ -3927,26 +3993,6 @@
           "wordCount": 4848,
           "title": "Write C Code Without Learning C: The Magic of PythoC",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/Gemini_Generated_Image_24r5024r5024r502-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608547",
-          "author": "Ryan Pégoud",
-          "description": "What if natural language is not the best abstraction for driving?\nThe post LatentVLA: Latent Reasoning Models for Autonomous Driving appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/latentvla-latent-reasoning-models-for-autonomous-driving/",
-          "publishedOn": "2026-03-08T13:00:00.000Z",
-          "wordCount": 4588,
-          "title": "LatentVLA: Latent Reasoning Models for Autonomous Driving",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/pramod-tiwari-WB1FLR5Fod8-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608545",
-          "author": "Maria Mouschoutzi",
-          "description": "Why traditional RAG loses context and how contextual retrieval dramatically improves retrieval accuracy\nThe post Understanding Context and Contextual Retrieval in RAG appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/understanding-context-and-contextual-retrieval-in-rag/",
-          "publishedOn": "2026-03-07T15:00:00.000Z",
-          "wordCount": 4929,
-          "title": "Understanding Context and Contextual Retrieval in RAG",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/Picture1-e1772726785198.jpg"
         }
       ]
     },
@@ -3961,6 +4007,46 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/38635c3677e1",
+          "author": "Fabricio Teixeira",
+          "description": "",
+          "link": "https://uxdesign.cc/the-ux-ground-is-shaking-synthetic-users-building-perspective-38635c3677e1?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-04-06T11:07:55.000Z",
+          "wordCount": null,
+          "title": "The UX ground is shaking, synthetic users, building perspective",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e36807c7f665",
+          "author": "‍ Alexandra Vasquez",
+          "description": "",
+          "link": "https://uxdesign.cc/data-models-the-shared-language-your-ai-and-team-are-both-missing-e36807c7f665?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-04-06T08:47:07.000Z",
+          "wordCount": null,
+          "title": "Data models: the shared language your AI and team are both missing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f0d80c24e14f",
+          "author": "Heenesh Patel",
+          "description": "",
+          "link": "https://uxdesign.cc/we-didnt-mean-to-build-this-engagement-at-any-cost-f0d80c24e14f?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-04-06T08:47:06.000Z",
+          "wordCount": null,
+          "title": "We didn’t mean to build this- engagement at any cost",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/95d2a2848390",
+          "author": "Daleen Rabe",
+          "description": "A guide to the conflicting needs of the individual User and the collective Customer.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/who-are-we-really-designing-for-95d2a2848390?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-04-06T08:46:27.000Z",
+          "wordCount": null,
+          "title": "Who are we really designing for?",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/69272cda4468",
           "author": "Allie Paschal",
@@ -4639,16 +4725,6 @@
           "publishedOn": "2026-03-09T09:13:17.000Z",
           "wordCount": null,
           "title": "The color statistic that’s been wrong for 80 years",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/6f488a54fc4e",
-          "author": "Heenesh Patel",
-          "description": "",
-          "link": "https://uxdesign.cc/the-last-interface-6f488a54fc4e?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-03-08T13:06:29.000Z",
-          "wordCount": null,
-          "title": "The last interface",
           "imageUrl": null
         }
       ]
