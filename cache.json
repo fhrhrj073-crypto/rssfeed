@@ -777,6 +777,36 @@
       "siteUrl": "https://www.youtube.com/channel/UCawZsQWqfGSbCI5yjkdVkTA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=a4hdPWSUzsE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=a4hdPWSUzsE",
+          "publishedOn": "2026-04-08T00:39:23.000Z",
+          "wordCount": null,
+          "title": "Anthropic banned OpenClaw...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/a-IOrLvd9B4",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/a-IOrLvd9B4",
+          "publishedOn": "2026-04-08T00:11:01.000Z",
+          "wordCount": 2085,
+          "title": "Earth SHATTERING New AI Model",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/ThJxXHzlzvI",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/ThJxXHzlzvI",
+          "publishedOn": "2026-04-07T19:00:17.000Z",
+          "wordCount": 2144,
+          "title": "I made a website for agents",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/8uPMM8HhRUc",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
@@ -1388,6 +1418,22 @@
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
         {
+          "id": "https://www.lennysnewsletter.com/p/a-visual-guide-to-getting-out-of",
+          "author": "Michelle Rial",
+          "description": "On creating work like a human (and all the feelings that come with it)",
+          "link": "https://www.lennysnewsletter.com/p/a-visual-guide-to-getting-out-of",
+          "publishedOn": "2026-04-07T12:45:49.000Z",
+          "wordCount": null,
+          "title": "A visual guide to getting out of a creative slump",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!F-hp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0146677f-6753-44cf-bcc9-0d170d6dcfae_1200x555.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!F-hp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0146677f-6753-44cf-bcc9-0d170d6dcfae_1200x555.jpeg"
+        },
+        {
           "id": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-i-gave-claude",
           "author": "Lenny Rachitsky",
           "description": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
@@ -1850,22 +1896,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/27b72e2a-087b-4727-a4d3-9471e149044e_2048x2048.png"
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/mastering-midjourney-how-to-create",
-          "author": "Claire Vo",
-          "description": "Listen now | 🎙️ Learn how an AI creative director builds consistent brand aesthetics using style references, personalization codes, and strategic iteration—without complex prompting",
-          "link": "https://www.lennysnewsletter.com/p/mastering-midjourney-how-to-create",
-          "publishedOn": "2026-03-09T12:03:55.000Z",
-          "wordCount": null,
-          "title": "Mastering Midjourney: How to create consistent, beautiful brand imagery without complex prompts",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/189786906/cc75678899be20c38e92ac855d256a29.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -2273,22 +2303,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!D2Zq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42dadf36-503e-4417-8d22-64486c8f131b_2536x1372.png"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/agi-is-closer-than-you-think-prompt",
-          "author": "Ruben Dominguez",
-          "description": "Another week, another pulse check on venture.",
-          "link": "https://www.thevccorner.com/p/agi-is-closer-than-you-think-prompt",
-          "publishedOn": "2026-03-08T16:30:43.000Z",
-          "wordCount": null,
-          "title": "AGI Is Closer Than You Think💡, Prompt Engineering Is Dead🧠, AI Will Eat Application Software⚠️",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!yH87!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee2df5dc-f892-4dd3-9af3-4bb1beb83199_680x550.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!yH87!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fee2df5dc-f892-4dd3-9af3-4bb1beb83199_680x550.jpeg"
         }
       ]
     },
@@ -2297,6 +2311,16 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/newsletter/what-does-openai-see-coming/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/what-does-openai-see-coming/",
+          "publishedOn": "2026-04-07T08:31:13.396Z",
+          "wordCount": null,
+          "title": "😺 What does OpenAI see coming",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/newsletter/ai-did-what-for-20k/",
           "author": null,
@@ -3006,46 +3030,6 @@
           "wordCount": null,
           "title": "Microsoft wants to make AI agents enterprise-safe",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/brain-cells-play-doom-now/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/brain-cells-play-doom-now/",
-          "publishedOn": "2026-03-09T12:30:12.233Z",
-          "wordCount": null,
-          "title": "😸 Brain cells play Doom now",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/ninja-cats-wage-cuts-and-claude-going-rogue/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/ninja-cats-wage-cuts-and-claude-going-rogue/",
-          "publishedOn": "2026-03-08T17:30:09.446Z",
-          "wordCount": null,
-          "title": "😺 Anthropic: AI capabilities vs real usage, compared",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/the-real-ai-threat-to-your-career-isnt-job-losses-its-what-happens-to-your-paycheck/",
-          "author": null,
-          "description": "Software job postings are up 11%. Block just cut 40% of its workforce. Both are true. The real story is what happens to wages when AI makes every task cheaper.",
-          "link": "https://www.theneuron.ai/explainer-articles/the-real-ai-threat-to-your-career-isnt-job-losses-its-what-happens-to-your-paycheck/",
-          "publishedOn": "2026-03-08T15:23:20.374Z",
-          "wordCount": null,
-          "title": "The Real AI Threat to Your Career Isn't Job Losses. It's What Happens to Your Paycheck.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/undefined/the-real-ai-threat-to-your-career-isnt-job-losses-its-what-happens-to-your-paycheck/",
-          "author": null,
-          "description": "Software job postings are up 11%. Block just cut 40% of its workforce. Both are true. The real story is what happens to wages when AI makes every task cheaper.",
-          "link": "https://www.theneuron.ai/undefined/the-real-ai-threat-to-your-career-isnt-job-losses-its-what-happens-to-your-paycheck/",
-          "publishedOn": "2026-03-08T15:23:20.374Z",
-          "wordCount": null,
-          "title": "The Real AI Threat to Your Career Isn't Job Losses. It's What Happens to Your Paycheck.",
-          "imageUrl": null
         }
       ]
     },
@@ -3054,6 +3038,46 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=608773",
+          "author": "Shakti Kothari",
+          "description": "A practical system design combining open-source Bayesian MMM and GenAI for transparent, vendor independent marketing analytics insights.\nThe post Democratizing Marketing Mix Models (MMM) with Open Source and Gen AI appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/democratizing-marketing-mix-models-mmm-with-open-source-and-gen-ai/",
+          "publishedOn": "2026-04-07T16:30:00.000Z",
+          "wordCount": 4540,
+          "title": "Democratizing Marketing Mix Models (MMM) with Open Source and Gen AI",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/image-26-2.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608770",
+          "author": "Obinna Iheanachor",
+          "description": "How a hybrid PyMuPDF + GPT-4 Vision pipeline replaced £8,000 in manual engineering effort, and why the latest models weren’t the answer\nThe post From 4 Weeks to 45 Minutes: Designing a Document Extraction System for 4,700+ PDFs appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/from-4-weeks-to-45-minutes-designing-a-document-extraction-system-for-4700-pdfs/",
+          "publishedOn": "2026-04-07T15:00:00.000Z",
+          "wordCount": 4723,
+          "title": "From 4 Weeks to 45 Minutes: Designing a Document Extraction System for 4,700+ PDFs",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Sample-Engineering-Drawing-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608768",
+          "author": "Clara Chong",
+          "description": "How to optimize context, a precious finite resource for AI agents\nThe post Context Engineering for AI Agents: A Deep Dive appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/deep-dive-into-context-engineering-for-ai-agents/",
+          "publishedOn": "2026-04-07T13:30:00.000Z",
+          "wordCount": 4569,
+          "title": "Context Engineering for AI Agents: A Deep Dive",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/image.jpeg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608766",
+          "author": "Eirik Berge",
+          "description": "Why do grand productivity promises never actually deliver? Is every product just bad, or is there something else hiding in the numbers? \nThe post The Arithmetic of Productivity Boosts: Why Does a “40% Increase in Productivity” Never Actually Work? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-arithmetic-of-productivity-boosts-why-does-a-40-increase-in-productivity-never-actually-work/",
+          "publishedOn": "2026-04-07T12:00:00.000Z",
+          "wordCount": 4061,
+          "title": "The Arithmetic of Productivity Boosts: Why Does a “40% Increase in Productivity” Never Actually Work?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/vitaly-gariev-ZAelCzVq4rU-unsplash-scaled-1.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=608761",
           "author": "Amit Shreiber",
@@ -3973,26 +3997,6 @@
           "wordCount": 4366,
           "title": "Why Your AI Search Evaluation Is Probably Wrong (And How to Fix It)",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/a-chosen-soul-D_ivYIn4jWw-unsplash-1024x576.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608551",
-          "author": "Sabrine Bendimerad",
-          "description": "From one model to managing a massive portfolio: What 10 years in the industry taught me\nThe post Machine Learning at Scale: Managing More Than One Model in Production appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/machine-learning-at-scale-managing-more-than-one-model-in-production/",
-          "publishedOn": "2026-03-09T12:00:00.000Z",
-          "wordCount": 4468,
-          "title": "Machine Learning at Scale: Managing More Than One Model in Production",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/Gemini_Generated_Image_wiu3kzwiu3kzwiu3-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608549",
-          "author": "Thomas Reid",
-          "description": "Compile native, standalone applications using the Python syntax you already know.\nThe post Write C Code Without Learning C: The Magic of PythoC appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/write-c-code-without-learning-c-the-magic-of-pythoc/",
-          "publishedOn": "2026-03-08T15:00:00.000Z",
-          "wordCount": 4848,
-          "title": "Write C Code Without Learning C: The Magic of PythoC",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/Gemini_Generated_Image_24r5024r5024r502-scaled-1.jpg"
         }
       ]
     },
@@ -4007,6 +4011,46 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/98f4ee58d9a7",
+          "author": "Kai Wong",
+          "description": "How new leaner design workshops are succeeding in 2026\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/the-old-design-workshop-is-dead-long-live-design-workshops-98f4ee58d9a7?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-04-07T11:41:33.000Z",
+          "wordCount": null,
+          "title": "The old design workshop is dead. Long live design workshops.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ff088a766de8",
+          "author": "Andrés Zapata",
+          "description": "The recent ruling against Meta signals a shift that’s been brewing for a minute. Deceptive or dark patterns are no longer just…\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/careful-liable-ux-is-a-thing-now-ff088a766de8?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-04-07T08:44:11.000Z",
+          "wordCount": null,
+          "title": "Careful, liable UX is a thing now",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5d6d6bca783e",
+          "author": "Dora Czerna",
+          "description": "",
+          "link": "https://uxdesign.cc/beyond-the-user-why-design-needs-to-widen-its-circle-5d6d6bca783e?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-04-07T08:41:27.000Z",
+          "wordCount": null,
+          "title": "Beyond the user: why design needs to widen its circle",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1e1bbeba56ae",
+          "author": "Jonathan Ng",
+          "description": "Are consumers’ Openclaw agents becoming the real consumers?\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/designing-for-the-invisible-customer-1e1bbeba56ae?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-04-07T08:40:48.000Z",
+          "wordCount": null,
+          "title": "Designing for the invisible customer",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/38635c3677e1",
           "author": "Fabricio Teixeira",
@@ -4676,56 +4720,6 @@
           "wordCount": null,
           "title": "We thought AI feedback was making our designers faster. It was making them shallower",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/6f445c6dafac",
-          "author": "Fabricio Teixeira",
-          "description": "",
-          "link": "https://uxdesign.cc/product-ethics-ai-adoption-theatre-an-architecture-that-no-longer-exists-6f445c6dafac?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-03-09T12:12:03.000Z",
-          "wordCount": null,
-          "title": "Product ethics, AI adoption theatre, an architecture that no longer exists",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/862f4a46cd1a",
-          "author": "Elaine",
-          "description": "In the age of AI, “working” is a commodity while “winning” is the new mandate.\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/design-is-not-just-how-it-works-design-is-how-it-wins-862f4a46cd1a?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-03-09T09:17:57.000Z",
-          "wordCount": null,
-          "title": "Design is not just how it works. Design is how it wins.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/e893e05f50c7",
-          "author": "Catherine Chu",
-          "description": "",
-          "link": "https://uxdesign.cc/the-deceptive-side-of-robot-cuteness-e893e05f50c7?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-03-09T09:15:47.000Z",
-          "wordCount": null,
-          "title": "The deceptive side of robot cuteness",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/e1be1da2b228",
-          "author": "Scott Hines",
-          "description": "",
-          "link": "https://uxdesign.cc/stairways-to-nowhere-why-ai-makes-blueprints-matter-more-than-ever-e1be1da2b228?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-03-09T09:13:52.000Z",
-          "wordCount": null,
-          "title": "Stairways to nowhere: why AI makes blueprints matter more than ever",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/2bc47ef03a58",
-          "author": "Kevin Muldoon",
-          "description": "The estimate everyone repeated and nobody verified\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/the-color-statistic-thats-been-wrong-for-80-years-2bc47ef03a58?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-03-09T09:13:17.000Z",
-          "wordCount": null,
-          "title": "The color statistic that’s been wrong for 80 years",
-          "imageUrl": null
         }
       ]
     },
@@ -4767,6 +4761,106 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/4b9635bf4112",
+          "author": "Will Cheung",
+          "description": "",
+          "link": "https://generativeai.pub/the-agent-wars-why-im-trading-my-openclaw-setup-for-hermes-4b9635bf4112?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-07T13:36:28.000Z",
+          "wordCount": null,
+          "title": "The Agent Wars: Why I’m Trading my OpenClaw Setup for Hermes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1788ca0374b8",
+          "author": "Yolm",
+          "description": "",
+          "link": "https://generativeai.pub/we-taught-the-homunculus-language-1788ca0374b8?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-07T13:35:06.000Z",
+          "wordCount": null,
+          "title": "We Taught The Homunculus Language",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/99a017dddd35",
+          "author": "Aleksei Aleinikov",
+          "description": "The most dangerous thing about LLMs is not hallucination. It is how convincingly they imitate competence.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/why-llms-in-2026-imitate-work-more-than-thinking-99a017dddd35?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-07T13:33:33.000Z",
+          "wordCount": null,
+          "title": "Why LLMs in 2026 Imitate Work More Than Thinking",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ecf6abe5150a",
+          "author": "hejrene | Rene",
+          "description": "Yes, AI is still expensive.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/claude-burned-through-ym-weekly-limit-by-thursday-here-are-5-things-i-do-differently-now-ecf6abe5150a?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-07T13:32:26.000Z",
+          "wordCount": null,
+          "title": "Claude Burned Through My Weekly Limit by Thursday. Here Are 5 Things I Do Differently Now.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e4561631096d",
+          "author": "hejrene | Rene",
+          "description": "The AI detector said I cheated. Then it said my professor did too.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/my-professor-accused-me-of-using-ai-then-i-asked-him-to-test-his-own-dissertation-e4561631096d?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-07T13:31:41.000Z",
+          "wordCount": null,
+          "title": "My Professor Accused Me of Using AI. Then I Asked Him to Test His Own Dissertation.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e1d10be8ca74",
+          "author": "Franck",
+          "description": "",
+          "link": "https://generativeai.pub/knowledge-management-strategy-for-the-ai-era-transforming-informational-chaos-into-operational-e1d10be8ca74?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-07T13:30:05.000Z",
+          "wordCount": null,
+          "title": "Knowledge Management Strategy for the AI Era: Transforming Informational Chaos into Operational…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d0ec47ecf626",
+          "author": "Franck",
+          "description": "",
+          "link": "https://generativeai.pub/the-point-of-no-return-why-unplugging-your-ai-has-become-functionally-impossible-d0ec47ecf626?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-07T13:29:44.000Z",
+          "wordCount": null,
+          "title": "The Point of No Return: Why Unplugging Your AI Has Become Functionally Impossible",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/415fce187c69",
+          "author": "Nakul Sharma",
+          "description": "",
+          "link": "https://generativeai.pub/code-got-faster-everything-else-didnt-415fce187c69?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-07T13:26:04.000Z",
+          "wordCount": null,
+          "title": "Code Got Faster. Everything Else Didn’t.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a68b03e9f2ce",
+          "author": "Saurabh Kohli",
+          "description": "",
+          "link": "https://generativeai.pub/conversating-agents-for-portfolio-drift-analysis-with-semantic-kernel-a68b03e9f2ce?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-07T13:24:46.000Z",
+          "wordCount": null,
+          "title": "Conversating Agents for Portfolio Drift Analysis with Semantic Kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d28aaf74707a",
+          "author": "Senaaravichandran A",
+          "description": "",
+          "link": "https://generativeai.pub/he-finished-high-school-at-8-got-his-phd-in-quantum-physics-at-15-now-he-wants-to-build-d28aaf74707a?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-07T13:24:11.000Z",
+          "wordCount": null,
+          "title": "He Finished High School at 8, Got His PhD in Quantum Physics at 15,\nNow He Wants to Build…",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/783663f669b7",
           "author": "Alexandria Hamilton",
@@ -5635,106 +5729,6 @@
           "publishedOn": "2026-03-10T14:32:26.000Z",
           "wordCount": null,
           "title": "I Finally Wrote Real Evals. Here’s the Workflow That Stuck.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/09449e41ce76",
-          "author": "Jim Clyde Monge",
-          "description": "Here are the best APIs you can use to programmatically create presentations or slide decks.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/testing-the-best-presentation-apis-09449e41ce76?source=rss----440100e76000---4",
-          "publishedOn": "2026-03-09T08:44:04.000Z",
-          "wordCount": null,
-          "title": "Testing the Best Presentation APIs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/fd794a4e63e2",
-          "author": "hejrene | Rene",
-          "description": "And that’s exactly why I won’t be replaced.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/i-am-working-on-replacing-myself-with-ai-fd794a4e63e2?source=rss----440100e76000---4",
-          "publishedOn": "2026-03-09T08:43:03.000Z",
-          "wordCount": null,
-          "title": "I Am Working on Replacing Myself with AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f9666d92f581",
-          "author": "Dorota Pawlak",
-          "description": "",
-          "link": "https://generativeai.pub/nano-banana-2-is-perfect-for-image-localization-heres-why-f9666d92f581?source=rss----440100e76000---4",
-          "publishedOn": "2026-03-09T08:42:43.000Z",
-          "wordCount": null,
-          "title": "Nano Banana 2 Is Perfect for Image Localization. Here’s Why",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/fd1f0e94f9c7",
-          "author": "Saurav Garai",
-          "description": "The letter arrived on a Tuesday.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/i-built-my-own-ai-because-i-didnt-trust-anyone-else-with-my-letters-fd1f0e94f9c7?source=rss----440100e76000---4",
-          "publishedOn": "2026-03-09T08:41:31.000Z",
-          "wordCount": null,
-          "title": "I Built My Own AI Because I Didn’t Trust Anyone Else With My Letters",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/167728fa3c87",
-          "author": "Cezary Gesikowski",
-          "description": "Not all is gloom and doom in the current age of AI\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/the-real-ai-boom-hasnt-even-started-yet-167728fa3c87?source=rss----440100e76000---4",
-          "publishedOn": "2026-03-09T08:39:32.000Z",
-          "wordCount": null,
-          "title": "The Real AI Boom Hasn’t Even Started Yet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/7cca867e210f",
-          "author": "Hayanan",
-          "description": "How Artificial Intelligence is Reshaping Battles, Raising Ethical Alarms, and Redefining Global Security\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/the-algorithmic-battlefield-7cca867e210f?source=rss----440100e76000---4",
-          "publishedOn": "2026-03-09T08:38:44.000Z",
-          "wordCount": null,
-          "title": "The Algorithmic Battlefield",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/0a71a4400fa2",
-          "author": "Ahmed M. Abdelfattah",
-          "description": "Five months ago, he said this exact benchmark was too hard for coding agents. Then he stopped watching for twelve hours.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/andrej-karpathy-said-agi-was-a-decade-away-that-was-october-by-march-his-code-was-rewriting-itsel-0a71a4400fa2?source=rss----440100e76000---4",
-          "publishedOn": "2026-03-09T08:38:10.000Z",
-          "wordCount": null,
-          "title": "Andrej Karpathy Said AGI Was a Decade Away. That Was October. By March, His Code Was Rewriting Itsel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/6eff7b94f132",
-          "author": "Daphne | DAPPER works",
-          "description": "This is how you recognise and avoid it\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/how-your-own-prompts-create-bias-in-ai-answers-6eff7b94f132?source=rss----440100e76000---4",
-          "publishedOn": "2026-03-09T08:37:49.000Z",
-          "wordCount": null,
-          "title": "Your own prompts create bias in AI answers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/8fcf19ac07cd",
-          "author": "Luis Ticas",
-          "description": "From inbox zero to email debt\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/i-used-claude-code-to-clean-up-5-081-unread-work-emails-in-90-minutes-heres-exactly-how-8fcf19ac07cd?source=rss----440100e76000---4",
-          "publishedOn": "2026-03-09T08:30:30.000Z",
-          "wordCount": null,
-          "title": "I Used Claude Code to Clean Up 5,081 Unread Work Emails in 90 Minutes. Here’s Exactly How",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/b9145de66dd4",
-          "author": "Xianwei Huang",
-          "description": "",
-          "link": "https://generativeai.pub/faking-an-ai-validating-a-kitchen-chatbot-with-a-wizard-of-oz-test-b9145de66dd4?source=rss----440100e76000---4",
-          "publishedOn": "2026-03-09T08:30:28.000Z",
-          "wordCount": null,
-          "title": "Faking an AI: Validating a Kitchen Chatbot with a Wizard Of Oz Test",
           "imageUrl": null
         }
       ]
