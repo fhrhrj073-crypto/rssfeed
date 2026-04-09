@@ -2,10 +2,151 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-04-08T01:08:40.024Z</updated>
+    <updated>2026-04-09T00:58:52.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New BEST AI Memory System]]></title>
+        <id>https://www.youtube.com/shorts/ROKgDeeFAnk</id>
+        <link href="https://www.youtube.com/shorts/ROKgDeeFAnk"/>
+        <updated>2026-04-08T22:53:29.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mythos is real and it scares me...]]></title>
+        <id>https://www.youtube.com/watch?v=SQhfkWdxVvE</id>
+        <link href="https://www.youtube.com/watch?v=SQhfkWdxVvE"/>
+        <updated>2026-04-08T18:56:47.000Z</updated>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[完全免費 AI 開發！用 Ollama + Gemma 4 在本地跑 OpenClaw & Claude Code]]></title>
+        <id>https://www.youtube.com/watch?v=vv4iAxoP44s</id>
+        <link href="https://www.youtube.com/watch?v=vv4iAxoP44s"/>
+        <updated>2026-04-08T18:51:32.000Z</updated>
+        <author>
+            <name>ZEDOTECH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nobody Trusts AI Products Now. Here's Why.]]></title>
+        <id>https://www.thevccorner.com/p/the-ai-trust-tax</id>
+        <link href="https://www.thevccorner.com/p/the-ai-trust-tax"/>
+        <updated>2026-04-08T17:26:03.000Z</updated>
+        <summary type="html"><![CDATA[The gap between an AI feature that ships and one that sticks comes down to a design decision most founders never make.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why AI Is Training on Its Own Garbage (and How to Fix It)]]></title>
+        <id>https://towardsdatascience.com/?p=608784</id>
+        <link href="https://towardsdatascience.com/why-ai-is-training-on-its-own-garbage-and-how-to-fix-it/"/>
+        <updated>2026-04-08T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Deep Web Data Is the Gold We Can't Touch, Yet
+The post Why AI Is Training on Its Own Garbage (and How to Fix It) appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Sabrine Bendimerad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detecting Translation Hallucinations with Attention Misalignment]]></title>
+        <id>https://towardsdatascience.com/?p=608781</id>
+        <link href="https://towardsdatascience.com/detecting-translation-hallucinations-with-attention-misalignment/"/>
+        <updated>2026-04-08T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A low-budget way to get token-level uncertainty estimation for neural machine translations
+The post Detecting Translation Hallucinations with Attention Misalignment appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Aleksandr Gapchenko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is your ANSWER?👇]]></title>
+        <id>https://www.youtube.com/shorts/wlh_xrCFneM</id>
+        <link href="https://www.youtube.com/shorts/wlh_xrCFneM"/>
+        <updated>2026-04-08T13:51:38.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Claude Code to Build a Minimum Viable Product]]></title>
+        <id>https://towardsdatascience.com/?p=608779</id>
+        <link href="https://towardsdatascience.com/how-to-use-claude-code-to-build-a-minimum-viable-product/"/>
+        <updated>2026-04-08T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to effectively present product ideas by building MVPs with coding agents
+The post How to Use Claude Code to Build a Minimum Viable Product appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a custom Slack inbox. It was easier than you’d think. | Yash Tekriwal (Clay)]]></title>
+        <id>https://www.lennysnewsletter.com/p/i-built-a-custom-slack-inbox-it-was</id>
+        <link href="https://www.lennysnewsletter.com/p/i-built-a-custom-slack-inbox-it-was"/>
+        <updated>2026-04-08T12:03:47.000Z</updated>
+        <summary type="html"><![CDATA[Watch now | 🎙️ How Yash built a Slack digest and Kanban dashboard using OpenAI agents and Perplexity Computer to reduce 150 daily notifications to ~30 actionable tasks]]></summary>
+        <author>
+            <name>Claire Vo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grounding Your LLM: A Practical Guide to RAG for Enterprise Knowledge Bases]]></title>
+        <id>https://towardsdatascience.com/?p=608776</id>
+        <link href="https://towardsdatascience.com/grounding-your-llm-a-practical-guide-to-rag-for-enterprise-knowledge-bases/"/>
+        <updated>2026-04-08T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A clear mental model and a practical foundation you can build on
+The post Grounding Your LLM: A Practical Guide to RAG for Enterprise Knowledge Bases appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Priyansh Bhardwaj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Social media on trial]]></title>
+        <id>https://medium.com/p/32be44a6434e</id>
+        <link href="https://uxdesign.cc/social-media-on-trial-32be44a6434e?source=rss----138adf9c44c---4"/>
+        <updated>2026-04-08T11:22:41.000Z</updated>
+        <summary type="html"><![CDATA[How design was used to target vulnerable children
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Neel Dozome</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 Too dangerous to release]]></title>
+        <id>https://www.theneuron.ai/newsletter/too-dangerous-to-release/</id>
+        <link href="https://www.theneuron.ai/newsletter/too-dangerous-to-release/"/>
+        <updated>2026-04-08T08:30:17.174Z</updated>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安卓秒變 Win 11！超強神級應用「HyperDroid」讓你立刻擁有電腦使用體驗，手機平板都能裝]]></title>
+        <id>https://www.youtube.com/watch?v=SQ-LsIyMf_0</id>
+        <link href="https://www.youtube.com/watch?v=SQ-LsIyMf_0"/>
+        <updated>2026-04-08T05:00:40.000Z</updated>
+        <author>
+            <name>電腦王阿達</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Listen: A visual guide to getting out of a creative slump]]></title>
+        <id>https://www.lennysnewsletter.com/p/listen-a-visual-guide-to-getting</id>
+        <link href="https://www.lennysnewsletter.com/p/listen-a-visual-guide-to-getting"/>
+        <updated>2026-04-08T02:51:13.000Z</updated>
+        <summary type="html"><![CDATA[An audio edition of Lenny's Newsletter post]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anthropic banned OpenClaw...]]></title>
         <id>https://www.youtube.com/watch?v=a4hdPWSUzsE</id>
@@ -23,6 +164,16 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Which ONE do you use?]]></title>
+        <id>https://www.youtube.com/shorts/ed3GmhmFCIM</id>
+        <link href="https://www.youtube.com/shorts/ed3GmhmFCIM"/>
+        <updated>2026-04-07T20:36:48.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
         </author>
     </entry>
     <entry>
@@ -44,6 +195,15 @@
 The post Democratizing Marketing Mix Models (MMM) with Open Source and Gen AI appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Shakti Kothari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[50x Cheaper Than Claude - But Can It Actually Code?]]></title>
+        <id>https://www.youtube.com/watch?v=w-X3HV2OTfM</id>
+        <link href="https://www.youtube.com/watch?v=w-X3HV2OTfM"/>
+        <updated>2026-04-07T16:09:33.000Z</updated>
+        <author>
+            <name>Tech With Tim</name>
         </author>
     </entry>
     <entry>
@@ -5018,251 +5178,6 @@ The post What Are Agent Skills Beyond Claude? appeared first on Towards Data Sci
         <id>https://www.youtube.com/watch?v=AqUpzZRZAyA</id>
         <link href="https://www.youtube.com/watch?v=AqUpzZRZAyA"/>
         <updated>2026-03-10T13:00:18.000Z</updated>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenClaw + Zeabur 教學｜Telegram、Discord、Slack Bot 設定完整流程]]></title>
-        <id>https://www.youtube.com/watch?v=GFQI2r2kGAw</id>
-        <link href="https://www.youtube.com/watch?v=GFQI2r2kGAw"/>
-        <updated>2026-03-10T12:47:24.000Z</updated>
-        <author>
-            <name>ZEDOTECH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A guide to advanced B2B positioning]]></title>
-        <id>https://www.lennysnewsletter.com/p/a-guide-to-advanced-b2b-positioning</id>
-        <link href="https://www.lennysnewsletter.com/p/a-guide-to-advanced-b2b-positioning"/>
-        <updated>2026-03-10T12:45:43.000Z</updated>
-        <summary type="html"><![CDATA[10 years, 300 companies, 4 non-obvious lessons on getting past the trickiest roadblocks]]></summary>
-        <author>
-            <name>April Dunford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Data Lies: Finding Optimal Strategies for Penalty Kicks with Game Theory]]></title>
-        <id>https://towardsdatascience.com/?p=608561</id>
-        <link href="https://towardsdatascience.com/when-data-lies-finding-optimal-strategies-for-penalty-kicks-with-game-theory/"/>
-        <updated>2026-03-10T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A data-driven introduction to game theory, Nash equilibrium, and strategic decision-making
-The post When Data Lies: Finding Optimal Strategies for Penalty Kicks with Game Theory appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Emanuele Boattini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why B2B UX features fail]]></title>
-        <id>https://medium.com/p/dfe033c67014</id>
-        <link href="https://uxdesign.cc/why-b2b-ux-features-fail-dfe033c67014?source=rss----138adf9c44c---4"/>
-        <updated>2026-03-10T11:19:25.000Z</updated>
-        <summary type="html"><![CDATA[The one question you always need to keep in mind for B2B projects
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Kai Wong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[裝太陽能加儲能真的省錢嗎？三年省下這麼多！換裝大容量鋰鐵電池挑戰零電費 feat. @FallingOutdoors]]></title>
-        <id>https://www.youtube.com/watch?v=kI_IoXzAn3A</id>
-        <link href="https://www.youtube.com/watch?v=kI_IoXzAn3A"/>
-        <updated>2026-03-10T09:59:38.000Z</updated>
-        <author>
-            <name>電腦王阿達</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leading design teams is easy, but we made it complicated]]></title>
-        <id>https://medium.com/p/e1fe36524a59</id>
-        <link href="https://uxdesign.cc/leading-design-teams-is-easy-but-we-made-it-complicated-e1fe36524a59?source=rss----138adf9c44c---4"/>
-        <updated>2026-03-10T09:34:51.000Z</updated>
-        <author>
-            <name>Kike Peña</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why safe AGI requires an enactive floor and state-space reversibility]]></title>
-        <id>https://medium.com/p/872ae70b6590</id>
-        <link href="https://uxdesign.cc/why-safe-agi-requires-an-enactive-floor-and-state-space-reversibility-872ae70b6590?source=rss----138adf9c44c---4"/>
-        <updated>2026-03-10T09:34:49.000Z</updated>
-        <author>
-            <name>Peter (Zak) Zakrzewski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😸  Your AI team needs an org chart; this tool does it]]></title>
-        <id>https://www.theneuron.ai/newsletter/your-ai-team-needs-an-org-chart-this-tool-does-it/</id>
-        <link href="https://www.theneuron.ai/newsletter/your-ai-team-needs-an-org-chart-this-tool-does-it/"/>
-        <updated>2026-03-10T09:30:11.959Z</updated>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A guide to advanced B2B positioning]]></title>
-        <id>https://www.lennysnewsletter.com/p/a-guide-to-advanced-b2b-positioning-e49</id>
-        <link href="https://www.lennysnewsletter.com/p/a-guide-to-advanced-b2b-positioning-e49"/>
-        <updated>2026-03-10T09:00:40.000Z</updated>
-        <summary type="html"><![CDATA[10 years, 300 companies, 4 non-obvious lessons on getting past the trickiest roadblocks]]></summary>
-        <author>
-            <name>Lenny Rachitsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The calm and charm of cosy games in a chaotic world]]></title>
-        <id>https://medium.com/p/7f29dbd8f4d9</id>
-        <link href="https://uxdesign.cc/the-calm-and-charm-of-cosy-games-in-a-chaotic-world-7f29dbd8f4d9?source=rss----138adf9c44c---4"/>
-        <updated>2026-03-09T22:09:54.000Z</updated>
-        <author>
-            <name>Dora Czerna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sycophancy: the emperor’s new clothes]]></title>
-        <id>https://medium.com/p/92c6043c06c6</id>
-        <link href="https://uxdesign.cc/sycophancy-the-emperors-new-clothes-92c6043c06c6?source=rss----138adf9c44c---4"/>
-        <updated>2026-03-09T22:09:33.000Z</updated>
-        <author>
-            <name>peng lin Ang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We thought AI feedback was making our designers faster. It was making them shallower]]></title>
-        <id>https://medium.com/p/853e41b257fb</id>
-        <link href="https://uxdesign.cc/we-thought-ai-feedback-was-making-our-designers-faster-it-was-making-them-shallower-853e41b257fb?source=rss----138adf9c44c---4"/>
-        <updated>2026-03-09T22:09:21.000Z</updated>
-        <summary type="html"><![CDATA[The designs shipped faster; the designers grew more slowly.
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Hoang Nguyen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Y Combinator W26 Batch: The Complete Company Database]]></title>
-        <id>https://www.thevccorner.com/p/yc-w26-batch-complete-company-database</id>
-        <link href="https://www.thevccorner.com/p/yc-w26-batch-complete-company-database"/>
-        <updated>2026-03-09T20:05:41.000Z</updated>
-        <summary type="html"><![CDATA[Every company. Every founder. Every traction signal. Demo Day is March 24.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three OpenClaw Mistakes to Avoid and How to Fix Them]]></title>
-        <id>https://towardsdatascience.com/?p=608558</id>
-        <link href="https://towardsdatascience.com/three-openclaw-mistakes-to-avoid-and-how-to-fix-them/"/>
-        <updated>2026-03-09T19:59:04.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to set up OpenClaw effectively
-The post Three OpenClaw Mistakes to Avoid and How to Fix Them appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Eivind Kjosbakken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Stole a Wall Street Trick to Solve a Google Trends Data Problem]]></title>
-        <id>https://towardsdatascience.com/?p=608556</id>
-        <link href="https://towardsdatascience.com/i-stole-a-wall-street-trick-to-solve-a-google-trends-data-problem-2/"/>
-        <updated>2026-03-09T19:08:20.000Z</updated>
-        <summary type="html"><![CDATA[A methodology for comparing Google Trends data across countries. 
-The post I Stole a Wall Street Trick to Solve a Google Trends Data Problem appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Leigh Collier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Andrej Karpathy’s autoresearch is a tiny repo with very big implications]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/andrej-karpathys-autoresearch-tiny-repo-big-implications/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/andrej-karpathys-autoresearch-tiny-repo-big-implications/"/>
-        <updated>2026-03-09T18:40:23.607Z</updated>
-        <summary type="html"><![CDATA[Andrej Karpathy’s new open-source project, autoresearch, lets an AI agent run ML experiments while you sleep—editing training code, testing ideas, and keeping only what works. It’s a small repo with a very big thesis: the future of AI research may look a lot more like designing the system than manually running every experiment yourself.]]></summary>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[未來的程式開發？用 OpenSpec + AI，在 VS Code 幾乎不用寫程式]]></title>
-        <id>https://www.youtube.com/watch?v=sxfOsuNfO50</id>
-        <link href="https://www.youtube.com/watch?v=sxfOsuNfO50"/>
-        <updated>2026-03-09T17:54:06.000Z</updated>
-        <author>
-            <name>ZEDOTECH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dylan Patel: They Don't See It Coming]]></title>
-        <id>https://www.youtube.com/watch?v=E5B0cS6XRkg</id>
-        <link href="https://www.youtube.com/watch?v=E5B0cS6XRkg"/>
-        <updated>2026-03-09T17:07:47.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎙️ This week on How I AI: Mastering Midjourney: How to create consistent, beautiful brand imagery without complex prompts]]></title>
-        <id>https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-mastering-midjourney</id>
-        <link href="https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-mastering-midjourney"/>
-        <updated>2026-03-09T15:03:09.000Z</updated>
-        <summary type="html"><![CDATA[Your weekly listens from How I AI, part of the Lenny's Podcast Network]]></summary>
-        <author>
-            <name>Lenny Rachitsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ultimate Beginner’s Guide to OpenClaw]]></title>
-        <id>https://www.youtube.com/watch?v=st534T7-mdE</id>
-        <link href="https://www.youtube.com/watch?v=st534T7-mdE"/>
-        <updated>2026-03-09T14:56:20.000Z</updated>
-        <author>
-            <name>Metics Media</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is this the easiest way to make money coding?]]></title>
-        <id>https://www.youtube.com/shorts/e1-TPMf1vu0</id>
-        <link href="https://www.youtube.com/shorts/e1-TPMf1vu0"/>
-        <updated>2026-03-09T14:09:13.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Your AI Search Evaluation Is Probably Wrong (And How to Fix It)]]></title>
-        <id>https://towardsdatascience.com/?p=608553</id>
-        <link href="https://towardsdatascience.com/why-your-ai-search-evaluation-is-probably-wrong-and-how-to-fix-it/"/>
-        <updated>2026-03-09T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A five-step framework for building rigorous, reproducible AI search benchmarks — before you make six-figure infrastructure decisions 
-The post Why Your AI Search Evaluation Is Probably Wrong (And How to Fix It) appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Zairah Mustahsan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft wants to make AI agents enterprise-safe]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/microsoft-wants-to-make-ai-agents-enterprise-safe/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/microsoft-wants-to-make-ai-agents-enterprise-safe/"/>
-        <updated>2026-03-09T13:18:27.593Z</updated>
-        <summary type="html"><![CDATA[Microsoft’s latest AI push is about making AI agents governable, secure, and usable at enterprise scale. With Wave 3 of Microsoft 365 Copilot, Agent 365, Claude support, and the new E7 Frontier Suite, Microsoft is betting that trust will matter just as much as intelligence.]]></summary>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to actually make money from coding.]]></title>
-        <id>https://www.youtube.com/shorts/kvkPA_ORf48</id>
-        <link href="https://www.youtube.com/shorts/kvkPA_ORf48"/>
-        <updated>2026-03-08T20:09:51.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Pass Technical Interviews Without Grinding LeetCode]]></title>
-        <id>https://www.youtube.com/watch?v=yOKMIEOCkRU</id>
-        <link href="https://www.youtube.com/watch?v=yOKMIEOCkRU"/>
-        <updated>2026-03-08T14:06:01.000Z</updated>
         <author>
             <name>Tech With Tim</name>
         </author>
