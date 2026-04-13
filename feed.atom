@@ -2,10 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-04-12T01:12:55.406Z</updated>
+    <updated>2026-04-13T01:14:52.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[😺 Demis says chat came too soon]]></title>
+        <id>https://www.theneuron.ai/newsletter/demis-says-chat-came-too-soon/</id>
+        <link href="https://www.theneuron.ai/newsletter/demis-says-chat-came-too-soon/"/>
+        <updated>2026-04-12T17:30:17.705Z</updated>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Treating AI Memory Like a Search Problem]]></title>
+        <id>https://towardsdatascience.com/?p=608827</id>
+        <link href="https://towardsdatascience.com/stop-treating-ai-memory-like-a-search-problem/"/>
+        <updated>2026-04-12T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why storing and retrieving data isn’t enough to build reliable AI memory systems
+The post Stop Treating AI Memory Like a Search Problem appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Benjamin Nweke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SaaS Multiples Reset🚨, How to Get Better Outputs from ChatGPT💡, What Is Your Startup Actually Worth?🎯]]></title>
+        <id>https://www.thevccorner.com/p/saas-multiples-reset-how-to-get-better</id>
+        <link href="https://www.thevccorner.com/p/saas-multiples-reset-how-to-get-better"/>
+        <updated>2026-04-12T15:59:45.000Z</updated>
+        <summary type="html"><![CDATA[Another week, another pulse check on Tech.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Write Pandas Like a Pro With Method Chaining Pipelines]]></title>
+        <id>https://towardsdatascience.com/?p=608814</id>
+        <link href="https://towardsdatascience.com/this-one-pandas-pattern-separates-beginners-from-intermediate-users/"/>
+        <updated>2026-04-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Master method chaining, assign(), and pipe() to write cleaner, testable, production-ready Pandas code
+The post Write Pandas Like a Pro With Method Chaining Pipelines appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ibrahim Salami</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Were you able to solve it?]]></title>
+        <id>https://www.youtube.com/shorts/g9Hwnw1amcY</id>
+        <link href="https://www.youtube.com/shorts/g9Hwnw1amcY"/>
+        <updated>2026-04-12T14:35:01.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running LLMs Locally Just Got Way Better - Ollama + MCP]]></title>
+        <id>https://www.youtube.com/watch?v=GAyNvq6Ayps</id>
+        <link href="https://www.youtube.com/watch?v=GAyNvq6Ayps"/>
+        <updated>2026-04-12T13:03:02.000Z</updated>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your ReAct Agent Is Wasting 90% of Its Retries — Here’s How to Stop It]]></title>
+        <id>https://towardsdatascience.com/?p=608812</id>
+        <link href="https://towardsdatascience.com/your-react-agent-is-wasting-90-of-its-retries-heres-how-to-stop-it/"/>
+        <updated>2026-04-12T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most ReAct-style agents are silently wasting their retry budget on errors that can never succeed. In a 200-task benchmark, 90.8% of retries were spent on hallucinated tool calls — not model mistakes, but architectural flaws. This article shows why prompt tuning won’t fix it, and the three structural changes that eliminate wasted retries entirely.
+The post Your ReAct Agent Is Wasting 90% of Its Retries — Here’s How to Stop It appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Emmimal P Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Most products don’t need tone of voice — they need a point]]></title>
+        <id>https://medium.com/p/cf37f7c752ac</id>
+        <link href="https://uxdesign.cc/most-products-dont-need-tone-of-voice-they-need-a-point-cf37f7c752ac?source=rss----138adf9c44c---4"/>
+        <updated>2026-04-12T12:33:41.000Z</updated>
+        <summary type="html"><![CDATA[Instead of BS rules that no one will open twice, focus on what’s useful (like plain English, active voice, and good timing).
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Rita Kind-Envy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing adaptive teams]]></title>
+        <id>https://medium.com/p/cee73e55013d</id>
+        <link href="https://uxdesign.cc/designing-adaptive-teams-cee73e55013d?source=rss----138adf9c44c---4"/>
+        <updated>2026-04-12T12:33:19.000Z</updated>
+        <author>
+            <name>Zeeshan Khalid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The trust-latency gap: why the future of UX is intentionally slower]]></title>
+        <id>https://medium.com/p/3433c1787d5e</id>
+        <link href="https://uxdesign.cc/the-trust-latency-gap-why-the-future-of-ux-is-intentionally-slower-3433c1787d5e?source=rss----138adf9c44c---4"/>
+        <updated>2026-04-12T12:32:26.000Z</updated>
+        <author>
+            <name>Honey Mehta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hard truths about building in the AI era | Keith Rabois (Khosla Ventures)]]></title>
+        <id>https://www.lennysnewsletter.com/p/hard-truths-about-building-in-the-ai-era</id>
+        <link href="https://www.lennysnewsletter.com/p/hard-truths-about-building-in-the-ai-era"/>
+        <updated>2026-04-12T12:31:41.000Z</updated>
+        <summary type="html"><![CDATA[Listen now | Keith Rabois explains his “barrels vs. ammunition” hiring framework, why talking to customers harms consumer products, how AI is collapsing PM, and more]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ultimate Beginner’s Guide to Shopify (2026)]]></title>
+        <id>https://www.youtube.com/watch?v=wQGabloRalM</id>
+        <link href="https://www.youtube.com/watch?v=wQGabloRalM"/>
+        <updated>2026-04-12T11:01:31.000Z</updated>
+        <author>
+            <name>Metics Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NemoClaw Tutorial: Run OpenClaw Safely with NVIDIA (Full Setup)]]></title>
+        <id>https://www.youtube.com/watch?v=M0ciMpB-EMY</id>
+        <link href="https://www.youtube.com/watch?v=M0ciMpB-EMY"/>
+        <updated>2026-04-12T11:00:35.000Z</updated>
+        <author>
+            <name>Metics Media</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rethinking design critique]]></title>
         <id>https://medium.com/p/3d358a859304</id>
@@ -4702,168 +4830,6 @@ The post The Multi-Agent Trap appeared first on Towards Data Science.]]></summar
         <updated>2026-03-14T14:21:51.000Z</updated>
         <author>
             <name>ZEDOTECH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Current Status of The Quantum Software Stack]]></title>
-        <id>https://towardsdatascience.com/?p=608600</id>
-        <link href="https://towardsdatascience.com/the-current-status-of-the-quantum-software-stack/"/>
-        <updated>2026-03-14T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How do we program quantum computers today?
-The post The Current Status of The Quantum Software Stack appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sara A. Metwalli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reliability is the currency of opportunity in the age of AI]]></title>
-        <id>https://medium.com/p/28faf901bb1b</id>
-        <link href="https://uxdesign.cc/reliability-is-the-currency-of-opportunity-in-the-age-of-ai-28faf901bb1b?source=rss----138adf9c44c---4"/>
-        <updated>2026-03-14T10:17:58.000Z</updated>
-        <author>
-            <name>Michael Buckley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PetClaw AI: Your 24/7 AI Desktop Pet Assistant — One Click to Start OpenClaw]]></title>
-        <id>https://medium.com/p/cbac5f8a26de</id>
-        <link href="https://generativeai.pub/petclaw-ai-your-24-7-ai-desktop-pet-assistant-one-click-to-start-openclaw-cbac5f8a26de?source=rss----440100e76000---4"/>
-        <updated>2026-03-14T01:23:00.000Z</updated>
-        <summary type="html"><![CDATA[PetClaw AI is a local AI desktop pet that lives on your computer, built on the open-source Openclaw framework, but way easier to install.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Jim Clyde Monge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fried]]></title>
-        <id>https://medium.com/p/ce8bf302af8f</id>
-        <link href="https://uxdesign.cc/fried-ce8bf302af8f?source=rss----138adf9c44c---4"/>
-        <updated>2026-03-13T21:47:51.000Z</updated>
-        <summary type="html"><![CDATA[On AI brain fry, token anxiety, and the robot that won’t let you rest
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Pablo Stanley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIVE: OpenClaw running on 3 Mac Studios and a DGX Spark]]></title>
-        <id>https://www.youtube.com/watch?v=sWuMEPES3So</id>
-        <link href="https://www.youtube.com/watch?v=sWuMEPES3So"/>
-        <updated>2026-03-13T21:18:30.000Z</updated>
-        <author>
-            <name>Alex Finn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The truth about Chat GPT...]]></title>
-        <id>https://www.youtube.com/shorts/n55ZLhMAZik</id>
-        <link href="https://www.youtube.com/shorts/n55ZLhMAZik"/>
-        <updated>2026-03-13T20:08:52.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Rivian Uses BOTH Cameras and LiDAR]]></title>
-        <id>https://www.youtube.com/shorts/lJhBWsnETFM</id>
-        <link href="https://www.youtube.com/shorts/lJhBWsnETFM"/>
-        <updated>2026-03-13T17:10:30.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Care About Prompt Caching in LLMs?]]></title>
-        <id>https://towardsdatascience.com/?p=608598</id>
-        <link href="https://towardsdatascience.com/why-care-about-promp-caching-in-llms/"/>
-        <updated>2026-03-13T17:09:47.000Z</updated>
-        <summary type="html"><![CDATA[Optimizing the cost and latency of your LLM calls with Prompt Caching
-The post Why Care About Prompt Caching in LLMs? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Maria Mouschoutzi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Story of Replit Most People Still Don’t See]]></title>
-        <id>https://www.thevccorner.com/p/the-story-of-replit-most-people-still</id>
-        <link href="https://www.thevccorner.com/p/the-story-of-replit-most-people-still"/>
-        <updated>2026-03-13T16:58:00.000Z</updated>
-        <summary type="html"><![CDATA[How Replit used vertical integration and professional dismissal to build a $1B moat. Explore the rise of "Vibe Coding" and the new era of sovereign builders.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Future Live | 03.13.26 | Guests from Slack, Giga, Letta, and Microsoft AI!]]></title>
-        <id>https://www.youtube.com/watch?v=5dfu6NvnTZM</id>
-        <link href="https://www.youtube.com/watch?v=5dfu6NvnTZM"/>
-        <updated>2026-03-13T16:31:56.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Vision Language Models Are Trained from “Scratch”]]></title>
-        <id>https://towardsdatascience.com/?p=608595</id>
-        <link href="https://towardsdatascience.com/how-vision-language-models-are-trained-from-scratch/"/>
-        <updated>2026-03-13T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A deep dive into exactly how text-only language models are finetuned to *see* images
-The post How Vision Language Models Are Trained from “Scratch” appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Avishek Biswas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DGX Spark Giveaway from Nvidia!]]></title>
-        <id>https://www.youtube.com/shorts/YiFC3Z_bCDU</id>
-        <link href="https://www.youtube.com/shorts/YiFC3Z_bCDU"/>
-        <updated>2026-03-13T15:05:27.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Personalized Restaurant Ranking with a Two-Tower Embedding Variant]]></title>
-        <id>https://towardsdatascience.com/?p=608593</id>
-        <link href="https://towardsdatascience.com/personalized-restaurant-ranking-with-a-two-tower-embedding-variant/"/>
-        <updated>2026-03-13T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How a lightweight two-tower model improved restaurant discovery when popularity ranking failed
-The post Personalized Restaurant Ranking with a Two-Tower Embedding Variant appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Andrey Chubin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenClaw Optimization & Cost Savings Tutorial - Save 97% on Cost]]></title>
-        <id>https://www.youtube.com/watch?v=lTXFv1Z0qfI</id>
-        <link href="https://www.youtube.com/watch?v=lTXFv1Z0qfI"/>
-        <updated>2026-03-13T14:52:18.000Z</updated>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Tale of Two Variances: Why NumPy and Pandas Give Different Answers]]></title>
-        <id>https://towardsdatascience.com/?p=608591</id>
-        <link href="https://towardsdatascience.com/a-tale-of-two-variances-why-numpy-and-pandas-give-different-answers/"/>
-        <updated>2026-03-13T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Imagine you are analyzing a small dataset: You want to calculate some summary statistics to get an idea of the distribution of this data, so you use numpy to calculate the mean and variance. Your output Looks like this: Great! Now you have an idea of the distribution of your data. However, your colleague comes […]
-The post A Tale of Two Variances: Why NumPy and Pandas Give Different Answers appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Kenneth McCarthy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xero Tutorial for Beginners 2026 - Learn How to Use Xero FAST]]></title>
-        <id>https://www.youtube.com/watch?v=kvh2glhqBHs</id>
-        <link href="https://www.youtube.com/watch?v=kvh2glhqBHs"/>
-        <updated>2026-03-13T13:19:52.000Z</updated>
-        <author>
-            <name>Metics Media</name>
         </author>
     </entry>
 </feed>
