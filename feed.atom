@@ -2,10 +2,126 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-04-14T01:13:19.979Z</updated>
+    <updated>2026-04-15T01:11:55.329Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to turn your competitor’s worst reviews into your strongest design argument]]></title>
+        <id>https://medium.com/p/6d216680693d</id>
+        <link href="https://uxdesign.cc/how-to-turn-your-competitors-worst-reviews-into-your-strongest-design-argument-6d216680693d?source=rss----138adf9c44c---4"/>
+        <updated>2026-04-14T22:31:01.000Z</updated>
+        <summary type="html"><![CDATA[Competitive research isn’t for visuals. It’s for bringing evidence.
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Kai Wong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RAG Isn’t Enough — I Built the Missing Context Layer That Makes LLM Systems Work]]></title>
+        <id>https://towardsdatascience.com/?p=608839</id>
+        <link href="https://towardsdatascience.com/rag-isnt-enough-i-built-the-missing-context-layer-that-makes-llm-systems-work/"/>
+        <updated>2026-04-14T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most RAG tutorials focus on retrieval or prompting. The real problem starts when context grows. This article shows a full context engineering system built in pure Python that controls memory, compression, re-ranking, and token budgets — so LLMs stay stable under real constraints.
+The post RAG Isn’t Enough — I Built the Missing Context Layer That Makes LLM Systems Work appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Emmimal P Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Modeling for Analytics Engineers: The Complete Primer]]></title>
+        <id>https://towardsdatascience.com/?p=608837</id>
+        <link href="https://towardsdatascience.com/data-modeling-for-analytics-engineers-the-complete-primer/"/>
+        <updated>2026-04-14T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The best data models make it hard to ask bad questions and easy to answer good ones.
+The post Data Modeling for Analytics Engineers: The Complete Primer appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Nikola Ilic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taste Is the New Moat and Design Decides Which Startups Survive]]></title>
+        <id>https://www.thevccorner.com/p/why-taste-is-the-new-moat</id>
+        <link href="https://www.thevccorner.com/p/why-taste-is-the-new-moat"/>
+        <updated>2026-04-14T15:22:58.000Z</updated>
+        <summary type="html"><![CDATA[In an age where AI can build anything, only founders with taste will build things that can survive.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Practical Guide to Choosing the Right Quantum SDK]]></title>
+        <id>https://towardsdatascience.com/?p=608835</id>
+        <link href="https://towardsdatascience.com/a-practical-guide-to-choosing-the-right-quantum-sdk/"/>
+        <updated>2026-04-14T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What to use, when to use it, and what to ignore?
+The post A Practical Guide to Choosing the Right Quantum SDK appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Sara A. Metwalli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide to Understanding GPUs and Maximizing GPU Utilization]]></title>
+        <id>https://towardsdatascience.com/?p=608833</id>
+        <link href="https://towardsdatascience.com/a-guide-to-gpu-utilization/"/>
+        <updated>2026-04-14T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In an age of constrained compute, learn how to optimize GPU efficiency through understanding architecture, bottlenecks, and fixes ranging from simple PyTorch commands to custom kernels.
+The post A Guide to Understanding GPUs and Maximizing GPU Utilization appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ryan D'Cunha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not all AI agents are created equal]]></title>
+        <id>https://www.lennysnewsletter.com/p/not-all-ai-agents-are-created-equal</id>
+        <link href="https://www.lennysnewsletter.com/p/not-all-ai-agents-are-created-equal"/>
+        <updated>2026-04-14T12:46:08.000Z</updated>
+        <summary type="html"><![CDATA[A framework for categorizing and prioritizing your agent initiatives]]></summary>
+        <author>
+            <name>Hamza Farooq</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Produce Ultra-Compact Vector Graphic Plots With Orthogonal Distance Fitting]]></title>
+        <id>https://towardsdatascience.com/?p=608830</id>
+        <link href="https://towardsdatascience.com/how-to-produce-ultra-compact-vector-graphic-plots-with-orthogonal-distance-fitting/"/>
+        <updated>2026-04-14T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Generate high-quality, minimal SVG plots by fitting Bézier curves with an ODF algorithm.
+The post How To Produce Ultra-Compact Vector Graphic Plots With Orthogonal Distance Fitting appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ryan Burn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 Someone firebombed Sam Altman's house]]></title>
+        <id>https://www.theneuron.ai/newsletter/someone-firebombed-sam-altman-s-house/</id>
+        <link href="https://www.theneuron.ai/newsletter/someone-firebombed-sam-altman-s-house/"/>
+        <updated>2026-04-14T10:00:47.777Z</updated>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Ultimate Claude Code Setup]]></title>
+        <id>https://medium.com/p/af8b3a8ca011</id>
+        <link href="https://generativeai.pub/my-ultimate-claude-code-setup-af8b3a8ca011?source=rss----440100e76000---4"/>
+        <updated>2026-04-14T02:17:37.000Z</updated>
+        <summary type="html"><![CDATA[Here’s how I do my Claude Code setup that 10x my agentic development productivity.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Jim Clyde Monge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Around the Horn Digest: Everything That Happened in AI Today (Monday, April 13, 2026)]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/around-the-horn-digest-april-13-2026/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/around-the-horn-digest-april-13-2026/"/>
+        <updated>2026-04-14T01:19:29.719Z</updated>
+        <summary type="html"><![CDATA[Stanford's 2026 AI Index quantified the gap between AI insiders and the public, Anthropic's Mythos triggered a Fed-led bank summit, Berkeley researchers broke every major agent benchmark, Microsoft started building its own OpenClaw, and an AI signed a 3-year retail lease in San Francisco.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[You NEED to set up a multi agent team with OpenClaw and Hermes]]></title>
         <id>https://www.youtube.com/watch?v=mduLV-mWrNM</id>
@@ -4731,89 +4847,6 @@ The post How to Build a Production-Ready Claude Code Skill appeared first on Tow
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From journalist to iOS developer: How LinkedIn’s editor builds with Claude Code | Daniel Roth]]></title>
-        <id>https://www.lennysnewsletter.com/p/from-journalist-to-ios-developer</id>
-        <link href="https://www.lennysnewsletter.com/p/from-journalist-to-ios-developer"/>
-        <updated>2026-03-16T12:04:08.000Z</updated>
-        <summary type="html"><![CDATA[Watch now | 🎙️ How LinkedIn’s editor uses dueling Claude agents to plan features, write code, review security, and ship iOS apps—with zero coding experience]]></summary>
-        <author>
-            <name>Claire Vo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bayesian Thinking for People Who Hated Statistics]]></title>
-        <id>https://towardsdatascience.com/?p=608608</id>
-        <link href="https://towardsdatascience.com/bayesian-thinking-for-people-who-hated-statistics/"/>
-        <updated>2026-03-16T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[You already think like a Bayesian. Your stats class just taught the formula before the intuition. Here's a 5-step framework to apply it at work.
-The post Bayesian Thinking for People Who Hated Statistics appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Kaushik Rajan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The last interface, sycophancy in AI, design is how it wins]]></title>
-        <id>https://medium.com/p/015c5d1f322c</id>
-        <link href="https://uxdesign.cc/the-last-interface-sycophancy-in-ai-design-is-how-it-wins-015c5d1f322c?source=rss----138adf9c44c---4"/>
-        <updated>2026-03-16T09:22:34.000Z</updated>
-        <author>
-            <name>Fabricio Teixeira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Leaderboard To Monitor OpenClaw Variants Performance]]></title>
-        <id>https://medium.com/p/9cf09eb16bf7</id>
-        <link href="https://generativeai.pub/a-leaderboard-to-monitor-openclaw-variants-performance-9cf09eb16bf7?source=rss----440100e76000---4"/>
-        <updated>2026-03-16T08:45:29.000Z</updated>
-        <summary type="html"><![CDATA[ClawCharts tracks the explosive Claw ecosystem in real time, ranking nine projects by stars, commits, and contributor momentum.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Jim Clyde Monge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perplexity Computer Just Did in 7 Minutes What Took Me Hours]]></title>
-        <id>https://medium.com/p/ffda9d76c6ed</id>
-        <link href="https://generativeai.pub/perplexity-computer-just-did-in-7-minutes-what-took-me-hours-ffda9d76c6ed?source=rss----440100e76000---4"/>
-        <updated>2026-03-16T08:37:50.000Z</updated>
-        <summary type="html"><![CDATA[Perplexity Computer coordinates 19 AI models for real research tasks. Here’s what it did in 7 minutes, plus 7 ready-to-use prompts.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Adham Khaled</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Claude Code Skills Every Developer Needs in 2026]]></title>
-        <id>https://medium.com/p/52b15ae68685</id>
-        <link href="https://generativeai.pub/7-claude-code-skills-every-developer-needs-in-2026-52b15ae68685?source=rss----440100e76000---4"/>
-        <updated>2026-03-16T08:37:48.000Z</updated>
-        <summary type="html"><![CDATA[Starting a new project? These community-built skills handle the boring parts so you can focus on building.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Ruqaiya Beguwala</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Letter to Anthropic]]></title>
-        <id>https://medium.com/p/0c09d04de7c5</id>
-        <link href="https://generativeai.pub/open-letter-to-anthropic-0c09d04de7c5?source=rss----440100e76000---4"/>
-        <updated>2026-03-16T08:35:57.000Z</updated>
-        <author>
-            <name>Andrew Cole, AI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Studied OpenClaw Memory System — Here’s What I Found]]></title>
-        <id>https://medium.com/p/c05c6d50def4</id>
-        <link href="https://generativeai.pub/i-studied-openclaw-memory-system-heres-what-i-found-c05c6d50def4?source=rss----440100e76000---4"/>
-        <updated>2026-03-16T08:29:50.000Z</updated>
-        <summary type="html"><![CDATA[Over the past year, almost all AI products have been talking about one word: memory.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Gao Dalie (高達烈)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How I use AI to make my life easier.]]></title>
         <id>https://www.youtube.com/shorts/X_LdwPD3CDQ</id>
         <link href="https://www.youtube.com/shorts/X_LdwPD3CDQ"/>
@@ -4833,40 +4866,12 @@ Continue reading on Generative AI »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[😼 NVIDIA Wants to Own Every Layer of the AI Economy (And GTC 2026 Was the Blueprint)]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/-nvidia-wants-to-own-every-layer-of-the-ai-economy-and-gtc-2026-was-the-blueprint/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/-nvidia-wants-to-own-every-layer-of-the-ai-economy-and-gtc-2026-was-the-blueprint/"/>
-        <updated>2026-03-16T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Jensen Huang's GTC 2026 keynote wasn't a product dump. It was a declaration: NVIDIA plans to become the operating layer for the entire agentic AI economy, from chips to inference to industrial deployment.]]></summary>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Every AI Model Explained in 20 Minutes]]></title>
         <id>https://www.youtube.com/watch?v=I0me2uEbfuE</id>
         <link href="https://www.youtube.com/watch?v=I0me2uEbfuE"/>
         <updated>2026-03-16T01:05:23.000Z</updated>
         <author>
             <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😺 Over $2B in AI funding hit in a single news cycle]]></title>
-        <id>https://www.theneuron.ai/newsletter/over-2b-in-ai-funding-hit-in-a-single-news-cycle/</id>
-        <link href="https://www.theneuron.ai/newsletter/over-2b-in-ai-funding-hit-in-a-single-news-cycle/"/>
-        <updated>2026-03-15T22:30:10.248Z</updated>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your phone isn’t eavesdropping. The reality is stranger.]]></title>
-        <id>https://medium.com/p/489b20c4ffcc</id>
-        <link href="https://uxdesign.cc/your-phone-isnt-eavesdropping-the-reality-is-stranger-489b20c4ffcc?source=rss----138adf9c44c---4"/>
-        <updated>2026-03-15T20:55:09.000Z</updated>
-        <author>
-            <name>Dora Czerna</name>
         </author>
     </entry>
     <entry>
@@ -4880,33 +4885,12 @@ Continue reading on Generative AI »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YC W26 DB💰, $1T Services Opportunity🤖, How to Set Up Claude Cowork⚙️]]></title>
-        <id>https://www.thevccorner.com/p/yc-w26-db-1t-services-opportunity</id>
-        <link href="https://www.thevccorner.com/p/yc-w26-db-1t-services-opportunity"/>
-        <updated>2026-03-15T19:01:10.000Z</updated>
-        <summary type="html"><![CDATA[Another week, another pulse check on venture.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Build a Video Player in Next.js (Step-by-Step)]]></title>
         <id>https://www.youtube.com/watch?v=QL15V0vzt88</id>
         <link href="https://www.youtube.com/watch?v=QL15V0vzt88"/>
         <updated>2026-03-15T15:46:57.000Z</updated>
         <author>
             <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 2026 Data Mandate: Is Your Governance Architecture a Fortress or a Liability?]]></title>
-        <id>https://towardsdatascience.com/?p=608606</id>
-        <link href="https://towardsdatascience.com/the-2026-data-mandate-is-your-governance-architecture-a-fortress-or-a-liability/"/>
-        <updated>2026-03-15T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Is your data strategy 2026-ready? Get a deep dive into the mandatory shift toward human-in-the-loop oversight, active metadata, and the strategic advantages of European data sovereignty.
-The post The 2026 Data Mandate: Is Your Governance Architecture a Fortress or a Liability? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Alle Sravani</name>
         </author>
     </entry>
 </feed>

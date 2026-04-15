@@ -1350,6 +1350,22 @@
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
         {
+          "id": "https://www.lennysnewsletter.com/p/not-all-ai-agents-are-created-equal",
+          "author": "Hamza Farooq",
+          "description": "A framework for categorizing and prioritizing your agent initiatives",
+          "link": "https://www.lennysnewsletter.com/p/not-all-ai-agents-are-created-equal",
+          "publishedOn": "2026-04-14T12:46:08.000Z",
+          "wordCount": null,
+          "title": "Not all AI agents are created equal",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!0bKY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7622271-6226-44da-926d-8fbb1e4af173_1456x970.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!0bKY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7622271-6226-44da-926d-8fbb1e4af173_1456x970.png"
+        },
+        {
           "id": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-claude-cowork",
           "author": "Lenny Rachitsky",
           "description": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
@@ -1796,22 +1812,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/c793d9ed-d8e9-417e-a78a-9b055a55fbcc_2048x2048.png"
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/from-journalist-to-ios-developer",
-          "author": "Claire Vo",
-          "description": "Watch now | 🎙️ How LinkedIn’s editor uses dueling Claude agents to plan features, write code, review security, and ship iOS apps—with zero coding experience",
-          "link": "https://www.lennysnewsletter.com/p/from-journalist-to-ios-developer",
-          "publishedOn": "2026-03-16T12:04:08.000Z",
-          "wordCount": null,
-          "title": "From journalist to iOS developer: How LinkedIn’s editor builds with Claude Code | Daniel Roth",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/190741451/6500ba678b8f468ea26e6365ee26c174.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -1820,6 +1820,22 @@
       "feedUrl": "https://www.thevccorner.com/feed",
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
+        {
+          "id": "https://www.thevccorner.com/p/why-taste-is-the-new-moat",
+          "author": "Ruben Dominguez",
+          "description": "In an age where AI can build anything, only founders with taste will build things that can survive.",
+          "link": "https://www.thevccorner.com/p/why-taste-is-the-new-moat",
+          "publishedOn": "2026-04-14T15:22:58.000Z",
+          "wordCount": null,
+          "title": "Taste Is the New Moat and Design Decides Which Startups Survive",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!FUsc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9391e873-d9b6-417e-805f-f18327f6853b_1280x854.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!FUsc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9391e873-d9b6-417e-805f-f18327f6853b_1280x854.jpeg"
+        },
         {
           "id": "https://www.thevccorner.com/p/free-ai-gtm-kit-founders-2026",
           "author": "Ruben Dominguez",
@@ -2187,22 +2203,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/4f33a06b-03bb-474d-9c44-0c130d379af7_715x450.jpeg"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/yc-w26-db-1t-services-opportunity",
-          "author": "Ruben Dominguez",
-          "description": "Another week, another pulse check on venture.",
-          "link": "https://www.thevccorner.com/p/yc-w26-db-1t-services-opportunity",
-          "publishedOn": "2026-03-15T19:01:10.000Z",
-          "wordCount": null,
-          "title": "YC W26 DB💰, $1T Services Opportunity🤖, How to Set Up Claude Cowork⚙️",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/43098cf1-924a-45bd-8abb-f31d5392f117_3000x1999.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/43098cf1-924a-45bd-8abb-f31d5392f117_3000x1999.jpeg"
         }
       ]
     },
@@ -2211,6 +2211,26 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/newsletter/someone-firebombed-sam-altman-s-house/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/someone-firebombed-sam-altman-s-house/",
+          "publishedOn": "2026-04-14T10:00:47.777Z",
+          "wordCount": null,
+          "title": "😺 Someone firebombed Sam Altman's house",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-april-13-2026/",
+          "author": null,
+          "description": "Stanford's 2026 AI Index quantified the gap between AI insiders and the public, Anthropic's Mythos triggered a Fed-led bank summit, Berkeley researchers broke every major agent benchmark, Microsoft started building its own OpenClaw, and an AI signed a 3-year retail lease in San Francisco.",
+          "link": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-april-13-2026/",
+          "publishedOn": "2026-04-14T01:19:29.719Z",
+          "wordCount": null,
+          "title": "Around the Horn Digest: Everything That Happened in AI Today (Monday, April 13, 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/newsletter/bad-news-philosophy-majors/",
           "author": null,
@@ -2790,26 +2810,6 @@
           "wordCount": null,
           "title": "Around the Horn Digest: Everything That Happened in AI This Week (Mar 15–21, 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/-nvidia-wants-to-own-every-layer-of-the-ai-economy-and-gtc-2026-was-the-blueprint/",
-          "author": null,
-          "description": "Jensen Huang's GTC 2026 keynote wasn't a product dump. It was a declaration: NVIDIA plans to become the operating layer for the entire agentic AI economy, from chips to inference to industrial deployment.",
-          "link": "https://www.theneuron.ai/explainer-articles/-nvidia-wants-to-own-every-layer-of-the-ai-economy-and-gtc-2026-was-the-blueprint/",
-          "publishedOn": "2026-03-16T07:00:00.000Z",
-          "wordCount": null,
-          "title": "😼 NVIDIA Wants to Own Every Layer of the AI Economy (And GTC 2026 Was the Blueprint)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/over-2b-in-ai-funding-hit-in-a-single-news-cycle/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/over-2b-in-ai-funding-hit-in-a-single-news-cycle/",
-          "publishedOn": "2026-03-15T22:30:10.248Z",
-          "wordCount": null,
-          "title": "😺 Over $2B in AI funding hit in a single news cycle",
-          "imageUrl": null
         }
       ]
     },
@@ -2818,6 +2818,56 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=608839",
+          "author": "Emmimal P Alexander",
+          "description": "Most RAG tutorials focus on retrieval or prompting. The real problem starts when context grows. This article shows a full context engineering system built in pure Python that controls memory, compression, re-ranking, and token budgets — so LLMs stay stable under real constraints.\nThe post RAG Isn’t Enough — I Built the Missing Context Layer That Makes LLM Systems Work appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/rag-isnt-enough-i-built-the-missing-context-layer-that-makes-llm-systems-work/",
+          "publishedOn": "2026-04-14T18:00:00.000Z",
+          "wordCount": 6023,
+          "title": "RAG Isn’t Enough — I Built the Missing Context Layer That Makes LLM Systems Work",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Context-Layer.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608837",
+          "author": "Nikola Ilic",
+          "description": "The best data models make it hard to ask bad questions and easy to answer good ones.\nThe post Data Modeling for Analytics Engineers: The Complete Primer appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/data-modeling-for-analytics-engineers-the-complete-primer/",
+          "publishedOn": "2026-04-14T16:30:00.000Z",
+          "wordCount": 8502,
+          "title": "Data Modeling for Analytics Engineers: The Complete Primer",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/508dfd3d-4d86-466b-a8cc-0c7df6e94968_2400x1260-copy.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608835",
+          "author": "Sara A. Metwalli",
+          "description": "What to use, when to use it, and what to ignore?\nThe post A Practical Guide to Choosing the Right Quantum SDK appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/a-practical-guide-to-choosing-the-right-quantum-sdk/",
+          "publishedOn": "2026-04-14T15:00:00.000Z",
+          "wordCount": 4336,
+          "title": "A Practical Guide to Choosing the Right Quantum SDK",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/pexels-dkomov-34804006-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608833",
+          "author": "Ryan D'Cunha",
+          "description": "In an age of constrained compute, learn how to optimize GPU efficiency through understanding architecture, bottlenecks, and fixes ranging from simple PyTorch commands to custom kernels.\nThe post A Guide to Understanding GPUs and Maximizing GPU Utilization appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/a-guide-to-gpu-utilization/",
+          "publishedOn": "2026-04-14T13:30:00.000Z",
+          "wordCount": 6390,
+          "title": "A Guide to Understanding GPUs and Maximizing GPU Utilization",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/gpu_utilization_cover-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608830",
+          "author": "Ryan Burn",
+          "description": "Generate high-quality, minimal SVG plots by fitting Bézier curves with an ODF algorithm.\nThe post How To Produce Ultra-Compact Vector Graphic Plots With Orthogonal Distance Fitting appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-produce-ultra-compact-vector-graphic-plots-with-orthogonal-distance-fitting/",
+          "publishedOn": "2026-04-14T12:00:00.000Z",
+          "wordCount": 5565,
+          "title": "How To Produce Ultra-Compact Vector Graphic Plots With Orthogonal Distance Fitting",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/header-1-1-scaled-1.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=608823",
           "author": "Eivind Kjosbakken",
@@ -3752,26 +3802,6 @@
           "wordCount": 5229,
           "title": "How to Build a Production-Ready Claude Code Skill",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/quino-al-OUQfQRL2GJY-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608608",
-          "author": "Kaushik Rajan",
-          "description": "You already think like a Bayesian. Your stats class just taught the formula before the intuition. Here's a 5-step framework to apply it at work.\nThe post Bayesian Thinking for People Who Hated Statistics appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/bayesian-thinking-for-people-who-hated-statistics/",
-          "publishedOn": "2026-03-16T12:00:00.000Z",
-          "wordCount": 5350,
-          "title": "Bayesian Thinking for People Who Hated Statistics",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/image-172-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608606",
-          "author": "Alle Sravani",
-          "description": "Is your data strategy 2026-ready? Get a deep dive into the mandatory shift toward human-in-the-loop oversight, active metadata, and the strategic advantages of European data sovereignty.\nThe post The 2026 Data Mandate: Is Your Governance Architecture a Fortress or a Liability? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-2026-data-mandate-is-your-governance-architecture-a-fortress-or-a-liability/",
-          "publishedOn": "2026-03-15T15:00:00.000Z",
-          "wordCount": 4273,
-          "title": "The 2026 Data Mandate: Is Your Governance Architecture a Fortress or a Liability?",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/governance.jpg"
         }
       ]
     },
@@ -3786,6 +3816,16 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/6d216680693d",
+          "author": "Kai Wong",
+          "description": "Competitive research isn’t for visuals. It’s for bringing evidence.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/how-to-turn-your-competitors-worst-reviews-into-your-strongest-design-argument-6d216680693d?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-04-14T22:31:01.000Z",
+          "wordCount": null,
+          "title": "How to turn your competitor’s worst reviews into your strongest design argument",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/98e75650e97d",
           "author": "Fabricio Teixeira",
@@ -4435,26 +4475,6 @@
           "wordCount": null,
           "title": "A designer’s field report on the Iconic blind spot in AI world models",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/015c5d1f322c",
-          "author": "Fabricio Teixeira",
-          "description": "",
-          "link": "https://uxdesign.cc/the-last-interface-sycophancy-in-ai-design-is-how-it-wins-015c5d1f322c?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-03-16T09:22:34.000Z",
-          "wordCount": null,
-          "title": "The last interface, sycophancy in AI, design is how it wins",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/489b20c4ffcc",
-          "author": "Dora Czerna",
-          "description": "",
-          "link": "https://uxdesign.cc/your-phone-isnt-eavesdropping-the-reality-is-stranger-489b20c4ffcc?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-03-15T20:55:09.000Z",
-          "wordCount": null,
-          "title": "Your phone isn’t eavesdropping. The reality is stranger.",
-          "imageUrl": null
         }
       ]
     },
@@ -4496,6 +4516,16 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/af8b3a8ca011",
+          "author": "Jim Clyde Monge",
+          "description": "Here’s how I do my Claude Code setup that 10x my agentic development productivity.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/my-ultimate-claude-code-setup-af8b3a8ca011?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-14T02:17:37.000Z",
+          "wordCount": null,
+          "title": "My Ultimate Claude Code Setup",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/79c27e7795b0",
           "author": "Jim Clyde Monge",
@@ -5324,56 +5354,6 @@
           "publishedOn": "2026-03-17T09:05:32.000Z",
           "wordCount": null,
           "title": "How to Build a Kubernetes Incident Response AI Agent with LangGraph & Postgres",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9cf09eb16bf7",
-          "author": "Jim Clyde Monge",
-          "description": "ClawCharts tracks the explosive Claw ecosystem in real time, ranking nine projects by stars, commits, and contributor momentum.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/a-leaderboard-to-monitor-openclaw-variants-performance-9cf09eb16bf7?source=rss----440100e76000---4",
-          "publishedOn": "2026-03-16T08:45:29.000Z",
-          "wordCount": null,
-          "title": "A Leaderboard To Monitor OpenClaw Variants Performance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/ffda9d76c6ed",
-          "author": "Adham Khaled",
-          "description": "Perplexity Computer coordinates 19 AI models for real research tasks. Here’s what it did in 7 minutes, plus 7 ready-to-use prompts.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/perplexity-computer-just-did-in-7-minutes-what-took-me-hours-ffda9d76c6ed?source=rss----440100e76000---4",
-          "publishedOn": "2026-03-16T08:37:50.000Z",
-          "wordCount": null,
-          "title": "Perplexity Computer Just Did in 7 Minutes What Took Me Hours",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/52b15ae68685",
-          "author": "Ruqaiya Beguwala",
-          "description": "Starting a new project? These community-built skills handle the boring parts so you can focus on building.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/7-claude-code-skills-every-developer-needs-in-2026-52b15ae68685?source=rss----440100e76000---4",
-          "publishedOn": "2026-03-16T08:37:48.000Z",
-          "wordCount": null,
-          "title": "7 Claude Code Skills Every Developer Needs in 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/0c09d04de7c5",
-          "author": "Andrew Cole, AI",
-          "description": "",
-          "link": "https://generativeai.pub/open-letter-to-anthropic-0c09d04de7c5?source=rss----440100e76000---4",
-          "publishedOn": "2026-03-16T08:35:57.000Z",
-          "wordCount": null,
-          "title": "Open Letter to Anthropic",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c05c6d50def4",
-          "author": "Gao Dalie (高達烈)",
-          "description": "Over the past year, almost all AI products have been talking about one word: memory.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/i-studied-openclaw-memory-system-heres-what-i-found-c05c6d50def4?source=rss----440100e76000---4",
-          "publishedOn": "2026-03-16T08:29:50.000Z",
-          "wordCount": null,
-          "title": "I Studied OpenClaw Memory System — Here’s What I Found",
           "imageUrl": null
         }
       ]
