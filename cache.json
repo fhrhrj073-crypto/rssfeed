@@ -1815,6 +1815,22 @@
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
         {
+          "id": "https://www.thevccorner.com/p/guide-moving-to-san-francisco-startup-2026",
+          "author": "Ruben Dominguez",
+          "description": "The logistics, the culture and the compounding advantage that SF still offers founders who show up.",
+          "link": "https://www.thevccorner.com/p/guide-moving-to-san-francisco-startup-2026",
+          "publishedOn": "2026-04-16T15:59:40.000Z",
+          "wordCount": null,
+          "title": "How to Actually Move to San Francisco and Build a Startup: The Complete Founder Guide",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!wm4I!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff062ebc2-8c55-40b7-8efc-f801fa18e3c6_1555x1012.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!wm4I!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff062ebc2-8c55-40b7-8efc-f801fa18e3c6_1555x1012.png"
+        },
+        {
           "id": "https://www.thevccorner.com/p/why-taste-is-the-new-moat",
           "author": "Ruben Dominguez",
           "description": "In an age where AI can build anything, only founders with taste will build things that can survive.",
@@ -2165,22 +2181,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/a8fb8cd4-0179-435e-9849-a8133cb5145e_1512x850.webp"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/q1-2026-us-fund-activity-record-fundraising",
-          "author": "Ruben Dominguez",
-          "description": "$80 Billion in 3 Months: Inside Q1 2026’s Record-Breaking Fundraising",
-          "link": "https://www.thevccorner.com/p/q1-2026-us-fund-activity-record-fundraising",
-          "publishedOn": "2026-03-17T19:06:36.000Z",
-          "wordCount": null,
-          "title": "$80 Billion in 3 Months: Inside Q1 2026’s Record-Breaking Fundraising",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/bf57555b-f466-4d61-8185-63388930df08_2560x1707.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/bf57555b-f466-4d61-8185-63388930df08_2560x1707.webp"
         }
       ]
     },
@@ -2189,6 +2189,36 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/newsletter/even-allbirds-runs-gpu-clouds-now/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/even-allbirds-runs-gpu-clouds-now/",
+          "publishedOn": "2026-04-16T10:00:19.598Z",
+          "wordCount": null,
+          "title": "😺 Even Allbirds runs GPU clouds now",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/-around-the-horn-digest-everything-that-happened-in-ai-today-wednesday-april-15-2026/",
+          "author": null,
+          "description": "OpenAI's $852B valuation faces backer scrutiny while VCs offer Anthropic up to $800B, Allbirds pivoted from sneakers to AI compute and the stock popped 600%, Apple sent Siri devs back to coding bootcamp, Tubi became the first streamer with a native ChatGPT app, Europe got iced out of Anthropic's Mythos preview, and a federal court ruled your AI chats have no attorney-client privilege.",
+          "link": "https://www.theneuron.ai/explainer-articles/-around-the-horn-digest-everything-that-happened-in-ai-today-wednesday-april-15-2026/",
+          "publishedOn": "2026-04-16T02:24:47.231Z",
+          "wordCount": null,
+          "title": "Around the Horn Digest: Everything That Happened in AI Today (Wednesday, April 15, 2026)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/allbirds-is-going-out-of-business-they-just-dont-know-it-yet/",
+          "author": null,
+          "description": "Allbirds, the sustainable shoe company, is pivoting to a GPU provider. I'm sorry, WHAT?",
+          "link": "https://www.theneuron.ai/explainer-articles/allbirds-is-going-out-of-business-they-just-dont-know-it-yet/",
+          "publishedOn": "2026-04-16T00:44:04.928Z",
+          "wordCount": null,
+          "title": "Allbirds Quit Saving the Planet (One Shoe at a Time) to Power AI",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/explainer-articles/the-ai-industry-has-a-men-problem-/",
           "author": null,
@@ -2758,36 +2788,6 @@
           "wordCount": null,
           "title": "The AI Skill That Replaced Prompt Engineering (And You're Already Using It)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/openai-gave-gpt-5-4-mini-its-own-interns/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/openai-gave-gpt-5-4-mini-its-own-interns/",
-          "publishedOn": "2026-03-18T09:30:08.721Z",
-          "wordCount": null,
-          "title": "😺 OpenAI gave GPT-5.4 Mini its own interns",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/gpt-54-mini--54-nano-openai-built-a-team-of-ai-interns-for-your-ai-boss/",
-          "author": null,
-          "description": "OpenAI released GPT-5.4 mini and nano, smaller models designed to work as subagents under the full GPT-5.4. The real story is what this reveals about where AI development is headed: teams of models, not single models, doing the work.",
-          "link": "https://www.theneuron.ai/explainer-articles/gpt-54-mini--54-nano-openai-built-a-team-of-ai-interns-for-your-ai-boss/",
-          "publishedOn": "2026-03-17T21:25:28.684Z",
-          "wordCount": null,
-          "title": "GPT 5.4 Mini & 5.4 Nano: OpenAI Built a Team of AI Interns for Your AI Boss",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/ai-economics-101-how-ai-companies-make-money-why-chips-are-the-bottleneck-and-what-it-all-means-for-your-job-/",
-          "author": null,
-          "description": "We watched three of the most important conversations about AI's future, ran every number through a calculator, and came out with one question answered: how fast can this actually go?",
-          "link": "https://www.theneuron.ai/explainer-articles/ai-economics-101-how-ai-companies-make-money-why-chips-are-the-bottleneck-and-what-it-all-means-for-your-job-/",
-          "publishedOn": "2026-03-17T19:07:25.340Z",
-          "wordCount": null,
-          "title": "AI Economics 101: How AI Companies Make Money, Why Chips Are the Bottleneck, and What It All Means for Your Job",
-          "imageUrl": null
         }
       ]
     },
@@ -2796,6 +2796,56 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=608877",
+          "author": "Ferran Alia",
+          "description": "Inside MareNostrum V: SLURM schedulers, fat-tree topologies,  and scaling pipelines across 8,000 nodes in a 19th-century chapel\nThe post What It Actually Takes to Run Code on 200M€ Supercomputer appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/what-it-actually-takes-to-run-code-on-200me-supercomputer/",
+          "publishedOn": "2026-04-16T18:30:00.000Z",
+          "wordCount": 5019,
+          "title": "What It Actually Takes to Run Code on 200M€ Supercomputer",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/2017_BSC_Superordenador_MareNostrum-4_Barcelona-Supercomputing-Center.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608865",
+          "author": "Priyansh Bhardwaj",
+          "description": "The upstream decision no model, or LLM can fix once you get it wrong\nThe post Your Chunks Failed Your RAG in Production appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/your-chunks-failed-your-rag-in-production/",
+          "publishedOn": "2026-04-16T16:30:00.000Z",
+          "wordCount": 7410,
+          "title": "Your Chunks Failed Your RAG in Production",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Gemini_Generated_Image_bptg14bptg14bptg.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608863",
+          "author": "Ivo Bernardo",
+          "description": "Building a personal AI assistant is rarely a single, monolithic effort. In this piece, I walk through my latest addition: a task breaker module that decomposes complex goals into structured, actionable steps — and why that single component changed how I think about AI-driven productivity.\nThe post Building My Own Personal AI Assistant: A Chronicle, Part 2 appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/building-my-own-personal-ai-assistant-a-chronicle-part-2/",
+          "publishedOn": "2026-04-16T15:00:00.000Z",
+          "wordCount": 4882,
+          "title": "Building My Own Personal AI Assistant: A Chronicle, Part 2",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Screenshot-from-2026-04-12-18-54-01.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608861",
+          "author": "Sachin Sharma",
+          "description": "The problem with agent memory today\nThe post memweave: Zero-Infra AI Agent Memory with Markdown and SQLite — No Vector Database Required appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/memweave-zero-infra-ai-agent-memory-with-markdown-and-sqlite-no-vector-database-required/",
+          "publishedOn": "2026-04-16T13:30:00.000Z",
+          "wordCount": 6566,
+          "title": "memweave: Zero-Infra AI Agent Memory with Markdown and SQLite — No Vector Database Required",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/0_v2DBeVP_C3cx6qoS-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608854",
+          "author": "Benjamin Li",
+          "description": "Machine learning models can be confident even when they shouldn't be. This article introduces Deep Evidential Regression (DER), a method that lets neural networks rapidly express what they don't know. \nThe post Introduction to Deep Evidential Regression for Uncertainty Quantification appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/introduction-to-deep-evidential-regression-for-uncertainty-quantification/",
+          "publishedOn": "2026-04-16T12:00:00.000Z",
+          "wordCount": 5456,
+          "title": "Introduction to Deep Evidential Regression for Uncertainty Quantification",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/featured-scaled-1-1024x630.png"
+        },
         {
           "id": "https://towardsdatascience.com/?p=608850",
           "author": "Eivind Kjosbakken",
@@ -3750,46 +3800,6 @@
           "wordCount": 4565,
           "title": "Why You Should Stop Worrying About AI Taking Data Science Jobs",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/Egor-1st-March-Video-Thumbnail.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608621",
-          "author": "Chinmay Kakatkar",
-          "description": "A hands-on case study and practical guidance\nThe post One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/one-model-to-rule-them-all-sap-rpt-1-and-the-future-of-tabular-foundation-models/",
-          "publishedOn": "2026-03-18T12:00:00.000Z",
-          "wordCount": 6107,
-          "title": "One Model to Rule Them All? SAP-RPT-1 and the Future of Tabular Foundation Models",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/andrew-liu-2nx1Z70CT8I-unsplash-1024x683.jpeg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608625",
-          "author": "Eivind Kjosbakken",
-          "description": "Get more out of your coding agents by making reviewing more efficient\nThe post How to Effectively Review Claude Code Output appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-effectively-review-claude-code-output/",
-          "publishedOn": "2026-03-17T20:00:00.000Z",
-          "wordCount": 4427,
-          "title": "How to Effectively Review Claude Code Output",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/image-170.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608623",
-          "author": "Sam Black",
-          "description": "Privacy. Cost. Customization. Everything you need to know—step by step.\nThe post Self-Hosting Your First LLM appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/self-hosting-your-first-llm/",
-          "publishedOn": "2026-03-17T18:06:03.000Z",
-          "wordCount": 6929,
-          "title": "Self-Hosting Your First LLM",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/photo-1717501218385-55bc3a95be94.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608619",
-          "author": "Thomas Reid",
-          "description": "One embedding model to rule them all\nThe post Introducing Gemini Embeddings 2 Preview appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/introducing-gemini-embeddings-2-preview/",
-          "publishedOn": "2026-03-17T13:30:00.000Z",
-          "wordCount": 4996,
-          "title": "Introducing Gemini Embeddings 2 Preview",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/embed_main_image-scaled-1.jpg"
         }
       ]
     },
@@ -3804,6 +3814,66 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/771de2bad594",
+          "author": "Maria Teresa Stella",
+          "description": "",
+          "link": "https://uxdesign.cc/i-watched-the-manosphere-documentary-here-is-how-design-is-making-things-worse-771de2bad594?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-04-17T00:56:04.000Z",
+          "wordCount": null,
+          "title": "I watched the manosphere documentary; here is how design is making things worse.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d94e96575153",
+          "author": "Tom Seiple",
+          "description": "",
+          "link": "https://uxdesign.cc/autopilot-agentic-ai-and-the-dangers-of-imperfect-metaphors-d94e96575153?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-04-17T00:55:42.000Z",
+          "wordCount": null,
+          "title": "Autopilot, agentic AI, and the dangers of imperfect metaphors",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/edb9fbd79c95",
+          "author": "Peter (Zak) Zakrzewski",
+          "description": "",
+          "link": "https://uxdesign.cc/oh-but-theres-one-more-thing-edb9fbd79c95?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-04-17T00:55:19.000Z",
+          "wordCount": null,
+          "title": "Oh, but there’s one more thing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b552cad26702",
+          "author": "Chris R Becker",
+          "description": "A discussion of AI + Design and our shifting roles.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/we-become-what-we-behold-b552cad26702?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-04-16T09:50:43.000Z",
+          "wordCount": null,
+          "title": "We become what we behold",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7c38802de4a5",
+          "author": "Zeeshan Khalid",
+          "description": "",
+          "link": "https://uxdesign.cc/ai-ux-and-the-factory-model-7c38802de4a5?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-04-16T07:38:39.000Z",
+          "wordCount": null,
+          "title": "AI, UX, and the factory model",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/42b437379369",
+          "author": "Sibanu Bora",
+          "description": "",
+          "link": "https://uxdesign.cc/the-trust-gap-in-healthcare-ai-isnt-about-the-ai-42b437379369?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-04-16T07:38:03.000Z",
+          "wordCount": null,
+          "title": "The trust gap in healthcare AI isn’t about the AI",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/6d216680693d",
           "author": "Kai Wong",
@@ -4393,36 +4463,6 @@
           "wordCount": null,
           "title": "Designers, your next user won’t be human",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/406a28751aae",
-          "author": "Ian Batterbee",
-          "description": "Creating the products and services we always wanted to build was never about changing the definition.\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/forget-your-lovable-products-the-real-leverage-point-was-always-learning-406a28751aae?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-03-17T22:16:44.000Z",
-          "wordCount": null,
-          "title": "Forget your “lovable” products; the real leverage point was always learning.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/3cc7e7e6ff0c",
-          "author": "Nate Sowder",
-          "description": "",
-          "link": "https://uxdesign.cc/no-further-questions-please-3cc7e7e6ff0c?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-03-17T22:15:34.000Z",
-          "wordCount": null,
-          "title": "No further questions… please.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/7c90319b92cd",
-          "author": "Rita Kind-Envy",
-          "description": "This is what happens when your attention is being actively hijacked — the best “inspo pics” app is now unusable.\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/how-werewolves-killed-my-pinterest-7c90319b92cd?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-03-17T22:14:58.000Z",
-          "wordCount": null,
-          "title": "How werewolves killed my Pinterest",
-          "imageUrl": null
         }
       ]
     },
@@ -4464,6 +4504,86 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/eaeb432bb9c8",
+          "author": "Aashi Dutt",
+          "description": "",
+          "link": "https://generativeai.pub/hermes-agent-tutorial-build-a-meeting-copilot-with-streamlit-eaeb432bb9c8?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-16T14:45:54.000Z",
+          "wordCount": null,
+          "title": "Hermes Agent Tutorial: Build a Meeting Copilot With Streamlit",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/082c648518f0",
+          "author": "Jim Clyde Monge",
+          "description": "Here’s a detailed guide on how I automate presentation generation in Google Slides with Plus AI.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/the-best-way-to-automate-presentation-generation-on-google-slides-082c648518f0?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-16T14:45:37.000Z",
+          "wordCount": null,
+          "title": "The Best Way To Automate Presentation Generation On Google Slides",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3381132b840f",
+          "author": "Paco Cantero",
+          "description": "Stop writing procedures. Start designing structures that run themselves.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/from-pkm-to-pka-how-every-professional-should-handle-information-in-the-ai-era-3381132b840f?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-16T14:40:58.000Z",
+          "wordCount": null,
+          "title": "From PKM to PKA: How Every Professional Should Handle Information in the AI Era",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1d19b8b2a209",
+          "author": "Angie D.",
+          "description": "",
+          "link": "https://generativeai.pub/i-stopped-prompt-engineering-heres-what-actually-works-1d19b8b2a209?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-16T14:39:56.000Z",
+          "wordCount": null,
+          "title": "Prompt Engineering Is Solving the Wrong Problem",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/bb8115b600bd",
+          "author": "Kuldeepsinh Jadeja",
+          "description": "",
+          "link": "https://generativeai.pub/i-automated-80-of-my-workflow-with-ai-bb8115b600bd?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-16T14:38:49.000Z",
+          "wordCount": null,
+          "title": "I Automated 80% of My Workflow With AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/01e3c1a5057e",
+          "author": "John Paul Ada",
+          "description": "Anthropic just gave every developer a cloud worker that commits code under their name, and the compliance team hasn’t noticed yet.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/claude-code-routines-are-not-cron-jobs-they-are-a-governance-problem-in-waiting-01e3c1a5057e?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-16T14:37:35.000Z",
+          "wordCount": null,
+          "title": "Claude Code Routines Are Not Cron Jobs. They Are a Governance Problem in Waiting.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ba98ba6fcea9",
+          "author": "Dhanush N",
+          "description": "Exploring OpenAI’s TAC program, tiered access model and the shift toward identity-driven AI safeguards\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/gpt-5-4-cyber-and-the-rise-of-trusted-ai-access-for-cyber-defense-ba98ba6fcea9?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-16T14:36:44.000Z",
+          "wordCount": null,
+          "title": "GPT-5.4-Cyber and the Rise of Trusted AI Access for Cyber Defense",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6d7aa87f9ddd",
+          "author": "Gaurav Shrivastav",
+          "description": "You aren’t fixing bugs when you tune chunk sizes. You are patching over a missing feedback loop that was never there in the first place.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/rag-is-a-hack-heres-why-it-s-fundamentally-broken-6d7aa87f9ddd?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-16T14:36:34.000Z",
+          "wordCount": null,
+          "title": "RAG Is a Hack. Here’s Why It’s Fundamentally Broken.",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/af8b3a8ca011",
           "author": "Jim Clyde Monge",
