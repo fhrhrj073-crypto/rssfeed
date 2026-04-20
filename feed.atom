@@ -2,10 +2,130 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-04-19T01:15:58.844Z</updated>
+    <updated>2026-04-20T01:15:47.773Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[😺 Two free 3D world models dropped this week]]></title>
+        <id>https://www.theneuron.ai/newsletter/two-free-3d-world-models-dropped-this-week/</id>
+        <link href="https://www.theneuron.ai/newsletter/two-free-3d-world-models-dropped-this-week/"/>
+        <updated>2026-04-19T19:30:16.911Z</updated>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Around the Horn Digest: Everything That Happened in AI This Weekend (Friday-Sunday, April 17-19, 2026)]]></title>
+        <id>https://www.theneuron.ai/newsletter/around-the-horn-digest-everything-that-happened-in-ai-this-weekend-friday-sunday-april-17-19-2026/</id>
+        <link href="https://www.theneuron.ai/newsletter/around-the-horn-digest-everything-that-happened-in-ai-this-weekend-friday-sunday-april-17-19-2026/"/>
+        <updated>2026-04-19T18:58:07.514Z</updated>
+        <summary type="html"><![CDATA[Anthropic shipped Claude Design (the Figma competitor everyone saw coming), three senior OpenAI execs announced they're leaving pre-IPO, Claude Opus 4.7 wrote a working Chrome exploit for $2,283, and a fake Claude site started installing malware while everyone was watching the product launches.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Opus 4.7 Live Test: The Vision Upgrade, the Long-Context Drop, and Why the Mythos Theory Keeps Adding Up]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/opus-47-live-test-the-vision-upgrade-the-long-context-drop-and-why-the-mythos-theory-keeps-adding-up/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/opus-47-live-test-the-vision-upgrade-the-long-context-drop-and-why-the-mythos-theory-keeps-adding-up/"/>
+        <updated>2026-04-19T17:27:33.344Z</updated>
+        <summary type="html"><![CDATA[We went live within hours of Anthropic shipping Opus 4.7 and stress-tested everything from its new 3.75-megapixel vision to Claude Code's sub-agent behavior. Here's what the benchmarks didn't tell you.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free AI GTM System🛠️, Claude Opus 4.7🤖, The Brand Playbook🎨]]></title>
+        <id>https://www.thevccorner.com/p/free-ai-gtm-system-claude-opus-47</id>
+        <link href="https://www.thevccorner.com/p/free-ai-gtm-system-claude-opus-47"/>
+        <updated>2026-04-19T16:24:35.000Z</updated>
+        <summary type="html"><![CDATA[Another week, another pulse check on Tech.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proxy-Pointer RAG: Structure Meets Scale at 100% Accuracy with Smarter Retrieval]]></title>
+        <id>https://towardsdatascience.com/?p=608886</id>
+        <link href="https://towardsdatascience.com/proxy-pointer-rag-structure-meets-scale-100-accuracy-with-smarter-retrieval/"/>
+        <updated>2026-04-19T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Open source. 5-minute setup. Vector RAG done right—try it yourself.
+The post Proxy-Pointer RAG: Structure Meets Scale at 100% Accuracy with Smarter Retrieval appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Partha Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dreaming in Cubes]]></title>
+        <id>https://towardsdatascience.com/?p=608883</id>
+        <link href="https://towardsdatascience.com/dreaming-in-cubes/"/>
+        <updated>2026-04-19T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Generating Minecraft Worlds with Vector Quantized Variational Autoencoders (VQ-VAE) and Transformers
+The post Dreaming in Cubes appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ansh Aggarwal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why half of product managers are in trouble | Nikhyl Singhal (Meta, Google)]]></title>
+        <id>https://www.lennysnewsletter.com/p/why-half-of-product-managers-are-in-trouble</id>
+        <link href="https://www.lennysnewsletter.com/p/why-half-of-product-managers-are-in-trouble"/>
+        <updated>2026-04-19T12:31:44.000Z</updated>
+        <summary type="html"><![CDATA[Listen now | Nikhyl Singhal on why half of product managers are at risk, how to cross the reinvention threshold, and why the next two years will be chaotic for PMs]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KV Cache Is Eating Your VRAM. Here’s How Google Fixed It With TurboQuant.]]></title>
+        <id>https://towardsdatascience.com/?p=608895</id>
+        <link href="https://towardsdatascience.com/kv-cache-is-eating-your-vram-heres-how-google-fixed-it-with-turboquant/"/>
+        <updated>2026-04-19T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Explore the end-to-end pipeline of TurboQuant, a novel KV cache quantization framework. This overview breaks down how multi-stage compression achieves near-lossless storage through PolarQuant and QJL residuals, enabling massive context windows with minimal memory overhead
+The post KV Cache Is Eating Your VRAM. Here’s How Google Fixed It With TurboQuant. appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Aman Vasisht</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rethinking the shape of design teams in an AI world]]></title>
+        <id>https://medium.com/p/82f986bf9a27</id>
+        <link href="https://uxdesign.cc/rethinking-the-shape-of-design-teams-in-an-ai-world-82f986bf9a27?source=rss----138adf9c44c---4"/>
+        <updated>2026-04-19T09:15:37.000Z</updated>
+        <author>
+            <name>Darren Yeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Becoming an AI-native designer]]></title>
+        <id>https://medium.com/p/828365b71109</id>
+        <link href="https://uxdesign.cc/becoming-an-ai-native-designer-828365b71109?source=rss----138adf9c44c---4"/>
+        <updated>2026-04-19T09:15:15.000Z</updated>
+        <author>
+            <name>Sen Lin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The misrepresentation of “good taste” as a core design skill]]></title>
+        <id>https://medium.com/p/164c51751d4b</id>
+        <link href="https://uxdesign.cc/the-misrepresentation-of-good-taste-as-a-core-design-skill-164c51751d4b?source=rss----138adf9c44c---4"/>
+        <updated>2026-04-19T09:14:04.000Z</updated>
+        <summary type="html"><![CDATA[“Good taste” might be one of the most misleading phrases in the world of UX design at the moment.
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Maria Taneva</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Test smart: how to approach AI and stay sane?]]></title>
+        <id>https://medium.com/p/30bb54478d14</id>
+        <link href="https://uxdesign.cc/test-smart-how-to-approach-ai-and-stay-sane-30bb54478d14?source=rss----138adf9c44c---4"/>
+        <updated>2026-04-19T09:12:30.000Z</updated>
+        <author>
+            <name>Julia Kocbek</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🧠 Community Wisdom: Sharing Claude Code skills across the org, Why did lennysjobs.com shut down, opening an LLC for side work, AI for SMB sales, and more]]></title>
         <id>https://www.lennysnewsletter.com/p/community-wisdom-sharing-claude-code</id>
@@ -336,6 +456,15 @@ Continue reading on Generative AI »]]></summary>
 The post A Practical Guide to Memory for Autonomous LLM Agents appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Nick Lawson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hostinger Horizons Tutorial 2026 (Step-by-Step for Beginners)]]></title>
+        <id>https://www.youtube.com/watch?v=fYSWV8aUXsE</id>
+        <link href="https://www.youtube.com/watch?v=fYSWV8aUXsE"/>
+        <updated>2026-04-17T11:01:13.000Z</updated>
+        <author>
+            <name>Metics Media</name>
         </author>
     </entry>
     <entry>
@@ -4805,43 +4934,12 @@ The post Escaping the SQL Jungle appeared first on Towards Data Science.]]></sum
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Gentle Introduction to Nonlinear Constrained Optimization with Piecewise Linear Approximations]]></title>
-        <id>https://towardsdatascience.com/?p=608652</id>
-        <link href="https://towardsdatascience.com/a-gentle-introduction-to-nonlinear-constrained-optimization-with-piecewise-linear-approximations/"/>
-        <updated>2026-03-21T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Piecewise linear approximations are a practical way to handle nonlinear constrained models using LP/MIP
-The post A Gentle Introduction to Nonlinear Constrained Optimization with Piecewise Linear Approximations appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Caio Biondi de Carvalho</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Claude Code × Discord 教學｜用 Discord 控制 AI 寫程式（打造 AI Agent）]]></title>
         <id>https://www.youtube.com/watch?v=z_n-CrdeRWs</id>
         <link href="https://www.youtube.com/watch?v=z_n-CrdeRWs"/>
         <updated>2026-03-21T08:02:51.000Z</updated>
         <author>
             <name>ZEDOTECH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Playing dumb: how AI is beating scammers at their own game]]></title>
-        <id>https://medium.com/p/87f49b276dff</id>
-        <link href="https://uxdesign.cc/playing-dumb-how-ai-is-beating-scammers-at-their-own-game-87f49b276dff?source=rss----138adf9c44c---4"/>
-        <updated>2026-03-20T21:39:50.000Z</updated>
-        <author>
-            <name>Dora Czerna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google says “Vibe Design” is here, but it didn’t pass my vibe check]]></title>
-        <id>https://medium.com/p/d3caae4922bf</id>
-        <link href="https://uxdesign.cc/google-says-vibe-design-is-here-but-it-didnt-pass-my-vibe-check-d3caae4922bf?source=rss----138adf9c44c---4"/>
-        <updated>2026-03-20T21:39:49.000Z</updated>
-        <summary type="html"><![CDATA[Wall Street thinks “Stitch” is a job killer, but designers aren’t going anywhere.
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Elvis Hsiao</name>
         </author>
     </entry>
     <entry>
@@ -4854,27 +4952,6 @@ Continue reading on UX Collective »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The White House Just Told Congress How to Regulate AI. Here's What It Actually Says.]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/the-white-house-just-told-congress-how-to-regulate-ai-heres-what-it-actually-says/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/the-white-house-just-told-congress-how-to-regulate-ai-heres-what-it-actually-says/"/>
-        <updated>2026-03-20T19:35:45.147Z</updated>
-        <summary type="html"><![CDATA[The U.S. Trump administration released a sweeping AI policy framework today covering everything from child safety to copyright. The biggest move: telling states to stop making their own rules.]]></summary>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Math That’s Killing Your AI Agent]]></title>
-        <id>https://towardsdatascience.com/?p=608650</id>
-        <link href="https://towardsdatascience.com/the-math-thats-killing-your-ai-agent/"/>
-        <updated>2026-03-20T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[An 85% accurate AI agent fails 4 out of 5 times on a 10-step task. Learn the compound probability math behind production failures (and the 4-check pre-deployment framework to fix it).
-The post The Math That’s Killing Your AI Agent appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Kaushik Rajan</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Future Live | 03.20.26 | Guests from MOTS Podcast, Microsoft, Eliza Labs, and Sentient!]]></title>
         <id>https://www.youtube.com/watch?v=lnQ1K-fr1Ws</id>
         <link href="https://www.youtube.com/watch?v=lnQ1K-fr1Ws"/>
@@ -4884,44 +4961,12 @@ The post The Math That’s Killing Your AI Agent appeared first on Towards Data 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Robust Credit Scoring Models (Part 3)]]></title>
-        <id>https://towardsdatascience.com/?p=608648</id>
-        <link href="https://towardsdatascience.com/building-robust-credit-scoring-models-part-3/"/>
-        <updated>2026-03-20T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Handling outliers and missing values in borrower data using Python.
-The post Building Robust Credit Scoring Models (Part 3) appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>JUNIOR JUMBONG</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Become an AI Engineer Fast]]></title>
         <id>https://www.youtube.com/watch?v=Zk9LxO_dB64</id>
         <link href="https://www.youtube.com/watch?v=Zk9LxO_dB64"/>
         <updated>2026-03-20T14:01:03.000Z</updated>
         <author>
             <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You’re Not a Fraud. You’re Undervalued: Why Reverse Imposter Syndrome Hits Founders Hard]]></title>
-        <id>https://www.thevccorner.com/p/reverse-imposter-syndrome-founder-visibility-gap</id>
-        <link href="https://www.thevccorner.com/p/reverse-imposter-syndrome-founder-visibility-gap"/>
-        <updated>2026-03-20T13:43:09.000Z</updated>
-        <summary type="html"><![CDATA[The overlooked bias that affects ambitious builders, operators, and visionaries.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Measure AI Value]]></title>
-        <id>https://towardsdatascience.com/?p=608646</id>
-        <link href="https://towardsdatascience.com/how-to-measure-ai-value/"/>
-        <updated>2026-03-20T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[While efficiency is an important source of AI value, it is only part of the picture
-The post How to Measure AI Value appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Dr. Janna Lipenkova</name>
         </author>
     </entry>
     <entry>
@@ -4942,15 +4987,6 @@ The post How to Measure AI Value appeared first on Towards Data Science.]]></sum
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Ads Tutorial 2026 - How To Run Google Ads for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=QufRFAXJlOI</id>
-        <link href="https://www.youtube.com/watch?v=QufRFAXJlOI"/>
-        <updated>2026-03-19T12:00:53.000Z</updated>
-        <author>
-            <name>Metics Media</name>
         </author>
     </entry>
     <entry>

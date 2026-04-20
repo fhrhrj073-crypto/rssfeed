@@ -730,6 +730,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCuwpzP90g1LuGk6JUNms_AQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=fYSWV8aUXsE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fYSWV8aUXsE",
+          "publishedOn": "2026-04-17T11:01:13.000Z",
+          "wordCount": null,
+          "title": "Hostinger Horizons Tutorial 2026 (Step-by-Step for Beginners)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=XXplTbQR9to",
           "author": null,
           "description": "",
@@ -837,16 +847,6 @@
           "publishedOn": "2026-03-23T17:06:18.000Z",
           "wordCount": null,
           "title": "NordVPN Tutorial for Beginners 2026 - How to use NordVPN",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QufRFAXJlOI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QufRFAXJlOI",
-          "publishedOn": "2026-03-19T12:00:53.000Z",
-          "wordCount": null,
-          "title": "Google Ads Tutorial 2026 - How To Run Google Ads for Beginners",
           "imageUrl": null
         }
       ]
@@ -1360,6 +1360,22 @@
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
         {
+          "id": "https://www.lennysnewsletter.com/p/why-half-of-product-managers-are-in-trouble",
+          "author": "Lenny Rachitsky",
+          "description": "Listen now | Nikhyl Singhal on why half of product managers are at risk, how to cross the reinvention threshold, and why the next two years will be chaotic for PMs",
+          "link": "https://www.lennysnewsletter.com/p/why-half-of-product-managers-are-in-trouble",
+          "publishedOn": "2026-04-19T12:31:44.000Z",
+          "wordCount": null,
+          "title": "Why half of product managers are in trouble | Nikhyl Singhal (Meta, Google)",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/193130101/30f1b6a84d7387205e6e3d8d22355d89.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://www.lennysnewsletter.com/p/community-wisdom-sharing-claude-code",
           "author": "Kiyani",
           "description": "Community Wisdom 182",
@@ -1815,6 +1831,22 @@
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
         {
+          "id": "https://www.thevccorner.com/p/free-ai-gtm-system-claude-opus-47",
+          "author": "Ruben Dominguez",
+          "description": "Another week, another pulse check on Tech.",
+          "link": "https://www.thevccorner.com/p/free-ai-gtm-system-claude-opus-47",
+          "publishedOn": "2026-04-19T16:24:35.000Z",
+          "wordCount": null,
+          "title": "Free AI GTM System🛠️, Claude Opus 4.7🤖, The Brand Playbook🎨",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!Jwmg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7238737a-75e3-4626-a8d1-5b426d0662de_848x514.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!Jwmg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7238737a-75e3-4626-a8d1-5b426d0662de_848x514.webp"
+        },
+        {
           "id": "https://www.thevccorner.com/p/the-great-divergence-us-vs-europe-growth",
           "author": "Ruben Dominguez",
           "description": "The uncomfortable truth on how the U.S. left Europe behind in productivity, power laws, and economic outcomes.",
@@ -2165,22 +2197,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!o-6Q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f881b0f-f098-4226-a655-f436a041007d_680x478.jpeg"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/reverse-imposter-syndrome-founder-visibility-gap",
-          "author": "Ruben Dominguez",
-          "description": "The overlooked bias that affects ambitious builders, operators, and visionaries.",
-          "link": "https://www.thevccorner.com/p/reverse-imposter-syndrome-founder-visibility-gap",
-          "publishedOn": "2026-03-20T13:43:09.000Z",
-          "wordCount": null,
-          "title": "You’re Not a Fraud. You’re Undervalued: Why Reverse Imposter Syndrome Hits Founders Hard",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!3P_J!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b47e810-7e30-40bf-8fde-86873d82b8d5_1200x800.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!3P_J!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b47e810-7e30-40bf-8fde-86873d82b8d5_1200x800.png"
         }
       ]
     },
@@ -2189,6 +2205,36 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/newsletter/two-free-3d-world-models-dropped-this-week/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/two-free-3d-world-models-dropped-this-week/",
+          "publishedOn": "2026-04-19T19:30:16.911Z",
+          "wordCount": null,
+          "title": "😺 Two free 3D world models dropped this week",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/newsletter/around-the-horn-digest-everything-that-happened-in-ai-this-weekend-friday-sunday-april-17-19-2026/",
+          "author": null,
+          "description": "Anthropic shipped Claude Design (the Figma competitor everyone saw coming), three senior OpenAI execs announced they're leaving pre-IPO, Claude Opus 4.7 wrote a working Chrome exploit for $2,283, and a fake Claude site started installing malware while everyone was watching the product launches.",
+          "link": "https://www.theneuron.ai/newsletter/around-the-horn-digest-everything-that-happened-in-ai-this-weekend-friday-sunday-april-17-19-2026/",
+          "publishedOn": "2026-04-19T18:58:07.514Z",
+          "wordCount": null,
+          "title": "Around the Horn Digest: Everything That Happened in AI This Weekend (Friday-Sunday, April 17-19, 2026)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/opus-47-live-test-the-vision-upgrade-the-long-context-drop-and-why-the-mythos-theory-keeps-adding-up/",
+          "author": null,
+          "description": "We went live within hours of Anthropic shipping Opus 4.7 and stress-tested everything from its new 3.75-megapixel vision to Claude Code's sub-agent behavior. Here's what the benchmarks didn't tell you.",
+          "link": "https://www.theneuron.ai/explainer-articles/opus-47-live-test-the-vision-upgrade-the-long-context-drop-and-why-the-mythos-theory-keeps-adding-up/",
+          "publishedOn": "2026-04-19T17:27:33.344Z",
+          "wordCount": null,
+          "title": "Opus 4.7 Live Test: The Vision Upgrade, the Long-Context Drop, and Why the Mythos Theory Keeps Adding Up",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/newsletter/anthropic-shipped-opus-4-7-openai-countered/",
           "author": null,
@@ -2768,16 +2814,6 @@
           "wordCount": null,
           "title": "😸 The TL;DR on the White House's new AI plan",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/the-white-house-just-told-congress-how-to-regulate-ai-heres-what-it-actually-says/",
-          "author": null,
-          "description": "The U.S. Trump administration released a sweeping AI policy framework today covering everything from child safety to copyright. The biggest move: telling states to stop making their own rules.",
-          "link": "https://www.theneuron.ai/explainer-articles/the-white-house-just-told-congress-how-to-regulate-ai-heres-what-it-actually-says/",
-          "publishedOn": "2026-03-20T19:35:45.147Z",
-          "wordCount": null,
-          "title": "The White House Just Told Congress How to Regulate AI. Here's What It Actually Says.",
-          "imageUrl": null
         }
       ]
     },
@@ -2786,6 +2822,36 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=608886",
+          "author": "Partha Sarkar",
+          "description": "Open source. 5-minute setup. Vector RAG done right—try it yourself.\nThe post Proxy-Pointer RAG: Structure Meets Scale at 100% Accuracy with Smarter Retrieval appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/proxy-pointer-rag-structure-meets-scale-100-accuracy-with-smarter-retrieval/",
+          "publishedOn": "2026-04-19T15:00:00.000Z",
+          "wordCount": 5817,
+          "title": "Proxy-Pointer RAG: Structure Meets Scale at 100% Accuracy with Smarter Retrieval",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/proxy-pointer-2-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608883",
+          "author": "Ansh Aggarwal",
+          "description": "Generating Minecraft Worlds with Vector Quantized Variational Autoencoders (VQ-VAE) and Transformers\nThe post Dreaming in Cubes appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/dreaming-in-cubes/",
+          "publishedOn": "2026-04-19T13:00:00.000Z",
+          "wordCount": 4877,
+          "title": "Dreaming in Cubes",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/unpainted_terrain.jpeg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608895",
+          "author": "Aman Vasisht",
+          "description": "Explore the end-to-end pipeline of TurboQuant, a novel KV cache quantization framework. This overview breaks down how multi-stage compression achieves near-lossless storage through PolarQuant and QJL residuals, enabling massive context windows with minimal memory overhead\nThe post KV Cache Is Eating Your VRAM. Here’s How Google Fixed It With TurboQuant. appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/kv-cache-is-eating-your-vram-heres-how-google-fixed-it-with-turboquant/",
+          "publishedOn": "2026-04-19T11:00:00.000Z",
+          "wordCount": 5285,
+          "title": "KV Cache Is Eating Your VRAM. Here’s How Google Fixed It With TurboQuant.",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/img1222.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=608881",
           "author": "Emmimal P Alexander",
@@ -3740,46 +3806,6 @@
           "wordCount": 5530,
           "title": "Escaping the SQL Jungle",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/weronika-wSEv7Nanuxc-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608652",
-          "author": "Caio Biondi de Carvalho",
-          "description": "Piecewise linear approximations are a practical way to handle nonlinear constrained models using LP/MIP\nThe post A Gentle Introduction to Nonlinear Constrained Optimization with Piecewise Linear Approximations appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/a-gentle-introduction-to-nonlinear-constrained-optimization-with-piecewise-linear-approximations/",
-          "publishedOn": "2026-03-21T13:00:00.000Z",
-          "wordCount": 6667,
-          "title": "A Gentle Introduction to Nonlinear Constrained Optimization with Piecewise Linear Approximations",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/daniel-von-appen-GnxEPL-wZFg-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608650",
-          "author": "Kaushik Rajan",
-          "description": "An 85% accurate AI agent fails 4 out of 5 times on a 10-step task. Learn the compound probability math behind production failures (and the 4-check pre-deployment framework to fix it).\nThe post The Math That’s Killing Your AI Agent appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-math-thats-killing-your-ai-agent/",
-          "publishedOn": "2026-03-20T16:30:00.000Z",
-          "wordCount": 5528,
-          "title": "The Math That’s Killing Your AI Agent",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/image-252.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608648",
-          "author": "JUNIOR JUMBONG",
-          "description": "Handling outliers and missing values in borrower data using Python.\nThe post Building Robust Credit Scoring Models (Part 3) appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/building-robust-credit-scoring-models-part-3/",
-          "publishedOn": "2026-03-20T15:00:00.000Z",
-          "wordCount": 6470,
-          "title": "Building Robust Credit Scoring Models (Part 3)",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/outlier_scoring_en_clean.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608646",
-          "author": "Dr. Janna Lipenkova",
-          "description": "While efficiency is an important source of AI value, it is only part of the picture\nThe post How to Measure AI Value appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-measure-ai-value/",
-          "publishedOn": "2026-03-20T13:30:00.000Z",
-          "wordCount": 5320,
-          "title": "How to Measure AI Value",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/mental_models-83-scaled-1.jpg"
         }
       ]
     },
@@ -3794,6 +3820,46 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/82f986bf9a27",
+          "author": "Darren Yeo",
+          "description": "",
+          "link": "https://uxdesign.cc/rethinking-the-shape-of-design-teams-in-an-ai-world-82f986bf9a27?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-04-19T09:15:37.000Z",
+          "wordCount": null,
+          "title": "Rethinking the shape of design teams in an AI world",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/828365b71109",
+          "author": "Sen Lin",
+          "description": "",
+          "link": "https://uxdesign.cc/becoming-an-ai-native-designer-828365b71109?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-04-19T09:15:15.000Z",
+          "wordCount": null,
+          "title": "Becoming an AI-native designer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/164c51751d4b",
+          "author": "Maria Taneva",
+          "description": "“Good taste” might be one of the most misleading phrases in the world of UX design at the moment.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/the-misrepresentation-of-good-taste-as-a-core-design-skill-164c51751d4b?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-04-19T09:14:04.000Z",
+          "wordCount": null,
+          "title": "The misrepresentation of “good taste” as a core design skill",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/30bb54478d14",
+          "author": "Julia Kocbek",
+          "description": "",
+          "link": "https://uxdesign.cc/test-smart-how-to-approach-ai-and-stay-sane-30bb54478d14?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-04-19T09:12:30.000Z",
+          "wordCount": null,
+          "title": "Test smart: how to approach AI and stay sane?",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/0a63abb301f0",
           "author": "Dora Czerna",
@@ -4442,26 +4508,6 @@
           "publishedOn": "2026-03-22T17:07:11.000Z",
           "wordCount": null,
           "title": "Sorry, designers, we don’t decide the future of design",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/87f49b276dff",
-          "author": "Dora Czerna",
-          "description": "",
-          "link": "https://uxdesign.cc/playing-dumb-how-ai-is-beating-scammers-at-their-own-game-87f49b276dff?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-03-20T21:39:50.000Z",
-          "wordCount": null,
-          "title": "Playing dumb: how AI is beating scammers at their own game",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d3caae4922bf",
-          "author": "Elvis Hsiao",
-          "description": "Wall Street thinks “Stitch” is a job killer, but designers aren’t going anywhere.\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/google-says-vibe-design-is-here-but-it-didnt-pass-my-vibe-check-d3caae4922bf?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-03-20T21:39:49.000Z",
-          "wordCount": null,
-          "title": "Google says “Vibe Design” is here, but it didn’t pass my vibe check",
           "imageUrl": null
         }
       ]
