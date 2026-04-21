@@ -2,10 +2,260 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-04-20T01:15:47.773Z</updated>
+    <updated>2026-04-21T01:13:16.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How I Added Persistent Semantic Memory to Claude Code in 15 Minutes]]></title>
+        <id>https://medium.com/p/9b91f9399a76</id>
+        <link href="https://generativeai.pub/how-i-added-persistent-semantic-memory-to-claude-code-in-15-minutes-9b91f9399a76?source=rss----440100e76000---4"/>
+        <updated>2026-04-21T01:02:31.000Z</updated>
+        <summary type="html"><![CDATA[Mem0 + MCP + ChromaDB — plus what happens when your “helpful” hook spawns seven parallel Claude instances
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Daniel Rusnok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Generative AI May Be More Dangerous Than Predictive AI in Healthcare]]></title>
+        <id>https://medium.com/p/5c1529fa7ede</id>
+        <link href="https://generativeai.pub/why-generative-ai-may-be-more-dangerous-than-predictive-ai-in-healthcare-5c1529fa7ede?source=rss----440100e76000---4"/>
+        <updated>2026-04-21T01:02:05.000Z</updated>
+        <author>
+            <name>Swarup Dewanjee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agents are autonomous except when they are not which is most of the time]]></title>
+        <id>https://medium.com/p/a5de1408f417</id>
+        <link href="https://generativeai.pub/agents-are-autonomous-except-when-they-are-not-which-is-most-of-the-time-a5de1408f417?source=rss----440100e76000---4"/>
+        <updated>2026-04-21T01:00:50.000Z</updated>
+        <author>
+            <name>Marco van Hurne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Science Fictions AI Warnings]]></title>
+        <id>https://medium.com/p/23d41d7a25b0</id>
+        <link href="https://generativeai.pub/science-fictions-ai-warnings-23d41d7a25b0?source=rss----440100e76000---4"/>
+        <updated>2026-04-21T00:35:35.000Z</updated>
+        <author>
+            <name>Josh O'Brien</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Design: Three Handy Use Cases For Marketing & Localization Teams]]></title>
+        <id>https://medium.com/p/7c8d878ac700</id>
+        <link href="https://generativeai.pub/claude-design-three-handy-use-cases-for-marketing-localization-teams-7c8d878ac700?source=rss----440100e76000---4"/>
+        <updated>2026-04-21T00:32:03.000Z</updated>
+        <summary type="html"><![CDATA[Claude Design just went live.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Dorota Pawlak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The “Neurodivergent AI Advantage” Myth Needs a Reality Check]]></title>
+        <id>https://medium.com/p/883d0f611b21</id>
+        <link href="https://generativeai.pub/the-neurodivergent-ai-advantage-myth-needs-a-reality-check-883d0f611b21?source=rss----440100e76000---4"/>
+        <updated>2026-04-21T00:31:10.000Z</updated>
+        <summary type="html"><![CDATA[A flattering stereotype is still… just a stereotype
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Cezary Gesikowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Thought Words Had Meaning, Until This Simple Example Changed Everything]]></title>
+        <id>https://medium.com/p/ef5b7745eac2</id>
+        <link href="https://generativeai.pub/words-dont-have-meaning-sentences-do-ef5b7745eac2?source=rss----440100e76000---4"/>
+        <updated>2026-04-21T00:30:45.000Z</updated>
+        <author>
+            <name>Mohamed Noordeen Alaudeen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maybe They’re Selling Us SnAIke Oil?]]></title>
+        <id>https://medium.com/p/6667f852eca8</id>
+        <link href="https://generativeai.pub/maybe-theyre-selling-us-snaike-oil-6667f852eca8?source=rss----440100e76000---4"/>
+        <updated>2026-04-21T00:27:26.000Z</updated>
+        <summary type="html"><![CDATA[AI’s Circular-Jerk Economy
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Andrew W. Pearson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 4-Plane Architecture of AI-Native Content Engineering]]></title>
+        <id>https://medium.com/p/32dfcf79607c</id>
+        <link href="https://generativeai.pub/the-4-plane-architecture-of-ai-native-content-engineering-32dfcf79607c?source=rss----440100e76000---4"/>
+        <updated>2026-04-21T00:22:25.000Z</updated>
+        <author>
+            <name>Gabriel L. Manor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My juniors ship faster than my seniors. And I’m worried about them.]]></title>
+        <id>https://medium.com/p/4b284c7384ff</id>
+        <link href="https://generativeai.pub/my-juniors-ship-faster-than-my-seniors-and-im-worried-about-them-4b284c7384ff?source=rss----440100e76000---4"/>
+        <updated>2026-04-21T00:22:23.000Z</updated>
+        <summary type="html"><![CDATA[A junior engineer on my team closed fourteen tickets last sprint. My most senior IC closed four.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Revant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Product design in 2026: the beginning of a fantastic voyage?]]></title>
+        <id>https://medium.com/p/fb6866c907ac</id>
+        <link href="https://uxdesign.cc/product-design-in-2026-the-beginning-of-a-fantastic-voyage-fb6866c907ac?source=rss----138adf9c44c---4"/>
+        <updated>2026-04-20T22:01:48.000Z</updated>
+        <author>
+            <name>Kike Peña</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The chat box isn’t a UI paradigm. It’s what shipped.]]></title>
+        <id>https://medium.com/p/96e931d92769</id>
+        <link href="https://uxdesign.cc/the-chat-box-isnt-a-ui-paradigm-it-s-what-shipped-96e931d92769?source=rss----138adf9c44c---4"/>
+        <updated>2026-04-20T22:01:47.000Z</updated>
+        <author>
+            <name>Adi Leviim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The web trained AI to deceive. Now designers have to untrain it.]]></title>
+        <id>https://medium.com/p/420f9d3fe78e</id>
+        <link href="https://uxdesign.cc/the-web-trained-ai-to-deceive-now-designers-have-to-untrain-it-420f9d3fe78e?source=rss----138adf9c44c---4"/>
+        <updated>2026-04-20T22:01:45.000Z</updated>
+        <author>
+            <name>Arin Bhowmick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The art of subtraction in a world of infinite features]]></title>
+        <id>https://medium.com/p/722a9f02ed73</id>
+        <link href="https://uxdesign.cc/the-art-of-subtraction-in-a-world-of-infinite-features-722a9f02ed73?source=rss----138adf9c44c---4"/>
+        <updated>2026-04-20T21:54:36.000Z</updated>
+        <summary type="html"><![CDATA[A reflection on clarity, restraint, and what it truly means to design meaningful experiences looking at the bigger picture
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Luis Hermosilla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Does the p-value Even Mean?]]></title>
+        <id>https://towardsdatascience.com/?p=608899</id>
+        <link href="https://towardsdatascience.com/what-does-p-value-even-mean/"/>
+        <updated>2026-04-20T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[And what does it tell us?
+The post What Does the p-value Even Mean? appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Sara A. Metwalli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎙️ This week on How I AI: How Intercom 2x’d their engineering velocity with Claude Code]]></title>
+        <id>https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-intercom</id>
+        <link href="https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-intercom"/>
+        <updated>2026-04-20T15:33:11.000Z</updated>
+        <summary type="html"><![CDATA[Your weekly listens from How I AI, part of the Lenny’s Podcast Network]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Distribution Singularity: Why Speed, Story, and Surface Area Now Decide Who Wins in AI]]></title>
+        <id>https://www.thevccorner.com/p/distribution-singularity-ai-startup-momentum</id>
+        <link href="https://www.thevccorner.com/p/distribution-singularity-ai-startup-momentum"/>
+        <updated>2026-04-20T15:01:13.000Z</updated>
+        <summary type="html"><![CDATA[In the age of infinite models, the only real moat left is motion.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Context Payload Optimization for ICL-Based Tabular Foundation Models]]></title>
+        <id>https://towardsdatascience.com/?p=608897</id>
+        <link href="https://towardsdatascience.com/context-payload-optimization-for-icl-based-tabular-foundation-models/"/>
+        <updated>2026-04-20T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Conceptual overview and practical guidance
+The post Context Payload Optimization for ICL-Based Tabular Foundation Models appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Chinmay Kakatkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The LLM Gamble]]></title>
+        <id>https://towardsdatascience.com/?p=608890</id>
+        <link href="https://towardsdatascience.com/the-llm-gamble/"/>
+        <updated>2026-04-20T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Why it tickles your brain to use an LLM, and what that means for the AI industry
+The post The LLM Gamble appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Stephanie Kirmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Intercom 2x’d their engineering velocity in 9 months with Claude Code | Brian Scanlan]]></title>
+        <id>https://www.lennysnewsletter.com/p/how-intercom-2xd-their-engineering</id>
+        <link href="https://www.lennysnewsletter.com/p/how-intercom-2xd-their-engineering"/>
+        <updated>2026-04-20T12:03:25.000Z</updated>
+        <summary type="html"><![CDATA[Watch now | 🎙️ Brian Scanlan (Intercom) shows how they doubled engineering output using Claude Code skills, deep telemetry, and a culture that empowers engineers to ship faster]]></summary>
+        <author>
+            <name>Claire Vo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Risk to Asset: Designing a Practical Data Strategy That Actually Works]]></title>
+        <id>https://towardsdatascience.com/?p=608888</id>
+        <link href="https://towardsdatascience.com/from-risk-to-asset-designing-a-practical-data-strategy-that-actually-works/"/>
+        <updated>2026-04-20T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How to turn data into a strategic asset that enables faster decisions, reduces uncertainty, and helps the organization move toward its goals.
+The post From Risk to Asset: Designing a Practical Data Strategy That Actually Works appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Mike Huls</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What we behold, the trust-latency gap, designing haptics]]></title>
+        <id>https://medium.com/p/3b3469dd0103</id>
+        <link href="https://uxdesign.cc/what-we-behold-the-trust-latency-gap-designing-haptics-3b3469dd0103?source=rss----138adf9c44c---4"/>
+        <updated>2026-04-20T11:46:59.000Z</updated>
+        <author>
+            <name>Fabricio Teixeira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 Anthropic's Claude Design launched, and Reddit has thoughts.]]></title>
+        <id>https://www.theneuron.ai/newsletter/anthropic-s-claude-design-launched-and-reddit-has-thoughts/</id>
+        <link href="https://www.theneuron.ai/newsletter/anthropic-s-claude-design-launched-and-reddit-has-thoughts/"/>
+        <updated>2026-04-20T09:31:19.895Z</updated>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI is ruining the way you talk about your work]]></title>
+        <id>https://medium.com/p/599dbd78ea18</id>
+        <link href="https://uxdesign.cc/ai-is-ruining-the-way-you-talk-about-your-work-599dbd78ea18?source=rss----138adf9c44c---4"/>
+        <updated>2026-04-20T09:27:14.000Z</updated>
+        <summary type="html"><![CDATA[Chat UI rewards fluency, not precision. Your expertise lives in precision.
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Hoang Nguyen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The deceptive nature of today’s AI conversation design and how to fix it]]></title>
+        <id>https://medium.com/p/195c5372c388</id>
+        <link href="https://uxdesign.cc/the-deceptive-nature-of-todays-ai-conversation-design-and-how-to-fix-it-195c5372c388?source=rss----138adf9c44c---4"/>
+        <updated>2026-04-20T09:26:46.000Z</updated>
+        <author>
+            <name>Nicole Alexandra Michaelis</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[😺 Two free 3D world models dropped this week]]></title>
         <id>https://www.theneuron.ai/newsletter/two-free-3d-world-models-dropped-this-week/</id>
@@ -4864,27 +5114,6 @@ The post Prompt Caching with the OpenAI API: A Full Hands-On Python tutorial app
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Navier-Stokes Solver in Python from Scratch: Simulating Airflow]]></title>
-        <id>https://towardsdatascience.com/?p=608657</id>
-        <link href="https://towardsdatascience.com/building-a-navier-stokes-solver-in-python-from-scratch-simulating-airflow/"/>
-        <updated>2026-03-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A hands-on guide to implementing CFD with NumPy, from discretization to airflow simulation around a bird's wing
-The post Building a Navier-Stokes Solver in Python from Scratch: Simulating Airflow appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ferran Alia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The art of influence: The single most important skill that AI can’t replace | Jessica Fain (Webflow, ex-Slack)]]></title>
-        <id>https://www.lennysnewsletter.com/p/the-art-of-influence-jessica-fain</id>
-        <link href="https://www.lennysnewsletter.com/p/the-art-of-influence-jessica-fain"/>
-        <updated>2026-03-22T12:31:51.000Z</updated>
-        <summary type="html"><![CDATA[A PM’s guide to influencing executives: align with their incentives, present three options, and follow the breadcrumbs]]></summary>
-        <author>
-            <name>Lenny Rachitsky</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[7 Steps to Pass Technical Interviews - What I Actually Did]]></title>
         <id>https://www.youtube.com/watch?v=BH3y1V7KUKg</id>
         <link href="https://www.youtube.com/watch?v=BH3y1V7KUKg"/>
@@ -4900,37 +5129,6 @@ The post Building a Navier-Stokes Solver in Python from Scratch: Simulating Airf
         <updated>2026-03-22T09:49:33.000Z</updated>
         <author>
             <name>電腦王阿達</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Real Operating Plan: Inside a Fully Linked Startup FP&A Model]]></title>
-        <id>https://www.thevccorner.com/p/real-startup-fpa-model-operating-plan</id>
-        <link href="https://www.thevccorner.com/p/real-startup-fpa-model-operating-plan"/>
-        <updated>2026-03-21T19:31:14.000Z</updated>
-        <summary type="html"><![CDATA[Plan growth, defend your raise, and prove you won’t run out of money.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧠 Community Wisdom: Beating the solo-founder procrastination trap, best tools for B2B prospecting, finding your first real users pre-launch, and more]]></title>
-        <id>https://www.lennysnewsletter.com/p/community-wisdom-beating-the-solo</id>
-        <link href="https://www.lennysnewsletter.com/p/community-wisdom-beating-the-solo"/>
-        <updated>2026-03-21T17:19:36.000Z</updated>
-        <summary type="html"><![CDATA[Community Wisdom 178]]></summary>
-        <author>
-            <name>Kiyani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Escaping the SQL Jungle]]></title>
-        <id>https://towardsdatascience.com/?p=608655</id>
-        <link href="https://towardsdatascience.com/escaping-the-sql-jungle/"/>
-        <updated>2026-03-21T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most data platforms don’t break overnight; they grow into complexity, query by query. Over time, business logic spreads across SQL scripts, dashboards, and scheduled jobs until the system becomes a “SQL jungle.” This article explores how that happens and how to bring structure back.
-The post Escaping the SQL Jungle appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Mike Huls</name>
         </author>
     </entry>
     <entry>

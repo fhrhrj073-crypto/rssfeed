@@ -1360,6 +1360,38 @@
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
         {
+          "id": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-intercom",
+          "author": "Lenny Rachitsky",
+          "description": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+          "link": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-intercom",
+          "publishedOn": "2026-04-20T15:33:11.000Z",
+          "wordCount": null,
+          "title": "🎙️ This week on How I AI: How Intercom 2x’d their engineering velocity with Claude Code",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/a1c0cdda-f6e5-4b81-b669-8be5e5c3e496_2048x2048.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/a1c0cdda-f6e5-4b81-b669-8be5e5c3e496_2048x2048.png"
+        },
+        {
+          "id": "https://www.lennysnewsletter.com/p/how-intercom-2xd-their-engineering",
+          "author": "Claire Vo",
+          "description": "Watch now | 🎙️ Brian Scanlan (Intercom) shows how they doubled engineering output using Claude Code skills, deep telemetry, and a culture that empowers engineers to ship faster",
+          "link": "https://www.lennysnewsletter.com/p/how-intercom-2xd-their-engineering",
+          "publishedOn": "2026-04-20T12:03:25.000Z",
+          "wordCount": null,
+          "title": "How Intercom 2x’d their engineering velocity in 9 months with Claude Code | Brian Scanlan",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/194253419/ad290df54d4e0c4069b4b1c864f35bab.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://www.lennysnewsletter.com/p/why-half-of-product-managers-are-in-trouble",
           "author": "Lenny Rachitsky",
           "description": "Listen now | Nikhyl Singhal on why half of product managers are at risk, how to cross the reinvention threshold, and why the next two years will be chaotic for PMs",
@@ -1790,38 +1822,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/the-art-of-influence-jessica-fain",
-          "author": "Lenny Rachitsky",
-          "description": "A PM’s guide to influencing executives: align with their incentives, present three options, and follow the breadcrumbs",
-          "link": "https://www.lennysnewsletter.com/p/the-art-of-influence-jessica-fain",
-          "publishedOn": "2026-03-22T12:31:51.000Z",
-          "wordCount": null,
-          "title": "The art of influence: The single most important skill that AI can’t replace | Jessica Fain (Webflow, ex-Slack)",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/189787031/58bd14ef456c3a8504eed147eef9eb55.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/community-wisdom-beating-the-solo",
-          "author": "Kiyani",
-          "description": "Community Wisdom 178",
-          "link": "https://www.lennysnewsletter.com/p/community-wisdom-beating-the-solo",
-          "publishedOn": "2026-03-21T17:19:36.000Z",
-          "wordCount": null,
-          "title": "🧠 Community Wisdom: Beating the solo-founder procrastination trap, best tools for B2B prospecting, finding your first real users pre-launch, and more",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png"
         }
       ]
     },
@@ -1830,6 +1830,22 @@
       "feedUrl": "https://www.thevccorner.com/feed",
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
+        {
+          "id": "https://www.thevccorner.com/p/distribution-singularity-ai-startup-momentum",
+          "author": "Ruben Dominguez",
+          "description": "In the age of infinite models, the only real moat left is motion.",
+          "link": "https://www.thevccorner.com/p/distribution-singularity-ai-startup-momentum",
+          "publishedOn": "2026-04-20T15:01:13.000Z",
+          "wordCount": null,
+          "title": "The Distribution Singularity: Why Speed, Story, and Surface Area Now Decide Who Wins in AI",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!eslk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11ffa46c-7581-487e-8659-dc2919720ef8_1536x790.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!eslk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11ffa46c-7581-487e-8659-dc2919720ef8_1536x790.png"
+        },
         {
           "id": "https://www.thevccorner.com/p/free-ai-gtm-system-claude-opus-47",
           "author": "Ruben Dominguez",
@@ -2181,22 +2197,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!iSZ1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ff6d729-e4e4-44eb-8f21-402c3d6cab1e_1536x1024.png"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/real-startup-fpa-model-operating-plan",
-          "author": "Ruben Dominguez",
-          "description": "Plan growth, defend your raise, and prove you won’t run out of money.",
-          "link": "https://www.thevccorner.com/p/real-startup-fpa-model-operating-plan",
-          "publishedOn": "2026-03-21T19:31:14.000Z",
-          "wordCount": null,
-          "title": "How to Build a Real Operating Plan: Inside a Fully Linked Startup FP&A Model",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!o-6Q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f881b0f-f098-4226-a655-f436a041007d_680x478.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!o-6Q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f881b0f-f098-4226-a655-f436a041007d_680x478.jpeg"
         }
       ]
     },
@@ -2205,6 +2205,16 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/newsletter/anthropic-s-claude-design-launched-and-reddit-has-thoughts/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/anthropic-s-claude-design-launched-and-reddit-has-thoughts/",
+          "publishedOn": "2026-04-20T09:31:19.895Z",
+          "wordCount": null,
+          "title": "😺 Anthropic's Claude Design launched, and Reddit has thoughts.",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/newsletter/two-free-3d-world-models-dropped-this-week/",
           "author": null,
@@ -2822,6 +2832,46 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=608899",
+          "author": "Sara A. Metwalli",
+          "description": "And what does it tell us?\nThe post What Does the p-value Even Mean? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/what-does-p-value-even-mean/",
+          "publishedOn": "2026-04-20T16:30:00.000Z",
+          "wordCount": 4392,
+          "title": "What Does the p-value Even Mean?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/pexels-ds-stories-6990182-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608897",
+          "author": "Chinmay Kakatkar",
+          "description": "Conceptual overview and practical guidance\nThe post Context Payload Optimization for ICL-Based Tabular Foundation Models appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/context-payload-optimization-for-icl-based-tabular-foundation-models/",
+          "publishedOn": "2026-04-20T15:00:00.000Z",
+          "wordCount": 6236,
+          "title": "Context Payload Optimization for ICL-Based Tabular Foundation Models",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/chemistry-161575_1920.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608890",
+          "author": "Stephanie Kirmer",
+          "description": "Why it tickles your brain to use an LLM, and what that means for the AI industry\nThe post The LLM Gamble appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-llm-gamble/",
+          "publishedOn": "2026-04-20T13:30:00.000Z",
+          "wordCount": 4586,
+          "title": "The LLM Gamble",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/image-1.jpeg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608888",
+          "author": "Mike Huls",
+          "description": "How to turn data into a strategic asset that enables faster decisions, reduces uncertainty, and helps the organization move toward its goals.\nThe post From Risk to Asset: Designing a Practical Data Strategy That Actually Works appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/from-risk-to-asset-designing-a-practical-data-strategy-that-actually-works/",
+          "publishedOn": "2026-04-20T12:00:00.000Z",
+          "wordCount": 5311,
+          "title": "From Risk to Asset: Designing a Practical Data Strategy That Actually Works",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/datastrategy.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=608886",
           "author": "Partha Sarkar",
@@ -3786,26 +3836,6 @@
           "wordCount": 4843,
           "title": "Prompt Caching with the OpenAI API: A Full Hands-On Python tutorial",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/distorted-dandelions_lone-thomasky_bits-baume_3113x4393-e1773672178399.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608657",
-          "author": "Ferran Alia",
-          "description": "A hands-on guide to implementing CFD with NumPy, from discretization to airflow simulation around a bird's wing\nThe post Building a Navier-Stokes Solver in Python from Scratch: Simulating Airflow appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/building-a-navier-stokes-solver-in-python-from-scratch-simulating-airflow/",
-          "publishedOn": "2026-03-22T13:00:00.000Z",
-          "wordCount": 4298,
-          "title": "Building a Navier-Stokes Solver in Python from Scratch: Simulating Airflow",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/ss1-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608655",
-          "author": "Mike Huls",
-          "description": "Most data platforms don’t break overnight; they grow into complexity, query by query. Over time, business logic spreads across SQL scripts, dashboards, and scheduled jobs until the system becomes a “SQL jungle.” This article explores how that happens and how to bring structure back.\nThe post Escaping the SQL Jungle appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/escaping-the-sql-jungle/",
-          "publishedOn": "2026-03-21T15:00:00.000Z",
-          "wordCount": 5530,
-          "title": "Escaping the SQL Jungle",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/weronika-wSEv7Nanuxc-unsplash-scaled-1.jpg"
         }
       ]
     },
@@ -3820,6 +3850,76 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/fb6866c907ac",
+          "author": "Kike Peña",
+          "description": "",
+          "link": "https://uxdesign.cc/product-design-in-2026-the-beginning-of-a-fantastic-voyage-fb6866c907ac?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-04-20T22:01:48.000Z",
+          "wordCount": null,
+          "title": "Product design in 2026: the beginning of a fantastic voyage?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/96e931d92769",
+          "author": "Adi Leviim",
+          "description": "",
+          "link": "https://uxdesign.cc/the-chat-box-isnt-a-ui-paradigm-it-s-what-shipped-96e931d92769?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-04-20T22:01:47.000Z",
+          "wordCount": null,
+          "title": "The chat box isn’t a UI paradigm. It’s what shipped.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/420f9d3fe78e",
+          "author": "Arin Bhowmick",
+          "description": "",
+          "link": "https://uxdesign.cc/the-web-trained-ai-to-deceive-now-designers-have-to-untrain-it-420f9d3fe78e?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-04-20T22:01:45.000Z",
+          "wordCount": null,
+          "title": "The web trained AI to deceive. Now designers have to untrain it.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/722a9f02ed73",
+          "author": "Luis Hermosilla",
+          "description": "A reflection on clarity, restraint, and what it truly means to design meaningful experiences looking at the bigger picture\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/the-art-of-subtraction-in-a-world-of-infinite-features-722a9f02ed73?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-04-20T21:54:36.000Z",
+          "wordCount": null,
+          "title": "The art of subtraction in a world of infinite features",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3b3469dd0103",
+          "author": "Fabricio Teixeira",
+          "description": "",
+          "link": "https://uxdesign.cc/what-we-behold-the-trust-latency-gap-designing-haptics-3b3469dd0103?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-04-20T11:46:59.000Z",
+          "wordCount": null,
+          "title": "What we behold, the trust-latency gap, designing haptics",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/599dbd78ea18",
+          "author": "Hoang Nguyen",
+          "description": "Chat UI rewards fluency, not precision. Your expertise lives in precision.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/ai-is-ruining-the-way-you-talk-about-your-work-599dbd78ea18?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-04-20T09:27:14.000Z",
+          "wordCount": null,
+          "title": "AI is ruining the way you talk about your work",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/195c5372c388",
+          "author": "Nicole Alexandra Michaelis",
+          "description": "",
+          "link": "https://uxdesign.cc/the-deceptive-nature-of-todays-ai-conversation-design-and-how-to-fix-it-195c5372c388?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-04-20T09:26:46.000Z",
+          "wordCount": null,
+          "title": "The deceptive nature of today’s AI conversation design and how to fix it",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/82f986bf9a27",
           "author": "Darren Yeo",
@@ -4550,6 +4650,106 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/9b91f9399a76",
+          "author": "Daniel Rusnok",
+          "description": "Mem0 + MCP + ChromaDB — plus what happens when your “helpful” hook spawns seven parallel Claude instances\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/how-i-added-persistent-semantic-memory-to-claude-code-in-15-minutes-9b91f9399a76?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-21T01:02:31.000Z",
+          "wordCount": null,
+          "title": "How I Added Persistent Semantic Memory to Claude Code in 15 Minutes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5c1529fa7ede",
+          "author": "Swarup Dewanjee",
+          "description": "",
+          "link": "https://generativeai.pub/why-generative-ai-may-be-more-dangerous-than-predictive-ai-in-healthcare-5c1529fa7ede?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-21T01:02:05.000Z",
+          "wordCount": null,
+          "title": "Why Generative AI May Be More Dangerous Than Predictive AI in Healthcare",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a5de1408f417",
+          "author": "Marco van Hurne",
+          "description": "",
+          "link": "https://generativeai.pub/agents-are-autonomous-except-when-they-are-not-which-is-most-of-the-time-a5de1408f417?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-21T01:00:50.000Z",
+          "wordCount": null,
+          "title": "Agents are autonomous except when they are not which is most of the time",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/23d41d7a25b0",
+          "author": "Josh O'Brien",
+          "description": "",
+          "link": "https://generativeai.pub/science-fictions-ai-warnings-23d41d7a25b0?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-21T00:35:35.000Z",
+          "wordCount": null,
+          "title": "Science Fictions AI Warnings",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7c8d878ac700",
+          "author": "Dorota Pawlak",
+          "description": "Claude Design just went live.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/claude-design-three-handy-use-cases-for-marketing-localization-teams-7c8d878ac700?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-21T00:32:03.000Z",
+          "wordCount": null,
+          "title": "Claude Design: Three Handy Use Cases For Marketing & Localization Teams",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/883d0f611b21",
+          "author": "Cezary Gesikowski",
+          "description": "A flattering stereotype is still… just a stereotype\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/the-neurodivergent-ai-advantage-myth-needs-a-reality-check-883d0f611b21?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-21T00:31:10.000Z",
+          "wordCount": null,
+          "title": "The “Neurodivergent AI Advantage” Myth Needs a Reality Check",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ef5b7745eac2",
+          "author": "Mohamed Noordeen Alaudeen",
+          "description": "",
+          "link": "https://generativeai.pub/words-dont-have-meaning-sentences-do-ef5b7745eac2?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-21T00:30:45.000Z",
+          "wordCount": null,
+          "title": "I Thought Words Had Meaning, Until This Simple Example Changed Everything",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6667f852eca8",
+          "author": "Andrew W. Pearson",
+          "description": "AI’s Circular-Jerk Economy\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/maybe-theyre-selling-us-snaike-oil-6667f852eca8?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-21T00:27:26.000Z",
+          "wordCount": null,
+          "title": "Maybe They’re Selling Us SnAIke Oil?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/32dfcf79607c",
+          "author": "Gabriel L. Manor",
+          "description": "",
+          "link": "https://generativeai.pub/the-4-plane-architecture-of-ai-native-content-engineering-32dfcf79607c?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-21T00:22:25.000Z",
+          "wordCount": null,
+          "title": "The 4-Plane Architecture of AI-Native Content Engineering",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4b284c7384ff",
+          "author": "Revant",
+          "description": "A junior engineer on my team closed fourteen tickets last sprint. My most senior IC closed four.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/my-juniors-ship-faster-than-my-seniors-and-im-worried-about-them-4b284c7384ff?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-21T00:22:23.000Z",
+          "wordCount": null,
+          "title": "My juniors ship faster than my seniors. And I’m worried about them.",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/5d89da724db5",
           "author": "Jim Clyde Monge",
