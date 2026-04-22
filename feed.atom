@@ -2,10 +2,165 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-04-21T01:13:16.895Z</updated>
+    <updated>2026-04-22T01:11:38.759Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DIY AI & ML: Solving The Multi-Armed Bandit Problem with Thompson Sampling]]></title>
+        <id>https://towardsdatascience.com/?p=608912</id>
+        <link href="https://towardsdatascience.com/diy-ai-ml-solving-the-multi-armed-bandit-problem-with-thompson-sampling/"/>
+        <updated>2026-04-21T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How you can build your own Thompson Sampling Algorithm object in Python and apply it to a hypothetical yet real-life example
+The post DIY AI & ML: Solving The Multi-Armed Bandit Problem with Thompson Sampling appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Jacob Ingle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The US VC Database Most Founders Never Build]]></title>
+        <id>https://www.thevccorner.com/p/the-us-vc-database-most-founders</id>
+        <link href="https://www.thevccorner.com/p/the-us-vc-database-most-founders"/>
+        <updated>2026-04-21T17:59:47.000Z</updated>
+        <summary type="html"><![CDATA[Raising a pre-seed or seed round in the US right now? This is the list you want]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git UNDO : How to Rewrite Git History with Confidence]]></title>
+        <id>https://towardsdatascience.com/?p=608909</id>
+        <link href="https://towardsdatascience.com/git-undo-how-to-rewrite-git-history-with-confidence/"/>
+        <updated>2026-04-21T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[For any data scientist who works in a team, being able to undo Git actions can be a life saver. This practical guide will teach you all you need to know to save the day.
+The post Git UNDO : How to Rewrite Git History with Confidence appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Omer Rosenbaum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New: A free year of Cursor, Google AI Pro, Notion, Supabase, Gumloop, and Fin for subscribers]]></title>
+        <id>https://www.lennysnewsletter.com/p/new-a-free-year-of-cursor-google</id>
+        <link href="https://www.lennysnewsletter.com/p/new-a-free-year-of-cursor-google"/>
+        <updated>2026-04-21T15:03:33.000Z</updated>
+        <summary type="html"><![CDATA[Now 25 incredible products totaling over $30,000 in value—free with your Lenny’s Newsletter subscription]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Call Rust from Python]]></title>
+        <id>https://towardsdatascience.com/?p=608907</id>
+        <link href="https://towardsdatascience.com/calling-rust-from-python/"/>
+        <updated>2026-04-21T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A guide to bridging the gap between ease of use and raw performance.
+The post How to Call Rust from Python appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Thomas Reid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Replaced GPT-4 with a Local SLM and My CI/CD Pipeline Stopped Failing]]></title>
+        <id>https://towardsdatascience.com/?p=608905</id>
+        <link href="https://towardsdatascience.com/i-replaced-gpt-4-with-a-local-slm-and-my-ci-cd-pipeline-stopped-failing/"/>
+        <updated>2026-04-21T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The hidden cost of probabilistic outputs in systems that demand reliability
+The post I Replaced GPT-4 with a Local SLM and My CI/CD Pipeline Stopped Failing appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Benjamin Nweke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your RAG Gets Confidently Wrong as Memory Grows – I Built the Memory Layer That Stops It]]></title>
+        <id>https://towardsdatascience.com/?p=608901</id>
+        <link href="https://towardsdatascience.com/your-rag-gets-confidently-wrong-as-memory-grows-i-built-the-memory-layer-that-stops-it/"/>
+        <updated>2026-04-21T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As memory grows in RAG systems, accuracy quietly drops while confidence rises — creating a failure that most monitoring systems never detect. This article walks through a reproducible experiment showing why this happens and how a simple memory architecture fix restores reliability.
+The post Your RAG Gets Confidently Wrong as Memory Grows – I Built the Memory Layer That Stops It appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Emmimal P Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How design leaders influence decisions without being in the room]]></title>
+        <id>https://medium.com/p/4f52fbffabba</id>
+        <link href="https://uxdesign.cc/how-design-leaders-influence-decisions-without-being-in-the-room-4f52fbffabba?source=rss----138adf9c44c---4"/>
+        <updated>2026-04-21T11:31:51.000Z</updated>
+        <summary type="html"><![CDATA[How to create annotations that let your design work shine
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Kai Wong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to mitigate the risk of AI implementation in enterprise environments]]></title>
+        <id>https://medium.com/p/74d3bd7f9e65</id>
+        <link href="https://uxdesign.cc/how-to-mitigate-the-risk-of-ai-implementation-in-enterprise-environments-74d3bd7f9e65?source=rss----138adf9c44c---4"/>
+        <updated>2026-04-21T11:31:47.000Z</updated>
+        <summary type="html"><![CDATA[My focus has been on the enterprise sector for years. After the 2022 ChatGPT revolution, I witnessed a massive hype around self-made AI…
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Matt Jedraszczyk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS you didn’t know you could style]]></title>
+        <id>https://medium.com/p/02a1ba1d5162</id>
+        <link href="https://uxdesign.cc/css-you-didnt-know-you-could-style-02a1ba1d5162?source=rss----138adf9c44c---4"/>
+        <updated>2026-04-21T11:31:46.000Z</updated>
+        <author>
+            <name>Adir SL</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 Claude beat ChatGPT 2-to-1]]></title>
+        <id>https://www.theneuron.ai/newsletter/claude-beat-chatgpt-2-to-1/</id>
+        <link href="https://www.theneuron.ai/newsletter/claude-beat-chatgpt-2-to-1/"/>
+        <updated>2026-04-21T10:01:52.786Z</updated>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kimi K2.6 just shipped open-weight: Claude-level coding at 76% the cost, with a 300-agent swarm as the real story]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/kimi-k26-just-shipped-open-weight-claude-level-coding-at-76-the-cost-with-a-300-agent-swarm-as-the-real-story/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/kimi-k26-just-shipped-open-weight-claude-level-coding-at-76-the-cost-with-a-300-agent-swarm-as-the-real-story/"/>
+        <updated>2026-04-21T05:59:07.875Z</updated>
+        <summary type="html"><![CDATA[Moonshot AI dropped Kimi K2.6 on Monday: a 1-trillion-parameter open-source model that matches Claude Opus 4.6 on coding benchmarks, runs 76% cheaper, ships Day-0 on Cloudflare, and coordinates 300 AI agents across 4,000 steps. Here's what it actually unlocks, and whether you should care.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[April AI Skill of the Day, Week 4 - Your Requests, Answered!]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/april-ai-skill-of-the-day-week-4-your-requests-answered/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/april-ai-skill-of-the-day-week-4-your-requests-answered/"/>
+        <updated>2026-04-21T03:55:57.578Z</updated>
+        <summary type="html"><![CDATA[Every day, The Neuron's newsletter teaches 700,000+ readers one new AI skill they can use immediately. This collection is all the ones you requested.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Beat ChatGPT 2-to-1 in Our Reader Poll. Here's the Deeper Story You Told Us.]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/claude-beat-chatgpt-2-to-1-in-our-reader-poll-heres-the-deeper-story-you-told-us/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/claude-beat-chatgpt-2-to-1-in-our-reader-poll-heres-the-deeper-story-you-told-us/"/>
+        <updated>2026-04-21T03:53:29.477Z</updated>
+        <summary type="html"><![CDATA[3,143 Neuron readers told us their #1 AI tool. Claude took the crown at nearly 2x ChatGPT's vote. But the WHY is where it gets interesting; 200+ of you wrote in to explain your choice and mention 40+ other tools. Plus: wild use cases (grocery-haul recipe videos, Tesla-to-laptop Grok, and "Jason" the Copilot named after Jason Momoa).]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Around the Horn Digest: Everything That Happened in AI Today (Monday, April 20, 2026)]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-monday-april-20-2026/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-monday-april-20-2026/"/>
+        <updated>2026-04-21T03:44:47.308Z</updated>
+        <summary type="html"><![CDATA[Amazon doubled its Anthropic bet with up to $25 billion more, the NSA quietly started using Anthropic's most dangerous internal model despite a Pentagon ban, Google DeepMind spun up a "Strike Team" to catch Claude Code, OpenAI shipped screen-reading memory for Codex, and a Lovable breach exposed every project built before November 2025.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How I Added Persistent Semantic Memory to Claude Code in 15 Minutes]]></title>
         <id>https://medium.com/p/9b91f9399a76</id>
@@ -5007,42 +5162,12 @@ The post Neuro-Symbolic Fraud Detection: Catching Concept Drift Before F1 Drops 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Microsoft’s AI VP automates everything with Warp | Marco Casalaina]]></title>
-        <id>https://www.lennysnewsletter.com/p/how-microsofts-ai-vp-automates-everything</id>
-        <link href="https://www.lennysnewsletter.com/p/how-microsofts-ai-vp-automates-everything"/>
-        <updated>2026-03-23T12:01:26.000Z</updated>
-        <summary type="html"><![CDATA[Watch now | 🎙️ Marco Casalaina, VP of Core AI Products at Microsoft, speed-runs five micro-agent workflows inside Warp, M365 Copilot, and ChatGPT—turning tedious admin tasks into one-line commands]]></summary>
-        <author>
-            <name>Claire Vo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built a Podcast Clipping App in One Weekend Using Vibe Coding]]></title>
-        <id>https://towardsdatascience.com/?p=608662</id>
-        <link href="https://towardsdatascience.com/i-built-a-podcast-clipping-app-in-one-weekend-using-vibe-coding/"/>
-        <updated>2026-03-23T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Rapid prototyping with Replit, AI agents, and minimal manual coding
-The post I Built a Podcast Clipping App in One Weekend Using Vibe Coding appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Katy Hagerty</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Antigravity A1 全景空拍沉浸體驗！249g 免登記！自帶 360 度無死角素材讓你「拍完再構圖」]]></title>
         <id>https://www.youtube.com/watch?v=JmsLATDXFVY</id>
         <link href="https://www.youtube.com/watch?v=JmsLATDXFVY"/>
         <updated>2026-03-23T11:18:15.000Z</updated>
         <author>
             <name>電腦王阿達</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AR glasses are here, but what about accessibility?]]></title>
-        <id>https://medium.com/p/0f2d04a4d123</id>
-        <link href="https://uxdesign.cc/ar-glasses-are-here-but-what-about-accessibility-0f2d04a4d123?source=rss----138adf9c44c---4"/>
-        <updated>2026-03-23T08:36:22.000Z</updated>
-        <author>
-            <name>Catherine Chu</name>
         </author>
     </entry>
     <entry>
@@ -5063,45 +5188,6 @@ The post I Built a Podcast Clipping App in One Weekend Using Vibe Coding appeare
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😸 The TL;DR on the White House's new AI plan]]></title>
-        <id>https://www.theneuron.ai/newsletter/the-tl-dr-on-the-white-house-s-new-ai-plan/</id>
-        <link href="https://www.theneuron.ai/newsletter/the-tl-dr-on-the-white-house-s-new-ai-plan/"/>
-        <updated>2026-03-22T17:30:11.075Z</updated>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sorry, designers, we don’t decide the future of design]]></title>
-        <id>https://medium.com/p/1510374e8807</id>
-        <link href="https://uxdesign.cc/sorry-designers-we-dont-decide-the-future-of-design-1510374e8807?source=rss----138adf9c44c---4"/>
-        <updated>2026-03-22T17:07:11.000Z</updated>
-        <author>
-            <name>Michael Buckley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prompt Caching with the OpenAI API: A Full Hands-On Python tutorial]]></title>
-        <id>https://towardsdatascience.com/?p=608660</id>
-        <link href="https://towardsdatascience.com/prompt-caching-with-openai-api-full-hands-on-python-tutorial/"/>
-        <updated>2026-03-22T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A step-by-step guide to making your OpenAI apps faster, cheaper, and more efficient
-The post Prompt Caching with the OpenAI API: A Full Hands-On Python tutorial appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Maria Mouschoutzi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rate Cuts😬, 80+ Ways to Fund Without Diluting💸, AI Is Breaking Valuation Models💣]]></title>
-        <id>https://www.thevccorner.com/p/rate-cuts-80-ways-to-fund-without</id>
-        <link href="https://www.thevccorner.com/p/rate-cuts-80-ways-to-fund-without"/>
-        <updated>2026-03-22T14:31:17.000Z</updated>
-        <summary type="html"><![CDATA[Another week, another pulse check on venture.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
         </author>
     </entry>
     <entry>
