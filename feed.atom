@@ -2,10 +2,141 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-04-22T01:11:38.759Z</updated>
+    <updated>2026-04-23T01:17:14.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What improv taught me about why innovation falls out of sync]]></title>
+        <id>https://medium.com/p/1e3961fa2083</id>
+        <link href="https://uxdesign.cc/what-improv-taught-me-about-why-innovation-falls-out-of-sync-1e3961fa2083?source=rss----138adf9c44c---4"/>
+        <updated>2026-04-22T21:23:21.000Z</updated>
+        <summary type="html"><![CDATA[When adaptation becomes uncoordinated, journeys fall out of sync — like improv comedy gone horribly wrong.
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Ian Batterbee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working in the open]]></title>
+        <id>https://medium.com/p/67a7f71bc450</id>
+        <link href="https://uxdesign.cc/working-in-the-open-learnings-from-designing-open-source-technology-67a7f71bc450?source=rss----138adf9c44c---4"/>
+        <updated>2026-04-22T21:23:19.000Z</updated>
+        <author>
+            <name>Aly Blenkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wtf Anthropic]]></title>
+        <id>https://www.youtube.com/watch?v=ZenJ0VCbYNI</id>
+        <link href="https://www.youtube.com/watch?v=ZenJ0VCbYNI"/>
+        <updated>2026-04-22T19:31:00.000Z</updated>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Causal Inference to Estimate the Impact of Tube Strikes on Cycling Usage in London]]></title>
+        <id>https://towardsdatascience.com/?p=608928</id>
+        <link href="https://towardsdatascience.com/using-causal-inference-to-estimate-the-impact-of-tube-strikes-on-cycling-usage-in-london/"/>
+        <updated>2026-04-22T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Turning free-to-use data into a hypothesis-ready dataset
+The post Using Causal Inference to Estimate the Impact of Tube Strikes on Cycling Usage in London appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Luke Stuckey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Correlation vs. Causation: Measuring True Impact with Propensity Score Matching]]></title>
+        <id>https://towardsdatascience.com/?p=608920</id>
+        <link href="https://towardsdatascience.com/correlation-vs-causation-measuring-true-impact-with-propensity-score-matching/"/>
+        <updated>2026-04-22T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how Propensity Score Matching uncovers true causality in observational data. By finding "statistical twins," we eliminate selection bias to reveal the real impact of your interventions and business decisions.
+The post Correlation vs. Causation: Measuring True Impact with Propensity Score Matching appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Gustavo Santos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Ad Hoc Prompting to Repeatable AI Workflows with Claude Code Skills]]></title>
+        <id>https://towardsdatascience.com/?p=608918</id>
+        <link href="https://towardsdatascience.com/from-ad-hoc-prompting-to-repeatable-ai-workflows-with-claude-code-skills/"/>
+        <updated>2026-04-22T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How I turned LLM persona interviews into a repeatable customer research workflow
+The post From Ad Hoc Prompting to Repeatable AI Workflows with Claude Code Skills appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Hajime Takeda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Memo That Almost Missed the Greatest Investment in History]]></title>
+        <id>https://www.thevccorner.com/p/the-untold-lessons-from-sequoia-apple-memo</id>
+        <link href="https://www.thevccorner.com/p/the-untold-lessons-from-sequoia-apple-memo"/>
+        <updated>2026-04-22T14:37:57.000Z</updated>
+        <summary type="html"><![CDATA[Inside the one-page memo that funded Apple and what it reveals about conviction, process, and the fund structure mistake that cost Sequoia $370 billion.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ivory Tower Notes: The Methodology]]></title>
+        <id>https://towardsdatascience.com/?p=608916</id>
+        <link href="https://towardsdatascience.com/ivory-tower-notes-the-methodology/"/>
+        <updated>2026-04-22T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A short intro to scientific methodology to combat "prompt in, slop out"
+The post Ivory Tower Notes: The Methodology appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Marina Tosic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Claude Design is actually good for (and why Figma isn’t dead yet)]]></title>
+        <id>https://www.lennysnewsletter.com/p/what-claude-design-is-actually-good</id>
+        <link href="https://www.lennysnewsletter.com/p/what-claude-design-is-actually-good"/>
+        <updated>2026-04-22T12:04:31.000Z</updated>
+        <summary type="html"><![CDATA[Watch now | 🎙️I built a landing page, slides, and an unhinged redesign to find out what Claude Design is actually good at—plus why GPT Image 2.0 might change how you create brand assets]]></summary>
+        <author>
+            <name>Claire Vo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Run OpenClaw with Open-Source Models]]></title>
+        <id>https://towardsdatascience.com/?p=608914</id>
+        <link href="https://towardsdatascience.com/how-to-run-openclaw-with-open-source-models/"/>
+        <updated>2026-04-22T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Run OpenClaw assistant through alternative LLMs
+The post How to Run OpenClaw with Open-Source Models appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😸 AI found bugs humans missed for 27 years]]></title>
+        <id>https://www.theneuron.ai/newsletter/ai-found-bugs-humans-missed-for-27-years/</id>
+        <link href="https://www.theneuron.ai/newsletter/ai-found-bugs-humans-missed-for-27-years/"/>
+        <updated>2026-04-22T10:30:31.926Z</updated>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT Image 2 just dropped... (WOAH)]]></title>
+        <id>https://www.youtube.com/watch?v=uvdRGC4cFhY</id>
+        <link href="https://www.youtube.com/watch?v=uvdRGC4cFhY"/>
+        <updated>2026-04-22T00:54:02.000Z</updated>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT Image 2, AI Psychosis, and more]]></title>
+        <id>https://www.youtube.com/watch?v=0yTL0LBjj-g</id>
+        <link href="https://www.youtube.com/watch?v=0yTL0LBjj-g"/>
+        <updated>2026-04-21T20:45:40.000Z</updated>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DIY AI & ML: Solving The Multi-Armed Bandit Problem with Thompson Sampling]]></title>
         <id>https://towardsdatascience.com/?p=608912</id>
@@ -119,6 +250,15 @@ Continue reading on UX Collective »]]></summary>
         <updated>2026-04-21T10:01:52.786Z</updated>
         <author>
             <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[別再修龍蝦了！最聰明 Hermes Agent 全平台安裝全攻略，自我學習進化＋長期記憶一次搞定！（免費Api Key 設定、龍蝦轉移技巧、Telegram設定踩坑解決）]]></title>
+        <id>https://www.youtube.com/watch?v=Gjd9JoiTZds</id>
+        <link href="https://www.youtube.com/watch?v=Gjd9JoiTZds"/>
+        <updated>2026-04-21T06:41:26.000Z</updated>
+        <author>
+            <name>電腦王阿達</name>
         </author>
     </entry>
     <entry>
@@ -412,6 +552,15 @@ Continue reading on UX Collective »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MSI Prestige 14 Flip AI+開箱實測： 20 小時長效續航比肩Macbook，還能順跑3A大作！]]></title>
+        <id>https://www.youtube.com/watch?v=4bvjukOwbLU</id>
+        <link href="https://www.youtube.com/watch?v=4bvjukOwbLU"/>
+        <updated>2026-04-20T08:07:06.000Z</updated>
+        <author>
+            <name>電腦王阿達</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[😺 Two free 3D world models dropped this week]]></title>
         <id>https://www.theneuron.ai/newsletter/two-free-3d-world-models-dropped-this-week/</id>
         <link href="https://www.theneuron.ai/newsletter/two-free-3d-world-models-dropped-this-week/"/>
@@ -648,6 +797,15 @@ The post How to Learn Python for Data Science Fast in 2026 (Without Wasting Time
 Continue reading on Generative AI »]]></summary>
         <author>
             <name>Hayanan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「中翻」專訪黃仁勳拆解 Nvidia 護城河：從 TPU 競爭到中國晶片出口管制一次講清楚]]></title>
+        <id>https://www.youtube.com/watch?v=kSFpMnLcdb8</id>
+        <link href="https://www.youtube.com/watch?v=kSFpMnLcdb8"/>
+        <updated>2026-04-18T06:31:14.000Z</updated>
+        <author>
+            <name>電腦王阿達</name>
         </author>
     </entry>
     <entry>
@@ -1131,6 +1289,15 @@ The post Introduction to Deep Evidential Regression for Uncertainty Quantificati
 Continue reading on UX Collective »]]></summary>
         <author>
             <name>Chris R Becker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[出國旅行一顆就夠！aircolor 35W 全能充：輕巧美型＋耐燃外殼＋準固態電芯，極致安全的唯一選擇。]]></title>
+        <id>https://www.youtube.com/watch?v=GxRkqndY6pM</id>
+        <link href="https://www.youtube.com/watch?v=GxRkqndY6pM"/>
+        <updated>2026-04-16T07:48:03.000Z</updated>
+        <author>
+            <name>電腦王阿達</name>
         </author>
     </entry>
     <entry>
@@ -5002,84 +5169,6 @@ The post Production-Ready LLM Agents: A Comprehensive Framework for Offline Eval
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[State of the product job market in early 2026]]></title>
-        <id>https://www.lennysnewsletter.com/p/state-of-the-product-job-market-in-ee9</id>
-        <link href="https://www.lennysnewsletter.com/p/state-of-the-product-job-market-in-ee9"/>
-        <updated>2026-03-24T12:45:12.000Z</updated>
-        <summary type="html"><![CDATA[AI roles are exploding, PM and eng job openings are the highest in years, and the overall number of tech jobs is up]]></summary>
-        <author>
-            <name>Lenny Rachitsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Complete Guide to AI Implementation for Chief Data & AI Officers in 2026]]></title>
-        <id>https://towardsdatascience.com/?p=608670</id>
-        <link href="https://towardsdatascience.com/the-complete-guide-to-ai-implementation-for-chief-data-ai-officers-in-2026/"/>
-        <updated>2026-03-24T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How to leverage a framework to effectively prioritize AI Initiatives to rapidly accelerate growth and efficiency
-The post The Complete Guide to AI Implementation for Chief Data & AI Officers in 2026 appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Hugo Lu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How behavioral science can help persuade our team to do one more user test]]></title>
-        <id>https://medium.com/p/dbb3ec3729bb</id>
-        <link href="https://uxdesign.cc/how-behavioral-science-can-help-persuade-our-team-to-do-one-more-user-test-dbb3ec3729bb?source=rss----138adf9c44c---4"/>
-        <updated>2026-03-24T11:26:32.000Z</updated>
-        <summary type="html"><![CDATA[Designers are struggling to slow teams down for research. Here’s what helps.
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Kai Wong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😸 Bernie Sanders Interviewed Claude on Camera: Here's What Happened]]></title>
-        <id>https://www.theneuron.ai/newsletter/bernie-sanders-interviewed-claude-on-camera-here-s-what-happened/</id>
-        <link href="https://www.theneuron.ai/newsletter/bernie-sanders-interviewed-claude-on-camera-here-s-what-happened/"/>
-        <updated>2026-03-24T10:35:06.875Z</updated>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[State of the product job market in early 2026]]></title>
-        <id>https://www.lennysnewsletter.com/p/state-of-the-product-job-market-in-372</id>
-        <link href="https://www.lennysnewsletter.com/p/state-of-the-product-job-market-in-372"/>
-        <updated>2026-03-24T09:02:05.000Z</updated>
-        <summary type="html"><![CDATA[AI roles are exploding, PM and eng job openings are the highest in years, and the overall number of tech jobs is up]]></summary>
-        <author>
-            <name>Lenny Rachitsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who can actually afford AI tools now?]]></title>
-        <id>https://medium.com/p/d72041945c26</id>
-        <link href="https://uxdesign.cc/who-can-actually-afford-ai-tools-now-d72041945c26?source=rss----138adf9c44c---4"/>
-        <updated>2026-03-24T08:19:17.000Z</updated>
-        <author>
-            <name>Dora Czerna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The intelligence revolution won’t be televised — it will be automated over a longer arc]]></title>
-        <id>https://medium.com/p/47a60a45323e</id>
-        <link href="https://uxdesign.cc/the-intelligence-revolution-wont-be-televised-it-will-be-automated-over-a-longer-arc-47a60a45323e?source=rss----138adf9c44c---4"/>
-        <updated>2026-03-23T21:35:29.000Z</updated>
-        <author>
-            <name>Patrick Neeman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raising the machine]]></title>
-        <id>https://medium.com/p/7894c73211cb</id>
-        <link href="https://uxdesign.cc/raising-the-machine-7894c73211cb?source=rss----138adf9c44c---4"/>
-        <updated>2026-03-23T21:33:43.000Z</updated>
-        <author>
-            <name>Christine Vallaure</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenClaw's new update is MASSIVE]]></title>
         <id>https://www.youtube.com/watch?v=LaHXmRE-_fs</id>
         <link href="https://www.youtube.com/watch?v=LaHXmRE-_fs"/>
@@ -5108,66 +5197,12 @@ Continue reading on UX Collective »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4 Pandas Concepts That Quietly Break Your Data Pipelines]]></title>
-        <id>https://towardsdatascience.com/?p=608668</id>
-        <link href="https://towardsdatascience.com/most-pandas-tutorials-skip-this-thats-why-your-code-breaks-later/"/>
-        <updated>2026-03-23T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Master data types, index alignment, and defensive Pandas practices to prevent silent bugs in real data pipelines.
-The post 4 Pandas Concepts That Quietly Break Your Data Pipelines appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ibrahim Salami</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AI Made Coding Worse...]]></title>
         <id>https://www.youtube.com/watch?v=91utXFqgSok</id>
         <link href="https://www.youtube.com/watch?v=91utXFqgSok"/>
         <updated>2026-03-23T15:48:47.000Z</updated>
         <author>
             <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎙️ This week on How I AI: How Microsoft's AI VP automates everything with Warp]]></title>
-        <id>https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-microsofts</id>
-        <link href="https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-microsofts"/>
-        <updated>2026-03-23T15:02:35.000Z</updated>
-        <summary type="html"><![CDATA[Your weekly listens from How I AI, part of the Lenny's Podcast Network]]></summary>
-        <author>
-            <name>Lenny Rachitsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Causal Inference Is Eating Machine Learning]]></title>
-        <id>https://towardsdatascience.com/?p=608666</id>
-        <link href="https://towardsdatascience.com/causal-inference-is-eating-machine-learning/"/>
-        <updated>2026-03-23T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Your ML model predicts perfectly but recommends wrong actions. Learn the 5-question diagnostic, method comparison matrix, and Python workflow to fix it with causal inference.
-The post Causal Inference Is Eating Machine Learning appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Kaushik Rajan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neuro-Symbolic Fraud Detection: Catching Concept Drift Before F1 Drops (Label-Free)]]></title>
-        <id>https://towardsdatascience.com/?p=608664</id>
-        <link href="https://towardsdatascience.com/neuro-symbolic-fraud-detection-catching-concept-drift-before-f1-drops-label-free/"/>
-        <updated>2026-03-23T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[This Article asks what happens next. The model has encoded its knowledge of fraud as symbolic rules. V14 below a threshold means fraud. What happens when that relationship starts to change?
-Can the rules act as a canary? In other words: can neuro-symbolic concept drift monitoring work at inference time, without labels?
-Full architecture background in Hybrid Neuro-Symbolic Fraud Detection: Guiding Neural Networks with Domain Rules and How a Neural Network Learned Its Own Fraud Rules: A Neuro-Symbolic AI Experiment. You will follow this article without them, but the mechanism section makes more sense with context.
-The post Neuro-Symbolic Fraud Detection: Catching Concept Drift Before F1 Drops (Label-Free) appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Emmimal P Alexander</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Antigravity A1 全景空拍沉浸體驗！249g 免登記！自帶 360 度無死角素材讓你「拍完再構圖」]]></title>
-        <id>https://www.youtube.com/watch?v=JmsLATDXFVY</id>
-        <link href="https://www.youtube.com/watch?v=JmsLATDXFVY"/>
-        <updated>2026-03-23T11:18:15.000Z</updated>
-        <author>
-            <name>電腦王阿達</name>
         </author>
     </entry>
     <entry>
@@ -5209,15 +5244,6 @@ The post Neuro-Symbolic Fraud Detection: Catching Concept Drift Before F1 Drops 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「中翻」馬斯克宣布「TeraFab」計畫：晶圓製造、SpaceX、Tesla、xAI 四強聯手，打造人類最強運算叢集！]]></title>
-        <id>https://www.youtube.com/watch?v=uexIVhNL314</id>
-        <link href="https://www.youtube.com/watch?v=uexIVhNL314"/>
-        <updated>2026-03-22T09:49:33.000Z</updated>
-        <author>
-            <name>電腦王阿達</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Claude Code × Discord 教學｜用 Discord 控制 AI 寫程式（打造 AI Agent）]]></title>
         <id>https://www.youtube.com/watch?v=z_n-CrdeRWs</id>
         <link href="https://www.youtube.com/watch?v=z_n-CrdeRWs"/>
@@ -5236,15 +5262,6 @@ The post Neuro-Symbolic Fraud Detection: Catching Concept Drift Before F1 Drops 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Future Live | 03.20.26 | Guests from MOTS Podcast, Microsoft, Eliza Labs, and Sentient!]]></title>
-        <id>https://www.youtube.com/watch?v=lnQ1K-fr1Ws</id>
-        <link href="https://www.youtube.com/watch?v=lnQ1K-fr1Ws"/>
-        <updated>2026-03-20T16:13:39.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Become an AI Engineer Fast]]></title>
         <id>https://www.youtube.com/watch?v=Zk9LxO_dB64</id>
         <link href="https://www.youtube.com/watch?v=Zk9LxO_dB64"/>
@@ -5254,41 +5271,12 @@ The post Neuro-Symbolic Fraud Detection: Catching Concept Drift Before F1 Drops 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小毛驢 周董style]]></title>
-        <id>https://www.youtube.com/shorts/kOBmcKo_HXw</id>
-        <link href="https://www.youtube.com/shorts/kOBmcKo_HXw"/>
-        <updated>2026-03-20T10:28:16.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>電腦王阿達</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenClaw memory SOLVE]]></title>
-        <id>https://www.youtube.com/shorts/NLZguC1gobY</id>
-        <link href="https://www.youtube.com/shorts/NLZguC1gobY"/>
-        <updated>2026-03-20T00:13:35.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[LIVE: The ULTIMATE OpenClaw Mission Control revealed!]]></title>
         <id>https://www.youtube.com/watch?v=lPsyi5i6SQc</id>
         <link href="https://www.youtube.com/watch?v=lPsyi5i6SQc"/>
         <updated>2026-03-18T20:29:22.000Z</updated>
         <author>
             <name>Alex Finn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenClaw 進階全攻略！玩龍蝦免花錢、超值Coding Plan、一鍵無腦安裝、自動修復與必備神級 Skills 推薦！]]></title>
-        <id>https://www.youtube.com/watch?v=5boIQ719n7Y</id>
-        <link href="https://www.youtube.com/watch?v=5boIQ719n7Y"/>
-        <updated>2026-03-18T03:07:26.000Z</updated>
-        <author>
-            <name>電腦王阿達</name>
         </author>
     </entry>
     <entry>
