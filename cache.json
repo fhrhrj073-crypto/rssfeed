@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=DZIymFrEXik",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DZIymFrEXik",
+          "publishedOn": "2026-04-26T14:00:18.000Z",
+          "wordCount": null,
+          "title": "Do THIS instead of watching endless tutorials — how to learn Python for AI",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/RiVrXo4_0JU",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
@@ -514,26 +524,6 @@
           "wordCount": null,
           "title": "Famous Computer Science Algorithms - Full Course",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/nFD7etd3fgw",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/nFD7etd3fgw",
-          "publishedOn": "2026-03-28T11:40:08.000Z",
-          "wordCount": 2199,
-          "title": "This is WHY you need a mentor.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/rsSQNPxmu5A",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/rsSQNPxmu5A",
-          "publishedOn": "2026-03-27T17:01:07.000Z",
-          "wordCount": 3595,
-          "title": "You need to hear this!",
-          "imageUrl": null
         }
       ]
     },
@@ -710,16 +700,6 @@
           "publishedOn": "2026-03-30T20:12:08.000Z",
           "wordCount": null,
           "title": "LIVE: Hermes vs OpenClaw live tests",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-XQshH4zJkk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-XQshH4zJkk",
-          "publishedOn": "2026-03-27T20:10:49.000Z",
-          "wordCount": null,
-          "title": "LIVE: CLAUDE MYTHOS (OPUS 5) REVEALED!!!",
           "imageUrl": null
         }
       ]
@@ -1185,36 +1165,6 @@
           "wordCount": 2108,
           "title": "Best Models Tier List",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UkCfrNTzUMM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UkCfrNTzUMM",
-          "publishedOn": "2026-03-27T16:29:31.000Z",
-          "wordCount": null,
-          "title": "ARC AGI 3 just dropped, what it means for AGI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=x0IMSUA5_uU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=x0IMSUA5_uU",
-          "publishedOn": "2026-03-27T16:26:39.000Z",
-          "wordCount": null,
-          "title": "The Future Live | 03.27.26",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/U-wiO2LXrrE",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/U-wiO2LXrrE",
-          "publishedOn": "2026-03-27T15:48:08.000Z",
-          "wordCount": 2059,
-          "title": "The Pre-AI Times were CRAZY",
-          "imageUrl": null
         }
       ]
     },
@@ -1437,6 +1387,22 @@
       "feedUrl": "https://www.lennysnewsletter.com/feed",
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
+        {
+          "id": "https://www.lennysnewsletter.com/p/snapchat-ceo-why-distribution-is",
+          "author": "Lenny Rachitsky",
+          "description": "Listen now | Snap's co-founder on why only two consumer apps broke through in 15 years, how every major Snapchat feature was cloned, why hardware is the only real moat, and why distribution beats product",
+          "link": "https://www.lennysnewsletter.com/p/snapchat-ceo-why-distribution-is",
+          "publishedOn": "2026-04-26T12:31:49.000Z",
+          "wordCount": null,
+          "title": "Snapchat CEO: Why distribution has become the most important moat | Evan Spiegel",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/194544019/6bbbbe2dd22da90f7f4c93ba900884b9.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://www.lennysnewsletter.com/p/community-wisdom-what-great-product",
           "author": "Kiyani",
@@ -1909,6 +1875,22 @@
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
         {
+          "id": "https://www.thevccorner.com/p/mistral-ais-105m-memo-enterprise",
+          "author": "Ruben Dominguez",
+          "description": "Another week, another pulse check on Tech.",
+          "link": "https://www.thevccorner.com/p/mistral-ais-105m-memo-enterprise",
+          "publishedOn": "2026-04-26T17:36:31.000Z",
+          "wordCount": null,
+          "title": "Mistral AI's €105M Memo📄, Enterprise SaaS Defense⚔️, Seed Math Broke💰",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!kqZg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55a3d469-6b67-40ee-93d7-62741f2f9a1e_848x811.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!kqZg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55a3d469-6b67-40ee-93d7-62741f2f9a1e_848x811.webp"
+        },
+        {
           "id": "https://www.thevccorner.com/p/vc-investor-dashboard-generator-startups-2026",
           "author": "Ruben Dominguez",
           "description": "Fill an Excel template. Get an investor-grade dashboard. Instantly.",
@@ -2243,38 +2225,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/8a104ba1-bcb8-400b-9aa5-f70ed92bf399_1280x720.png"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/ma-accretion-dilution-model-free-excel-eps-analysis-2026",
-          "author": "Ruben Dominguez",
-          "description": "One question drives every acquisition: does this make earnings per share go up or down? Here's the model that answers it.",
-          "link": "https://www.thevccorner.com/p/ma-accretion-dilution-model-free-excel-eps-analysis-2026",
-          "publishedOn": "2026-03-28T12:52:48.000Z",
-          "wordCount": null,
-          "title": "The M&A Accretion/Dilution Model Every Founder and Investor Should Run Before Any Deal",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!bfjC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb940e236-f92b-49ee-b40c-6489eb3f484a_800x450.gif",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!bfjC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb940e236-f92b-49ee-b40c-6489eb3f484a_800x450.gif"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/founder-operating-system-startup-resources",
-          "author": "Ruben Dominguez",
-          "description": "A curated playbook of the tools, frameworks, and communities that top founders actually use.",
-          "link": "https://www.thevccorner.com/p/founder-operating-system-startup-resources",
-          "publishedOn": "2026-03-27T16:11:40.000Z",
-          "wordCount": null,
-          "title": "Save This if You Want to Build a Startup in 2026",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!ZgFd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F125aeb57-1e3a-49fa-9bf1-c85bc4af05a0_1536x1024.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!ZgFd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F125aeb57-1e3a-49fa-9bf1-c85bc4af05a0_1536x1024.png"
         }
       ]
     },
@@ -2283,6 +2233,16 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/newsletter/you-re-either-jeremy-or-you-re-cut/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/you-re-either-jeremy-or-you-re-cut/",
+          "publishedOn": "2026-04-26T17:30:51.973Z",
+          "wordCount": null,
+          "title": "😺 You're either Jeremy or you're cut",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/explainer-articles/deepseek-v4-admits-its-3-6-months-behind-the-architecture-says-otherwise/",
           "author": null,
@@ -2912,16 +2872,6 @@
           "wordCount": null,
           "title": "😺 Anthropic leaked Claude Mythos. Cybersecurity stocks crashed",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/ai-news-digests/-around-the-horn-digest-everything-that-happened-in-ai-this-weekend-march-28-29-2026/",
-          "author": null,
-          "description": "Anthropic's next model leaked and it's a new tier above Opus. Cybersecurity stocks plunged. Waymo doubled to 500K rides. And Iran is outperforming the White House in AI propaganda.",
-          "link": "https://www.theneuron.ai/ai-news-digests/-around-the-horn-digest-everything-that-happened-in-ai-this-weekend-march-28-29-2026/",
-          "publishedOn": "2026-03-27T22:11:41.514Z",
-          "wordCount": null,
-          "title": "Around the Horn Digest: Everything That Happened in AI This Weekend (March 28-29, 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -2930,6 +2880,26 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=608951",
+          "author": "Vedant Jumle",
+          "description": "Why learn 8 scripts when you can learn 256 bytes?\nThe post Bytes Speak All Languages: Cross-Script Name Retrieval via Contrastive Learning appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/bytes-speak-all-languages-cross-script-name-retrieval-via-contrastive-learning/",
+          "publishedOn": "2026-04-26T15:00:00.000Z",
+          "wordCount": 5527,
+          "title": "Bytes Speak All Languages: Cross-Script Name Retrieval via Contrastive Learning",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Gemini_Generated_Image_i9mhwti9mhwti9mh-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608947",
+          "author": "Ibrahim Salami",
+          "description": "Most slow Pandas code \"works\", until it doesn't. Learn how to spot hidden bottlenecks, avoid costly row-wise operations, and know when Pandas is no longer enough.\nThe post I Reduced My Pandas Runtime by 95% — Here’s What I Was Doing Wrong appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/i-reduced-my-pandas-runtime-by-95-heres-what-i-was-doing-wrong/",
+          "publishedOn": "2026-04-26T13:00:00.000Z",
+          "wordCount": 6811,
+          "title": "I Reduced My Pandas Runtime by 95% — Here’s What I Was Doing Wrong",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/fast-pandas.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=608945",
           "author": "Alejandro Alvarez Perez",
@@ -3944,16 +3914,6 @@
           "wordCount": 4537,
           "title": "From NetCDF to Insights: A Practical Pipeline for City-Level Climate Risk Analysis",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-26-2026-03_28_49-AM.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608703",
-          "author": "S. M. Navin Nayer Anik",
-          "description": "A practical, code-driven guide to scaling deep learning across machines — from NCCL process groups to gradient synchronization\nThe post Building a Production-Grade Multi-Node Training Pipeline with PyTorch DDP appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/building-a-production-grade-multi-node-training-pipeline-with-pytorch-ddp/",
-          "publishedOn": "2026-03-27T15:05:36.000Z",
-          "wordCount": 6017,
-          "title": "Building a Production-Grade Multi-Node Training Pipeline with PyTorch DDP",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/featured_image-1-1024x572-1.jpg"
         }
       ]
     },
@@ -4646,26 +4606,6 @@
           "publishedOn": "2026-03-28T15:02:00.000Z",
           "wordCount": null,
           "title": "Disruption has a shape. Design history shows us what it is.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f2c960170b07",
-          "author": "Fabricio Teixeira",
-          "description": "",
-          "link": "https://uxdesign.cc/google-stitch-design-maturity-guide-livable-products-f2c960170b07?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-03-28T07:04:27.000Z",
-          "wordCount": null,
-          "title": "Google Stitch, design maturity guide, livable products",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/720ca15366c7",
-          "author": "Joshua Leigh",
-          "description": "",
-          "link": "https://uxdesign.cc/taste-is-not-a-feature-720ca15366c7?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-03-27T20:49:08.000Z",
-          "wordCount": null,
-          "title": "Taste is not a feature",
           "imageUrl": null
         }
       ]
