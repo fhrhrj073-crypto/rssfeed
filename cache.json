@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=xEr0hRbK_Xo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xEr0hRbK_Xo",
+          "publishedOn": "2026-04-27T14:01:29.000Z",
+          "wordCount": null,
+          "title": "How to Make an App With AI - 9 Steps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/UVUzdRLuAoA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/UVUzdRLuAoA",
+          "publishedOn": "2026-04-27T10:39:53.000Z",
+          "wordCount": 2187,
+          "title": "Watch till the end...",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DZIymFrEXik",
           "author": null,
           "description": "",
@@ -494,36 +514,6 @@
           "wordCount": null,
           "title": "OpenClaw Architecture Deep Dive (Reduce Costs & Better Tools/API Use)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qYqIhX9hTQk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qYqIhX9hTQk",
-          "publishedOn": "2026-03-29T13:01:50.000Z",
-          "wordCount": null,
-          "title": "FULL Claude Code Tutorial for Beginners in 2026! (Step-By-Step)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/735oSEdvgZQ",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/735oSEdvgZQ",
-          "publishedOn": "2026-03-29T10:05:12.000Z",
-          "wordCount": 2022,
-          "title": "Watch till the end👀",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fKcfaAPyPUQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fKcfaAPyPUQ",
-          "publishedOn": "2026-03-28T14:00:42.000Z",
-          "wordCount": null,
-          "title": "Famous Computer Science Algorithms - Full Course",
-          "imageUrl": null
         }
       ]
     },
@@ -836,6 +826,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCawZsQWqfGSbCI5yjkdVkTA",
       "siteUrl": "https://www.youtube.com/channel/UCawZsQWqfGSbCI5yjkdVkTA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/cVqdbXlmXqs",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/cVqdbXlmXqs",
+          "publishedOn": "2026-04-27T21:07:30.000Z",
+          "wordCount": 2024,
+          "title": "China Takes Over",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=UV1WDNe4J5w",
           "author": null,
@@ -1155,16 +1155,6 @@
           "wordCount": 2068,
           "title": "Futuristic Movies Tier List",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/fqKrgfGOOqI",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/fqKrgfGOOqI",
-          "publishedOn": "2026-03-28T16:40:48.000Z",
-          "wordCount": 2108,
-          "title": "Best Models Tier List",
-          "imageUrl": null
         }
       ]
     },
@@ -1387,6 +1377,38 @@
       "feedUrl": "https://www.lennysnewsletter.com/feed",
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
+        {
+          "id": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-gpt-55-claude",
+          "author": "Lenny Rachitsky",
+          "description": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+          "link": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-gpt-55-claude",
+          "publishedOn": "2026-04-27T15:02:19.000Z",
+          "wordCount": null,
+          "title": "🎙️ This week on How I AI: GPT 5.5, Claude Design, and GPT Images 2.0 hands-on reviews—plus an inside look at Memelord",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/fd11cb5c-1edb-461c-8c5d-4c73f80eae59_1456x1048.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/fd11cb5c-1edb-461c-8c5d-4c73f80eae59_1456x1048.png"
+        },
+        {
+          "id": "https://www.lennysnewsletter.com/p/from-a-690-newsletter-to-3m-api-how",
+          "author": "Claire Vo",
+          "description": "Listen now | 🎙️Jason Levin (CEO of Memelord) shows how he built a $100K ARR meme company without coding—plus why every marketer should vibe code and how agents are becoming his primary users",
+          "link": "https://www.lennysnewsletter.com/p/from-a-690-newsletter-to-3m-api-how",
+          "publishedOn": "2026-04-27T12:03:55.000Z",
+          "wordCount": null,
+          "title": "From a $6.90 newsletter to $3M API: How a non-coder built Memelord | Jason Levin",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/194566396/7d1f7bca50efe7184a9887072dd7c7f6.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://www.lennysnewsletter.com/p/snapchat-ceo-why-distribution-is",
           "author": "Lenny Rachitsky",
@@ -1834,38 +1856,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/how-openclaw-changed-my-life-claire-vo",
-          "author": "Lenny Rachitsky",
-          "description": "Listen now | Claire Vo went from OpenClaw skeptic to running nine specialized AI agents across her family calendar, inbound sales, kids’ homework help, and more",
-          "link": "https://www.lennysnewsletter.com/p/how-openclaw-changed-my-life-claire-vo",
-          "publishedOn": "2026-03-29T12:31:50.000Z",
-          "wordCount": null,
-          "title": "From skeptic to true believer: How OpenClaw changed my life | Claire Vo",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/192012054/13dba007700db9060ce2e2438e84df71.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/community-wisdom-when-ai-velocity",
-          "author": "Kiyani",
-          "description": "Community Wisdom 179",
-          "link": "https://www.lennysnewsletter.com/p/community-wisdom-when-ai-velocity",
-          "publishedOn": "2026-03-28T17:01:42.000Z",
-          "wordCount": null,
-          "title": "🧠 Community Wisdom: When AI velocity outpaces your product strategy, when your estimates keep slipping, one day in San Francisco, pairing Claude Code with Codex, and more",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png"
         }
       ]
     },
@@ -1874,6 +1864,22 @@
       "feedUrl": "https://www.thevccorner.com/feed",
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
+        {
+          "id": "https://www.thevccorner.com/p/startup-growth-guide-2026",
+          "author": "Ruben Dominguez",
+          "description": "Most startups don’t have a growth problem; they have a math problem. Learn how to read your retention curves and unit economics to build a business VCs love.",
+          "link": "https://www.thevccorner.com/p/startup-growth-guide-2026",
+          "publishedOn": "2026-04-27T16:59:03.000Z",
+          "wordCount": null,
+          "title": "The Only Startup Growth Guide You’ll Need in 2026",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!xuPd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd88949f2-f998-47a8-83b0-8c92dd05bbe5_1140x798.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!xuPd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd88949f2-f998-47a8-83b0-8c92dd05bbe5_1140x798.jpeg"
+        },
         {
           "id": "https://www.thevccorner.com/p/mistral-ais-105m-memo-enterprise",
           "author": "Ruben Dominguez",
@@ -2233,6 +2239,36 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/openais-rumored-phone-is-the-clearest-sign-yet-that-ai-agents-need-hardware/",
+          "author": null,
+          "description": "OpenAI may be building a smartphone after all. If true, the point is not another glass slab. It is control over the device where AI agents can see context, act across apps, and turn user intent into real work.",
+          "link": "https://www.theneuron.ai/explainer-articles/openais-rumored-phone-is-the-clearest-sign-yet-that-ai-agents-need-hardware/",
+          "publishedOn": "2026-04-27T20:53:33.025Z",
+          "wordCount": null,
+          "title": "OpenAI’s Rumored Phone Is the Clearest Sign Yet That AI Agents Need Hardware",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/microsoft-and-openai-rewrote-their-marriage-contract/",
+          "author": null,
+          "description": "Microsoft and OpenAI are not breaking up, but their partnership just became much less exclusive. The new deal gives OpenAI more cloud freedom, simplifies revenue sharing, and signals that the next phase of AI will be shaped by infrastructure, optionality, and trillion-dollar compute needs.",
+          "link": "https://www.theneuron.ai/explainer-articles/microsoft-and-openai-rewrote-their-marriage-contract/",
+          "publishedOn": "2026-04-27T17:36:28.568Z",
+          "wordCount": null,
+          "title": "Microsoft and OpenAI Rewrote their Marriage Contract",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/newsletter/sam-altman-s-principles-arrived-one-day-too-late/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/sam-altman-s-principles-arrived-one-day-too-late/",
+          "publishedOn": "2026-04-27T10:30:16.078Z",
+          "wordCount": null,
+          "title": "😼 Sam Altman's principles arrived one day too late",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/newsletter/you-re-either-jeremy-or-you-re-cut/",
           "author": null,
@@ -2880,6 +2916,36 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=608949",
+          "author": "TDS Editors",
+          "description": "Sabrine Bendimerad on why flexibility is a crucial data science skill, the risks of outsourcing human thinking to AI agents, and the changing terrain of career paths today.\nThe post A Career in Data Is Not Always a Straight Line, and That’s Okay appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/a-career-in-data-is-not-always-a-straight-line-and-thats-okay/",
+          "publishedOn": "2026-04-27T16:30:00.000Z",
+          "wordCount": 4827,
+          "title": "A Career in Data Is Not Always a Straight Line, and That’s Okay",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Sabrine-Bendimerad.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608955",
+          "author": "Samir Saci",
+          "description": "A simulation of how a single forecast change moves through five planning teams, and why most retailers lose money in the gap between Sales and Stores.\nThe post How Spreadsheets Quietly Cost Supply Chains Millions appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-spreadsheets-quietly-cost-supply-chains-millions/",
+          "publishedOn": "2026-04-27T14:00:00.000Z",
+          "wordCount": 5778,
+          "title": "How Spreadsheets Quietly Cost Supply Chains Millions",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/thumbnail-1.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608953",
+          "author": "Salvatore Cagliari",
+          "description": "With the advent of UDFs and their combination with calculation groups, I see a lot of discussion about not creating explicit measures but instead offering calculation groups to report creators.\nThe post Comparing Explicit Measures to Calculation Groups in Tabular Models appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/comparing-explicit-measures-to-calculation-groups-in-tabular-models/",
+          "publishedOn": "2026-04-27T12:00:00.000Z",
+          "wordCount": 4054,
+          "title": "Comparing Explicit Measures to Calculation Groups in Tabular Models",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/ian-talmacs-wr4CnlEg_5s-unsplash.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=608951",
           "author": "Vedant Jumle",
@@ -3884,36 +3950,6 @@
           "wordCount": 5364,
           "title": "How to Become an AI Engineer Fast (Skills, Projects, Salary)",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/Egor-Aug-Thumbnail-2.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608713",
-          "author": "Emmimal P Alexander",
-          "description": "What happens when your production model drifts and retraining isn’t an option? This article shows how a self-healing neural network detects drift, adapts in real time using a lightweight adapter, and recovers 27.8% accuracy—without retraining or downtime.\nThe post Self-Healing Neural Networks in PyTorch: Fix Model Drift in Real Time Without Retraining appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/self-healing-neural-networks-in-pytorch-fix-model-drift-in-real-time-without-retraining/",
-          "publishedOn": "2026-03-29T13:00:00.000Z",
-          "wordCount": 7531,
-          "title": "Self-Healing Neural Networks in PyTorch: Fix Model Drift in Real Time Without Retraining",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/Self-healing-neural-network-tree-illustration.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608711",
-          "author": "Nick Lawson",
-          "description": "It's easier than ever to 10x your output with agentic AI.\nThe post Using OpenClaw as a Force Multiplier: What One Person Can Ship with Autonomous Agents appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/using-openclaw-as-a-force-multiplier-what-one-person-can-ship-with-autonomous-agents/",
-          "publishedOn": "2026-03-28T16:30:00.000Z",
-          "wordCount": 7792,
-          "title": "Using OpenClaw as a Force Multiplier: What One Person Can Ship with Autonomous Agents",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/Gemini_Generated_Image_7rnb8v7rnb8v7rnb-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608706",
-          "author": "Aakash Goswami",
-          "description": "Integrating CMIP6 projections, ERA5 reanalysis, and impact models into a lightweight, interpretable workflow\nThe post From NetCDF to Insights: A Practical Pipeline for City-Level Climate Risk Analysis appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/from-netcdf-to-insights-a-practical-pipeline-for-city-level-climate-risk-analysis/",
-          "publishedOn": "2026-03-28T14:30:00.000Z",
-          "wordCount": 4537,
-          "title": "From NetCDF to Insights: A Practical Pipeline for City-Level Climate Risk Analysis",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-26-2026-03_28_49-AM.jpg"
         }
       ]
     },
@@ -3928,6 +3964,26 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/c5db6b1367bf",
+          "author": "Fabricio Teixeira",
+          "description": "",
+          "link": "https://uxdesign.cc/a-fantastic-voyage-the-illusion-of-good-taste-the-art-of-subtraction-c5db6b1367bf?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-04-27T11:34:56.000Z",
+          "wordCount": null,
+          "title": "A fantastic voyage, the illusion of good taste, the art of subtraction",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d01fa2dee282",
+          "author": "Bradly Zavakos",
+          "description": "",
+          "link": "https://uxdesign.cc/the-right-touch-mapping-ai-presence-to-user-intent-d01fa2dee282?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-04-27T08:21:02.000Z",
+          "wordCount": null,
+          "title": "The right touch: mapping AI presence to user intent",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/a22a50bb063c",
           "author": "Dora Czerna",
@@ -4597,16 +4653,6 @@
           "wordCount": null,
           "title": "The long and short of telephone progress",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/47c0aaa6bbbf",
-          "author": "Dora Czerna",
-          "description": "",
-          "link": "https://uxdesign.cc/disruption-has-a-shape-design-history-shows-us-what-it-is-47c0aaa6bbbf?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-03-28T15:02:00.000Z",
-          "wordCount": null,
-          "title": "Disruption has a shape. Design history shows us what it is.",
-          "imageUrl": null
         }
       ]
     },
@@ -4648,6 +4694,106 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/a84039925195",
+          "author": "Jim Clyde Monge",
+          "description": "",
+          "link": "https://generativeai.pub/heres-an-open-source-ai-gateway-that-s-50x-faster-than-litellm-a84039925195?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-27T14:32:46.000Z",
+          "wordCount": null,
+          "title": "Here’s an Open-Source AI Gateway that’s 50X Faster than LiteLLM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/45f92acf977d",
+          "author": "Rene Baumann",
+          "description": "",
+          "link": "https://generativeai.pub/building-an-ai-root-cause-analysis-prototype-45f92acf977d?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-27T09:41:33.000Z",
+          "wordCount": null,
+          "title": "Building an AI Root Cause Analysis Prototype",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d4b01f554816",
+          "author": "AI Unfiltered",
+          "description": "Most people picked an AI tool once, in 2023, and have not reconsidered since. The model landscape looks nothing like it did then. Here is…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/you-are-probably-using-the-wrong-ai-model-for-the-work-you-actually-do-d4b01f554816?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-27T09:40:59.000Z",
+          "wordCount": null,
+          "title": "You Are Probably Using the Wrong AI Model for the Work You Actually Do.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2fc45eecec59",
+          "author": "Mohamed Noordeen Alaudeen",
+          "description": "",
+          "link": "https://generativeai.pub/i-ran-the-math-that-powers-chatgpt-heres-what-i-found-2fc45eecec59?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-27T09:40:58.000Z",
+          "wordCount": null,
+          "title": "I Computed Self-Attention by Hand. Every Single Number.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d775ba6e55a7",
+          "author": "Marco van Hurne",
+          "description": "",
+          "link": "https://generativeai.pub/process-mining-is-the-strategic-foundation-your-enterprise-ai-project-is-missing-d775ba6e55a7?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-27T09:39:03.000Z",
+          "wordCount": null,
+          "title": "Process mining is the strategic foundation your enterprise AI project is missing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b8335d78664d",
+          "author": "Felix Pappe",
+          "description": "Get the most out of ChatGPT Image-2\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/5-tricks-to-generate-5x-better-images-b8335d78664d?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-27T09:38:09.000Z",
+          "wordCount": null,
+          "title": "5 Tricks to Generate 5x Better Images",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/685f401776f9",
+          "author": "Jes Fink-Jensen",
+          "description": "A step-by-step guide using FastMCP, MCPHost, and ollmcp — with full Python code and config examples.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/how-to-connect-ollama-to-mcp-servers-3-working-methods-685f401776f9?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-27T09:37:38.000Z",
+          "wordCount": null,
+          "title": "How to Connect Ollama to MCP Servers: 3 Working Methods",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1ff025e43814",
+          "author": "Daniel Rusnok",
+          "description": "A Claude Code skill that turns an hour of manual scaffolding into 90 seconds.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/i-automated-away-an-hour-of-project-setup-with-a-claude-code-skill-1ff025e43814?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-27T09:37:19.000Z",
+          "wordCount": null,
+          "title": "I automated away an hour of project setup with a Claude Code skill",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8a39ff88c294",
+          "author": "Osama Abdelwahed",
+          "description": "",
+          "link": "https://generativeai.pub/nobody-got-fired-the-desk-just-never-got-refilled-8a39ff88c294?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-27T09:36:31.000Z",
+          "wordCount": null,
+          "title": "Nobody Got Fired. The Desk Just Never Got Refilled.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/fb79350942a9",
+          "author": "Osama Abdelwahed",
+          "description": "",
+          "link": "https://generativeai.pub/they-pushed-the-ai-button-24-hours-later-30-000-people-lost-their-jobs-fb79350942a9?source=rss----440100e76000---4",
+          "publishedOn": "2026-04-27T09:36:11.000Z",
+          "wordCount": null,
+          "title": "They Pushed the AI Button. 24 Hours Later, 30,000 People Lost Their Jobs.",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/ceb556111a7b",
           "author": "Jim Clyde Monge",

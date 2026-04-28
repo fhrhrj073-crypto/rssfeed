@@ -2,10 +2,247 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-04-27T01:19:41.689Z</updated>
+    <updated>2026-04-28T01:26:28.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[China Takes Over]]></title>
+        <id>https://www.youtube.com/shorts/cVqdbXlmXqs</id>
+        <link href="https://www.youtube.com/shorts/cVqdbXlmXqs"/>
+        <updated>2026-04-27T21:07:30.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI’s Rumored Phone Is the Clearest Sign Yet That AI Agents Need Hardware]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/openais-rumored-phone-is-the-clearest-sign-yet-that-ai-agents-need-hardware/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/openais-rumored-phone-is-the-clearest-sign-yet-that-ai-agents-need-hardware/"/>
+        <updated>2026-04-27T20:53:33.025Z</updated>
+        <summary type="html"><![CDATA[OpenAI may be building a smartphone after all. If true, the point is not another glass slab. It is control over the device where AI agents can see context, act across apps, and turn user intent into real work.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft and OpenAI Rewrote their Marriage Contract]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/microsoft-and-openai-rewrote-their-marriage-contract/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/microsoft-and-openai-rewrote-their-marriage-contract/"/>
+        <updated>2026-04-27T17:36:28.568Z</updated>
+        <summary type="html"><![CDATA[Microsoft and OpenAI are not breaking up, but their partnership just became much less exclusive. The new deal gives OpenAI more cloud freedom, simplifies revenue sharing, and signals that the next phase of AI will be shaped by infrastructure, optionality, and trillion-dollar compute needs.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Only Startup Growth Guide You’ll Need in 2026]]></title>
+        <id>https://www.thevccorner.com/p/startup-growth-guide-2026</id>
+        <link href="https://www.thevccorner.com/p/startup-growth-guide-2026"/>
+        <updated>2026-04-27T16:59:03.000Z</updated>
+        <summary type="html"><![CDATA[Most startups don’t have a growth problem; they have a math problem. Learn how to read your retention curves and unit economics to build a business VCs love.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Career in Data Is Not Always a Straight Line, and That’s Okay]]></title>
+        <id>https://towardsdatascience.com/?p=608949</id>
+        <link href="https://towardsdatascience.com/a-career-in-data-is-not-always-a-straight-line-and-thats-okay/"/>
+        <updated>2026-04-27T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Sabrine Bendimerad on why flexibility is a crucial data science skill, the risks of outsourcing human thinking to AI agents, and the changing terrain of career paths today.
+The post A Career in Data Is Not Always a Straight Line, and That’s Okay appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>TDS Editors</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎙️ This week on How I AI: GPT 5.5, Claude Design, and GPT Images 2.0 hands-on reviews—plus an inside look at Memelord]]></title>
+        <id>https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-gpt-55-claude</id>
+        <link href="https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-gpt-55-claude"/>
+        <updated>2026-04-27T15:02:19.000Z</updated>
+        <summary type="html"><![CDATA[Your weekly listens from How I AI, part of the Lenny's Podcast Network]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here’s an Open-Source AI Gateway that’s 50X Faster than LiteLLM]]></title>
+        <id>https://medium.com/p/a84039925195</id>
+        <link href="https://generativeai.pub/heres-an-open-source-ai-gateway-that-s-50x-faster-than-litellm-a84039925195?source=rss----440100e76000---4"/>
+        <updated>2026-04-27T14:32:46.000Z</updated>
+        <author>
+            <name>Jim Clyde Monge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make an App With AI - 9 Steps]]></title>
+        <id>https://www.youtube.com/watch?v=xEr0hRbK_Xo</id>
+        <link href="https://www.youtube.com/watch?v=xEr0hRbK_Xo"/>
+        <updated>2026-04-27T14:01:29.000Z</updated>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Spreadsheets Quietly Cost Supply Chains Millions]]></title>
+        <id>https://towardsdatascience.com/?p=608955</id>
+        <link href="https://towardsdatascience.com/how-spreadsheets-quietly-cost-supply-chains-millions/"/>
+        <updated>2026-04-27T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A simulation of how a single forecast change moves through five planning teams, and why most retailers lose money in the gap between Sales and Stores.
+The post How Spreadsheets Quietly Cost Supply Chains Millions appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Samir Saci</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From a $6.90 newsletter to $3M API: How a non-coder built Memelord | Jason Levin]]></title>
+        <id>https://www.lennysnewsletter.com/p/from-a-690-newsletter-to-3m-api-how</id>
+        <link href="https://www.lennysnewsletter.com/p/from-a-690-newsletter-to-3m-api-how"/>
+        <updated>2026-04-27T12:03:55.000Z</updated>
+        <summary type="html"><![CDATA[Listen now | 🎙️Jason Levin (CEO of Memelord) shows how he built a $100K ARR meme company without coding—plus why every marketer should vibe code and how agents are becoming his primary users]]></summary>
+        <author>
+            <name>Claire Vo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comparing Explicit Measures to Calculation Groups in Tabular Models]]></title>
+        <id>https://towardsdatascience.com/?p=608953</id>
+        <link href="https://towardsdatascience.com/comparing-explicit-measures-to-calculation-groups-in-tabular-models/"/>
+        <updated>2026-04-27T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With the advent of UDFs and their combination with calculation groups, I see a lot of discussion about not creating explicit measures but instead offering calculation groups to report creators.
+The post Comparing Explicit Measures to Calculation Groups in Tabular Models appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Salvatore Cagliari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A fantastic voyage, the illusion of good taste, the art of subtraction]]></title>
+        <id>https://medium.com/p/c5db6b1367bf</id>
+        <link href="https://uxdesign.cc/a-fantastic-voyage-the-illusion-of-good-taste-the-art-of-subtraction-c5db6b1367bf?source=rss----138adf9c44c---4"/>
+        <updated>2026-04-27T11:34:56.000Z</updated>
+        <author>
+            <name>Fabricio Teixeira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch till the end...]]></title>
+        <id>https://www.youtube.com/shorts/UVUzdRLuAoA</id>
+        <link href="https://www.youtube.com/shorts/UVUzdRLuAoA"/>
+        <updated>2026-04-27T10:39:53.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😼 Sam Altman's principles arrived one day too late]]></title>
+        <id>https://www.theneuron.ai/newsletter/sam-altman-s-principles-arrived-one-day-too-late/</id>
+        <link href="https://www.theneuron.ai/newsletter/sam-altman-s-principles-arrived-one-day-too-late/"/>
+        <updated>2026-04-27T10:30:16.078Z</updated>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building an AI Root Cause Analysis Prototype]]></title>
+        <id>https://medium.com/p/45f92acf977d</id>
+        <link href="https://generativeai.pub/building-an-ai-root-cause-analysis-prototype-45f92acf977d?source=rss----440100e76000---4"/>
+        <updated>2026-04-27T09:41:33.000Z</updated>
+        <author>
+            <name>Rene Baumann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You Are Probably Using the Wrong AI Model for the Work You Actually Do.]]></title>
+        <id>https://medium.com/p/d4b01f554816</id>
+        <link href="https://generativeai.pub/you-are-probably-using-the-wrong-ai-model-for-the-work-you-actually-do-d4b01f554816?source=rss----440100e76000---4"/>
+        <updated>2026-04-27T09:40:59.000Z</updated>
+        <summary type="html"><![CDATA[Most people picked an AI tool once, in 2023, and have not reconsidered since. The model landscape looks nothing like it did then. Here is…
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>AI Unfiltered</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Computed Self-Attention by Hand. Every Single Number.]]></title>
+        <id>https://medium.com/p/2fc45eecec59</id>
+        <link href="https://generativeai.pub/i-ran-the-math-that-powers-chatgpt-heres-what-i-found-2fc45eecec59?source=rss----440100e76000---4"/>
+        <updated>2026-04-27T09:40:58.000Z</updated>
+        <author>
+            <name>Mohamed Noordeen Alaudeen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Process mining is the strategic foundation your enterprise AI project is missing]]></title>
+        <id>https://medium.com/p/d775ba6e55a7</id>
+        <link href="https://generativeai.pub/process-mining-is-the-strategic-foundation-your-enterprise-ai-project-is-missing-d775ba6e55a7?source=rss----440100e76000---4"/>
+        <updated>2026-04-27T09:39:03.000Z</updated>
+        <author>
+            <name>Marco van Hurne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Tricks to Generate 5x Better Images]]></title>
+        <id>https://medium.com/p/b8335d78664d</id>
+        <link href="https://generativeai.pub/5-tricks-to-generate-5x-better-images-b8335d78664d?source=rss----440100e76000---4"/>
+        <updated>2026-04-27T09:38:09.000Z</updated>
+        <summary type="html"><![CDATA[Get the most out of ChatGPT Image-2
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Felix Pappe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Connect Ollama to MCP Servers: 3 Working Methods]]></title>
+        <id>https://medium.com/p/685f401776f9</id>
+        <link href="https://generativeai.pub/how-to-connect-ollama-to-mcp-servers-3-working-methods-685f401776f9?source=rss----440100e76000---4"/>
+        <updated>2026-04-27T09:37:38.000Z</updated>
+        <summary type="html"><![CDATA[A step-by-step guide using FastMCP, MCPHost, and ollmcp — with full Python code and config examples.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Jes Fink-Jensen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I automated away an hour of project setup with a Claude Code skill]]></title>
+        <id>https://medium.com/p/1ff025e43814</id>
+        <link href="https://generativeai.pub/i-automated-away-an-hour-of-project-setup-with-a-claude-code-skill-1ff025e43814?source=rss----440100e76000---4"/>
+        <updated>2026-04-27T09:37:19.000Z</updated>
+        <summary type="html"><![CDATA[A Claude Code skill that turns an hour of manual scaffolding into 90 seconds.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Daniel Rusnok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nobody Got Fired. The Desk Just Never Got Refilled.]]></title>
+        <id>https://medium.com/p/8a39ff88c294</id>
+        <link href="https://generativeai.pub/nobody-got-fired-the-desk-just-never-got-refilled-8a39ff88c294?source=rss----440100e76000---4"/>
+        <updated>2026-04-27T09:36:31.000Z</updated>
+        <author>
+            <name>Osama Abdelwahed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[They Pushed the AI Button. 24 Hours Later, 30,000 People Lost Their Jobs.]]></title>
+        <id>https://medium.com/p/fb79350942a9</id>
+        <link href="https://generativeai.pub/they-pushed-the-ai-button-24-hours-later-30-000-people-lost-their-jobs-fb79350942a9?source=rss----440100e76000---4"/>
+        <updated>2026-04-27T09:36:11.000Z</updated>
+        <author>
+            <name>Osama Abdelwahed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The right touch: mapping AI presence to user intent]]></title>
+        <id>https://medium.com/p/d01fa2dee282</id>
+        <link href="https://uxdesign.cc/the-right-touch-mapping-ai-presence-to-user-intent-d01fa2dee282?source=rss----138adf9c44c---4"/>
+        <updated>2026-04-27T08:21:02.000Z</updated>
+        <author>
+            <name>Bradly Zavakos</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mistral AI's €105M Memo📄, Enterprise SaaS Defense⚔️, Seed Math Broke💰]]></title>
         <id>https://www.thevccorner.com/p/mistral-ais-105m-memo-enterprise</id>
@@ -5047,106 +5284,6 @@ The post How to Become an AI Engineer Fast (Skills, Projects, Salary) appeared f
         <summary type="html"><![CDATA[Another week, another pulse check on tech]]></summary>
         <author>
             <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FULL Claude Code Tutorial for Beginners in 2026! (Step-By-Step)]]></title>
-        <id>https://www.youtube.com/watch?v=qYqIhX9hTQk</id>
-        <link href="https://www.youtube.com/watch?v=qYqIhX9hTQk"/>
-        <updated>2026-03-29T13:01:50.000Z</updated>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Self-Healing Neural Networks in PyTorch: Fix Model Drift in Real Time Without Retraining]]></title>
-        <id>https://towardsdatascience.com/?p=608713</id>
-        <link href="https://towardsdatascience.com/self-healing-neural-networks-in-pytorch-fix-model-drift-in-real-time-without-retraining/"/>
-        <updated>2026-03-29T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What happens when your production model drifts and retraining isn’t an option? This article shows how a self-healing neural network detects drift, adapts in real time using a lightweight adapter, and recovers 27.8% accuracy—without retraining or downtime.
-The post Self-Healing Neural Networks in PyTorch: Fix Model Drift in Real Time Without Retraining appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Emmimal P Alexander</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From skeptic to true believer: How OpenClaw changed my life | Claire Vo]]></title>
-        <id>https://www.lennysnewsletter.com/p/how-openclaw-changed-my-life-claire-vo</id>
-        <link href="https://www.lennysnewsletter.com/p/how-openclaw-changed-my-life-claire-vo"/>
-        <updated>2026-03-29T12:31:50.000Z</updated>
-        <summary type="html"><![CDATA[Listen now | Claire Vo went from OpenClaw skeptic to running nine specialized AI agents across her family calendar, inbound sales, kids’ homework help, and more]]></summary>
-        <author>
-            <name>Lenny Rachitsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch till the end👀]]></title>
-        <id>https://www.youtube.com/shorts/735oSEdvgZQ</id>
-        <link href="https://www.youtube.com/shorts/735oSEdvgZQ"/>
-        <updated>2026-03-29T10:05:12.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧠 Community Wisdom: When AI velocity outpaces your product strategy, when your estimates keep slipping, one day in San Francisco, pairing Claude Code with Codex, and more]]></title>
-        <id>https://www.lennysnewsletter.com/p/community-wisdom-when-ai-velocity</id>
-        <link href="https://www.lennysnewsletter.com/p/community-wisdom-when-ai-velocity"/>
-        <updated>2026-03-28T17:01:42.000Z</updated>
-        <summary type="html"><![CDATA[Community Wisdom 179]]></summary>
-        <author>
-            <name>Kiyani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Models Tier List]]></title>
-        <id>https://www.youtube.com/shorts/fqKrgfGOOqI</id>
-        <link href="https://www.youtube.com/shorts/fqKrgfGOOqI"/>
-        <updated>2026-03-28T16:40:48.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using OpenClaw as a Force Multiplier: What One Person Can Ship with Autonomous Agents]]></title>
-        <id>https://towardsdatascience.com/?p=608711</id>
-        <link href="https://towardsdatascience.com/using-openclaw-as-a-force-multiplier-what-one-person-can-ship-with-autonomous-agents/"/>
-        <updated>2026-03-28T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[It's easier than ever to 10x your output with agentic AI.
-The post Using OpenClaw as a Force Multiplier: What One Person Can Ship with Autonomous Agents appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Nick Lawson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disruption has a shape. Design history shows us what it is.]]></title>
-        <id>https://medium.com/p/47c0aaa6bbbf</id>
-        <link href="https://uxdesign.cc/disruption-has-a-shape-design-history-shows-us-what-it-is-47c0aaa6bbbf?source=rss----138adf9c44c---4"/>
-        <updated>2026-03-28T15:02:00.000Z</updated>
-        <author>
-            <name>Dora Czerna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From NetCDF to Insights: A Practical Pipeline for City-Level Climate Risk Analysis]]></title>
-        <id>https://towardsdatascience.com/?p=608706</id>
-        <link href="https://towardsdatascience.com/from-netcdf-to-insights-a-practical-pipeline-for-city-level-climate-risk-analysis/"/>
-        <updated>2026-03-28T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Integrating CMIP6 projections, ERA5 reanalysis, and impact models into a lightweight, interpretable workflow
-The post From NetCDF to Insights: A Practical Pipeline for City-Level Climate Risk Analysis appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Aakash Goswami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Famous Computer Science Algorithms - Full Course]]></title>
-        <id>https://www.youtube.com/watch?v=fKcfaAPyPUQ</id>
-        <link href="https://www.youtube.com/watch?v=fKcfaAPyPUQ"/>
-        <updated>2026-03-28T14:00:42.000Z</updated>
-        <author>
-            <name>Tech With Tim</name>
         </author>
     </entry>
 </feed>
