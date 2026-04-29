@@ -2,10 +2,151 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-04-28T01:26:28.955Z</updated>
+    <updated>2026-04-29T01:29:15.453Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is AI really costing the planet?]]></title>
+        <id>https://medium.com/p/ec14be648d65</id>
+        <link href="https://uxdesign.cc/what-is-ai-really-costing-the-planet-ec14be648d65?source=rss----138adf9c44c---4"/>
+        <updated>2026-04-28T21:59:12.000Z</updated>
+        <author>
+            <name>Dora Czerna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The most dangerous pronoun in design]]></title>
+        <id>https://medium.com/p/a9fc721a685a</id>
+        <link href="https://uxdesign.cc/the-most-dangerous-pronoun-in-design-a9fc721a685a?source=rss----138adf9c44c---4"/>
+        <updated>2026-04-28T21:59:10.000Z</updated>
+        <author>
+            <name>Pedro A. Brêtas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YC Just Told You What to Build. Here Are the Ideas Worth Stealing.]]></title>
+        <id>https://www.thevccorner.com/p/yc-summer-2026-requests-for-startups-ideas</id>
+        <link href="https://www.thevccorner.com/p/yc-summer-2026-requests-for-startups-ideas"/>
+        <updated>2026-04-28T20:51:14.000Z</updated>
+        <summary type="html"><![CDATA[Y Combinator’s Summer 2026 Requests for Startups is the most direct signal the best startup accelerator in the world has ever sent founders. Here is what it actually means.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let the AI Do the Experimenting]]></title>
+        <id>https://towardsdatascience.com/?p=608966</id>
+        <link href="https://towardsdatascience.com/let-the-ai-do-the-experimenting/"/>
+        <updated>2026-04-28T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Using autoresearch to optimise marketing campaigns under budget constraints
+The post Let the AI Do the Experimenting appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Mariya Mansurova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA’s Nemotron 3 Nano Omni Gives AI Agents Eyes and Ears]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/nvidias-nemotron-3-nano-omni-gives-ai-agents-eyes-and-ears/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/nvidias-nemotron-3-nano-omni-gives-ai-agents-eyes-and-ears/"/>
+        <updated>2026-04-28T16:05:00.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIA’s Nemotron 3 Nano Omni is not just another multimodal model. It is a fast sensory layer for AI agent stacks, built to help sub-agents watch, listen, read, and reason over messy real-world inputs before handing work to larger systems.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Couch-to-5K for AI]]></title>
+        <id>https://www.lennysnewsletter.com/p/your-couch-to-5k-for-ai</id>
+        <link href="https://www.lennysnewsletter.com/p/your-couch-to-5k-for-ai"/>
+        <updated>2026-04-28T15:31:24.000Z</updated>
+        <summary type="html"><![CDATA[A step-by-step guide to building an AI habit that sticks]]></summary>
+        <author>
+            <name>Hilary Gridley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Correlation Doesn’t Mean Causation! But What Does It Mean?]]></title>
+        <id>https://towardsdatascience.com/?p=608964</id>
+        <link href="https://towardsdatascience.com/correlation-doesnt-mean-causation-but-what-does-it-mean/"/>
+        <updated>2026-04-28T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What does correlation tells us?
+The post Correlation Doesn’t Mean Causation! But What Does It Mean? appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Sara A. Metwalli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Next Frontier of AI in Production Is Chaos Engineering]]></title>
+        <id>https://towardsdatascience.com/?p=608961</id>
+        <link href="https://towardsdatascience.com/the-next-frontier-of-ai-in-production-is-chaos-engineering/"/>
+        <updated>2026-04-28T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Blast-radius control tells you how much to break. Intent tells you what breaking it will teach. Only one of these has mature tooling.
+The post The Next Frontier of AI in Production Is Chaos Engineering appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Sayali Patil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyTorch NaNs Are Silent Killers — So I Built a 3ms Hook to Catch Them at the Exact Layer]]></title>
+        <id>https://towardsdatascience.com/?p=608959</id>
+        <link href="https://towardsdatascience.com/pytorch-nans-are-silent-killers-i-built-a-3ms-hook-to-catch-them-at-the-exact-layer/"/>
+        <updated>2026-04-28T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NaNs don’t crash your training — they quietly destroy it.
+The post PyTorch NaNs Are Silent Killers — So I Built a 3ms Hook to Catch Them at the Exact Layer appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Emmimal P Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Staff designers aren’t about shipping the best work. That’s the point.]]></title>
+        <id>https://medium.com/p/974d7bc14f06</id>
+        <link href="https://uxdesign.cc/staff-designers-arent-about-shipping-the-best-work-that-s-the-point-974d7bc14f06?source=rss----138adf9c44c---4"/>
+        <updated>2026-04-28T11:34:55.000Z</updated>
+        <summary type="html"><![CDATA[I rewrote portfolios for 7 Staff/Principal designers. Here’s what I learned
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Kai Wong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The forgotten conversation problem in AI chat]]></title>
+        <id>https://medium.com/p/4d3d0c3ea525</id>
+        <link href="https://uxdesign.cc/the-forgotten-conversation-problem-in-ai-chat-4d3d0c3ea525?source=rss----138adf9c44c---4"/>
+        <updated>2026-04-28T11:34:24.000Z</updated>
+        <author>
+            <name>Adi Leviim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 OpenAI is trying to become Apple]]></title>
+        <id>https://www.theneuron.ai/newsletter/openai-is-trying-to-become-apple/</id>
+        <link href="https://www.theneuron.ai/newsletter/openai-is-trying-to-become-apple/"/>
+        <updated>2026-04-28T10:00:18.354Z</updated>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Skill of the Day Digest: April 2026 (Week 5) New Skills]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/ai-skill-of-the-day-digest-april-2026-week-5-new-skills/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/ai-skill-of-the-day-digest-april-2026-week-5-new-skills/"/>
+        <updated>2026-04-28T03:58:01.688Z</updated>
+        <summary type="html"><![CDATA[Every AI Skill of the Day from April 20-30, with expanded context and copy-pastable prompts. From the Fable Prompt to running OpenAI Symphony on your Linear board.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Around the Horn Digest: Everything That Happened in AI Today (Monday, April 27, 2026)]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-monday-april-27-2026/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-monday-april-27-2026/"/>
+        <updated>2026-04-28T01:29:19.842Z</updated>
+        <summary type="html"><![CDATA[OpenAI and Microsoft amended their partnership (no more Azure exclusivity, no more revenue share to OpenAI), DeepMind's David Silver raised $1.1B to build "superlearners," China blocked Meta's $2B Manus acquisition, Tesla quietly disclosed a $2B AI hardware deal, and 4TB of voice samples were stolen from 40,000 AI contractors at Mercor.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[China Takes Over]]></title>
         <id>https://www.youtube.com/shorts/cVqdbXlmXqs</id>
@@ -5168,122 +5309,12 @@ Continue reading on Generative AI »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trace2Skill Makes a Strong Case for Self-Improving Agent Playbooks]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/trace2skill-makes-a-strong-case-for-self-improving-agent-playbooks/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/trace2skill-makes-a-strong-case-for-self-improving-agent-playbooks/"/>
-        <updated>2026-03-30T12:25:39.802Z</updated>
-        <summary type="html"><![CDATA[Trace2Skill is one of the clearest signals yet that the next leap in AI agents may come from better operational playbooks, not just better base models. If that idea holds up, it could reshape how companies build and improve agent systems.]]></summary>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenClaw Architecture Deep Dive (Reduce Costs & Better Tools/API Use)]]></title>
         <id>https://www.youtube.com/watch?v=lgecguWmMQg</id>
         <link href="https://www.youtube.com/watch?v=lgecguWmMQg"/>
         <updated>2026-03-30T12:05:41.000Z</updated>
         <author>
             <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to turn Claude Code into your personal life operating system | Hilary Gridley]]></title>
-        <id>https://www.lennysnewsletter.com/p/how-to-turn-claude-code-into-your</id>
-        <link href="https://www.lennysnewsletter.com/p/how-to-turn-claude-code-into-your"/>
-        <updated>2026-03-30T12:04:24.000Z</updated>
-        <summary type="html"><![CDATA[Watch now | 🎙️ How a new mom and entrepreneur uses Claude Code to automate life admin—all without complex setup]]></summary>
-        <author>
-            <name>Claire Vo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Data Scientists Should Care About Quantum Computing]]></title>
-        <id>https://towardsdatascience.com/?p=608698</id>
-        <link href="https://towardsdatascience.com/why-data-scientists-should-care-about-quantum-computing/"/>
-        <updated>2026-03-30T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sara A. Metwalli on the rise of a promising new technology, the effects of LLM on her work, and more.
-The post Why Data Scientists Should Care About Quantum Computing appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>TDS Editors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A human approach to Agentic AI. One person. One text file. Five agents.]]></title>
-        <id>https://medium.com/p/9e049fc0a612</id>
-        <link href="https://uxdesign.cc/a-human-approach-to-agentic-ai-one-person-one-text-file-five-agents-9e049fc0a612?source=rss----138adf9c44c---4"/>
-        <updated>2026-03-30T11:13:15.000Z</updated>
-        <author>
-            <name>Christine Vallaure</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Explainable AI in Production: A Neuro-Symbolic Model for Real-Time Fraud Detection]]></title>
-        <id>https://towardsdatascience.com/?p=608709</id>
-        <link href="https://towardsdatascience.com/explainable-ai-in-production-a-neuro-symbolic-model-for-real-time-fraud-detection/"/>
-        <updated>2026-03-30T10:47:00.000Z</updated>
-        <summary type="html"><![CDATA[SHAP needs 30 ms to explain a fraud prediction. That explanation is stochastic, runs after the decision, and requires a background dataset you have to maintain at inference time. This article benchmarks a neuro-symbolic model that produces a deterministic, human-readable explanation in 0.9 ms — as a by-product of the forward pass itself — on the Kaggle Credit Card Fraud dataset. The speedup is 33×. The fraud recall is identical.
-The post Explainable AI in Production: A Neuro-Symbolic Model for Real-Time Fraud Detection appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Emmimal P Alexander</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design engineers, UX Design’s demise, forget your “lovable” products]]></title>
-        <id>https://medium.com/p/e5ea71a15bad</id>
-        <link href="https://uxdesign.cc/design-engineers-ux-designs-demise-forget-your-lovable-products-e5ea71a15bad?source=rss----138adf9c44c---4"/>
-        <updated>2026-03-30T08:38:13.000Z</updated>
-        <author>
-            <name>Fabricio Teixeira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The ground is shaking: Why designers must flip the script on AI]]></title>
-        <id>https://medium.com/p/9211053bbadd</id>
-        <link href="https://uxdesign.cc/the-ground-is-shaking-why-designers-must-flip-the-script-on-ai-9211053bbadd?source=rss----138adf9c44c---4"/>
-        <updated>2026-03-30T08:16:28.000Z</updated>
-        <author>
-            <name>Peter (Zak) Zakrzewski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😺 Anthropic leaked Claude Mythos. Cybersecurity stocks crashed]]></title>
-        <id>https://www.theneuron.ai/newsletter/anthropic-leaked-claude-mythos-cybersecurity-stocks-crashed/</id>
-        <link href="https://www.theneuron.ai/newsletter/anthropic-leaked-claude-mythos-cybersecurity-stocks-crashed/"/>
-        <updated>2026-03-30T00:05:15.779Z</updated>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The long and short of telephone progress]]></title>
-        <id>https://medium.com/p/e51cc1570847</id>
-        <link href="https://uxdesign.cc/the-long-and-short-of-telephone-progress-e51cc1570847?source=rss----138adf9c44c---4"/>
-        <updated>2026-03-29T16:26:21.000Z</updated>
-        <summary type="html"><![CDATA[Antitrust regulation, the birth of “Silicon Valley” and approaching the limits of Moore’s law
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Neel Dozome</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Become an AI Engineer Fast (Skills, Projects, Salary)]]></title>
-        <id>https://towardsdatascience.com/?p=608718</id>
-        <link href="https://towardsdatascience.com/how-to-become-an-ai-engineer-fast-skills-projects-salary/"/>
-        <updated>2026-03-29T16:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Spoiler, it will take longer than 3 months
-The post How to Become an AI Engineer Fast (Skills, Projects, Salary) appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Egor Howell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Claude Mythos”🧠, SaaS Funeral💀, From Execution to Judgment🎯]]></title>
-        <id>https://www.thevccorner.com/p/claude-mythos-saas-funeral-from-execution</id>
-        <link href="https://www.thevccorner.com/p/claude-mythos-saas-funeral-from-execution"/>
-        <updated>2026-03-29T14:26:57.000Z</updated>
-        <summary type="html"><![CDATA[Another week, another pulse check on tech]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
         </author>
     </entry>
 </feed>

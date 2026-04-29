@@ -1378,6 +1378,22 @@
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
         {
+          "id": "https://www.lennysnewsletter.com/p/your-couch-to-5k-for-ai",
+          "author": "Hilary Gridley",
+          "description": "A step-by-step guide to building an AI habit that sticks",
+          "link": "https://www.lennysnewsletter.com/p/your-couch-to-5k-for-ai",
+          "publishedOn": "2026-04-28T15:31:24.000Z",
+          "wordCount": null,
+          "title": "Your Couch-to-5K for AI",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!dU7r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5169166-0761-408f-83da-a55070a2c78d_1456x970.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!dU7r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5169166-0761-408f-83da-a55070a2c78d_1456x970.png"
+        },
+        {
           "id": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-gpt-55-claude",
           "author": "Lenny Rachitsky",
           "description": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
@@ -1840,22 +1856,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/1cfe2add-2cef-422a-ab94-f8f19d17a451_2048x2048.png"
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/how-to-turn-claude-code-into-your",
-          "author": "Claire Vo",
-          "description": "Watch now | 🎙️ How a new mom and entrepreneur uses Claude Code to automate life admin—all without complex setup",
-          "link": "https://www.lennysnewsletter.com/p/how-to-turn-claude-code-into-your",
-          "publishedOn": "2026-03-30T12:04:24.000Z",
-          "wordCount": null,
-          "title": "How to turn Claude Code into your personal life operating system | Hilary Gridley",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/192151845/16f07851bd4440c80e23da6841756f03.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -1864,6 +1864,22 @@
       "feedUrl": "https://www.thevccorner.com/feed",
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
+        {
+          "id": "https://www.thevccorner.com/p/yc-summer-2026-requests-for-startups-ideas",
+          "author": "Ruben Dominguez",
+          "description": "Y Combinator’s Summer 2026 Requests for Startups is the most direct signal the best startup accelerator in the world has ever sent founders. Here is what it actually means.",
+          "link": "https://www.thevccorner.com/p/yc-summer-2026-requests-for-startups-ideas",
+          "publishedOn": "2026-04-28T20:51:14.000Z",
+          "wordCount": null,
+          "title": "YC Just Told You What to Build. Here Are the Ideas Worth Stealing.",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/4989f6fc-28fa-4f65-a322-486cbd70cc4f_640x360.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/4989f6fc-28fa-4f65-a322-486cbd70cc4f_640x360.jpeg"
+        },
         {
           "id": "https://www.thevccorner.com/p/startup-growth-guide-2026",
           "author": "Ruben Dominguez",
@@ -2215,22 +2231,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/5a6e74af-b7a5-4001-9ee5-5d2ff5682822_800x415.gif"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/claude-mythos-saas-funeral-from-execution",
-          "author": "Ruben Dominguez",
-          "description": "Another week, another pulse check on tech",
-          "link": "https://www.thevccorner.com/p/claude-mythos-saas-funeral-from-execution",
-          "publishedOn": "2026-03-29T14:26:57.000Z",
-          "wordCount": null,
-          "title": "“Claude Mythos”🧠, SaaS Funeral💀, From Execution to Judgment🎯",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/8a104ba1-bcb8-400b-9aa5-f70ed92bf399_1280x720.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/8a104ba1-bcb8-400b-9aa5-f70ed92bf399_1280x720.png"
         }
       ]
     },
@@ -2239,6 +2239,46 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/nvidias-nemotron-3-nano-omni-gives-ai-agents-eyes-and-ears/",
+          "author": null,
+          "description": "NVIDIA’s Nemotron 3 Nano Omni is not just another multimodal model. It is a fast sensory layer for AI agent stacks, built to help sub-agents watch, listen, read, and reason over messy real-world inputs before handing work to larger systems.",
+          "link": "https://www.theneuron.ai/explainer-articles/nvidias-nemotron-3-nano-omni-gives-ai-agents-eyes-and-ears/",
+          "publishedOn": "2026-04-28T16:05:00.000Z",
+          "wordCount": null,
+          "title": "NVIDIA’s Nemotron 3 Nano Omni Gives AI Agents Eyes and Ears",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/newsletter/openai-is-trying-to-become-apple/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/openai-is-trying-to-become-apple/",
+          "publishedOn": "2026-04-28T10:00:18.354Z",
+          "wordCount": null,
+          "title": "😺 OpenAI is trying to become Apple",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/ai-skill-of-the-day-digest-april-2026-week-5-new-skills/",
+          "author": null,
+          "description": "Every AI Skill of the Day from April 20-30, with expanded context and copy-pastable prompts. From the Fable Prompt to running OpenAI Symphony on your Linear board.",
+          "link": "https://www.theneuron.ai/explainer-articles/ai-skill-of-the-day-digest-april-2026-week-5-new-skills/",
+          "publishedOn": "2026-04-28T03:58:01.688Z",
+          "wordCount": null,
+          "title": "AI Skill of the Day Digest: April 2026 (Week 5) New Skills",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-monday-april-27-2026/",
+          "author": null,
+          "description": "OpenAI and Microsoft amended their partnership (no more Azure exclusivity, no more revenue share to OpenAI), DeepMind's David Silver raised $1.1B to build \"superlearners,\" China blocked Meta's $2B Manus acquisition, Tesla quietly disclosed a $2B AI hardware deal, and 4TB of voice samples were stolen from 40,000 AI contractors at Mercor.",
+          "link": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-monday-april-27-2026/",
+          "publishedOn": "2026-04-28T01:29:19.842Z",
+          "wordCount": null,
+          "title": "Around the Horn Digest: Everything That Happened in AI Today (Monday, April 27, 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/explainer-articles/openais-rumored-phone-is-the-clearest-sign-yet-that-ai-agents-need-hardware/",
           "author": null,
@@ -2888,26 +2928,6 @@
           "wordCount": null,
           "title": "Agent Social Network Moltbook, an Undercover Lobster, and the Coming Weirdness of AI Agents",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/trace2skill-makes-a-strong-case-for-self-improving-agent-playbooks/",
-          "author": null,
-          "description": "Trace2Skill is one of the clearest signals yet that the next leap in AI agents may come from better operational playbooks, not just better base models. If that idea holds up, it could reshape how companies build and improve agent systems.",
-          "link": "https://www.theneuron.ai/explainer-articles/trace2skill-makes-a-strong-case-for-self-improving-agent-playbooks/",
-          "publishedOn": "2026-03-30T12:25:39.802Z",
-          "wordCount": null,
-          "title": "Trace2Skill Makes a Strong Case for Self-Improving Agent Playbooks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/anthropic-leaked-claude-mythos-cybersecurity-stocks-crashed/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/anthropic-leaked-claude-mythos-cybersecurity-stocks-crashed/",
-          "publishedOn": "2026-03-30T00:05:15.779Z",
-          "wordCount": null,
-          "title": "😺 Anthropic leaked Claude Mythos. Cybersecurity stocks crashed",
-          "imageUrl": null
         }
       ]
     },
@@ -2916,6 +2936,46 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=608966",
+          "author": "Mariya Mansurova",
+          "description": "Using autoresearch to optimise marketing campaigns under budget constraints\nThe post Let the AI Do the Experimenting appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/let-the-ai-do-the-experimenting/",
+          "publishedOn": "2026-04-28T16:30:00.000Z",
+          "wordCount": 5760,
+          "title": "Let the AI Do the Experimenting",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/b48ecd51-9bd6-4b15-965e-2854fe1a75f1.jpeg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608964",
+          "author": "Sara A. Metwalli",
+          "description": "What does correlation tells us?\nThe post Correlation Doesn’t Mean Causation! But What Does It Mean? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/correlation-doesnt-mean-causation-but-what-does-it-mean/",
+          "publishedOn": "2026-04-28T15:00:00.000Z",
+          "wordCount": 4215,
+          "title": "Correlation Doesn’t Mean Causation! But What Does It Mean?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/pexels-magda-ehlers-pexels-4184216-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608961",
+          "author": "Sayali Patil",
+          "description": "Blast-radius control tells you how much to break. Intent tells you what breaking it will teach. Only one of these has mature tooling.\nThe post The Next Frontier of AI in Production Is Chaos Engineering appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-next-frontier-of-ai-in-production-is-chaos-engineering/",
+          "publishedOn": "2026-04-28T13:30:00.000Z",
+          "wordCount": 6724,
+          "title": "The Next Frontier of AI in Production Is Chaos Engineering",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/growtika-nGoCBxiaRO0-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=608959",
+          "author": "Emmimal P Alexander",
+          "description": "NaNs don’t crash your training — they quietly destroy it.\nThe post PyTorch NaNs Are Silent Killers — So I Built a 3ms Hook to Catch Them at the Exact Layer appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/pytorch-nans-are-silent-killers-i-built-a-3ms-hook-to-catch-them-at-the-exact-layer/",
+          "publishedOn": "2026-04-28T12:00:00.000Z",
+          "wordCount": 5411,
+          "title": "PyTorch NaNs Are Silent Killers — So I Built a 3ms Hook to Catch Them at the Exact Layer",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/PyTorch-NaNs-Are-Silent-Killers.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=608949",
           "author": "TDS Editors",
@@ -3920,36 +3980,6 @@
           "wordCount": 5317,
           "title": "How to Lie with Statistics with your Robot Best Friend",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/image-310-1024x683-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608698",
-          "author": "TDS Editors",
-          "description": "Sara A. Metwalli on the rise of a promising new technology, the effects of LLM on her work, and more.\nThe post Why Data Scientists Should Care About Quantum Computing appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/why-data-scientists-should-care-about-quantum-computing/",
-          "publishedOn": "2026-03-30T12:00:00.000Z",
-          "wordCount": 4147,
-          "title": "Why Data Scientists Should Care About Quantum Computing",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/Copy-of-Author-Spotlight-29.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608709",
-          "author": "Emmimal P Alexander",
-          "description": "SHAP needs 30 ms to explain a fraud prediction. That explanation is stochastic, runs after the decision, and requires a background dataset you have to maintain at inference time. This article benchmarks a neuro-symbolic model that produces a deterministic, human-readable explanation in 0.9 ms — as a by-product of the forward pass itself — on the Kaggle Credit Card Fraud dataset. The speedup is 33×. The fraud recall is identical.\nThe post Explainable AI in Production: A Neuro-Symbolic Model for Real-Time Fraud Detection appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/explainable-ai-in-production-a-neuro-symbolic-model-for-real-time-fraud-detection/",
-          "publishedOn": "2026-03-30T10:47:00.000Z",
-          "wordCount": 6420,
-          "title": "Explainable AI in Production: A Neuro-Symbolic Model for Real-Time Fraud Detection",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/SHAP-Vs-Neuro-symbolic.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608718",
-          "author": "Egor Howell",
-          "description": "Spoiler, it will take longer than 3 months\nThe post How to Become an AI Engineer Fast (Skills, Projects, Salary) appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-become-an-ai-engineer-fast-skills-projects-salary/",
-          "publishedOn": "2026-03-29T16:15:00.000Z",
-          "wordCount": 5364,
-          "title": "How to Become an AI Engineer Fast (Skills, Projects, Salary)",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/03/Egor-Aug-Thumbnail-2.jpg"
         }
       ]
     },
@@ -3964,6 +3994,46 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/ec14be648d65",
+          "author": "Dora Czerna",
+          "description": "",
+          "link": "https://uxdesign.cc/what-is-ai-really-costing-the-planet-ec14be648d65?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-04-28T21:59:12.000Z",
+          "wordCount": null,
+          "title": "What is AI really costing the planet?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a9fc721a685a",
+          "author": "Pedro A. Brêtas",
+          "description": "",
+          "link": "https://uxdesign.cc/the-most-dangerous-pronoun-in-design-a9fc721a685a?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-04-28T21:59:10.000Z",
+          "wordCount": null,
+          "title": "The most dangerous pronoun in design",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/974d7bc14f06",
+          "author": "Kai Wong",
+          "description": "I rewrote portfolios for 7 Staff/Principal designers. Here’s what I learned\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/staff-designers-arent-about-shipping-the-best-work-that-s-the-point-974d7bc14f06?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-04-28T11:34:55.000Z",
+          "wordCount": null,
+          "title": "Staff designers aren’t about shipping the best work. That’s the point.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4d3d0c3ea525",
+          "author": "Adi Leviim",
+          "description": "",
+          "link": "https://uxdesign.cc/the-forgotten-conversation-problem-in-ai-chat-4d3d0c3ea525?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-04-28T11:34:24.000Z",
+          "wordCount": null,
+          "title": "The forgotten conversation problem in AI chat",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/c5db6b1367bf",
           "author": "Fabricio Teixeira",
@@ -4612,46 +4682,6 @@
           "publishedOn": "2026-03-31T22:34:19.000Z",
           "wordCount": null,
           "title": "Designers finally have a say in the product they design.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9e049fc0a612",
-          "author": "Christine Vallaure",
-          "description": "",
-          "link": "https://uxdesign.cc/a-human-approach-to-agentic-ai-one-person-one-text-file-five-agents-9e049fc0a612?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-03-30T11:13:15.000Z",
-          "wordCount": null,
-          "title": "A human approach to Agentic AI. One person. One text file. Five agents.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/e5ea71a15bad",
-          "author": "Fabricio Teixeira",
-          "description": "",
-          "link": "https://uxdesign.cc/design-engineers-ux-designs-demise-forget-your-lovable-products-e5ea71a15bad?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-03-30T08:38:13.000Z",
-          "wordCount": null,
-          "title": "Design engineers, UX Design’s demise, forget your “lovable” products",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9211053bbadd",
-          "author": "Peter (Zak) Zakrzewski",
-          "description": "",
-          "link": "https://uxdesign.cc/the-ground-is-shaking-why-designers-must-flip-the-script-on-ai-9211053bbadd?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-03-30T08:16:28.000Z",
-          "wordCount": null,
-          "title": "The ground is shaking: Why designers must flip the script on AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/e51cc1570847",
-          "author": "Neel Dozome",
-          "description": "Antitrust regulation, the birth of “Silicon Valley” and approaching the limits of Moore’s law\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/the-long-and-short-of-telephone-progress-e51cc1570847?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-03-29T16:26:21.000Z",
-          "wordCount": null,
-          "title": "The long and short of telephone progress",
           "imageUrl": null
         }
       ]
