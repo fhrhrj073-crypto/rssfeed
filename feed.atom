@@ -2,10 +2,160 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-04-30T01:27:31.882Z</updated>
+    <updated>2026-05-01T01:30:47.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A GenAI perplexed by color theory]]></title>
+        <id>https://medium.com/p/5416cbd3ef10</id>
+        <link href="https://uxdesign.cc/a-genai-perplexed-by-color-theory-5416cbd3ef10?source=rss----138adf9c44c---4"/>
+        <updated>2026-04-30T22:08:49.000Z</updated>
+        <summary type="html"><![CDATA[Using Perplexity to build an accessible perceptual uniform triad.
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Theresa-Marie Rhyne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Most developers are using AI wrong… this is the better way.]]></title>
+        <id>https://www.youtube.com/shorts/KOHgqBfN-gA</id>
+        <link href="https://www.youtube.com/shorts/KOHgqBfN-gA"/>
+        <updated>2026-04-30T21:29:35.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT 5.5 Codex is the greatest AI coding tool ever. Here's how to use it]]></title>
+        <id>https://www.youtube.com/watch?v=iz3_xhi6iQE</id>
+        <link href="https://www.youtube.com/watch?v=iz3_xhi6iQE"/>
+        <updated>2026-04-30T17:54:13.000Z</updated>
+        <author>
+            <name>Alex Finn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Gentle Introduction to Stochastic Programming]]></title>
+        <id>https://towardsdatascience.com/?p=608985</id>
+        <link href="https://towardsdatascience.com/a-gentle-introduction-to-stochastic-programming/"/>
+        <updated>2026-04-30T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[How to make decisions when your spreadsheet is lying about the future
+The post A Gentle Introduction to Stochastic Programming appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Berend Markhorst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proxy-Pointer RAG: Multimodal Answers Without Multimodal Embeddings]]></title>
+        <id>https://towardsdatascience.com/?p=608982</id>
+        <link href="https://towardsdatascience.com/proxy-pointer-rag-multimodal-answers-without-multimodal-embeddings/"/>
+        <updated>2026-04-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Structure is all you need
+The post Proxy-Pointer RAG: Multimodal Answers Without Multimodal Embeddings appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Partha Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pulse: token spend breaks budgets – what next?]]></title>
+        <id>69f36c81ac26b70001aa306d</id>
+        <link href="https://blog.pragmaticengineer.com/the-pulse-token-spend-breaks-budgets-what-next/"/>
+        <updated>2026-04-30T14:52:36.000Z</updated>
+        <summary type="html"><![CDATA[In the past 2-3 months, spending on AI agents has exploded at many tech companies, Details from 15 of them, including the different ways they are coping with this realization.]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The State of Software Engineering in 2026]]></title>
+        <id>https://www.youtube.com/watch?v=WOPIoZuD1og</id>
+        <link href="https://www.youtube.com/watch?v=WOPIoZuD1og"/>
+        <updated>2026-04-30T14:08:21.000Z</updated>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Study the Monotonicity and Stability of Variables in a Scoring Model using Python]]></title>
+        <id>https://towardsdatascience.com/?p=608980</id>
+        <link href="https://towardsdatascience.com/how-to-study-the-monotonicity-and-stability-of-variables-in-a-scoring-model-using-python/"/>
+        <updated>2026-04-30T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[How can you validate that your variables tell a consistent risk?
+The post How to Study the Monotonicity and Stability of Variables in a Scoring Model using Python appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>JUNIOR JUMBONG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Codex, Goblins, and the Strange New Science of AI Personality Drift]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/codex-goblins-strange-science-of-ai-personality-drift/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/codex-goblins-strange-science-of-ai-personality-drift/"/>
+        <updated>2026-04-30T13:03:05.152Z</updated>
+        <summary type="html"><![CDATA[OpenAI’s Codex goblin saga is funny on the surface, but the real story is about reward signals, personality drift, and the new work of making AI agents more reliable.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code Hostinger Tutorial: How to Install Claude Code on a Hostinger VPS]]></title>
+        <id>https://www.youtube.com/watch?v=FBRCqVvEw74</id>
+        <link href="https://www.youtube.com/watch?v=FBRCqVvEw74"/>
+        <updated>2026-04-30T12:00:35.000Z</updated>
+        <author>
+            <name>Metics Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why AI Engineers Are Moving Beyond LangChain to Native Agent Architectures]]></title>
+        <id>https://towardsdatascience.com/?p=608978</id>
+        <link href="https://towardsdatascience.com/why-ai-engineers-are-moving-beyond-langchain-to-native-agent-architectures/"/>
+        <updated>2026-04-30T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Frameworks accelerated the first wave of LLM apps, but production demands a different architecture.
+The post Why AI Engineers Are Moving Beyond LangChain to Native Agent Architectures appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Benjamin Nweke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 Google ran out of cloud]]></title>
+        <id>https://www.theneuron.ai/newsletter/google-ran-out-of-cloud/</id>
+        <link href="https://www.theneuron.ai/newsletter/google-ran-out-of-cloud/"/>
+        <updated>2026-04-30T10:00:47.530Z</updated>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SOGA MEGA PRO 廚餘機動手用：5公升大容量＋醫療級濾芯，告別廚房菜渣廚餘惡臭！]]></title>
+        <id>https://www.youtube.com/watch?v=zZjQ8Arso-0</id>
+        <link href="https://www.youtube.com/watch?v=zZjQ8Arso-0"/>
+        <updated>2026-04-30T08:41:24.000Z</updated>
+        <author>
+            <name>電腦王阿達</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big Tech just spent $130B on AI in Q1; Google literally ran out of capacity]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/big-tech-just-spent-130b-on-ai-in-q1-google-literally-ran-out-of-capacity/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/big-tech-just-spent-130b-on-ai-in-q1-google-literally-ran-out-of-capacity/"/>
+        <updated>2026-04-30T05:26:00.207Z</updated>
+        <summary type="html"><![CDATA[Microsoft, Google, Meta, and Amazon all reported Q1 2026 earnings on the same day. AI was the only story that mattered, and three of the four said they cannot build infrastructure fast enough to keep up with demand.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Around the Horn Digest: Everything That Happened in AI Today (Wednesday, April 29, 2026)]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-wednesday-april-29-2026/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-wednesday-april-29-2026/"/>
+        <updated>2026-04-30T05:03:37.859Z</updated>
+        <summary type="html"><![CDATA[Trump scrambles to walk back his Anthropic Pentagon ban, Claude Mythos found 271 zero-days in Firefox, Mayo Clinic's AI spotted pancreatic cancer 475 days early, and seven families sued OpenAI over the Tumbler Ridge shooting.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[China just won the AI race and nobody noticed]]></title>
         <id>https://www.youtube.com/watch?v=epzzALZ8oYo</id>
@@ -5173,176 +5323,6 @@ The post The Inversion Error: Why Safe AGI Requires an Enactive Floor and State-
         <summary type="html"><![CDATA[An audio edition of Lenny's Newsletter post (powered by AI)]]></summary>
         <author>
             <name>Lenny Rachitsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Just Replaced Lovable With This New AI Tool...]]></title>
-        <id>https://www.youtube.com/watch?v=h7h-ShDI3-Y</id>
-        <link href="https://www.youtube.com/watch?v=h7h-ShDI3-Y"/>
-        <updated>2026-04-01T13:00:46.000Z</updated>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Can A Model 10,000× Smaller Outsmart ChatGPT?]]></title>
-        <id>https://towardsdatascience.com/?p=608731</id>
-        <link href="https://towardsdatascience.com/how-can-a-model-10000x-smaller-outsmart-chatgpt-2/"/>
-        <updated>2026-04-01T12:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Why thinking longer can matter more than being bigger
-The post How Can A Model 10,000× Smaller Outsmart ChatGPT? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Moulik Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is the MOST valuable skill...]]></title>
-        <id>https://www.youtube.com/shorts/sdUczngP-7I</id>
-        <link href="https://www.youtube.com/shorts/sdUczngP-7I"/>
-        <updated>2026-04-01T12:23:11.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Happens Now That AI is the First Analyst On Your Team?]]></title>
-        <id>https://towardsdatascience.com/?p=608729</id>
-        <link href="https://towardsdatascience.com/what-happens-now-that-ai-is-the-first-analyst-on-your-team/"/>
-        <updated>2026-04-01T10:36:00.000Z</updated>
-        <summary type="html"><![CDATA[How I am adapting in my career in the age of AI, automation, and when everything moving faster than expected.
-The post What Happens Now That AI is the First Analyst On Your Team? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Rashi Desai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking design awards in an AI world]]></title>
-        <id>https://medium.com/p/c0084bc93ec8</id>
-        <link href="https://uxdesign.cc/rethinking-design-awards-in-an-ai-world-c0084bc93ec8?source=rss----138adf9c44c---4"/>
-        <updated>2026-04-01T07:35:40.000Z</updated>
-        <summary type="html"><![CDATA[Why design awards are still relevant and what needs to change
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Darren Yeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Around the Horn Digest: Everything That Happened in AI Today (Monday, March 31, 2026)]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-monday-march-31-2026/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-monday-march-31-2026/"/>
-        <updated>2026-04-01T04:59:03.403Z</updated>
-        <summary type="html"><![CDATA[Anthropic accidentally leaked Claude Code's entire source code, OpenAI closed a $122B round at an $852B valuation, axios got hacked, NVIDIA shipped DLSS 4.5, and Oracle cut thousands of jobs.]]></summary>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code was just leaked... (WOAH)]]></title>
-        <id>https://www.youtube.com/watch?v=dYG8JxtSgmM</id>
-        <link href="https://www.youtube.com/watch?v=dYG8JxtSgmM"/>
-        <updated>2026-04-01T01:20:40.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agentic AI, design systems & Figma: a practical guide]]></title>
-        <id>https://medium.com/p/6ab0b681718d</id>
-        <link href="https://uxdesign.cc/agentic-ai-design-systems-figma-a-practical-guide-6ab0b681718d?source=rss----138adf9c44c---4"/>
-        <updated>2026-03-31T22:39:40.000Z</updated>
-        <author>
-            <name>Christine Vallaure</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek and Grok cloud dancing data color schemes]]></title>
-        <id>https://medium.com/p/56de4473f2e7</id>
-        <link href="https://uxdesign.cc/deepseek-and-grok-cloud-dancing-data-color-schemes-56de4473f2e7?source=rss----138adf9c44c---4"/>
-        <updated>2026-03-31T22:37:18.000Z</updated>
-        <summary type="html"><![CDATA[Data Visualization Studies with the 2026 Pantone Color of the Year.
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Theresa-Marie Rhyne</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Dispatch and the Power of Interfaces]]></title>
-        <id>https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of</id>
-        <link href="https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of"/>
-        <updated>2026-03-31T22:34:37.000Z</updated>
-        <summary type="html"><![CDATA[We often lack the tools for the job, even if the AI is capable enough]]></summary>
-        <author>
-            <name>Ethan Mollick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designers finally have a say in the product they design.]]></title>
-        <id>https://medium.com/p/396c999e1227</id>
-        <link href="https://uxdesign.cc/designers-finally-have-a-say-in-the-product-they-design-396c999e1227?source=rss----138adf9c44c---4"/>
-        <updated>2026-03-31T22:34:19.000Z</updated>
-        <author>
-            <name>Daniel Mitev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MASSIVE CLAUDE CODE LEAK! THIS CHANGES EVERYTHING!]]></title>
-        <id>https://www.youtube.com/watch?v=FRjmzUGEpHo</id>
-        <link href="https://www.youtube.com/watch?v=FRjmzUGEpHo"/>
-        <updated>2026-03-31T19:32:23.000Z</updated>
-        <author>
-            <name>Alex Finn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One on One with Marc Benioff]]></title>
-        <id>https://www.youtube.com/watch?v=TMbGHKcuxPk</id>
-        <link href="https://www.youtube.com/watch?v=TMbGHKcuxPk"/>
-        <updated>2026-03-31T17:58:12.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Leaks Claude Code, a Literal Blueprint for AI Coding Agents]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/anthropic-leaks-claude-code-a-literal-blueprint-for-ai-coding-agents/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/anthropic-leaks-claude-code-a-literal-blueprint-for-ai-coding-agents/"/>
-        <updated>2026-03-31T17:33:51.621Z</updated>
-        <summary type="html"><![CDATA[Anthropic’s apparent Claude Code leak looks embarrassing on the surface, but the bigger story is what it exposed: the architecture of a modern AI coding agent. From memory design to permissions and multi-agent orchestration, the leak offers a rare blueprint for how these systems are actually built.]]></summary>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Map of Meaning: How Embedding Models “Understand” Human Language]]></title>
-        <id>https://towardsdatascience.com/?p=608727</id>
-        <link href="https://towardsdatascience.com/the-map-of-meaning-how-embedding-models-understand-human-language/"/>
-        <updated>2026-03-31T17:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn why embedding models are like a GPS for meaning. Instead of searching for exact words, it navigates a "Map of Ideas" to find concepts that share the same vibe. From battery types to soda flavors, learn how to fine-tune these digital fingerprints for pinpoint accuracy in your next AI project.
-The post The Map of Meaning: How Embedding Models “Understand” Human Language appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Gustavo Santos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make Claude Code Better at One-Shotting Implementations]]></title>
-        <id>https://towardsdatascience.com/?p=608725</id>
-        <link href="https://towardsdatascience.com/how-to-make-claude-code-better-at-one-shotting-implementations/"/>
-        <updated>2026-03-31T15:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Make your coding agent more efficient
-The post How to Make Claude Code Better at One-Shotting Implementations appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Eivind Kjosbakken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Your Startup Actually Worth? Most Founders Find Out Too Late]]></title>
-        <id>https://www.thevccorner.com/p/founder-valuation-studio-startup-valuation-tool-2026</id>
-        <link href="https://www.thevccorner.com/p/founder-valuation-studio-startup-valuation-tool-2026"/>
-        <updated>2026-03-31T15:43:49.000Z</updated>
-        <summary type="html"><![CDATA[A four-method valuation framework built for founders who want a defensible number before they walk into a partner meeting.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
         </author>
     </entry>
 </feed>
