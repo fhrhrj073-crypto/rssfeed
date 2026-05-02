@@ -2,10 +2,147 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-05-01T01:30:47.419Z</updated>
+    <updated>2026-05-02T01:21:36.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GPT 5.5 Just Dropped and It's a Different Kind of Upgrade]]></title>
+        <id>https://www.youtube.com/shorts/lZMXlUcTnNM</id>
+        <link href="https://www.youtube.com/shorts/lZMXlUcTnNM"/>
+        <updated>2026-05-01T21:19:28.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIVE: OpenClaw vs Hermes Agent: The ultimate showdown]]></title>
+        <id>https://www.youtube.com/watch?v=UCPE3wPAcho</id>
+        <link href="https://www.youtube.com/watch?v=UCPE3wPAcho"/>
+        <updated>2026-05-01T20:48:54.000Z</updated>
+        <author>
+            <name>Alex Finn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reacting to "Why AI is so smart but also so dumb?"]]></title>
+        <id>https://www.youtube.com/watch?v=pngC-TH8M0U</id>
+        <link href="https://www.youtube.com/watch?v=pngC-TH8M0U"/>
+        <updated>2026-05-01T20:13:03.000Z</updated>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Baiting AI [LIVE]]]></title>
+        <id>https://www.youtube.com/watch?v=IX9Qd8xb8xY</id>
+        <link href="https://www.youtube.com/watch?v=IX9Qd8xb8xY"/>
+        <updated>2026-05-01T19:46:18.000Z</updated>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sam Altman's 10 Rules for the AI Era]]></title>
+        <id>https://www.thevccorner.com/p/sam-altmans-10-rules-for-the-ai-era</id>
+        <link href="https://www.thevccorner.com/p/sam-altmans-10-rules-for-the-ai-era"/>
+        <updated>2026-05-01T19:38:46.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI is signing 20-year infrastructure contracts while most founders are still debating whether to use AI at all.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Hired in the AI Era]]></title>
+        <id>https://towardsdatascience.com/?p=608994</id>
+        <link href="https://towardsdatascience.com/how-to-get-hired-in-the-ai-era/"/>
+        <updated>2026-05-01T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[What people actually look for when hiring juniors that stand out.
+The post How to Get Hired in the AI Era appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ivo Bernardo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Churn Without Fragmentation: How a Party-Label Bug Reversed My Headline Finding]]></title>
+        <id>https://towardsdatascience.com/?p=608992</id>
+        <link href="https://towardsdatascience.com/fractured-local-britain-voter-volatility-in-english-councils-2018-2022/"/>
+        <updated>2026-05-01T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A data quality case study from English local elections on categorical normalisation, metric validation, and why raw labels should never define analytical groups.
+The post Churn Without Fragmentation: How a Party-Label Bug Reversed My Headline Finding appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Obinna Iheanachor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I reviewed 20 AI engineering courses, here are my top 5]]></title>
+        <id>https://www.youtube.com/watch?v=HFmoNVx6vTA</id>
+        <link href="https://www.youtube.com/watch?v=HFmoNVx6vTA"/>
+        <updated>2026-05-01T14:00:34.000Z</updated>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ghost: A Database for Our Times?]]></title>
+        <id>https://towardsdatascience.com/?p=608989</id>
+        <link href="https://towardsdatascience.com/ghost-a-database-for-our-times/"/>
+        <updated>2026-05-01T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The first database built for AI Agents
+The post Ghost: A Database for Our Times? appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Thomas Reid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Powerful Machine Learning Is Deceptively Easy]]></title>
+        <id>https://towardsdatascience.com/?p=608987</id>
+        <link href="https://towardsdatascience.com/why-powerful-ml-is-deceptively-easy/"/>
+        <updated>2026-05-01T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Or why what appears powerful can be methodologically fragile
+The post Why Powerful Machine Learning Is Deceptively Easy appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Erika Gomes-Gonçalves</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Usability, accessibility, and the human-AI paradigm]]></title>
+        <id>https://medium.com/p/6ffda2806b56</id>
+        <link href="https://uxdesign.cc/usability-accessibility-and-the-human-ai-paradigm-6ffda2806b56?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-01T11:19:38.000Z</updated>
+        <author>
+            <name>Zeeshan Khalid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thoughtful AI Implementation for UXR Leaders]]></title>
+        <id>https://medium.com/p/d0e1b8a33613</id>
+        <link href="https://uxdesign.cc/ai-uxr-implementation-d0e1b8a33613?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-01T11:19:22.000Z</updated>
+        <author>
+            <name>Ashlee Edwards, Ph.D.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🙀 The 4-tool agent quietly powering OpenClaw]]></title>
+        <id>https://www.theneuron.ai/newsletter/the-4-tool-agent-quietly-powering-openclaw/</id>
+        <link href="https://www.theneuron.ai/newsletter/the-4-tool-agent-quietly-powering-openclaw/"/>
+        <updated>2026-05-01T10:01:38.292Z</updated>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Around the Horn Digest: Everything That Happened in AI Today (Thursday, April 30, 2026)]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-thursday-april-30-2026/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-thursday-april-30-2026/"/>
+        <updated>2026-05-01T05:15:56.382Z</updated>
+        <summary type="html"><![CDATA[Musk vs Altman's First Week in Court, OpenAI published a research paper about goblins, the NSA is testing Anthropic's Mythos on Microsoft software, Anthropic is reportedly raising at $900B, and OpenAI hit a 10-gigawatt capacity milestone years early.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A GenAI perplexed by color theory]]></title>
         <id>https://medium.com/p/5416cbd3ef10</id>
@@ -335,6 +472,16 @@ Continue reading on Generative AI »]]></summary>
 Continue reading on Generative AI »]]></summary>
         <author>
             <name>Ahmed M. Abdelfattah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Around the Horn Digest: Everything That Happened in AI Today (Tuesday, April 28, 2026)]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-tuesday-april-28-2026/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-tuesday-april-28-2026/"/>
+        <updated>2026-04-29T01:26:12.276Z</updated>
+        <summary type="html"><![CDATA[Anthropic crossed $1 trillion and launched Claude for Creative Work with Adobe, Blender, and Ableton; OpenAI missed revenue, opened on AWS, and watched Musk's lawyer accuse them of stealing a charity in federal court.]]></summary>
+        <author>
+            <name>TheNeuron</name>
         </author>
     </entry>
     <entry>
@@ -5164,165 +5311,6 @@ The post Linear Regression Is Actually a Projection Problem (Part 2: From Projec
 The post How to Handle Classical Data in Quantum Models appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Sara A. Metwalli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An AI state of the union: We’ve passed the inflection point, dark factories are coming, and automation timelines | Simon Willison]]></title>
-        <id>https://www.lennysnewsletter.com/p/an-ai-state-of-the-union</id>
-        <link href="https://www.lennysnewsletter.com/p/an-ai-state-of-the-union"/>
-        <updated>2026-04-02T12:32:28.000Z</updated>
-        <summary type="html"><![CDATA[Listen now | Simon Willison on why November 2025 changed software engineering forever, the lethal trifecta, his top agentic engineering patterns, and much more]]></summary>
-        <author>
-            <name>Lenny Rachitsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenClaw 不用自己 Setup？由零開始實測，用 MyClaw.ai 1分鐘開工＋網絡爬蟲實戰｜廣東話手把手教學]]></title>
-        <id>https://www.youtube.com/shorts/B6YZ5mU09_k</id>
-        <link href="https://www.youtube.com/shorts/B6YZ5mU09_k"/>
-        <updated>2026-04-02T11:30:14.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Dr. Jackei 科技生活日誌</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum Simulations with Python]]></title>
-        <id>https://towardsdatascience.com/?p=608738</id>
-        <link href="https://towardsdatascience.com/quantum-simulations-with-python/"/>
-        <updated>2026-04-02T10:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Run Quantum Experiments with Qiskit-Aer
-The post Quantum Simulations with Python appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Mauro Di Pietro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Someone Poisoned npm’s Most Popular HTTP Library. It Took Three Hours to Notice.]]></title>
-        <id>https://medium.com/p/e1382dcd808c</id>
-        <link href="https://generativeai.pub/someone-poisoned-npms-most-popular-http-library-it-took-three-hours-to-notice-e1382dcd808c?source=rss----440100e76000---4"/>
-        <updated>2026-04-02T10:01:56.000Z</updated>
-        <author>
-            <name>ali</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Talked to 500GB of Retail Data With Zero Domain Knowledge. AI Designed a Strategy I never expected]]></title>
-        <id>https://medium.com/p/11e97b37ad04</id>
-        <link href="https://generativeai.pub/i-talked-to-500gb-of-retail-data-with-zero-domain-knowledge-ai-designed-a-strategy-i-never-expected-11e97b37ad04?source=rss----440100e76000---4"/>
-        <updated>2026-04-02T10:01:45.000Z</updated>
-        <author>
-            <name>@null_author</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Paid for Claude Max 5x as a Normal User So You Don’t Have To. Or Do You?]]></title>
-        <id>https://medium.com/p/a9ed5046f316</id>
-        <link href="https://generativeai.pub/i-paid-for-claude-max-5x-as-a-normal-user-so-you-dont-have-to-or-do-you-a9ed5046f316?source=rss----440100e76000---4"/>
-        <updated>2026-04-02T10:01:43.000Z</updated>
-        <summary type="html"><![CDATA[Spoiler: I stopped hitting limits. And I didn’t expect that to matter as much as it did.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>hejrene | Rene</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can We Talk About AI Without Tearing Authors Apart?]]></title>
-        <id>https://medium.com/p/8101bcd1b9e8</id>
-        <link href="https://generativeai.pub/can-we-talk-about-ai-without-tearing-authors-apart-8101bcd1b9e8?source=rss----440100e76000---4"/>
-        <updated>2026-04-02T09:49:58.000Z</updated>
-        <summary type="html"><![CDATA[The fine line between accountability and online mob mentality
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Regina Paul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😼 OpenAI's President Just Told You Exactly What the Company is Betting Everything On]]></title>
-        <id>https://www.theneuron.ai/newsletter/openai-s-president-just-told-you-exactly-what-the-company-is-betting-everything-on/</id>
-        <link href="https://www.theneuron.ai/newsletter/openai-s-president-just-told-you-exactly-what-the-company-is-betting-everything-on/"/>
-        <updated>2026-04-02T08:30:13.394Z</updated>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Around the Horn Digest: Everything That Happened in AI Today (Wednesday, April 1, 2026)]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/-around-the-horn-digest-everything-that-happened-in-ai-today-wednesday-april-1-2026/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/-around-the-horn-digest-everything-that-happened-in-ai-today-wednesday-april-1-2026/"/>
-        <updated>2026-04-02T00:26:35.635Z</updated>
-        <summary type="html"><![CDATA[OpenAI closed a record $122B round at an $852B valuation while investors fled to Anthropic on the secondary market, Oracle fired ~25,000 people to fund AI data centers, Anthropic raced to contain a massive Claude Code source leak, Q1 2026 venture funding hit $297B (an all-time record), and a Science study proved sycophantic AI is making users worse.]]></summary>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Every designer on my team ships the same quality now]]></title>
-        <id>https://medium.com/p/e6fbc0c4feec</id>
-        <link href="https://uxdesign.cc/every-designer-on-my-team-ships-the-same-quality-now-e6fbc0c4feec?source=rss----138adf9c44c---4"/>
-        <updated>2026-04-01T22:18:29.000Z</updated>
-        <summary type="html"><![CDATA[That’s the problem. The skills you dismissed just became the most expensive ones on your team.
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Hoang Nguyen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI is rewriting the rules. Language is following.]]></title>
-        <id>https://medium.com/p/b811a1a91ced</id>
-        <link href="https://uxdesign.cc/ai-is-rewriting-the-rules-language-is-following-b811a1a91ced?source=rss----138adf9c44c---4"/>
-        <updated>2026-04-01T22:18:29.000Z</updated>
-        <author>
-            <name>Dora Czerna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Human-Centred Design has grown up. It’s time we did too.]]></title>
-        <id>https://medium.com/p/766601c1fc7d</id>
-        <link href="https://uxdesign.cc/human-centred-design-has-grown-up-it-is-time-we-did-too-766601c1fc7d?source=rss----138adf9c44c---4"/>
-        <updated>2026-04-01T22:17:59.000Z</updated>
-        <author>
-            <name>Patrizia Bertini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIVE: MASSIVE Claude Code leak fallout. + Hermes agent workflows]]></title>
-        <id>https://www.youtube.com/watch?v=Lp9CVrKFZe8</id>
-        <link href="https://www.youtube.com/watch?v=Lp9CVrKFZe8"/>
-        <updated>2026-04-01T20:28:53.000Z</updated>
-        <author>
-            <name>Alex Finn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 20 Best Subreddits for Startup Founders to Learn, Grow and Connect]]></title>
-        <id>https://www.thevccorner.com/p/20-best-subreddits-for-startup-founders-2026</id>
-        <link href="https://www.thevccorner.com/p/20-best-subreddits-for-startup-founders-2026"/>
-        <updated>2026-04-01T18:06:24.000Z</updated>
-        <summary type="html"><![CDATA[From idea validation to scaling and funding, here are the best Reddit founder communities to help you build smarter in 2026.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Inversion Error: Why Safe AGI Requires an Enactive Floor and State-Space Reversibility]]></title>
-        <id>https://towardsdatascience.com/?p=608735</id>
-        <link href="https://towardsdatascience.com/the-inversion-error-why-safe-agi-requires-an-enactive-floor-and-state-space-reversibility/"/>
-        <updated>2026-04-01T15:14:00.000Z</updated>
-        <summary type="html"><![CDATA[A systems design diagnosis of hallucination, corrigibility, and the structural gap that scaling cannot close
-The post The Inversion Error: Why Safe AGI Requires an Enactive Floor and State-Space Reversibility appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Peter Zakrzewski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Listen: OpenClaw: A power-user's guide to the most powerful personal AI tool since ChatGPT]]></title>
-        <id>https://www.lennysnewsletter.com/p/listen-openclaw-a-power-users-guide</id>
-        <link href="https://www.lennysnewsletter.com/p/listen-openclaw-a-power-users-guide"/>
-        <updated>2026-04-01T14:11:12.000Z</updated>
-        <summary type="html"><![CDATA[An audio edition of Lenny's Newsletter post (powered by AI)]]></summary>
-        <author>
-            <name>Lenny Rachitsky</name>
         </author>
     </entry>
 </feed>
