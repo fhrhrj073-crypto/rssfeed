@@ -2,10 +2,108 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-05-03T01:25:12.616Z</updated>
+    <updated>2026-05-04T01:24:01.200Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Startup Growth Guide🔁, YC RFS💡, The Year of Churn💀]]></title>
+        <id>https://www.thevccorner.com/p/startup-growth-guide-yc-rfs-the-year</id>
+        <link href="https://www.thevccorner.com/p/startup-growth-guide-yc-rfs-the-year"/>
+        <updated>2026-05-03T19:25:49.000Z</updated>
+        <summary type="html"><![CDATA[Another week, another pulse check on Tech.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next MOST IMPORTANT App Ever]]></title>
+        <id>https://www.youtube.com/shorts/Co6Z0K6-aI0</id>
+        <link href="https://www.youtube.com/shorts/Co6Z0K6-aI0"/>
+        <updated>2026-05-03T18:21:01.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code + Nano Banana 2 = This Changes Everything]]></title>
+        <id>https://www.youtube.com/watch?v=seTDT8Rxryc</id>
+        <link href="https://www.youtube.com/watch?v=seTDT8Rxryc"/>
+        <updated>2026-05-03T18:18:44.000Z</updated>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 What gets scarce when AI does everything?]]></title>
+        <id>https://www.theneuron.ai/newsletter/what-gets-scarce-when-ai-does-everything/</id>
+        <link href="https://www.theneuron.ai/newsletter/what-gets-scarce-when-ai-does-everything/"/>
+        <updated>2026-05-03T17:31:09.338Z</updated>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When AI Takes Over the Economy, Who Owns the Human Element?]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/when-ai-takes-over-the-economy-who-owns-the-human-element/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/when-ai-takes-over-the-economy-who-owns-the-human-element/"/>
+        <updated>2026-05-03T16:38:47.211Z</updated>
+        <summary type="html"><![CDATA[Alex Imas thinks the AI economy will look like the Industrial Revolution in reverse. The history says he's probably right. The harder question is who keeps the money.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSPNet Paper Walkthrough: Just Better, No Tradeoffs]]></title>
+        <id>https://towardsdatascience.com/?p=609005</id>
+        <link href="https://towardsdatascience.com/cspnet-paper-walkthrough-just-better-no-tradeoff/"/>
+        <updated>2026-05-03T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A review of the Cross-Stage Partial Network paper  —  and a from-scratch PyTorch implementation
+The post CSPNet Paper Walkthrough: Just Better, No Tradeoffs appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Muhammad Ardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inference Scaling (Test-Time Compute): Why Reasoning Models Raise Your Compute Bill]]></title>
+        <id>https://towardsdatascience.com/?p=609003</id>
+        <link href="https://towardsdatascience.com/inference-scaling-test-time-compute-why-reasoning-models-raise-your-compute-bill/"/>
+        <updated>2026-05-03T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why reasoning models dramatically increase token usage, latency, and infrastructure costs in production systems
+The post Inference Scaling (Test-Time Compute): Why Reasoning Models Raise Your Compute Bill appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Mostafa Ibrahim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why cultivating agency matters more than cultivating skills in the AI era | Max Schoening (Head of Product, Notion)]]></title>
+        <id>https://www.lennysnewsletter.com/p/why-cultivating-agency-matters-more</id>
+        <link href="https://www.lennysnewsletter.com/p/why-cultivating-agency-matters-more"/>
+        <updated>2026-05-03T12:30:59.000Z</updated>
+        <summary type="html"><![CDATA[Notion’s design and product lead on why agency beats skills in the AI era, why vibe coding made more software but not better software, and how Notion ships with “drive it like it’s stolen”]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don’t simply bolt on AI. Rethink from the ground up.]]></title>
+        <id>https://medium.com/p/ae73a9093cd2</id>
+        <link href="https://uxdesign.cc/dont-simply-bolt-on-ai-rethink-from-the-ground-up-ae73a9093cd2?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-03T10:54:04.000Z</updated>
+        <author>
+            <name>Revanth Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The basketball playbook for AI builder teams]]></title>
+        <id>https://medium.com/p/5ab76a91780e</id>
+        <link href="https://uxdesign.cc/the-basketball-playbook-for-ai-builder-teams-5ab76a91780e?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-03T10:53:24.000Z</updated>
+        <author>
+            <name>Patrick Neeman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🧠 Community Wisdom: Claude Code tips for ADHD users, resources for managing up, going from corporate to startup, tiring of being your company’s AI evangelist, and more]]></title>
         <id>https://www.lennysnewsletter.com/p/community-wisdom-claude-code-tips</id>
@@ -4983,183 +5081,6 @@ The post Building a Python Workflow That Catches Bugs Before Production appeared
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build an AI COMPANY in 45 Minutes - Paperclip Full Tutorial for Beginners]]></title>
-        <id>https://www.youtube.com/watch?v=RHZLJhp-JMM</id>
-        <link href="https://www.youtube.com/watch?v=RHZLJhp-JMM"/>
-        <updated>2026-04-04T13:00:45.000Z</updated>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Robust Credit Scoring Models with Python]]></title>
-        <id>https://towardsdatascience.com/?p=608751</id>
-        <link href="https://towardsdatascience.com/building-robust-credit-scoring-models-with-python/"/>
-        <updated>2026-04-04T12:48:00.000Z</updated>
-        <summary type="html"><![CDATA[A Practical Guide to Measuring Relationships between Variables for Feature Selection in a Credit Scoring.
-The post Building Robust Credit Scoring Models with Python appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>JUNIOR JUMBONG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designers: We are perpetuating our own burnout problem]]></title>
-        <id>https://medium.com/p/6caaa3662f2e</id>
-        <link href="https://uxdesign.cc/designers-we-are-perpetuating-our-own-burnout-problem-6caaa3662f2e?source=rss----138adf9c44c---4"/>
-        <updated>2026-04-04T10:39:01.000Z</updated>
-        <author>
-            <name>Jessica Goldman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You’re not supposed to get it right]]></title>
-        <id>https://medium.com/p/c0c6d7590bc5</id>
-        <link href="https://uxdesign.cc/youre-not-supposed-to-get-it-right-c0c6d7590bc5?source=rss----138adf9c44c---4"/>
-        <updated>2026-04-04T10:38:59.000Z</updated>
-        <summary type="html"><![CDATA[I left the Google design challenge convinced I had failed — and I passed. This is what actually matters in these interviews.
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Rita Kind-Envy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Falling apples and crumbling algos]]></title>
-        <id>https://medium.com/p/6c51e997cb8e</id>
-        <link href="https://uxdesign.cc/falling-apples-and-crumbling-algos-6c51e997cb8e?source=rss----138adf9c44c---4"/>
-        <updated>2026-04-04T10:38:58.000Z</updated>
-        <author>
-            <name>Eleanor Howe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do less with AI]]></title>
-        <id>https://medium.com/p/f9792b20f838</id>
-        <link href="https://uxdesign.cc/do-less-with-ai-f9792b20f838?source=rss----138adf9c44c---4"/>
-        <updated>2026-04-04T10:38:57.000Z</updated>
-        <author>
-            <name>Joe Bernstein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Just Restructured ChatGPT Business Pricing. Here's What Actually Changed (and What Didn't).]]></title>
-        <id>https://www.theneuron.ai/undefined/openai-just-restructured-chatgpt-business-pricing-heres-what-actually-changed-and-what-didnt/</id>
-        <link href="https://www.theneuron.ai/undefined/openai-just-restructured-chatgpt-business-pricing-heres-what-actually-changed-and-what-didnt/"/>
-        <updated>2026-04-04T04:00:22.192Z</updated>
-        <summary type="html"><![CDATA[OpenAI cut ChatGPT Business seat prices by $5/month and added usage-based Codex-only seats. We break down what it means for your team, your budget, and your dev workflow.]]></summary>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Around the Horn Digest: Everything That Happened in AI This Weekend (Saturday-Sunday, April 4-5, 2026)]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/-around-the-horn-digest-everything-that-happened-in-ai-this-weekend-saturday-sunday-april-4-5-2026/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/-around-the-horn-digest-everything-that-happened-in-ai-this-weekend-saturday-sunday-april-4-5-2026/"/>
-        <updated>2026-04-04T01:27:07.522Z</updated>
-        <summary type="html"><![CDATA[OpenAI's executive bench collapsed ahead of its IPO, an AI agent hacked FreeBSD in four hours, DeepSeek V4 will run on Huawei chips, Iran strikes took down AWS in the Gulf, and Anthropic acquired a biotech startup for $400M.]]></summary>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I was hacked...]]></title>
-        <id>https://www.youtube.com/watch?v=_E4ZT1h7MZs</id>
-        <link href="https://www.youtube.com/watch?v=_E4ZT1h7MZs"/>
-        <updated>2026-04-03T20:02:21.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Future Live | 04.03.26 | Guests from BEP, Ornn, and MOTS Podcast!]]></title>
-        <id>https://www.youtube.com/watch?v=MKl4KVMDrqc</id>
-        <link href="https://www.youtube.com/watch?v=MKl4KVMDrqc"/>
-        <updated>2026-04-03T16:07:42.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pulse: is GitHub still best for AI-native development?]]></title>
-        <id>69cfc72da95ab10001e47e0c</id>
-        <link href="https://blog.pragmaticengineer.com/the-pulse-is-github-still-best-for-ai-native-development/"/>
-        <updated>2026-04-03T15:03:38.000Z</updated>
-        <summary type="html"><![CDATA[Availability has dropped to one nine (~90% – !!), partly due to not being able to handle increased traffic from AI coding agents. There’s also no CEO and an apparent lack of direction.]]></summary>
-        <author>
-            <name>Gergely Orosz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment your answers below👇]]></title>
-        <id>https://www.youtube.com/shorts/WSaDpYEdddA</id>
-        <link href="https://www.youtube.com/shorts/WSaDpYEdddA"/>
-        <updated>2026-04-03T14:42:33.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built a Full Brand and Product in 4 Hours Using Claude and Lovable]]></title>
-        <id>https://medium.com/p/783663f669b7</id>
-        <link href="https://generativeai.pub/i-built-a-full-brand-and-product-in-4-hours-using-claude-and-lovable-783663f669b7?source=rss----440100e76000---4"/>
-        <updated>2026-04-03T14:22:35.000Z</updated>
-        <summary type="html"><![CDATA[I entered my first hackathon a few weeks ago with a prompt, two tools, and four hours.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Alexandria Hamilton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Intelligence?]]></title>
-        <id>https://medium.com/p/06148adc6ed5</id>
-        <link href="https://generativeai.pub/what-is-intelligence-06148adc6ed5?source=rss----440100e76000---4"/>
-        <updated>2026-04-03T14:22:19.000Z</updated>
-        <author>
-            <name>Peter Tilsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built My Own OpenClaw Lab on Free Cloud Infrastructure and Skipped the $600 Mac Mini]]></title>
-        <id>https://medium.com/p/55af814e5918</id>
-        <link href="https://generativeai.pub/i-built-my-own-openclaw-lab-on-free-cloud-infrastructure-and-skipped-the-600-mac-mini-55af814e5918?source=rss----440100e76000---4"/>
-        <updated>2026-04-03T14:21:16.000Z</updated>
-        <summary type="html"><![CDATA[There’s a specific kind of excitement that happens when a new AI tool drops and the internet collectively loses its mind. You know the one…
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Alexandria Hamilton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DenseNet Paper Walkthrough: All Connected]]></title>
-        <id>https://towardsdatascience.com/?p=608749</id>
-        <link href="https://towardsdatascience.com/densenet-paper-walkthrough-all-connected/"/>
-        <updated>2026-04-03T14:21:00.000Z</updated>
-        <summary type="html"><![CDATA[When we try to train a very deep neural network model, one issue that we might encounter is the vanishing gradient problem. This is essentially a problem where the weight update of a model during training slows down or even stops, hence causing the model not to improve. When a network is very deep, the […]
-The post DenseNet Paper Walkthrough: All Connected appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Muhammad Ardi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Just Accidentally Leaked the Most Dangerous AI Ever Built - Then Had to Admit It Exists!]]></title>
-        <id>https://medium.com/p/87c35f587bba</id>
-        <link href="https://generativeai.pub/anthropic-just-accidentally-leaked-the-most-dangerous-ai-ever-built-then-had-to-admit-it-exists-87c35f587bba?source=rss----440100e76000---4"/>
-        <updated>2026-04-03T14:19:33.000Z</updated>
-        <author>
-            <name>Senaaravichandran A</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Story Behind Every Great Startup Is the Most Overlooked Skill]]></title>
-        <id>https://www.thevccorner.com/p/founders-guide-startup-storytelling</id>
-        <link href="https://www.thevccorner.com/p/founders-guide-startup-storytelling"/>
-        <updated>2026-04-03T13:57:40.000Z</updated>
-        <summary type="html"><![CDATA[The most overlooked skill separating good founders from great ones.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
         </author>
     </entry>
 </feed>
