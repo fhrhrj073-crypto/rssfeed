@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/4fgQ8tp4uqU",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/4fgQ8tp4uqU",
+          "publishedOn": "2026-05-04T13:37:38.000Z",
+          "wordCount": 1935,
+          "title": "Can you ANSWER these 3 questions.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=seTDT8Rxryc",
           "author": null,
           "description": "",
@@ -464,16 +474,6 @@
           "wordCount": 2075,
           "title": "Have you heard about this?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/XZLWT2yWaX4",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/XZLWT2yWaX4",
-          "publishedOn": "2026-04-04T14:15:03.000Z",
-          "wordCount": 2058,
-          "title": "Could you SOLVE it?🤔",
-          "imageUrl": null
         }
       ]
     },
@@ -482,6 +482,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfQNB91qRP_5ILeu_S_bSkg",
       "siteUrl": "https://www.youtube.com/channel/UCfQNB91qRP_5ILeu_S_bSkg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=DU192Mj71tk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DU192Mj71tk",
+          "publishedOn": "2026-05-04T21:53:53.000Z",
+          "wordCount": null,
+          "title": "LIVE: Is Hermes better than OpenClaw? FINALE!!!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=UCPE3wPAcho",
           "author": null,
@@ -797,16 +807,6 @@
           "publishedOn": "2026-04-09T13:08:11.000Z",
           "wordCount": null,
           "title": "Surfshark VPN Review & Tutorial 2026 - How to Use Surfshark VPN",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OUTTpiHA4dk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OUTTpiHA4dk",
-          "publishedOn": "2026-04-05T11:00:36.000Z",
-          "wordCount": null,
-          "title": "OpenClaw Hostinger Setup Tutorial - Step by Step",
           "imageUrl": null
         }
       ]
@@ -1125,16 +1125,6 @@
           "wordCount": null,
           "title": "Salesforce CEO on Microsoft Blocking OpenAI Investment, AI Scapegoating, OpenClaw, and Regulation",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vn_kU928nww",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vn_kU928nww",
-          "publishedOn": "2026-04-04T17:10:43.000Z",
-          "wordCount": null,
-          "title": "I built something....",
-          "imageUrl": null
         }
       ]
     },
@@ -1143,6 +1133,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcQA-MzQxCvET1S-BekQdAA",
       "siteUrl": "https://www.youtube.com/channel/UCcQA-MzQxCvET1S-BekQdAA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/Wo4GeC8XxoM",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/Wo4GeC8XxoM",
+          "publishedOn": "2026-05-04T19:52:49.000Z",
+          "wordCount": 2104,
+          "title": "接下來教怎麼做這種影片XDDDDDDDD #ai",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=zZjQ8Arso-0",
           "author": null,
@@ -1371,6 +1371,38 @@
       "feedUrl": "https://www.lennysnewsletter.com/feed",
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
+        {
+          "id": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-the-internal",
+          "author": "Lenny Rachitsky",
+          "description": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+          "link": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-the-internal",
+          "publishedOn": "2026-05-04T15:01:56.000Z",
+          "wordCount": null,
+          "title": "🎙️ This week on How I AI: The internal AI tool that’s transforming how Stripe designs products",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/27c437f2-554e-417a-bf8e-b3387d17f189_1456x1048.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/27c437f2-554e-417a-bf8e-b3387d17f189_1456x1048.png"
+        },
+        {
+          "id": "https://www.lennysnewsletter.com/p/the-internal-ai-tool-thats-transforming",
+          "author": "Claire Vo",
+          "description": "Watch now | 🎙️ Owen Williams (Stripe) shows how he vibe coded Protodash, the internal tool that turns Stripe’s design system into clickable prototypes in two minutes",
+          "link": "https://www.lennysnewsletter.com/p/the-internal-ai-tool-thats-transforming",
+          "publishedOn": "2026-05-04T12:03:59.000Z",
+          "wordCount": null,
+          "title": "The internal AI tool that’s transforming how Stripe designs products | Owen Williams",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/195792974/59dc67ebe27089846fb55b59caccd96b.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://www.lennysnewsletter.com/p/why-cultivating-agency-matters-more",
           "author": "Lenny Rachitsky",
@@ -1786,38 +1818,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/anthropics-1b-to-19b-growth-run",
-          "author": "Lenny Rachitsky",
-          "description": "Listen now | Anthropic’s Head of Growth on scaling from $1B to $19B ARR in 14 months through big bets, intentional onboarding friction, deep focus, and CASH—an internal AI system for autonomous growth experiments",
-          "link": "https://www.lennysnewsletter.com/p/anthropics-1b-to-19b-growth-run",
-          "publishedOn": "2026-04-05T12:31:45.000Z",
-          "wordCount": null,
-          "title": "Anthropic’s $1B to $19B growth run: how Claude became the fastest-growing AI product in history | Amol Avasare",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/192660974/a758f7727150a2aa5435fae14598d3dd.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/community-wisdom-evaluating-startup",
-          "author": "Kiyani",
-          "description": "Community Wisdom 180",
-          "link": "https://www.lennysnewsletter.com/p/community-wisdom-evaluating-startup",
-          "publishedOn": "2026-04-04T22:02:36.000Z",
-          "wordCount": null,
-          "title": "🧠 Community Wisdom: Evaluating startup equity, navigating pre-seed fundraising, MCPs vs. CLIs, Monzo’s U.S. exit, and more",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png"
         }
       ]
     },
@@ -1826,6 +1826,22 @@
       "feedUrl": "https://www.thevccorner.com/feed",
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
+        {
+          "id": "https://www.thevccorner.com/p/growth-accounting-virality-model",
+          "author": "Ruben Dominguez",
+          "description": "The ultimate financial model that translates user behavior into real, measurable growth.",
+          "link": "https://www.thevccorner.com/p/growth-accounting-virality-model",
+          "publishedOn": "2026-05-04T16:42:11.000Z",
+          "wordCount": null,
+          "title": "The Only Growth Model That Actually Explains Why You’re Growing (or Not)",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!OYcA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9456409d-f6d7-473c-b454-3662841c0bca_1536x1024.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!OYcA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9456409d-f6d7-473c-b454-3662841c0bca_1536x1024.png"
+        },
         {
           "id": "https://www.thevccorner.com/p/startup-growth-guide-yc-rfs-the-year",
           "author": "Ruben Dominguez",
@@ -2169,6 +2185,36 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/undefined/around-the-horn-digest-weekend-wrap-up-addition-everything-that-happened-in-ai-this-weekend-saturday-sunday-may-2-3-2026/",
+          "author": null,
+          "description": "The Pentagon signed AI deployment deals with 8 vendors and left Anthropic out, Microsoft 365 E7 with Agent 365 went generally available, Meta bought a humanoid robotics startup, Mistral shipped Medium 3.5 with remote agents, Grok 4.3 added voice cloning, and a Mayo Clinic AI flagged pancreatic cancer 3 years before diagnosis.",
+          "link": "https://www.theneuron.ai/undefined/around-the-horn-digest-weekend-wrap-up-addition-everything-that-happened-in-ai-this-weekend-saturday-sunday-may-2-3-2026/",
+          "publishedOn": "2026-05-04T19:25:10.765Z",
+          "wordCount": null,
+          "title": "Around the Horn Digest, Weekend Wrap-up Addition: Everything That Happened in AI This Weekend (Saturday-Sunday, May 2-3, 2026)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/newsletter/what-gets-scarce-when-ai-does-everything-3b1c/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/what-gets-scarce-when-ai-does-everything-3b1c/",
+          "publishedOn": "2026-05-04T15:30:08.081Z",
+          "wordCount": null,
+          "title": "😺 What gets scarce when AI does everything?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/newsletter/a-patch-wave-is-coming-for-your-software/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/a-patch-wave-is-coming-for-your-software/",
+          "publishedOn": "2026-05-04T10:30:41.572Z",
+          "wordCount": null,
+          "title": "😸 A patch wave is coming for your software",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/newsletter/what-gets-scarce-when-ai-does-everything/",
           "author": null,
@@ -2806,6 +2852,46 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=609013",
+          "author": "Ayoola Olafenwa",
+          "description": "A practical guide to understanding AI agent design, ReAct workflows, and when to scale from a single agent to a multi-agent system.\nThe post Single Agent vs Multi-Agent: When to Build a Multi-Agent System appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/single-agent-vs-multi-agent-when-to-build-a-multi-agent-system/",
+          "publishedOn": "2026-05-04T20:00:00.000Z",
+          "wordCount": 5572,
+          "title": "Single Agent vs Multi-Agent: When to Build a Multi-Agent System",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/cover2-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/how-to-build-an-efficient-knowledge-base-for-ai-models/",
+          "author": "Nidhin Karunakaran Ponon",
+          "description": "Building a knowledge base for AI models isn’t a one-time task but an iterative process of refinement.\nThe post How to Build an Efficient Knowledge Base for AI Models appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-build-an-efficient-knowledge-base-for-ai-models/",
+          "publishedOn": "2026-05-04T17:40:00.000Z",
+          "wordCount": 6243,
+          "title": "How to Build an Efficient Knowledge Base for AI Models",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Knowledge-base-AI-models.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609009",
+          "author": "Oliver S",
+          "description": "Solving multiplayer games with function approximation\nThe post Playing Connect Four with Deep Q-Learning appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/playing-connect-four-with-deep-q-learning/",
+          "publishedOn": "2026-05-04T13:30:00.000Z",
+          "wordCount": 4723,
+          "title": "Playing Connect Four with Deep Q-Learning",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/image-281.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609007",
+          "author": "Illia Smoliienko",
+          "description": "AI tools speed up IoT development — but closer to the hardware, the same code that looks correct can silently break thousands of devices at once.\nThe post How AI Tools Generate Technical Debt in IoT Systems — and What to Do About It appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-ai-tools-generate-technical-debt-in-iot-systems-and-what-to-do-about-it/",
+          "publishedOn": "2026-05-04T12:00:00.000Z",
+          "wordCount": 4595,
+          "title": "How AI Tools Generate Technical Debt in IoT Systems — and What to Do About It",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/222-1.png"
+        },
         {
           "id": "https://towardsdatascience.com/?p=609005",
           "author": "Muhammad Ardi",
@@ -3850,26 +3936,6 @@
           "wordCount": 7323,
           "title": "Proxy-Pointer RAG: Achieving Vectorless Accuracy at Vector RAG Scale and Cost",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/proxy-pointer-2048x1143-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608759",
-          "author": "Benjamin Nweke",
-          "description": "Why it doesn’t fit my workflow but still makes sense for beginners\nThe post A Data Scientist’s Take on the $599 MacBook Neo appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/a-data-scientists-take-on-the-599-macbook-neo/",
-          "publishedOn": "2026-04-05T13:00:00.000Z",
-          "wordCount": 4360,
-          "title": "A Data Scientist’s Take on the $599 MacBook Neo",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/kamil-switalski-zVBfEcNApE8-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608757",
-          "author": "Thomas Reid",
-          "description": "Using modern tooling to identify defects earlier in the software lifecycle.\nThe post Building a Python Workflow That Catches Bugs Before Production appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/building-a-python-workflow-that-catches-bugs-before-production/",
-          "publishedOn": "2026-04-04T15:00:00.000Z",
-          "wordCount": 6496,
-          "title": "Building a Python Workflow That Catches Bugs Before Production",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Gemini_Generated_Image_67ljth67ljth67lj-scaled-1.jpg"
         }
       ]
     },
@@ -3884,6 +3950,56 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/4f67c75b3275",
+          "author": "Michael Buckley",
+          "description": "",
+          "link": "https://uxdesign.cc/st-augustine-and-ais-false-promise-4f67c75b3275?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-05-04T23:05:20.000Z",
+          "wordCount": null,
+          "title": "St. Augustine and AI’s false promise",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c3941c444bd5",
+          "author": "Raoul Flaminzeanu",
+          "description": "",
+          "link": "https://uxdesign.cc/pinning-is-not-saving-saving-is-not-favoriting-favoriting-is-not-flagging-c3941c444bd5?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-05-04T23:05:05.000Z",
+          "wordCount": null,
+          "title": "Pinning is not saving. Saving is not favoriting. Favoriting is not flagging.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e3d70fc80e90",
+          "author": "Adrian Levy",
+          "description": "",
+          "link": "https://uxdesign.cc/you-skipped-the-first-question-now-youre-adding-ai-e3d70fc80e90?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-05-04T23:04:18.000Z",
+          "wordCount": null,
+          "title": "You skipped the first question. Now you’re adding AI.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/901e42d07ba5",
+          "author": "Leslie Sultani",
+          "description": "",
+          "link": "https://uxdesign.cc/when-ai-decides-and-human-signs-off-901e42d07ba5?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-05-04T23:04:02.000Z",
+          "wordCount": null,
+          "title": "When AI decides and human signs off",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3c94aef9268e",
+          "author": "Fabricio Teixeira",
+          "description": "",
+          "link": "https://uxdesign.cc/collected-consciousness-exhausting-moment-ux-research-with-ai-3c94aef9268e?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-05-04T08:34:23.000Z",
+          "wordCount": null,
+          "title": "Collected consciousness, exhausting moment, UX Research with AI",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/ae73a9093cd2",
           "author": "Revanth Krishna",
@@ -4473,26 +4589,6 @@
           "wordCount": null,
           "title": "Who are we really designing for?",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/69272cda4468",
-          "author": "Allie Paschal",
-          "description": "",
-          "link": "https://uxdesign.cc/the-invisible-layer-of-ux-most-designers-ignore-69272cda4468?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-04-05T11:01:28.000Z",
-          "wordCount": null,
-          "title": "The invisible layer of UX most designers ignore",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/4dc21b233606",
-          "author": "Michael Buckley",
-          "description": "",
-          "link": "https://uxdesign.cc/vibe-coding-is-accelerating-the-erosion-of-design-authority-4dc21b233606?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-04-05T11:01:16.000Z",
-          "wordCount": null,
-          "title": "“Vibe coding” is accelerating the erosion of design authority",
-          "imageUrl": null
         }
       ]
     },
@@ -4534,6 +4630,16 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/d000d10e8a2b",
+          "author": "Jim Clyde Monge",
+          "description": "",
+          "link": "https://generativeai.pub/5-ways-brands-can-use-gpt-image-2-0-to-boost-campaign-roi-d000d10e8a2b?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-04T08:58:37.000Z",
+          "wordCount": null,
+          "title": "5 Ways Brands Can Use GPT Image 2.0 to Boost Campaign ROI",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/9959107f8e08",
           "author": "Abduldattijo",

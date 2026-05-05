@@ -2,10 +2,195 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-05-04T01:24:01.200Z</updated>
+    <updated>2026-05-05T01:23:47.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[St. Augustine and AI’s false promise]]></title>
+        <id>https://medium.com/p/4f67c75b3275</id>
+        <link href="https://uxdesign.cc/st-augustine-and-ais-false-promise-4f67c75b3275?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-04T23:05:20.000Z</updated>
+        <author>
+            <name>Michael Buckley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pinning is not saving. Saving is not favoriting. Favoriting is not flagging.]]></title>
+        <id>https://medium.com/p/c3941c444bd5</id>
+        <link href="https://uxdesign.cc/pinning-is-not-saving-saving-is-not-favoriting-favoriting-is-not-flagging-c3941c444bd5?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-04T23:05:05.000Z</updated>
+        <author>
+            <name>Raoul Flaminzeanu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You skipped the first question. Now you’re adding AI.]]></title>
+        <id>https://medium.com/p/e3d70fc80e90</id>
+        <link href="https://uxdesign.cc/you-skipped-the-first-question-now-youre-adding-ai-e3d70fc80e90?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-04T23:04:18.000Z</updated>
+        <author>
+            <name>Adrian Levy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When AI decides and human signs off]]></title>
+        <id>https://medium.com/p/901e42d07ba5</id>
+        <link href="https://uxdesign.cc/when-ai-decides-and-human-signs-off-901e42d07ba5?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-04T23:04:02.000Z</updated>
+        <author>
+            <name>Leslie Sultani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIVE: Is Hermes better than OpenClaw? FINALE!!!]]></title>
+        <id>https://www.youtube.com/watch?v=DU192Mj71tk</id>
+        <link href="https://www.youtube.com/watch?v=DU192Mj71tk"/>
+        <updated>2026-05-04T21:53:53.000Z</updated>
+        <author>
+            <name>Alex Finn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Single Agent vs Multi-Agent: When to Build a Multi-Agent System]]></title>
+        <id>https://towardsdatascience.com/?p=609013</id>
+        <link href="https://towardsdatascience.com/single-agent-vs-multi-agent-when-to-build-a-multi-agent-system/"/>
+        <updated>2026-05-04T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A practical guide to understanding AI agent design, ReAct workflows, and when to scale from a single agent to a multi-agent system.
+The post Single Agent vs Multi-Agent: When to Build a Multi-Agent System appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ayoola Olafenwa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[接下來教怎麼做這種影片XDDDDDDDD #ai]]></title>
+        <id>https://www.youtube.com/shorts/Wo4GeC8XxoM</id>
+        <link href="https://www.youtube.com/shorts/Wo4GeC8XxoM"/>
+        <updated>2026-05-04T19:52:49.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>電腦王阿達</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Around the Horn Digest, Weekend Wrap-up Addition: Everything That Happened in AI This Weekend (Saturday-Sunday, May 2-3, 2026)]]></title>
+        <id>https://www.theneuron.ai/undefined/around-the-horn-digest-weekend-wrap-up-addition-everything-that-happened-in-ai-this-weekend-saturday-sunday-may-2-3-2026/</id>
+        <link href="https://www.theneuron.ai/undefined/around-the-horn-digest-weekend-wrap-up-addition-everything-that-happened-in-ai-this-weekend-saturday-sunday-may-2-3-2026/"/>
+        <updated>2026-05-04T19:25:10.765Z</updated>
+        <summary type="html"><![CDATA[The Pentagon signed AI deployment deals with 8 vendors and left Anthropic out, Microsoft 365 E7 with Agent 365 went generally available, Meta bought a humanoid robotics startup, Mistral shipped Medium 3.5 with remote agents, Grok 4.3 added voice cloning, and a Mayo Clinic AI flagged pancreatic cancer 3 years before diagnosis.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Efficient Knowledge Base for AI Models]]></title>
+        <id>https://towardsdatascience.com/how-to-build-an-efficient-knowledge-base-for-ai-models/</id>
+        <link href="https://towardsdatascience.com/how-to-build-an-efficient-knowledge-base-for-ai-models/"/>
+        <updated>2026-05-04T17:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Building a knowledge base for AI models isn’t a one-time task but an iterative process of refinement.
+The post How to Build an Efficient Knowledge Base for AI Models appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Nidhin Karunakaran Ponon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Only Growth Model That Actually Explains Why You’re Growing (or Not)]]></title>
+        <id>https://www.thevccorner.com/p/growth-accounting-virality-model</id>
+        <link href="https://www.thevccorner.com/p/growth-accounting-virality-model"/>
+        <updated>2026-05-04T16:42:11.000Z</updated>
+        <summary type="html"><![CDATA[The ultimate financial model that translates user behavior into real, measurable growth.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 What gets scarce when AI does everything?]]></title>
+        <id>https://www.theneuron.ai/newsletter/what-gets-scarce-when-ai-does-everything-3b1c/</id>
+        <link href="https://www.theneuron.ai/newsletter/what-gets-scarce-when-ai-does-everything-3b1c/"/>
+        <updated>2026-05-04T15:30:08.081Z</updated>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎙️ This week on How I AI: The internal AI tool that’s transforming how Stripe designs products]]></title>
+        <id>https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-the-internal</id>
+        <link href="https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-the-internal"/>
+        <updated>2026-05-04T15:01:56.000Z</updated>
+        <summary type="html"><![CDATA[Your weekly listens from How I AI, part of the Lenny’s Podcast Network]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can you ANSWER these 3 questions.]]></title>
+        <id>https://www.youtube.com/shorts/4fgQ8tp4uqU</id>
+        <link href="https://www.youtube.com/shorts/4fgQ8tp4uqU"/>
+        <updated>2026-05-04T13:37:38.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Playing Connect Four with Deep Q-Learning]]></title>
+        <id>https://towardsdatascience.com/?p=609009</id>
+        <link href="https://towardsdatascience.com/playing-connect-four-with-deep-q-learning/"/>
+        <updated>2026-05-04T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Solving multiplayer games with function approximation
+The post Playing Connect Four with Deep Q-Learning appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Oliver S</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The internal AI tool that’s transforming how Stripe designs products | Owen Williams]]></title>
+        <id>https://www.lennysnewsletter.com/p/the-internal-ai-tool-thats-transforming</id>
+        <link href="https://www.lennysnewsletter.com/p/the-internal-ai-tool-thats-transforming"/>
+        <updated>2026-05-04T12:03:59.000Z</updated>
+        <summary type="html"><![CDATA[Watch now | 🎙️ Owen Williams (Stripe) shows how he vibe coded Protodash, the internal tool that turns Stripe’s design system into clickable prototypes in two minutes]]></summary>
+        <author>
+            <name>Claire Vo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Tools Generate Technical Debt in IoT Systems — and What to Do About It]]></title>
+        <id>https://towardsdatascience.com/?p=609007</id>
+        <link href="https://towardsdatascience.com/how-ai-tools-generate-technical-debt-in-iot-systems-and-what-to-do-about-it/"/>
+        <updated>2026-05-04T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI tools speed up IoT development — but closer to the hardware, the same code that looks correct can silently break thousands of devices at once.
+The post How AI Tools Generate Technical Debt in IoT Systems — and What to Do About It appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Illia Smoliienko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😸 A patch wave is coming for your software]]></title>
+        <id>https://www.theneuron.ai/newsletter/a-patch-wave-is-coming-for-your-software/</id>
+        <link href="https://www.theneuron.ai/newsletter/a-patch-wave-is-coming-for-your-software/"/>
+        <updated>2026-05-04T10:30:41.572Z</updated>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Ways Brands Can Use GPT Image 2.0 to Boost Campaign ROI]]></title>
+        <id>https://medium.com/p/d000d10e8a2b</id>
+        <link href="https://generativeai.pub/5-ways-brands-can-use-gpt-image-2-0-to-boost-campaign-roi-d000d10e8a2b?source=rss----440100e76000---4"/>
+        <updated>2026-05-04T08:58:37.000Z</updated>
+        <author>
+            <name>Jim Clyde Monge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collected consciousness, exhausting moment, UX Research with AI]]></title>
+        <id>https://medium.com/p/3c94aef9268e</id>
+        <link href="https://uxdesign.cc/collected-consciousness-exhausting-moment-ux-research-with-ai-3c94aef9268e?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-04T08:34:23.000Z</updated>
+        <author>
+            <name>Fabricio Teixeira</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Startup Growth Guide🔁, YC RFS💡, The Year of Churn💀]]></title>
         <id>https://www.thevccorner.com/p/startup-growth-guide-yc-rfs-the-year</id>
@@ -4990,94 +5175,6 @@ The post Proxy-Pointer RAG: Achieving Vectorless Accuracy at Vector RAG Scale an
         <id>https://www.youtube.com/shorts/83aLsRbz34A</id>
         <link href="https://www.youtube.com/shorts/83aLsRbz34A"/>
         <updated>2026-04-05T13:45:01.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Data Scientist’s Take on the $599 MacBook Neo]]></title>
-        <id>https://towardsdatascience.com/?p=608759</id>
-        <link href="https://towardsdatascience.com/a-data-scientists-take-on-the-599-macbook-neo/"/>
-        <updated>2026-04-05T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Why it doesn’t fit my workflow but still makes sense for beginners
-The post A Data Scientist’s Take on the $599 MacBook Neo appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Benjamin Nweke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic’s $1B to $19B growth run: how Claude became the fastest-growing AI product in history | Amol Avasare]]></title>
-        <id>https://www.lennysnewsletter.com/p/anthropics-1b-to-19b-growth-run</id>
-        <link href="https://www.lennysnewsletter.com/p/anthropics-1b-to-19b-growth-run"/>
-        <updated>2026-04-05T12:31:45.000Z</updated>
-        <summary type="html"><![CDATA[Listen now | Anthropic’s Head of Growth on scaling from $1B to $19B ARR in 14 months through big bets, intentional onboarding friction, deep focus, and CASH—an internal AI system for autonomous growth experiments]]></summary>
-        <author>
-            <name>Lenny Rachitsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The invisible layer of UX most designers ignore]]></title>
-        <id>https://medium.com/p/69272cda4468</id>
-        <link href="https://uxdesign.cc/the-invisible-layer-of-ux-most-designers-ignore-69272cda4468?source=rss----138adf9c44c---4"/>
-        <updated>2026-04-05T11:01:28.000Z</updated>
-        <author>
-            <name>Allie Paschal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Vibe coding” is accelerating the erosion of design authority]]></title>
-        <id>https://medium.com/p/4dc21b233606</id>
-        <link href="https://uxdesign.cc/vibe-coding-is-accelerating-the-erosion-of-design-authority-4dc21b233606?source=rss----138adf9c44c---4"/>
-        <updated>2026-04-05T11:01:16.000Z</updated>
-        <author>
-            <name>Michael Buckley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenClaw Hostinger Setup Tutorial - Step by Step]]></title>
-        <id>https://www.youtube.com/watch?v=OUTTpiHA4dk</id>
-        <link href="https://www.youtube.com/watch?v=OUTTpiHA4dk"/>
-        <updated>2026-04-05T11:00:36.000Z</updated>
-        <author>
-            <name>Metics Media</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧠 Community Wisdom: Evaluating startup equity, navigating pre-seed fundraising, MCPs vs. CLIs, Monzo’s U.S. exit, and more]]></title>
-        <id>https://www.lennysnewsletter.com/p/community-wisdom-evaluating-startup</id>
-        <link href="https://www.lennysnewsletter.com/p/community-wisdom-evaluating-startup"/>
-        <updated>2026-04-04T22:02:36.000Z</updated>
-        <summary type="html"><![CDATA[Community Wisdom 180]]></summary>
-        <author>
-            <name>Kiyani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I built something....]]></title>
-        <id>https://www.youtube.com/watch?v=vn_kU928nww</id>
-        <link href="https://www.youtube.com/watch?v=vn_kU928nww"/>
-        <updated>2026-04-04T17:10:43.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Python Workflow That Catches Bugs Before Production]]></title>
-        <id>https://towardsdatascience.com/?p=608757</id>
-        <link href="https://towardsdatascience.com/building-a-python-workflow-that-catches-bugs-before-production/"/>
-        <updated>2026-04-04T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Using modern tooling to identify defects earlier in the software lifecycle.
-The post Building a Python Workflow That Catches Bugs Before Production appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Thomas Reid</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Could you SOLVE it?🤔]]></title>
-        <id>https://www.youtube.com/shorts/XZLWT2yWaX4</id>
-        <link href="https://www.youtube.com/shorts/XZLWT2yWaX4"/>
-        <updated>2026-04-04T14:15:03.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Tech With Tim</name>
