@@ -484,26 +484,6 @@
           "wordCount": null,
           "title": "Anthropic Just Broke Software Forever",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/e0530sTRh3M",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/e0530sTRh3M",
-          "publishedOn": "2026-04-10T15:30:22.000Z",
-          "wordCount": 2132,
-          "title": "You need to learn this ASAP!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=GtTJ6LcqdCE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=GtTJ6LcqdCE",
-          "publishedOn": "2026-04-10T14:00:25.000Z",
-          "wordCount": null,
-          "title": "The Claude Code Situation",
-          "imageUrl": null
         }
       ]
     },
@@ -838,16 +818,6 @@
           "wordCount": null,
           "title": "NemoClaw Tutorial: Run OpenClaw Safely with NVIDIA (Full Setup)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=MEjE7saSN-Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=MEjE7saSN-Q",
-          "publishedOn": "2026-04-10T15:23:22.000Z",
-          "wordCount": null,
-          "title": "Semrush Tutorial 2026 - Master SEO & AEO with Semrush One",
-          "imageUrl": null
         }
       ]
     },
@@ -1174,6 +1144,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCcQA-MzQxCvET1S-BekQdAA",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/wJOrhl6ysC4",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/wJOrhl6ysC4",
+          "publishedOn": "2026-05-10T19:08:01.000Z",
+          "wordCount": 2133,
+          "title": "Hermes 新增 Computer Use 功能，可以操控 Mac 電腦，這影片是Codex 自動辨識字幕、上特效自己剪輯的",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=IbpuIPJbm9A",
           "author": null,
           "description": "",
@@ -1420,6 +1400,22 @@
       "feedUrl": "https://www.lennysnewsletter.com/feed",
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
+        {
+          "id": "https://www.lennysnewsletter.com/p/how-to-build-a-company-that-withstands",
+          "author": "Lenny Rachitsky",
+          "description": "Listen now | The Lean Startup author on why most mission-driven companies are just mission-“hopeful,” why only 20% of founders remain CEO three years post-IPO, and the Delaware filing every founder should make",
+          "link": "https://www.lennysnewsletter.com/p/how-to-build-a-company-that-withstands",
+          "publishedOn": "2026-05-10T12:03:32.000Z",
+          "wordCount": null,
+          "title": "How to build a company that withstands any era | Eric Ries, Lean Startup author",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/196468137/3118efc439c0b8e3ebe3cf7ba547c97b.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://www.lennysnewsletter.com/p/community-wisdom-what-to-do-when",
           "author": "Kiyani",
@@ -1860,6 +1856,22 @@
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
         {
+          "id": "https://www.thevccorner.com/p/service-as-a-software-1b-seed-rounds",
+          "author": "Ruben Dominguez",
+          "description": "Another week, another pulse check on Tech.",
+          "link": "https://www.thevccorner.com/p/service-as-a-software-1b-seed-rounds",
+          "publishedOn": "2026-05-10T14:15:52.000Z",
+          "wordCount": null,
+          "title": "“Service as a Software”🏭, $1B+ seed rounds💰, Data-Driven VCs 📊",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!FJda!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe931543b-cd53-4867-bce4-16f1a2aadcd4_680x607.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!FJda!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe931543b-cd53-4867-bce4-16f1a2aadcd4_680x607.jpeg"
+        },
+        {
           "id": "https://www.thevccorner.com/p/how-to-never-hit-claude-limits-token-system-2026",
           "author": "Ruben Dominguez",
           "description": "Most users burn the majority of their token allocation on architecture mistakes, not actual work. Here is the operational framework that fixes it.",
@@ -2178,22 +2190,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!TXKv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71ed4386-d005-4665-a901-c0f371e93a16_980x787.png"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/jensen-huang-nvidia-lessons-founders-investors-2026",
-          "author": "Ruben Dominguez",
-          "description": "The NVIDIA founder on scaling laws, $10 trillion futures, why intelligence is a commodity, and the philosophy behind the $4 trillion machine",
-          "link": "https://www.thevccorner.com/p/jensen-huang-nvidia-lessons-founders-investors-2026",
-          "publishedOn": "2026-04-10T15:21:38.000Z",
-          "wordCount": null,
-          "title": "Jensen Huang: 10 Lessons From the CEO Building the Most Important Company in History",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/vif8NQcjVf0",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/vif8NQcjVf0"
         }
       ]
     },
@@ -2202,6 +2198,36 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/press-release/lyrieai-deploys-tracking-across-global-infrastructure/",
+          "author": null,
+          "description": "OTT Cybersecurity LLC announced several milestones that position the company as foundational security infrastructure for the agentic AI era.",
+          "link": "https://www.theneuron.ai/press-release/lyrieai-deploys-tracking-across-global-infrastructure/",
+          "publishedOn": "2026-05-11T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Lyrie.ai Deploys Real-Time Zero-Day Tracking Across Global Enterprise Infrastructure",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/newsletter/hermes-is-eating-openclaw-s-lunch/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/hermes-is-eating-openclaw-s-lunch/",
+          "publishedOn": "2026-05-10T18:30:14.464Z",
+          "wordCount": null,
+          "title": "😺 Hermes is eating OpenClaw's lunch",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/around-the-horn-weekend-digest-everything-that-happened-in-ai-this-weekend-saturday-sunday-may-9-10-2026/",
+          "author": null,
+          "description": "Anthropic is weighing a $50B primary round at a $900B valuation that would top OpenAI; the Trump administration drafted an AI security order that omits mandatory model tests; Apple and Intel reached a Trump-pushed preliminary chip-making agreement; French prosecutors escalated their Musk and X probe to a criminal investigation; the US suspects a Thai national-AI partner helped smuggle Nvidia chips to Alibaba; Cerebras is set to raise its IPO range on 20× oversubscription.",
+          "link": "https://www.theneuron.ai/explainer-articles/around-the-horn-weekend-digest-everything-that-happened-in-ai-this-weekend-saturday-sunday-may-9-10-2026/",
+          "publishedOn": "2026-05-10T18:11:16.599Z",
+          "wordCount": null,
+          "title": "Around the Horn Weekend Digest: Everything That Happened in AI This Weekend (Saturday-Sunday, May 9-10, 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/explainer-articles/microsofts-2026-work-trend-index-your-employees-figured-out-ai-your-company-didnt/",
           "author": null,
@@ -2929,6 +2955,26 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=609061",
+          "author": "Nikola Ilic",
+          "description": "\"Should we process our data in batches or in real-time?\" It's not batch vs. stream: it's \"when does the answer matter?\"\nThe post Batch or Stream? The Eternal Data Processing Dilemma appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/batch-or-stream-the-ethernal-data-processing-dilemma/",
+          "publishedOn": "2026-05-10T15:00:00.000Z",
+          "wordCount": 5650,
+          "title": "Batch or Stream? The Eternal Data Processing Dilemma",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Batch-vs-stream-main-1308x480-1-copy.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609055",
+          "author": "William Gieng",
+          "description": "A practitioner's argument that meeting summarizers fail in the same way regressions fail when you skip the part where you ask what the data can support.\nThe post LLM Summarizers Skip the Identification Step appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/llm-summarizers-skip-the-identification-step/",
+          "publishedOn": "2026-05-10T13:00:00.000Z",
+          "wordCount": 5971,
+          "title": "LLM Summarizers Skip the Identification Step",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/tds_hero_redacted_document_1920x1080.png"
+        },
         {
           "id": "https://towardsdatascience.com/?p=609057",
           "author": "Aliaksei Mikhailiuk",
@@ -3978,61 +4024,6 @@
           "wordCount": 8766,
           "title": "Advanced RAG Retrieval: Cross-Encoders & Reranking",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/bi-encoder-vs-cross-encoder-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608806",
-          "author": "Chanin Nantasenamat",
-          "description": "AI coding assistants need a persistent memory layer to overcome the statelessness of LLMs and improve code quality by systematically providing context across sessions.\nThe post Why Every AI Coding Assistant Needs a Memory Layer appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/why-every-ai-coding-assistant-needs-a-memory-layer/",
-          "publishedOn": "2026-04-11T13:00:00.000Z",
-          "wordCount": 5007,
-          "title": "Why Every AI Coding Assistant Needs a Memory Layer",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/memory-cover-image-8Apr2026-1024x683.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608825",
-          "author": "Adam Streck",
-          "description": "A step-by-step interactive guide to one of the most vexing areas of machine learning. \nThe post Introduction to Reinforcement Learning Agents with the Unity Game Engine  appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/introduction-to-reinforcement-learning-agents-with-the-unity-game-engine/",
-          "publishedOn": "2026-04-11T12:00:00.000Z",
-          "wordCount": 5077,
-          "title": "Introduction to Reinforcement Learning Agents with the Unity Game Engine",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/promo-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608803",
-          "author": "Salvatore Cagliari",
-          "description": "Since September 2025, we have had Calendar-based Time Intelligence in Power BI and Fabric Tabular models. While this feature offers great possibilities, we must be aware of its pitfalls. Here are some of them.\nThe post When Things Get Weird with Custom Calendars in Tabular Models appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/when-things-get-weird-with-the-custom-calendars-in-tabular-models/",
-          "publishedOn": "2026-04-10T16:30:00.000Z",
-          "wordCount": 4939,
-          "title": "When Things Get Weird with Custom Calendars in Tabular Models",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/claudio-schwarz-TEF3woGG3b0-unsplash.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608801",
-          "author": "Emmimal P Alexander",
-          "description": "We fitted the Ebbinghaus forgetting curve to 555,000 real fraud transactions and got R² = −0.31 — worse than a flat line. This result explains why calendar-based retraining fails in production and introduces a practical shock-detection approach that works in real systems.\nThe post Why MLOps Retraining Schedules Fail — Models Don’t Forget, They Get Shocked appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/why-mlops-retraining-schedules-fail-models-dont-forget-they-get-shocked/",
-          "publishedOn": "2026-04-10T15:00:00.000Z",
-          "wordCount": 6608,
-          "title": "Why MLOps Retraining Schedules Fail — Models Don’t Forget, They Get Shocked",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Retraining-Schedules.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608799",
-          "author": "Roman S",
-          "description": "Can we reconstruct audio codes if we have audio for the Voxtral text-to-speech model?\nThe post A Guide to Voice Cloning on Voxtral with a Missing Encoder appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/voxtral-tts-surgery-codes-from-audio-reconstruction-2/",
-          "publishedOn": "2026-04-10T13:30:00.000Z",
-          "wordCount": 5629,
-          "title": "A Guide to Voice Cloning on Voxtral with a Missing Encoder",
-          "enclosure": {
-            "url": "https://github.com/MarvinRomson/voxtral-tts-codes-for-audio/blob/main/casual_female_clean.wav",
-            "length": "0",
-            "type": "audio/wav"
-          },
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Generated_Image_wdsro4wdsro4wdsr.jpg"
         }
       ]
     },
@@ -4685,16 +4676,6 @@
           "publishedOn": "2026-04-11T21:24:47.000Z",
           "wordCount": null,
           "title": "Rethinking design critique",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/2a1c7a9dfbcd",
-          "author": "Dora Czerna",
-          "description": "",
-          "link": "https://uxdesign.cc/notes-from-the-people-building-your-future-2a1c7a9dfbcd?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-04-11T01:05:20.000Z",
-          "wordCount": null,
-          "title": "Notes from the people building your future",
           "imageUrl": null
         }
       ]
@@ -5865,106 +5846,6 @@
           "publishedOn": "2026-04-13T14:23:30.000Z",
           "wordCount": null,
           "title": "Anthropic Just Made a Model So Good They Won’t Release It",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/4b0d7d5c73eb",
-          "author": "E01 Research",
-          "description": "",
-          "link": "https://generativeai.pub/prompts-are-more-than-words-from-magic-words-to-self-assembling-systems-4b0d7d5c73eb?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-11T02:38:21.000Z",
-          "wordCount": null,
-          "title": "Prompts Are More Than Words: \nFrom Magic Words to Self-Assembling Systems",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/e0796d1c6323",
-          "author": "Jacopo Castellano",
-          "description": "I run Claude Code in a lot of iTerm2 tabs. Most days I have four or five open at once, each working on a different project. They’re…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/i-built-a-plugin-that-changes-my-terminal-tabs-color-when-claude-is-thinking-e0796d1c6323?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-11T02:36:11.000Z",
-          "wordCount": null,
-          "title": "I built a plugin that changes my terminal tabs color when Claude is thinking",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f7cddd0de212",
-          "author": "Reuven Gorsht",
-          "description": "",
-          "link": "https://generativeai.pub/were-putting-jet-engines-on-horse-drawn-carriages-f7cddd0de212?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-11T02:34:04.000Z",
-          "wordCount": null,
-          "title": "We’re Putting Jet Engines on Horse-Drawn Carriages",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/20bfdfd54b54",
-          "author": "Thanasis Galatis",
-          "description": "From copy-pasting spreadsheets to a live dashboard, without writing a single line of code myself.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/from-google-analytics-exports-to-a-dashboard-in-one-day-using-cursor-20bfdfd54b54?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-11T02:32:44.000Z",
-          "wordCount": null,
-          "title": "From Google Analytics Exports to a Dashboard in One Day, using Cursor",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/8678440d4047",
-          "author": "Lance Cummings PhD",
-          "description": "Its not just about the tasks\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/the-techne-behind-agent-skills-8678440d4047?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-11T02:28:37.000Z",
-          "wordCount": null,
-          "title": "The Techne Behind Agent Skills",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c542cc204999",
-          "author": "Krzyś",
-          "description": "",
-          "link": "https://generativeai.pub/silo-fire-why-ai-driven-velocity-is-a-high-interest-technical-debt-c542cc204999?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-11T02:24:26.000Z",
-          "wordCount": null,
-          "title": "Silo Fire: Why AI-Driven Velocity is a High-Interest Technical Debt",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f4aa00d508b0",
-          "author": "Mohamed ElBishbeashy",
-          "description": "",
-          "link": "https://generativeai.pub/eliminating-technical-barriers-how-genai-makes-legacy-tools-accessible-to-business-users-f4aa00d508b0?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-11T02:22:46.000Z",
-          "wordCount": null,
-          "title": "Eliminating Technical Barriers: How GenAI Makes Legacy Tools Accessible to Business Users",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/ac78019190d6",
-          "author": "André Bergholz",
-          "description": "What changes when a machine stops learning from humans and starts learning from reality\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/beyond-the-imitation-game-the-reinforcement-revolution-ac78019190d6?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-11T02:22:41.000Z",
-          "wordCount": null,
-          "title": "Beyond the Imitation Game: The Reinforcement Revolution",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f142899ae07e",
-          "author": "Dirk Michel",
-          "description": "",
-          "link": "https://generativeai.pub/on-kiro-and-building-tools-for-agents-f142899ae07e?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-11T02:21:38.000Z",
-          "wordCount": null,
-          "title": "On Kiro and Building Tools for Agents",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/39b507d4d067",
-          "author": "Jeff Rhatigan",
-          "description": "",
-          "link": "https://generativeai.pub/the-cheapest-ai-model-i-could-find-engineered-a-protocol-to-falsify-its-own-beliefs-39b507d4d067?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-11T02:20:58.000Z",
-          "wordCount": null,
-          "title": "The Cheapest AI Model I Could Find Engineered a Protocol to Falsify Its Own Beliefs",
           "imageUrl": null
         }
       ]
