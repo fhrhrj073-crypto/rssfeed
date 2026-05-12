@@ -2,10 +2,205 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-05-11T01:47:17.551Z</updated>
+    <updated>2026-05-12T01:29:20.850Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Stop learning the tool and start learning the concept behind it 🧠]]></title>
+        <id>https://www.youtube.com/shorts/8YlV21ChdBY</id>
+        <link href="https://www.youtube.com/shorts/8YlV21ChdBY"/>
+        <updated>2026-05-12T00:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rethinking design with your hands in the AI world]]></title>
+        <id>https://medium.com/p/b8d4adf3322c</id>
+        <link href="https://uxdesign.cc/rethinking-design-with-your-hands-in-the-ai-world-b8d4adf3322c?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-11T22:03:13.000Z</updated>
+        <author>
+            <name>Darren Yeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The thinking was never just mine]]></title>
+        <id>https://medium.com/p/9b73cc04c837</id>
+        <link href="https://uxdesign.cc/the-thinking-was-never-just-mine-9b73cc04c837?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-11T22:03:11.000Z</updated>
+        <author>
+            <name>Giorgio Schirò</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIVE: Talking AI news (no Hermes use cases ignore the thumbnail)]]></title>
+        <id>https://www.youtube.com/watch?v=Gz_uZcnCDLs</id>
+        <link href="https://www.youtube.com/watch?v=Gz_uZcnCDLs"/>
+        <updated>2026-05-11T20:11:47.000Z</updated>
+        <author>
+            <name>Alex Finn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Word Vectors for Sentiment Analysis: A Python Reproduction]]></title>
+        <id>https://towardsdatascience.com/?p=609070</id>
+        <link href="https://towardsdatascience.com/learning-word-vectors-for-sentiment-analysis-a-python-reproduction/"/>
+        <updated>2026-05-11T19:44:10.000Z</updated>
+        <summary type="html"><![CDATA[How to build sentiment-aware word representations from IMDb reviews using semantic learning, star ratings, and linear SVM classification
+The post Learning Word Vectors for Sentiment Analysis: A Python Reproduction appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>JUNIOR JUMBONG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Claude Code-Powered Knowledge Base]]></title>
+        <id>https://towardsdatascience.com/?p=609068</id>
+        <link href="https://towardsdatascience.com/how-to-build-a-claude-code-powered-knowledge-base/"/>
+        <updated>2026-05-11T18:36:57.000Z</updated>
+        <summary type="html"><![CDATA[Perform efficient data retrieval of personal knowledge 
+The post How to Build a Claude Code-Powered Knowledge Base appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The VC Database Most Founders Spend Weeks Building]]></title>
+        <id>https://www.thevccorner.com/p/the-vc-database-most-founders-spend</id>
+        <link href="https://www.thevccorner.com/p/the-vc-database-most-founders-spend"/>
+        <updated>2026-05-11T17:48:28.000Z</updated>
+        <summary type="html"><![CDATA[Every firm. Every stage. Every sector. All in one place.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI Dev System That Enterprise Teams Are Actually Using  #coding]]></title>
+        <id>https://www.youtube.com/shorts/cdiUynK248o</id>
+        <link href="https://www.youtube.com/shorts/cdiUynK248o"/>
+        <updated>2026-05-11T17:41:42.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Transformers to Forecast Incredibly Rare Solar Flares]]></title>
+        <id>https://towardsdatascience.com/?p=609066</id>
+        <link href="https://towardsdatascience.com/predicting-solar-flares/"/>
+        <updated>2026-05-11T17:41:00.000Z</updated>
+        <summary type="html"><![CDATA[How ML can change for rare events
+The post Using Transformers to Forecast Incredibly Rare Solar Flares appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Marco Hening Tallarico</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prompt is not interface, UI patterns that won’t survive, how to make Claude follow your design…]]></title>
+        <id>https://medium.com/p/0ce6ac741796</id>
+        <link href="https://uxdesign.cc/prompt-is-not-interface-ui-patterns-that-wont-survive-how-to-make-claude-follow-your-design-0ce6ac741796?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-11T16:31:55.000Z</updated>
+        <author>
+            <name>Fabricio Teixeira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎙️ How I AI: Quests, token leaderboards, and the elite AI adoption playbook & Notion’s spec-driven development]]></title>
+        <id>https://www.lennysnewsletter.com/p/how-i-ai-quests-token-leaderboards</id>
+        <link href="https://www.lennysnewsletter.com/p/how-i-ai-quests-token-leaderboards"/>
+        <updated>2026-05-11T16:02:49.000Z</updated>
+        <summary type="html"><![CDATA[Your weekly listens from How I AI, part of the Lenny's Podcast Network]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An AI engineer does not train models. They build real products people actually use 🚀]]></title>
+        <id>https://www.youtube.com/shorts/fzZ3YVsyYns</id>
+        <link href="https://www.youtube.com/shorts/fzZ3YVsyYns"/>
+        <updated>2026-05-11T15:14:07.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Found The Cheapest Seedance 2.0 Video Generator]]></title>
+        <id>https://medium.com/p/31450c5a3866</id>
+        <link href="https://generativeai.pub/i-found-the-cheapest-seedance-2-0-video-generator-31450c5a3866?source=rss----440100e76000---4"/>
+        <updated>2026-05-11T14:15:11.000Z</updated>
+        <author>
+            <name>Jim Clyde Monge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Just Got a Superpower No One's Talking About]]></title>
+        <id>https://www.youtube.com/watch?v=rrylSizvnSg</id>
+        <link href="https://www.youtube.com/watch?v=rrylSizvnSg"/>
+        <updated>2026-05-11T14:01:32.000Z</updated>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spec-driven development: The AI engineering workflow at Notion | Ryan Nystrom]]></title>
+        <id>https://www.lennysnewsletter.com/p/spec-driven-development-the-ai-engineering</id>
+        <link href="https://www.lennysnewsletter.com/p/spec-driven-development-the-ai-engineering"/>
+        <updated>2026-05-11T12:03:12.000Z</updated>
+        <summary type="html"><![CDATA[Watch now | 🎙 Ryan Nystrom (Notion) shows how to automate standups, ship PRs from a single comment, and use spec-first development so agents do the coding while you do the thinking]]></summary>
+        <author>
+            <name>Claire Vo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PySpark for Beginners: Mastering the Basics]]></title>
+        <id>https://towardsdatascience.com/?p=609063</id>
+        <link href="https://towardsdatascience.com/pyspark-for-beginners-mastering-the-basics/"/>
+        <updated>2026-05-11T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A step-by-step guide to understanding distributed data, lazy logic, and your first DataFrame.
+The post PySpark for Beginners: Mastering the Basics appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Thomas Reid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 Microsoft: your company is the AI bottleneck]]></title>
+        <id>https://www.theneuron.ai/newsletter/microsoft-your-company-is-the-ai-bottleneck/</id>
+        <link href="https://www.theneuron.ai/newsletter/microsoft-your-company-is-the-ai-bottleneck/"/>
+        <updated>2026-05-11T10:06:05.815Z</updated>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discovery is the work AI gives back]]></title>
+        <id>https://medium.com/p/d2a429b64bcc</id>
+        <link href="https://uxdesign.cc/discovery-is-the-work-ai-gives-back-d2a429b64bcc?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-11T08:13:35.000Z</updated>
+        <author>
+            <name>Gale Robins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code 之父親口揭密：我現在 100% 讓 AI 寫程式｜一天 150 個 PR、多 Agent 工作流全公開]]></title>
+        <id>https://www.youtube.com/watch?v=EE0AZAUIBrk</id>
+        <link href="https://www.youtube.com/watch?v=EE0AZAUIBrk"/>
+        <updated>2026-05-11T04:49:08.000Z</updated>
+        <author>
+            <name>電腦王阿達</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lyrie.ai Deploys Real-Time Zero-Day Tracking Across Global Enterprise Infrastructure]]></title>
+        <id>https://www.techrepublic.com/article/lyrieai-deploys-tracking-across-global-infrastructure/</id>
+        <link href="https://www.techrepublic.com/article/lyrieai-deploys-tracking-across-global-infrastructure/"/>
+        <updated>2026-05-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OTT Cybersecurity LLC announced several milestones that position the company as foundational security infrastructure for the agentic AI era.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lyrie.ai Deploys Real-Time Zero-Day Tracking Across Global Enterprise Infrastructure]]></title>
         <id>https://www.theneuron.ai/press-release/lyrieai-deploys-tracking-across-global-infrastructure/</id>
@@ -153,6 +348,26 @@ The post LLM Summarizers Skip the Identification Step appeared first on Towards 
         <updated>2026-05-09T16:00:42.000Z</updated>
         <author>
             <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L'intelligence artificielle souveraine expliquée : ce que les entreprises doivent savoir]]></title>
+        <id>https://www.theneuron.ai/sponsored/lintelligence-artificielle-souveraine-explique--ce-que-les-entreprises-doivent-savoir/</id>
+        <link href="https://www.theneuron.ai/sponsored/lintelligence-artificielle-souveraine-explique--ce-que-les-entreprises-doivent-savoir/"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Un guide pratique de l'IA souveraine pour les entreprises, allant de la résidence des données et de l'infrastructure hybride à la gouvernance, aux modèles ouverts et à l'informatique confidentielle dans les environnements réglementés.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Souveräne KI erklärt: was Unternehmen wissen müssen]]></title>
+        <id>https://www.theneuron.ai/sponsored/souverne-ki-erklrt-was-unternehmen-wissen-mssen/</id>
+        <link href="https://www.theneuron.ai/sponsored/souverne-ki-erklrt-was-unternehmen-wissen-mssen/"/>
+        <updated>2026-05-09T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ein praktischer Leitfaden für souveräne KI in Unternehmen – von Datenresidenz und hybrider Infrastruktur bis zu Governance, offenen Modellen und vertraulicher Datenverarbeitung in regulierten Umgebungen.]]></summary>
+        <author>
+            <name>TheNeuron</name>
         </author>
     </entry>
     <entry>
@@ -5270,134 +5485,6 @@ The post Write Pandas Like a Pro With Method Chaining Pipelines appeared first o
         <link href="https://www.youtube.com/shorts/g9Hwnw1amcY"/>
         <updated>2026-04-12T14:35:01.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Running LLMs Locally Just Got Way Better - Ollama + MCP]]></title>
-        <id>https://www.youtube.com/watch?v=GAyNvq6Ayps</id>
-        <link href="https://www.youtube.com/watch?v=GAyNvq6Ayps"/>
-        <updated>2026-04-12T13:03:02.000Z</updated>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your ReAct Agent Is Wasting 90% of Its Retries — Here’s How to Stop It]]></title>
-        <id>https://towardsdatascience.com/?p=608812</id>
-        <link href="https://towardsdatascience.com/your-react-agent-is-wasting-90-of-its-retries-heres-how-to-stop-it/"/>
-        <updated>2026-04-12T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most ReAct-style agents are silently wasting their retry budget on errors that can never succeed. In a 200-task benchmark, 90.8% of retries were spent on hallucinated tool calls — not model mistakes, but architectural flaws. This article shows why prompt tuning won’t fix it, and the three structural changes that eliminate wasted retries entirely.
-The post Your ReAct Agent Is Wasting 90% of Its Retries — Here’s How to Stop It appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Emmimal P Alexander</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Most products don’t need tone of voice — they need a point]]></title>
-        <id>https://medium.com/p/cf37f7c752ac</id>
-        <link href="https://uxdesign.cc/most-products-dont-need-tone-of-voice-they-need-a-point-cf37f7c752ac?source=rss----138adf9c44c---4"/>
-        <updated>2026-04-12T12:33:41.000Z</updated>
-        <summary type="html"><![CDATA[Instead of BS rules that no one will open twice, focus on what’s useful (like plain English, active voice, and good timing).
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Rita Kind-Envy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing adaptive teams]]></title>
-        <id>https://medium.com/p/cee73e55013d</id>
-        <link href="https://uxdesign.cc/designing-adaptive-teams-cee73e55013d?source=rss----138adf9c44c---4"/>
-        <updated>2026-04-12T12:33:19.000Z</updated>
-        <author>
-            <name>Zeeshan Khalid</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The trust-latency gap: why the future of UX is intentionally slower]]></title>
-        <id>https://medium.com/p/3433c1787d5e</id>
-        <link href="https://uxdesign.cc/the-trust-latency-gap-why-the-future-of-ux-is-intentionally-slower-3433c1787d5e?source=rss----138adf9c44c---4"/>
-        <updated>2026-04-12T12:32:26.000Z</updated>
-        <author>
-            <name>Honey Mehta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hard truths about building in the AI era | Keith Rabois (Khosla Ventures)]]></title>
-        <id>https://www.lennysnewsletter.com/p/hard-truths-about-building-in-the-ai-era</id>
-        <link href="https://www.lennysnewsletter.com/p/hard-truths-about-building-in-the-ai-era"/>
-        <updated>2026-04-12T12:31:41.000Z</updated>
-        <summary type="html"><![CDATA[Listen now | Keith Rabois explains his “barrels vs. ammunition” hiring framework, why talking to customers harms consumer products, how AI is collapsing PM, and more]]></summary>
-        <author>
-            <name>Lenny Rachitsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ultimate Beginner’s Guide to Shopify (2026)]]></title>
-        <id>https://www.youtube.com/watch?v=wQGabloRalM</id>
-        <link href="https://www.youtube.com/watch?v=wQGabloRalM"/>
-        <updated>2026-04-12T11:01:31.000Z</updated>
-        <author>
-            <name>Metics Media</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NemoClaw Tutorial: Run OpenClaw Safely with NVIDIA (Full Setup)]]></title>
-        <id>https://www.youtube.com/watch?v=M0ciMpB-EMY</id>
-        <link href="https://www.youtube.com/watch?v=M0ciMpB-EMY"/>
-        <updated>2026-04-12T11:00:35.000Z</updated>
-        <author>
-            <name>Metics Media</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking design critique]]></title>
-        <id>https://medium.com/p/3d358a859304</id>
-        <link href="https://uxdesign.cc/rethinking-design-critique-3d358a859304?source=rss----138adf9c44c---4"/>
-        <updated>2026-04-11T21:24:47.000Z</updated>
-        <summary type="html"><![CDATA[Building design knowledge through a collaborative process
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Filipe Nzongo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧠 Community Wisdom: Vibe coding as a team sport, teaching interviewers to surface real signal, what’s missing from leadership offsites, and more]]></title>
-        <id>https://www.lennysnewsletter.com/p/community-wisdom-vibe-coding-as-a</id>
-        <link href="https://www.lennysnewsletter.com/p/community-wisdom-vibe-coding-as-a"/>
-        <updated>2026-04-11T19:36:51.000Z</updated>
-        <summary type="html"><![CDATA[Community Wisdom 181]]></summary>
-        <author>
-            <name>Kiyani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced RAG Retrieval: Cross-Encoders & Reranking]]></title>
-        <id>https://towardsdatascience.com/?p=608809</id>
-        <link href="https://towardsdatascience.com/advanced-rag-retrieval-cross-encoders-reranking/"/>
-        <updated>2026-04-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A deep-dive and practical guide to cross-encoders, advanced techniques, and why your retrieval pipeline deserves a second pass.
-The post Advanced RAG Retrieval: Cross-Encoders & Reranking appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ian Ho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch this before you START coding...]]></title>
-        <id>https://www.youtube.com/shorts/FxFdCqotEF8</id>
-        <link href="https://www.youtube.com/shorts/FxFdCqotEF8"/>
-        <updated>2026-04-11T14:30:23.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Just Broke Software Forever]]></title>
-        <id>https://www.youtube.com/watch?v=RDUGbxslOcM</id>
-        <link href="https://www.youtube.com/watch?v=RDUGbxslOcM"/>
-        <updated>2026-04-11T14:29:00.000Z</updated>
         <author>
             <name>Tech With Tim</name>
         </author>
