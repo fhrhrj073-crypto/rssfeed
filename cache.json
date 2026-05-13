@@ -6,6 +6,56 @@
       "siteUrl": "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/Ctb0THKhfcU",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/Ctb0THKhfcU",
+          "publishedOn": "2026-05-13T01:00:10.000Z",
+          "wordCount": 2107,
+          "title": "Did you know Python has a built in method to read any file into a clean list? 🔥",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/my5TOaiJVX0",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/my5TOaiJVX0",
+          "publishedOn": "2026-05-12T18:30:50.000Z",
+          "wordCount": 2125,
+          "title": "Did you know you can flatten any nested list in Python with one line? 🔥",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bzV2EwDyxpk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bzV2EwDyxpk",
+          "publishedOn": "2026-05-12T17:32:33.000Z",
+          "wordCount": null,
+          "title": "Connect Claude to ANY Tool | Full Tutorial",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/0B6ZErYHzRE",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/0B6ZErYHzRE",
+          "publishedOn": "2026-05-12T17:27:00.000Z",
+          "wordCount": 2121,
+          "title": "Did you know you can flatten any nested list in Python with one line? 🔥",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/ziggUcuKHO8",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/ziggUcuKHO8",
+          "publishedOn": "2026-05-12T16:01:36.000Z",
+          "wordCount": 2086,
+          "title": "Stop keeping projects on your machine and start shipping them for real users 🚀",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/8YlV21ChdBY",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
@@ -474,26 +524,6 @@
           "wordCount": null,
           "title": "The Ultimate Claude Code Guide | MCP, Skills & More",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/F3xiVeXHOWc",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/F3xiVeXHOWc",
-          "publishedOn": "2026-04-13T13:25:42.000Z",
-          "wordCount": 2080,
-          "title": "This is the MOST important coding principle.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/g9Hwnw1amcY",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/g9Hwnw1amcY",
-          "publishedOn": "2026-04-12T14:35:01.000Z",
-          "wordCount": 2098,
-          "title": "Were you able to solve it?",
-          "imageUrl": null
         }
       ]
     },
@@ -808,16 +838,6 @@
           "wordCount": null,
           "title": "Squarespace Tutorial for Beginners 2026 - Step by Step",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uycgV-eulGE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uycgV-eulGE",
-          "publishedOn": "2026-04-13T11:50:18.000Z",
-          "wordCount": null,
-          "title": "Full Hermes Agent Setup Tutorial: Step-by-Step Walkthrough",
-          "imageUrl": null
         }
       ]
     },
@@ -826,6 +846,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCawZsQWqfGSbCI5yjkdVkTA",
       "siteUrl": "https://www.youtube.com/channel/UCawZsQWqfGSbCI5yjkdVkTA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=5H3LGJSyaHM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5H3LGJSyaHM",
+          "publishedOn": "2026-05-12T19:45:08.000Z",
+          "wordCount": null,
+          "title": "this is really bad...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=q4rDAu9ggKU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=q4rDAu9ggKU",
+          "publishedOn": "2026-05-12T19:07:46.000Z",
+          "wordCount": null,
+          "title": "WTF is going on at Anthropic?!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/1a_k48eco2c",
           "author": null,
@@ -1302,16 +1342,6 @@
           "wordCount": null,
           "title": "YouMind 實測：比NotebookLM更靈活，還能用 Seedance2.0，創作者夢寐以求的 AI 神器！",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/6rJfsRJOLP0",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/6rJfsRJOLP0",
-          "publishedOn": "2026-04-13T07:48:50.000Z",
-          "wordCount": 2100,
-          "title": "有插頭的行動電源不安全？不是這樣的喔！ ＃直插式行動電源 ＃BSMI",
-          "imageUrl": null
         }
       ]
     },
@@ -1364,6 +1394,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZgwgJ1i9ywc2UweRwp09gg",
       "siteUrl": "https://www.youtube.com/channel/UCZgwgJ1i9ywc2UweRwp09gg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Kigo8LnrVEI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Kigo8LnrVEI",
+          "publishedOn": "2026-05-12T11:59:56.000Z",
+          "wordCount": null,
+          "title": "Gemini in Chrome 咁樣用先最有效！一堆旅行 Tabs + YouTube 影片，變成旅行行程表 | Google Gemini 使用技巧",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Qkzbz4PtFNM",
           "author": null,
@@ -1841,22 +1881,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/93a54a95-62cb-497b-9755-42c44f9139bb_2048x2048.png"
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/claude-cowork-101-how-to-automate",
-          "author": "Claire Vo",
-          "description": "Watch now | 🎙️ JJ Englert (Tenex) shows how to go from zero to one with Claude Cowork—connecting your business tools and creating AI skills that automate emails, Slack, and daily planning without writing code",
-          "link": "https://www.lennysnewsletter.com/p/claude-cowork-101-how-to-automate",
-          "publishedOn": "2026-04-13T12:03:52.000Z",
-          "wordCount": null,
-          "title": "Claude Cowork 101: How to automate your workday without touching code | JJ Englert (Tenex)",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/193603360/aad9e7a7e29ab86cf5d96aff7af7175e.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -1865,6 +1889,22 @@
       "feedUrl": "https://www.thevccorner.com/feed",
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
+        {
+          "id": "https://www.thevccorner.com/p/demis-hassabis-deepmind-self-learning-systems-mit-2019",
+          "author": "Ruben Dominguez",
+          "description": "Demis Hassabis presented this at MIT in March 2019. Most of what he predicted came true. Here is what he saw before anyone else did.",
+          "link": "https://www.thevccorner.com/p/demis-hassabis-deepmind-self-learning-systems-mit-2019",
+          "publishedOn": "2026-05-12T17:14:13.000Z",
+          "wordCount": null,
+          "title": "The 55-Slide Deck That Predicted AlphaFold, LLMs, and the Next Decade of AI",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!Hm10!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F231251a6-fda1-459f-9a79-9e0c3d9b557c_757x448.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!Hm10!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F231251a6-fda1-459f-9a79-9e0c3d9b557c_757x448.png"
+        },
         {
           "id": "https://www.thevccorner.com/p/the-vc-database-most-founders-spend",
           "author": "Ruben Dominguez",
@@ -2200,22 +2240,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!B2rx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff88d44f3-b066-40ce-a79a-f44d75657456_1236x850.png"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/saas-multiples-reset-how-to-get-better",
-          "author": "Ruben Dominguez",
-          "description": "Another week, another pulse check on Tech.",
-          "link": "https://www.thevccorner.com/p/saas-multiples-reset-how-to-get-better",
-          "publishedOn": "2026-04-12T15:59:45.000Z",
-          "wordCount": null,
-          "title": "SaaS Multiples Reset🚨, How to Get Better Outputs from ChatGPT💡, What Is Your Startup Actually Worth?🎯",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!TXKv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71ed4386-d005-4665-a901-c0f371e93a16_980x787.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!TXKv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71ed4386-d005-4665-a901-c0f371e93a16_980x787.png"
         }
       ]
     },
@@ -2225,6 +2249,26 @@
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
         {
+          "id": "https://www.theneuron.ai/newsletter/cerebras-to-ipo-at-33b-take-on-nvidia/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/cerebras-to-ipo-at-33b-take-on-nvidia/",
+          "publishedOn": "2026-05-12T10:00:33.145Z",
+          "wordCount": null,
+          "title": "😺 Cerebras to IPO at $33B, take on Nvidia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-monday-may-11-2026-/",
+          "author": null,
+          "description": "Cerebras upsized its IPO to $4.8B at $33B as Cowboy Space raised $275M to put data centers in orbit; Google confirmed the first criminal AI-discovered zero-day; OpenAI launched DeployCo with $4B+; Anthropic shipped Claude Platform on AWS; METR engineers self-reported 1.4-2x AI value; Mira Murati's Thinking Machines unveiled real-time interaction models.",
+          "link": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-monday-may-11-2026-/",
+          "publishedOn": "2026-05-12T00:53:26.525Z",
+          "wordCount": null,
+          "title": "Around the Horn Digest: Everything That Happened in AI Today (Monday, May 11, 2026)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theneuron.ai/newsletter/microsoft-your-company-is-the-ai-bottleneck/",
           "author": null,
           "description": "",
@@ -2232,6 +2276,16 @@
           "publishedOn": "2026-05-11T10:06:05.815Z",
           "wordCount": null,
           "title": "😺 Microsoft: your company is the AI bottleneck",
+          "imageUrl": null
+        },
+        {
+          "id": "https://theneuron.ai/press-release/lyrieai-deploys-tracking-across-global-infrastructure/",
+          "author": null,
+          "description": "OTT Cybersecurity LLC announced several milestones that position the company as foundational security infrastructure for the agentic AI era.",
+          "link": "https://theneuron.ai/press-release/lyrieai-deploys-tracking-across-global-infrastructure/",
+          "publishedOn": "2026-05-11T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Lyrie.ai Deploys Real-Time Zero-Day Tracking Across Global Enterprise Infrastructure",
           "imageUrl": null
         },
         {
@@ -2993,26 +3047,6 @@
           "wordCount": null,
           "title": "Around the Horn Digest: Everything That Happened in AI Today (Monday, April 13, 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/bad-news-philosophy-majors/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/bad-news-philosophy-majors/",
-          "publishedOn": "2026-04-13T08:30:13.785Z",
-          "wordCount": null,
-          "title": "😸 Bad news, philosophy majors",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/demis-says-chat-came-too-soon/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/demis-says-chat-came-too-soon/",
-          "publishedOn": "2026-04-12T17:30:17.705Z",
-          "wordCount": null,
-          "title": "😺 Demis says chat came too soon",
-          "imageUrl": null
         }
       ]
     },
@@ -3021,6 +3055,46 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=609080",
+          "author": "Mariya Mansurova",
+          "description": "A 4.5-hour journey from idea to working fitness app with LLM agents\nThe post From Vibe Coding to Spec-Driven Development appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/from-vibe-coding-to-spec-driven-development/",
+          "publishedOn": "2026-05-12T16:30:00.000Z",
+          "wordCount": 6056,
+          "title": "From Vibe Coding to Spec-Driven Development",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/1_H1wSxNipPD-UApm0Ys2ZyQ.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609078",
+          "author": "Priyansh Bhardwaj",
+          "description": "When semantic search isn't enough for the RAG\nThe post Hybrid Search and Re-Ranking in Production RAG appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/hybrid-search-and-re-ranking-in-production-rag/",
+          "publishedOn": "2026-05-12T15:00:00.000Z",
+          "wordCount": 6265,
+          "title": "Hybrid Search and Re-Ranking in Production RAG",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/RAG_article_3.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609076",
+          "author": "Partha Sarkar",
+          "description": "Hierarchical understanding and comparison of contracts, research papers, and more\nThe post Proxy-Pointer Framework for Structure-Aware Enterprise Document Intelligence appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/proxy-pointer-framework-for-structure-aware-enterprise-document-intelligence/",
+          "publishedOn": "2026-05-12T13:30:00.000Z",
+          "wordCount": 4923,
+          "title": "Proxy-Pointer Framework for Structure-Aware Enterprise Document Intelligence",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Gemini_Generated_Image_xocnsyxocnsyxocn-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609074",
+          "author": "Luciano Abriata",
+          "description": "Compiling and running C code with Emscripten and GitHub Codespaces — no local installation required.\nThe post Your First WebAssembly Program and Web App (Written, Tested, and Deployed Entirely in the Web Browser) appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/your-first-webassembly-program-and-web-app-written-tested-and-deployed-entirely-in-the-web-browser/",
+          "publishedOn": "2026-05-12T12:00:00.000Z",
+          "wordCount": 6090,
+          "title": "Your First WebAssembly Program and Web App (Written, Tested, and Deployed Entirely in the Web Browser)",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/image-73.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=609070",
           "author": "JUNIOR JUMBONG",
@@ -4070,46 +4144,6 @@
           "wordCount": 4606,
           "title": "Your Model Isn’t Done: Understanding and Fixing Model Drift",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/sayyam-abbasi-MJRjhV49vI8-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608819",
-          "author": "Corné POTGIETER",
-          "description": "What has changed in the past five years in the role and importance of generalists in data teams\nThe post Range Over Depth: A Reflection on the Role of the Data Generalist appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/range-over-depth-a-reflection-on-the-role-of-the-data-generalist/",
-          "publishedOn": "2026-04-13T13:30:00.000Z",
-          "wordCount": 3926,
-          "title": "Range Over Depth: A Reflection on the Role of the Data Generalist",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-7-2026-02_50_02-PM.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608817",
-          "author": "Sean Moran",
-          "description": "By compiling a simple program directly into transformer weights.\nThe post I Built a Tiny Computer Inside a Transformer appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/i-built-a-tiny-computer-inside-a-transformer/",
-          "publishedOn": "2026-04-13T12:00:00.000Z",
-          "wordCount": 6641,
-          "title": "I Built a Tiny Computer Inside a Transformer",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/1F7y4TyYSJhfy-MovOl7h8Q-copy.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608827",
-          "author": "Benjamin Nweke",
-          "description": "Why storing and retrieving data isn’t enough to build reliable AI memory systems\nThe post Stop Treating AI Memory Like a Search Problem appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/stop-treating-ai-memory-like-a-search-problem/",
-          "publishedOn": "2026-04-12T16:00:00.000Z",
-          "wordCount": 7656,
-          "title": "Stop Treating AI Memory Like a Search Problem",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Gemini_Generated_Image_1rsfbq1rsfbq1rsf-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608814",
-          "author": "Ibrahim Salami",
-          "description": "Master method chaining, assign(), and pipe() to write cleaner, testable, production-ready Pandas code\nThe post Write Pandas Like a Pro With Method Chaining Pipelines appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/this-one-pandas-pattern-separates-beginners-from-intermediate-users/",
-          "publishedOn": "2026-04-12T15:00:00.000Z",
-          "wordCount": 6035,
-          "title": "Write Pandas Like a Pro With Method Chaining Pipelines",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/method-chaining.jpg"
         }
       ]
     },
@@ -4124,6 +4158,56 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/6d57e619d866",
+          "author": "Kai Wong",
+          "description": "What 6 emojis can teach you about translating your impact\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/what-do-you-do-if-your-best-design-work-is-a-small-project-6d57e619d866?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-05-12T22:14:34.000Z",
+          "wordCount": null,
+          "title": "What do you do if your best design work is a small project?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1b71f9f35ee8",
+          "author": "Rita Kind-Envy",
+          "description": "The strange details we only notice when we slow down.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/low-cortisol-solution-to-big-problems-1b71f9f35ee8?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-05-12T22:14:30.000Z",
+          "wordCount": null,
+          "title": "Low cortisol solution to big problems",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e11439fbb688",
+          "author": "Adi Leviim",
+          "description": "",
+          "link": "https://uxdesign.cc/the-death-of-the-empty-state-in-ai-products-2026-e11439fbb688?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-05-12T22:14:18.000Z",
+          "wordCount": null,
+          "title": "The death of the empty state in AI products",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5db3c32eff7a",
+          "author": "Luis Berumen Castro",
+          "description": "What Bruce Lee can teach us about structure, flow, and intention.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/be-like-water-rethinking-design-process-and-ai-experimentation-5db3c32eff7a?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-05-12T08:55:34.000Z",
+          "wordCount": null,
+          "title": "Be like water: Rethinking the design process with AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4a484080484b",
+          "author": "Suleiman Shakir",
+          "description": "",
+          "link": "https://uxdesign.cc/how-i-use-ai-to-think-through-design-problems-4a484080484b?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-05-12T08:54:23.000Z",
+          "wordCount": null,
+          "title": "How I use AI to partner on design problems",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/b8d4adf3322c",
           "author": "Darren Yeo",
@@ -4753,16 +4837,6 @@
           "wordCount": null,
           "title": "How to turn your competitor’s worst reviews into your strongest design argument",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/98e75650e97d",
-          "author": "Fabricio Teixeira",
-          "description": "",
-          "link": "https://uxdesign.cc/the-erosion-of-design-authority-burnout-problems-invisible-customers-98e75650e97d?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-04-13T12:25:05.000Z",
-          "wordCount": null,
-          "title": "The erosion of design authority, burnout problems, invisible customers",
-          "imageUrl": null
         }
       ]
     },
@@ -4777,6 +4851,16 @@
       "feedUrl": "https://blog.pragmaticengineer.com/feed",
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
+        {
+          "id": "6a0348f9c21cab000134339f",
+          "author": "Gergely Orosz",
+          "description": "tl;dr: TechPays is joining Levels.fyi: so the leading tech salary site in Europe gets the love and care it deserves. Thanks to Zsombor for building this project with me for so many years.\nPay transparency has always been an issue in tech, especially in Europe. For a while,",
+          "link": "https://blog.pragmaticengineer.com/techpays-has-been-acquired-levels-fyi/",
+          "publishedOn": "2026-05-12T16:06:08.000Z",
+          "wordCount": 1439,
+          "title": "TechPays has been acquired by Levels.fyi",
+          "imageUrl": null
+        },
         {
           "id": "69fccc856562a30001f428bb",
           "author": "Gergely Orosz",
@@ -4814,6 +4898,106 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/be634cf91872",
+          "author": "Jim Clyde Monge",
+          "description": "Google’s upcoming video model, Gemini Omni, got leaked with sample videos ahead of Google I/O 2026.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/googles-new-gemini-omni-video-model-got-leaked-be634cf91872?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-12T09:00:58.000Z",
+          "wordCount": null,
+          "title": "Google’s New “Gemini Omni” Video Model Got Leaked",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/841946f0ea83",
+          "author": "The Dev Loop",
+          "description": "The open protocol quietly becoming the backbone of every AI tool and why every developer needs to understand it now.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/i-spent-3-days-writing-integration-code-that-mcp-makes-completely-obsolete-841946f0ea83?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-12T08:59:42.000Z",
+          "wordCount": null,
+          "title": "I Spent 3 Days Writing Integration Code That MCP Makes Completely Obsolete",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/97783800861b",
+          "author": "Osama Abdelwahed",
+          "description": "",
+          "link": "https://generativeai.pub/4-760-jobs-gone-at-paypal-the-eus-deadline-to-do-something-about-it-december-2027-97783800861b?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-12T08:55:41.000Z",
+          "wordCount": null,
+          "title": "4,760 Jobs Gone at PayPal. The EU’s Deadline to Do Something About It: December 2027.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f8fe8589073f",
+          "author": "Ryan Lester",
+          "description": "",
+          "link": "https://generativeai.pub/leftists-govts-ai-companies-are-designing-your-future-without-you-get-in-the-f-ing-room-f8fe8589073f?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-12T08:54:06.000Z",
+          "wordCount": null,
+          "title": "Leftists! Govts & AI Companies Are Designing Your Future Without You...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e209938a918b",
+          "author": "AI Unfiltered",
+          "description": "The people who learned to code line by line may be the last who needed to. This is not a warning. It is an observation.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/the-last-generation-of-traditional-developers-e209938a918b?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-12T08:51:13.000Z",
+          "wordCount": null,
+          "title": "The Last Generation of Traditional Developers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/111a3bb93b35",
+          "author": "James Wilkins",
+          "description": "Strategies and practical tips to write more effectively with AI\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/how-i-use-claude-as-a-writing-assistant-medium-hear-me-out-111a3bb93b35?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-12T08:49:35.000Z",
+          "wordCount": null,
+          "title": "How I Use Claude as a Writing Assistant (Medium, hear me out)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/cefe5743f5c2",
+          "author": "Aris Novar",
+          "description": "",
+          "link": "https://generativeai.pub/a-new-documentary-featuring-cameron-berg-ignites-public-debate-are-we-training-ai-to-see-us-as-cefe5743f5c2?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-12T08:47:44.000Z",
+          "wordCount": null,
+          "title": "A New Documentary Featuring Cameron Berg Ignites Public Debate: Are We Training AI to See Us as…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/255ce2043669",
+          "author": "Shubham Choudhary",
+          "description": "I almost ignored NVIDIA PhysicsNeMo when I first saw the name.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/nvidia-physicsnemo-explained-the-ai-physics-framework-that-made-me-rethink-scientific-machine-255ce2043669?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-12T08:46:40.000Z",
+          "wordCount": null,
+          "title": "NVIDIA PhysicsNeMo Explained: The AI Physics Framework That Made Me Rethink Scientific Machine…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a289ef5b5bea",
+          "author": "Marco van Hurne",
+          "description": "",
+          "link": "https://generativeai.pub/the-agentic-governance-crisis-a289ef5b5bea?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-12T08:41:55.000Z",
+          "wordCount": null,
+          "title": "The agentic governance crisis",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ad50e5e1c7bf",
+          "author": "xbill",
+          "description": "",
+          "link": "https://generativeai.pub/mcp-development-with-amazon-elastic-beanstalk-ebs-ad50e5e1c7bf?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-12T08:41:32.000Z",
+          "wordCount": null,
+          "title": "MCP Development with Amazon Elastic Beanstalk (EBS)",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/31450c5a3866",
           "author": "Jim Clyde Monge",
