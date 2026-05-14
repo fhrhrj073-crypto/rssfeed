@@ -1849,38 +1849,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/not-all-ai-agents-are-created-equal",
-          "author": "Hamza Farooq",
-          "description": "A framework for categorizing and prioritizing your agent initiatives",
-          "link": "https://www.lennysnewsletter.com/p/not-all-ai-agents-are-created-equal",
-          "publishedOn": "2026-04-14T12:46:08.000Z",
-          "wordCount": null,
-          "title": "Not all AI agents are created equal",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!0bKY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7622271-6226-44da-926d-8fbb1e4af173_1456x970.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!0bKY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7622271-6226-44da-926d-8fbb1e4af173_1456x970.png"
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-claude-cowork",
-          "author": "Lenny Rachitsky",
-          "description": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-          "link": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-claude-cowork",
-          "publishedOn": "2026-04-13T15:07:46.000Z",
-          "wordCount": null,
-          "title": "🎙️ This week on How I AI: Claude Cowork tutorial for non-engineers + Build your own Slack inbox (for $0)",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/93a54a95-62cb-497b-9755-42c44f9139bb_2048x2048.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/93a54a95-62cb-497b-9755-42c44f9139bb_2048x2048.png"
         }
       ]
     },
@@ -1889,6 +1857,22 @@
       "feedUrl": "https://www.thevccorner.com/feed",
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
+        {
+          "id": "https://www.thevccorner.com/p/rippling-series-f-investment-memo-parker-conrad-2024",
+          "author": "Ruben Dominguez",
+          "description": "The Rippling Series F investor memo is one of the most copied fundraising documents in startup history. Here is the full version.",
+          "link": "https://www.thevccorner.com/p/rippling-series-f-investment-memo-parker-conrad-2024",
+          "publishedOn": "2026-05-13T14:37:39.000Z",
+          "wordCount": null,
+          "title": "Parker Conrad Wrote a Memo Instead of a Pitch Deck. It Raised $200M.",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!cUmB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef5f6ce1-2087-4047-9383-614ef31281f7_1111x496.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!cUmB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef5f6ce1-2087-4047-9383-614ef31281f7_1111x496.png"
+        },
         {
           "id": "https://www.thevccorner.com/p/demis-hassabis-deepmind-self-learning-systems-mit-2019",
           "author": "Ruben Dominguez",
@@ -2224,22 +2208,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!FUsc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9391e873-d9b6-417e-805f-f18327f6853b_1280x854.jpeg"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/free-ai-gtm-kit-founders-2026",
-          "author": "Ruben Dominguez",
-          "description": "A free Notion kit trained on Sequoia, a16z, and the go-to-market playbooks top VCs use with their portfolio companies",
-          "link": "https://www.thevccorner.com/p/free-ai-gtm-kit-founders-2026",
-          "publishedOn": "2026-04-13T14:57:34.000Z",
-          "wordCount": null,
-          "title": "The GTM System Most Founders Build Too Late",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!B2rx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff88d44f3-b066-40ce-a79a-f44d75657456_1236x850.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!B2rx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff88d44f3-b066-40ce-a79a-f44d75657456_1236x850.png"
         }
       ]
     },
@@ -2248,6 +2216,46 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/thinking-machines-wants-ai-to-stop-waiting-its-turn/",
+          "author": null,
+          "description": "Mira Murati’s Thinking Machines Lab is betting that AI’s next leap is not just smarter models, but better timing. Its new interaction models are designed to listen, watch, respond, interrupt, and use tools in real time.",
+          "link": "https://www.theneuron.ai/explainer-articles/thinking-machines-wants-ai-to-stop-waiting-its-turn/",
+          "publishedOn": "2026-05-13T12:30:17.342Z",
+          "wordCount": null,
+          "title": "Thinking Machines Wants AI to Stop Waiting Its Turn",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/newsletter/google-is-killing-the-prompt-box/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/google-is-killing-the-prompt-box/",
+          "publishedOn": "2026-05-13T10:01:18.546Z",
+          "wordCount": null,
+          "title": "😺Google is killing the prompt box",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-tuesday-may-12-2026/",
+          "author": null,
+          "description": "Anthropic refused China access to its newest model; Isomorphic raised $2.1B; Google pushed Gemini deeper into Android; xAI shipped Grok Voice Think Fast; supply-chain attackers hit Mistral and TanStack.",
+          "link": "https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-tuesday-may-12-2026/",
+          "publishedOn": "2026-05-13T07:38:31.350Z",
+          "wordCount": null,
+          "title": "Everything That Happened in AI Today Tuesday, May 12, 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/-google-perceptron-and-thinking-machines-are-trying-to-kill-the-prompt-box/",
+          "author": null,
+          "description": "Google’s Magic Pointer, Perceptron Mk1, and Thinking Machines’ interaction models all point toward the same shift: AI interfaces are moving from “type a perfect prompt” to “show the system what you mean.”",
+          "link": "https://www.theneuron.ai/explainer-articles/-google-perceptron-and-thinking-machines-are-trying-to-kill-the-prompt-box/",
+          "publishedOn": "2026-05-13T05:23:22.118Z",
+          "wordCount": null,
+          "title": "🙀 Google, Perceptron, and Thinking Machines Are Trying to Kill the Prompt Box",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/newsletter/cerebras-to-ipo-at-33b-take-on-nvidia/",
           "author": null,
@@ -3027,26 +3035,6 @@
           "wordCount": null,
           "title": "Anthropic Used Claude To Beat Its Own Human Alignment Researchers (At $22 An Hour)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/someone-firebombed-sam-altman-s-house/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/someone-firebombed-sam-altman-s-house/",
-          "publishedOn": "2026-04-14T10:00:47.777Z",
-          "wordCount": null,
-          "title": "😺 Someone firebombed Sam Altman's house",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-april-13-2026/",
-          "author": null,
-          "description": "Stanford's 2026 AI Index quantified the gap between AI insiders and the public, Anthropic's Mythos triggered a Fed-led bank summit, Berkeley researchers broke every major agent benchmark, Microsoft started building its own OpenClaw, and an AI signed a 3-year retail lease in San Francisco.",
-          "link": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-april-13-2026/",
-          "publishedOn": "2026-04-14T01:19:29.719Z",
-          "wordCount": null,
-          "title": "Around the Horn Digest: Everything That Happened in AI Today (Monday, April 13, 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -3055,6 +3043,46 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=609092",
+          "author": "Sarah Schürch",
+          "description": "A practical comparison between rule-based PDF extraction using pytesseract and an LLM-based approach with Ollama and LLaMA 3, based on a realistic B2B order scenario.\nThe post I Built the Same B2B Document Extractor Twice: Rules vs. LLM appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/i-built-the-same-b2b-document-extractor-twice-rules-vs-llm/",
+          "publishedOn": "2026-05-13T18:22:05.000Z",
+          "wordCount": 5474,
+          "title": "I Built the Same B2B Document Extractor Twice: Rules vs. LLM",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/I-built-the-same-B2B-Document-Extractor-Twice-Regex-Rules-vs.-LLM.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609090",
+          "author": "Mahnoor Javed",
+          "description": "A beginner's tutorial on exploratory data analysis using Pandas, Matplolib, and Seaborn\nThe post Exploring Patterns of Survival from the Titanic Dataset appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/exploring-patterns-of-survival-from-the-titanic-dataset/",
+          "publishedOn": "2026-05-13T16:46:36.000Z",
+          "wordCount": 5514,
+          "title": "Exploring Patterns of Survival from the Titanic Dataset",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/museums-victoria-i-0yKUMumlo-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609086",
+          "author": "Ferran Alia",
+          "description": "I spent a weekend trying to convince a language model it was C-3PO. Here's what actually worked.\nThe post What’s the Best Way to Brainwash an LLM? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/whats-the-best-way-to-brainwash-an-llm/",
+          "publishedOn": "2026-05-13T13:30:00.000Z",
+          "wordCount": 5362,
+          "title": "What’s the Best Way to Brainwash an LLM?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/ChatGPT-Image-May-10-2026-11_10_46-PM.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609083",
+          "author": "Pratik R",
+          "description": "A 12-metric evaluation framework for production AI agents — covering retrieval, generation, agent behavior, and production health. Drawn from 100+ enterprise deployments.\nThe post Building an Evaluation Harness for Production AI Agents: A 12-Metric Framework From 100+ Deployments appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/building-an-evaluation-harness-for-production-ai-agents-a-12-metric-framework-from-100-deployments/",
+          "publishedOn": "2026-05-13T12:00:00.000Z",
+          "wordCount": 6940,
+          "title": "Building an Evaluation Harness for Production AI Agents: A 12-Metric Framework From 100+ Deployments",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/tds_eval_harness_cover.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=609080",
           "author": "Mariya Mansurova",
@@ -4104,46 +4132,6 @@
           "wordCount": 4336,
           "title": "A Practical Guide to Choosing the Right Quantum SDK",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/pexels-dkomov-34804006-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608833",
-          "author": "Ryan D'Cunha",
-          "description": "In an age of constrained compute, learn how to optimize GPU efficiency through understanding architecture, bottlenecks, and fixes ranging from simple PyTorch commands to custom kernels.\nThe post A Guide to Understanding GPUs and Maximizing GPU Utilization appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/a-guide-to-gpu-utilization/",
-          "publishedOn": "2026-04-14T13:30:00.000Z",
-          "wordCount": 6390,
-          "title": "A Guide to Understanding GPUs and Maximizing GPU Utilization",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/gpu_utilization_cover-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608830",
-          "author": "Ryan Burn",
-          "description": "Generate high-quality, minimal SVG plots by fitting Bézier curves with an ODF algorithm.\nThe post How To Produce Ultra-Compact Vector Graphic Plots With Orthogonal Distance Fitting appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-produce-ultra-compact-vector-graphic-plots-with-orthogonal-distance-fitting/",
-          "publishedOn": "2026-04-14T12:00:00.000Z",
-          "wordCount": 5565,
-          "title": "How To Produce Ultra-Compact Vector Graphic Plots With Orthogonal Distance Fitting",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/header-1-1-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608823",
-          "author": "Eivind Kjosbakken",
-          "description": "Learn how to apply coding agents to all tasks on your computer\nThe post How to Apply Claude Code to Non-technical Tasks appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-apply-claude-code-to-non-technical-tasks/",
-          "publishedOn": "2026-04-13T16:30:00.000Z",
-          "wordCount": 4624,
-          "title": "How to Apply Claude Code to Non-technical Tasks",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/image-79.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608821",
-          "author": "Hayden Kastens",
-          "description": "How production models fail over time, and how to catch and fix it before it breaks trust.\nThe post Your Model Isn’t Done: Understanding and Fixing Model Drift appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/your-model-isnt-done-understanding-and-fixing-model-drift/",
-          "publishedOn": "2026-04-13T15:00:00.000Z",
-          "wordCount": 4606,
-          "title": "Your Model Isn’t Done: Understanding and Fixing Model Drift",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/sayyam-abbasi-MJRjhV49vI8-unsplash-scaled-1.jpg"
         }
       ]
     },
@@ -4898,6 +4886,96 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/adae3ff139c3",
+          "author": "Jim Clyde Monge",
+          "description": "I compiled the top five AI-powered presentation generators that you must know and use this 2026.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/5-ai-presentation-generators-you-should-know-about-in-2026-adae3ff139c3?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-13T09:01:27.000Z",
+          "wordCount": null,
+          "title": "5 AI Presentation Generators You Should Know About in 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/44890284f912",
+          "author": "Jes Fink-Jensen",
+          "description": "A single-file local LLM agent on Ollama: tools, skills, slash commands, persistent history, self-compaction, and loops.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/build-your-own-claude-code-in-250-lines-of-python-44890284f912?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-13T03:52:06.000Z",
+          "wordCount": null,
+          "title": "Build Your Own Claude Code in 250 Lines of Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d4fe5d13c029",
+          "author": "Patil Shubham",
+          "description": "",
+          "link": "https://generativeai.pub/beyond-the-for-loop-vectorizing-k-means-from-scratch-to-master-numpy-d4fe5d13c029?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-13T03:50:39.000Z",
+          "wordCount": null,
+          "title": "Beyond the for Loop: Vectorizing K-Means from Scratch to Master NumPy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/059df39da0a5",
+          "author": "Udi Lumnitz",
+          "description": "",
+          "link": "https://generativeai.pub/talkie-and-the-case-for-vintage-large-language-models-059df39da0a5?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-13T03:50:03.000Z",
+          "wordCount": null,
+          "title": "Talkie and the Case for Vintage Large Language Models",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e609c048cac3",
+          "author": "Felix Pappe",
+          "description": "Get the most out of image generation models\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/15-use-cases-for-gpt-image-2-you-dont-know-yet-e609c048cac3?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-13T03:48:14.000Z",
+          "wordCount": null,
+          "title": "15 Use Cases for GPT-Image-2: You don’t know yet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/55cd61d22f5c",
+          "author": "Ahmed M. Abdelfattah",
+          "description": "What the Musk v. Altman trial testimony and the $6.6 billion tender offer reveal, read together and three questions worth asking before…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/openai-dissolved-its-safety-teams-then-75-employees-cashed-out-30-million-each-55cd61d22f5c?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-13T03:47:43.000Z",
+          "wordCount": null,
+          "title": "OpenAI Dissolved Its Safety Teams. Then 75 Employees Cashed Out $30 Million Each.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3db777b1a3c8",
+          "author": "Hayanan",
+          "description": "Why you and your friend get different responses from the same AI a deep technical tour through sampling, batch invariance failure…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/why-the-same-ai-prompt-gives-different-answers-the-hidden-engineering-behind-chatgpt-claude-and-3db777b1a3c8?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-13T03:45:43.000Z",
+          "wordCount": null,
+          "title": "Why the Same AI Prompt Gives Different Answers: The Hidden Engineering Behind ChatGPT, Claude, and…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2d734bee718e",
+          "author": "Somendradev",
+          "description": "New to Vector Databases and Embeddings? This beginner-friendly guide explains what embeddings are, how vector databases work, and how to…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/introduction-to-vector-databases-embeddings-a-beginners-guide-2d734bee718e?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-13T03:45:01.000Z",
+          "wordCount": null,
+          "title": "Introduction to Vector Databases & Embeddings: A Beginner’s Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/bf44620f5dc0",
+          "author": "Jim Clyde Monge",
+          "description": "",
+          "link": "https://generativeai.pub/seedance-2-0-vs-happyhorse-1-0-which-ai-video-model-is-better-bf44620f5dc0?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-13T02:38:16.000Z",
+          "wordCount": null,
+          "title": "Seedance 2.0 vs HappyHorse 1.0 — Which AI Video Model is Better?",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/be634cf91872",
           "author": "Jim Clyde Monge",
@@ -6016,116 +6094,6 @@
           "publishedOn": "2026-04-16T14:36:34.000Z",
           "wordCount": null,
           "title": "RAG Is a Hack. Here’s Why It’s Fundamentally Broken.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/af8b3a8ca011",
-          "author": "Jim Clyde Monge",
-          "description": "Here’s how I do my Claude Code setup that 10x my agentic development productivity.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/my-ultimate-claude-code-setup-af8b3a8ca011?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-14T02:17:37.000Z",
-          "wordCount": null,
-          "title": "My Ultimate Claude Code Setup",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/79c27e7795b0",
-          "author": "Jim Clyde Monge",
-          "description": "",
-          "link": "https://generativeai.pub/i-built-a-full-stack-ai-driven-blog-and-news-website-boilerplate-79c27e7795b0?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-13T14:46:26.000Z",
-          "wordCount": null,
-          "title": "I Built a Full-Stack AI-Driven Blog and News Website Boilerplate",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/bbe5457ee0f7",
-          "author": "Ahmed M. Abdelfattah",
-          "description": "How the AI lab built on ‘safety first’ accidentally leaked its own model, watched it escape testing, and then gave it exclusively to Apple…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/anthropics-ai-escaped-its-sandbox-and-emailed-a-researcher-in-a-park-that-s-not-the-scary-part-bbe5457ee0f7?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-13T14:31:47.000Z",
-          "wordCount": null,
-          "title": "Anthropic’s AI Escaped Its Sandbox and Emailed a Researcher in a Park. That’s Not the Scary Part.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/aab1510e1978",
-          "author": "Jes Fink-Jensen",
-          "description": "Here is a quick overview of how to install Ollama and OpenCode on Windows and make Ollama LLMs available to OpenCode.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/free-ai-coding-with-opencode-ollama-on-windows-aab1510e1978?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-13T14:31:00.000Z",
-          "wordCount": null,
-          "title": "Free AI Coding with OpenCode + Ollama on Windows",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/5848daa58bc5",
-          "author": "Marco van Hurne",
-          "description": "",
-          "link": "https://generativeai.pub/everyones-job-will-be-affected-by-ai-and-this-is-the-uncomfortable-evidence-5848daa58bc5?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-13T14:28:46.000Z",
-          "wordCount": null,
-          "title": "Everyone’s job will be affected by AI and this is the uncomfortable evidence",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/e54dedbe364e",
-          "author": "Sweety Tripathi",
-          "description": "",
-          "link": "https://generativeai.pub/i-stopped-using-vector-databases-for-rag-pageindex-vectorless-rag-e54dedbe364e?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-13T14:27:51.000Z",
-          "wordCount": null,
-          "title": "I Stopped Using Vector Databases for RAG : PageIndex Vectorless RAG",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/1381063dd930",
-          "author": "Sophie Bertin",
-          "description": "",
-          "link": "https://generativeai.pub/the-most-valuable-thing-in-the-age-of-ai-is-your-point-of-view-and-your-uniqueness-1381063dd930?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-13T14:27:22.000Z",
-          "wordCount": null,
-          "title": "The most valuable thing in the age of AI is your point of view and your uniqueness.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/aad79c9442df",
-          "author": "Esraa Abduallah",
-          "description": "",
-          "link": "https://generativeai.pub/finding-clarity-after-chaos-in-tech-aad79c9442df?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-13T14:27:20.000Z",
-          "wordCount": null,
-          "title": "Finding Clarity After Chaos in Tech",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/66923f506502",
-          "author": "Vivek",
-          "description": "This week, Reuters reported that Anthropic is exploring designing its own custom AI chips (Silicon Republic). And honestly, I had to read…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/anthropic-wants-to-build-their-own-chips-now-66923f506502?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-13T14:25:51.000Z",
-          "wordCount": null,
-          "title": "Anthropic Wants to Build Their Own Chips Now?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/661b433c0929",
-          "author": "Jayanth",
-          "description": "",
-          "link": "https://generativeai.pub/i-replaced-a-3-000-voice-production-workflow-with-a-free-telegram-bot-heres-exactly-how-661b433c0929?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-13T14:24:27.000Z",
-          "wordCount": null,
-          "title": "I Replaced a $3,000 Voice Production Workflow With a Free Telegram Bot. Here’s Exactly How.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/128b876966f4",
-          "author": "Mil Hoornaert",
-          "description": "Claude Mythos might be AGI…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/anthropic-just-made-a-model-so-good-they-wont-release-it-128b876966f4?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-13T14:23:30.000Z",
-          "wordCount": null,
-          "title": "Anthropic Just Made a Model So Good They Won’t Release It",
           "imageUrl": null
         }
       ]
