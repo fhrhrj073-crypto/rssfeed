@@ -494,16 +494,6 @@
           "wordCount": null,
           "title": "AI Testing Just Arrived... | KaneAI Full Tutorial",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/axSyL9r5xcg",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/axSyL9r5xcg",
-          "publishedOn": "2026-04-17T14:00:08.000Z",
-          "wordCount": 2086,
-          "title": "Is AI slowing you down?",
-          "imageUrl": null
         }
       ]
     },
@@ -512,6 +502,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfQNB91qRP_5ILeu_S_bSkg",
       "siteUrl": "https://www.youtube.com/channel/UCfQNB91qRP_5ILeu_S_bSkg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=VQPWyS2KGt0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VQPWyS2KGt0",
+          "publishedOn": "2026-05-17T18:06:00.000Z",
+          "wordCount": null,
+          "title": "Claude Code is 1000x better when you use this tool",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=0nI5oo0BDDA",
           "author": null,
@@ -1115,26 +1115,6 @@
           "wordCount": null,
           "title": "GPT Image 2, AI Psychosis, and more",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JyvKwKMS6SU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JyvKwKMS6SU",
-          "publishedOn": "2026-04-17T20:07:22.000Z",
-          "wordCount": null,
-          "title": "Seeing if Opus 4.7 sucks [LIVE]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XG3ksRWsUJ8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XG3ksRWsUJ8",
-          "publishedOn": "2026-04-17T19:04:06.000Z",
-          "wordCount": null,
-          "title": "I messed up...",
-          "imageUrl": null
         }
       ]
     },
@@ -1282,16 +1262,6 @@
           "wordCount": null,
           "title": "MSI Prestige 14 Flip AI+開箱實測： 20 小時長效續航比肩Macbook，還能順跑3A大作！",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kSFpMnLcdb8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kSFpMnLcdb8",
-          "publishedOn": "2026-04-18T06:31:14.000Z",
-          "wordCount": null,
-          "title": "「中翻」專訪黃仁勳拆解 Nvidia 護城河：從 TPU 競爭到中國晶片出口管制一次講清楚",
-          "imageUrl": null
         }
       ]
     },
@@ -1389,6 +1359,22 @@
       "feedUrl": "https://www.lennysnewsletter.com/feed",
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
+        {
+          "id": "https://www.lennysnewsletter.com/p/why-were-at-the-beginning-of-the",
+          "author": "Lenny Rachitsky",
+          "description": "Listen now | Caitlin Kalinowski on supply chain vulnerabilities threaten the robotics revolution, why consumer VR failed, and what she learned building products at Apple, Meta, and OpenAI",
+          "link": "https://www.lennysnewsletter.com/p/why-were-at-the-beginning-of-the",
+          "publishedOn": "2026-05-17T12:31:57.000Z",
+          "wordCount": null,
+          "title": "Why we’re at the beginning of the AI hardware boom | Caitlin Kalinowski (ex–OpenAI, Meta, Apple)",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/196483701/2f9a6c609377e62db434fdc5c77f8072.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://www.lennysnewsletter.com/p/community-wisdom-screening-ai-slop",
           "author": "Kiyani",
@@ -1797,6 +1783,22 @@
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
         {
+          "id": "https://www.thevccorner.com/p/ai-anxiety-has-reached-every-layer",
+          "author": "Ruben Dominguez",
+          "description": "Another week, another pulse check on Tech.",
+          "link": "https://www.thevccorner.com/p/ai-anxiety-has-reached-every-layer",
+          "publishedOn": "2026-05-17T20:01:48.000Z",
+          "wordCount": null,
+          "title": "AI Anxiety Has Reached Every Layer of Tech😰, AI Second Brain🧠, Climate Tech Rebounds🌱",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!xmdV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccda92b3-9d0b-4991-a7cd-895adc450541_680x570.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!xmdV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccda92b3-9d0b-4991-a7cd-895adc450541_680x570.jpeg"
+        },
+        {
           "id": "https://www.thevccorner.com/p/5-moats-ai-cannot-replicate",
           "author": "Ruben Dominguez",
           "description": "A research-backed breakdown of the only competitive advantages that compound in an AI world",
@@ -2139,6 +2141,26 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/newsletter/ai-hackers-found-a-new-lane/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/ai-hackers-found-a-new-lane/",
+          "publishedOn": "2026-05-17T23:15:15.100Z",
+          "wordCount": null,
+          "title": "😿 AI hackers found a new lane",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/around-the-horn-week-in-review-everything-that-happened-in-ai-this-week-may-11-15-2026/",
+          "author": null,
+          "description": "Anthropic refused China access to Mythos while the Pentagon used the model family for cyber defense; Cerebras and Cowboy Space pushed AI compute into new territory; Recursive Superintelligence raised $650M; Google confirmed criminal AI-driven zero-day exploitation; plus the week's best new tools.",
+          "link": "https://www.theneuron.ai/explainer-articles/around-the-horn-week-in-review-everything-that-happened-in-ai-this-week-may-11-15-2026/",
+          "publishedOn": "2026-05-17T23:14:15.037Z",
+          "wordCount": null,
+          "title": "Around the Horn Week in Review: Everything That Happened in AI This Week (May 11-15, 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/newsletter/the-ai-cold-war-got-a-protocol/",
           "author": null,
@@ -2896,6 +2918,26 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=609117",
+          "author": "Soner Yıldırım",
+          "description": "Billions of rows might be the exception, but for everything else, Pandas is still a highly reliable tool.\nThe post Pandas Isn’t Going Anywhere: Why It’s Still My Go-To for Data Wrangling appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/pandas-isnt-going-anywhere-why-its-still-my-go-to-for-data-wrangling/",
+          "publishedOn": "2026-05-17T15:00:00.000Z",
+          "wordCount": 4152,
+          "title": "Pandas Isn’t Going Anywhere: Why It’s Still My Go-To for Data Wrangling",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/efe-yagiz-soysal-SgU7-iZn8m8-unsplash-Medium.jpeg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609115",
+          "author": "Emmimal P Alexander",
+          "description": "Most LLM evaluation systems rely on vague scoring and human judgment disguised as metrics. I built a lightweight evaluation layer in pure Python that turns LLM outputs into reproducible decisions by separating attribution, specificity, and relevance—so hallucinations are caught before they reach production.\nThe post LLM Evals Are Based on Vibes — I Built the Missing Layer That Decides What Ships appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/llm-evals-are-based-on-vibes-i-built-the-missing-layer-that-decides-what-ships/",
+          "publishedOn": "2026-05-17T13:00:00.000Z",
+          "wordCount": 7990,
+          "title": "LLM Evals Are Based on Vibes — I Built the Missing Layer That Decides What Ships",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Missing-Scoring-Layer.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=609113",
           "author": "Ibrahim Salami",
@@ -3905,46 +3947,6 @@
           "wordCount": 6702,
           "title": "Your RAG System Retrieves the Right Data — But Still Produces Wrong Answers. Here’s Why (and How to Fix It).",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/The-System-Behaved-Exactly-as-Designed.-The-Answer-Was-Still-Wrong-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608879",
-          "author": "Ruben Broekx",
-          "description": "Git worktrees, parallel agentic coding sessions, and the setup tax you should be aware of\nThe post AI Agents Need Their Own Desk, and Git Worktrees Give Them One appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/ai-agents-need-their-own-desk-and-git-worktrees-give-it-one/",
-          "publishedOn": "2026-04-18T13:00:00.000Z",
-          "wordCount": 6988,
-          "title": "AI Agents Need Their Own Desk, and Git Worktrees Give Them One",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/one_repo_many_desks.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608893",
-          "author": "Egor Howell",
-          "description": "What I wish I did at the beginning of my journey\nThe post How to Learn Python for Data Science Fast in 2026 (Without Wasting Time) appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-learn-python-so-fast-it-feels-like-cheating/",
-          "publishedOn": "2026-04-18T11:00:00.000Z",
-          "wordCount": 4631,
-          "title": "How to Learn Python for Data Science Fast in 2026 (Without Wasting Time)",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/ZERO-1-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608872",
-          "author": "Yu Dong",
-          "description": "How I turned my eight-year weekly visualization habit into a reusable AI workflow\nThe post Beyond Prompting: Using Agent Skills in Data Science appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/beyond-prompting-using-agent-skills-in-data-science/",
-          "publishedOn": "2026-04-17T16:30:00.000Z",
-          "wordCount": 4444,
-          "title": "Beyond Prompting: Using Agent Skills in Data Science",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/skill_viz_cover.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608874",
-          "author": "Léo Saci",
-          "description": "What if an unsupervised model could become a strong classifier with only a handful of labels?\nThe post You Don’t Need Many Labels to Learn appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/you-dont-need-many-labels-to-learn/",
-          "publishedOn": "2026-04-17T15:00:00.000Z",
-          "wordCount": 4973,
-          "title": "You Don’t Need Many Labels to Learn",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/p-anosh-7Uqthlhbjs8-unsplash-scaled-1.jpg"
         }
       ]
     },
@@ -3959,6 +3961,26 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/a26391fe3ae1",
+          "author": "Catherine Chu",
+          "description": "",
+          "link": "https://uxdesign.cc/how-mobile-apps-are-reshaping-screening-for-cognitive-decline-a26391fe3ae1?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-05-17T21:39:23.000Z",
+          "wordCount": null,
+          "title": "How mobile apps are reshaping screening for cognitive decline",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a1b6597651a9",
+          "author": "Ioannis Nousis",
+          "description": "",
+          "link": "https://uxdesign.cc/two-gears-one-compass-designing-at-velocity-while-sustaining-quality-a1b6597651a9?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-05-17T21:38:38.000Z",
+          "wordCount": null,
+          "title": "Two gears, one compass: designing at velocity while sustaining quality",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/26acf222af29",
           "author": "Dora Czerna",
@@ -4607,36 +4629,6 @@
           "publishedOn": "2026-04-18T16:16:02.000Z",
           "wordCount": null,
           "title": "Are we makers by nature — or consumers by design?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/b5ea0cd77989",
-          "author": "Gregory Muryn-Mukha",
-          "description": "",
-          "link": "https://uxdesign.cc/your-ai-agent-can-read-your-codebase-it-doesnt-know-your-product-b5ea0cd77989?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-04-17T21:56:02.000Z",
-          "wordCount": null,
-          "title": "Your AI agent can read your codebase. It doesn’t know your product.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c6113ff78287",
-          "author": "Karthikeya GS",
-          "description": "",
-          "link": "https://uxdesign.cc/folder-instructions-instructions-for-system-level-ai-c6113ff78287?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-04-17T21:55:46.000Z",
-          "wordCount": null,
-          "title": "Folder instructions — Instructions for system-level AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/5990a24a2fbd",
-          "author": "Igor Dolgov",
-          "description": "",
-          "link": "https://uxdesign.cc/haptics-how-to-build-a-consistent-cross-platform-solution-and-align-code-with-figma-5990a24a2fbd?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-04-17T21:55:28.000Z",
-          "wordCount": null,
-          "title": "Haptics: how to build a consistent cross-platform solution and align code with Figma",
           "imageUrl": null
         }
       ]
@@ -5817,46 +5809,6 @@
           "publishedOn": "2026-04-21T00:22:23.000Z",
           "wordCount": null,
           "title": "My juniors ship faster than my seniors. And I’m worried about them.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/5d89da724db5",
-          "author": "Jim Clyde Monge",
-          "description": "",
-          "link": "https://generativeai.pub/how-to-set-up-bloggfast-an-ai-driven-blog-site-boilerplate-5d89da724db5?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-18T10:11:24.000Z",
-          "wordCount": null,
-          "title": "How to Set Up BloggFast — An AI-Driven Blog Site Boilerplate",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f2499f82d4d2",
-          "author": "xbill",
-          "description": "",
-          "link": "https://generativeai.pub/building-a-multimodal-agent-with-the-adk-amazon-lightsail-and-gemini-flash-live-3-1-f2499f82d4d2?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-18T10:10:27.000Z",
-          "wordCount": null,
-          "title": "Building a Multimodal Agent with the ADK, Amazon Lightsail, and Gemini Flash Live 3.1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/277eb0a8209b",
-          "author": "xbill",
-          "description": "",
-          "link": "https://generativeai.pub/multi-agent-a2a-with-the-agent-development-kit-adk-aws-lightsail-and-gemini-cli-277eb0a8209b?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-18T10:09:35.000Z",
-          "wordCount": null,
-          "title": "Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/691d33d645a6",
-          "author": "Hayanan",
-          "description": "How a quiet April 2026 announcement from Meta ended the Llama era and why every developer, researcher, and global innovator should be…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/meta-just-killed-open-source-ai-the-muse-spark-pivot-that-shattered-three-years-of-trust-691d33d645a6?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-18T10:09:12.000Z",
-          "wordCount": null,
-          "title": "Meta Just Killed Open Source AI: The Muse Spark Pivot That Shattered Three Years of Trust",
           "imageUrl": null
         }
       ]

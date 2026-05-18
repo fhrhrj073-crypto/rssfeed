@@ -2,10 +2,98 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-05-17T01:45:32.268Z</updated>
+    <updated>2026-05-18T01:54:31.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[😿 AI hackers found a new lane]]></title>
+        <id>https://www.theneuron.ai/newsletter/ai-hackers-found-a-new-lane/</id>
+        <link href="https://www.theneuron.ai/newsletter/ai-hackers-found-a-new-lane/"/>
+        <updated>2026-05-17T23:15:15.100Z</updated>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Around the Horn Week in Review: Everything That Happened in AI This Week (May 11-15, 2026)]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/around-the-horn-week-in-review-everything-that-happened-in-ai-this-week-may-11-15-2026/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/around-the-horn-week-in-review-everything-that-happened-in-ai-this-week-may-11-15-2026/"/>
+        <updated>2026-05-17T23:14:15.037Z</updated>
+        <summary type="html"><![CDATA[Anthropic refused China access to Mythos while the Pentagon used the model family for cyber defense; Cerebras and Cowboy Space pushed AI compute into new territory; Recursive Superintelligence raised $650M; Google confirmed criminal AI-driven zero-day exploitation; plus the week's best new tools.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How mobile apps are reshaping screening for cognitive decline]]></title>
+        <id>https://medium.com/p/a26391fe3ae1</id>
+        <link href="https://uxdesign.cc/how-mobile-apps-are-reshaping-screening-for-cognitive-decline-a26391fe3ae1?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-17T21:39:23.000Z</updated>
+        <author>
+            <name>Catherine Chu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two gears, one compass: designing at velocity while sustaining quality]]></title>
+        <id>https://medium.com/p/a1b6597651a9</id>
+        <link href="https://uxdesign.cc/two-gears-one-compass-designing-at-velocity-while-sustaining-quality-a1b6597651a9?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-17T21:38:38.000Z</updated>
+        <author>
+            <name>Ioannis Nousis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Anxiety Has Reached Every Layer of Tech😰, AI Second Brain🧠, Climate Tech Rebounds🌱]]></title>
+        <id>https://www.thevccorner.com/p/ai-anxiety-has-reached-every-layer</id>
+        <link href="https://www.thevccorner.com/p/ai-anxiety-has-reached-every-layer"/>
+        <updated>2026-05-17T20:01:48.000Z</updated>
+        <summary type="html"><![CDATA[Another week, another pulse check on Tech.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code is 1000x better when you use this tool]]></title>
+        <id>https://www.youtube.com/watch?v=VQPWyS2KGt0</id>
+        <link href="https://www.youtube.com/watch?v=VQPWyS2KGt0"/>
+        <updated>2026-05-17T18:06:00.000Z</updated>
+        <author>
+            <name>Alex Finn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pandas Isn’t Going Anywhere: Why It’s Still My Go-To for Data Wrangling]]></title>
+        <id>https://towardsdatascience.com/?p=609117</id>
+        <link href="https://towardsdatascience.com/pandas-isnt-going-anywhere-why-its-still-my-go-to-for-data-wrangling/"/>
+        <updated>2026-05-17T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Billions of rows might be the exception, but for everything else, Pandas is still a highly reliable tool.
+The post Pandas Isn’t Going Anywhere: Why It’s Still My Go-To for Data Wrangling appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Soner Yıldırım</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM Evals Are Based on Vibes — I Built the Missing Layer That Decides What Ships]]></title>
+        <id>https://towardsdatascience.com/?p=609115</id>
+        <link href="https://towardsdatascience.com/llm-evals-are-based-on-vibes-i-built-the-missing-layer-that-decides-what-ships/"/>
+        <updated>2026-05-17T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most LLM evaluation systems rely on vague scoring and human judgment disguised as metrics. I built a lightweight evaluation layer in pure Python that turns LLM outputs into reproducible decisions by separating attribution, specificity, and relevance—so hallucinations are caught before they reach production.
+The post LLM Evals Are Based on Vibes — I Built the Missing Layer That Decides What Ships appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Emmimal P Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why we’re at the beginning of the AI hardware boom | Caitlin Kalinowski (ex–OpenAI, Meta, Apple)]]></title>
+        <id>https://www.lennysnewsletter.com/p/why-were-at-the-beginning-of-the</id>
+        <link href="https://www.lennysnewsletter.com/p/why-were-at-the-beginning-of-the"/>
+        <updated>2026-05-17T12:31:57.000Z</updated>
+        <summary type="html"><![CDATA[Listen now | Caitlin Kalinowski on supply chain vulnerabilities threaten the robotics revolution, why consumer VR failed, and what she learned building products at Apple, Meta, and OpenAI]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🧠 Community Wisdom: Screening AI slop in hiring, Wispr Flow alternatives for voice transcription, multi-agent pipeline vs. MCP, and more]]></title>
         <id>https://www.lennysnewsletter.com/p/community-wisdom-screening-ai-slop</id>
@@ -5289,152 +5377,6 @@ Continue reading on UX Collective »]]></summary>
 The post Your RAG System Retrieves the Right Data — But Still Produces Wrong Answers. Here’s Why (and How to Fix It). appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Emmimal P Alexander</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Agents Need Their Own Desk, and Git Worktrees Give Them One]]></title>
-        <id>https://towardsdatascience.com/?p=608879</id>
-        <link href="https://towardsdatascience.com/ai-agents-need-their-own-desk-and-git-worktrees-give-it-one/"/>
-        <updated>2026-04-18T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Git worktrees, parallel agentic coding sessions, and the setup tax you should be aware of
-The post AI Agents Need Their Own Desk, and Git Worktrees Give Them One appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ruben Broekx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Learn Python for Data Science Fast in 2026 (Without Wasting Time)]]></title>
-        <id>https://towardsdatascience.com/?p=608893</id>
-        <link href="https://towardsdatascience.com/how-to-learn-python-so-fast-it-feels-like-cheating/"/>
-        <updated>2026-04-18T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What I wish I did at the beginning of my journey
-The post How to Learn Python for Data Science Fast in 2026 (Without Wasting Time) appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Egor Howell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up BloggFast — An AI-Driven Blog Site Boilerplate]]></title>
-        <id>https://medium.com/p/5d89da724db5</id>
-        <link href="https://generativeai.pub/how-to-set-up-bloggfast-an-ai-driven-blog-site-boilerplate-5d89da724db5?source=rss----440100e76000---4"/>
-        <updated>2026-04-18T10:11:24.000Z</updated>
-        <author>
-            <name>Jim Clyde Monge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Multimodal Agent with the ADK, Amazon Lightsail, and Gemini Flash Live 3.1]]></title>
-        <id>https://medium.com/p/f2499f82d4d2</id>
-        <link href="https://generativeai.pub/building-a-multimodal-agent-with-the-adk-amazon-lightsail-and-gemini-flash-live-3-1-f2499f82d4d2?source=rss----440100e76000---4"/>
-        <updated>2026-04-18T10:10:27.000Z</updated>
-        <author>
-            <name>xbill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multi-Agent A2A with the Agent Development Kit(ADK), AWS Lightsail, and Gemini CLI]]></title>
-        <id>https://medium.com/p/277eb0a8209b</id>
-        <link href="https://generativeai.pub/multi-agent-a2a-with-the-agent-development-kit-adk-aws-lightsail-and-gemini-cli-277eb0a8209b?source=rss----440100e76000---4"/>
-        <updated>2026-04-18T10:09:35.000Z</updated>
-        <author>
-            <name>xbill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Just Killed Open Source AI: The Muse Spark Pivot That Shattered Three Years of Trust]]></title>
-        <id>https://medium.com/p/691d33d645a6</id>
-        <link href="https://generativeai.pub/meta-just-killed-open-source-ai-the-muse-spark-pivot-that-shattered-three-years-of-trust-691d33d645a6?source=rss----440100e76000---4"/>
-        <updated>2026-04-18T10:09:12.000Z</updated>
-        <summary type="html"><![CDATA[How a quiet April 2026 announcement from Meta ended the Llama era and why every developer, researcher, and global innovator should be…
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Hayanan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「中翻」專訪黃仁勳拆解 Nvidia 護城河：從 TPU 競爭到中國晶片出口管制一次講清楚]]></title>
-        <id>https://www.youtube.com/watch?v=kSFpMnLcdb8</id>
-        <link href="https://www.youtube.com/watch?v=kSFpMnLcdb8"/>
-        <updated>2026-04-18T06:31:14.000Z</updated>
-        <author>
-            <name>電腦王阿達</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your AI agent can read your codebase. It doesn’t know your product.]]></title>
-        <id>https://medium.com/p/b5ea0cd77989</id>
-        <link href="https://uxdesign.cc/your-ai-agent-can-read-your-codebase-it-doesnt-know-your-product-b5ea0cd77989?source=rss----138adf9c44c---4"/>
-        <updated>2026-04-17T21:56:02.000Z</updated>
-        <author>
-            <name>Gregory Muryn-Mukha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Folder instructions — Instructions for system-level AI]]></title>
-        <id>https://medium.com/p/c6113ff78287</id>
-        <link href="https://uxdesign.cc/folder-instructions-instructions-for-system-level-ai-c6113ff78287?source=rss----138adf9c44c---4"/>
-        <updated>2026-04-17T21:55:46.000Z</updated>
-        <author>
-            <name>Karthikeya GS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Haptics: how to build a consistent cross-platform solution and align code with Figma]]></title>
-        <id>https://medium.com/p/5990a24a2fbd</id>
-        <link href="https://uxdesign.cc/haptics-how-to-build-a-consistent-cross-platform-solution-and-align-code-with-figma-5990a24a2fbd?source=rss----138adf9c44c---4"/>
-        <updated>2026-04-17T21:55:28.000Z</updated>
-        <author>
-            <name>Igor Dolgov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seeing if Opus 4.7 sucks [LIVE]]]></title>
-        <id>https://www.youtube.com/watch?v=JyvKwKMS6SU</id>
-        <link href="https://www.youtube.com/watch?v=JyvKwKMS6SU"/>
-        <updated>2026-04-17T20:07:22.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I messed up...]]></title>
-        <id>https://www.youtube.com/watch?v=XG3ksRWsUJ8</id>
-        <link href="https://www.youtube.com/watch?v=XG3ksRWsUJ8"/>
-        <updated>2026-04-17T19:04:06.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond Prompting: Using Agent Skills in Data Science]]></title>
-        <id>https://towardsdatascience.com/?p=608872</id>
-        <link href="https://towardsdatascience.com/beyond-prompting-using-agent-skills-in-data-science/"/>
-        <updated>2026-04-17T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[How I turned my eight-year weekly visualization habit into a reusable AI workflow
-The post Beyond Prompting: Using Agent Skills in Data Science appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Yu Dong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Don’t Need Many Labels to Learn]]></title>
-        <id>https://towardsdatascience.com/?p=608874</id>
-        <link href="https://towardsdatascience.com/you-dont-need-many-labels-to-learn/"/>
-        <updated>2026-04-17T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What if an unsupervised model could become a strong classifier with only a handful of labels?
-The post You Don’t Need Many Labels to Learn appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Léo Saci</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is AI slowing you down?]]></title>
-        <id>https://www.youtube.com/shorts/axSyL9r5xcg</id>
-        <link href="https://www.youtube.com/shorts/axSyL9r5xcg"/>
-        <updated>2026-04-17T14:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
         </author>
     </entry>
 </feed>
