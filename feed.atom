@@ -2,10 +2,230 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-05-18T01:54:31.284Z</updated>
+    <updated>2026-05-19T01:54:15.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What 17 Student Chatbots Showed Me About Structured Content]]></title>
+        <id>https://medium.com/p/84a7e5e5dce0</id>
+        <link href="https://generativeai.pub/what-17-student-chatbots-showed-me-about-structured-content-84a7e5e5dce0?source=rss----440100e76000---4"/>
+        <updated>2026-05-19T00:26:40.000Z</updated>
+        <summary type="html"><![CDATA[An informal classroom experiment with information types
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Lance Cummings PhD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 90-Day Dual-Stack Audit: A Cost-Discipline Framework for Running Claude Code and Hermes…]]></title>
+        <id>https://medium.com/p/240fcccdf566</id>
+        <link href="https://generativeai.pub/the-90-day-dual-stack-audit-a-cost-discipline-framework-for-running-claude-code-and-hermes-240fcccdf566?source=rss----440100e76000---4"/>
+        <updated>2026-05-19T00:25:27.000Z</updated>
+        <summary type="html"><![CDATA[The instrumentation, the projections, the surprise line items nobody warns you about — and the audit template you can run on your own bill.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Anup Karanjkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Your Own Local Web Search Agent in 220 Lines of Python]]></title>
+        <id>https://medium.com/p/a4eac8bdf5ec</id>
+        <link href="https://generativeai.pub/build-your-own-local-web-search-agent-in-220-lines-of-python-a4eac8bdf5ec?source=rss----440100e76000---4"/>
+        <updated>2026-05-19T00:25:01.000Z</updated>
+        <summary type="html"><![CDATA[MCP, SearXNG, and Ollama wired together — with FastMCP, stdio transport, schema adaptation, and multi-server name prefixing.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Jes Fink-Jensen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The waiting problem in AI products]]></title>
+        <id>https://medium.com/p/e7c11fd5a825</id>
+        <link href="https://uxdesign.cc/the-waiting-problem-in-ai-products-e7c11fd5a825?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-18T22:22:47.000Z</updated>
+        <author>
+            <name>Adi Leviim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prompts Are Dead. Skills Are the New Moat.]]></title>
+        <id>https://www.thevccorner.com/p/ai-skills-complete-playbook-templates-prompts-2026</id>
+        <link href="https://www.thevccorner.com/p/ai-skills-complete-playbook-templates-prompts-2026"/>
+        <updated>2026-05-18T20:10:13.000Z</updated>
+        <summary type="html"><![CDATA[The format that unified Anthropic, OpenAI, Cursor, Microsoft, Vercel, and Lovable in six months, and what it means for every AI company building right now.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So Anthropic is just winning now]]></title>
+        <id>https://www.youtube.com/shorts/IMHqGNLLoxo</id>
+        <link href="https://www.youtube.com/shorts/IMHqGNLLoxo"/>
+        <updated>2026-05-18T16:30:38.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Six Choices Every AI Engineer Has to Make (and Nobody Teaches)]]></title>
+        <id>https://towardsdatascience.com/?p=609125</id>
+        <link href="https://towardsdatascience.com/six-choices-every-ai-engineer-has-to-make-and-nobody-teaches/"/>
+        <updated>2026-05-18T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The production trade-offs that only appear once your model is live.
+The post Six Choices Every AI Engineer Has to Make (and Nobody Teaches) appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Sara Nobrega</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎙️ How I AI: HTML is the new Markdown: How Anthropic engineers are building with Claude Code]]></title>
+        <id>https://www.lennysnewsletter.com/p/how-i-ai-html-is-the-new-markdown</id>
+        <link href="https://www.lennysnewsletter.com/p/how-i-ai-html-is-the-new-markdown"/>
+        <updated>2026-05-18T15:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Your weekly listens from How I AI, part of the Lenny’s Podcast Network]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Flexible Tool Beats a Hundred Dedicated Ones]]></title>
+        <id>https://towardsdatascience.com/?p=609123</id>
+        <link href="https://towardsdatascience.com/one-flexible-tool-beats-a-hundred-dedicated-ones/"/>
+        <updated>2026-05-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why MCP servers keep losing to CLIs once the agent gets a terminal
+The post One Flexible Tool Beats a Hundred Dedicated Ones appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Tomaz Bratanic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your AI Demo Will Die in Production]]></title>
+        <id>https://towardsdatascience.com/?p=609121</id>
+        <link href="https://towardsdatascience.com/why-your-ai-demo-will-die-in-production/"/>
+        <updated>2026-05-18T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[95% of enterprise AI pilots fail to launch. Why?
+The post Why Your AI Demo Will Die in Production appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ari Joury, PhD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kling 3 Has Officially Been Dethroned by Seedance 2]]></title>
+        <id>https://medium.com/p/e71c987eba71</id>
+        <link href="https://generativeai.pub/kling-3-has-officially-been-dethroned-by-seedance-2-e71c987eba71?source=rss----440100e76000---4"/>
+        <updated>2026-05-18T13:13:17.000Z</updated>
+        <author>
+            <name>Jim Clyde Monge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI PM's Menu: A Field Guide to Cost-Quality Tradeoffs]]></title>
+        <id>https://medium.com/p/d897c9da746b</id>
+        <link href="https://generativeai.pub/the-ai-pms-menu-a-field-guide-to-cost-quality-tradeoffs-d897c9da746b?source=rss----440100e76000---4"/>
+        <updated>2026-05-18T13:10:30.000Z</updated>
+        <author>
+            <name>Scarlett Zhao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Tested AI Against Humans on Classic Creativity Tests.]]></title>
+        <id>https://medium.com/p/e45bbd30fdb9</id>
+        <link href="https://generativeai.pub/i-tested-ai-against-humans-on-classic-creativity-tests-e45bbd30fdb9?source=rss----440100e76000---4"/>
+        <updated>2026-05-18T13:09:10.000Z</updated>
+        <author>
+            <name>Dr Greeshma Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Build AI Agents From Masterclass Guides, Not Prompt Templates]]></title>
+        <id>https://medium.com/p/75069b891110</id>
+        <link href="https://generativeai.pub/how-i-build-ai-agents-from-masterclass-guides-not-prompt-templates-75069b891110?source=rss----440100e76000---4"/>
+        <updated>2026-05-18T13:07:55.000Z</updated>
+        <author>
+            <name>Malte Hedderich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Your Own Claude Code Web UI in 280 Lines of Python]]></title>
+        <id>https://medium.com/p/7658422a8464</id>
+        <link href="https://generativeai.pub/build-your-own-claude-code-web-ui-in-280-lines-of-python-7658422a8464?source=rss----440100e76000---4"/>
+        <updated>2026-05-18T12:57:36.000Z</updated>
+        <summary type="html"><![CDATA[FastAPI, WebSockets, and plain HTML/JS for a local Ollama agent — with sessions, skills, and context compaction.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Jes Fink-Jensen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 4 Questions I Ask Claude Every Quarter About My Money]]></title>
+        <id>https://medium.com/p/f773bd3f35f8</id>
+        <link href="https://generativeai.pub/the-4-questions-i-ask-claude-every-quarter-about-my-money-f773bd3f35f8?source=rss----440100e76000---4"/>
+        <updated>2026-05-18T12:56:39.000Z</updated>
+        <author>
+            <name>Cole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The New LLM risk : Skills]]></title>
+        <id>https://medium.com/p/42336bbe4bc4</id>
+        <link href="https://generativeai.pub/the-new-llm-risk-skills-42336bbe4bc4?source=rss----440100e76000---4"/>
+        <updated>2026-05-18T12:55:46.000Z</updated>
+        <author>
+            <name>Eklavya Tyagi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Be like water, The death of the empty state, AI for UX]]></title>
+        <id>https://medium.com/p/88654390e8ee</id>
+        <link href="https://uxdesign.cc/be-like-water-the-death-of-the-empty-state-ai-for-ux-88654390e8ee?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-18T12:46:45.000Z</updated>
+        <author>
+            <name>Fabricio Teixeira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The big M&M’s color investigation you could’ve totally lived without]]></title>
+        <id>https://medium.com/p/f836bd2697ec</id>
+        <link href="https://uxdesign.cc/the-big-m-ms-color-investigation-you-could-ve-totally-lived-without-f836bd2697ec?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-18T12:43:35.000Z</updated>
+        <summary type="html"><![CDATA[How colors manipulate our brain, and why switch them up? A deep dive into M&M's product tactics and controversies.
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Rita Kind-Envy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML is the new Markdown: How Anthropic engineers are building with Claude Code | Thariq Shihipar]]></title>
+        <id>https://www.lennysnewsletter.com/p/html-is-the-new-markdown-how-anthropic</id>
+        <link href="https://www.lennysnewsletter.com/p/html-is-the-new-markdown-how-anthropic"/>
+        <updated>2026-05-18T12:02:11.000Z</updated>
+        <summary type="html"><![CDATA[Watch now | 🎙️ Anthropic's Claude Code engineer on why HTML replaced markdown, building micro-apps for spec editing, living design systems, and becoming a "compute allocator"]]></summary>
+        <author>
+            <name>Claire Vo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Maximize OpenAI’s Codex]]></title>
+        <id>https://towardsdatascience.com/?p=609119</id>
+        <link href="https://towardsdatascience.com/how-to-maximize-openais-codex/"/>
+        <updated>2026-05-18T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to get the most out of OpenAI's coding agent
+The post How to Maximize OpenAI’s Codex appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😼 AI layoffs are tanking stocks, not saving them]]></title>
+        <id>https://www.theneuron.ai/newsletter/ai-layoffs-are-tanking-stocks-not-saving-them/</id>
+        <link href="https://www.theneuron.ai/newsletter/ai-layoffs-are-tanking-stocks-not-saving-them/"/>
+        <updated>2026-05-18T10:00:14.665Z</updated>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[😿 AI hackers found a new lane]]></title>
         <id>https://www.theneuron.ai/newsletter/ai-hackers-found-a-new-lane/</id>
@@ -5223,33 +5443,12 @@ The post Proxy-Pointer RAG: Structure Meets Scale at 100% Accuracy with Smarter 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dreaming in Cubes]]></title>
-        <id>https://towardsdatascience.com/?p=608883</id>
-        <link href="https://towardsdatascience.com/dreaming-in-cubes/"/>
-        <updated>2026-04-19T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Generating Minecraft Worlds with Vector Quantized Variational Autoencoders (VQ-VAE) and Transformers
-The post Dreaming in Cubes appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ansh Aggarwal</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I Replaced OpenClaw With Perplexity Computer…]]></title>
         <id>https://www.youtube.com/watch?v=fgr6Sm-dmmM</id>
         <link href="https://www.youtube.com/watch?v=fgr6Sm-dmmM"/>
         <updated>2026-04-19T12:36:24.000Z</updated>
         <author>
             <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why half of product managers are in trouble | Nikhyl Singhal (Meta, Google)]]></title>
-        <id>https://www.lennysnewsletter.com/p/why-half-of-product-managers-are-in-trouble</id>
-        <link href="https://www.lennysnewsletter.com/p/why-half-of-product-managers-are-in-trouble"/>
-        <updated>2026-04-19T12:31:44.000Z</updated>
-        <summary type="html"><![CDATA[Listen now | Nikhyl Singhal on why half of product managers are at risk, how to cross the reinvention threshold, and why the next two years will be chaotic for PMs]]></summary>
-        <author>
-            <name>Lenny Rachitsky</name>
         </author>
     </entry>
     <entry>
@@ -5263,75 +5462,6 @@ The post Dreaming in Cubes appeared first on Towards Data Science.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KV Cache Is Eating Your VRAM. Here’s How Google Fixed It With TurboQuant.]]></title>
-        <id>https://towardsdatascience.com/?p=608895</id>
-        <link href="https://towardsdatascience.com/kv-cache-is-eating-your-vram-heres-how-google-fixed-it-with-turboquant/"/>
-        <updated>2026-04-19T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Explore the end-to-end pipeline of TurboQuant, a novel KV cache quantization framework. This overview breaks down how multi-stage compression achieves near-lossless storage through PolarQuant and QJL residuals, enabling massive context windows with minimal memory overhead
-The post KV Cache Is Eating Your VRAM. Here’s How Google Fixed It With TurboQuant. appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Aman Vasisht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking the shape of design teams in an AI world]]></title>
-        <id>https://medium.com/p/82f986bf9a27</id>
-        <link href="https://uxdesign.cc/rethinking-the-shape-of-design-teams-in-an-ai-world-82f986bf9a27?source=rss----138adf9c44c---4"/>
-        <updated>2026-04-19T09:15:37.000Z</updated>
-        <author>
-            <name>Darren Yeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Becoming an AI-native designer]]></title>
-        <id>https://medium.com/p/828365b71109</id>
-        <link href="https://uxdesign.cc/becoming-an-ai-native-designer-828365b71109?source=rss----138adf9c44c---4"/>
-        <updated>2026-04-19T09:15:15.000Z</updated>
-        <author>
-            <name>Sen Lin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The misrepresentation of “good taste” as a core design skill]]></title>
-        <id>https://medium.com/p/164c51751d4b</id>
-        <link href="https://uxdesign.cc/the-misrepresentation-of-good-taste-as-a-core-design-skill-164c51751d4b?source=rss----138adf9c44c---4"/>
-        <updated>2026-04-19T09:14:04.000Z</updated>
-        <summary type="html"><![CDATA[“Good taste” might be one of the most misleading phrases in the world of UX design at the moment.
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Maria Taneva</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Test smart: how to approach AI and stay sane?]]></title>
-        <id>https://medium.com/p/30bb54478d14</id>
-        <link href="https://uxdesign.cc/test-smart-how-to-approach-ai-and-stay-sane-30bb54478d14?source=rss----138adf9c44c---4"/>
-        <updated>2026-04-19T09:12:30.000Z</updated>
-        <author>
-            <name>Julia Kocbek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧠 Community Wisdom: Sharing Claude Code skills across the org, Why did lennysjobs.com shut down, opening an LLC for side work, AI for SMB sales, and more]]></title>
-        <id>https://www.lennysnewsletter.com/p/community-wisdom-sharing-claude-code</id>
-        <link href="https://www.lennysnewsletter.com/p/community-wisdom-sharing-claude-code"/>
-        <updated>2026-04-18T18:38:18.000Z</updated>
-        <summary type="html"><![CDATA[Community Wisdom 182]]></summary>
-        <author>
-            <name>Kiyani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Great Divergence: What Actually Happened Between the U.S. and Europe]]></title>
-        <id>https://www.thevccorner.com/p/the-great-divergence-us-vs-europe-growth</id>
-        <link href="https://www.thevccorner.com/p/the-great-divergence-us-vs-europe-growth"/>
-        <updated>2026-04-18T17:04:40.000Z</updated>
-        <summary type="html"><![CDATA[The uncomfortable truth on how the U.S. left Europe behind in productivity, power laws, and economic outcomes.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Do you have this DEBT?]]></title>
         <id>https://www.youtube.com/shorts/RkZC8p9FvQw</id>
         <link href="https://www.youtube.com/shorts/RkZC8p9FvQw"/>
@@ -5339,15 +5469,6 @@ Continue reading on UX Collective »]]></summary>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are we makers by nature — or consumers by design?]]></title>
-        <id>https://medium.com/p/0a63abb301f0</id>
-        <link href="https://uxdesign.cc/are-we-makers-by-nature-or-consumers-by-design-0a63abb301f0?source=rss----138adf9c44c---4"/>
-        <updated>2026-04-18T16:16:02.000Z</updated>
-        <author>
-            <name>Dora Czerna</name>
         </author>
     </entry>
     <entry>
@@ -5366,17 +5487,6 @@ Continue reading on UX Collective »]]></summary>
         <updated>2026-04-18T15:05:22.000Z</updated>
         <author>
             <name>Alex Finn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your RAG System Retrieves the Right Data — But Still Produces Wrong Answers. Here’s Why (and How to Fix It).]]></title>
-        <id>https://towardsdatascience.com/?p=608881</id>
-        <link href="https://towardsdatascience.com/your-rag-system-retrieves-the-right-data-but-still-produces-wrong-answers-heres-why-and-how-to-fix-it/"/>
-        <updated>2026-04-18T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Your RAG system is retrieving the right documents with perfect scores — yet it still confidently returns the wrong answer.
-The post Your RAG System Retrieves the Right Data — But Still Produces Wrong Answers. Here’s Why (and How to Fix It). appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Emmimal P Alexander</name>
         </author>
     </entry>
 </feed>
