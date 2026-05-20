@@ -2,10 +2,249 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-05-19T01:54:15.471Z</updated>
+    <updated>2026-05-20T01:54:07.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PixAI Releases New Anime Model That Handles More Complex Image Edits]]></title>
+        <id>https://medium.com/p/053e6b4372c0</id>
+        <link href="https://generativeai.pub/pixai-releases-new-anime-model-that-handles-more-complex-image-edits-053e6b4372c0?source=rss----440100e76000---4"/>
+        <updated>2026-05-20T01:25:34.000Z</updated>
+        <summary type="html"><![CDATA[PixAI’s new Edit Pro model has a smarter prompt understanding, stronger text-in-image processing, and multi-image understanding.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Jim Clyde Monge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Prompt Bloat to Agentic Grace: How I Killed My 900-Line System Prompt]]></title>
+        <id>https://medium.com/p/37bd4dfe9986</id>
+        <link href="https://generativeai.pub/from-prompt-bloat-to-agentic-grace-how-i-killed-my-900-line-system-prompt-37bd4dfe9986?source=rss----440100e76000---4"/>
+        <updated>2026-05-20T01:25:16.000Z</updated>
+        <author>
+            <name>Ishan Ghosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your marketing is not being seen anymore]]></title>
+        <id>https://medium.com/p/b8a9dd2eb7e1</id>
+        <link href="https://generativeai.pub/your-marketing-is-not-being-seen-anymore-b8a9dd2eb7e1?source=rss----440100e76000---4"/>
+        <updated>2026-05-20T01:24:19.000Z</updated>
+        <author>
+            <name>Prasad Prabhakaran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Wired Claude Code Into Hermes Agent (And Hermes Into Claude Code): The Full Tool Gateway…]]></title>
+        <id>https://medium.com/p/2281c9c6052d</id>
+        <link href="https://generativeai.pub/i-wired-claude-code-into-hermes-agent-and-hermes-into-claude-code-the-full-tool-gateway-2281c9c6052d?source=rss----440100e76000---4"/>
+        <updated>2026-05-20T01:18:42.000Z</updated>
+        <summary type="html"><![CDATA[Three weeks. Two stacks. Twelve working patterns. Every config in this article is copy-paste runnable.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Anup Karanjkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Replaced My Best Claude Skill With An Agent That Refuses To Ship Until It Grades Itself]]></title>
+        <id>https://medium.com/p/9cd57147db2d</id>
+        <link href="https://generativeai.pub/i-replaced-my-best-claude-skill-with-an-agent-that-refuses-to-ship-until-it-grades-itself-9cd57147db2d?source=rss----440100e76000---4"/>
+        <updated>2026-05-20T01:17:47.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic shipped Outcomes on May 6, 2026. It’s the most important agent primitive of the year, and almost nobody is writing about the…
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Anup Karanjkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Bilingualist: The Highest-Paid Skill You Don’t Know Yet]]></title>
+        <id>https://medium.com/p/de5a9149da83</id>
+        <link href="https://generativeai.pub/ai-bilingualist-the-highest-paid-skill-you-dont-know-yet-de5a9149da83?source=rss----440100e76000---4"/>
+        <updated>2026-05-20T01:16:28.000Z</updated>
+        <author>
+            <name>Nikhil Kalor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Missing Contract in Your CLAUDE.md]]></title>
+        <id>https://medium.com/p/0a2f73f79871</id>
+        <link href="https://generativeai.pub/the-missing-contract-in-your-claude-md-0a2f73f79871?source=rss----440100e76000---4"/>
+        <updated>2026-05-20T01:13:34.000Z</updated>
+        <author>
+            <name>TripleTree</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TurboQuant vs. Everything Else: A Realistic Look at Google’s Boldest LLM Efficiency Claim]]></title>
+        <id>https://medium.com/p/e1ac22daa253</id>
+        <link href="https://generativeai.pub/is-3-bit-kv-cache-the-holy-grail-a-reality-check-on-googles-turboquant-e1ac22daa253?source=rss----440100e76000---4"/>
+        <updated>2026-05-20T01:03:58.000Z</updated>
+        <author>
+            <name>Ravi Yogesh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Built and Optimized an AI Workflow for IA-Ready User Stories]]></title>
+        <id>https://medium.com/p/249099cad5f3</id>
+        <link href="https://generativeai.pub/how-i-built-and-optimized-an-ai-workflow-for-ia-ready-user-stories-249099cad5f3?source=rss----440100e76000---4"/>
+        <updated>2026-05-20T01:02:38.000Z</updated>
+        <summary type="html"><![CDATA[Lessons From Real Sprints, AI Experiments, and the Hidden Cost of Workflow Orchestration
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Yanet Morales Ramirez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Spent Four Hours in the AI Perfection Loop — Researching How to Focus]]></title>
+        <id>https://medium.com/p/6c828f3f5ab2</id>
+        <link href="https://generativeai.pub/i-spent-four-hours-in-the-ai-perfection-loop-researching-how-to-focus-6c828f3f5ab2?source=rss----440100e76000---4"/>
+        <updated>2026-05-20T01:02:24.000Z</updated>
+        <author>
+            <name>Rushyhirosan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The case for catholic philosophy in ethical interface design]]></title>
+        <id>https://medium.com/p/c5a30b729e4b</id>
+        <link href="https://uxdesign.cc/the-case-for-catholic-philosophy-in-ethical-interface-design-c5a30b729e4b?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-19T21:54:23.000Z</updated>
+        <author>
+            <name>Michael Buckley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What critical thinking means for senior designers (and how to apply it)]]></title>
+        <id>https://medium.com/p/7423762b2391</id>
+        <link href="https://uxdesign.cc/what-critical-thinking-means-for-senior-designers-and-how-to-apply-it-7423762b2391?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-19T21:53:51.000Z</updated>
+        <summary type="html"><![CDATA[Re-designing mocks is slowly becoming the bulk of design work
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Kai Wong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Most AI tools make users faster. The best AI tools make users better.]]></title>
+        <id>https://medium.com/p/471bac7c7f86</id>
+        <link href="https://uxdesign.cc/most-ai-tools-make-users-faster-the-best-ai-tools-make-users-better-471bac7c7f86?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-19T21:53:49.000Z</updated>
+        <author>
+            <name>Daisy Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What the Transformer vs. Post-Transformer debate revealed about AI's next architecture]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/what-the-transformer-vs-post-transformer-debate-revealed-about-ais-next-architecture/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/what-the-transformer-vs-post-transformer-debate-revealed-about-ais-next-architecture/"/>
+        <updated>2026-05-19T21:41:23.541Z</updated>
+        <summary type="html"><![CDATA[Pathway put Lukasz Kaiser, Llion Jones, Mathias Lechner, and Adrian Kosowski in a boxing ring to debate whether Transformers still deserve the belt. The answer was less about one winner and more about the tests that will decide AI's next architecture.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BREAKING: Andrej Karpathy Joins Anthropic]]></title>
+        <id>https://www.thevccorner.com/p/breaking-andrej-karpathy-joins-anthropic</id>
+        <link href="https://www.thevccorner.com/p/breaking-andrej-karpathy-joins-anthropic"/>
+        <updated>2026-05-19T18:23:12.000Z</updated>
+        <summary type="html"><![CDATA[The most respected AI researcher on the planet chose Anthropic over everyone else. And he is not the only one]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deploying a Multistage Multimodal Recommender System on Amazon Elastic Kubernetes Service]]></title>
+        <id>https://towardsdatascience.com/?p=609137</id>
+        <link href="https://towardsdatascience.com/deploying-a-multistage-multimodal-recommender-system-on-amazon-eks-featuring-bloom-filters-feature-caching-and-contextual-recommendations/"/>
+        <updated>2026-05-19T18:14:29.000Z</updated>
+        <summary type="html"><![CDATA[A practical walkthrough of building and deploying a multistage, multimodal recommender system on Amazon EKS, covering data pipelines, model training, Bloom filters, feature caching, and real-time ranking.
+The post Deploying a Multistage Multimodal Recommender System on Amazon Elastic Kubernetes Service appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Mustapha Momoh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to Lean for Programmers]]></title>
+        <id>https://towardsdatascience.com/?p=609134</id>
+        <link href="https://towardsdatascience.com/introduction-to-lean-for-programmers/"/>
+        <updated>2026-05-19T17:43:51.000Z</updated>
+        <summary type="html"><![CDATA[The syntax and semantics of mathematics
+The post Introduction to Lean for Programmers appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ronen Lahat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grounding LLMs with Fresh Web Data to Reduce Hallucinations]]></title>
+        <id>https://towardsdatascience.com/?p=609129</id>
+        <link href="https://towardsdatascience.com/grounding-llms-with-fresh-web-data-to-reduce-hallucinations/"/>
+        <updated>2026-05-19T16:55:44.000Z</updated>
+        <summary type="html"><![CDATA[Why production LLM systems need live web search to overcome knowledge cutoffs and stale training data
+The post Grounding LLMs with Fresh Web Data to Reduce Hallucinations appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Kimberly Fessel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Lenny and Friends Summit is back!]]></title>
+        <id>https://www.lennysnewsletter.com/p/the-lenny-and-friends-summit-is-back</id>
+        <link href="https://www.lennysnewsletter.com/p/the-lenny-and-friends-summit-is-back"/>
+        <updated>2026-05-19T15:27:24.000Z</updated>
+        <summary type="html"><![CDATA[September 10th in San Francisco. Applications are now open.]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proxy-Pointer RAG: Solving Entity and Relationship Sprawl in Large Knowledge Graphs]]></title>
+        <id>https://towardsdatascience.com/?p=609127</id>
+        <link href="https://towardsdatascience.com/proxy-pointer-rag-solving-entity-and-relationship-sprawl-in-large-knowledge-graphs/"/>
+        <updated>2026-05-19T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A scalable semantic localization layer for  entity and relationship reconciliation
+The post Proxy-Pointer RAG: Solving Entity and Relationship Sprawl in Large Knowledge Graphs appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Partha Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😸 Elon lost... here's why]]></title>
+        <id>https://www.theneuron.ai/newsletter/elon-lost-here-s-why/</id>
+        <link href="https://www.theneuron.ai/newsletter/elon-lost-here-s-why/"/>
+        <updated>2026-05-19T10:00:30.104Z</updated>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From faster pencil to AI Experience Architect: a designer’s path]]></title>
+        <id>https://medium.com/p/4bec9856a785</id>
+        <link href="https://uxdesign.cc/from-faster-pencil-to-ai-experience-architect-a-designers-path-4bec9856a785?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-19T07:32:58.000Z</updated>
+        <author>
+            <name>Patrick Neeman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elon vs. Altman update: Elon lost. Here’s why.]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/elon-vs-altman-update-elon-lost-heres-why/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/elon-vs-altman-update-elon-lost-heres-why/"/>
+        <updated>2026-05-19T03:18:53.490Z</updated>
+        <summary type="html"><![CDATA[Elon Musk’s OpenAI lawsuit ended because the jury found he waited too long to sue. The bigger question is what the trial exposed about AI’s weirdest corporate structure.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything That Happened in AI Today (Monday, May 18, 2026)]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-monday-may-18-2026/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-monday-may-18-2026/"/>
+        <updated>2026-05-19T02:37:53.624Z</updated>
+        <summary type="html"><![CDATA[Microsoft open-sourced ECHO; Odyssey launched Starchild-1 and Agora-1; OpenAI added bank-account connections to ChatGPT; Nvidia GPU rentals spiked; AI backlash widened across polls, jobs, data centers, markets, and surveillance fights.]]></summary>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What 17 Student Chatbots Showed Me About Structured Content]]></title>
         <id>https://medium.com/p/84a7e5e5dce0</id>
@@ -5305,47 +5544,6 @@ The post Context Payload Optimization for ICL-Based Tabular Foundation Models ap
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The LLM Gamble]]></title>
-        <id>https://towardsdatascience.com/?p=608890</id>
-        <link href="https://towardsdatascience.com/the-llm-gamble/"/>
-        <updated>2026-04-20T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Why it tickles your brain to use an LLM, and what that means for the AI industry
-The post The LLM Gamble appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Stephanie Kirmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Intercom 2x’d their engineering velocity in 9 months with Claude Code | Brian Scanlan]]></title>
-        <id>https://www.lennysnewsletter.com/p/how-intercom-2xd-their-engineering</id>
-        <link href="https://www.lennysnewsletter.com/p/how-intercom-2xd-their-engineering"/>
-        <updated>2026-04-20T12:03:25.000Z</updated>
-        <summary type="html"><![CDATA[Watch now | 🎙️ Brian Scanlan (Intercom) shows how they doubled engineering output using Claude Code skills, deep telemetry, and a culture that empowers engineers to ship faster]]></summary>
-        <author>
-            <name>Claire Vo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Risk to Asset: Designing a Practical Data Strategy That Actually Works]]></title>
-        <id>https://towardsdatascience.com/?p=608888</id>
-        <link href="https://towardsdatascience.com/from-risk-to-asset-designing-a-practical-data-strategy-that-actually-works/"/>
-        <updated>2026-04-20T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How to turn data into a strategic asset that enables faster decisions, reduces uncertainty, and helps the organization move toward its goals.
-The post From Risk to Asset: Designing a Practical Data Strategy That Actually Works appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Mike Huls</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What we behold, the trust-latency gap, designing haptics]]></title>
-        <id>https://medium.com/p/3b3469dd0103</id>
-        <link href="https://uxdesign.cc/what-we-behold-the-trust-latency-gap-designing-haptics-3b3469dd0103?source=rss----138adf9c44c---4"/>
-        <updated>2026-04-20T11:46:59.000Z</updated>
-        <author>
-            <name>Fabricio Teixeira</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GoHighLevel Tutorial for Beginners 2026 - How to Use GoHighLevel]]></title>
         <id>https://www.youtube.com/watch?v=CUe2HnyrXps</id>
         <link href="https://www.youtube.com/watch?v=CUe2HnyrXps"/>
@@ -5355,91 +5553,12 @@ The post From Risk to Asset: Designing a Practical Data Strategy That Actually W
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[😺 Anthropic's Claude Design launched, and Reddit has thoughts.]]></title>
-        <id>https://www.theneuron.ai/newsletter/anthropic-s-claude-design-launched-and-reddit-has-thoughts/</id>
-        <link href="https://www.theneuron.ai/newsletter/anthropic-s-claude-design-launched-and-reddit-has-thoughts/"/>
-        <updated>2026-04-20T09:31:19.895Z</updated>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI is ruining the way you talk about your work]]></title>
-        <id>https://medium.com/p/599dbd78ea18</id>
-        <link href="https://uxdesign.cc/ai-is-ruining-the-way-you-talk-about-your-work-599dbd78ea18?source=rss----138adf9c44c---4"/>
-        <updated>2026-04-20T09:27:14.000Z</updated>
-        <summary type="html"><![CDATA[Chat UI rewards fluency, not precision. Your expertise lives in precision.
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Hoang Nguyen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The deceptive nature of today’s AI conversation design and how to fix it]]></title>
-        <id>https://medium.com/p/195c5372c388</id>
-        <link href="https://uxdesign.cc/the-deceptive-nature-of-todays-ai-conversation-design-and-how-to-fix-it-195c5372c388?source=rss----138adf9c44c---4"/>
-        <updated>2026-04-20T09:26:46.000Z</updated>
-        <author>
-            <name>Nicole Alexandra Michaelis</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MSI Prestige 14 Flip AI+開箱實測： 20 小時長效續航比肩Macbook，還能順跑3A大作！]]></title>
         <id>https://www.youtube.com/watch?v=4bvjukOwbLU</id>
         <link href="https://www.youtube.com/watch?v=4bvjukOwbLU"/>
         <updated>2026-04-20T08:07:06.000Z</updated>
         <author>
             <name>電腦王阿達</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😺 Two free 3D world models dropped this week]]></title>
-        <id>https://www.theneuron.ai/newsletter/two-free-3d-world-models-dropped-this-week/</id>
-        <link href="https://www.theneuron.ai/newsletter/two-free-3d-world-models-dropped-this-week/"/>
-        <updated>2026-04-19T19:30:16.911Z</updated>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Around the Horn Digest: Everything That Happened in AI This Weekend (Friday-Sunday, April 17-19, 2026)]]></title>
-        <id>https://www.theneuron.ai/newsletter/around-the-horn-digest-everything-that-happened-in-ai-this-weekend-friday-sunday-april-17-19-2026/</id>
-        <link href="https://www.theneuron.ai/newsletter/around-the-horn-digest-everything-that-happened-in-ai-this-weekend-friday-sunday-april-17-19-2026/"/>
-        <updated>2026-04-19T18:58:07.514Z</updated>
-        <summary type="html"><![CDATA[Anthropic shipped Claude Design (the Figma competitor everyone saw coming), three senior OpenAI execs announced they're leaving pre-IPO, Claude Opus 4.7 wrote a working Chrome exploit for $2,283, and a fake Claude site started installing malware while everyone was watching the product launches.]]></summary>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Opus 4.7 Live Test: The Vision Upgrade, the Long-Context Drop, and Why the Mythos Theory Keeps Adding Up]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/opus-47-live-test-the-vision-upgrade-the-long-context-drop-and-why-the-mythos-theory-keeps-adding-up/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/opus-47-live-test-the-vision-upgrade-the-long-context-drop-and-why-the-mythos-theory-keeps-adding-up/"/>
-        <updated>2026-04-19T17:27:33.344Z</updated>
-        <summary type="html"><![CDATA[We went live within hours of Anthropic shipping Opus 4.7 and stress-tested everything from its new 3.75-megapixel vision to Claude Code's sub-agent behavior. Here's what the benchmarks didn't tell you.]]></summary>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free AI GTM System🛠️, Claude Opus 4.7🤖, The Brand Playbook🎨]]></title>
-        <id>https://www.thevccorner.com/p/free-ai-gtm-system-claude-opus-47</id>
-        <link href="https://www.thevccorner.com/p/free-ai-gtm-system-claude-opus-47"/>
-        <updated>2026-04-19T16:24:35.000Z</updated>
-        <summary type="html"><![CDATA[Another week, another pulse check on Tech.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proxy-Pointer RAG: Structure Meets Scale at 100% Accuracy with Smarter Retrieval]]></title>
-        <id>https://towardsdatascience.com/?p=608886</id>
-        <link href="https://towardsdatascience.com/proxy-pointer-rag-structure-meets-scale-100-accuracy-with-smarter-retrieval/"/>
-        <updated>2026-04-19T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Open source. 5-minute setup. Vector RAG done right—try it yourself.
-The post Proxy-Pointer RAG: Structure Meets Scale at 100% Accuracy with Smarter Retrieval appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Partha Sarkar</name>
         </author>
     </entry>
     <entry>
