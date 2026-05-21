@@ -1370,6 +1370,22 @@
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
         {
+          "id": "https://www.lennysnewsletter.com/p/what-launched-at-google-io-2026-30",
+          "author": "Claire Vo",
+          "description": "Watch now | 🎙️ Every major Google I/O 2026 launch—what's fast, what's broken, and what builders should actually care about",
+          "link": "https://www.lennysnewsletter.com/p/what-launched-at-google-io-2026-30",
+          "publishedOn": "2026-05-20T01:59:31.000Z",
+          "wordCount": null,
+          "title": "What launched at Google I/O 2026 (30-minute day 1 recap)",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/198494938/57a00de1162450a5237ce81151e6e1be.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://www.lennysnewsletter.com/p/the-lenny-and-friends-summit-is-back",
           "author": "Lenny Rachitsky",
           "description": "September 10th in San Francisco. Applications are now open.",
@@ -1768,22 +1784,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!5ZAf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9c7b10b-67b4-4d40-86c5-bce31eef2c22_1200x767.png"
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-intercom",
-          "author": "Lenny Rachitsky",
-          "description": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-          "link": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-intercom",
-          "publishedOn": "2026-04-20T15:33:11.000Z",
-          "wordCount": null,
-          "title": "🎙️ This week on How I AI: How Intercom 2x’d their engineering velocity with Claude Code",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/a1c0cdda-f6e5-4b81-b669-8be5e5c3e496_2048x2048.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/a1c0cdda-f6e5-4b81-b669-8be5e5c3e496_2048x2048.png"
         }
       ]
     },
@@ -1792,6 +1792,22 @@
       "feedUrl": "https://www.thevccorner.com/feed",
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
+        {
+          "id": "https://www.thevccorner.com/p/monzo-pitch-deck-business-playbook-2026",
+          "author": "Ruben Dominguez",
+          "description": "From a prepaid card for 500 beta users to one in five UK adults. The deck, the numbers, and the three product bets that 300-year-old banks could not copy",
+          "link": "https://www.thevccorner.com/p/monzo-pitch-deck-business-playbook-2026",
+          "publishedOn": "2026-05-20T15:57:54.000Z",
+          "wordCount": null,
+          "title": "Monzo Just Posted £1.7B in Revenue. Here Is the Pitch Deck That Started It All",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!tULD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6b579f7-a84e-411a-8014-2f934307e09c_1480x1045.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!tULD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6b579f7-a84e-411a-8014-2f934307e09c_1480x1045.png"
+        },
         {
           "id": "https://www.thevccorner.com/p/breaking-andrej-karpathy-joins-anthropic",
           "author": "Ruben Dominguez",
@@ -2127,22 +2143,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/d3644b85-d061-4bbc-9dbb-9407a4e1e18b_692x388.gif"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/distribution-singularity-ai-startup-momentum",
-          "author": "Ruben Dominguez",
-          "description": "In the age of infinite models, the only real moat left is motion.",
-          "link": "https://www.thevccorner.com/p/distribution-singularity-ai-startup-momentum",
-          "publishedOn": "2026-04-20T15:01:13.000Z",
-          "wordCount": null,
-          "title": "The Distribution Singularity: Why Speed, Story, and Surface Area Now Decide Who Wins in AI",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!eslk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11ffa46c-7581-487e-8659-dc2919720ef8_1536x790.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!eslk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11ffa46c-7581-487e-8659-dc2919720ef8_1536x790.png"
         }
       ]
     },
@@ -2151,6 +2151,46 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/newsletter/podcast-can-ai-solve-math-s-biggest-mystery/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/podcast-can-ai-solve-math-s-biggest-mystery/",
+          "publishedOn": "2026-05-20T19:11:19.120Z",
+          "wordCount": null,
+          "title": "😺 🎙️ PODCAST: Can AI Solve Math's Biggest Mystery?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/newsletter/google-just-put-agents-in-everything/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/google-just-put-agents-in-everything/",
+          "publishedOn": "2026-05-20T10:00:09.251Z",
+          "wordCount": null,
+          "title": "😺 Google just put agents in everything",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/google-io-2026-was-about-turning-every-google-app-into-an-agent/",
+          "author": null,
+          "description": "Google used I/O 2026 to show how Gemini 3.5, Spark, Omni, Search agents, Workspace, Android, YouTube, shopping, AI Studio, and Antigravity fit into one agent roadmap.",
+          "link": "https://www.theneuron.ai/explainer-articles/google-io-2026-was-about-turning-every-google-app-into-an-agent/",
+          "publishedOn": "2026-05-20T09:11:34.742Z",
+          "wordCount": null,
+          "title": "Google I/O 2026 Was About Turning Every Google App Into an Agent",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-tuesday-may-19-2026/",
+          "author": null,
+          "description": "Google I/O pushed Gemini agents across Search, Android, Workspace, YouTube, and shopping; Anthropic hardened Managed Agents; SpaceX reportedly planned to buy Cursor; OpenAI expanded provenance and enterprise capacity; Co-Scientist landed in Nature.",
+          "link": "https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-tuesday-may-19-2026/",
+          "publishedOn": "2026-05-20T03:45:46.592Z",
+          "wordCount": null,
+          "title": "Everything That Happened in AI Today (Tuesday, May 19, 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/explainer-articles/what-the-transformer-vs-post-transformer-debate-revealed-about-ais-next-architecture/",
           "author": null,
@@ -2880,56 +2920,6 @@
           "wordCount": null,
           "title": "😸 AI found bugs humans missed for 27 years",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/claude-beat-chatgpt-2-to-1/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/claude-beat-chatgpt-2-to-1/",
-          "publishedOn": "2026-04-21T10:01:52.786Z",
-          "wordCount": null,
-          "title": "😺 Claude beat ChatGPT 2-to-1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/kimi-k26-just-shipped-open-weight-claude-level-coding-at-76-the-cost-with-a-300-agent-swarm-as-the-real-story/",
-          "author": null,
-          "description": "Moonshot AI dropped Kimi K2.6 on Monday: a 1-trillion-parameter open-source model that matches Claude Opus 4.6 on coding benchmarks, runs 76% cheaper, ships Day-0 on Cloudflare, and coordinates 300 AI agents across 4,000 steps. Here's what it actually unlocks, and whether you should care.",
-          "link": "https://www.theneuron.ai/explainer-articles/kimi-k26-just-shipped-open-weight-claude-level-coding-at-76-the-cost-with-a-300-agent-swarm-as-the-real-story/",
-          "publishedOn": "2026-04-21T05:59:07.875Z",
-          "wordCount": null,
-          "title": "Kimi K2.6 just shipped open-weight: Claude-level coding at 76% the cost, with a 300-agent swarm as the real story",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/april-ai-skill-of-the-day-week-4-your-requests-answered/",
-          "author": null,
-          "description": "Every day, The Neuron's newsletter teaches 700,000+ readers one new AI skill they can use immediately. This collection is all the ones you requested.",
-          "link": "https://www.theneuron.ai/explainer-articles/april-ai-skill-of-the-day-week-4-your-requests-answered/",
-          "publishedOn": "2026-04-21T03:55:57.578Z",
-          "wordCount": null,
-          "title": "April AI Skill of the Day, Week 4 - Your Requests, Answered!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/claude-beat-chatgpt-2-to-1-in-our-reader-poll-heres-the-deeper-story-you-told-us/",
-          "author": null,
-          "description": "3,143 Neuron readers told us their #1 AI tool. Claude took the crown at nearly 2x ChatGPT's vote. But the WHY is where it gets interesting; 200+ of you wrote in to explain your choice and mention 40+ other tools. Plus: wild use cases (grocery-haul recipe videos, Tesla-to-laptop Grok, and \"Jason\" the Copilot named after Jason Momoa).",
-          "link": "https://www.theneuron.ai/explainer-articles/claude-beat-chatgpt-2-to-1-in-our-reader-poll-heres-the-deeper-story-you-told-us/",
-          "publishedOn": "2026-04-21T03:53:29.477Z",
-          "wordCount": null,
-          "title": "Claude Beat ChatGPT 2-to-1 in Our Reader Poll. Here's the Deeper Story You Told Us.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-monday-april-20-2026/",
-          "author": null,
-          "description": "Amazon doubled its Anthropic bet with up to $25 billion more, the NSA quietly started using Anthropic's most dangerous internal model despite a Pentagon ban, Google DeepMind spun up a \"Strike Team\" to catch Claude Code, OpenAI shipped screen-reading memory for Codex, and a Lovable breach exposed every project built before November 2025.",
-          "link": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-monday-april-20-2026/",
-          "publishedOn": "2026-04-21T03:44:47.308Z",
-          "wordCount": null,
-          "title": "Around the Horn Digest: Everything That Happened in AI Today (Monday, April 20, 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -2938,6 +2928,46 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=609147",
+          "author": "Moritz Pfeifer",
+          "description": "How unlearning fixes mode collapse in synthetic survey replies\nThe post Can LLMs Replace Survey Respondents? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/can-llms-replace-survey-respondents/",
+          "publishedOn": "2026-05-20T18:26:36.000Z",
+          "wordCount": 4668,
+          "title": "Can LLMs Replace Survey Respondents?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/cubist_household_survey_lighter_mix.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609145",
+          "author": "Destin Gong",
+          "description": "AI agents can quickly become expensive without a clear strategy for planning, skill coverage, and budgets. This article shows how to use operations research and data science to optimize AI agent cost and resource allocation. You will learn how to frame common agent problems—skill coverage, project assignment, and budgeting—as set covering, assignment, and knapsack optimization models in Python using Gurobi. \nThe post Optimizing AI Agent Planning with Operations Research and Data Science appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/optimizing-ai-agent-planning-with-operations-research-and-data-science/",
+          "publishedOn": "2026-05-20T17:28:12.000Z",
+          "wordCount": 6659,
+          "title": "Optimizing AI Agent Planning with Operations Research and Data Science",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Screenshot-2026-05-17-at-1.08.41-PM-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609143",
+          "author": "Eivind Kjosbakken",
+          "description": "Apply coding agents to your domain in a safe manner\nThe post How to Safely Run Coding Agents appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-safely-run-coding-agents/",
+          "publishedOn": "2026-05-20T13:30:00.000Z",
+          "wordCount": 4673,
+          "title": "How to Safely Run Coding Agents",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/image-213.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609141",
+          "author": "Sara A. Metwalli",
+          "description": "The real challenge in building reliable AI\nThe post From Possible to Probable AI Models appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/from-possible-to-probable-ai-models/",
+          "publishedOn": "2026-05-20T12:00:00.000Z",
+          "wordCount": 4352,
+          "title": "From Possible to Probable AI Models",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/pexels-lenzatic-2073170-scaled-1.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=609137",
           "author": "Mustapha Momoh",
@@ -3947,46 +3977,6 @@
           "wordCount": 5094,
           "title": "How to Call Rust from Python",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-15-2026-02_19_58-PM.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608905",
-          "author": "Benjamin Nweke",
-          "description": "The hidden cost of probabilistic outputs in systems that demand reliability\nThe post I Replaced GPT-4 with a Local SLM and My CI/CD Pipeline Stopped Failing appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/i-replaced-gpt-4-with-a-local-slm-and-my-ci-cd-pipeline-stopped-failing/",
-          "publishedOn": "2026-04-21T13:30:00.000Z",
-          "wordCount": 5590,
-          "title": "I Replaced GPT-4 with a Local SLM and My CI/CD Pipeline Stopped Failing",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Gemini_Generated_Image_j19tm3j19tm3j19t-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608901",
-          "author": "Emmimal P Alexander",
-          "description": "As memory grows in RAG systems, accuracy quietly drops while confidence rises — creating a failure that most monitoring systems never detect. This article walks through a reproducible experiment showing why this happens and how a simple memory architecture fix restores reliability.\nThe post Your RAG Gets Confidently Wrong as Memory Grows – I Built the Memory Layer That Stops It appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/your-rag-gets-confidently-wrong-as-memory-grows-i-built-the-memory-layer-that-stops-it/",
-          "publishedOn": "2026-04-21T12:00:00.000Z",
-          "wordCount": 6335,
-          "title": "Your RAG Gets Confidently Wrong as Memory Grows – I Built the Memory Layer That Stops It",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Memory-Grows-–-I-Built-the-Memory-Layer-That-Stops-It.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608899",
-          "author": "Sara A. Metwalli",
-          "description": "And what does it tell us?\nThe post What Does the p-value Even Mean? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/what-does-p-value-even-mean/",
-          "publishedOn": "2026-04-20T16:30:00.000Z",
-          "wordCount": 4392,
-          "title": "What Does the p-value Even Mean?",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/pexels-ds-stories-6990182-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608897",
-          "author": "Chinmay Kakatkar",
-          "description": "Conceptual overview and practical guidance\nThe post Context Payload Optimization for ICL-Based Tabular Foundation Models appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/context-payload-optimization-for-icl-based-tabular-foundation-models/",
-          "publishedOn": "2026-04-20T15:00:00.000Z",
-          "wordCount": 6236,
-          "title": "Context Payload Optimization for ICL-Based Tabular Foundation Models",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/chemistry-161575_1920.jpg"
         }
       ]
     },
@@ -4001,6 +3991,36 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/d7f6fc8bf772",
+          "author": "Daniel Ruston",
+          "description": "The new product mandate.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/designing-the-human-ai-system-d7f6fc8bf772?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-05-21T01:17:18.000Z",
+          "wordCount": null,
+          "title": "Designing the Human+AI system",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ed91c256b86b",
+          "author": "Zeeshan Khalid",
+          "description": "The illusion of completion and the birth of the ghost\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/ai-ux-debt-a-new-bottleneck-ed91c256b86b?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-05-21T01:16:29.000Z",
+          "wordCount": null,
+          "title": "AI UX debt: A new bottleneck",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e4ceea39673c",
+          "author": "Chris How",
+          "description": "",
+          "link": "https://uxdesign.cc/yippee-ia-six-principles-for-creating-a-successful-information-architecture-e4ceea39673c?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-05-21T01:15:31.000Z",
+          "wordCount": null,
+          "title": "Yippee IA: Six principles for creating a successful information architecture",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/c5a30b729e4b",
           "author": "Michael Buckley",
@@ -4590,76 +4610,6 @@
           "wordCount": null,
           "title": "Working in the open",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/4f52fbffabba",
-          "author": "Kai Wong",
-          "description": "How to create annotations that let your design work shine\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/how-design-leaders-influence-decisions-without-being-in-the-room-4f52fbffabba?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-04-21T11:31:51.000Z",
-          "wordCount": null,
-          "title": "How design leaders influence decisions without being in the room",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/74d3bd7f9e65",
-          "author": "Matt Jedraszczyk",
-          "description": "My focus has been on the enterprise sector for years. After the 2022 ChatGPT revolution, I witnessed a massive hype around self-made AI…\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/how-to-mitigate-the-risk-of-ai-implementation-in-enterprise-environments-74d3bd7f9e65?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-04-21T11:31:47.000Z",
-          "wordCount": null,
-          "title": "How to mitigate the risk of AI implementation in enterprise environments",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/02a1ba1d5162",
-          "author": "Adir SL",
-          "description": "",
-          "link": "https://uxdesign.cc/css-you-didnt-know-you-could-style-02a1ba1d5162?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-04-21T11:31:46.000Z",
-          "wordCount": null,
-          "title": "CSS you didn’t know you could style",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/fb6866c907ac",
-          "author": "Kike Peña",
-          "description": "",
-          "link": "https://uxdesign.cc/product-design-in-2026-the-beginning-of-a-fantastic-voyage-fb6866c907ac?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-04-20T22:01:48.000Z",
-          "wordCount": null,
-          "title": "Product design in 2026: the beginning of a fantastic voyage?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/96e931d92769",
-          "author": "Adi Leviim",
-          "description": "",
-          "link": "https://uxdesign.cc/the-chat-box-isnt-a-ui-paradigm-it-s-what-shipped-96e931d92769?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-04-20T22:01:47.000Z",
-          "wordCount": null,
-          "title": "The chat box isn’t a UI paradigm. It’s what shipped.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/420f9d3fe78e",
-          "author": "Arin Bhowmick",
-          "description": "",
-          "link": "https://uxdesign.cc/the-web-trained-ai-to-deceive-now-designers-have-to-untrain-it-420f9d3fe78e?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-04-20T22:01:45.000Z",
-          "wordCount": null,
-          "title": "The web trained AI to deceive. Now designers have to untrain it.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/722a9f02ed73",
-          "author": "Luis Hermosilla",
-          "description": "A reflection on clarity, restraint, and what it truly means to design meaningful experiences looking at the bigger picture\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/the-art-of-subtraction-in-a-world-of-infinite-features-722a9f02ed73?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-04-20T21:54:36.000Z",
-          "wordCount": null,
-          "title": "The art of subtraction in a world of infinite features",
-          "imageUrl": null
         }
       ]
     },
@@ -4674,6 +4624,16 @@
       "feedUrl": "https://blog.pragmaticengineer.com/feed",
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
+        {
+          "id": "6a0d707867d99e0001f62c84",
+          "author": "Gergely Orosz",
+          "description": "A $124B fund in Australia would have lost all data stored with Google Cloud, had they not relied on a third-party backup. A rare blunder from GCP, where regional replication did not stop the deletion – and a just as rare statement from Google Cloud’s CEO taking the blame.",
+          "link": "https://blog.pragmaticengineer.com/google-cloud-deletes-australian-trading-funds-infra/",
+          "publishedOn": "2026-05-20T08:31:08.000Z",
+          "wordCount": 1525,
+          "title": "Google Cloud deletes Australian trading fund’s infra",
+          "imageUrl": null
+        },
         {
           "id": "6a05f20bbfd90c000141d3d3",
           "author": "Gergely Orosz",
@@ -4731,6 +4691,56 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/8c38588dfef6",
+          "author": "Jim Clyde Monge",
+          "description": "Heads up: Antigravity 2.0 is a different app from Antigravity IDE.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/googles-antigravity-2-0-launch-is-a-huge-mess-8c38588dfef6?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-20T16:19:39.000Z",
+          "wordCount": null,
+          "title": "Google’s Antigravity 2.0 Launch Is A Huge Mess",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/273f27620c38",
+          "author": "Ahmed M. Abdelfattah",
+          "description": "For anyone whose company runs on software: what the UK government found, and why nobody planned for it.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/anthropic-built-a-coding-ai-it-became-a-hacking-ai-anyway-273f27620c38?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-20T09:58:12.000Z",
+          "wordCount": null,
+          "title": "Anthropic Built a Coding AI. It Became a Hacking AI Anyway.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c9a3b8575030",
+          "author": "Ahmed M. Abdelfattah",
+          "description": "How the AISI’s May evaluation quietly collapsed Anthropic’s case for restricting Mythos and what the numbers in that report actually say\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/anthropic-restricted-mythos-over-a-danger-test-gpt-5-5-just-passed-c9a3b8575030?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-20T09:55:44.000Z",
+          "wordCount": null,
+          "title": "Anthropic Restricted Mythos Over a Danger Test GPT-5.5 Just Passed",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ff418dab870a",
+          "author": "Wyatt Kay",
+          "description": "",
+          "link": "https://generativeai.pub/ai-isnt-replacing-designers-it-s-reshaping-the-workflow-ff418dab870a?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-20T09:55:42.000Z",
+          "wordCount": null,
+          "title": "AI Isn’t Replacing Designers. It’s Reshaping the Workflow.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0042be295805",
+          "author": "Scarlett Zhao",
+          "description": "",
+          "link": "https://generativeai.pub/if-you-are-not-doing-evals-you-are-shipping-on-vibes-0042be295805?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-20T09:52:25.000Z",
+          "wordCount": null,
+          "title": "If you are not doing evals, you are shipping on vibes (A field guide for AI evals)",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/053e6b4372c0",
           "author": "Jim Clyde Monge",
@@ -5939,106 +5949,6 @@
           "publishedOn": "2026-04-23T02:14:35.000Z",
           "wordCount": null,
           "title": "Everything You Need to Know About RAG",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9b91f9399a76",
-          "author": "Daniel Rusnok",
-          "description": "Mem0 + MCP + ChromaDB — plus what happens when your “helpful” hook spawns seven parallel Claude instances\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/how-i-added-persistent-semantic-memory-to-claude-code-in-15-minutes-9b91f9399a76?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-21T01:02:31.000Z",
-          "wordCount": null,
-          "title": "How I Added Persistent Semantic Memory to Claude Code in 15 Minutes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/5c1529fa7ede",
-          "author": "Swarup Dewanjee",
-          "description": "",
-          "link": "https://generativeai.pub/why-generative-ai-may-be-more-dangerous-than-predictive-ai-in-healthcare-5c1529fa7ede?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-21T01:02:05.000Z",
-          "wordCount": null,
-          "title": "Why Generative AI May Be More Dangerous Than Predictive AI in Healthcare",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/a5de1408f417",
-          "author": "Marco van Hurne",
-          "description": "",
-          "link": "https://generativeai.pub/agents-are-autonomous-except-when-they-are-not-which-is-most-of-the-time-a5de1408f417?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-21T01:00:50.000Z",
-          "wordCount": null,
-          "title": "Agents are autonomous except when they are not which is most of the time",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/23d41d7a25b0",
-          "author": "Josh O'Brien",
-          "description": "",
-          "link": "https://generativeai.pub/science-fictions-ai-warnings-23d41d7a25b0?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-21T00:35:35.000Z",
-          "wordCount": null,
-          "title": "Science Fictions AI Warnings",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/7c8d878ac700",
-          "author": "Dorota Pawlak",
-          "description": "Claude Design just went live.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/claude-design-three-handy-use-cases-for-marketing-localization-teams-7c8d878ac700?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-21T00:32:03.000Z",
-          "wordCount": null,
-          "title": "Claude Design: Three Handy Use Cases For Marketing & Localization Teams",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/883d0f611b21",
-          "author": "Cezary Gesikowski",
-          "description": "A flattering stereotype is still… just a stereotype\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/the-neurodivergent-ai-advantage-myth-needs-a-reality-check-883d0f611b21?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-21T00:31:10.000Z",
-          "wordCount": null,
-          "title": "The “Neurodivergent AI Advantage” Myth Needs a Reality Check",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/ef5b7745eac2",
-          "author": "Mohamed Noordeen Alaudeen",
-          "description": "",
-          "link": "https://generativeai.pub/words-dont-have-meaning-sentences-do-ef5b7745eac2?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-21T00:30:45.000Z",
-          "wordCount": null,
-          "title": "I Thought Words Had Meaning, Until This Simple Example Changed Everything",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/6667f852eca8",
-          "author": "Andrew W. Pearson",
-          "description": "AI’s Circular-Jerk Economy\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/maybe-theyre-selling-us-snaike-oil-6667f852eca8?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-21T00:27:26.000Z",
-          "wordCount": null,
-          "title": "Maybe They’re Selling Us SnAIke Oil?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/32dfcf79607c",
-          "author": "Gabriel L. Manor",
-          "description": "",
-          "link": "https://generativeai.pub/the-4-plane-architecture-of-ai-native-content-engineering-32dfcf79607c?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-21T00:22:25.000Z",
-          "wordCount": null,
-          "title": "The 4-Plane Architecture of AI-Native Content Engineering",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/4b284c7384ff",
-          "author": "Revant",
-          "description": "A junior engineer on my team closed fourteen tickets last sprint. My most senior IC closed four.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/my-juniors-ship-faster-than-my-seniors-and-im-worried-about-them-4b284c7384ff?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-21T00:22:23.000Z",
-          "wordCount": null,
-          "title": "My juniors ship faster than my seniors. And I’m worried about them.",
           "imageUrl": null
         }
       ]
