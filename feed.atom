@@ -2,10 +2,137 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-05-21T01:53:16.026Z</updated>
+    <updated>2026-05-22T01:54:29.220Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[You should be spending 80% of your time building and 20% watching tutorials 🚀]]></title>
+        <id>https://www.youtube.com/shorts/9ufZJSsJ7vo</id>
+        <link href="https://www.youtube.com/shorts/9ufZJSsJ7vo"/>
+        <updated>2026-05-21T21:30:01.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Composer 2.5 and I INTERVIEWED THE CEO OF ALPHABET]]></title>
+        <id>https://www.youtube.com/watch?v=tk9lt-9x8mE</id>
+        <link href="https://www.youtube.com/watch?v=tk9lt-9x8mE"/>
+        <updated>2026-05-21T19:49:20.000Z</updated>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is absolutely CRAZY]]></title>
+        <id>https://www.youtube.com/watch?v=Td2TaMWNUtA</id>
+        <link href="https://www.youtube.com/watch?v=Td2TaMWNUtA"/>
+        <updated>2026-05-21T19:43:02.000Z</updated>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 Watch LIVE NOW: Building AI Voice Agents w/ LiveKit's Ben Cherry]]></title>
+        <id>https://www.theneuron.ai/newsletter/watch-live-now-building-ai-voice-agents-w-livekit-s-ben-cherry/</id>
+        <link href="https://www.theneuron.ai/newsletter/watch-live-now-building-ai-voice-agents-w-livekit-s-ben-cherry/"/>
+        <updated>2026-05-21T16:58:09.834Z</updated>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM Themes Are Not Observations]]></title>
+        <id>https://towardsdatascience.com/?p=609155</id>
+        <link href="https://towardsdatascience.com/llm-themes-are-not-observations/"/>
+        <updated>2026-05-21T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A practitioner's warning about generated variables in causal analysis
+The post LLM Themes Are Not Observations appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>William Gieng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Claude Skills Every Data Scientist Needs in 2026]]></title>
+        <id>https://towardsdatascience.com/?p=609153</id>
+        <link href="https://towardsdatascience.com/3-claude-skills-every-data-scientist-needs-in-2026/"/>
+        <updated>2026-05-21T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you don't want to be left behind, start doing these things with Claude
+The post 3 Claude Skills Every Data Scientist Needs in 2026 appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Haden Pelletier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Benders’ Decomposition 101: How to Crack Open a Stochastic Program That’s Too Big to Swallow Whole]]></title>
+        <id>https://towardsdatascience.com/?p=609149</id>
+        <link href="https://towardsdatascience.com/benders-decomposition-101/"/>
+        <updated>2026-05-21T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Whenever you can rewrite an optimization problem so that fixing some variables makes the rest separable, you could try Benders.
+The post Benders’ Decomposition 101: How to Crack Open a Stochastic Program That’s Too Big to Swallow Whole appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Berend Markhorst</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Complete Guide to AI Agents in 2026 (And How to Actually Use Them)]]></title>
+        <id>https://www.youtube.com/watch?v=LNkAW4SSgdY</id>
+        <link href="https://www.youtube.com/watch?v=LNkAW4SSgdY"/>
+        <updated>2026-05-21T13:00:34.000Z</updated>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Codex 新玩法｜一個 Prompt 生成 Email、Excel、PPT、網站｜用 AI 接手整個工作流程｜廣東話教學]]></title>
+        <id>https://www.youtube.com/watch?v=c-ozEDmRZGw</id>
+        <link href="https://www.youtube.com/watch?v=c-ozEDmRZGw"/>
+        <updated>2026-05-21T12:59:47.000Z</updated>
+        <author>
+            <name>Dr. Jackei 科技生活日誌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prompt Engineering Isn’t Enough — I Built a Control Layer That Works in Production]]></title>
+        <id>https://towardsdatascience.com/?p=609151</id>
+        <link href="https://towardsdatascience.com/prompt-engineering-isnt-enough-i-built-a-control-layer-that-works-in-production/"/>
+        <updated>2026-05-21T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most LLM failures in production aren’t random — they’re predictable.
+The post Prompt Engineering Isn’t Enough — I Built a Control Layer That Works in Production appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Emmimal P Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 Meta used staff as AI training data. Then cut them.]]></title>
+        <id>https://www.theneuron.ai/newsletter/meta-used-staff-as-ai-training-data-then-cut-them/</id>
+        <link href="https://www.theneuron.ai/newsletter/meta-used-staff-as-ai-training-data-then-cut-them/"/>
+        <updated>2026-05-21T11:25:41.222Z</updated>
+        <author>
+            <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX Just Filed the Biggest IPO in History. Here Is What the Numbers Actually Say]]></title>
+        <id>https://www.thevccorner.com/p/spacex-spcx-ipo-s1-teardown-valuation-2026</id>
+        <link href="https://www.thevccorner.com/p/spacex-spcx-ipo-s1-teardown-valuation-2026"/>
+        <updated>2026-05-21T10:11:35.000Z</updated>
+        <summary type="html"><![CDATA[$1.75 trillion. $75 billion raise. Three businesses with completely different financial profiles sold as one number. Here is the teardown.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Agent 爆發時刻：Andrej Karpathy 說「我現在幾乎不再自己寫 code」]]></title>
+        <id>https://www.youtube.com/watch?v=HOu0MIF8fjQ</id>
+        <link href="https://www.youtube.com/watch?v=HOu0MIF8fjQ"/>
+        <updated>2026-05-21T03:26:41.000Z</updated>
+        <author>
+            <name>電腦王阿達</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Designing the Human+AI system]]></title>
         <id>https://medium.com/p/d7f6fc8bf772</id>
@@ -38,12 +165,31 @@ Continue reading on UX Collective »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Every great AI engineer is a software engineer first 💻]]></title>
+        <id>https://www.youtube.com/shorts/9_Pu40iSas0</id>
+        <link href="https://www.youtube.com/shorts/9_Pu40iSas0"/>
+        <updated>2026-05-20T23:32:37.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[😺 🎙️ PODCAST: Can AI Solve Math's Biggest Mystery?]]></title>
         <id>https://www.theneuron.ai/newsletter/podcast-can-ai-solve-math-s-biggest-mystery/</id>
         <link href="https://www.theneuron.ai/newsletter/podcast-can-ai-solve-math-s-biggest-mystery/"/>
         <updated>2026-05-20T19:11:19.120Z</updated>
         <author>
             <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google CEO: Agents, Open Source, Race to AGI, Cybersecurity, Chips, China]]></title>
+        <id>https://www.youtube.com/watch?v=IB7IW6zX-H0</id>
+        <link href="https://www.youtube.com/watch?v=IB7IW6zX-H0"/>
+        <updated>2026-05-20T18:55:27.000Z</updated>
+        <author>
+            <name>Matthew Berman</name>
         </author>
     </entry>
     <entry>
@@ -55,6 +201,15 @@ Continue reading on UX Collective »]]></summary>
 The post Can LLMs Replace Survey Respondents? appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Moritz Pfeifer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「LEAK」祖克伯坦承使用員工操作裝置的行為來訓練AI]]></title>
+        <id>https://www.youtube.com/watch?v=muwGnE5R4C8</id>
+        <link href="https://www.youtube.com/watch?v=muwGnE5R4C8"/>
+        <updated>2026-05-20T17:42:13.000Z</updated>
+        <author>
+            <name>電腦王阿達</name>
         </author>
     </entry>
     <entry>
@@ -90,6 +245,15 @@ Continue reading on Generative AI »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Upload & Host your Website on Hostinger (2026)]]></title>
+        <id>https://www.youtube.com/watch?v=a4CK72s5tyA</id>
+        <link href="https://www.youtube.com/watch?v=a4CK72s5tyA"/>
+        <updated>2026-05-20T13:52:16.000Z</updated>
+        <author>
+            <name>Metics Media</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Safely Run Coding Agents]]></title>
         <id>https://towardsdatascience.com/?p=609143</id>
         <link href="https://towardsdatascience.com/how-to-safely-run-coding-agents/"/>
@@ -109,6 +273,15 @@ The post How to Safely Run Coding Agents appeared first on Towards Data Science.
 The post From Possible to Probable AI Models appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Sara A. Metwalli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HONOR Magic8 Pro 開箱：這台旗艦堆料太滿，高通驍龍 8 Elite+ 7100mAh、2 億超夜神長焦鏡頭]]></title>
+        <id>https://www.youtube.com/watch?v=q7Hu2zjKlvw</id>
+        <link href="https://www.youtube.com/watch?v=q7Hu2zjKlvw"/>
+        <updated>2026-05-20T10:56:01.000Z</updated>
+        <author>
+            <name>電腦王阿達</name>
         </author>
     </entry>
     <entry>
@@ -338,6 +511,16 @@ Continue reading on UX Collective »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Stop jumping straight into building and spend 10 minutes planning first 🧠]]></title>
+        <id>https://www.youtube.com/shorts/rhoVcV26cxI</id>
+        <link href="https://www.youtube.com/shorts/rhoVcV26cxI"/>
+        <updated>2026-05-19T19:17:02.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[BREAKING: Andrej Karpathy Joins Anthropic]]></title>
         <id>https://www.thevccorner.com/p/breaking-andrej-karpathy-joins-anthropic</id>
         <link href="https://www.thevccorner.com/p/breaking-andrej-karpathy-joins-anthropic"/>
@@ -391,6 +574,15 @@ The post Grounding LLMs with Fresh Web Data to Reduce Hallucinations appeared fi
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hermes just got 10x better...]]></title>
+        <id>https://www.youtube.com/watch?v=8iZUyE7SlXo</id>
+        <link href="https://www.youtube.com/watch?v=8iZUyE7SlXo"/>
+        <updated>2026-05-19T13:30:10.000Z</updated>
+        <author>
+            <name>Alex Finn</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Proxy-Pointer RAG: Solving Entity and Relationship Sprawl in Large Knowledge Graphs]]></title>
         <id>https://towardsdatascience.com/?p=609127</id>
         <link href="https://towardsdatascience.com/proxy-pointer-rag-solving-entity-and-relationship-sprawl-in-large-knowledge-graphs/"/>
@@ -399,6 +591,15 @@ The post Grounding LLMs with Fresh Web Data to Reduce Hallucinations appeared fi
 The post Proxy-Pointer RAG: Solving Entity and Relationship Sprawl in Large Knowledge Graphs appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Partha Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Only OpenClaw Tutorial You Will Ever Need]]></title>
+        <id>https://www.youtube.com/watch?v=UrPuSAFd_Ss</id>
+        <link href="https://www.youtube.com/watch?v=UrPuSAFd_Ss"/>
+        <updated>2026-05-19T11:00:45.000Z</updated>
+        <author>
+            <name>Metics Media</name>
         </author>
     </entry>
     <entry>
@@ -473,6 +674,16 @@ Continue reading on Generative AI »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Did you know you can swap any two variables in Python without a temp variable? 🔥]]></title>
+        <id>https://www.youtube.com/shorts/wC3s3MNFDlw</id>
+        <link href="https://www.youtube.com/shorts/wC3s3MNFDlw"/>
+        <updated>2026-05-18T23:04:20.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The waiting problem in AI products]]></title>
         <id>https://medium.com/p/e7c11fd5a825</id>
         <link href="https://uxdesign.cc/the-waiting-problem-in-ai-products-e7c11fd5a825?source=rss----138adf9c44c---4"/>
@@ -534,6 +745,16 @@ The post One Flexible Tool Beats a Hundred Dedicated Ones appeared first on Towa
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Did you know you can join any Python list into a string in just one line? 🔥]]></title>
+        <id>https://www.youtube.com/shorts/KXbCpY8qaSA</id>
+        <link href="https://www.youtube.com/shorts/KXbCpY8qaSA"/>
+        <updated>2026-05-18T14:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Why Your AI Demo Will Die in Production]]></title>
         <id>https://towardsdatascience.com/?p=609121</id>
         <link href="https://towardsdatascience.com/why-your-ai-demo-will-die-in-production/"/>
@@ -578,6 +799,15 @@ The post Why Your AI Demo Will Die in Production appeared first on Towards Data 
         <updated>2026-05-18T13:07:55.000Z</updated>
         <author>
             <name>Malte Hedderich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devin AI Is the Future of Coding… Full Tutorial]]></title>
+        <id>https://www.youtube.com/watch?v=GFlFABWeqDc</id>
+        <link href="https://www.youtube.com/watch?v=GFlFABWeqDc"/>
+        <updated>2026-05-18T13:02:48.000Z</updated>
+        <author>
+            <name>Tech With Tim</name>
         </author>
     </entry>
     <entry>
@@ -657,6 +887,24 @@ The post How to Maximize OpenAI’s Codex appeared first on Towards Data Science
         <updated>2026-05-18T10:00:14.665Z</updated>
         <author>
             <name>TheNeuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fastest Way to Set Up OpenClaw (Step by Step)]]></title>
+        <id>https://www.youtube.com/watch?v=UbVZ-eczvA4</id>
+        <link href="https://www.youtube.com/watch?v=UbVZ-eczvA4"/>
+        <updated>2026-05-18T09:15:56.000Z</updated>
+        <author>
+            <name>Metics Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超強 AI 工作平台 Skywork AI：一鍵生成簡報、海報、網站，把 8 小時工作壓縮到 8 分鐘！]]></title>
+        <id>https://www.youtube.com/watch?v=JbIYxOXmuiw</id>
+        <link href="https://www.youtube.com/watch?v=JbIYxOXmuiw"/>
+        <updated>2026-05-18T03:43:12.000Z</updated>
+        <author>
+            <name>電腦王阿達</name>
         </author>
     </entry>
     <entry>
@@ -5275,249 +5523,6 @@ The post From Ad Hoc Prompting to Repeatable AI Workflows with Claude Code Skill
         <summary type="html"><![CDATA[Inside the one-page memo that funded Apple and what it reveals about conviction, process, and the fund structure mistake that cost Sequoia $370 billion.]]></summary>
         <author>
             <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ivory Tower Notes: The Methodology]]></title>
-        <id>https://towardsdatascience.com/?p=608916</id>
-        <link href="https://towardsdatascience.com/ivory-tower-notes-the-methodology/"/>
-        <updated>2026-04-22T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A short intro to scientific methodology to combat "prompt in, slop out"
-The post Ivory Tower Notes: The Methodology appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Marina Tosic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[These are the MOST important patterns!]]></title>
-        <id>https://www.youtube.com/shorts/kyYd_el3pMw</id>
-        <link href="https://www.youtube.com/shorts/kyYd_el3pMw"/>
-        <updated>2026-04-22T13:10:02.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build an AI Email Assistant with Code | Full AI Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=8FBGb0NS_zc</id>
-        <link href="https://www.youtube.com/watch?v=8FBGb0NS_zc"/>
-        <updated>2026-04-22T13:00:17.000Z</updated>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Claude Design is actually good for (and why Figma isn’t dead yet)]]></title>
-        <id>https://www.lennysnewsletter.com/p/what-claude-design-is-actually-good</id>
-        <link href="https://www.lennysnewsletter.com/p/what-claude-design-is-actually-good"/>
-        <updated>2026-04-22T12:04:31.000Z</updated>
-        <summary type="html"><![CDATA[Watch now | 🎙️I built a landing page, slides, and an unhinged redesign to find out what Claude Design is actually good at—plus why GPT Image 2.0 might change how you create brand assets]]></summary>
-        <author>
-            <name>Claire Vo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run OpenClaw with Open-Source Models]]></title>
-        <id>https://towardsdatascience.com/?p=608914</id>
-        <link href="https://towardsdatascience.com/how-to-run-openclaw-with-open-source-models/"/>
-        <updated>2026-04-22T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Run OpenClaw assistant through alternative LLMs
-The post How to Run OpenClaw with Open-Source Models appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Eivind Kjosbakken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😸 AI found bugs humans missed for 27 years]]></title>
-        <id>https://www.theneuron.ai/newsletter/ai-found-bugs-humans-missed-for-27-years/</id>
-        <link href="https://www.theneuron.ai/newsletter/ai-found-bugs-humans-missed-for-27-years/"/>
-        <updated>2026-04-22T10:30:31.926Z</updated>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT Image 2 just dropped... (WOAH)]]></title>
-        <id>https://www.youtube.com/watch?v=uvdRGC4cFhY</id>
-        <link href="https://www.youtube.com/watch?v=uvdRGC4cFhY"/>
-        <updated>2026-04-22T00:54:02.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT Image 2, AI Psychosis, and more]]></title>
-        <id>https://www.youtube.com/watch?v=0yTL0LBjj-g</id>
-        <link href="https://www.youtube.com/watch?v=0yTL0LBjj-g"/>
-        <updated>2026-04-21T20:45:40.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DIY AI & ML: Solving The Multi-Armed Bandit Problem with Thompson Sampling]]></title>
-        <id>https://towardsdatascience.com/?p=608912</id>
-        <link href="https://towardsdatascience.com/diy-ai-ml-solving-the-multi-armed-bandit-problem-with-thompson-sampling/"/>
-        <updated>2026-04-21T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How you can build your own Thompson Sampling Algorithm object in Python and apply it to a hypothetical yet real-life example
-The post DIY AI & ML: Solving The Multi-Armed Bandit Problem with Thompson Sampling appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Jacob Ingle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The US VC Database Most Founders Never Build]]></title>
-        <id>https://www.thevccorner.com/p/the-us-vc-database-most-founders</id>
-        <link href="https://www.thevccorner.com/p/the-us-vc-database-most-founders"/>
-        <updated>2026-04-21T17:59:47.000Z</updated>
-        <summary type="html"><![CDATA[Raising a pre-seed or seed round in the US right now? This is the list you want]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git UNDO : How to Rewrite Git History with Confidence]]></title>
-        <id>https://towardsdatascience.com/?p=608909</id>
-        <link href="https://towardsdatascience.com/git-undo-how-to-rewrite-git-history-with-confidence/"/>
-        <updated>2026-04-21T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[For any data scientist who works in a team, being able to undo Git actions can be a life saver. This practical guide will teach you all you need to know to save the day.
-The post Git UNDO : How to Rewrite Git History with Confidence appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Omer Rosenbaum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New: A free year of Cursor, Google AI Pro, Notion, Supabase, Gumloop, and Fin for subscribers]]></title>
-        <id>https://www.lennysnewsletter.com/p/new-a-free-year-of-cursor-google</id>
-        <link href="https://www.lennysnewsletter.com/p/new-a-free-year-of-cursor-google"/>
-        <updated>2026-04-21T15:03:33.000Z</updated>
-        <summary type="html"><![CDATA[Now 25 incredible products totaling over $30,000 in value—free with your Lenny’s Newsletter subscription]]></summary>
-        <author>
-            <name>Lenny Rachitsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Call Rust from Python]]></title>
-        <id>https://towardsdatascience.com/?p=608907</id>
-        <link href="https://towardsdatascience.com/calling-rust-from-python/"/>
-        <updated>2026-04-21T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A guide to bridging the gap between ease of use and raw performance.
-The post How to Call Rust from Python appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Thomas Reid</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What hiring managers secretly look for...]]></title>
-        <id>https://www.youtube.com/shorts/TP6BO2BSTd4</id>
-        <link href="https://www.youtube.com/shorts/TP6BO2BSTd4"/>
-        <updated>2026-04-21T14:10:02.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MOST coders miss this.]]></title>
-        <id>https://www.youtube.com/shorts/hrG_z5zPuMc</id>
-        <link href="https://www.youtube.com/shorts/hrG_z5zPuMc"/>
-        <updated>2026-04-21T11:50:44.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[別再修龍蝦了！最聰明 Hermes Agent 全平台安裝全攻略，自我學習進化＋長期記憶一次搞定！（免費Api Key 設定、龍蝦轉移技巧、Telegram設定踩坑解決）]]></title>
-        <id>https://www.youtube.com/watch?v=Gjd9JoiTZds</id>
-        <link href="https://www.youtube.com/watch?v=Gjd9JoiTZds"/>
-        <updated>2026-04-21T06:41:26.000Z</updated>
-        <author>
-            <name>電腦王阿達</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenClaw Full Tutorial: Set up your first AI employee!]]></title>
-        <id>https://www.youtube.com/watch?v=mGcdxFPwBdU</id>
-        <link href="https://www.youtube.com/watch?v=mGcdxFPwBdU"/>
-        <updated>2026-04-21T01:05:23.000Z</updated>
-        <author>
-            <name>Alex Finn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built an AI Agent in 20 Minutes - Here's How]]></title>
-        <id>https://www.youtube.com/watch?v=Xx18YRrK-Uk</id>
-        <link href="https://www.youtube.com/watch?v=Xx18YRrK-Uk"/>
-        <updated>2026-04-20T13:53:04.000Z</updated>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoHighLevel Tutorial for Beginners 2026 - How to Use GoHighLevel]]></title>
-        <id>https://www.youtube.com/watch?v=CUe2HnyrXps</id>
-        <link href="https://www.youtube.com/watch?v=CUe2HnyrXps"/>
-        <updated>2026-04-20T11:05:45.000Z</updated>
-        <author>
-            <name>Metics Media</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MSI Prestige 14 Flip AI+開箱實測： 20 小時長效續航比肩Macbook，還能順跑3A大作！]]></title>
-        <id>https://www.youtube.com/watch?v=4bvjukOwbLU</id>
-        <link href="https://www.youtube.com/watch?v=4bvjukOwbLU"/>
-        <updated>2026-04-20T08:07:06.000Z</updated>
-        <author>
-            <name>電腦王阿達</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Replaced OpenClaw With Perplexity Computer…]]></title>
-        <id>https://www.youtube.com/watch?v=fgr6Sm-dmmM</id>
-        <link href="https://www.youtube.com/watch?v=fgr6Sm-dmmM"/>
-        <updated>2026-04-19T12:36:24.000Z</updated>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DO not get stuck in this LOOP]]></title>
-        <id>https://www.youtube.com/shorts/GalVcriJJxo</id>
-        <link href="https://www.youtube.com/shorts/GalVcriJJxo"/>
-        <updated>2026-04-19T12:16:19.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do you have this DEBT?]]></title>
-        <id>https://www.youtube.com/shorts/RkZC8p9FvQw</id>
-        <link href="https://www.youtube.com/shorts/RkZC8p9FvQw"/>
-        <updated>2026-04-18T16:19:07.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Testing Just Arrived... | KaneAI Full Tutorial]]></title>
-        <id>https://www.youtube.com/watch?v=dlgIqefjVe8</id>
-        <link href="https://www.youtube.com/watch?v=dlgIqefjVe8"/>
-        <updated>2026-04-18T15:15:17.000Z</updated>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The creator of Claude Code just revealed 7 secrets to using Claude Code (Opus 4.7)]]></title>
-        <id>https://www.youtube.com/watch?v=8YhYtIF9PYI</id>
-        <link href="https://www.youtube.com/watch?v=8YhYtIF9PYI"/>
-        <updated>2026-04-18T15:05:22.000Z</updated>
-        <author>
-            <name>Alex Finn</name>
         </author>
     </entry>
 </feed>
