@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/3Ci-QK46pzg",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/3Ci-QK46pzg",
+          "publishedOn": "2026-05-22T14:45:01.000Z",
+          "wordCount": 2133,
+          "title": "Stop learning everything at once and go deep in one area first 🎯",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=E2UgYp2vh5U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=E2UgYp2vh5U",
+          "publishedOn": "2026-05-22T13:00:14.000Z",
+          "wordCount": null,
+          "title": "I Built the Same App With Claude Code and Codex",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/9ufZJSsJ7vo",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
@@ -483,6 +503,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCfQNB91qRP_5ILeu_S_bSkg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=AQHlyGA2cZM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AQHlyGA2cZM",
+          "publishedOn": "2026-05-22T19:34:16.000Z",
+          "wordCount": null,
+          "title": "6 Hermes Agent use cases I promise will change your life",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=8iZUyE7SlXo",
           "author": null,
           "description": "",
@@ -651,26 +681,6 @@
           "wordCount": null,
           "title": "🔴LIVE: ChatGPT 5.5 is here. Does it beat Claude Opus 4.7?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_v_heNg0j1c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_v_heNg0j1c",
-          "publishedOn": "2026-04-22T22:12:45.000Z",
-          "wordCount": null,
-          "title": "The best Claude Design workflow you’ll ever see…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6npNKBs_UAM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6npNKBs_UAM",
-          "publishedOn": "2026-04-22T20:19:39.000Z",
-          "wordCount": null,
-          "title": "🔴LIVE: OpenClaw 4.20 OUT!! Is ChatGPT finally better than Opus???",
-          "imageUrl": null
         }
       ]
     },
@@ -679,6 +689,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuwpzP90g1LuGk6JUNms_AQ",
       "siteUrl": "https://www.youtube.com/channel/UCuwpzP90g1LuGk6JUNms_AQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=DC4nSUX9pCc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DC4nSUX9pCc",
+          "publishedOn": "2026-05-22T11:00:28.000Z",
+          "wordCount": null,
+          "title": "How to Build & Launch REAL Web Apps (Google AI + Firebase)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=a4CK72s5tyA",
           "author": null,
@@ -1105,26 +1125,6 @@
           "wordCount": 2049,
           "title": "Removing paid features (no warning)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aO5k3haUz9Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aO5k3haUz9Q",
-          "publishedOn": "2026-04-23T02:26:36.000Z",
-          "wordCount": null,
-          "title": "WTF is Anthropic doing???",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZenJ0VCbYNI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZenJ0VCbYNI",
-          "publishedOn": "2026-04-22T19:31:00.000Z",
-          "wordCount": null,
-          "title": "Wtf Anthropic",
-          "imageUrl": null
         }
       ]
     },
@@ -1399,6 +1399,22 @@
       "feedUrl": "https://www.lennysnewsletter.com/feed",
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
+        {
+          "id": "https://www.lennysnewsletter.com/p/goodbye-lennys-reads",
+          "author": "Lenny Rachitsky",
+          "description": "After a year of bringing you these audio versions of my newsletter, I’ve decided it’s time to wind down this experiment.",
+          "link": "https://www.lennysnewsletter.com/p/goodbye-lennys-reads",
+          "publishedOn": "2026-05-22T15:41:05.000Z",
+          "wordCount": null,
+          "title": "Goodbye, Lenny's Reads!",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/198858883/9331d22606bfe8b81688db81d2fec487.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://www.lennysnewsletter.com/p/what-launched-at-google-io-2026-30",
           "author": "Claire Vo",
@@ -1791,6 +1807,22 @@
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
         {
+          "id": "https://www.thevccorner.com/p/asymmetric-bets-unfair-upside",
+          "author": "Ruben Dominguez",
+          "description": "In a world ruled by nonlinear outcomes, only asymmetric strategies outperform mediocrity",
+          "link": "https://www.thevccorner.com/p/asymmetric-bets-unfair-upside",
+          "publishedOn": "2026-05-22T17:28:14.000Z",
+          "wordCount": null,
+          "title": "How to Win in Life With an Unfair Upside",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!dsZr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11cf805c-0896-4031-82cb-999bb042833d_1280x720.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!dsZr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F11cf805c-0896-4031-82cb-999bb042833d_1280x720.jpeg"
+        },
+        {
           "id": "https://www.thevccorner.com/p/spacex-spcx-ipo-s1-teardown-valuation-2026",
           "author": "Ruben Dominguez",
           "description": "$1.75 trillion. $75 billion raise. Three businesses with completely different financial profiles sold as one number. Here is the teardown.",
@@ -2125,22 +2157,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!XF5T!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcff2dfd0-31ab-4d76-a9f1-16a9774f6c9b_1254x597.png"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/the-untold-lessons-from-sequoia-apple-memo",
-          "author": "Ruben Dominguez",
-          "description": "Inside the one-page memo that funded Apple and what it reveals about conviction, process, and the fund structure mistake that cost Sequoia $370 billion.",
-          "link": "https://www.thevccorner.com/p/the-untold-lessons-from-sequoia-apple-memo",
-          "publishedOn": "2026-04-22T14:37:57.000Z",
-          "wordCount": null,
-          "title": "The Memo That Almost Missed the Greatest Investment in History",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!DGy6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d87e07d-2256-421b-a071-35fa8c11af49_1079x1191.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!DGy6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d87e07d-2256-421b-a071-35fa8c11af49_1079x1191.png"
         }
       ]
     },
@@ -2149,6 +2165,36 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-on-wednesday---thursday-may-20-21-2026//",
+          "author": null,
+          "description": "OpenAI's model disproved an 80-year-old math conjecture; Trump delayed an AI order while California prepared workers for disruption; Spotify and UMG licensed fan-made AI covers; quantum firms landed $2B in grants; Starbucks and Waymo hit real-world AI failures; Cohere released Command A+.",
+          "link": "https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-on-wednesday---thursday-may-20-21-2026//",
+          "publishedOn": "2026-05-22T10:10:33.420Z",
+          "wordCount": null,
+          "title": "Everything That Happened in AI on Wednesday - Thursday, May 20-21, 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/newsletter/openai-solved-an-80-year-math-problem-by-disproving-it/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/openai-solved-an-80-year-math-problem-by-disproving-it/",
+          "publishedOn": "2026-05-22T10:00:21.687Z",
+          "wordCount": null,
+          "title": "😸 OpenAI solved an 80-year math problem by... disproving it",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/agi-is-the-wrong-scoreboard-this-7-level-framework-explains-ai-progress-better/",
+          "author": null,
+          "description": "Greg Kamradt, Kol Tregaskes, and Google DeepMind point to the same idea: AGI is the wrong scoreboard because intelligence only matters when it can be trusted inside a frame. AI progress is therefor the expansion of what we can frame, test, and verify without losing contact with reality.",
+          "link": "https://www.theneuron.ai/explainer-articles/agi-is-the-wrong-scoreboard-this-7-level-framework-explains-ai-progress-better/",
+          "publishedOn": "2026-05-22T09:18:39.382Z",
+          "wordCount": null,
+          "title": "AGI Is the Wrong Scoreboard. This 7-Level Framework Explains AI Progress Better",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/newsletter/watch-live-now-building-ai-voice-agents-w-livekit-s-ben-cherry/",
           "author": null,
@@ -2878,56 +2924,6 @@
           "wordCount": null,
           "title": "🙀 OpenAI launched GPT-5.5, and it's built to run your computer",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/sony-s-new-robot-can-beat-professional-ping-pong-players/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/sony-s-new-robot-can-beat-professional-ping-pong-players/",
-          "publishedOn": "2026-04-23T10:00:12.758Z",
-          "wordCount": null,
-          "title": "😺 Sony's new robot can beat professional ping pong players",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/sony-built-the-first-robot-to-beat-elite-ping-pong-players/",
-          "author": null,
-          "description": "Sony AI's autonomous robot Ace won three of five matches against elite human ping-pong players under full ITTF rules",
-          "link": "https://www.theneuron.ai/explainer-articles/sony-built-the-first-robot-to-beat-elite-ping-pong-players/",
-          "publishedOn": "2026-04-23T08:45:20.847Z",
-          "wordCount": null,
-          "title": "Sony built the first robot to beat elite ping-pong players",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/everything-google-announced-at-cloud-next-26-so-far/",
-          "author": null,
-          "description": "Sundar Pichai opened Cloud Next '26 by declaring \"the Agentic Enterprise is real\" and Thomas Kurian closed by flaming competitors for \"handing you the pieces, not the platform.\" The truth is closer to a dare: Google shipped a full-stack agent blitz (platform, models, silicon, Workspace semantic layer, Chrome automation, and a $750M adoption fund) the same week OpenAI shipped its own Workspace Agents, and it's betting the farm that owning the stack beats owning any single piece.",
-          "link": "https://www.theneuron.ai/explainer-articles/everything-google-announced-at-cloud-next-26-so-far/",
-          "publishedOn": "2026-04-23T06:32:29.131Z",
-          "wordCount": null,
-          "title": "Everything Google announced at Cloud Next '26 so far",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/openais-agent-week-workspace-agents-codex-for-almost-everything-and-images-20/",
-          "author": null,
-          "description": "In seven days, OpenAI shipped a Codex desktop agent that runs your Mac, an image model that reasons before it draws, and Codex-powered agents teams can share across ChatGPT and Slack. The AI assistant era is ending; the AI coworker era is here.",
-          "link": "https://www.theneuron.ai/explainer-articles/openais-agent-week-workspace-agents-codex-for-almost-everything-and-images-20/",
-          "publishedOn": "2026-04-23T06:08:39.498Z",
-          "wordCount": null,
-          "title": "OpenAI's Agent Week: Workspace Agents, Codex for (almost) Everything, and Images 2.0",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-wednesday-april-22-2026/",
-          "author": null,
-          "description": "Google and OpenAI both shipped full agentic enterprise stacks on the same day, Anthropic tested yanking Claude Code from Pro and walked it back in hours, Meta rolled out keystroke tracking on employee laptops, and a Sony robot beat elite humans at table tennis for the first time under official rules.",
-          "link": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-wednesday-april-22-2026/",
-          "publishedOn": "2026-04-23T05:24:16.447Z",
-          "wordCount": null,
-          "title": "Around the Horn Digest: Everything That Happened in AI Today (Wednesday, April 22, 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -2936,6 +2932,46 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=609164",
+          "author": "Ingo Nowitzky",
+          "description": "How AI architecture prevents plausible but wrong analytics\nThe post Hybrid AI: Combining Deterministic Analytics with LLM Reasoning appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/hybrid-ai-combining-deterministic-analytics-with-llm-reasoning/",
+          "publishedOn": "2026-05-22T16:30:00.000Z",
+          "wordCount": 6917,
+          "title": "Hybrid AI: Combining Deterministic Analytics with LLM Reasoning",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Feature_Image_v2-2.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609162",
+          "author": "angela shi",
+          "description": "For AI engineers who want to understand every step, not just call the library\nThe post Enterprise Document Intelligence: A Series on Building RAG Brick by Brick, from Minimal to Corpus scale appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/document-intelligence-a-series-on-building-rag-brick-by-brick-from-minimal-to-corpus-scale/",
+          "publishedOn": "2026-05-22T15:00:00.000Z",
+          "wordCount": 7956,
+          "title": "Enterprise Document Intelligence: A Series on Building RAG Brick by Brick, from Minimal to Corpus scale",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/enterprise_document_intelligence_rag_series_overview.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609159",
+          "author": "Davinder Singh",
+          "description": "Quantum Machine Learning promises access to exponentially large representational spaces, but before any computation can happen, classical data must first be embedded into quantum systems. This article explores one of the most overlooked bottlenecks in QML: getting data into a quantum computer efficiently.\nThe post The Hidden Bottleneck in Quantum Machine Learning: Getting Data into a Quantum Computer appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-hidden-bottleneck-in-quantum-machine-learning-getting-data-into-a-quantum-computer/",
+          "publishedOn": "2026-05-22T13:30:00.000Z",
+          "wordCount": 4909,
+          "title": "The Hidden Bottleneck in Quantum Machine Learning: Getting Data into a Quantum Computer",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/embedding_cover-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609157",
+          "author": "Corné POTGIETER",
+          "description": "The tension between Legal and IT has always been frustrating but  AI is about to make it worse, at scale. The answer is observable compliance: encoding legal intent directly into architecture.\nThe post Lost in Translation: How AI Exposes the Rift Between Law and Logic appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/lost-in-translation-how-ai-exposes-the-rift-between-lw-and-logic/",
+          "publishedOn": "2026-05-22T12:00:00.000Z",
+          "wordCount": 6950,
+          "title": "Lost in Translation: How AI Exposes the Rift Between Law and Logic",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/ChatGPT-Image-Mar-18-2026-03_08_29-PM.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=609155",
           "author": "William Gieng",
@@ -3925,56 +3961,6 @@
           "wordCount": 4686,
           "title": "I Simulated an International Supply Chain and Let OpenClaw Monitor It",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/temp.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608925",
-          "author": "Poorna Reddy",
-          "description": "The silent gaps in synthetic data that only show up when your model is already in production.\nThe post Your Synthetic Data Passed Every Test and Still Broke Your Model appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/your-synthetic-data-passed-every-test-and-still-broke-your-model/",
-          "publishedOn": "2026-04-23T13:30:00.000Z",
-          "wordCount": 5170,
-          "title": "Your Synthetic Data Passed Every Test and Still Broke Your Model",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-21-2026-08_49_02-AM.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608923",
-          "author": "Nikhil Dasari",
-          "description": "It’s simpler than you think.\nThe post Lasso Regression: Why the Solution Lives on a Diamond appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/lasso-regression-why-the-solution-lives-on-a-diamond/",
-          "publishedOn": "2026-04-23T12:00:00.000Z",
-          "wordCount": 8489,
-          "title": "Lasso Regression: Why the Solution Lives on a Diamond",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/pexels-brett-sayles-4178723-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608928",
-          "author": "Luke Stuckey",
-          "description": "Turning free-to-use data into a hypothesis-ready dataset\nThe post Using Causal Inference to Estimate the Impact of Tube Strikes on Cycling Usage in London appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/using-causal-inference-to-estimate-the-impact-of-tube-strikes-on-cycling-usage-in-london/",
-          "publishedOn": "2026-04-22T18:00:00.000Z",
-          "wordCount": 6928,
-          "title": "Using Causal Inference to Estimate the Impact of Tube Strikes on Cycling Usage in London",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/bike_image_unsplash_resized_v2.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608920",
-          "author": "Gustavo Santos",
-          "description": "Learn how Propensity Score Matching uncovers true causality in observational data. By finding \"statistical twins,\" we eliminate selection bias to reveal the real impact of your interventions and business decisions.\nThe post Correlation vs. Causation: Measuring True Impact with Propensity Score Matching appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/correlation-vs-causation-measuring-true-impact-with-propensity-score-matching/",
-          "publishedOn": "2026-04-22T16:30:00.000Z",
-          "wordCount": 5624,
-          "title": "Correlation vs. Causation: Measuring True Impact with Propensity Score Matching",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/blog2-1-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608918",
-          "author": "Hajime Takeda",
-          "description": "How I turned LLM persona interviews into a repeatable customer research workflow\nThe post From Ad Hoc Prompting to Repeatable AI Workflows with Claude Code Skills appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/from-ad-hoc-prompting-to-repeatable-ai-workflows-with-claude-code-skills/",
-          "publishedOn": "2026-04-22T15:00:00.000Z",
-          "wordCount": 4684,
-          "title": "From Ad Hoc Prompting to Repeatable AI Workflows with Claude Code Skills",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/christina-wocintechchat-com-m-LQ1t-8Ms5PY-unsplash-scaled-1.jpg"
         }
       ]
     },
@@ -4578,36 +4564,6 @@
           "wordCount": null,
           "title": "Designing with AI without losing your mind",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c5ca4d7f32ee",
-          "author": "Catherine Chu",
-          "description": "",
-          "link": "https://uxdesign.cc/how-ai-may-reshape-elderly-care-c5ca4d7f32ee?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-04-23T08:11:50.000Z",
-          "wordCount": null,
-          "title": "How AI may reshape elderly care",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/1e3961fa2083",
-          "author": "Ian Batterbee",
-          "description": "When adaptation becomes uncoordinated, journeys fall out of sync — like improv comedy gone horribly wrong.\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/what-improv-taught-me-about-why-innovation-falls-out-of-sync-1e3961fa2083?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-04-22T21:23:21.000Z",
-          "wordCount": null,
-          "title": "What improv taught me about why innovation falls out of sync",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/67a7f71bc450",
-          "author": "Aly Blenkin",
-          "description": "",
-          "link": "https://uxdesign.cc/working-in-the-open-learnings-from-designing-open-source-technology-67a7f71bc450?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-04-22T21:23:19.000Z",
-          "wordCount": null,
-          "title": "Working in the open",
-          "imageUrl": null
         }
       ]
     },
@@ -4689,6 +4645,106 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/fc393012cd0b",
+          "author": "Shashank Shekhar",
+          "description": "",
+          "link": "https://generativeai.pub/when-the-model-stopped-being-a-black-box-fc393012cd0b?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-22T15:21:57.000Z",
+          "wordCount": null,
+          "title": "When the Model Stopped Being a Black Box",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c3f3fa7f9495",
+          "author": "Favian Rafif",
+          "description": "Losing $200 Billion Before Turning a Profit Sounds Like a Death Sentence. For OpenAI, It Might Be the Plan.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/openai-is-the-worlds-most-unprofitable-company-and-it-s-still-growing-c3f3fa7f9495?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-22T15:17:24.000Z",
+          "wordCount": null,
+          "title": "OpenAI Is the World’s Most Unprofitable Company, and It’s Still Growing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7540e2f6f483",
+          "author": "Jing Hu",
+          "description": "The fix that got three products to the top of Gemini’s leaderboard also created the jobs every CEO swore AI would eliminate.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/human-in-the-loop-is-a-polite-way-of-saying-ai-failed-7540e2f6f483?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-22T15:14:10.000Z",
+          "wordCount": null,
+          "title": "Human-in-the-Loop’ Is a Polite Way of Saying AI Failed",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ac78713e9008",
+          "author": "Rene Baumann",
+          "description": "",
+          "link": "https://generativeai.pub/ai-crime-prediction-berlin-ac78713e9008?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-22T15:12:58.000Z",
+          "wordCount": null,
+          "title": "AI Crime Prediction — Berlin",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9c1b1f9d3d35",
+          "author": "MohamedAbdelmenem",
+          "description": "Yes, Anthropic acquired Stainless. No, that’s not about better SDKs. Here’s the infrastructure war it actually reveals.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/anthropic-just-bought-the-company-that-writes-openais-sdks-then-shut-it-down-9c1b1f9d3d35?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-22T15:10:54.000Z",
+          "wordCount": null,
+          "title": "Anthropic Just Bought the Company That Writes OpenAI’s SDKs. Then Shut It Down.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e77363019751",
+          "author": "AI Unfiltered",
+          "description": "Apple logo. Google stage. 93 AI agents. One accidental confession.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/google-demoed-its-biggest-ai-tool-on-a-macbook-nobody-at-google-noticed-e77363019751?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-22T15:08:36.000Z",
+          "wordCount": null,
+          "title": "Google Demoed Its Biggest AI Tool on a MacBook. Nobody at Google Noticed.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a39f5ed2ff51",
+          "author": "Revant",
+          "description": "The Code Is Harder to Review Than It Used to Be\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/i-review-more-code-than-i-write-now-a39f5ed2ff51?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-22T15:01:22.000Z",
+          "wordCount": null,
+          "title": "I Review More Code Than I Write Now",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c53f403a4503",
+          "author": "monica",
+          "description": "",
+          "link": "https://generativeai.pub/karpathy-join-anthropic-a-300m-acquisition-and-musk-lose-his-openai-lawsuit-in-the-same-week-c53f403a4503?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-22T14:52:16.000Z",
+          "wordCount": null,
+          "title": "Karpathy join Anthropic, a $300M acquisition, and Musk lose his OpenAI lawsuit in the same week…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/cbd1b340f476",
+          "author": "hejrene | Rene",
+          "description": "In the rush to detect AI written text, we are starting to mistrust the very core of writing we were once taught.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/the-new-fear-of-writing-cbd1b340f476?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-22T14:52:14.000Z",
+          "wordCount": null,
+          "title": "The New Fear of Writing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4aa420d6b16b",
+          "author": "Yelpin Sergey",
+          "description": "",
+          "link": "https://generativeai.pub/pitch-an-idea-get-a-prompt-how-i-built-an-agent-for-image-generation-4aa420d6b16b?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-22T14:44:44.000Z",
+          "wordCount": null,
+          "title": "Pitch an idea, get a prompt: How I built an agent for image generation",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/8c38588dfef6",
           "author": "Jim Clyde Monge",
@@ -5867,86 +5923,6 @@
           "publishedOn": "2026-04-24T08:20:47.000Z",
           "wordCount": null,
           "title": "Cursor vs Windsurf: Which IDE will get your code merged faster?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c8441b4004d2",
-          "author": "Jim Clyde Monge",
-          "description": "The next generation of image model powering ChatGPT has a near-perfect text rendering and next level hyperrealism capabilities.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/openai-releases-chatgpt-image-2-0-c8441b4004d2?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-23T07:55:55.000Z",
-          "wordCount": null,
-          "title": "OpenAI Releases ChatGPT Image 2.0",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/46151a17f295",
-          "author": "Jim Clyde Monge",
-          "description": "Why Seedance 2.0 feels less like a prompt machine and more like a tool designed for directors.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/i-tested-seedance-2-0-like-a-filmmaker-not-a-prompt-engineer-46151a17f295?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-23T02:22:51.000Z",
-          "wordCount": null,
-          "title": "I Tested Seedance 2.0 Like a Filmmaker, Not a Prompt Engineer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/3166e6cc8636",
-          "author": "Mohamed Noordeen Alaudeen",
-          "description": "",
-          "link": "https://generativeai.pub/how-i-taught-100-students-to-build-googles-core-algorithm-in-30-minutes-3166e6cc8636?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-23T02:19:22.000Z",
-          "wordCount": null,
-          "title": "How I Taught 100 Students to Build Google’s Core Algorithm in 30 Minutes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/902f5912e9d9",
-          "author": "Karthik Kuppa",
-          "description": "",
-          "link": "https://generativeai.pub/the-privacy-first-approach-to-shipping-ai-services-at-scale-a-technical-framework-902f5912e9d9?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-23T02:18:38.000Z",
-          "wordCount": null,
-          "title": "The Privacy-First Approach to Shipping AI Services at Scale: A Technical Framework",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d7ff6ff3acc6",
-          "author": "Anmol Dhingra",
-          "description": "",
-          "link": "https://generativeai.pub/i-panicked-when-my-ai-hit-41-accuracy-then-i-found-the-bug-in-my-measurement-d7ff6ff3acc6?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-23T02:18:14.000Z",
-          "wordCount": null,
-          "title": "I Panicked When My AI Hit 41% Accuracy. Then I Found the Bug — In My Measurement.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/865ae7fd8aa3",
-          "author": "James Wilkins",
-          "description": "There’s been a lot of excitement recently around building a ‘Second Brain’ using Claude and Obsidian.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/seamless-content-ingestion-for-claude-obsidian-second-brain-865ae7fd8aa3?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-23T02:17:09.000Z",
-          "wordCount": null,
-          "title": "Seamless Content Ingestion for Claude-Obsidian Second Brain",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/19a3e400ac84",
-          "author": "Paco Cantero",
-          "description": "The four-quadrant framework that tells you exactly where AI compounds and where it costs you.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/the-ai-gains-youre-missing-the-brutally-honest-map-for-busy-professionals-19a3e400ac84?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-23T02:17:07.000Z",
-          "wordCount": null,
-          "title": "The AI Gains You’re Missing: The Brutally Honest Map for Busy Professionals",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/3828b954f9eb",
-          "author": "Ruqaiya Beguwala",
-          "description": "Chunking, retrieval, reranking, and everything in between — explained without the jargon\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/everything-you-need-to-know-about-rag-3828b954f9eb?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-23T02:14:35.000Z",
-          "wordCount": null,
-          "title": "Everything You Need to Know About RAG",
           "imageUrl": null
         }
       ]
