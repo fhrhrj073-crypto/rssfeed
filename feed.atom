@@ -2,10 +2,151 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-05-25T01:58:15.575Z</updated>
+    <updated>2026-05-26T01:50:26.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Should I design for humans or machines?]]></title>
+        <id>https://medium.com/p/3b8d3addd006</id>
+        <link href="https://uxdesign.cc/should-i-design-for-humans-or-machines-3b8d3addd006?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-25T18:46:44.000Z</updated>
+        <author>
+            <name>Allie Paschal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built My First ETL Pipeline as a Complete Beginner. Here’s How.]]></title>
+        <id>https://towardsdatascience.com/?p=609183</id>
+        <link href="https://towardsdatascience.com/i-built-my-first-etl-pipeline-as-a-complete-beginner-heres-exactly-how/"/>
+        <updated>2026-05-25T17:37:48.000Z</updated>
+        <summary type="html"><![CDATA[A beginner's honest walkthrough of Extract, Transform, Load using the GitHub API
+The post I Built My First ETL Pipeline as a Complete Beginner. Here’s How. appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ibrahim Salami</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can AI Write Your Code?]]></title>
+        <id>https://towardsdatascience.com/?p=609181</id>
+        <link href="https://towardsdatascience.com/can-ai-write-your-code/"/>
+        <updated>2026-05-25T17:15:24.000Z</updated>
+        <summary type="html"><![CDATA[What a recent study on ChatGPT, Python, R, and Stata tells us about AI-assisted coding for causal inference
+The post Can AI Write Your Code? appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>JUNIOR JUMBONG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How This One Fund Built The Entire Venture Capital Industry]]></title>
+        <id>https://www.thevccorner.com/p/the-union-square-ventures-story</id>
+        <link href="https://www.thevccorner.com/p/the-union-square-ventures-story"/>
+        <updated>2026-05-25T15:56:16.000Z</updated>
+        <summary type="html"><![CDATA[A reconstruction of how one firm rebuilt itself, picked the right game, and stayed disciplined long enough for the power law to reveal itself.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎙️ How I AI: How the engineer behind Claude Cowork actually uses Claude Cowork & What launched at Google I/O 2026]]></title>
+        <id>https://www.lennysnewsletter.com/p/how-i-ai-how-the-engineer-behind</id>
+        <link href="https://www.lennysnewsletter.com/p/how-i-ai-how-the-engineer-behind"/>
+        <updated>2026-05-25T15:02:59.000Z</updated>
+        <summary type="html"><![CDATA[Your weekly listens from How I AI, part of the Lenny’s Podcast Network]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From TF-IDF to Transformers: Implementing Four Generations of Semantic Search]]></title>
+        <id>https://towardsdatascience.com/?p=609179</id>
+        <link href="https://towardsdatascience.com/from-tf-idf-to-transformers-implementing-four-generations-of-semantic-search/"/>
+        <updated>2026-05-25T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[How did semantic search evolve from simple keyword matching into modern transformer-based language understanding? This hands-on article builds four generations of semantic search systems step by step using Python.
+The post From TF-IDF to Transformers: Implementing Four Generations of Semantic Search appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Dr. Theophano Mitsa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the engineer behind Claude Cowork actually uses Claude | Felix Rieseberg (Anthropic)]]></title>
+        <id>https://www.lennysnewsletter.com/p/how-the-engineer-behind-claude-cowork</id>
+        <link href="https://www.lennysnewsletter.com/p/how-the-engineer-behind-claude-cowork"/>
+        <updated>2026-05-25T12:03:53.000Z</updated>
+        <summary type="html"><![CDATA[Watch now | 🎙️ Felix Rieseberg (Anthropic) shows how he uses Claude to build 3D house walkthroughs from floor plans, track promises automatically, and create a $20 hardware “buddy”]]></summary>
+        <author>
+            <name>Claire Vo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing the Agent Toolkit for Amazon Web Services]]></title>
+        <id>https://towardsdatascience.com/?p=609177</id>
+        <link href="https://towardsdatascience.com/introducing-the-agent-toolkit-for-amazon-web-services/"/>
+        <updated>2026-05-25T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s like having your own personal expert AWS solutions architect and data engineer rolled into one.
+The post Introducing the Agent Toolkit for Amazon Web Services appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Thomas Reid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Being kind to machines, the genius of Claude’s branding, AI UX debt]]></title>
+        <id>https://medium.com/p/f40c616102bd</id>
+        <link href="https://uxdesign.cc/being-kind-to-machines-the-genius-of-claudes-branding-ai-ux-debt-f40c616102bd?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-25T11:17:57.000Z</updated>
+        <author>
+            <name>Fabricio Teixeira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The permalink problem in AI chat]]></title>
+        <id>https://medium.com/p/1f1579ec991c</id>
+        <link href="https://uxdesign.cc/the-permalink-problem-in-ai-chat-1f1579ec991c?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-25T11:10:59.000Z</updated>
+        <author>
+            <name>Adi Leviim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing locality, by redrawing the lines]]></title>
+        <id>https://medium.com/p/120200ee81df</id>
+        <link href="https://uxdesign.cc/designing-locality-by-redrawing-the-lines-120200ee81df?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-25T11:10:40.000Z</updated>
+        <summary type="html"><![CDATA[On a Bruno Munari picture book, an old Buddhist phrase, and an empty field in the middle of a town
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Hiroshi Sato</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Grok guided me through the new Adobe color interface]]></title>
+        <id>https://medium.com/p/5edca179f10b</id>
+        <link href="https://uxdesign.cc/how-grok-guided-me-through-the-new-adobe-color-interface-5edca179f10b?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-25T07:22:20.000Z</updated>
+        <summary type="html"><![CDATA[GenAI navigation on shaky ground.
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Theresa-Marie Rhyne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is hot coral a feature or a liability? A closer look at the colour of your bank card.]]></title>
+        <id>https://medium.com/p/fbd2f987d359</id>
+        <link href="https://uxdesign.cc/is-hot-coral-a-feature-or-a-liability-a-closer-look-at-the-colour-of-your-bank-card-fbd2f987d359?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-25T07:22:18.000Z</updated>
+        <author>
+            <name>Dora Czerna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Ultimate Setup for Sharing Context Across AI Coding Tools]]></title>
+        <id>https://medium.com/p/8f9e726fc63e</id>
+        <link href="https://generativeai.pub/my-ultimate-setup-for-sharing-context-across-ai-coding-tools-8f9e726fc63e?source=rss----440100e76000---4"/>
+        <updated>2026-05-25T03:12:40.000Z</updated>
+        <author>
+            <name>Jim Clyde Monge</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The same AI engineering job can pay half the salary depending on where you work 🤯]]></title>
         <id>https://www.youtube.com/shorts/R-MgtTc7zYA</id>
@@ -5386,43 +5527,12 @@ The post Bytes Speak All Languages: Cross-Script Name Retrieval via Contrastive 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Reduced My Pandas Runtime by 95% — Here’s What I Was Doing Wrong]]></title>
-        <id>https://towardsdatascience.com/?p=608947</id>
-        <link href="https://towardsdatascience.com/i-reduced-my-pandas-runtime-by-95-heres-what-i-was-doing-wrong/"/>
-        <updated>2026-04-26T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most slow Pandas code "works", until it doesn't. Learn how to spot hidden bottlenecks, avoid costly row-wise operations, and know when Pandas is no longer enough.
-The post I Reduced My Pandas Runtime by 95% — Here’s What I Was Doing Wrong appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ibrahim Salami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snapchat CEO: Why distribution has become the most important moat | Evan Spiegel]]></title>
-        <id>https://www.lennysnewsletter.com/p/snapchat-ceo-why-distribution-is</id>
-        <link href="https://www.lennysnewsletter.com/p/snapchat-ceo-why-distribution-is"/>
-        <updated>2026-04-26T12:31:49.000Z</updated>
-        <summary type="html"><![CDATA[Listen now | Snap's co-founder on why only two consumer apps broke through in 15 years, how every major Snapchat feature was cloned, why hardware is the only real moat, and why distribution beats product]]></summary>
-        <author>
-            <name>Lenny Rachitsky</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ChatGPT 5.5 Codex vs Opus 4.7: The winner is clear]]></title>
         <id>https://www.youtube.com/watch?v=cgp-gfSbmNE</id>
         <link href="https://www.youtube.com/watch?v=cgp-gfSbmNE"/>
         <updated>2026-04-25T20:54:45.000Z</updated>
         <author>
             <name>Alex Finn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧠 Community Wisdom: What great product leaders do differently, Claude vs. ChatGPT, receiving hard feedback two weeks into the job, tips for joining a pre-PMF startup, and more]]></title>
-        <id>https://www.lennysnewsletter.com/p/community-wisdom-what-great-product</id>
-        <link href="https://www.lennysnewsletter.com/p/community-wisdom-what-great-product"/>
-        <updated>2026-04-25T19:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Community Wisdom 182]]></summary>
-        <author>
-            <name>Kiyani</name>
         </author>
     </entry>
     <entry>
@@ -5442,17 +5552,6 @@ The post I Reduced My Pandas Runtime by 95% — Here’s What I Was Doing Wrong 
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Causal Inference Is Different in Business]]></title>
-        <id>https://towardsdatascience.com/?p=608945</id>
-        <link href="https://towardsdatascience.com/causal-inference-is-different-in-business/"/>
-        <updated>2026-04-25T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How does decision-gravity dictate this gap?
-The post Causal Inference Is Different in Business appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Alejandro Alvarez Perez</name>
         </author>
     </entry>
 </feed>
