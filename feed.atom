@@ -2,10 +2,242 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-05-26T01:50:26.897Z</updated>
+    <updated>2026-05-27T01:58:03.989Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The book cover as a relational object]]></title>
+        <id>https://medium.com/p/288fb15deff1</id>
+        <link href="https://uxdesign.cc/the-book-cover-as-a-relational-object-288fb15deff1?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-26T22:06:23.000Z</updated>
+        <author>
+            <name>Urszula Kluz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Product discovery’s quietest, most consequential decision]]></title>
+        <id>https://medium.com/p/ea697471cf6f</id>
+        <link href="https://uxdesign.cc/product-discoverys-quietest-most-consequential-decision-ea697471cf6f?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-26T22:06:22.000Z</updated>
+        <author>
+            <name>Gale Robins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI and cognitive delegation: the hidden cost of AI that works too well]]></title>
+        <id>https://medium.com/p/18dac6a637f5</id>
+        <link href="https://uxdesign.cc/ai-and-cognitive-delegation-the-hidden-cost-of-ai-that-works-too-well-18dac6a637f5?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-26T22:06:20.000Z</updated>
+        <author>
+            <name>Elisa Viglianese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choosing to Stay Human]]></title>
+        <id>https://www.oneusefulthing.org/p/choosing-to-stay-human</id>
+        <link href="https://www.oneusefulthing.org/p/choosing-to-stay-human"/>
+        <updated>2026-05-26T19:56:01.000Z</updated>
+        <summary type="html"><![CDATA[If you go to your favorite social media site, you will find it full of posts that start to look suspiciously similar to each other:]]></summary>
+        <author>
+            <name>Ethan Mollick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is a Data Agent?]]></title>
+        <id>https://towardsdatascience.com/?p=609191</id>
+        <link href="https://towardsdatascience.com/what-is-a-data-agent/"/>
+        <updated>2026-05-26T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A simple explanation of what a data agent is and how it works
+The post What Is a Data Agent? appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Marina Tosic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Essential books for product builders—part 1]]></title>
+        <id>https://www.lennysnewsletter.com/p/essential-books-for-product-builderspart</id>
+        <link href="https://www.lennysnewsletter.com/p/essential-books-for-product-builderspart"/>
+        <updated>2026-05-26T15:25:52.000Z</updated>
+        <summary type="html"><![CDATA[36 timeless books that’ll make you a better builder, leader, and person]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[McKinsey Charges $500K for This Framework. Here Is How to Wire It Into Claude for Free]]></title>
+        <id>https://www.thevccorner.com/p/mckinsey-pyramid-principle-claude-investor-documents-2026</id>
+        <link href="https://www.thevccorner.com/p/mckinsey-pyramid-principle-claude-investor-documents-2026"/>
+        <updated>2026-05-26T15:02:32.000Z</updated>
+        <summary type="html"><![CDATA[The communication system behind every funded pitch, every winning board presentation, and every cold email that gets a response. Full Claude setup inside]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI Model Confidence Trap]]></title>
+        <id>https://towardsdatascience.com/?p=609189</id>
+        <link href="https://towardsdatascience.com/the-ai-model-confidence-trap/"/>
+        <updated>2026-05-26T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why your AI model can be wrong with 99% confidence
+The post The AI Model Confidence Trap appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Sara A. Metwalli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Wrote Code for a Decade. Then AI Agents Changed Everything]]></title>
+        <id>https://medium.com/p/1facdb84c5c9</id>
+        <link href="https://generativeai.pub/i-wrote-code-for-a-decade-then-ai-agents-changed-everything-1facdb84c5c9?source=rss----440100e76000---4"/>
+        <updated>2026-05-26T14:19:29.000Z</updated>
+        <summary type="html"><![CDATA[A software developer’s perspective on the worlds of building apps traditionally and using AI coding tools.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Jim Clyde Monge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Made Workers Train the AI That Would Replace Them. The AI Failed.]]></title>
+        <id>https://medium.com/p/8872c1e239fb</id>
+        <link href="https://generativeai.pub/meta-made-workers-train-the-ai-that-would-replace-them-the-ai-failed-8872c1e239fb?source=rss----440100e76000---4"/>
+        <updated>2026-05-26T14:01:06.000Z</updated>
+        <summary type="html"><![CDATA[For anyone watching the 2026 tech layoff wave: what the Avocado story reveals about the math behind Meta’s restructuring, and the AI those…
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Ahmed M. Abdelfattah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Which AI Tool Should You Use? My Experience After Months of Testing OpenClaw]]></title>
+        <id>https://medium.com/p/5ff17c9da873</id>
+        <link href="https://generativeai.pub/which-ai-tool-should-you-use-my-experience-after-months-of-testing-openclaw-5ff17c9da873?source=rss----440100e76000---4"/>
+        <updated>2026-05-26T14:00:20.000Z</updated>
+        <summary type="html"><![CDATA[A practical comparison of OpenClaw, Copilot, Claude Code, and Codex. Based on real-world use by a senior engineer.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Kory Becker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Found a Cheaper Way to Use the Best Image and Video Models in a Single Platform]]></title>
+        <id>https://medium.com/p/8fb652908ba0</id>
+        <link href="https://generativeai.pub/i-found-a-cheaper-way-to-use-the-best-image-and-video-models-in-a-single-platform-8fb652908ba0?source=rss----440100e76000---4"/>
+        <updated>2026-05-26T13:46:48.000Z</updated>
+        <author>
+            <name>Zeniteq Co</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Wired Persistent Memory Into Every Claude Code Session]]></title>
+        <id>https://medium.com/p/001970318cd5</id>
+        <link href="https://generativeai.pub/how-i-wired-persistent-memory-into-every-claude-code-session-001970318cd5?source=rss----440100e76000---4"/>
+        <updated>2026-05-26T13:39:04.000Z</updated>
+        <summary type="html"><![CDATA[Three hooks — recall on the way in, capture on the way out — and the one realization that makes them work.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Daniel Rusnok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your AI Project Has a Project Manager Problem. Not a Model Problem.]]></title>
+        <id>https://medium.com/p/befb6e8ef0d1</id>
+        <link href="https://generativeai.pub/your-ai-project-has-a-project-manager-problem-not-a-model-problem-befb6e8ef0d1?source=rss----440100e76000---4"/>
+        <updated>2026-05-26T13:38:47.000Z</updated>
+        <summary type="html"><![CDATA[The roadmap nobody wanted to write. 80% failure rate. One root cause hiding in plain sight.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>AI Unfiltered</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI Consciousness Debate Has Reached the Vatican]]></title>
+        <id>https://medium.com/p/e54b11e1a70f</id>
+        <link href="https://generativeai.pub/the-ai-consciousness-debate-has-reached-the-vatican-e54b11e1a70f?source=rss----440100e76000---4"/>
+        <updated>2026-05-26T13:33:34.000Z</updated>
+        <author>
+            <name>Aris Novar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started with Token Factory Data Lab: Building a Self-Improving LLM Pipeline for Customer…]]></title>
+        <id>https://medium.com/p/b0a8e9ceaccf</id>
+        <link href="https://generativeai.pub/getting-started-with-token-factory-data-lab-building-a-self-improving-llm-pipeline-for-customer-b0a8e9ceaccf?source=rss----440100e76000---4"/>
+        <updated>2026-05-26T13:32:21.000Z</updated>
+        <author>
+            <name>Shivay Lamba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Cost of Context: Benchmarking Large-Window LLMs vs. 2-Step Vector Search]]></title>
+        <id>https://medium.com/p/70d7ee9bc58f</id>
+        <link href="https://generativeai.pub/the-cost-of-context-benchmarking-large-window-llms-vs-2-step-vector-search-70d7ee9bc58f?source=rss----440100e76000---4"/>
+        <updated>2026-05-26T13:32:07.000Z</updated>
+        <author>
+            <name>Ramakrushna Mohapatra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Asking “How Autonomous Is the Model?” Ask What Role It Is Playing.]]></title>
+        <id>https://medium.com/p/51b45ee1c44f</id>
+        <link href="https://generativeai.pub/stop-asking-how-autonomous-is-the-model-ask-what-role-it-is-playing-51b45ee1c44f?source=rss----440100e76000---4"/>
+        <updated>2026-05-26T13:32:06.000Z</updated>
+        <summary type="html"><![CDATA[Why Prompt Autonomy Level needs Generation, Execution, and Verification scores
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Marcos Fernandez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Using LLMs Like Giant Problem Solvers]]></title>
+        <id>https://towardsdatascience.com/?p=609187</id>
+        <link href="https://towardsdatascience.com/stop-using-llms-like-giant-problem-solvers/"/>
+        <updated>2026-05-26T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[How I turned 100 messy pdfs into structured insights by building a deterministic loop around agents
+The post Stop Using LLMs Like Giant Problem Solvers appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Clara Chong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Domain Shift: Moving Data Governance from Product Triage to Infrastructure Investment]]></title>
+        <id>https://towardsdatascience.com/?p=609185</id>
+        <link href="https://towardsdatascience.com/the-domain-shift-moving-data-governance-from-product-triage-to-infrastructure-investment/"/>
+        <updated>2026-05-26T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How shifting the operational focus from isolated data products to systemic domain architecture resolves technical bottlenecks and optimizes platform investment.
+The post The Domain Shift: Moving Data Governance from Product Triage to Infrastructure Investment appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Alle Sravani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to find out what your design work was really for]]></title>
+        <id>https://medium.com/p/3f948d3900a5</id>
+        <link href="https://uxdesign.cc/how-to-find-out-what-your-design-work-was-really-for-3f948d3900a5?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-26T10:45:56.000Z</updated>
+        <summary type="html"><![CDATA[Missing the business context means underselling your own work
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Kai Wong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stanford’s AI Report 2026: AI isn’t going anywhere. Neither are you — if you pay attention.]]></title>
+        <id>https://medium.com/p/c27729b07f5b</id>
+        <link href="https://uxdesign.cc/stanfords-ai-report-2026-ai-isn-t-going-anywhere-neither-are-you-if-you-pay-attention-c27729b07f5b?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-26T07:22:05.000Z</updated>
+        <author>
+            <name>Patrick Neeman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 things that Vibe Design can’t replicate]]></title>
+        <id>https://medium.com/p/014e3089f86e</id>
+        <link href="https://uxdesign.cc/7-things-that-vibe-design-cant-replicate-014e3089f86e?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-26T07:21:08.000Z</updated>
+        <author>
+            <name>Arin Bhowmick</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Should I design for humans or machines?]]></title>
         <id>https://medium.com/p/3b8d3addd006</id>
@@ -5331,36 +5563,6 @@ The post How Spreadsheets Quietly Cost Supply Chains Millions appeared first on 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From a $6.90 newsletter to $3M API: How a non-coder built Memelord | Jason Levin]]></title>
-        <id>https://www.lennysnewsletter.com/p/from-a-690-newsletter-to-3m-api-how</id>
-        <link href="https://www.lennysnewsletter.com/p/from-a-690-newsletter-to-3m-api-how"/>
-        <updated>2026-04-27T12:03:55.000Z</updated>
-        <summary type="html"><![CDATA[Listen now | 🎙️Jason Levin (CEO of Memelord) shows how he built a $100K ARR meme company without coding—plus why every marketer should vibe code and how agents are becoming his primary users]]></summary>
-        <author>
-            <name>Claire Vo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comparing Explicit Measures to Calculation Groups in Tabular Models]]></title>
-        <id>https://towardsdatascience.com/?p=608953</id>
-        <link href="https://towardsdatascience.com/comparing-explicit-measures-to-calculation-groups-in-tabular-models/"/>
-        <updated>2026-04-27T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With the advent of UDFs and their combination with calculation groups, I see a lot of discussion about not creating explicit measures but instead offering calculation groups to report creators.
-The post Comparing Explicit Measures to Calculation Groups in Tabular Models appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Salvatore Cagliari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A fantastic voyage, the illusion of good taste, the art of subtraction]]></title>
-        <id>https://medium.com/p/c5db6b1367bf</id>
-        <link href="https://uxdesign.cc/a-fantastic-voyage-the-illusion-of-good-taste-the-art-of-subtraction-c5db6b1367bf?source=rss----138adf9c44c---4"/>
-        <updated>2026-04-27T11:34:56.000Z</updated>
-        <author>
-            <name>Fabricio Teixeira</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Watch till the end...]]></title>
         <id>https://www.youtube.com/shorts/UVUzdRLuAoA</id>
         <link href="https://www.youtube.com/shorts/UVUzdRLuAoA"/>
@@ -5371,113 +5573,6 @@ The post Comparing Explicit Measures to Calculation Groups in Tabular Models app
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[😼 Sam Altman's principles arrived one day too late]]></title>
-        <id>https://www.theneuron.ai/newsletter/sam-altman-s-principles-arrived-one-day-too-late/</id>
-        <link href="https://www.theneuron.ai/newsletter/sam-altman-s-principles-arrived-one-day-too-late/"/>
-        <updated>2026-04-27T10:30:16.078Z</updated>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building an AI Root Cause Analysis Prototype]]></title>
-        <id>https://medium.com/p/45f92acf977d</id>
-        <link href="https://generativeai.pub/building-an-ai-root-cause-analysis-prototype-45f92acf977d?source=rss----440100e76000---4"/>
-        <updated>2026-04-27T09:41:33.000Z</updated>
-        <author>
-            <name>Rene Baumann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Are Probably Using the Wrong AI Model for the Work You Actually Do.]]></title>
-        <id>https://medium.com/p/d4b01f554816</id>
-        <link href="https://generativeai.pub/you-are-probably-using-the-wrong-ai-model-for-the-work-you-actually-do-d4b01f554816?source=rss----440100e76000---4"/>
-        <updated>2026-04-27T09:40:59.000Z</updated>
-        <summary type="html"><![CDATA[Most people picked an AI tool once, in 2023, and have not reconsidered since. The model landscape looks nothing like it did then. Here is…
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>AI Unfiltered</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Computed Self-Attention by Hand. Every Single Number.]]></title>
-        <id>https://medium.com/p/2fc45eecec59</id>
-        <link href="https://generativeai.pub/i-ran-the-math-that-powers-chatgpt-heres-what-i-found-2fc45eecec59?source=rss----440100e76000---4"/>
-        <updated>2026-04-27T09:40:58.000Z</updated>
-        <author>
-            <name>Mohamed Noordeen Alaudeen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Process mining is the strategic foundation your enterprise AI project is missing]]></title>
-        <id>https://medium.com/p/d775ba6e55a7</id>
-        <link href="https://generativeai.pub/process-mining-is-the-strategic-foundation-your-enterprise-ai-project-is-missing-d775ba6e55a7?source=rss----440100e76000---4"/>
-        <updated>2026-04-27T09:39:03.000Z</updated>
-        <author>
-            <name>Marco van Hurne</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Tricks to Generate 5x Better Images]]></title>
-        <id>https://medium.com/p/b8335d78664d</id>
-        <link href="https://generativeai.pub/5-tricks-to-generate-5x-better-images-b8335d78664d?source=rss----440100e76000---4"/>
-        <updated>2026-04-27T09:38:09.000Z</updated>
-        <summary type="html"><![CDATA[Get the most out of ChatGPT Image-2
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Felix Pappe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Connect Ollama to MCP Servers: 3 Working Methods]]></title>
-        <id>https://medium.com/p/685f401776f9</id>
-        <link href="https://generativeai.pub/how-to-connect-ollama-to-mcp-servers-3-working-methods-685f401776f9?source=rss----440100e76000---4"/>
-        <updated>2026-04-27T09:37:38.000Z</updated>
-        <summary type="html"><![CDATA[A step-by-step guide using FastMCP, MCPHost, and ollmcp — with full Python code and config examples.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Jes Fink-Jensen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I automated away an hour of project setup with a Claude Code skill]]></title>
-        <id>https://medium.com/p/1ff025e43814</id>
-        <link href="https://generativeai.pub/i-automated-away-an-hour-of-project-setup-with-a-claude-code-skill-1ff025e43814?source=rss----440100e76000---4"/>
-        <updated>2026-04-27T09:37:19.000Z</updated>
-        <summary type="html"><![CDATA[A Claude Code skill that turns an hour of manual scaffolding into 90 seconds.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Daniel Rusnok</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nobody Got Fired. The Desk Just Never Got Refilled.]]></title>
-        <id>https://medium.com/p/8a39ff88c294</id>
-        <link href="https://generativeai.pub/nobody-got-fired-the-desk-just-never-got-refilled-8a39ff88c294?source=rss----440100e76000---4"/>
-        <updated>2026-04-27T09:36:31.000Z</updated>
-        <author>
-            <name>Osama Abdelwahed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[They Pushed the AI Button. 24 Hours Later, 30,000 People Lost Their Jobs.]]></title>
-        <id>https://medium.com/p/fb79350942a9</id>
-        <link href="https://generativeai.pub/they-pushed-the-ai-button-24-hours-later-30-000-people-lost-their-jobs-fb79350942a9?source=rss----440100e76000---4"/>
-        <updated>2026-04-27T09:36:11.000Z</updated>
-        <author>
-            <name>Osama Abdelwahed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The right touch: mapping AI presence to user intent]]></title>
-        <id>https://medium.com/p/d01fa2dee282</id>
-        <link href="https://uxdesign.cc/the-right-touch-mapping-ai-presence-to-user-intent-d01fa2dee282?source=rss----138adf9c44c---4"/>
-        <updated>2026-04-27T08:21:02.000Z</updated>
-        <author>
-            <name>Bradly Zavakos</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[使用 GPT image-2 搭配 seedance 2.0 製作，想學嗎？留言告訴我]]></title>
         <id>https://www.youtube.com/shorts/tW1fmFKNWjE</id>
         <link href="https://www.youtube.com/shorts/tW1fmFKNWjE"/>
@@ -5485,36 +5580,6 @@ Continue reading on Generative AI »]]></summary>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>電腦王阿達</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mistral AI's €105M Memo📄, Enterprise SaaS Defense⚔️, Seed Math Broke💰]]></title>
-        <id>https://www.thevccorner.com/p/mistral-ais-105m-memo-enterprise</id>
-        <link href="https://www.thevccorner.com/p/mistral-ais-105m-memo-enterprise"/>
-        <updated>2026-04-26T17:36:31.000Z</updated>
-        <summary type="html"><![CDATA[Another week, another pulse check on Tech.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😺 You're either Jeremy or you're cut]]></title>
-        <id>https://www.theneuron.ai/newsletter/you-re-either-jeremy-or-you-re-cut/</id>
-        <link href="https://www.theneuron.ai/newsletter/you-re-either-jeremy-or-you-re-cut/"/>
-        <updated>2026-04-26T17:30:51.973Z</updated>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bytes Speak All Languages: Cross-Script Name Retrieval via Contrastive Learning]]></title>
-        <id>https://towardsdatascience.com/?p=608951</id>
-        <link href="https://towardsdatascience.com/bytes-speak-all-languages-cross-script-name-retrieval-via-contrastive-learning/"/>
-        <updated>2026-04-26T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Why learn 8 scripts when you can learn 256 bytes?
-The post Bytes Speak All Languages: Cross-Script Name Retrieval via Contrastive Learning appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Vedant Jumle</name>
         </author>
     </entry>
     <entry>

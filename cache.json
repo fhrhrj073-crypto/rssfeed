@@ -1306,13 +1306,46 @@
       "title": "One Useful Thing",
       "feedUrl": "https://www.oneusefulthing.org/feed",
       "siteUrl": "https://www.oneusefulthing.org",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+          "author": "Ethan Mollick",
+          "description": "If you go to your favorite social media site, you will find it full of posts that start to look suspiciously similar to each other:",
+          "link": "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+          "publishedOn": "2026-05-26T19:56:01.000Z",
+          "wordCount": null,
+          "title": "Choosing to Stay Human",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!a8R9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb63d669d-64f1-4f8b-81ae-9476d20a720d_1182x635.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!a8R9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb63d669d-64f1-4f8b-81ae-9476d20a720d_1182x635.png"
+        }
+      ]
     },
     {
       "title": "Lenny's Newsletter",
       "feedUrl": "https://www.lennysnewsletter.com/feed",
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
+        {
+          "id": "https://www.lennysnewsletter.com/p/essential-books-for-product-builderspart",
+          "author": "Lenny Rachitsky",
+          "description": "36 timeless books that’ll make you a better builder, leader, and person",
+          "link": "https://www.lennysnewsletter.com/p/essential-books-for-product-builderspart",
+          "publishedOn": "2026-05-26T15:25:52.000Z",
+          "wordCount": null,
+          "title": "Essential books for product builders—part 1",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!DRWl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d51fe66-e3d5-47c9-a868-1c3777108dca_1456x970.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!DRWl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d51fe66-e3d5-47c9-a868-1c3777108dca_1456x970.png"
+        },
         {
           "id": "https://www.lennysnewsletter.com/p/how-i-ai-how-the-engineer-behind",
           "author": "Lenny Rachitsky",
@@ -1696,22 +1729,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/fd11cb5c-1edb-461c-8c5d-4c73f80eae59_1456x1048.png"
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/from-a-690-newsletter-to-3m-api-how",
-          "author": "Claire Vo",
-          "description": "Listen now | 🎙️Jason Levin (CEO of Memelord) shows how he built a $100K ARR meme company without coding—plus why every marketer should vibe code and how agents are becoming his primary users",
-          "link": "https://www.lennysnewsletter.com/p/from-a-690-newsletter-to-3m-api-how",
-          "publishedOn": "2026-04-27T12:03:55.000Z",
-          "wordCount": null,
-          "title": "From a $6.90 newsletter to $3M API: How a non-coder built Memelord | Jason Levin",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/194566396/7d1f7bca50efe7184a9887072dd7c7f6.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -1720,6 +1737,22 @@
       "feedUrl": "https://www.thevccorner.com/feed",
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
+        {
+          "id": "https://www.thevccorner.com/p/mckinsey-pyramid-principle-claude-investor-documents-2026",
+          "author": "Ruben Dominguez",
+          "description": "The communication system behind every funded pitch, every winning board presentation, and every cold email that gets a response. Full Claude setup inside",
+          "link": "https://www.thevccorner.com/p/mckinsey-pyramid-principle-claude-investor-documents-2026",
+          "publishedOn": "2026-05-26T15:02:32.000Z",
+          "wordCount": null,
+          "title": "McKinsey Charges $500K for This Framework. Here Is How to Wire It Into Claude for Free",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!Yo74!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c012895-4e90-4b71-8da3-801c0c52bfcb_670x333.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!Yo74!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c012895-4e90-4b71-8da3-801c0c52bfcb_670x333.png"
+        },
         {
           "id": "https://www.thevccorner.com/p/the-union-square-ventures-story",
           "author": "Ruben Dominguez",
@@ -2071,22 +2104,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!xuPd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd88949f2-f998-47a8-83b0-8c92dd05bbe5_1140x798.jpeg"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/mistral-ais-105m-memo-enterprise",
-          "author": "Ruben Dominguez",
-          "description": "Another week, another pulse check on Tech.",
-          "link": "https://www.thevccorner.com/p/mistral-ais-105m-memo-enterprise",
-          "publishedOn": "2026-04-26T17:36:31.000Z",
-          "wordCount": null,
-          "title": "Mistral AI's €105M Memo📄, Enterprise SaaS Defense⚔️, Seed Math Broke💰",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!kqZg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55a3d469-6b67-40ee-93d7-62741f2f9a1e_848x811.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!kqZg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55a3d469-6b67-40ee-93d7-62741f2f9a1e_848x811.webp"
         }
       ]
     },
@@ -2784,26 +2801,6 @@
           "wordCount": null,
           "title": "Microsoft and OpenAI Rewrote their Marriage Contract",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/sam-altman-s-principles-arrived-one-day-too-late/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/sam-altman-s-principles-arrived-one-day-too-late/",
-          "publishedOn": "2026-04-27T10:30:16.078Z",
-          "wordCount": null,
-          "title": "😼 Sam Altman's principles arrived one day too late",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/you-re-either-jeremy-or-you-re-cut/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/you-re-either-jeremy-or-you-re-cut/",
-          "publishedOn": "2026-04-26T17:30:51.973Z",
-          "wordCount": null,
-          "title": "😺 You're either Jeremy or you're cut",
-          "imageUrl": null
         }
       ]
     },
@@ -2812,6 +2809,46 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=609191",
+          "author": "Marina Tosic",
+          "description": "A simple explanation of what a data agent is and how it works\nThe post What Is a Data Agent? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/what-is-a-data-agent/",
+          "publishedOn": "2026-05-26T16:30:00.000Z",
+          "wordCount": 4038,
+          "title": "What Is a Data Agent?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/image-13.jpeg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609189",
+          "author": "Sara A. Metwalli",
+          "description": "Why your AI model can be wrong with 99% confidence\nThe post The AI Model Confidence Trap appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-ai-model-confidence-trap/",
+          "publishedOn": "2026-05-26T15:00:00.000Z",
+          "wordCount": 4325,
+          "title": "The AI Model Confidence Trap",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/pexels-exeroniq-36444164-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609187",
+          "author": "Clara Chong",
+          "description": "How I turned 100 messy pdfs into structured insights by building a deterministic loop around agents\nThe post Stop Using LLMs Like Giant Problem Solvers appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/stop-using-llms-like-giant-problem-solvers/",
+          "publishedOn": "2026-05-26T13:30:00.000Z",
+          "wordCount": 4100,
+          "title": "Stop Using LLMs Like Giant Problem Solvers",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/documents-medium-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609185",
+          "author": "Alle Sravani",
+          "description": "How shifting the operational focus from isolated data products to systemic domain architecture resolves technical bottlenecks and optimizes platform investment.\nThe post The Domain Shift: Moving Data Governance from Product Triage to Infrastructure Investment appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-domain-shift-moving-data-governance-from-product-triage-to-infrastructure-investment/",
+          "publishedOn": "2026-05-26T12:00:00.000Z",
+          "wordCount": 4376,
+          "title": "The Domain Shift: Moving Data Governance from Product Triage to Infrastructure Investment",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/ChatGPT-Image-May-22-2026-01_27_30-PM.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=609183",
           "author": "Ibrahim Salami",
@@ -3821,26 +3858,6 @@
           "wordCount": 5778,
           "title": "How Spreadsheets Quietly Cost Supply Chains Millions",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/thumbnail-1.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608953",
-          "author": "Salvatore Cagliari",
-          "description": "With the advent of UDFs and their combination with calculation groups, I see a lot of discussion about not creating explicit measures but instead offering calculation groups to report creators.\nThe post Comparing Explicit Measures to Calculation Groups in Tabular Models appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/comparing-explicit-measures-to-calculation-groups-in-tabular-models/",
-          "publishedOn": "2026-04-27T12:00:00.000Z",
-          "wordCount": 4054,
-          "title": "Comparing Explicit Measures to Calculation Groups in Tabular Models",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/ian-talmacs-wr4CnlEg_5s-unsplash.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608951",
-          "author": "Vedant Jumle",
-          "description": "Why learn 8 scripts when you can learn 256 bytes?\nThe post Bytes Speak All Languages: Cross-Script Name Retrieval via Contrastive Learning appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/bytes-speak-all-languages-cross-script-name-retrieval-via-contrastive-learning/",
-          "publishedOn": "2026-04-26T15:00:00.000Z",
-          "wordCount": 5527,
-          "title": "Bytes Speak All Languages: Cross-Script Name Retrieval via Contrastive Learning",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Gemini_Generated_Image_i9mhwti9mhwti9mh-scaled-1.jpg"
         }
       ]
     },
@@ -3855,6 +3872,66 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/288fb15deff1",
+          "author": "Urszula Kluz",
+          "description": "",
+          "link": "https://uxdesign.cc/the-book-cover-as-a-relational-object-288fb15deff1?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-05-26T22:06:23.000Z",
+          "wordCount": null,
+          "title": "The book cover as a relational object",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ea697471cf6f",
+          "author": "Gale Robins",
+          "description": "",
+          "link": "https://uxdesign.cc/product-discoverys-quietest-most-consequential-decision-ea697471cf6f?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-05-26T22:06:22.000Z",
+          "wordCount": null,
+          "title": "Product discovery’s quietest, most consequential decision",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/18dac6a637f5",
+          "author": "Elisa Viglianese",
+          "description": "",
+          "link": "https://uxdesign.cc/ai-and-cognitive-delegation-the-hidden-cost-of-ai-that-works-too-well-18dac6a637f5?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-05-26T22:06:20.000Z",
+          "wordCount": null,
+          "title": "AI and cognitive delegation: the hidden cost of AI that works too well",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3f948d3900a5",
+          "author": "Kai Wong",
+          "description": "Missing the business context means underselling your own work\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/how-to-find-out-what-your-design-work-was-really-for-3f948d3900a5?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-05-26T10:45:56.000Z",
+          "wordCount": null,
+          "title": "How to find out what your design work was really for",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c27729b07f5b",
+          "author": "Patrick Neeman",
+          "description": "",
+          "link": "https://uxdesign.cc/stanfords-ai-report-2026-ai-isn-t-going-anywhere-neither-are-you-if-you-pay-attention-c27729b07f5b?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-05-26T07:22:05.000Z",
+          "wordCount": null,
+          "title": "Stanford’s AI Report 2026: AI isn’t going anywhere. Neither are you — if you pay attention.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/014e3089f86e",
+          "author": "Arin Bhowmick",
+          "description": "",
+          "link": "https://uxdesign.cc/7-things-that-vibe-design-cant-replicate-014e3089f86e?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-05-26T07:21:08.000Z",
+          "wordCount": null,
+          "title": "7 things that Vibe Design can’t replicate",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/3b8d3addd006",
           "author": "Allie Paschal",
@@ -4494,26 +4571,6 @@
           "wordCount": null,
           "title": "The forgotten conversation problem in AI chat",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c5db6b1367bf",
-          "author": "Fabricio Teixeira",
-          "description": "",
-          "link": "https://uxdesign.cc/a-fantastic-voyage-the-illusion-of-good-taste-the-art-of-subtraction-c5db6b1367bf?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-04-27T11:34:56.000Z",
-          "wordCount": null,
-          "title": "A fantastic voyage, the illusion of good taste, the art of subtraction",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d01fa2dee282",
-          "author": "Bradly Zavakos",
-          "description": "",
-          "link": "https://uxdesign.cc/the-right-touch-mapping-ai-presence-to-user-intent-d01fa2dee282?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-04-27T08:21:02.000Z",
-          "wordCount": null,
-          "title": "The right touch: mapping AI presence to user intent",
-          "imageUrl": null
         }
       ]
     },
@@ -4595,6 +4652,106 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/1facdb84c5c9",
+          "author": "Jim Clyde Monge",
+          "description": "A software developer’s perspective on the worlds of building apps traditionally and using AI coding tools.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/i-wrote-code-for-a-decade-then-ai-agents-changed-everything-1facdb84c5c9?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-26T14:19:29.000Z",
+          "wordCount": null,
+          "title": "I Wrote Code for a Decade. Then AI Agents Changed Everything",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8872c1e239fb",
+          "author": "Ahmed M. Abdelfattah",
+          "description": "For anyone watching the 2026 tech layoff wave: what the Avocado story reveals about the math behind Meta’s restructuring, and the AI those…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/meta-made-workers-train-the-ai-that-would-replace-them-the-ai-failed-8872c1e239fb?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-26T14:01:06.000Z",
+          "wordCount": null,
+          "title": "Meta Made Workers Train the AI That Would Replace Them. The AI Failed.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5ff17c9da873",
+          "author": "Kory Becker",
+          "description": "A practical comparison of OpenClaw, Copilot, Claude Code, and Codex. Based on real-world use by a senior engineer.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/which-ai-tool-should-you-use-my-experience-after-months-of-testing-openclaw-5ff17c9da873?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-26T14:00:20.000Z",
+          "wordCount": null,
+          "title": "Which AI Tool Should You Use? My Experience After Months of Testing OpenClaw",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8fb652908ba0",
+          "author": "Zeniteq Co",
+          "description": "",
+          "link": "https://generativeai.pub/i-found-a-cheaper-way-to-use-the-best-image-and-video-models-in-a-single-platform-8fb652908ba0?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-26T13:46:48.000Z",
+          "wordCount": null,
+          "title": "I Found a Cheaper Way to Use the Best Image and Video Models in a Single Platform",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/001970318cd5",
+          "author": "Daniel Rusnok",
+          "description": "Three hooks — recall on the way in, capture on the way out — and the one realization that makes them work.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/how-i-wired-persistent-memory-into-every-claude-code-session-001970318cd5?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-26T13:39:04.000Z",
+          "wordCount": null,
+          "title": "How I Wired Persistent Memory Into Every Claude Code Session",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/befb6e8ef0d1",
+          "author": "AI Unfiltered",
+          "description": "The roadmap nobody wanted to write. 80% failure rate. One root cause hiding in plain sight.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/your-ai-project-has-a-project-manager-problem-not-a-model-problem-befb6e8ef0d1?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-26T13:38:47.000Z",
+          "wordCount": null,
+          "title": "Your AI Project Has a Project Manager Problem. Not a Model Problem.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e54b11e1a70f",
+          "author": "Aris Novar",
+          "description": "",
+          "link": "https://generativeai.pub/the-ai-consciousness-debate-has-reached-the-vatican-e54b11e1a70f?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-26T13:33:34.000Z",
+          "wordCount": null,
+          "title": "The AI Consciousness Debate Has Reached the Vatican",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b0a8e9ceaccf",
+          "author": "Shivay Lamba",
+          "description": "",
+          "link": "https://generativeai.pub/getting-started-with-token-factory-data-lab-building-a-self-improving-llm-pipeline-for-customer-b0a8e9ceaccf?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-26T13:32:21.000Z",
+          "wordCount": null,
+          "title": "Getting Started with Token Factory Data Lab: Building a Self-Improving LLM Pipeline for Customer…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/70d7ee9bc58f",
+          "author": "Ramakrushna Mohapatra",
+          "description": "",
+          "link": "https://generativeai.pub/the-cost-of-context-benchmarking-large-window-llms-vs-2-step-vector-search-70d7ee9bc58f?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-26T13:32:07.000Z",
+          "wordCount": null,
+          "title": "The Cost of Context: Benchmarking Large-Window LLMs vs. 2-Step Vector Search",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/51b45ee1c44f",
+          "author": "Marcos Fernandez",
+          "description": "Why Prompt Autonomy Level needs Generation, Execution, and Verification scores\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/stop-asking-how-autonomous-is-the-model-ask-what-role-it-is-playing-51b45ee1c44f?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-26T13:32:06.000Z",
+          "wordCount": null,
+          "title": "Stop Asking “How Autonomous Is the Model?” Ask What Role It Is Playing.",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/8f9e726fc63e",
           "author": "Jim Clyde Monge",
@@ -5893,96 +6050,6 @@
           "publishedOn": "2026-04-27T14:32:46.000Z",
           "wordCount": null,
           "title": "Here’s an Open-Source AI Gateway that’s 50X Faster than LiteLLM",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/45f92acf977d",
-          "author": "Rene Baumann",
-          "description": "",
-          "link": "https://generativeai.pub/building-an-ai-root-cause-analysis-prototype-45f92acf977d?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-27T09:41:33.000Z",
-          "wordCount": null,
-          "title": "Building an AI Root Cause Analysis Prototype",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d4b01f554816",
-          "author": "AI Unfiltered",
-          "description": "Most people picked an AI tool once, in 2023, and have not reconsidered since. The model landscape looks nothing like it did then. Here is…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/you-are-probably-using-the-wrong-ai-model-for-the-work-you-actually-do-d4b01f554816?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-27T09:40:59.000Z",
-          "wordCount": null,
-          "title": "You Are Probably Using the Wrong AI Model for the Work You Actually Do.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/2fc45eecec59",
-          "author": "Mohamed Noordeen Alaudeen",
-          "description": "",
-          "link": "https://generativeai.pub/i-ran-the-math-that-powers-chatgpt-heres-what-i-found-2fc45eecec59?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-27T09:40:58.000Z",
-          "wordCount": null,
-          "title": "I Computed Self-Attention by Hand. Every Single Number.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d775ba6e55a7",
-          "author": "Marco van Hurne",
-          "description": "",
-          "link": "https://generativeai.pub/process-mining-is-the-strategic-foundation-your-enterprise-ai-project-is-missing-d775ba6e55a7?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-27T09:39:03.000Z",
-          "wordCount": null,
-          "title": "Process mining is the strategic foundation your enterprise AI project is missing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/b8335d78664d",
-          "author": "Felix Pappe",
-          "description": "Get the most out of ChatGPT Image-2\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/5-tricks-to-generate-5x-better-images-b8335d78664d?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-27T09:38:09.000Z",
-          "wordCount": null,
-          "title": "5 Tricks to Generate 5x Better Images",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/685f401776f9",
-          "author": "Jes Fink-Jensen",
-          "description": "A step-by-step guide using FastMCP, MCPHost, and ollmcp — with full Python code and config examples.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/how-to-connect-ollama-to-mcp-servers-3-working-methods-685f401776f9?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-27T09:37:38.000Z",
-          "wordCount": null,
-          "title": "How to Connect Ollama to MCP Servers: 3 Working Methods",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/1ff025e43814",
-          "author": "Daniel Rusnok",
-          "description": "A Claude Code skill that turns an hour of manual scaffolding into 90 seconds.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/i-automated-away-an-hour-of-project-setup-with-a-claude-code-skill-1ff025e43814?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-27T09:37:19.000Z",
-          "wordCount": null,
-          "title": "I automated away an hour of project setup with a Claude Code skill",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/8a39ff88c294",
-          "author": "Osama Abdelwahed",
-          "description": "",
-          "link": "https://generativeai.pub/nobody-got-fired-the-desk-just-never-got-refilled-8a39ff88c294?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-27T09:36:31.000Z",
-          "wordCount": null,
-          "title": "Nobody Got Fired. The Desk Just Never Got Refilled.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/fb79350942a9",
-          "author": "Osama Abdelwahed",
-          "description": "",
-          "link": "https://generativeai.pub/they-pushed-the-ai-button-24-hours-later-30-000-people-lost-their-jobs-fb79350942a9?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-27T09:36:11.000Z",
-          "wordCount": null,
-          "title": "They Pushed the AI Button. 24 Hours Later, 30,000 People Lost Their Jobs.",
           "imageUrl": null
         }
       ]
