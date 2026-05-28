@@ -670,6 +670,36 @@
       "siteUrl": "https://www.youtube.com/channel/UCuwpzP90g1LuGk6JUNms_AQ",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ApOITzWQjgI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ApOITzWQjgI",
+          "publishedOn": "2026-05-27T12:52:00.000Z",
+          "wordCount": null,
+          "title": "How to Start an LLC in Florida in 2026 (Step-by-Step)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=x4OkCAFLHwM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=x4OkCAFLHwM",
+          "publishedOn": "2026-05-26T11:00:09.000Z",
+          "wordCount": null,
+          "title": "How to Start an LLC in New York in 2026 (Step-by-Step)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jqWC7DZpA_c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jqWC7DZpA_c",
+          "publishedOn": "2026-05-25T08:14:34.000Z",
+          "wordCount": null,
+          "title": "How to Start an LLC in California in 2026 (Step-by-Step)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=DC4nSUX9pCc",
           "author": null,
           "description": "",
@@ -748,16 +778,6 @@
           "wordCount": null,
           "title": "How to Deploy Google AI Studio Websites Correctly - Step by Step",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-VuZmoc-Sq8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-VuZmoc-Sq8",
-          "publishedOn": "2026-04-27T14:56:40.000Z",
-          "wordCount": null,
-          "title": "The Ultimate Beginner’s Guide to Vibe Coding",
-          "imageUrl": null
         }
       ]
     },
@@ -766,6 +786,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCawZsQWqfGSbCI5yjkdVkTA",
       "siteUrl": "https://www.youtube.com/channel/UCawZsQWqfGSbCI5yjkdVkTA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=6LwQ8RbU9as",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=6LwQ8RbU9as",
+          "publishedOn": "2026-05-27T16:03:45.000Z",
+          "wordCount": null,
+          "title": "Finally a good benchmark (DeepSWE)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=GBISeUYMzoU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GBISeUYMzoU",
+          "publishedOn": "2026-05-26T16:40:27.000Z",
+          "wordCount": null,
+          "title": "Cursor just beat EVERYONE.",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=tk9lt-9x8mE",
           "author": null,
@@ -1014,26 +1054,6 @@
           "publishedOn": "2026-04-28T16:00:03.000Z",
           "wordCount": null,
           "title": "Worst AI Reddit Take",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/cVqdbXlmXqs",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/cVqdbXlmXqs",
-          "publishedOn": "2026-04-27T21:07:30.000Z",
-          "wordCount": 2024,
-          "title": "China Takes Over",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UV1WDNe4J5w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UV1WDNe4J5w",
-          "publishedOn": "2026-04-25T16:30:55.000Z",
-          "wordCount": null,
-          "title": "My Honest Thoughts about Deepseek",
           "imageUrl": null
         }
       ]
@@ -1330,6 +1350,22 @@
       "feedUrl": "https://www.lennysnewsletter.com/feed",
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
+        {
+          "id": "https://www.lennysnewsletter.com/p/the-codex-feature-that-works-while",
+          "author": "Claire Vo",
+          "description": "Watch now | 🎙️I break down the /goal feature in Codex, including a live demo, three real use cases, and the 6-part framework for writing goals that actually run",
+          "link": "https://www.lennysnewsletter.com/p/the-codex-feature-that-works-while",
+          "publishedOn": "2026-05-27T12:03:47.000Z",
+          "wordCount": null,
+          "title": "The Codex feature that works while you sleep",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/199378292/6d559cc4ae4d8087c535d8c0eb22c407.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://www.lennysnewsletter.com/p/essential-books-for-product-builderspart",
           "author": "Lenny Rachitsky",
@@ -1713,22 +1749,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!dU7r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5169166-0761-408f-83da-a55070a2c78d_1456x970.png"
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-gpt-55-claude",
-          "author": "Lenny Rachitsky",
-          "description": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-          "link": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-gpt-55-claude",
-          "publishedOn": "2026-04-27T15:02:19.000Z",
-          "wordCount": null,
-          "title": "🎙️ This week on How I AI: GPT 5.5, Claude Design, and GPT Images 2.0 hands-on reviews—plus an inside look at Memelord",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/fd11cb5c-1edb-461c-8c5d-4c73f80eae59_1456x1048.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/fd11cb5c-1edb-461c-8c5d-4c73f80eae59_1456x1048.png"
         }
       ]
     },
@@ -1737,6 +1757,22 @@
       "feedUrl": "https://www.thevccorner.com/feed",
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
+        {
+          "id": "https://www.thevccorner.com/p/replit-pitch-deck-seed-2016-story-playbook-2026",
+          "author": "Ruben Dominguez",
+          "description": "The $120K seed deck from 2016. The playbook behind 50 million users, $878M raised, and a $9B valuation. And the 1 founder bet that made all of it possible.",
+          "link": "https://www.thevccorner.com/p/replit-pitch-deck-seed-2016-story-playbook-2026",
+          "publishedOn": "2026-05-27T17:27:07.000Z",
+          "wordCount": null,
+          "title": "Replit Was Rejected by YC 3 Times. Then Paul Graham Called Sam Altman Personally",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/8bb5203c-98e2-4f84-a0e8-6143f37b4f64_1920x1080.gif",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/8bb5203c-98e2-4f84-a0e8-6143f37b4f64_1920x1080.gif"
+        },
         {
           "id": "https://www.thevccorner.com/p/mckinsey-pyramid-principle-claude-investor-documents-2026",
           "author": "Ruben Dominguez",
@@ -2088,22 +2124,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/4989f6fc-28fa-4f65-a322-486cbd70cc4f_640x360.jpeg"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/startup-growth-guide-2026",
-          "author": "Ruben Dominguez",
-          "description": "Most startups don’t have a growth problem; they have a math problem. Learn how to read your retention curves and unit economics to build a business VCs love.",
-          "link": "https://www.thevccorner.com/p/startup-growth-guide-2026",
-          "publishedOn": "2026-04-27T16:59:03.000Z",
-          "wordCount": null,
-          "title": "The Only Startup Growth Guide You’ll Need in 2026",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!xuPd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd88949f2-f998-47a8-83b0-8c92dd05bbe5_1140x798.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!xuPd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd88949f2-f998-47a8-83b0-8c92dd05bbe5_1140x798.jpeg"
         }
       ]
     },
@@ -2751,56 +2771,6 @@
           "wordCount": null,
           "title": "NVIDIA’s Nemotron 3 Nano Omni Gives AI Agents Eyes and Ears",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/openai-is-trying-to-become-apple/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/openai-is-trying-to-become-apple/",
-          "publishedOn": "2026-04-28T10:00:18.354Z",
-          "wordCount": null,
-          "title": "😺 OpenAI is trying to become Apple",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/ai-skill-of-the-day-digest-april-2026-week-5-new-skills/",
-          "author": null,
-          "description": "Every AI Skill of the Day from April 20-30, with expanded context and copy-pastable prompts. From the Fable Prompt to running OpenAI Symphony on your Linear board.",
-          "link": "https://www.theneuron.ai/explainer-articles/ai-skill-of-the-day-digest-april-2026-week-5-new-skills/",
-          "publishedOn": "2026-04-28T03:58:01.688Z",
-          "wordCount": null,
-          "title": "AI Skill of the Day Digest: April 2026 (Week 5) New Skills",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-monday-april-27-2026/",
-          "author": null,
-          "description": "OpenAI and Microsoft amended their partnership (no more Azure exclusivity, no more revenue share to OpenAI), DeepMind's David Silver raised $1.1B to build \"superlearners,\" China blocked Meta's $2B Manus acquisition, Tesla quietly disclosed a $2B AI hardware deal, and 4TB of voice samples were stolen from 40,000 AI contractors at Mercor.",
-          "link": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-monday-april-27-2026/",
-          "publishedOn": "2026-04-28T01:29:19.842Z",
-          "wordCount": null,
-          "title": "Around the Horn Digest: Everything That Happened in AI Today (Monday, April 27, 2026)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/openais-rumored-phone-is-the-clearest-sign-yet-that-ai-agents-need-hardware/",
-          "author": null,
-          "description": "OpenAI may be building a smartphone after all. If true, the point is not another glass slab. It is control over the device where AI agents can see context, act across apps, and turn user intent into real work.",
-          "link": "https://www.theneuron.ai/explainer-articles/openais-rumored-phone-is-the-clearest-sign-yet-that-ai-agents-need-hardware/",
-          "publishedOn": "2026-04-27T20:53:33.025Z",
-          "wordCount": null,
-          "title": "OpenAI’s Rumored Phone Is the Clearest Sign Yet That AI Agents Need Hardware",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/microsoft-and-openai-rewrote-their-marriage-contract/",
-          "author": null,
-          "description": "Microsoft and OpenAI are not breaking up, but their partnership just became much less exclusive. The new deal gives OpenAI more cloud freedom, simplifies revenue sharing, and signals that the next phase of AI will be shaped by infrastructure, optionality, and trillion-dollar compute needs.",
-          "link": "https://www.theneuron.ai/explainer-articles/microsoft-and-openai-rewrote-their-marriage-contract/",
-          "publishedOn": "2026-04-27T17:36:28.568Z",
-          "wordCount": null,
-          "title": "Microsoft and OpenAI Rewrote their Marriage Contract",
-          "imageUrl": null
         }
       ]
     },
@@ -2809,6 +2779,46 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=609199",
+          "author": "Eivind Kjosbakken",
+          "description": "Keep an overview of all your coding agents that run in parallel\nThe post How to Effectively Run Many Claude Code Sessions in Parallel appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-effectively-run-many-claude-code-sessions-in-parallel/",
+          "publishedOn": "2026-05-27T16:30:00.000Z",
+          "wordCount": 4812,
+          "title": "How to Effectively Run Many Claude Code Sessions in Parallel",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/parallel-coding-agents_cover.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609197",
+          "author": "Sean Moran",
+          "description": "How to Turn Simple Head-to-Head Choices Into Probabilistic Rankings\nThe post Learning From Pairwise Preferences: An Introduction to the Bradley Terry Model appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/learning-from-pairwise-preferences-an-introduction-to-the-bradley-terry-model/",
+          "publishedOn": "2026-05-27T15:00:00.000Z",
+          "wordCount": 8469,
+          "title": "Learning From Pairwise Preferences: An Introduction to the Bradley Terry Model",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/1yoX8-7eiA5XP9aonjNFbbg.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609195",
+          "author": "Benjamin Nweke",
+          "description": "Good models don't save bad architecture, and most teams learn that the hard way.\nThe post Most AI Agents Fail in Production Because They’re Built Backwards appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/most-ai-agents-fail-in-production-because-theyre-built-backwards/",
+          "publishedOn": "2026-05-27T13:30:00.000Z",
+          "wordCount": 4939,
+          "title": "Most AI Agents Fail in Production Because They’re Built Backwards",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/ChatGPT-Image-May-23-2026-05_34_02-PM.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609193",
+          "author": "Hayden Kastens",
+          "description": "Why good data work gets ignored after delivery.\nThe post They Requested It. I Built It. Nobody Ever Used It. appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/they-requested-it-i-built-it-nobody-ever-used-it/",
+          "publishedOn": "2026-05-27T12:00:00.000Z",
+          "wordCount": 4319,
+          "title": "They Requested It. I Built It. Nobody Ever Used It.",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/alghozy-earRKNILwH0-unsplash-scaled-e1779541589378.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=609191",
           "author": "Marina Tosic",
@@ -3828,36 +3838,6 @@
           "wordCount": 6724,
           "title": "The Next Frontier of AI in Production Is Chaos Engineering",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/growtika-nGoCBxiaRO0-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608959",
-          "author": "Emmimal P Alexander",
-          "description": "NaNs don’t crash your training — they quietly destroy it.\nThe post PyTorch NaNs Are Silent Killers — So I Built a 3ms Hook to Catch Them at the Exact Layer appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/pytorch-nans-are-silent-killers-i-built-a-3ms-hook-to-catch-them-at-the-exact-layer/",
-          "publishedOn": "2026-04-28T12:00:00.000Z",
-          "wordCount": 5411,
-          "title": "PyTorch NaNs Are Silent Killers — So I Built a 3ms Hook to Catch Them at the Exact Layer",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/PyTorch-NaNs-Are-Silent-Killers.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608949",
-          "author": "TDS Editors",
-          "description": "Sabrine Bendimerad on why flexibility is a crucial data science skill, the risks of outsourcing human thinking to AI agents, and the changing terrain of career paths today.\nThe post A Career in Data Is Not Always a Straight Line, and That’s Okay appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/a-career-in-data-is-not-always-a-straight-line-and-thats-okay/",
-          "publishedOn": "2026-04-27T16:30:00.000Z",
-          "wordCount": 4827,
-          "title": "A Career in Data Is Not Always a Straight Line, and That’s Okay",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Sabrine-Bendimerad.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608955",
-          "author": "Samir Saci",
-          "description": "A simulation of how a single forecast change moves through five planning teams, and why most retailers lose money in the gap between Sales and Stores.\nThe post How Spreadsheets Quietly Cost Supply Chains Millions appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-spreadsheets-quietly-cost-supply-chains-millions/",
-          "publishedOn": "2026-04-27T14:00:00.000Z",
-          "wordCount": 5778,
-          "title": "How Spreadsheets Quietly Cost Supply Chains Millions",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/thumbnail-1.png"
         }
       ]
     },
@@ -3872,6 +3852,36 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/af31d1226da2",
+          "author": "Marcelo Ordenes",
+          "description": "A meditation on presence, AI, and the uncomfortable work of understanding people before we design for them.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/we-havent-lost-the-battle-for-empathy-have-we-af31d1226da2?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-05-27T22:42:29.000Z",
+          "wordCount": null,
+          "title": "We haven’t lost the battle for Empathy. Have we?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ccea4c503702",
+          "author": "Zeeshan Khalid",
+          "description": "How designers can save brilliant AI from dying in onboarding — before it’s too late.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/the-trust-gap-between-ai-and-humans-ccea4c503702?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-05-27T22:42:27.000Z",
+          "wordCount": null,
+          "title": "The trust gap between AI and humans",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/59abd733b52d",
+          "author": "Kamyar Razavi",
+          "description": "",
+          "link": "https://uxdesign.cc/solutions-journalism-needs-better-conflict-not-less-of-it-59abd733b52d?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-05-27T22:39:18.000Z",
+          "wordCount": null,
+          "title": "Solutions journalism needs better conflict, not less of it",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/288fb15deff1",
           "author": "Urszula Kluz",
@@ -4551,26 +4561,6 @@
           "wordCount": null,
           "title": "The most dangerous pronoun in design",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/974d7bc14f06",
-          "author": "Kai Wong",
-          "description": "I rewrote portfolios for 7 Staff/Principal designers. Here’s what I learned\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/staff-designers-arent-about-shipping-the-best-work-that-s-the-point-974d7bc14f06?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-04-28T11:34:55.000Z",
-          "wordCount": null,
-          "title": "Staff designers aren’t about shipping the best work. That’s the point.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/4d3d0c3ea525",
-          "author": "Adi Leviim",
-          "description": "",
-          "link": "https://uxdesign.cc/the-forgotten-conversation-problem-in-ai-chat-4d3d0c3ea525?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-04-28T11:34:24.000Z",
-          "wordCount": null,
-          "title": "The forgotten conversation problem in AI chat",
-          "imageUrl": null
         }
       ]
     },
@@ -4652,6 +4642,16 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/e6277e724b90",
+          "author": "Scarlett Zhao",
+          "description": "",
+          "link": "https://generativeai.pub/context-engineering-is-the-new-moat-e6277e724b90?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-28T00:41:59.000Z",
+          "wordCount": null,
+          "title": "Context Engineering Is the New Moat",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/1facdb84c5c9",
           "author": "Jim Clyde Monge",
@@ -6040,16 +6040,6 @@
           "publishedOn": "2026-04-29T01:49:00.000Z",
           "wordCount": null,
           "title": "I Migrated a Client’s AI Workflow to DeepSeek Tuesday. By May 5, I’ll Know If I Should Have.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/a84039925195",
-          "author": "Jim Clyde Monge",
-          "description": "",
-          "link": "https://generativeai.pub/heres-an-open-source-ai-gateway-that-s-50x-faster-than-litellm-a84039925195?source=rss----440100e76000---4",
-          "publishedOn": "2026-04-27T14:32:46.000Z",
-          "wordCount": null,
-          "title": "Here’s an Open-Source AI Gateway that’s 50X Faster than LiteLLM",
           "imageUrl": null
         }
       ]
