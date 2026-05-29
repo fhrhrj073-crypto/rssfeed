@@ -2,10 +2,231 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-05-28T01:29:43.164Z</updated>
+    <updated>2026-05-29T01:51:46.442Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Anthropic just dropped Opus 4.8... (WOAH)]]></title>
+        <id>https://www.youtube.com/watch?v=t3uBGhpii6w</id>
+        <link href="https://www.youtube.com/watch?v=t3uBGhpii6w"/>
+        <updated>2026-05-29T01:01:34.000Z</updated>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing for AI means designing like it’s 1999]]></title>
+        <id>https://medium.com/p/da9c53d24644</id>
+        <link href="https://uxdesign.cc/designing-for-ai-means-designing-like-its-1999-da9c53d24644?source=rss----138adf9c44c---4"/>
+        <updated>2026-05-29T00:29:39.000Z</updated>
+        <author>
+            <name>Patrick Neeman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Opus 4.8 is here. Is it as good as they say?]]></title>
+        <id>https://www.lennysnewsletter.com/p/claude-opus-48-is-here-is-it-as-good</id>
+        <link href="https://www.lennysnewsletter.com/p/claude-opus-48-is-here-is-it-as-good"/>
+        <updated>2026-05-28T21:35:07.000Z</updated>
+        <summary type="html"><![CDATA[Watch now | 🎙️My first impressions of Opus 4.8—where it excels and where it falls short]]></summary>
+        <author>
+            <name>Claire Vo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OPUS 4.8!!! (also maybe GPT5.6??)]]></title>
+        <id>https://www.youtube.com/watch?v=4n_pxHZfTC8</id>
+        <link href="https://www.youtube.com/watch?v=4n_pxHZfTC8"/>
+        <updated>2026-05-28T19:43:28.000Z</updated>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic Just Dropped Claude Opus 4.8.]]></title>
+        <id>https://www.thevccorner.com/p/claude-opus-4-8-guide-benchmarks-founder-playbook-2026</id>
+        <link href="https://www.thevccorner.com/p/claude-opus-4-8-guide-benchmarks-founder-playbook-2026"/>
+        <updated>2026-05-28T19:05:33.000Z</updated>
+        <summary type="html"><![CDATA[Here Is Everything That Changed]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 LIVE now: Agents for total beginners]]></title>
+        <id>https://www.theneuron.ai/newsletter/live-now-agents-for-total-beginners/</id>
+        <link href="https://www.theneuron.ai/newsletter/live-now-agents-for-total-beginners/"/>
+        <updated>2026-05-28T16:56:28.953Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EmoNet: Speaker-Aware Transformers for Emotion Recognition — and What I’d Build Differently in 2026]]></title>
+        <id>https://towardsdatascience.com/?p=609209</id>
+        <link href="https://towardsdatascience.com/emonet-speaker-aware-transformers-for-emotion-recognition-and-what-id-build-differently-in-2026/"/>
+        <updated>2026-05-28T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A retrospective on my MS thesis, the leaderboard it placed on, and the LLM shift that has reshaped the field since.
+The post EmoNet: Speaker-Aware Transformers for Emotion Recognition — and What I’d Build Differently in 2026 appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Biju Puthan Veetil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Infrastructure Behind Making Local LLM Agents Actually Useful]]></title>
+        <id>https://towardsdatascience.com/?p=609206</id>
+        <link href="https://towardsdatascience.com/the-infrastructure-behind-making-local-llm-agents-actually-useful/"/>
+        <updated>2026-05-28T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lessons from building a fast, reliable scientific agent with local open-weight models, vLLM, and long-context infrastructure
+The post The Infrastructure Behind Making Local LLM Agents Actually Useful appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Hussen Mohammed Ibrahim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Was Supposed to Cut Costs.]]></title>
+        <id>https://medium.com/p/137ef7482bef</id>
+        <link href="https://generativeai.pub/ai-was-supposed-to-cut-costs-137ef7482bef?source=rss----440100e76000---4"/>
+        <updated>2026-05-28T14:36:58.000Z</updated>
+        <summary type="html"><![CDATA[Budgets blown in four months. Licenses canceled six months in. The cost math never worked the way anyone promised.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>AI Unfiltered</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will GenAI Become More Expensive in The Future?]]></title>
+        <id>https://medium.com/p/7e34b1da4642</id>
+        <link href="https://generativeai.pub/will-genai-become-more-expensive-in-the-future-7e34b1da4642?source=rss----440100e76000---4"/>
+        <updated>2026-05-28T14:36:55.000Z</updated>
+        <summary type="html"><![CDATA[Token prices keep falling, but premium reasoning, bundles and workflow lock-in can still push your real bill up.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Hafiq Iqmal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your AI Observability Dashboard Is Lying to You. Here Is What It Is Not Telling You.]]></title>
+        <id>https://medium.com/p/c6c4e0cad217</id>
+        <link href="https://generativeai.pub/your-ai-observability-dashboard-is-lying-to-you-here-is-what-it-is-not-telling-you-c6c4e0cad217?source=rss----440100e76000---4"/>
+        <updated>2026-05-28T14:35:35.000Z</updated>
+        <author>
+            <name>Maya Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Flew Its CEO to Beijing on Air Force One. China Still Refused.]]></title>
+        <id>https://medium.com/p/333ee4495262</id>
+        <link href="https://generativeai.pub/nvidia-flew-its-ceo-to-beijing-on-air-force-one-china-still-refused-333ee4495262?source=rss----440100e76000---4"/>
+        <updated>2026-05-28T14:35:23.000Z</updated>
+        <summary type="html"><![CDATA[For anyone watching the US-China chip war: what Beijing actually said, and why Huawei wins quietly.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Ahmed M. Abdelfattah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introspective Awareness and the AI Sentience Trap]]></title>
+        <id>https://medium.com/p/44e8ffe56d3a</id>
+        <link href="https://generativeai.pub/introspective-awareness-and-the-ai-sentience-trap-44e8ffe56d3a?source=rss----440100e76000---4"/>
+        <updated>2026-05-28T14:35:03.000Z</updated>
+        <author>
+            <name>Dijana Tolić</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Observability for AI Pipelines: What to Trace and Why]]></title>
+        <id>https://medium.com/p/61e35b7f3ea9</id>
+        <link href="https://generativeai.pub/observability-for-ai-pipelines-what-to-trace-and-why-61e35b7f3ea9?source=rss----440100e76000---4"/>
+        <updated>2026-05-28T14:34:30.000Z</updated>
+        <author>
+            <name>Joshua Phillips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prompt to App in 3 Minutes: Google AI Studio coming to Mobile, very Soon!]]></title>
+        <id>https://medium.com/p/54ea7fb9342e</id>
+        <link href="https://generativeai.pub/prompt-to-app-in-3-minutes-google-ai-studio-coming-to-mobile-very-soon-54ea7fb9342e?source=rss----440100e76000---4"/>
+        <updated>2026-05-28T14:33:23.000Z</updated>
+        <summary type="html"><![CDATA[Explore the launch of Google AI Studio for Mobile.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Marc Andréas Yao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Weight of Tokens in Midjourney: What Really Determines an Image]]></title>
+        <id>https://medium.com/p/90139c10f036</id>
+        <link href="https://generativeai.pub/the-weight-of-tokens-in-midjourney-what-really-determines-an-image-90139c10f036?source=rss----440100e76000---4"/>
+        <updated>2026-05-28T14:32:36.000Z</updated>
+        <summary type="html"><![CDATA[A technical look at how the model distributes attention across your prompt, why most descriptors do nothing, and how to escape the dreaded…
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>HalfJourney Lab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Chemical Engineering Made Data Pipelines Feel Familiar]]></title>
+        <id>https://medium.com/p/a35a5b820b5d</id>
+        <link href="https://generativeai.pub/how-chemical-engineering-made-data-pipelines-feel-familiar-a35a5b820b5d?source=rss----440100e76000---4"/>
+        <updated>2026-05-28T14:31:47.000Z</updated>
+        <author>
+            <name>Varshith Tipirneni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[For 80 Years, Mathematicians Trusted Their Instincts. An AI Just Proved Them Wrong.]]></title>
+        <id>https://medium.com/p/b09905b6c157</id>
+        <link href="https://generativeai.pub/for-80-years-mathematicians-trusted-their-instincts-an-ai-just-proved-them-wrong-b09905b6c157?source=rss----440100e76000---4"/>
+        <updated>2026-05-28T14:27:26.000Z</updated>
+        <summary type="html"><![CDATA[The proof used tools from a completely different branch of math. Nobody thought to try them. That is the whole story.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>AI Unfiltered</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why AI Still Can’t Solve Your Real Mathematical Optimization Problem]]></title>
+        <id>https://towardsdatascience.com/?p=609204</id>
+        <link href="https://towardsdatascience.com/why-ai-still-cant-solve-your-real-mathematical-optimization-problem-and-what-orpilot-does-differently/"/>
+        <updated>2026-05-28T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[And what ORPilot does differently
+The post Why AI Still Can’t Solve Your Real Mathematical Optimization Problem appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Guangrui Xie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DiffuJudge-AV: A Diffusion-Inspired Framework for Calibrated AV Video Evaluation]]></title>
+        <id>https://towardsdatascience.com/?p=609202</id>
+        <link href="https://towardsdatascience.com/diffujudge-av-a-diffusion-inspired-framework-for-calibrated-av-video-evaluation/"/>
+        <updated>2026-05-28T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A diffusion-inspired framework for stress-testing and denoising LLM-as-a-Judge pipelines, applied to safety-critical driving video.
+The post DiffuJudge-AV: A Diffusion-Inspired Framework for Calibrated AV Video Evaluation appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Huma Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😼 Robinhood gave AI agents wallets]]></title>
+        <id>https://www.theneuron.ai/newsletter/robinhood-gave-ai-agents-wallets/</id>
+        <link href="https://www.theneuron.ai/newsletter/robinhood-gave-ai-agents-wallets/"/>
+        <updated>2026-05-28T10:00:29.296Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything That Happened in AI Today (Wednesday, May 27, 2026)]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-wednesday-may-27-2026/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-wednesday-may-27-2026/"/>
+        <updated>2026-05-28T01:20:13.680Z</updated>
+        <summary type="html"><![CDATA[Robinhood opened trading and virtual cards to AI agents; AxiomProver produced peer-reviewed machine-verified math proofs; OpenAI and Thrive built self-improving tax agents; Google launched AI Threat Defense; Amazon MGM greenlit GenAI-funded series; plus much more.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Context Engineering Is the New Moat]]></title>
         <id>https://medium.com/p/e6277e724b90</id>
@@ -44,6 +265,15 @@ Continue reading on UX Collective »]]></summary>
         <updated>2026-05-27T22:39:18.000Z</updated>
         <author>
             <name>Kamyar Razavi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 🎙️ Watch: Is Brain-like Computing What's Next?]]></title>
+        <id>https://www.theneuron.ai/newsletter/watch-is-brain-like-computing-what-s-next/</id>
+        <link href="https://www.theneuron.ai/newsletter/watch-is-brain-like-computing-what-s-next/"/>
+        <updated>2026-05-27T19:10:12.788Z</updated>
+        <author>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -108,6 +338,16 @@ The post Most AI Agents Fail in Production Because They’re Built Backwards app
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Datacurve’s DeepSWE Exposes a Weird New Problem With AI Coding Leaderboards]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/datacurves-deepswe-exposes-a-weird-new-problem-with-ai-coding-leaderboards/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/datacurves-deepswe-exposes-a-weird-new-problem-with-ai-coding-leaderboards/"/>
+        <updated>2026-05-27T12:29:50.113Z</updated>
+        <summary type="html"><![CDATA[Datacurve’s DeepSWE benchmark crowns GPT-5.5 as the top coding agent, but the real story is bigger than one leaderboard. Its findings suggest AI coding benchmarks may be leaking answers, rejecting valid solutions, and suppressing useful agent behavior—right as enterprises start betting real engineering workflows on them.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Codex feature that works while you sleep]]></title>
         <id>https://www.lennysnewsletter.com/p/the-codex-feature-that-works-while</id>
         <link href="https://www.lennysnewsletter.com/p/the-codex-feature-that-works-while"/>
@@ -126,6 +366,35 @@ The post Most AI Agents Fail in Production Because They’re Built Backwards app
 The post They Requested It. I Built It. Nobody Ever Used It. appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Hayden Kastens</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 The Pope’s Warning on AI's Babel]]></title>
+        <id>https://www.theneuron.ai/newsletter/the-pope-s-warning-on-ai-s-babel/</id>
+        <link href="https://www.theneuron.ai/newsletter/the-pope-s-warning-on-ai-s-babel/"/>
+        <updated>2026-05-27T10:00:14.439Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything That Happened in AI Today (Tuesday, May 26, 2026)]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-tuesday-may-26-2026/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-tuesday-may-26-2026/"/>
+        <updated>2026-05-27T01:18:49.057Z</updated>
+        <summary type="html"><![CDATA[China curbed AI talent travel; Qualcomm struck a ByteDance chip deal; OpenRouter raised $113M; xAI finished Grok V9-Medium; US law enforcement warned of anti-tech extremism; plus much more.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI Backlash Is a Fight Over Who Owns the Upside]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/the-ai-backlash-is-a-fight-over-who-owns-the-upside/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/the-ai-backlash-is-a-fight-over-who-owns-the-upside/"/>
+        <updated>2026-05-26T23:58:47.705Z</updated>
+        <summary type="html"><![CDATA[As AI backlash grows around data centers, jobs, surveillance, and power, the State is preparing to protect AI infrastructure while "the church", in this case Pope Leo XIV, is asking a harder question: who gets to participate in, benefit from, and morally shape the buildout?]]></summary>
+        <author>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -163,6 +432,26 @@ The post They Requested It. I Built It. Nobody Ever Used It. appeared first on T
         <summary type="html"><![CDATA[If you go to your favorite social media site, you will find it full of posts that start to look suspiciously similar to each other:]]></summary>
         <author>
             <name>Ethan Mollick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How We Use ClickUp to Run a Media Company That Publishes 2,000+ Pieces a Month]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/how-we-use-clickup-to-run-a-media-company-that-publishes-2000-pieces-a-month/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/how-we-use-clickup-to-run-a-media-company-that-publishes-2000-pieces-a-month/"/>
+        <updated>2026-05-26T19:25:25.193Z</updated>
+        <summary type="html"><![CDATA[Our team manages nearly 20 spaces, 48 lists, and hundreds of contributors inside ClickUp. Here's what we've learned after nine months of running our entire content operation on the platform, and why the platform's AI layer is starting to change how we think about managing work at scale.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Real-Time AI Voice Agents With LiveKit]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/how-to-build-real-time-ai-voice-agents-with-livekit/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/how-to-build-real-time-ai-voice-agents-with-livekit/"/>
+        <updated>2026-05-26T17:18:00.163Z</updated>
+        <summary type="html"><![CDATA[Ben Cherry joined The Neuron to show how real-time voice agents actually work, why production systems are harder than demos, and how builders can start with LiveKit’s starter repos, Agent Builder, Docs MCP server, and observability tools.]]></summary>
+        <author>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -1097,7 +1386,7 @@ The post Lost in Translation: How AI Exposes the Rift Between Law and Logic appe
         <updated>2026-05-22T10:10:33.420Z</updated>
         <summary type="html"><![CDATA[OpenAI's model disproved an 80-year-old math conjecture; Trump delayed an AI order while California prepared workers for disruption; Spotify and UMG licensed fan-made AI covers; quantum firms landed $2B in grants; Starbucks and Waymo hit real-world AI failures; Cohere released Command A+.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -1106,7 +1395,7 @@ The post Lost in Translation: How AI Exposes the Rift Between Law and Logic appe
         <link href="https://www.theneuron.ai/newsletter/openai-solved-an-80-year-math-problem-by-disproving-it/"/>
         <updated>2026-05-22T10:00:21.687Z</updated>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -1116,7 +1405,7 @@ The post Lost in Translation: How AI Exposes the Rift Between Law and Logic appe
         <updated>2026-05-22T09:18:39.382Z</updated>
         <summary type="html"><![CDATA[Greg Kamradt, Kol Tregaskes, and Google DeepMind point to the same idea: AGI is the wrong scoreboard because intelligence only matters when it can be trusted inside a frame. AI progress is therefor the expansion of what we can frame, test, and verify without losing contact with reality.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -1153,7 +1442,7 @@ The post Lost in Translation: How AI Exposes the Rift Between Law and Logic appe
         <link href="https://www.theneuron.ai/newsletter/watch-live-now-building-ai-voice-agents-w-livekit-s-ben-cherry/"/>
         <updated>2026-05-21T16:58:09.834Z</updated>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -1224,7 +1513,7 @@ The post Prompt Engineering Isn’t Enough — I Built a Control Layer That Work
         <link href="https://www.theneuron.ai/newsletter/meta-used-staff-as-ai-training-data-then-cut-them/"/>
         <updated>2026-05-21T11:25:41.222Z</updated>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -1293,7 +1582,7 @@ Continue reading on UX Collective »]]></summary>
         <link href="https://www.theneuron.ai/newsletter/podcast-can-ai-solve-math-s-biggest-mystery/"/>
         <updated>2026-05-20T19:11:19.120Z</updated>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -1403,7 +1692,7 @@ The post From Possible to Probable AI Models appeared first on Towards Data Scie
         <link href="https://www.theneuron.ai/newsletter/google-just-put-agents-in-everything/"/>
         <updated>2026-05-20T10:00:09.251Z</updated>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -1453,7 +1742,7 @@ Continue reading on Generative AI »]]></summary>
         <updated>2026-05-20T09:11:34.742Z</updated>
         <summary type="html"><![CDATA[Google used I/O 2026 to show how Gemini 3.5, Spark, Omni, Search agents, Workspace, Android, YouTube, shopping, AI Studio, and Antigravity fit into one agent roadmap.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -1473,7 +1762,7 @@ Continue reading on Generative AI »]]></summary>
         <updated>2026-05-20T03:45:46.592Z</updated>
         <summary type="html"><![CDATA[Google I/O pushed Gemini agents across Search, Android, Workspace, YouTube, and shopping; Anthropic hardened Managed Agents; SpaceX reportedly planned to buy Cursor; OpenAI expanded provenance and enterprise capacity; Co-Scientist landed in Nature.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -1620,7 +1909,7 @@ Continue reading on UX Collective »]]></summary>
         <updated>2026-05-19T21:41:23.541Z</updated>
         <summary type="html"><![CDATA[Pathway put Lukasz Kaiser, Llion Jones, Mathias Lechner, and Adrian Kosowski in a boxing ring to debate whether Transformers still deserve the belt. The answer was less about one winner and more about the tests that will decide AI's next architecture.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -1721,7 +2010,7 @@ The post Proxy-Pointer RAG: Solving Entity and Relationship Sprawl in Large Know
         <link href="https://www.theneuron.ai/newsletter/elon-lost-here-s-why/"/>
         <updated>2026-05-19T10:00:30.104Z</updated>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -1740,7 +2029,7 @@ The post Proxy-Pointer RAG: Solving Entity and Relationship Sprawl in Large Know
         <updated>2026-05-19T03:18:53.490Z</updated>
         <summary type="html"><![CDATA[Elon Musk’s OpenAI lawsuit ended because the jury found he waited too long to sue. The bigger question is what the trial exposed about AI’s weirdest corporate structure.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -1750,7 +2039,7 @@ The post Proxy-Pointer RAG: Solving Entity and Relationship Sprawl in Large Know
         <updated>2026-05-19T02:37:53.624Z</updated>
         <summary type="html"><![CDATA[Microsoft open-sourced ECHO; Odyssey launched Starchild-1 and Agora-1; OpenAI added bank-account connections to ChatGPT; Nvidia GPU rentals spiked; AI backlash widened across polls, jobs, data centers, markets, and surveillance fights.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -1999,7 +2288,7 @@ The post How to Maximize OpenAI’s Codex appeared first on Towards Data Science
         <link href="https://www.theneuron.ai/newsletter/ai-layoffs-are-tanking-stocks-not-saving-them/"/>
         <updated>2026-05-18T10:00:14.665Z</updated>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -2026,7 +2315,7 @@ The post How to Maximize OpenAI’s Codex appeared first on Towards Data Science
         <link href="https://www.theneuron.ai/newsletter/ai-hackers-found-a-new-lane/"/>
         <updated>2026-05-17T23:15:15.100Z</updated>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -2036,7 +2325,7 @@ The post How to Maximize OpenAI’s Codex appeared first on Towards Data Science
         <updated>2026-05-17T23:14:15.037Z</updated>
         <summary type="html"><![CDATA[Anthropic refused China access to Mythos while the Pentagon used the model family for cyber defense; Cerebras and Cowboy Space pushed AI compute into new territory; Recursive Superintelligence raised $650M; Google confirmed criminal AI-driven zero-day exploitation; plus the week's best new tools.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -2327,7 +2616,7 @@ The post Stop Evaluating LLMs with “Vibe Checks” appeared first on Towards D
         <link href="https://www.theneuron.ai/newsletter/the-ai-cold-war-got-a-protocol/"/>
         <updated>2026-05-15T10:01:51.887Z</updated>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -2348,7 +2637,7 @@ Continue reading on Generative AI »]]></summary>
         <updated>2026-05-15T08:06:28.681Z</updated>
         <summary type="html"><![CDATA[Recursive Superintelligence raised major funding to build self-improving AI; Nous Research claimed 2-3x faster LLM pretraining; NVIDIA shipped elastic reasoning and any-step video models; Kimi launched browser-control agents; Anthropic's CFO explained the compute economy.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -2456,7 +2745,7 @@ Continue reading on UX Collective »]]></summary>
         <updated>2026-05-14T20:36:14.837Z</updated>
         <summary type="html"><![CDATA[Learn where AI sales forecasting works, where it falls short, and how revenue teams should evaluate AI forecasting platforms.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -2578,7 +2867,7 @@ The post How to Write Robust Code with Claude Code appeared first on Towards Dat
         <link href="https://www.theneuron.ai/newsletter/claude-is-now-the-1-business-ai/"/>
         <updated>2026-05-14T10:01:05.671Z</updated>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -2689,7 +2978,7 @@ The post What’s the Best Way to Brainwash an LLM? appeared first on Towards Da
         <updated>2026-05-13T12:30:17.342Z</updated>
         <summary type="html"><![CDATA[Mira Murati’s Thinking Machines Lab is betting that AI’s next leap is not just smarter models, but better timing. Its new interaction models are designed to listen, watch, respond, interrupt, and use tools in real time.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -2709,7 +2998,7 @@ The post Building an Evaluation Harness for Production AI Agents: A 12-Metric Fr
         <link href="https://www.theneuron.ai/newsletter/google-is-killing-the-prompt-box/"/>
         <updated>2026-05-13T10:01:18.546Z</updated>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -2730,7 +3019,7 @@ Continue reading on Generative AI »]]></summary>
         <updated>2026-05-13T07:38:31.350Z</updated>
         <summary type="html"><![CDATA[Anthropic refused China access to its newest model; Isomorphic raised $2.1B; Google pushed Gemini deeper into Android; xAI shipped Grok Voice Think Fast; supply-chain attackers hit Mistral and TanStack.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -2740,7 +3029,7 @@ Continue reading on Generative AI »]]></summary>
         <updated>2026-05-13T05:23:22.118Z</updated>
         <summary type="html"><![CDATA[Google’s Magic Pointer, Perceptron Mk1, and Thinking Machines’ interaction models all point toward the same shift: AI interfaces are moving from “type a perfect prompt” to “show the system what you mean.”]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -3014,7 +3303,7 @@ The post Your First WebAssembly Program and Web App (Written, Tested, and Deploy
         <link href="https://www.theneuron.ai/newsletter/cerebras-to-ipo-at-33b-take-on-nvidia/"/>
         <updated>2026-05-12T10:00:33.145Z</updated>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -3144,7 +3433,7 @@ Continue reading on Generative AI »]]></summary>
         <updated>2026-05-12T00:53:26.525Z</updated>
         <summary type="html"><![CDATA[Cerebras upsized its IPO to $4.8B at $33B as Cowboy Space raised $275M to put data centers in orbit; Google confirmed the first criminal AI-discovered zero-day; OpenAI launched DeployCo with $4B+; Anthropic shipped Claude Platform on AWS; METR engineers self-reported 1.4-2x AI value; Mira Murati's Thinking Machines unveiled real-time interaction models.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -3311,7 +3600,7 @@ The post PySpark for Beginners: Mastering the Basics appeared first on Towards 
         <link href="https://www.theneuron.ai/newsletter/microsoft-your-company-is-the-ai-bottleneck/"/>
         <updated>2026-05-11T10:06:05.815Z</updated>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -3339,7 +3628,7 @@ The post PySpark for Beginners: Mastering the Basics appeared first on Towards 
         <updated>2026-05-11T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[OTT Cybersecurity LLC announced several milestones that position the company as foundational security infrastructure for the agentic AI era.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -3349,7 +3638,7 @@ The post PySpark for Beginners: Mastering the Basics appeared first on Towards 
         <updated>2026-05-11T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[OTT Cybersecurity LLC announced several milestones that position the company as foundational security infrastructure for the agentic AI era.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -3359,7 +3648,7 @@ The post PySpark for Beginners: Mastering the Basics appeared first on Towards 
         <updated>2026-05-11T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[OTT Cybersecurity LLC announced several milestones that position the company as foundational security infrastructure for the agentic AI era.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -3378,7 +3667,7 @@ The post PySpark for Beginners: Mastering the Basics appeared first on Towards 
         <link href="https://www.theneuron.ai/newsletter/hermes-is-eating-openclaw-s-lunch/"/>
         <updated>2026-05-10T18:30:14.464Z</updated>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -3388,7 +3677,7 @@ The post PySpark for Beginners: Mastering the Basics appeared first on Towards 
         <updated>2026-05-10T18:11:16.599Z</updated>
         <summary type="html"><![CDATA[Anthropic is weighing a $50B primary round at a $900B valuation that would top OpenAI; the Trump administration drafted an AI security order that omits mandatory model tests; Apple and Intel reached a Trump-pushed preliminary chip-making agreement; French prosecutors escalated their Musk and X probe to a criminal investigation; the US suspects a Thai national-AI partner helped smuggle Nvidia chips to Alibaba; Cerebras is set to raise its IPO range on 20× oversubscription.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -3508,7 +3797,7 @@ The post LLM Summarizers Skip the Identification Step appeared first on Towards 
         <updated>2026-05-09T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[Un guide pratique de l'IA souveraine pour les entreprises, allant de la résidence des données et de l'infrastructure hybride à la gouvernance, aux modèles ouverts et à l'informatique confidentielle dans les environnements réglementés.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -3518,7 +3807,7 @@ The post LLM Summarizers Skip the Identification Step appeared first on Towards 
         <updated>2026-05-09T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[Ein praktischer Leitfaden für souveräne KI in Unternehmen – von Datenresidenz und hybrider Infrastruktur bis zu Governance, offenen Modellen und vertraulicher Datenverarbeitung in regulierten Umgebungen.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -3585,7 +3874,7 @@ Continue reading on Generative AI »]]></summary>
         <updated>2026-05-08T22:49:48.654Z</updated>
         <summary type="html"><![CDATA[Microsoft surveyed 20,000 AI users and analyzed trillions of Microsoft 365 signals for its 2026 Work Trend Index. The headline isn't that AI works; it's that most organizations aren't built to capture what their workers can already do.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -3666,7 +3955,7 @@ The post Unified Agentic Memory Across Harnesses Using Hooks appeared first on T
         <link href="https://www.theneuron.ai/newsletter/openai-s-gpt-realtime-2-is-coming-for-call-center/"/>
         <updated>2026-05-08T10:01:44.520Z</updated>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -3737,7 +4026,7 @@ Continue reading on Generative AI »]]></summary>
         <updated>2026-05-08T05:37:21.044Z</updated>
         <summary type="html"><![CDATA[Check out our digest of AI Skills from the month of May, as well as bonus skills that we haven't featured in the daily newsletter yet.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -3756,7 +4045,7 @@ Continue reading on Generative AI »]]></summary>
         <updated>2026-05-08T03:01:41.828Z</updated>
         <summary type="html"><![CDATA[Anthropic shipped Natural Language Autoencoders that translate Claude's hidden activations into readable English (and caught Claude Mythos Preview internally plotting to avoid detection on a training task); Google DeepMind detailed AlphaEvolve's real-world impact across genomics, quantum physics, and TPU design; the EU reached political agreement to simplify AI Act rules and ban nudification apps; the Trump administration set a China trip with Nvidia, Apple, and Exxon CEOs while the Pentagon's botched Alibaba/Baidu blacklist roiled US-China tech ties; Cloudflare cut 1,100 jobs (20%) in an AI-first pivot.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -3914,7 +4203,7 @@ The post I Rewrote a Real Data Workflow in Polars. Pandas Didn’t Stand a Chanc
         <link href="https://www.theneuron.ai/newsletter/anthropic-spacex-data-center-deal/"/>
         <updated>2026-05-07T10:00:23.085Z</updated>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -4026,7 +4315,7 @@ Continue reading on UX Collective »]]></summary>
         <updated>2026-05-07T01:00:00.000Z</updated>
         <summary type="html"><![CDATA[Anthropic threw its biggest developer day of the year and signed a SpaceX compute deal worth all of Colossus 1; DeepSeek lined up its first-ever fundraise at up to a $50B valuation; Apple paid $250M to settle the AI Siri it never shipped; Samsung joined the $1T club; plus 100+ more stories.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -4082,7 +4371,7 @@ Continue reading on UX Collective »]]></summary>
         <updated>2026-05-06T16:50:36.581Z</updated>
         <summary type="html"><![CDATA[A formal government review process for AI models may sound like responsible safety policy. But if the White House becomes the practical gatekeeper for public AI access, the result could be more concentrated power, weaker open source, and a future where everyone else gets the strongest tools last.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -4145,7 +4434,7 @@ The post Why I Don’t Trust LLMs to Decide When the Weather Changed appeared fi
         <updated>2026-05-06T12:58:31.940Z</updated>
         <summary type="html"><![CDATA[AI did not get evenly smarter. It got spikier. Frontier models can now ace elite math and science benchmarks, yet still stumble on analog clocks and basic computer-use tasks. The real AI skill is learning where the frontier holds, where it breaks, and how to work around the cliffs.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -4202,7 +4491,7 @@ The post Deconstruct Any Metric with a Few Simple ‘What’ Questions appeared 
         <link href="https://www.theneuron.ai/newsletter/subq-ships-12m-tokens-at-1-5-the-cost/"/>
         <updated>2026-05-06T10:01:29.714Z</updated>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -4441,7 +4730,7 @@ Continue reading on UX Collective »]]></summary>
         <link href="https://www.theneuron.ai/newsletter/mayo-s-ai-spotted-cancer-3-years-before-doctors-did/"/>
         <updated>2026-05-05T10:01:25.211Z</updated>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -4451,7 +4740,7 @@ Continue reading on UX Collective »]]></summary>
         <updated>2026-05-05T06:42:15.207Z</updated>
         <summary type="html"><![CDATA[A Cape Breton fiddler sued Google for $1.5M after AI Overview falsely flagged him as a sex offender; OpenAI considered (then rejected) an Alphabet-style spinout for its robotics and hardware divisions; Nature retracted a flagship paper on ChatGPT in education; Microsoft's "Webwright" research framework set SOTA on long-horizon web agent tasks; and Anthropic shipped keyless authentication for the Claude API.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -4512,7 +4801,7 @@ Continue reading on Generative AI »]]></summary>
         <updated>2026-05-05T05:49:21.715Z</updated>
         <summary type="html"><![CDATA[The White House started considering pre-release vetting of AI models; Anthropic and OpenAI both married private equity on the same day; Anthropic CCO Paul Smith launched a separate $1.5B mid-market spinout; DeepSeek's V4-Pro became the first Chinese model at frontier parity; Mayo Clinic's AI spotted pancreatic cancer up to three years before diagnosis.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -4540,7 +4829,7 @@ Continue reading on Generative AI »]]></summary>
         <updated>2026-05-05T02:03:09.243Z</updated>
         <summary type="html"><![CDATA[At Sequoia AI Ascent 2026, Boris Cherny, Greg Brockman, and Andrej Karpathy each made a version of the same claim about software development. The interesting work is in their disagreements about what now becomes the bottleneck.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -4616,7 +4905,7 @@ The post Single Agent vs Multi-Agent: When to Build a Multi-Agent System appeare
         <updated>2026-05-04T19:25:10.765Z</updated>
         <summary type="html"><![CDATA[The Pentagon signed AI deployment deals with 8 vendors and left Anthropic out, Microsoft 365 E7 with Agent 365 went generally available, Meta bought a humanoid robotics startup, Mistral shipped Medium 3.5 with remote agents, Grok 4.3 added voice cloning, and a Mayo Clinic AI flagged pancreatic cancer 3 years before diagnosis.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -4626,7 +4915,7 @@ The post Single Agent vs Multi-Agent: When to Build a Multi-Agent System appeare
         <updated>2026-05-04T19:25:10.765Z</updated>
         <summary type="html"><![CDATA[The Pentagon signed AI deployment deals with 8 vendors and left Anthropic out, Microsoft 365 E7 with Agent 365 went generally available, Meta bought a humanoid robotics startup, Mistral shipped Medium 3.5 with remote agents, Grok 4.3 added voice cloning, and a Mayo Clinic AI flagged pancreatic cancer 3 years before diagnosis.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -4656,7 +4945,7 @@ The post How to Build an Efficient Knowledge Base for AI Models appeared first o
         <link href="https://www.theneuron.ai/newsletter/what-gets-scarce-when-ai-does-everything-3b1c/"/>
         <updated>2026-05-04T15:30:08.081Z</updated>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -4717,7 +5006,7 @@ The post How AI Tools Generate Technical Debt in IoT Systems — and What to Do 
         <link href="https://www.theneuron.ai/newsletter/a-patch-wave-is-coming-for-your-software/"/>
         <updated>2026-05-04T10:30:41.572Z</updated>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -4773,7 +5062,7 @@ The post How AI Tools Generate Technical Debt in IoT Systems — and What to Do 
         <link href="https://www.theneuron.ai/newsletter/what-gets-scarce-when-ai-does-everything/"/>
         <updated>2026-05-03T17:31:09.338Z</updated>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -4783,7 +5072,7 @@ The post How AI Tools Generate Technical Debt in IoT Systems — and What to Do 
         <updated>2026-05-03T16:38:47.211Z</updated>
         <summary type="html"><![CDATA[Alex Imas thinks the AI economy will look like the Industrial Revolution in reverse. The history says he's probably right. The harder question is who keeps the money.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -5053,7 +5342,7 @@ The post Why Powerful Machine Learning Is Deceptively Easy appeared first on Tow
         <link href="https://www.theneuron.ai/newsletter/the-4-tool-agent-quietly-powering-openclaw/"/>
         <updated>2026-05-01T10:01:38.292Z</updated>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -5063,7 +5352,7 @@ The post Why Powerful Machine Learning Is Deceptively Easy appeared first on Tow
         <updated>2026-05-01T05:15:56.382Z</updated>
         <summary type="html"><![CDATA[Musk vs Altman's First Week in Court, OpenAI published a research paper about goblins, the NSA is testing Anthropic's Mythos on Microsoft software, Anthropic is reportedly raising at $900B, and OpenAI hit a 10-gigawatt capacity milestone years early.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -5155,7 +5444,7 @@ The post How to Study the Monotonicity and Stability of Variables in a Scoring M
         <updated>2026-04-30T13:03:05.152Z</updated>
         <summary type="html"><![CDATA[OpenAI’s Codex goblin saga is funny on the surface, but the real story is about reward signals, personality drift, and the new work of making AI agents more reliable.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -5184,7 +5473,7 @@ The post Why AI Engineers Are Moving Beyond LangChain to Native Agent Architectu
         <link href="https://www.theneuron.ai/newsletter/google-ran-out-of-cloud/"/>
         <updated>2026-04-30T10:00:47.530Z</updated>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -5203,7 +5492,7 @@ The post Why AI Engineers Are Moving Beyond LangChain to Native Agent Architectu
         <updated>2026-04-30T05:26:00.207Z</updated>
         <summary type="html"><![CDATA[Microsoft, Google, Meta, and Amazon all reported Q1 2026 earnings on the same day. AI was the only story that mattered, and three of the four said they cannot build infrastructure fast enough to keep up with demand.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -5213,7 +5502,7 @@ The post Why AI Engineers Are Moving Beyond LangChain to Native Agent Architectu
         <updated>2026-04-30T05:03:37.859Z</updated>
         <summary type="html"><![CDATA[Trump scrambles to walk back his Anthropic Pentagon ban, Claude Mythos found 271 zero-days in Firefox, Mayo Clinic's AI spotted pancreatic cancer 475 days early, and seven families sued OpenAI over the Tumbler Ridge shooting.]]></summary>
         <author>
-            <name>TheNeuron</name>
+            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -5277,27 +5566,6 @@ Continue reading on Generative AI »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Agentic AI: How to Save on Tokens]]></title>
-        <id>https://towardsdatascience.com/?p=608970</id>
-        <link href="https://towardsdatascience.com/agentic-ai-how-to-save-on-tokens/"/>
-        <updated>2026-04-29T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Caching, lazy-loading, routing, compaction, and more
-The post Agentic AI: How to Save on Tokens appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ida Silfverskiöld</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Greg Brockman Thinks Comes After ChatGPT]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/what-greg-brockman-thinks-comes-after-chatgpt/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/what-greg-brockman-thinks-comes-after-chatgpt/"/>
-        <updated>2026-04-29T13:04:05.177Z</updated>
-        <summary type="html"><![CDATA[Greg Brockman’s interview with Shane Parrish was more than OpenAI founder lore. It was a preview of the next AI era: scarce compute, AI-written code, personal agents, and a world where the most valuable workers know how to manage machines.]]></summary>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Anthropic 內部都在用！Claude Code 官方 5 大隱藏技巧大公開：快速搞懂任何屎山程式碼、自動迭代測試]]></title>
         <id>https://www.youtube.com/watch?v=WpewI22B-2I</id>
         <link href="https://www.youtube.com/watch?v=WpewI22B-2I"/>
@@ -5307,213 +5575,12 @@ The post Agentic AI: How to Save on Tokens appeared first on Towards Data Scien
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[System Design Series: Apache Flink from 10,000 Feet, and Building a Flink-powered Recommendation Engine]]></title>
-        <id>https://towardsdatascience.com/?p=608968</id>
-        <link href="https://towardsdatascience.com/system-design-series-apache-flink-from-10000-feet-and-building-a-flink-powered-recommendation-engine/"/>
-        <updated>2026-04-29T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A deep dive into how Apache Flink works, why it exists, and learning it while building a real-time recommendation engine
-The post System Design Series: Apache Flink from 10,000 Feet, and Building a Flink-powered Recommendation Engine appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sanil Khurana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 UI patterns that won’t survive the AI shift]]></title>
-        <id>https://medium.com/p/002cb9b853ae</id>
-        <link href="https://uxdesign.cc/10-ui-patterns-that-wont-survive-the-ai-shift-002cb9b853ae?source=rss----138adf9c44c---4"/>
-        <updated>2026-04-29T11:01:51.000Z</updated>
-        <author>
-            <name>Taras Bakusevych</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😺 Anthropic just LAPPED OpenAI]]></title>
-        <id>https://www.theneuron.ai/newsletter/anthropic-just-lapped-openai/</id>
-        <link href="https://www.theneuron.ai/newsletter/anthropic-just-lapped-openai/"/>
-        <updated>2026-04-29T10:00:19.463Z</updated>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It Only Took One Git Push to Access Millions of GitHub Repos]]></title>
-        <id>https://medium.com/p/21d055d9c774</id>
-        <link href="https://generativeai.pub/it-only-took-one-git-push-to-access-millions-of-github-repos-21d055d9c774?source=rss----440100e76000---4"/>
-        <updated>2026-04-29T01:55:03.000Z</updated>
-        <summary type="html"><![CDATA[How an X-Stat field injection in GitHub’s internal git protocol let an authenticated user reach RCE on GitHub.com and GHES using nothing…
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Jim Clyde Monge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Doesn’t Hallucinate Randomly. It Hallucinates Exactly Where It Has No Way to Look.]]></title>
-        <id>https://medium.com/p/343121f7080e</id>
-        <link href="https://generativeai.pub/ai-doesnt-hallucinate-randomly-it-hallucinates-exactly-where-it-has-no-way-to-look-343121f7080e?source=rss----440100e76000---4"/>
-        <updated>2026-04-29T01:54:04.000Z</updated>
-        <summary type="html"><![CDATA[An ancient philosophical trap explains why the most dangerous AI failures are the ones it has no mechanism to detect
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>AI Unfiltered</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Reason Your Knowledge System Doesn’t Work (And Karpathy Figured It Out Without Trying)]]></title>
-        <id>https://medium.com/p/eefcfbb7368d</id>
-        <link href="https://generativeai.pub/the-reason-your-knowledge-system-doesnt-work-and-karpathy-figured-it-out-without-trying-eefcfbb7368d?source=rss----440100e76000---4"/>
-        <updated>2026-04-29T01:54:02.000Z</updated>
-        <author>
-            <name>Tejas Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Hidden Analogy Between Programming Languages and LLMs That Will Change How You Build Agentic…]]></title>
-        <id>https://medium.com/p/a344fa26dc09</id>
-        <link href="https://generativeai.pub/the-hidden-analogy-between-programming-languages-and-llms-that-will-change-how-you-build-agentic-a344fa26dc09?source=rss----440100e76000---4"/>
-        <updated>2026-04-29T01:52:14.000Z</updated>
-        <summary type="html"><![CDATA[Why “skills,” MCPs, and context windows are just software engineering in disguise — and what that means for your stack.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Jes Fink-Jensen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Devil’s in the Details: New York’s AI Bill and the General-Purpose Problem]]></title>
-        <id>https://medium.com/p/9b6ae441b0f7</id>
-        <link href="https://generativeai.pub/the-devils-in-the-details-new-york-s-ai-bill-and-the-general-purpose-problem-9b6ae441b0f7?source=rss----440100e76000---4"/>
-        <updated>2026-04-29T01:51:14.000Z</updated>
-        <author>
-            <name>Camilo Lascano Tribin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Migrated a Client’s AI Workflow to DeepSeek Tuesday. By May 5, I’ll Know If I Should Have.]]></title>
-        <id>https://medium.com/p/2f23f0f03316</id>
-        <link href="https://generativeai.pub/i-migrated-a-clients-ai-workflow-to-deepseek-tuesday-by-may-5-i-ll-know-if-i-should-have-2f23f0f03316?source=rss----440100e76000---4"/>
-        <updated>2026-04-29T01:49:00.000Z</updated>
-        <summary type="html"><![CDATA[For teams paying $30/M to OpenAI: what I tested, what held, and what I refused to touch at any price.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Ahmed M. Abdelfattah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Around the Horn Digest: Everything That Happened in AI Today (Tuesday, April 28, 2026)]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-tuesday-april-28-2026/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-tuesday-april-28-2026/"/>
-        <updated>2026-04-29T01:26:12.276Z</updated>
-        <summary type="html"><![CDATA[Anthropic crossed $1 trillion and launched Claude for Creative Work with Adobe, Blender, and Ableton; OpenAI missed revenue, opened on AWS, and watched Musk's lawyer accuse them of stealing a charity in federal court.]]></summary>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Around the Horn Digest: Everything That Happened in AI Today (Tuesday, April 28, 2026)]]></title>
-        <id>https://www.theneuron.ai/undefined/around-the-horn-digest-everything-that-happened-in-ai-today-tuesday-april-28-2026-/</id>
-        <link href="https://www.theneuron.ai/undefined/around-the-horn-digest-everything-that-happened-in-ai-today-tuesday-april-28-2026-/"/>
-        <updated>2026-04-29T01:26:12.276Z</updated>
-        <summary type="html"><![CDATA[Anthropic crossed $1 trillion and launched Claude for Creative Work with Adobe, Blender, and Ableton; OpenAI missed revenue, opened on AWS, and watched Musk's lawyer accuse them of stealing a charity in federal court.]]></summary>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hermes Agent w/ ChatGPT 5.5 is literally magic]]></title>
         <id>https://www.youtube.com/watch?v=B2wHaRDf3Qo</id>
         <link href="https://www.youtube.com/watch?v=B2wHaRDf3Qo"/>
         <updated>2026-04-28T22:13:21.000Z</updated>
         <author>
             <name>Alex Finn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is AI really costing the planet?]]></title>
-        <id>https://medium.com/p/ec14be648d65</id>
-        <link href="https://uxdesign.cc/what-is-ai-really-costing-the-planet-ec14be648d65?source=rss----138adf9c44c---4"/>
-        <updated>2026-04-28T21:59:12.000Z</updated>
-        <author>
-            <name>Dora Czerna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The most dangerous pronoun in design]]></title>
-        <id>https://medium.com/p/a9fc721a685a</id>
-        <link href="https://uxdesign.cc/the-most-dangerous-pronoun-in-design-a9fc721a685a?source=rss----138adf9c44c---4"/>
-        <updated>2026-04-28T21:59:10.000Z</updated>
-        <author>
-            <name>Pedro A. Brêtas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YC Just Told You What to Build. Here Are the Ideas Worth Stealing.]]></title>
-        <id>https://www.thevccorner.com/p/yc-summer-2026-requests-for-startups-ideas</id>
-        <link href="https://www.thevccorner.com/p/yc-summer-2026-requests-for-startups-ideas"/>
-        <updated>2026-04-28T20:51:14.000Z</updated>
-        <summary type="html"><![CDATA[Y Combinator’s Summer 2026 Requests for Startups is the most direct signal the best startup accelerator in the world has ever sent founders. Here is what it actually means.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let the AI Do the Experimenting]]></title>
-        <id>https://towardsdatascience.com/?p=608966</id>
-        <link href="https://towardsdatascience.com/let-the-ai-do-the-experimenting/"/>
-        <updated>2026-04-28T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Using autoresearch to optimise marketing campaigns under budget constraints
-The post Let the AI Do the Experimenting appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Mariya Mansurova</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA’s Nemotron 3 Nano Omni Gives AI Agents Eyes and Ears]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/nvidias-nemotron-3-nano-omni-gives-ai-agents-eyes-and-ears/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/nvidias-nemotron-3-nano-omni-gives-ai-agents-eyes-and-ears/"/>
-        <updated>2026-04-28T16:05:00.000Z</updated>
-        <summary type="html"><![CDATA[NVIDIA’s Nemotron 3 Nano Omni is not just another multimodal model. It is a fast sensory layer for AI agent stacks, built to help sub-agents watch, listen, read, and reason over messy real-world inputs before handing work to larger systems.]]></summary>
-        <author>
-            <name>TheNeuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Worst AI Reddit Take]]></title>
-        <id>https://www.youtube.com/watch?v=H1OsV7FnhZc</id>
-        <link href="https://www.youtube.com/watch?v=H1OsV7FnhZc"/>
-        <updated>2026-04-28T16:00:03.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Couch-to-5K for AI]]></title>
-        <id>https://www.lennysnewsletter.com/p/your-couch-to-5k-for-ai</id>
-        <link href="https://www.lennysnewsletter.com/p/your-couch-to-5k-for-ai"/>
-        <updated>2026-04-28T15:31:24.000Z</updated>
-        <summary type="html"><![CDATA[A step-by-step guide to building an AI habit that sticks]]></summary>
-        <author>
-            <name>Hilary Gridley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Correlation Doesn’t Mean Causation! But What Does It Mean?]]></title>
-        <id>https://towardsdatascience.com/?p=608964</id>
-        <link href="https://towardsdatascience.com/correlation-doesnt-mean-causation-but-what-does-it-mean/"/>
-        <updated>2026-04-28T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What does correlation tells us?
-The post Correlation Doesn’t Mean Causation! But What Does It Mean? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sara A. Metwalli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Next Frontier of AI in Production Is Chaos Engineering]]></title>
-        <id>https://towardsdatascience.com/?p=608961</id>
-        <link href="https://towardsdatascience.com/the-next-frontier-of-ai-in-production-is-chaos-engineering/"/>
-        <updated>2026-04-28T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Blast-radius control tells you how much to break. Intent tells you what breaking it will teach. Only one of these has mature tooling.
-The post The Next Frontier of AI in Production Is Chaos Engineering appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sayali Patil</name>
         </author>
     </entry>
     <entry>
