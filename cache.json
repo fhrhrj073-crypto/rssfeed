@@ -474,26 +474,6 @@
           "wordCount": null,
           "title": "I reviewed 20 AI engineering courses, here are my top 5",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/KOHgqBfN-gA",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/KOHgqBfN-gA",
-          "publishedOn": "2026-04-30T21:29:35.000Z",
-          "wordCount": 1948,
-          "title": "Most developers are using AI wrong… this is the better way.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WOPIoZuD1og",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WOPIoZuD1og",
-          "publishedOn": "2026-04-30T14:08:21.000Z",
-          "wordCount": null,
-          "title": "The State of Software Engineering in 2026",
-          "imageUrl": null
         }
       ]
     },
@@ -640,16 +620,6 @@
           "publishedOn": "2026-05-01T20:48:54.000Z",
           "wordCount": null,
           "title": "LIVE: OpenClaw vs Hermes Agent: The ultimate showdown",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iz3_xhi6iQE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iz3_xhi6iQE",
-          "publishedOn": "2026-04-30T17:54:13.000Z",
-          "wordCount": null,
-          "title": "ChatGPT 5.5 Codex is the greatest AI coding tool ever. Here's how to use it",
           "imageUrl": null
         }
       ]
@@ -1481,6 +1451,22 @@
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
         {
+          "id": "https://www.lennysnewsletter.com/p/community-wisdom-catching-people",
+          "author": "Kiyani",
+          "description": "Community Wisdom 187",
+          "link": "https://www.lennysnewsletter.com/p/community-wisdom-catching-people",
+          "publishedOn": "2026-05-30T16:43:36.000Z",
+          "wordCount": null,
+          "title": "🧠 Community Wisdom: Catching people using AI during an interview, org design when everything lives in one person’s head, when to rename your product, from nurse to health-tech PM, and more",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png"
+        },
+        {
           "id": "https://www.lennysnewsletter.com/p/claude-opus-48-is-here-is-it-as-good",
           "author": "Claire Vo",
           "description": "Watch now | 🎙️My first impressions of Opus 4.8—where it excels and where it falls short",
@@ -1888,6 +1874,22 @@
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
         {
+          "id": "https://www.thevccorner.com/p/high-agency-success-guide",
+          "author": "Ruben Dominguez",
+          "description": "High agency is the only way to move from being a passenger to the one who drives the outcome.",
+          "link": "https://www.thevccorner.com/p/high-agency-success-guide",
+          "publishedOn": "2026-05-30T17:19:32.000Z",
+          "wordCount": null,
+          "title": "The One Trait You Need to Succeed in the Next 10 Years",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!QboC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2f4b47b-ff8d-4250-bb9a-d9ec779cf867_800x400.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!QboC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2f4b47b-ff8d-4250-bb9a-d9ec779cf867_800x400.png"
+        },
+        {
           "id": "https://www.thevccorner.com/p/stop-asking-what-your-startup-is-worth",
           "author": "Ruben Dominguez",
           "description": "A VC’s honest take on pricing risk, belief, and hype at the earliest stage.",
@@ -2278,6 +2280,36 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/googles-gemini-co-leads-explain-what-comes-next/",
+          "author": null,
+          "description": "Jeff Dean, Koray Kavukcuoglu, Noam Shazeer, and Oriol Vinyals gave the clearest version yet of Google’s Gemini strategy: one unified model, better coding and agents, world models, self-improvement, and a lot more work on memory, evaluation, and hardware.",
+          "link": "https://www.theneuron.ai/explainer-articles/googles-gemini-co-leads-explain-what-comes-next/",
+          "publishedOn": "2026-05-30T02:00:05.193Z",
+          "wordCount": null,
+          "title": "Google’s Gemini co-leads explain what comes next",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-this-weekend-may-29-31-2026-/",
+          "author": null,
+          "description": "OpenAI launched Rosalind Biodefense; Kog hit 3,000 output tokens/s on standard GPUs; Google pushed Gemini Spark; Microsoft worked on a Copilot super app; Nvidia bet on photonics; plus much more.",
+          "link": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-this-weekend-may-29-31-2026-/",
+          "publishedOn": "2026-05-30T01:57:00.045Z",
+          "wordCount": null,
+          "title": "Everything That Happened in AI This Weekend (May 29-31, 2026)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/everyone-is-tokenmaxxing-and-the-ai-bill-is-coming-due/",
+          "author": null,
+          "description": "Companies spent the last year telling employees to use AI more. Now Amazon, Uber, and the rest of corporate America are learning that token usage is a terrible proxy for actual work.",
+          "link": "https://www.theneuron.ai/explainer-articles/everyone-is-tokenmaxxing-and-the-ai-bill-is-coming-due/",
+          "publishedOn": "2026-05-30T01:36:40.798Z",
+          "wordCount": null,
+          "title": "Everyone Is Tokenmaxxing, and the AI Bill Is Coming Due",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/newsletter/claude-opus-4-8-got-safer-today/",
           "author": null,
@@ -2937,26 +2969,6 @@
           "wordCount": null,
           "title": "When AI Takes Over the Economy, Who Owns the Human Element?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/the-4-tool-agent-quietly-powering-openclaw/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/the-4-tool-agent-quietly-powering-openclaw/",
-          "publishedOn": "2026-05-01T10:01:38.292Z",
-          "wordCount": null,
-          "title": "🙀 The 4-tool agent quietly powering OpenClaw",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-thursday-april-30-2026/",
-          "author": null,
-          "description": "Musk vs Altman's First Week in Court, OpenAI published a research paper about goblins, the NSA is testing Anthropic's Mythos on Microsoft software, Anthropic is reportedly raising at $900B, and OpenAI hit a 10-gigawatt capacity milestone years early.",
-          "link": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-thursday-april-30-2026/",
-          "publishedOn": "2026-05-01T05:15:56.382Z",
-          "wordCount": null,
-          "title": "Around the Horn Digest: Everything That Happened in AI Today (Thursday, April 30, 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -2965,6 +2977,36 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=609229",
+          "author": "Rashi Desai",
+          "description": "As AI gets smarter, the real differentiator may be how well humans regulate their own thinking.\nThe post Meta-Cognitive Regulation Might Be the Most Important AI Skill Nobody Is Talking About appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/meta-cognitive-regulation-might-be-the-most-important-ai-skill-nobody-is-talking-about/",
+          "publishedOn": "2026-05-30T17:00:00.000Z",
+          "wordCount": 4458,
+          "title": "Meta-Cognitive Regulation Might Be the Most Important AI Skill Nobody Is Talking About",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/bhautik-patel-CFSJUUb_Q-Y-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609241",
+          "author": "angela shi",
+          "description": "Enterprise Document Intelligence [Vol. 1 #2] Why the same vector search that handles synonyms and paraphrase silently fails on negation, exact identifiers, and your company’s acronyms, and what to use when it does.\nThe post Embeddings Aren’t Magic: The Predictable Failure Modes of RAG Retrieval appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/embeddings-arent-magic-the-predictable-failure-modes-of-rag-retrieval-enterprise-document-intelligence-vol-1-2/",
+          "publishedOn": "2026-05-30T15:00:00.000Z",
+          "wordCount": 11740,
+          "title": "Embeddings Aren’t Magic: The Predictable Failure Modes of RAG Retrieval",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/rushikesh-gaikwad-mPEVZmwdlUw-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609226",
+          "author": "Chien Vu Minh",
+          "description": "Most engineers see quantization as shrinking vectors. TurboQuant asks a harder question: can you shrink them without breaking their geometry?\nThe post Qdrant TurboQuant Explained: Is TurboQuant the Silver Bullet? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/qdrant-turboquant-explained-is-turboquant-the-silver-bullet/",
+          "publishedOn": "2026-05-30T13:00:00.000Z",
+          "wordCount": 6298,
+          "title": "Qdrant TurboQuant Explained: Is TurboQuant the Silver Bullet?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/turboquant_thumbnail-1.png"
+        },
         {
           "id": "https://towardsdatascience.com/?p=609231",
           "author": "angela shi",
@@ -3984,46 +4026,6 @@
           "wordCount": 5277,
           "title": "Churn Without Fragmentation: How a Party-Label Bug Reversed My Headline Finding",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Screenshot-2026-04-30-at-23.49.12.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608989",
-          "author": "Thomas Reid",
-          "description": "The first database built for AI Agents\nThe post Ghost: A Database for Our Times? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/ghost-a-database-for-our-times/",
-          "publishedOn": "2026-05-01T13:30:00.000Z",
-          "wordCount": 5621,
-          "title": "Ghost: A Database for Our Times?",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/ChatGPT-Image-Apr-29-2026-04_09_02-PM.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608987",
-          "author": "Erika Gomes-Gonçalves",
-          "description": "Or why what appears powerful can be methodologically fragile\nThe post Why Powerful Machine Learning Is Deceptively Easy appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/why-powerful-ml-is-deceptively-easy/",
-          "publishedOn": "2026-05-01T12:00:00.000Z",
-          "wordCount": 6405,
-          "title": "Why Powerful Machine Learning Is Deceptively Easy",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/IMG_20190813_144547-EFFECTS-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608985",
-          "author": "Berend Markhorst",
-          "description": "How to make decisions when your spreadsheet is lying about the future\nThe post A Gentle Introduction to Stochastic Programming appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/a-gentle-introduction-to-stochastic-programming/",
-          "publishedOn": "2026-04-30T16:30:00.000Z",
-          "wordCount": 5815,
-          "title": "A Gentle Introduction to Stochastic Programming",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/photo-1516373829531-29d21ac7f9d6-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608982",
-          "author": "Partha Sarkar",
-          "description": "Structure is all you need\nThe post Proxy-Pointer RAG: Multimodal Answers Without Multimodal Embeddings appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/proxy-pointer-rag-multimodal-answers-without-multimodal-embeddings/",
-          "publishedOn": "2026-04-30T15:00:00.000Z",
-          "wordCount": 5859,
-          "title": "Proxy-Pointer RAG: Multimodal Answers Without Multimodal Embeddings",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/04/Gemini_Generated_Image_n4hxxdn4hxxdn4hx-scaled-1.jpg"
         }
       ]
     },
@@ -4707,36 +4709,6 @@
           "wordCount": null,
           "title": "Can AI make your dating life better?",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/6ffda2806b56",
-          "author": "Zeeshan Khalid",
-          "description": "",
-          "link": "https://uxdesign.cc/usability-accessibility-and-the-human-ai-paradigm-6ffda2806b56?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-05-01T11:19:38.000Z",
-          "wordCount": null,
-          "title": "Usability, accessibility, and the human-AI paradigm",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d0e1b8a33613",
-          "author": "Ashlee Edwards, Ph.D.",
-          "description": "",
-          "link": "https://uxdesign.cc/ai-uxr-implementation-d0e1b8a33613?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-05-01T11:19:22.000Z",
-          "wordCount": null,
-          "title": "Thoughtful AI Implementation for UXR Leaders",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/5416cbd3ef10",
-          "author": "Theresa-Marie Rhyne",
-          "description": "Using Perplexity to build an accessible perceptual uniform triad.\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/a-genai-perplexed-by-color-theory-5416cbd3ef10?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-04-30T22:08:49.000Z",
-          "wordCount": null,
-          "title": "A GenAI perplexed by color theory",
-          "imageUrl": null
         }
       ]
     },
@@ -4800,16 +4772,6 @@
           "wordCount": 3072,
           "title": "The Pulse: AI load breaks GitHub – why not other vendors?",
           "imageUrl": null
-        },
-        {
-          "id": "69f36c81ac26b70001aa306d",
-          "author": "Gergely Orosz",
-          "description": "In the past 2-3 months, spending on AI agents has exploded at many tech companies, Details from 15 of them, including the different ways they are coping with this realization.",
-          "link": "https://blog.pragmaticengineer.com/the-pulse-token-spend-breaks-budgets-what-next/",
-          "publishedOn": "2026-04-30T14:52:36.000Z",
-          "wordCount": 3182,
-          "title": "The Pulse: token spend breaks budgets – what next?",
-          "imageUrl": null
         }
       ]
     },
@@ -4818,6 +4780,106 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/bc308167d5f0",
+          "author": "Jes Fink-Jensen",
+          "description": "Chunked extraction and summarization that beat truncation, plus a family of sharp reader tools (snippet, links, outline), over…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/build-your-own-local-web-reading-llm-agent-in-700-lines-of-python-bc308167d5f0?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-30T02:55:43.000Z",
+          "wordCount": null,
+          "title": "Build Your Own Local Web Reading LLM Agent in 700 Lines of Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b29310ba850d",
+          "author": "Ahmadinejad Sulaiman Putra",
+          "description": "",
+          "link": "https://generativeai.pub/i-spent-4-months-building-a-research-idea-generator-heres-what-actually-works-b29310ba850d?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-30T02:54:50.000Z",
+          "wordCount": null,
+          "title": "I spent 4 months building a research idea generator. Here’s what actually works.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5311b500db08",
+          "author": "Priya Gupta",
+          "description": "",
+          "link": "https://generativeai.pub/ai-didnt-ask-for-more-greenery-it-just-started-adding-it-5311b500db08?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-30T02:53:20.000Z",
+          "wordCount": null,
+          "title": "AI didn’t ask for more greenery. It just started adding it.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/81fbd5df5574",
+          "author": "MohamedAbdelmenem",
+          "description": "Yes, the PocketOS postmortem shows an AI coding agent destroyed a database in 9 seconds. No, this is not an AI safety crisis. Here is the…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/an-ai-coding-agent-deleted-a-production-database-in-9-seconds-the-community-is-not-blaming-the-ai-81fbd5df5574?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-30T02:53:03.000Z",
+          "wordCount": null,
+          "title": "An AI Coding Agent Deleted a Production Database in 9 Seconds. The Community Is Not Blaming the AI.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/66c1a9ca228b",
+          "author": "Favian Rafif",
+          "description": "You Don’t Need to Know How to Code to Build Real Things Anymore\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/you-dont-need-to-know-how-to-code-to-build-real-things-anymore-66c1a9ca228b?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-30T02:52:30.000Z",
+          "wordCount": null,
+          "title": "You Don’t Need to Know How to Code to Build Real Things Anymore",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/550fa2e0b64e",
+          "author": "Jonathan Putra",
+          "description": "",
+          "link": "https://generativeai.pub/ai-paper-mills-a-copenhagen-scandal-and-the-9-agent-scissors-i-built-to-fight-them-550fa2e0b64e?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-30T02:51:28.000Z",
+          "wordCount": null,
+          "title": "AI Paper Mills, a Copenhagen Scandal, and the 9-Agent “Scissors” I Built to Fight Them",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a57063b91fd6",
+          "author": "Himanshu",
+          "description": "",
+          "link": "https://generativeai.pub/how-i-pretrained-a-1b-language-model-for-0-part-1-of-2-a57063b91fd6?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-30T02:46:59.000Z",
+          "wordCount": null,
+          "title": "How I pretrained a 1B language model for $0 (Part 1 of 2)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b283dff7d996",
+          "author": "Himanshu",
+          "description": "",
+          "link": "https://generativeai.pub/how-i-post-trained-a-1b-model-with-sft-grpo-for-0-part-2-of-2-b283dff7d996?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-30T02:46:41.000Z",
+          "wordCount": null,
+          "title": "How I post-trained a 1B model with SFT + GRPO for $0 (Part 2 of 2)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8e4f0d5ba464",
+          "author": "Ahmed M. Abdelfattah",
+          "description": "For anyone who uses Claude: what the SpaceX S-1 actually shows about who funds the AI safety mission.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/elon-musk-called-anthropic-evil-anthropic-just-paid-him-15-billion-8e4f0d5ba464?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-30T02:44:03.000Z",
+          "wordCount": null,
+          "title": "Elon Musk Called Anthropic “Evil.” Anthropic Just Paid Him $15 Billion.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d619d6a237ff",
+          "author": "Rutuja Pathade",
+          "description": "",
+          "link": "https://generativeai.pub/inside-gpu-execution-and-memory-d619d6a237ff?source=rss----440100e76000---4",
+          "publishedOn": "2026-05-30T02:44:00.000Z",
+          "wordCount": null,
+          "title": "Inside GPU Execution and Memory",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/e859b0616bdd",
           "author": "Jim Clyde Monge",

@@ -2,10 +2,191 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-05-30T01:47:58.330Z</updated>
+    <updated>2026-05-31T01:58:51.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The One Trait You Need to Succeed in the Next 10 Years]]></title>
+        <id>https://www.thevccorner.com/p/high-agency-success-guide</id>
+        <link href="https://www.thevccorner.com/p/high-agency-success-guide"/>
+        <updated>2026-05-30T17:19:32.000Z</updated>
+        <summary type="html"><![CDATA[High agency is the only way to move from being a passenger to the one who drives the outcome.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta-Cognitive Regulation Might Be the Most Important AI Skill Nobody Is Talking About]]></title>
+        <id>https://towardsdatascience.com/?p=609229</id>
+        <link href="https://towardsdatascience.com/meta-cognitive-regulation-might-be-the-most-important-ai-skill-nobody-is-talking-about/"/>
+        <updated>2026-05-30T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As AI gets smarter, the real differentiator may be how well humans regulate their own thinking.
+The post Meta-Cognitive Regulation Might Be the Most Important AI Skill Nobody Is Talking About appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Rashi Desai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🧠 Community Wisdom: Catching people using AI during an interview, org design when everything lives in one person’s head, when to rename your product, from nurse to health-tech PM, and more]]></title>
+        <id>https://www.lennysnewsletter.com/p/community-wisdom-catching-people</id>
+        <link href="https://www.lennysnewsletter.com/p/community-wisdom-catching-people"/>
+        <updated>2026-05-30T16:43:36.000Z</updated>
+        <summary type="html"><![CDATA[Community Wisdom 187]]></summary>
+        <author>
+            <name>Kiyani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embeddings Aren’t Magic: The Predictable Failure Modes of RAG Retrieval]]></title>
+        <id>https://towardsdatascience.com/?p=609241</id>
+        <link href="https://towardsdatascience.com/embeddings-arent-magic-the-predictable-failure-modes-of-rag-retrieval-enterprise-document-intelligence-vol-1-2/"/>
+        <updated>2026-05-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol. 1 #2] Why the same vector search that handles synonyms and paraphrase silently fails on negation, exact identifiers, and your company’s acronyms, and what to use when it does.
+The post Embeddings Aren’t Magic: The Predictable Failure Modes of RAG Retrieval appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>angela shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qdrant TurboQuant Explained: Is TurboQuant the Silver Bullet?]]></title>
+        <id>https://towardsdatascience.com/?p=609226</id>
+        <link href="https://towardsdatascience.com/qdrant-turboquant-explained-is-turboquant-the-silver-bullet/"/>
+        <updated>2026-05-30T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most engineers see quantization as shrinking vectors. TurboQuant asks a harder question: can you shrink them without breaking their geometry?
+The post Qdrant TurboQuant Explained: Is TurboQuant the Silver Bullet? appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Chien Vu Minh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Your Own Local Web Reading LLM Agent in 700 Lines of Python]]></title>
+        <id>https://medium.com/p/bc308167d5f0</id>
+        <link href="https://generativeai.pub/build-your-own-local-web-reading-llm-agent-in-700-lines-of-python-bc308167d5f0?source=rss----440100e76000---4"/>
+        <updated>2026-05-30T02:55:43.000Z</updated>
+        <summary type="html"><![CDATA[Chunked extraction and summarization that beat truncation, plus a family of sharp reader tools (snippet, links, outline), over…
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Jes Fink-Jensen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I spent 4 months building a research idea generator. Here’s what actually works.]]></title>
+        <id>https://medium.com/p/b29310ba850d</id>
+        <link href="https://generativeai.pub/i-spent-4-months-building-a-research-idea-generator-heres-what-actually-works-b29310ba850d?source=rss----440100e76000---4"/>
+        <updated>2026-05-30T02:54:50.000Z</updated>
+        <author>
+            <name>Ahmadinejad Sulaiman Putra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI didn’t ask for more greenery. It just started adding it.]]></title>
+        <id>https://medium.com/p/5311b500db08</id>
+        <link href="https://generativeai.pub/ai-didnt-ask-for-more-greenery-it-just-started-adding-it-5311b500db08?source=rss----440100e76000---4"/>
+        <updated>2026-05-30T02:53:20.000Z</updated>
+        <author>
+            <name>Priya Gupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An AI Coding Agent Deleted a Production Database in 9 Seconds. The Community Is Not Blaming the AI.]]></title>
+        <id>https://medium.com/p/81fbd5df5574</id>
+        <link href="https://generativeai.pub/an-ai-coding-agent-deleted-a-production-database-in-9-seconds-the-community-is-not-blaming-the-ai-81fbd5df5574?source=rss----440100e76000---4"/>
+        <updated>2026-05-30T02:53:03.000Z</updated>
+        <summary type="html"><![CDATA[Yes, the PocketOS postmortem shows an AI coding agent destroyed a database in 9 seconds. No, this is not an AI safety crisis. Here is the…
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>MohamedAbdelmenem</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You Don’t Need to Know How to Code to Build Real Things Anymore]]></title>
+        <id>https://medium.com/p/66c1a9ca228b</id>
+        <link href="https://generativeai.pub/you-dont-need-to-know-how-to-code-to-build-real-things-anymore-66c1a9ca228b?source=rss----440100e76000---4"/>
+        <updated>2026-05-30T02:52:30.000Z</updated>
+        <summary type="html"><![CDATA[You Don’t Need to Know How to Code to Build Real Things Anymore
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Favian Rafif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Paper Mills, a Copenhagen Scandal, and the 9-Agent “Scissors” I Built to Fight Them]]></title>
+        <id>https://medium.com/p/550fa2e0b64e</id>
+        <link href="https://generativeai.pub/ai-paper-mills-a-copenhagen-scandal-and-the-9-agent-scissors-i-built-to-fight-them-550fa2e0b64e?source=rss----440100e76000---4"/>
+        <updated>2026-05-30T02:51:28.000Z</updated>
+        <author>
+            <name>Jonathan Putra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I pretrained a 1B language model for $0 (Part 1 of 2)]]></title>
+        <id>https://medium.com/p/a57063b91fd6</id>
+        <link href="https://generativeai.pub/how-i-pretrained-a-1b-language-model-for-0-part-1-of-2-a57063b91fd6?source=rss----440100e76000---4"/>
+        <updated>2026-05-30T02:46:59.000Z</updated>
+        <author>
+            <name>Himanshu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I post-trained a 1B model with SFT + GRPO for $0 (Part 2 of 2)]]></title>
+        <id>https://medium.com/p/b283dff7d996</id>
+        <link href="https://generativeai.pub/how-i-post-trained-a-1b-model-with-sft-grpo-for-0-part-2-of-2-b283dff7d996?source=rss----440100e76000---4"/>
+        <updated>2026-05-30T02:46:41.000Z</updated>
+        <author>
+            <name>Himanshu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk Called Anthropic “Evil.” Anthropic Just Paid Him $15 Billion.]]></title>
+        <id>https://medium.com/p/8e4f0d5ba464</id>
+        <link href="https://generativeai.pub/elon-musk-called-anthropic-evil-anthropic-just-paid-him-15-billion-8e4f0d5ba464?source=rss----440100e76000---4"/>
+        <updated>2026-05-30T02:44:03.000Z</updated>
+        <summary type="html"><![CDATA[For anyone who uses Claude: what the SpaceX S-1 actually shows about who funds the AI safety mission.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Ahmed M. Abdelfattah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside GPU Execution and Memory]]></title>
+        <id>https://medium.com/p/d619d6a237ff</id>
+        <link href="https://generativeai.pub/inside-gpu-execution-and-memory-d619d6a237ff?source=rss----440100e76000---4"/>
+        <updated>2026-05-30T02:44:00.000Z</updated>
+        <author>
+            <name>Rutuja Pathade</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s Gemini co-leads explain what comes next]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/googles-gemini-co-leads-explain-what-comes-next/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/googles-gemini-co-leads-explain-what-comes-next/"/>
+        <updated>2026-05-30T02:00:05.193Z</updated>
+        <summary type="html"><![CDATA[Jeff Dean, Koray Kavukcuoglu, Noam Shazeer, and Oriol Vinyals gave the clearest version yet of Google’s Gemini strategy: one unified model, better coding and agents, world models, self-improvement, and a lot more work on memory, evaluation, and hardware.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything That Happened in AI This Weekend (May 29-31, 2026)]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-this-weekend-may-29-31-2026-/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-this-weekend-may-29-31-2026-/"/>
+        <updated>2026-05-30T01:57:00.045Z</updated>
+        <summary type="html"><![CDATA[OpenAI launched Rosalind Biodefense; Kog hit 3,000 output tokens/s on standard GPUs; Google pushed Gemini Spark; Microsoft worked on a Copilot super app; Nvidia bet on photonics; plus much more.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everyone Is Tokenmaxxing, and the AI Bill Is Coming Due]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/everyone-is-tokenmaxxing-and-the-ai-bill-is-coming-due/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/everyone-is-tokenmaxxing-and-the-ai-bill-is-coming-due/"/>
+        <updated>2026-05-30T01:36:40.798Z</updated>
+        <summary type="html"><![CDATA[Companies spent the last year telling employees to use AI more. Now Amazon, Uber, and the rest of corporate America are learning that token usage is a terrible proxy for actual work.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Baseline Enterprise RAG, From PDF to Highlighted Answer]]></title>
         <id>https://towardsdatascience.com/?p=609231</id>
@@ -5723,136 +5904,6 @@ The post Churn Without Fragmentation: How a Party-Label Bug Reversed My Headline
         <id>https://www.youtube.com/watch?v=HFmoNVx6vTA</id>
         <link href="https://www.youtube.com/watch?v=HFmoNVx6vTA"/>
         <updated>2026-05-01T14:00:34.000Z</updated>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ghost: A Database for Our Times?]]></title>
-        <id>https://towardsdatascience.com/?p=608989</id>
-        <link href="https://towardsdatascience.com/ghost-a-database-for-our-times/"/>
-        <updated>2026-05-01T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The first database built for AI Agents
-The post Ghost: A Database for Our Times? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Thomas Reid</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Powerful Machine Learning Is Deceptively Easy]]></title>
-        <id>https://towardsdatascience.com/?p=608987</id>
-        <link href="https://towardsdatascience.com/why-powerful-ml-is-deceptively-easy/"/>
-        <updated>2026-05-01T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Or why what appears powerful can be methodologically fragile
-The post Why Powerful Machine Learning Is Deceptively Easy appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Erika Gomes-Gonçalves</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Usability, accessibility, and the human-AI paradigm]]></title>
-        <id>https://medium.com/p/6ffda2806b56</id>
-        <link href="https://uxdesign.cc/usability-accessibility-and-the-human-ai-paradigm-6ffda2806b56?source=rss----138adf9c44c---4"/>
-        <updated>2026-05-01T11:19:38.000Z</updated>
-        <author>
-            <name>Zeeshan Khalid</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thoughtful AI Implementation for UXR Leaders]]></title>
-        <id>https://medium.com/p/d0e1b8a33613</id>
-        <link href="https://uxdesign.cc/ai-uxr-implementation-d0e1b8a33613?source=rss----138adf9c44c---4"/>
-        <updated>2026-05-01T11:19:22.000Z</updated>
-        <author>
-            <name>Ashlee Edwards, Ph.D.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🙀 The 4-tool agent quietly powering OpenClaw]]></title>
-        <id>https://www.theneuron.ai/newsletter/the-4-tool-agent-quietly-powering-openclaw/</id>
-        <link href="https://www.theneuron.ai/newsletter/the-4-tool-agent-quietly-powering-openclaw/"/>
-        <updated>2026-05-01T10:01:38.292Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Around the Horn Digest: Everything That Happened in AI Today (Thursday, April 30, 2026)]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-thursday-april-30-2026/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-thursday-april-30-2026/"/>
-        <updated>2026-05-01T05:15:56.382Z</updated>
-        <summary type="html"><![CDATA[Musk vs Altman's First Week in Court, OpenAI published a research paper about goblins, the NSA is testing Anthropic's Mythos on Microsoft software, Anthropic is reportedly raising at $900B, and OpenAI hit a 10-gigawatt capacity milestone years early.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A GenAI perplexed by color theory]]></title>
-        <id>https://medium.com/p/5416cbd3ef10</id>
-        <link href="https://uxdesign.cc/a-genai-perplexed-by-color-theory-5416cbd3ef10?source=rss----138adf9c44c---4"/>
-        <updated>2026-04-30T22:08:49.000Z</updated>
-        <summary type="html"><![CDATA[Using Perplexity to build an accessible perceptual uniform triad.
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Theresa-Marie Rhyne</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Most developers are using AI wrong… this is the better way.]]></title>
-        <id>https://www.youtube.com/shorts/KOHgqBfN-gA</id>
-        <link href="https://www.youtube.com/shorts/KOHgqBfN-gA"/>
-        <updated>2026-04-30T21:29:35.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT 5.5 Codex is the greatest AI coding tool ever. Here's how to use it]]></title>
-        <id>https://www.youtube.com/watch?v=iz3_xhi6iQE</id>
-        <link href="https://www.youtube.com/watch?v=iz3_xhi6iQE"/>
-        <updated>2026-04-30T17:54:13.000Z</updated>
-        <author>
-            <name>Alex Finn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Gentle Introduction to Stochastic Programming]]></title>
-        <id>https://towardsdatascience.com/?p=608985</id>
-        <link href="https://towardsdatascience.com/a-gentle-introduction-to-stochastic-programming/"/>
-        <updated>2026-04-30T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[How to make decisions when your spreadsheet is lying about the future
-The post A Gentle Introduction to Stochastic Programming appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Berend Markhorst</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proxy-Pointer RAG: Multimodal Answers Without Multimodal Embeddings]]></title>
-        <id>https://towardsdatascience.com/?p=608982</id>
-        <link href="https://towardsdatascience.com/proxy-pointer-rag-multimodal-answers-without-multimodal-embeddings/"/>
-        <updated>2026-04-30T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Structure is all you need
-The post Proxy-Pointer RAG: Multimodal Answers Without Multimodal Embeddings appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Partha Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pulse: token spend breaks budgets – what next?]]></title>
-        <id>69f36c81ac26b70001aa306d</id>
-        <link href="https://blog.pragmaticengineer.com/the-pulse-token-spend-breaks-budgets-what-next/"/>
-        <updated>2026-04-30T14:52:36.000Z</updated>
-        <summary type="html"><![CDATA[In the past 2-3 months, spending on AI agents has exploded at many tech companies, Details from 15 of them, including the different ways they are coping with this realization.]]></summary>
-        <author>
-            <name>Gergely Orosz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The State of Software Engineering in 2026]]></title>
-        <id>https://www.youtube.com/watch?v=WOPIoZuD1og</id>
-        <link href="https://www.youtube.com/watch?v=WOPIoZuD1og"/>
-        <updated>2026-04-30T14:08:21.000Z</updated>
         <author>
             <name>Tech With Tim</name>
         </author>
