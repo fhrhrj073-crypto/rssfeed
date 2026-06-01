@@ -454,26 +454,6 @@
           "wordCount": null,
           "title": "Claude Code + Nano Banana 2 = This Changes Everything",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/lZMXlUcTnNM",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/lZMXlUcTnNM",
-          "publishedOn": "2026-05-01T21:19:28.000Z",
-          "wordCount": 2192,
-          "title": "GPT 5.5 Just Dropped and It's a Different Kind of Upgrade",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=HFmoNVx6vTA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=HFmoNVx6vTA",
-          "publishedOn": "2026-05-01T14:00:34.000Z",
-          "wordCount": null,
-          "title": "I reviewed 20 AI engineering courses, here are my top 5",
-          "imageUrl": null
         }
       ]
     },
@@ -611,16 +591,6 @@
           "wordCount": null,
           "title": "LIVE: Is Hermes better than OpenClaw? FINALE!!!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UCPE3wPAcho",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UCPE3wPAcho",
-          "publishedOn": "2026-05-01T20:48:54.000Z",
-          "wordCount": null,
-          "title": "LIVE: OpenClaw vs Hermes Agent: The ultimate showdown",
-          "imageUrl": null
         }
       ]
     },
@@ -629,6 +599,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuwpzP90g1LuGk6JUNms_AQ",
       "siteUrl": "https://www.youtube.com/channel/UCuwpzP90g1LuGk6JUNms_AQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=1uP9Ckel8w4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1uP9Ckel8w4",
+          "publishedOn": "2026-05-31T11:00:06.000Z",
+          "wordCount": null,
+          "title": "Saily eSim Review & Tutorial - Best eSim in 2026",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=VMvZuhcDdnw",
           "author": null,
@@ -1015,26 +995,6 @@
           "wordCount": 2120,
           "title": "What is an AI Agent?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=pngC-TH8M0U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=pngC-TH8M0U",
-          "publishedOn": "2026-05-01T20:13:03.000Z",
-          "wordCount": null,
-          "title": "Reacting to \"Why AI is so smart but also so dumb?\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IX9Qd8xb8xY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IX9Qd8xb8xY",
-          "publishedOn": "2026-05-01T19:46:18.000Z",
-          "wordCount": null,
-          "title": "Baiting AI [LIVE]",
-          "imageUrl": null
         }
       ]
     },
@@ -1043,6 +1003,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcQA-MzQxCvET1S-BekQdAA",
       "siteUrl": "https://www.youtube.com/channel/UCcQA-MzQxCvET1S-BekQdAA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=kflwnXRAx_0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kflwnXRAx_0",
+          "publishedOn": "2026-05-31T05:48:08.000Z",
+          "wordCount": null,
+          "title": "家用 NAS 不只備份還能養龍蝦？QNAP TS-464 完整開箱與使用心得",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=4lbZRzdPOgY",
           "author": null,
@@ -1450,6 +1420,22 @@
       "feedUrl": "https://www.lennysnewsletter.com/feed",
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
+        {
+          "id": "https://www.lennysnewsletter.com/p/a-rational-conversation-on-where",
+          "author": "Lenny Rachitsky",
+          "description": "Benedict Evans on why AI is a 1997 internet moment, what everyone gets wrong about job loss, and where the real value may accrue",
+          "link": "https://www.lennysnewsletter.com/p/a-rational-conversation-on-where",
+          "publishedOn": "2026-05-31T12:31:43.000Z",
+          "wordCount": null,
+          "title": "A rational conversation on where AI is actually going | Benedict Evans",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/198591907/72f36bfdec88e660720309a3d730fec7.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://www.lennysnewsletter.com/p/community-wisdom-catching-people",
           "author": "Kiyani",
@@ -1874,6 +1860,22 @@
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
         {
+          "id": "https://www.thevccorner.com/p/claude-mythos-altman-on-chatgpts",
+          "author": "Ruben Dominguez",
+          "description": "Another week, another pulse check on Tech.",
+          "link": "https://www.thevccorner.com/p/claude-mythos-altman-on-chatgpts",
+          "publishedOn": "2026-05-31T21:09:48.000Z",
+          "wordCount": null,
+          "title": "Claude Mythos⚠️, Altman on ChatGPT’s Psychology🧠, The Karpathy Loop🔁",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!pahv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03e9254e-e4c9-4b09-aef4-e4fa5cecd30a_848x716.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!pahv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03e9254e-e4c9-4b09-aef4-e4fa5cecd30a_848x716.webp"
+        },
+        {
           "id": "https://www.thevccorner.com/p/high-agency-success-guide",
           "author": "Ruben Dominguez",
           "description": "High agency is the only way to move from being a passenger to the one who drives the outcome.",
@@ -2256,22 +2258,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!YSdj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b20a543-a69c-49f1-a9da-4b0db9abed30_579x388.webp"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/sam-altmans-10-rules-for-the-ai-era",
-          "author": "Ruben Dominguez",
-          "description": "OpenAI is signing 20-year infrastructure contracts while most founders are still debating whether to use AI at all.",
-          "link": "https://www.thevccorner.com/p/sam-altmans-10-rules-for-the-ai-era",
-          "publishedOn": "2026-05-01T19:38:46.000Z",
-          "wordCount": null,
-          "title": "Sam Altman's 10 Rules for the AI Era",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/1ySBxK7viNs",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/1ySBxK7viNs"
         }
       ]
     },
@@ -2280,6 +2266,16 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/newsletter/grok-killed-a-whole-town-in-4-days/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/grok-killed-a-whole-town-in-4-days/",
+          "publishedOn": "2026-05-31T17:30:40.537Z",
+          "wordCount": null,
+          "title": "😹 Grok killed a whole town in 4 days",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/explainer-articles/googles-gemini-co-leads-explain-what-comes-next/",
           "author": null,
@@ -2977,6 +2973,36 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=609234",
+          "author": "Subha Ganapathi",
+          "description": "How Knives Out teaches Bayesian thinking (without you realizing it) \nThe post Solving a Murder Mystery Using Bayesian Inference appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/solving-a-murder-mystery-using-bayesian-inference/",
+          "publishedOn": "2026-05-31T17:00:00.000Z",
+          "wordCount": 5102,
+          "title": "Solving a Murder Mystery Using Bayesian Inference",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/jorge-rosales-rMmjBiJx1oc-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609243",
+          "author": "angela shi",
+          "description": "Enterprise Document Intelligence [Vol. 1 #2bis] Why stacking a reranker on top of weak retrieval doesn’t save it, what cross-encoders actually fix vs what they don’t, and where the editorial position of the series lands.\nThe post Rerankers Aren’t Magic Either: When the Cross-Encoder Layer Is Worth the Cost appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/rerankers-arent-magic-either-when-the-cross-encoder-layer-is-worth-the-cost-enterprise-document-intelligence-vol-1-2bis/",
+          "publishedOn": "2026-05-31T15:00:00.000Z",
+          "wordCount": 6962,
+          "title": "Rerankers Aren’t Magic Either: When the Cross-Encoder Layer Is Worth the Cost",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/rushikesh-gaikwad-gKpX3rxe6Ow-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609214",
+          "author": "Partha Sarkar",
+          "description": "Structure-guided NER optimization for enterprise GraphRAG systems\nThe post Proxy-Pointer RAG: Eliminating Wasteful Entity & Relations Extraction in Knowledge Graphs appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/proxy-pointer-rag-eliminating-wasteful-entity-relations-extraction-in-knowledge-graphs/",
+          "publishedOn": "2026-05-31T13:00:00.000Z",
+          "wordCount": 6630,
+          "title": "Proxy-Pointer RAG: Eliminating Wasteful Entity & Relations Extraction in Knowledge Graphs",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Gemini_Generated_Image_8yk6b98yk6b98yk6-scaled-1.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=609229",
           "author": "Rashi Desai",
@@ -3996,36 +4022,6 @@
           "wordCount": 5714,
           "title": "Which Regularizer Should You Actually Use? Lessons from 134,400 Simulations",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/tds_featured_image-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608996",
-          "author": "Amit Portnoy",
-          "description": "One scale parameter determines accuracy in rotation-based vector quantization.\nThe post How a 2021 Quantization Algorithm Quietly Outperforms Its 2026 Successor appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-a-2021-quantization-algorithm-quietly-outperforms-its-2026-successor/",
-          "publishedOn": "2026-05-02T13:00:00.000Z",
-          "wordCount": 4539,
-          "title": "How a 2021 Quantization Algorithm Quietly Outperforms Its 2026 Successor",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/feature.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608994",
-          "author": "Ivo Bernardo",
-          "description": "What people actually look for when hiring juniors that stand out.\nThe post How to Get Hired in the AI Era appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-get-hired-in-the-ai-era/",
-          "publishedOn": "2026-05-01T16:30:00.000Z",
-          "wordCount": 4470,
-          "title": "How to Get Hired in the AI Era",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/photo-1536303100418-985cb308bb38.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=608992",
-          "author": "Obinna Iheanachor",
-          "description": "A data quality case study from English local elections on categorical normalisation, metric validation, and why raw labels should never define analytical groups.\nThe post Churn Without Fragmentation: How a Party-Label Bug Reversed My Headline Finding appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/fractured-local-britain-voter-volatility-in-english-councils-2018-2022/",
-          "publishedOn": "2026-05-01T15:00:00.000Z",
-          "wordCount": 5277,
-          "title": "Churn Without Fragmentation: How a Party-Label Bug Reversed My Headline Finding",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Screenshot-2026-04-30-at-23.49.12.png"
         }
       ]
     },
@@ -4040,6 +4036,36 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/5d6c0f2df3b5",
+          "author": "Luis Berumen Castro",
+          "description": "The rising cost of computing is prompting a reevaluation of designers' expectations.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/ai-token-scarcity-and-arcade-economics-5d6c0f2df3b5?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-05-31T12:22:00.000Z",
+          "wordCount": null,
+          "title": "AI Token Scarcity and Arcade Economics",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c9e40cca3d75",
+          "author": "Dora Czerna",
+          "description": "",
+          "link": "https://uxdesign.cc/who-is-your-content-actually-for-c9e40cca3d75?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-05-31T12:22:00.000Z",
+          "wordCount": null,
+          "title": "Who is your content actually for?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/598bff827a68",
+          "author": "Rita Kind-Envy",
+          "description": "So late to the party, so slimy, so angry.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/youtube-is-gonna-auto-tag-ai-and-it-makes-me-angry-598bff827a68?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-05-31T12:21:58.000Z",
+          "wordCount": null,
+          "title": "YouTube is gonna auto-tag AI, and it makes me angry",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/310f88fd76cb",
           "author": "Rita Kind-Envy",
@@ -4698,16 +4724,6 @@
           "publishedOn": "2026-05-03T10:53:24.000Z",
           "wordCount": null,
           "title": "The basketball playbook for AI builder teams",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/aae6e3d26be2",
-          "author": "Catherine Chu",
-          "description": "",
-          "link": "https://uxdesign.cc/can-ai-make-your-dating-life-better-aae6e3d26be2?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-05-02T13:56:18.000Z",
-          "wordCount": null,
-          "title": "Can AI make your dating life better?",
           "imageUrl": null
         }
       ]
@@ -6318,46 +6334,6 @@
           "publishedOn": "2026-05-04T08:58:37.000Z",
           "wordCount": null,
           "title": "5 Ways Brands Can Use GPT Image 2.0 to Boost Campaign ROI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9959107f8e08",
-          "author": "Abduldattijo",
-          "description": "The neuroscience of cognitive offloading explains what’s actually changing when AI becomes your daily thinking partner. Not all of it is…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/scientists-now-say-talking-to-ai-daily-rewires-how-you-think-heres-the-proof-9959107f8e08?source=rss----440100e76000---4",
-          "publishedOn": "2026-05-02T13:28:07.000Z",
-          "wordCount": null,
-          "title": "Scientists Now Say Talking to AI Daily Rewires How You Think. Here’s the Proof.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/3b3b1c02a9ab",
-          "author": "Vivek Naskar",
-          "description": "There is no feasible plan, no funding mechanism, and economists say it would bankrupt any government that tries it.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/elon-musks-plan-to-combat-unemployment-due-to-ai-is-universal-basic-income-3b3b1c02a9ab?source=rss----440100e76000---4",
-          "publishedOn": "2026-05-02T07:36:36.000Z",
-          "wordCount": null,
-          "title": "Elon Musk’s Plan To Combat Unemployment Due To AI Is Universal Basic Income",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f39d588dca49",
-          "author": "Rene Baumann",
-          "description": "",
-          "link": "https://generativeai.pub/learning-from-25-years-of-data-why-prediction-is-a-process-not-a-single-answer-f39d588dca49?source=rss----440100e76000---4",
-          "publishedOn": "2026-05-02T07:35:39.000Z",
-          "wordCount": null,
-          "title": "Learning From 25 Years of Data: Why Prediction Is a Process, Not a Single Answer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/dafb97612bd3",
-          "author": "Jim the AI Whisperer",
-          "description": "AI isn’t solving the healthcare crisis. The health force is working for AI.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/clinical-ai-privacy-reidentification-patient-data-risk-dafb97612bd3?source=rss----440100e76000---4",
-          "publishedOn": "2026-05-02T07:34:10.000Z",
-          "wordCount": null,
-          "title": "How medical consultations may be generating data for AI",
           "imageUrl": null
         }
       ]
