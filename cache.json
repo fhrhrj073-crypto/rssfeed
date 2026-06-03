@@ -1865,22 +1865,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/27c437f2-554e-417a-bf8e-b3387d17f189_1456x1048.png"
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/the-internal-ai-tool-thats-transforming",
-          "author": "Claire Vo",
-          "description": "Watch now | 🎙️ Owen Williams (Stripe) shows how he vibe coded Protodash, the internal tool that turns Stripe’s design system into clickable prototypes in two minutes",
-          "link": "https://www.lennysnewsletter.com/p/the-internal-ai-tool-thats-transforming",
-          "publishedOn": "2026-05-04T12:03:59.000Z",
-          "wordCount": null,
-          "title": "The internal AI tool that’s transforming how Stripe designs products | Owen Williams",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/195792974/59dc67ebe27089846fb55b59caccd96b.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -1889,6 +1873,22 @@
       "feedUrl": "https://www.thevccorner.com/feed",
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
+        {
+          "id": "https://www.thevccorner.com/p/saas-metrics-dashboard-for-founders",
+          "author": "Ruben Dominguez",
+          "description": "A practical, founder-friendly breakdown of the metrics that matter, and the model that ties them together.",
+          "link": "https://www.thevccorner.com/p/saas-metrics-dashboard-for-founders",
+          "publishedOn": "2026-06-02T18:37:59.000Z",
+          "wordCount": null,
+          "title": "The SaaS Metrics Dashboard Every Top Company Uses (Excel Sheet Included)",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!hYXP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F13b5401d-d854-4c90-81d5-988c6bcc8843_1402x774.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!hYXP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F13b5401d-d854-4c90-81d5-988c6bcc8843_1402x774.png"
+        },
         {
           "id": "https://www.thevccorner.com/p/claude-mythos-altman-on-chatgpts",
           "author": "Ruben Dominguez",
@@ -2272,22 +2272,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!OYcA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9456409d-f6d7-473c-b454-3662841c0bca_1536x1024.png"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/startup-growth-guide-yc-rfs-the-year",
-          "author": "Ruben Dominguez",
-          "description": "Another week, another pulse check on Tech.",
-          "link": "https://www.thevccorner.com/p/startup-growth-guide-yc-rfs-the-year",
-          "publishedOn": "2026-05-03T19:25:49.000Z",
-          "wordCount": null,
-          "title": "Startup Growth Guide🔁, YC RFS💡, The Year of Churn💀",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!YSdj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b20a543-a69c-49f1-a9da-4b0db9abed30_579x388.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!YSdj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b20a543-a69c-49f1-a9da-4b0db9abed30_579x388.webp"
         }
       ]
     },
@@ -2296,6 +2280,46 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/claude-code-dynamic-workflows-explained-claude-can-now-build-its-own-workflow-around-a-task/",
+          "author": null,
+          "description": "Anthropic’s new dynamic workflows let Claude Code spin up specialist agents, assign them focused jobs, verify their work, and manage messy tasks without relying on one long, fragile chat.",
+          "link": "https://www.theneuron.ai/explainer-articles/claude-code-dynamic-workflows-explained-claude-can-now-build-its-own-workflow-around-a-task/",
+          "publishedOn": "2026-06-03T00:12:42.584Z",
+          "wordCount": null,
+          "title": "Claude Code Dynamic Workflows Explained: Claude Can Now Build Its Own Workflow Around a Task",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/everything-microsoft-announced-at-microsoft-build-2026-explained/",
+          "author": null,
+          "description": "Microsoft used Build 2026 to show how agents move from chat windows into PCs, Windows, GitHub, Azure, enterprise data, and new hardware. In other words: Microsoft is giving agents a whole computer to live in.",
+          "link": "https://www.theneuron.ai/explainer-articles/everything-microsoft-announced-at-microsoft-build-2026-explained/",
+          "publishedOn": "2026-06-02T20:24:38.942Z",
+          "wordCount": null,
+          "title": "Here is Everything Microsoft announced at Microsoft Build 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/newsletter/nvidia-agents-in-your-laptop/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/nvidia-agents-in-your-laptop/",
+          "publishedOn": "2026-06-02T10:02:33.918Z",
+          "wordCount": null,
+          "title": "😺 NVIDIA agents in your laptop?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/the-personal-ai-computer-will-move-agents-from-cloud-tolls-to-local-control/",
+          "author": null,
+          "description": "NVIDIA and Microsoft’s RTX Spark points to a future where everyday agents run locally, cloud models handle premium intelligence, and workers use agents to sell their own services.",
+          "link": "https://www.theneuron.ai/explainer-articles/the-personal-ai-computer-will-move-agents-from-cloud-tolls-to-local-control/",
+          "publishedOn": "2026-06-02T02:15:31.514Z",
+          "wordCount": null,
+          "title": "The Personal AI Computer Will Move Agents From Cloud Tolls to Local Control",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-monday-june-1-2026/",
           "author": null,
@@ -2985,36 +3009,6 @@
           "wordCount": null,
           "title": "😺 What gets scarce when AI does everything?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/a-patch-wave-is-coming-for-your-software/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/a-patch-wave-is-coming-for-your-software/",
-          "publishedOn": "2026-05-04T10:30:41.572Z",
-          "wordCount": null,
-          "title": "😸 A patch wave is coming for your software",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/what-gets-scarce-when-ai-does-everything/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/what-gets-scarce-when-ai-does-everything/",
-          "publishedOn": "2026-05-03T17:31:09.338Z",
-          "wordCount": null,
-          "title": "😺 What gets scarce when AI does everything?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/when-ai-takes-over-the-economy-who-owns-the-human-element/",
-          "author": null,
-          "description": "Alex Imas thinks the AI economy will look like the Industrial Revolution in reverse. The history says he's probably right. The harder question is who keeps the money.",
-          "link": "https://www.theneuron.ai/explainer-articles/when-ai-takes-over-the-economy-who-owns-the-human-element/",
-          "publishedOn": "2026-05-03T16:38:47.211Z",
-          "wordCount": null,
-          "title": "When AI Takes Over the Economy, Who Owns the Human Element?",
-          "imageUrl": null
         }
       ]
     },
@@ -3023,6 +3017,46 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=609257",
+          "author": "Clara Chong",
+          "description": "The barriers to building have collapsed. That shifts the bottleneck to ownership, validation, taste, and deciding what should actually exist\nThe post Code Is Cheap. Engineering Judgement Is Now the Scarce Resource appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/code-is-cheap-engineering-judgement-is-now-the-scarce-resource/",
+          "publishedOn": "2026-06-02T16:30:00.000Z",
+          "wordCount": 4302,
+          "title": "Code Is Cheap. Engineering Judgement Is Now the Scarce Resource",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/AIEconference160526_1155_DB6_0727.jpeg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609255",
+          "author": "Thomas Reid",
+          "description": "Three free ways to quickly deploy a static web app that anyone can access\nThe post From Local App to Public Website in Minutes appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/from-local-app-to-public-website-in-minutes/",
+          "publishedOn": "2026-06-02T15:00:00.000Z",
+          "wordCount": 5296,
+          "title": "From Local App to Public Website in Minutes",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/starline-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609253",
+          "author": "angela shi",
+          "description": "Enterprise Document Intelligence [Vol.1 #4] - A diagnostic across PDFs and questions, and a map of the techniques the rest of the series will cover\nThe post From Regex to Vision Models: Which RAG Technique Fits Which Problem appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/from-regex-to-vision-models-which-rag-technique-fits-which-problem/",
+          "publishedOn": "2026-06-02T13:30:00.000Z",
+          "wordCount": 7537,
+          "title": "From Regex to Vision Models: Which RAG Technique Fits Which Problem",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/tools_JQZyN8WJPh0_v3_card.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609251",
+          "author": "Mahnoor Javed",
+          "description": "Exploratory data analysis on the US Census Dataset \nThe post Exploring Income Patterns with Python Pandas, Matplotlib, and Seaborn appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/from-raw-census-data-to-powerful-insights-exploring-income-patterns-with-pandas-matplotlib-seaborn/",
+          "publishedOn": "2026-06-02T12:00:00.000Z",
+          "wordCount": 5611,
+          "title": "Exploring Income Patterns with Python Pandas, Matplotlib, and Seaborn",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/engin-akyurt-n3h7BlAyHXc-unsplash-1.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=609249",
           "author": "angela shi",
@@ -4072,36 +4106,6 @@
           "wordCount": 6243,
           "title": "How to Build an Efficient Knowledge Base for AI Models",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Knowledge-base-AI-models.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609009",
-          "author": "Oliver S",
-          "description": "Solving multiplayer games with function approximation\nThe post Playing Connect Four with Deep Q-Learning appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/playing-connect-four-with-deep-q-learning/",
-          "publishedOn": "2026-05-04T13:30:00.000Z",
-          "wordCount": 4723,
-          "title": "Playing Connect Four with Deep Q-Learning",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/image-281.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609007",
-          "author": "Illia Smoliienko",
-          "description": "AI tools speed up IoT development — but closer to the hardware, the same code that looks correct can silently break thousands of devices at once.\nThe post How AI Tools Generate Technical Debt in IoT Systems — and What to Do About It appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-ai-tools-generate-technical-debt-in-iot-systems-and-what-to-do-about-it/",
-          "publishedOn": "2026-05-04T12:00:00.000Z",
-          "wordCount": 4595,
-          "title": "How AI Tools Generate Technical Debt in IoT Systems — and What to Do About It",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/222-1.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609005",
-          "author": "Muhammad Ardi",
-          "description": "A review of the Cross-Stage Partial Network paper  —  and a from-scratch PyTorch implementation\nThe post CSPNet Paper Walkthrough: Just Better, No Tradeoffs appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/cspnet-paper-walkthrough-just-better-no-tradeoff/",
-          "publishedOn": "2026-05-03T15:00:00.000Z",
-          "wordCount": 8313,
-          "title": "CSPNet Paper Walkthrough: Just Better, No Tradeoffs",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/0_bDlIU5aTyIODYvdP.jpg"
         }
       ]
     },
@@ -4116,6 +4120,36 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/1fcd4a565669",
+          "author": "Heenesh Patel",
+          "description": "",
+          "link": "https://uxdesign.cc/ai-created-document-fatigue-how-i-designed-my-way-out-of-it-1fcd4a565669?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-02T21:53:50.000Z",
+          "wordCount": null,
+          "title": "AI-created document fatigue: how I designed my way out of it",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/be91aeac65d9",
+          "author": "Kai Wong",
+          "description": "What having taste trapped in your head costs you and your team\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/the-most-important-part-of-building-your-taste-is-to-hand-it-off-be91aeac65d9?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-02T11:08:16.000Z",
+          "wordCount": null,
+          "title": "The most important part of building your taste is to hand it off",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d2acde25551b",
+          "author": "Bora",
+          "description": "",
+          "link": "https://uxdesign.cc/default-bias-who-chose-your-settings-d2acde25551b?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-02T11:07:25.000Z",
+          "wordCount": null,
+          "title": "Default Bias: Who chose your settings?",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/21d17488fc48",
           "author": "Chris R Becker",
@@ -4835,16 +4869,6 @@
           "wordCount": null,
           "title": "When AI decides and human signs off",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/3c94aef9268e",
-          "author": "Fabricio Teixeira",
-          "description": "",
-          "link": "https://uxdesign.cc/collected-consciousness-exhausting-moment-ux-research-with-ai-3c94aef9268e?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-05-04T08:34:23.000Z",
-          "wordCount": null,
-          "title": "Collected consciousness, exhausting moment, UX Research with AI",
-          "imageUrl": null
         }
       ]
     },
@@ -4916,6 +4940,106 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/8f5d3ab0ff4b",
+          "author": "AI Unfiltered",
+          "description": "300% traffic spike. 70% iOS install surge on a single day. One week after Google I/O 2026.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/google-killed-the-blue-links-duckduckgos-no-ai-page-tripled-in-traffic-8f5d3ab0ff4b?source=rss----440100e76000---4",
+          "publishedOn": "2026-06-02T14:23:27.000Z",
+          "wordCount": null,
+          "title": "Google Killed the Blue Links. DuckDuckGo’s No-AI Page Tripled in Traffic.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7b4faf1cdf22",
+          "author": "Man Of Truth",
+          "description": "",
+          "link": "https://generativeai.pub/building-a-no-code-itsm-platform-for-smbs-operational-visibility-without-the-heavyweight-overhead-7b4faf1cdf22?source=rss----440100e76000---4",
+          "publishedOn": "2026-06-02T14:21:36.000Z",
+          "wordCount": null,
+          "title": "Building a No-Code ITSM Platform for SMBs: Operational Visibility Without the Heavyweight Overhead",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/686aee87240a",
+          "author": "E01 Research",
+          "description": "",
+          "link": "https://generativeai.pub/beyond-speed-the-new-ground-flash-models-unlock-686aee87240a?source=rss----440100e76000---4",
+          "publishedOn": "2026-06-02T14:18:47.000Z",
+          "wordCount": null,
+          "title": "Beyond Speed: The New Ground Flash Models Unlock",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9225b309126d",
+          "author": "The Smarter Way",
+          "description": "",
+          "link": "https://generativeai.pub/claude-opus-4-8-just-helped-one-engineer-move-750-000-lines-of-code-in-11-days-9225b309126d?source=rss----440100e76000---4",
+          "publishedOn": "2026-06-02T14:17:15.000Z",
+          "wordCount": null,
+          "title": "Claude Opus 4.8 Just Helped One Engineer Move 750,000 Lines of Code in 11 Days",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c793a8ab49ba",
+          "author": "JR DeLaney | AI Enthusiast | Podcaster | Novelist",
+          "description": "",
+          "link": "https://generativeai.pub/june-2026-series-overview-from-classroom-to-career-why-the-ai-workforce-revolution-matters-for-c793a8ab49ba?source=rss----440100e76000---4",
+          "publishedOn": "2026-06-02T14:17:13.000Z",
+          "wordCount": null,
+          "title": "June 2026 Series Overview: From Classroom to Career: Why the AI Workforce Revolution Matters for…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ac08b2586efa",
+          "author": "MohamedAbdelmenem",
+          "description": "The mainstream press thinks it’s a magic robot brain. The practitioner community knows it’s actually a synthetic data engine. Here is the…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/nvidias-cosmos-3-physical-ai-model-is-real-the-robot-brain-narrative-is-wrong-ac08b2586efa?source=rss----440100e76000---4",
+          "publishedOn": "2026-06-02T14:15:32.000Z",
+          "wordCount": null,
+          "title": "NVIDIA’s Cosmos 3 Physical AI Model Is Real. The “Robot Brain” Narrative Is Wrong.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d5b0789f8d21",
+          "author": "Jim Clyde Monge",
+          "description": "",
+          "link": "https://generativeai.pub/higgsfield-canvas-vs-topview-canvas-which-one-is-better-d5b0789f8d21?source=rss----440100e76000---4",
+          "publishedOn": "2026-06-02T14:06:36.000Z",
+          "wordCount": null,
+          "title": "Higgsfield Canvas vs Topview Canvas: Which One is Better?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c91c8243c3c6",
+          "author": "Ahmed M. Abdelfattah",
+          "description": "For every Gmail user: what Google’s four-sentence privacy promise actually says, and what opting out can’t undo.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/google-just-gave-itself-permission-to-learn-from-your-doctors-emails-c91c8243c3c6?source=rss----440100e76000---4",
+          "publishedOn": "2026-06-02T08:27:51.000Z",
+          "wordCount": null,
+          "title": "Google Just Gave Itself Permission to Learn From Your Doctor’s Emails",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/387d04c2aa40",
+          "author": "Ruqaiya Beguwala",
+          "description": "There’s a Claude Code skill that runs your decisions through 5 AI advisors, has them peer-review each other anonymously, and hands you a…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/i-got-tired-of-claude-agreeing-with-me-so-i-made-it-argue-with-itself-387d04c2aa40?source=rss----440100e76000---4",
+          "publishedOn": "2026-06-02T08:27:37.000Z",
+          "wordCount": null,
+          "title": "I Got Tired of Claude Agreeing With Me. So I Made It Argue With Itself.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/dda27f703e3c",
+          "author": "AI Unfiltered",
+          "description": "No server breach. No malware. Just a polite message and a VPN.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/metas-ai-gave-away-instagram-accounts-all-you-needed-was-a-username-dda27f703e3c?source=rss----440100e76000---4",
+          "publishedOn": "2026-06-02T08:27:32.000Z",
+          "wordCount": null,
+          "title": "Meta’s AI Gave Away Instagram Accounts. All You Needed Was a Username.",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/5e15adb1406d",
           "author": "hejrene | Rene",
@@ -6494,16 +6618,6 @@
           "publishedOn": "2026-05-05T05:48:42.000Z",
           "wordCount": null,
           "title": "AI Evangelists, Stop Calling Writing Teachers Luddites",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d000d10e8a2b",
-          "author": "Jim Clyde Monge",
-          "description": "",
-          "link": "https://generativeai.pub/5-ways-brands-can-use-gpt-image-2-0-to-boost-campaign-roi-d000d10e8a2b?source=rss----440100e76000---4",
-          "publishedOn": "2026-05-04T08:58:37.000Z",
-          "wordCount": null,
-          "title": "5 Ways Brands Can Use GPT Image 2.0 to Boost Campaign ROI",
           "imageUrl": null
         }
       ]
