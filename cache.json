@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=nu5TH_lyjqg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=nu5TH_lyjqg",
+          "publishedOn": "2026-06-07T14:30:01.000Z",
+          "wordCount": null,
+          "title": "I Went to the Biggest AI Infrastructure Conference",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/aOdhdR8ewc8",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/aOdhdR8ewc8",
+          "publishedOn": "2026-06-07T12:00:00.000Z",
+          "wordCount": 2205,
+          "title": "The Fastest Way to Get Good at Coding",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/jkgIDkCwQIE",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
@@ -443,26 +463,6 @@
           "publishedOn": "2026-05-09T16:00:42.000Z",
           "wordCount": null,
           "title": "One AI Agent Isn't Enough Anymore",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/9LtPRMsnJ2w",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/9LtPRMsnJ2w",
-          "publishedOn": "2026-05-08T17:56:24.000Z",
-          "wordCount": 2104,
-          "title": "Skipping this step is why your AI app turns into a mess 💀",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=t2G0L0cqktw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=t2G0L0cqktw",
-          "publishedOn": "2026-05-08T16:25:45.000Z",
-          "wordCount": null,
-          "title": "Codex is INSANE - Everything New in 10 Minutes",
           "imageUrl": null
         }
       ]
@@ -1132,16 +1132,6 @@
           "wordCount": 2133,
           "title": "Hermes 新增 Computer Use 功能，可以操控 Mac 電腦，這影片是Codex 自動辨識字幕、上特效自己剪輯的",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IbpuIPJbm9A",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IbpuIPJbm9A",
-          "publishedOn": "2026-05-09T02:05:03.000Z",
-          "wordCount": null,
-          "title": "一定學的會的 Seedance 2.0 教學：製作平台推薦、破解 AI 人臉封鎖、超簡易影片腳本創作全攻略",
-          "imageUrl": null
         }
       ]
     },
@@ -1436,6 +1426,22 @@
       "feedUrl": "https://www.lennysnewsletter.com/feed",
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
+        {
+          "id": "https://www.lennysnewsletter.com/p/father-of-the-ipod-and-iphone-on",
+          "author": "Lenny Rachitsky",
+          "description": "Listen now | The creator of iPod, iPhone, and Nest on opinion vs. data decisions, why marketing matters, the \"three generations\" rule behind everything he's shipped, and why AI will still need screens",
+          "link": "https://www.lennysnewsletter.com/p/father-of-the-ipod-and-iphone-on",
+          "publishedOn": "2026-06-07T12:31:29.000Z",
+          "wordCount": null,
+          "title": "Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony Fadell",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/198591956/215956b14c5f0b86f14f10e79b7cbc6f.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://www.lennysnewsletter.com/p/community-wisdom-bootstrapping-vs",
           "author": "Kiyani",
@@ -1828,6 +1834,22 @@
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
         {
+          "id": "https://www.thevccorner.com/p/startups-are-skipping-the-old-playbook",
+          "author": "Ruben Dominguez",
+          "description": "Another week, another pulse check on Tech.",
+          "link": "https://www.thevccorner.com/p/startups-are-skipping-the-old-playbook",
+          "publishedOn": "2026-06-07T16:26:20.000Z",
+          "wordCount": null,
+          "title": "Startups Are Skipping the Old Playbook🎯, How VC Became a Fee Business💰, Software Factory Ladder Explained 🏭",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!t-xl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99c9f22b-dfdf-486c-9b4d-7aaaf3941327_680x351.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!t-xl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99c9f22b-dfdf-486c-9b4d-7aaaf3941327_680x351.jpeg"
+        },
+        {
           "id": "https://www.thevccorner.com/p/high-resolution-board-founder-guide",
           "author": "Ruben Dominguez",
           "description": "The definitive guide to engineering a board that actually helps you scale.",
@@ -2202,6 +2224,16 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/newsletter/chatgpt-admitted-its-memory-was-broken/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/chatgpt-admitted-its-memory-was-broken/",
+          "publishedOn": "2026-06-07T17:45:13.244Z",
+          "wordCount": null,
+          "title": "😺 ChatGPT admitted its memory was broken",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/explainer-articles/midweek-round-up-everything-that-happned-in-ai-wednesday-thurday-june-3-4-2026/",
           "author": null,
@@ -2891,16 +2923,6 @@
           "wordCount": null,
           "title": "Souveräne KI erklärt: was Unternehmen wissen müssen",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/microsofts-2026-work-trend-index-your-employees-figured-out-ai-your-company-didnt/",
-          "author": null,
-          "description": "Microsoft surveyed 20,000 AI users and analyzed trillions of Microsoft 365 signals for its 2026 Work Trend Index. The headline isn't that AI works; it's that most organizations aren't built to capture what their workers can already do.",
-          "link": "https://www.theneuron.ai/explainer-articles/microsofts-2026-work-trend-index-your-employees-figured-out-ai-your-company-didnt/",
-          "publishedOn": "2026-05-08T22:49:48.654Z",
-          "wordCount": null,
-          "title": "Microsoft's 2026 Work Trend Index: Your employees figured out AI. Your company didn't.",
-          "imageUrl": null
         }
       ]
     },
@@ -2909,6 +2931,26 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=609296",
+          "author": "Nathan Bos",
+          "description": "Because the alternative is much too dangerous\nThe post We Should Train AI to Betray Its Users appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/we-should-train-ai-to-betray-its-users/",
+          "publishedOn": "2026-06-07T15:00:00.000Z",
+          "wordCount": 6140,
+          "title": "We Should Train AI to Betray Its Users",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/anthill.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609294",
+          "author": "Mahnoor Javed",
+          "description": "An introduction to multi-agent systems\nThe post Building a Multi-Agent System in Python appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/building-a-multi-agent-system-in-python/",
+          "publishedOn": "2026-06-07T13:00:00.000Z",
+          "wordCount": 5806,
+          "title": "Building a Multi-Agent System in Python",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/mohamed-nohassi-2iUrK025cec-unsplash-scaled-1.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=609310",
           "author": "Alejandro Alvarez Perez",
@@ -3958,36 +4000,6 @@
           "wordCount": 8904,
           "title": "The Must-Know Topics for an LLM Engineer",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Gemini_Generated_Image_uoh7tkuoh7tkuoh7-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609059",
-          "author": "Emmimal P Alexander",
-          "description": "Three weeks into testing, a learner told me my AI tutor gave her the wrong answer.\nNot obviously wrong — just outdated enough to mislead.\nThat was the moment I realized something most RAG systems quietly ignore: they have no sense of time. My system retrieved the most similar document, not the most current one. And in a knowledge base that changes constantly, that’s a serious flaw.\nThe fix wasn’t in the retriever or the model. It was in the gap between them.\nI built a temporal layer that filters expired facts, boosts time-sensitive signals, and makes the system prefer what’s still true — not just what matches.\nThe post RAG Is Blind to Time — I Built a Temporal Layer to Fix It in Production appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/rag-is-blind-to-time-i-built-a-temporal-layer-to-fix-it-in-production/",
-          "publishedOn": "2026-05-09T13:00:00.000Z",
-          "wordCount": 8050,
-          "title": "RAG Is Blind to Time — I Built a Temporal Layer to Fix It in Production",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/RAG-Temporal-Layer.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609053",
-          "author": "Sara A. Metwalli",
-          "description": "The end of model-centric thinking in data science\nThe post From Data Scientist to AI Architect appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/from-data-scientist-to-ai-architect/",
-          "publishedOn": "2026-05-08T18:00:00.000Z",
-          "wordCount": 4237,
-          "title": "From Data Scientist to AI Architect",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/pexels-googledeepmind-18069694-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609051",
-          "author": "Mostafa Ibrahim",
-          "description": "Standard prompt attacks are merely the beginning. A structured framework to map and mitigate the backend attack vectors of agentic workflows. \nThe post The AI Agent Security Surface: What Gets Exposed When You Add Tools and Memory appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-ai-agent-security-surface-what-gets-exposed-when-you-add-tools-and-memory/",
-          "publishedOn": "2026-05-08T17:06:16.000Z",
-          "wordCount": 5005,
-          "title": "The AI Agent Security Surface: What Gets Exposed When You Add Tools and Memory",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/image-2.jpeg"
         }
       ]
     },
@@ -4002,6 +4014,16 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/ce65f088b75a",
+          "author": "Adrian Levy",
+          "description": "Same files. Second function. Different architecture entirely.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/youre-still-archiving-your-files-have-already-become-substrate-ce65f088b75a?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-07T19:19:29.000Z",
+          "wordCount": null,
+          "title": "You’re still archiving. Your files have already become substrate.",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/867fb3830722",
           "author": "Meg Kurdziolek",
@@ -4670,26 +4692,6 @@
           "publishedOn": "2026-05-11T08:13:35.000Z",
           "wordCount": null,
           "title": "Discovery is the work AI gives back",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/1875c30ad62e",
-          "author": "HIROSHI SATO",
-          "description": "On a sacred design pattern, and the long reach of small reversals\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/the-left-handed-rope-1875c30ad62e?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-05-09T09:48:25.000Z",
-          "wordCount": null,
-          "title": "The left-handed rope",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/e5745d22c722",
-          "author": "Nicole Alexandra Michaelis",
-          "description": "",
-          "link": "https://uxdesign.cc/everything-i-know-about-ai-i-learned-from-a-genie-e5745d22c722?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-05-08T20:55:36.000Z",
-          "wordCount": null,
-          "title": "Everything I know about AI, I learned from a genie",
           "imageUrl": null
         }
       ]
@@ -6450,16 +6452,6 @@
           "publishedOn": "2026-05-11T14:15:11.000Z",
           "wordCount": null,
           "title": "I Found The Cheapest Seedance 2.0 Video Generator",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/140cba0117f6",
-          "author": "Jim Clyde Monge",
-          "description": "A closer look at PixAI’s new image generation agent, how it works, and where creators can actually use it.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/pixai-releases-mio-2-a-new-tool-to-generate-next-level-ai-anime-images-140cba0117f6?source=rss----440100e76000---4",
-          "publishedOn": "2026-05-09T02:56:38.000Z",
-          "wordCount": null,
-          "title": "PixAI Releases Mio 2 — A New Tool to Generate Next-Level AI Anime Images",
           "imageUrl": null
         }
       ]

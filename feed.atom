@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-06-07T02:03:45.311Z</updated>
+    <updated>2026-06-08T02:08:36.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[You’re still archiving. Your files have already become substrate.]]></title>
+        <id>https://medium.com/p/ce65f088b75a</id>
+        <link href="https://uxdesign.cc/youre-still-archiving-your-files-have-already-become-substrate-ce65f088b75a?source=rss----138adf9c44c---4"/>
+        <updated>2026-06-07T19:19:29.000Z</updated>
+        <summary type="html"><![CDATA[Same files. Second function. Different architecture entirely.
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Adrian Levy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 ChatGPT admitted its memory was broken]]></title>
+        <id>https://www.theneuron.ai/newsletter/chatgpt-admitted-its-memory-was-broken/</id>
+        <link href="https://www.theneuron.ai/newsletter/chatgpt-admitted-its-memory-was-broken/"/>
+        <updated>2026-06-07T17:45:13.244Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Startups Are Skipping the Old Playbook🎯, How VC Became a Fee Business💰, Software Factory Ladder Explained 🏭]]></title>
+        <id>https://www.thevccorner.com/p/startups-are-skipping-the-old-playbook</id>
+        <link href="https://www.thevccorner.com/p/startups-are-skipping-the-old-playbook"/>
+        <updated>2026-06-07T16:26:20.000Z</updated>
+        <summary type="html"><![CDATA[Another week, another pulse check on Tech.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Should Train AI to Betray Its Users]]></title>
+        <id>https://towardsdatascience.com/?p=609296</id>
+        <link href="https://towardsdatascience.com/we-should-train-ai-to-betray-its-users/"/>
+        <updated>2026-06-07T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Because the alternative is much too dangerous
+The post We Should Train AI to Betray Its Users appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Nathan Bos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Went to the Biggest AI Infrastructure Conference]]></title>
+        <id>https://www.youtube.com/watch?v=nu5TH_lyjqg</id>
+        <link href="https://www.youtube.com/watch?v=nu5TH_lyjqg"/>
+        <updated>2026-06-07T14:30:01.000Z</updated>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Multi-Agent System in Python]]></title>
+        <id>https://towardsdatascience.com/?p=609294</id>
+        <link href="https://towardsdatascience.com/building-a-multi-agent-system-in-python/"/>
+        <updated>2026-06-07T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An introduction to multi-agent systems
+The post Building a Multi-Agent System in Python appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Mahnoor Javed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony Fadell]]></title>
+        <id>https://www.lennysnewsletter.com/p/father-of-the-ipod-and-iphone-on</id>
+        <link href="https://www.lennysnewsletter.com/p/father-of-the-ipod-and-iphone-on"/>
+        <updated>2026-06-07T12:31:29.000Z</updated>
+        <summary type="html"><![CDATA[Listen now | The creator of iPod, iPhone, and Nest on opinion vs. data decisions, why marketing matters, the "three generations" rule behind everything he's shipped, and why AI will still need screens]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fastest Way to Get Good at Coding]]></title>
+        <id>https://www.youtube.com/shorts/aOdhdR8ewc8</id>
+        <link href="https://www.youtube.com/shorts/aOdhdR8ewc8"/>
+        <updated>2026-06-07T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Perplexity Just Built an AI That Does Everything]]></title>
         <id>https://www.youtube.com/watch?v=udS9osDCJKo</id>
@@ -5918,112 +5999,6 @@ The post LLM Summarizers Skip the Identification Step appeared first on Towards 
 The post The Must-Know Topics for an LLM Engineer appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Aliaksei Mikhailiuk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RAG Is Blind to Time — I Built a Temporal Layer to Fix It in Production]]></title>
-        <id>https://towardsdatascience.com/?p=609059</id>
-        <link href="https://towardsdatascience.com/rag-is-blind-to-time-i-built-a-temporal-layer-to-fix-it-in-production/"/>
-        <updated>2026-05-09T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Three weeks into testing, a learner told me my AI tutor gave her the wrong answer.
-Not obviously wrong — just outdated enough to mislead.
-That was the moment I realized something most RAG systems quietly ignore: they have no sense of time. My system retrieved the most similar document, not the most current one. And in a knowledge base that changes constantly, that’s a serious flaw.
-The fix wasn’t in the retriever or the model. It was in the gap between them.
-I built a temporal layer that filters expired facts, boosts time-sensitive signals, and makes the system prefer what’s still true — not just what matches.
-The post RAG Is Blind to Time — I Built a Temporal Layer to Fix It in Production appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Emmimal P Alexander</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The left-handed rope]]></title>
-        <id>https://medium.com/p/1875c30ad62e</id>
-        <link href="https://uxdesign.cc/the-left-handed-rope-1875c30ad62e?source=rss----138adf9c44c---4"/>
-        <updated>2026-05-09T09:48:25.000Z</updated>
-        <summary type="html"><![CDATA[On a sacred design pattern, and the long reach of small reversals
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>HIROSHI SATO</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PixAI Releases Mio 2 — A New Tool to Generate Next-Level AI Anime Images]]></title>
-        <id>https://medium.com/p/140cba0117f6</id>
-        <link href="https://generativeai.pub/pixai-releases-mio-2-a-new-tool-to-generate-next-level-ai-anime-images-140cba0117f6?source=rss----440100e76000---4"/>
-        <updated>2026-05-09T02:56:38.000Z</updated>
-        <summary type="html"><![CDATA[A closer look at PixAI’s new image generation agent, how it works, and where creators can actually use it.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Jim Clyde Monge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一定學的會的 Seedance 2.0 教學：製作平台推薦、破解 AI 人臉封鎖、超簡易影片腳本創作全攻略]]></title>
-        <id>https://www.youtube.com/watch?v=IbpuIPJbm9A</id>
-        <link href="https://www.youtube.com/watch?v=IbpuIPJbm9A"/>
-        <updated>2026-05-09T02:05:03.000Z</updated>
-        <author>
-            <name>電腦王阿達</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft's 2026 Work Trend Index: Your employees figured out AI. Your company didn't.]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/microsofts-2026-work-trend-index-your-employees-figured-out-ai-your-company-didnt/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/microsofts-2026-work-trend-index-your-employees-figured-out-ai-your-company-didnt/"/>
-        <updated>2026-05-08T22:49:48.654Z</updated>
-        <summary type="html"><![CDATA[Microsoft surveyed 20,000 AI users and analyzed trillions of Microsoft 365 signals for its 2026 Work Trend Index. The headline isn't that AI works; it's that most organizations aren't built to capture what their workers can already do.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything I know about AI, I learned from a genie]]></title>
-        <id>https://medium.com/p/e5745d22c722</id>
-        <link href="https://uxdesign.cc/everything-i-know-about-ai-i-learned-from-a-genie-e5745d22c722?source=rss----138adf9c44c---4"/>
-        <updated>2026-05-08T20:55:36.000Z</updated>
-        <author>
-            <name>Nicole Alexandra Michaelis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Data Scientist to AI Architect]]></title>
-        <id>https://towardsdatascience.com/?p=609053</id>
-        <link href="https://towardsdatascience.com/from-data-scientist-to-ai-architect/"/>
-        <updated>2026-05-08T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The end of model-centric thinking in data science
-The post From Data Scientist to AI Architect appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sara A. Metwalli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skipping this step is why your AI app turns into a mess 💀]]></title>
-        <id>https://www.youtube.com/shorts/9LtPRMsnJ2w</id>
-        <link href="https://www.youtube.com/shorts/9LtPRMsnJ2w"/>
-        <updated>2026-05-08T17:56:24.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI Agent Security Surface: What Gets Exposed When You Add Tools and Memory]]></title>
-        <id>https://towardsdatascience.com/?p=609051</id>
-        <link href="https://towardsdatascience.com/the-ai-agent-security-surface-what-gets-exposed-when-you-add-tools-and-memory/"/>
-        <updated>2026-05-08T17:06:16.000Z</updated>
-        <summary type="html"><![CDATA[Standard prompt attacks are merely the beginning. A structured framework to map and mitigate the backend attack vectors of agentic workflows. 
-The post The AI Agent Security Surface: What Gets Exposed When You Add Tools and Memory appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Mostafa Ibrahim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Codex is INSANE - Everything New in 10 Minutes]]></title>
-        <id>https://www.youtube.com/watch?v=t2G0L0cqktw</id>
-        <link href="https://www.youtube.com/watch?v=t2G0L0cqktw"/>
-        <updated>2026-05-08T16:25:45.000Z</updated>
-        <author>
-            <name>Tech With Tim</name>
         </author>
     </entry>
 </feed>
