@@ -2,10 +2,340 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-06-08T02:08:36.757Z</updated>
+    <updated>2026-06-09T01:47:02.121Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Everything (AI) Apple announced at WWDC 2026]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/everything-ai-apple-announced-at-wwdc-2026/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/everything-ai-apple-announced-at-wwdc-2026/"/>
+        <updated>2026-06-09T00:43:37.053Z</updated>
+        <summary type="html"><![CDATA[Apple used WWDC26 to turn Apple Intelligence into a system layer: Siri AI, Google-assisted foundation models, Private Cloud Compute, smarter apps, and new developer tools for building AI into Apple software.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Think Apple Just Won AI: Here’s Why]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/i-think-apple-just-won-ai-heres-why-/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/i-think-apple-just-won-ai-heres-why-/"/>
+        <updated>2026-06-09T00:32:25.825Z</updated>
+        <summary type="html"><![CDATA[WWDC26’s Platforms State of the Union showed Apple’s real AI strategy: make Apple Intelligence something every app can use, expose, test, and ship.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIT's new AI risk study says the public is exposed and developers are responsible]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/mits-new-ai-risk-study-says-the-public-is-exposed-and-developers-are-responsible/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/mits-new-ai-risk-study-says-the-public-is-exposed-and-developers-are-responsible/"/>
+        <updated>2026-06-08T22:32:55.514Z</updated>
+        <summary type="html"><![CDATA[MIT FutureTech asked 272 AI experts to rank 24 AI risks. Their biggest warning: the people most exposed to AI risk have the least power to reduce it.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI design isn’t ugly. It’s fluent — and that’s the problem.]]></title>
+        <id>https://medium.com/p/131b2f4eb78c</id>
+        <link href="https://uxdesign.cc/ai-design-isnt-ugly-it-s-fluent-and-that-s-the-problem-131b2f4eb78c?source=rss----138adf9c44c---4"/>
+        <updated>2026-06-08T22:10:58.000Z</updated>
+        <summary type="html"><![CDATA[Why Claude Design, Lovable, and v0 all wear the same face — and what a dynamited St. Louis housing project predicted about it.
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Takuma Kakehi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI has become the third wheel]]></title>
+        <id>https://medium.com/p/ee8e53e06b85</id>
+        <link href="https://uxdesign.cc/ai-has-become-the-third-wheel-ee8e53e06b85?source=rss----138adf9c44c---4"/>
+        <updated>2026-06-08T22:10:54.000Z</updated>
+        <author>
+            <name>Michael Buckley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Increase Recommendation Systems’ Precision with LLMs, Using Python]]></title>
+        <id>https://towardsdatascience.com/?p=609308</id>
+        <link href="https://towardsdatascience.com/increase-recommendation-systems-precision-with-llm-using-python/"/>
+        <updated>2026-06-08T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is how LLMs are used today to increase precision in recommendation systems
+The post Increase Recommendation Systems’ Precision with LLMs, Using Python appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Piero Paialunga</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[590+ US Women Angels]]></title>
+        <id>https://www.thevccorner.com/p/us-women-angel-investors-database-2026</id>
+        <link href="https://www.thevccorner.com/p/us-women-angel-investors-database-2026"/>
+        <updated>2026-06-08T17:43:13.000Z</updated>
+        <summary type="html"><![CDATA[Names, organizations, investment stages, and contact context for active women angel investors across the US]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Is Turning Korea Into a Full-Stack AI Factory Hub]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/nvidia-is-turning-korea-into-a-full-stack-ai-factory-hub/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/nvidia-is-turning-korea-into-a-full-stack-ai-factory-hub/"/>
+        <updated>2026-06-08T16:52:05.895Z</updated>
+        <summary type="html"><![CDATA[NVIDIA’s latest Korea announcements are not just about selling more chips. They show Korea building a full-stack AI economy, from memory and fabs to sovereign models, AI clouds, telecom networks, and physical AI infrastructure.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Keep Quantum Information Alive for Machine Learning]]></title>
+        <id>https://towardsdatascience.com/?p=609306</id>
+        <link href="https://towardsdatascience.com/how-to-keep-quantum-information-alive-for-machine-learning/"/>
+        <updated>2026-06-08T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Quantum Machine Learning promises powerful new ways of processing information, but quantum states are extraordinarily fragile. In this article, we explore why quantum information is so difficult to protect, how noise and decoherence introduce errors, and the fundamental ideas behind Quantum Error Correction: the technology that may make large-scale quantum machine learning possible.
+The post How to Keep Quantum Information Alive for Machine Learning appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Davinder Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The forgotten science behind self-improving companies]]></title>
+        <id>https://medium.com/p/7af504269d52</id>
+        <link href="https://uxdesign.cc/the-forgotten-science-behind-self-improving-companies-7af504269d52?source=rss----138adf9c44c---4"/>
+        <updated>2026-06-08T16:06:34.000Z</updated>
+        <author>
+            <name>Jay Acutt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎙️ How I AI: Gemini Omni: Clone yourself with AI in under 15 minutes & Shopping with Claude]]></title>
+        <id>https://www.lennysnewsletter.com/p/how-i-ai-gemini-omni-clone-yourself</id>
+        <link href="https://www.lennysnewsletter.com/p/how-i-ai-gemini-omni-clone-yourself"/>
+        <updated>2026-06-08T15:01:21.000Z</updated>
+        <summary type="html"><![CDATA[Your weekly listens from How I AI, part of the Lenny’s Podcast Network]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 New Techniques to Maximize Claude Code]]></title>
+        <id>https://towardsdatascience.com/?p=609304</id>
+        <link href="https://towardsdatascience.com/4-new-techniques-to-maximize-claude-code/"/>
+        <updated>2026-06-08T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Get the most out of Claude Code with these four techniques
+The post 4 New Techniques to Maximize Claude Code appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Makes Content AI Citation Ready?]]></title>
+        <id>https://medium.com/p/c53d58622d7f</id>
+        <link href="https://generativeai.pub/what-makes-content-ai-citation-ready-c53d58622d7f?source=rss----440100e76000---4"/>
+        <updated>2026-06-08T14:56:20.000Z</updated>
+        <author>
+            <name>Yogesh Joshi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Company Behind Your AI Assistant Is Almost Worth $1 Trillion]]></title>
+        <id>https://medium.com/p/49fded8e5d15</id>
+        <link href="https://generativeai.pub/the-company-behind-your-ai-assistant-is-almost-worth-1-trillion-49fded8e5d15?source=rss----440100e76000---4"/>
+        <updated>2026-06-08T14:54:44.000Z</updated>
+        <author>
+            <name>Jordan Vale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic Just Asked the AI Industry for a Brake Pedal. That Should Tell You Something.]]></title>
+        <id>https://medium.com/p/53a0fa901291</id>
+        <link href="https://generativeai.pub/anthropic-just-asked-the-ai-industry-for-a-brake-pedal-that-should-tell-you-something-53a0fa901291?source=rss----440100e76000---4"/>
+        <updated>2026-06-08T14:53:47.000Z</updated>
+        <author>
+            <name>The Smarter Way</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Doesn’t Have a Capability Problem. It Has a Trust Problem.]]></title>
+        <id>https://medium.com/p/b0bee1b0a65a</id>
+        <link href="https://generativeai.pub/ai-doesnt-have-a-capability-problem-it-has-a-trust-problem-b0bee1b0a65a?source=rss----440100e76000---4"/>
+        <updated>2026-06-08T14:51:35.000Z</updated>
+        <author>
+            <name>Tanishq Sardar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rails Natural Language to SQL: A Safe ActiveRecord Pattern]]></title>
+        <id>https://medium.com/p/67a081984829</id>
+        <link href="https://generativeai.pub/rails-natural-language-to-sql-a-safe-activerecord-pattern-67a081984829?source=rss----440100e76000---4"/>
+        <updated>2026-06-08T14:51:16.000Z</updated>
+        <summary type="html"><![CDATA[The text to sql rails injection and data-exposure risks, and the read-only scoping plus column allow-list pattern that contains them
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Raza Hussain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Governance That Cannot Stop Execution Is Documentation]]></title>
+        <id>https://medium.com/p/5d016386c9b3</id>
+        <link href="https://generativeai.pub/governance-that-cannot-stop-execution-is-documentation-5d016386c9b3?source=rss----440100e76000---4"/>
+        <updated>2026-06-08T14:48:05.000Z</updated>
+        <author>
+            <name>Stephen Gettel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The seven horsemen of agentic workflow collapse]]></title>
+        <id>https://medium.com/p/5fdb41e62a44</id>
+        <link href="https://generativeai.pub/the-seven-horsemen-of-agentic-workflow-collapse-5fdb41e62a44?source=rss----440100e76000---4"/>
+        <updated>2026-06-08T14:45:58.000Z</updated>
+        <author>
+            <name>Marco van Hurne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1 Billion People Use ChatGPT. Most of Them Are Using It Wrong]]></title>
+        <id>https://medium.com/p/542001a84f93</id>
+        <link href="https://generativeai.pub/1-billion-people-use-chatgpt-most-of-them-are-using-it-wrong-542001a84f93?source=rss----440100e76000---4"/>
+        <updated>2026-06-08T14:45:10.000Z</updated>
+        <author>
+            <name>Jordan Vale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Three Breakthroughs That Changed AI Forever]]></title>
+        <id>https://medium.com/p/97432467525c</id>
+        <link href="https://generativeai.pub/the-three-breakthroughs-that-changed-ai-forever-97432467525c?source=rss----440100e76000---4"/>
+        <updated>2026-06-08T14:43:32.000Z</updated>
+        <summary type="html"><![CDATA[From Transformers to AlphaZero to AGI: Understanding the Vision Behind Demis Hassabis and Google DeepMind
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>CodeWithYog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Right Verb Is Her Call: When My AI Coding Partner Started Gendering Its Peers]]></title>
+        <id>https://medium.com/p/79ee6f76bea6</id>
+        <link href="https://generativeai.pub/the-right-verb-is-her-call-when-my-ai-coding-partner-started-gendering-its-peers-79ee6f76bea6?source=rss----440100e76000---4"/>
+        <updated>2026-06-08T14:43:30.000Z</updated>
+        <summary type="html"><![CDATA[A field note from multi-model AI collaboration, where operational roles seem to acquire social vocabulary before anyone quite decides they…
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>khayali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Scout Is the OpenClaw Moment for Office Workers]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/microsoft-scout-is-the-openclaw-moment-for-office-workers/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/microsoft-scout-is-the-openclaw-moment-for-office-workers/"/>
+        <updated>2026-06-08T13:44:38.349Z</updated>
+        <summary type="html"><![CDATA[Microsoft Scout is not just another Copilot feature. It is Microsoft’s attempt to turn AI from a prompt-and-response tool into an always-on assistant that understands your work, protects your priorities, and acts under enterprise controls.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sequential Fitting: A Different Perspective on the Spectral Bias of Neural Networks]]></title>
+        <id>https://towardsdatascience.com/?p=609302</id>
+        <link href="https://towardsdatascience.com/sequential-fitting-a-different-perspective-on-the-spectral-bias-of-neural-networks/"/>
+        <updated>2026-06-08T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[What Fourier analysis misses
+The post Sequential Fitting: A Different Perspective on the Spectral Bias of Neural Networks appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Conor Rowan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Polynomial That Fixed 30 Years of Cloth Simulation]]></title>
+        <id>https://towardsdatascience.com/?p=609300</id>
+        <link href="https://towardsdatascience.com/the-polynomial-that-fixed-30-years-of-cloth-simulation/"/>
+        <updated>2026-06-08T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The clipping bug has lived in every 3D simulation pipeline for three decades. Here is exactly why it happens, how the math breaks, and how swapping one equation fixes it; as well as the python code to see it for yourself!
+The post The Polynomial That Fixed 30 Years of Cloth Simulation appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ferran Alia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shopping with Claude: How to find quality brands, automate returns, and buy things that last 100 years | Nicole Ruiz]]></title>
+        <id>https://www.lennysnewsletter.com/p/shopping-with-claude</id>
+        <link href="https://www.lennysnewsletter.com/p/shopping-with-claude"/>
+        <updated>2026-06-08T12:03:27.000Z</updated>
+        <summary type="html"><![CDATA[Watch now | 🎙️She uses Claude to shop for high-quality items that last, automate returns when products fail, and spend less time on administrative tasks and more time with her kids]]></summary>
+        <author>
+            <name>Claire Vo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Companies Won't Hire Junior Devs And Why It'll Backfire]]></title>
+        <id>https://www.youtube.com/shorts/iTJQV9l5w-c</id>
+        <link href="https://www.youtube.com/shorts/iTJQV9l5w-c"/>
+        <updated>2026-06-08T12:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We used to log off]]></title>
+        <id>https://medium.com/p/36771c18926b</id>
+        <link href="https://uxdesign.cc/we-used-to-log-off-36771c18926b?source=rss----138adf9c44c---4"/>
+        <updated>2026-06-08T11:13:18.000Z</updated>
+        <summary type="html"><![CDATA[Online used to be a place you could leave. We designed the exit out of it because an exit reads as a leak. Here is why building it back is…
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Wira Indra Kusuma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺ChatGPT is about to look completely different]]></title>
+        <id>https://www.theneuron.ai/newsletter/chatgpt-is-about-to-look-completely-different/</id>
+        <link href="https://www.theneuron.ai/newsletter/chatgpt-is-about-to-look-completely-different/"/>
+        <updated>2026-06-08T10:01:36.811Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The flaw is the feature]]></title>
+        <id>https://medium.com/p/e6769c5cf5b4</id>
+        <link href="https://uxdesign.cc/the-flaw-is-the-feature-e6769c5cf5b4?source=rss----138adf9c44c---4"/>
+        <updated>2026-06-08T09:32:12.000Z</updated>
+        <author>
+            <name>Dora Czerna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exapted for the AI Prompt]]></title>
+        <id>https://medium.com/p/0870f0d8d6f1</id>
+        <link href="https://uxdesign.cc/exapted-for-the-ai-prompt-0870f0d8d6f1?source=rss----138adf9c44c---4"/>
+        <updated>2026-06-08T09:31:39.000Z</updated>
+        <summary type="html"><![CDATA[On prompts, graphic design, and a craft that was quietly about reading the other mind all along
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Hiroshi Sato</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let the AI have the pixels]]></title>
+        <id>https://medium.com/p/1d51eeb4a020</id>
+        <link href="https://uxdesign.cc/let-the-ai-have-the-pixels-1d51eeb4a020?source=rss----138adf9c44c---4"/>
+        <updated>2026-06-08T09:30:16.000Z</updated>
+        <summary type="html"><![CDATA[Practical wisdom is the designer’s last and most important advantage
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Daleen Rabe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sharp tools, AI token scarcity, AI-created document fatigue]]></title>
+        <id>https://medium.com/p/436818d416f5</id>
+        <link href="https://uxdesign.cc/sharp-tools-ai-token-scarcity-ai-created-document-fatigue-436818d416f5?source=rss----138adf9c44c---4"/>
+        <updated>2026-06-08T07:52:09.000Z</updated>
+        <author>
+            <name>Fabricio Teixeira</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[You’re still archiving. Your files have already become substrate.]]></title>
         <id>https://medium.com/p/ce65f088b75a</id>
@@ -5879,126 +6209,6 @@ The post Batch or Stream? The Eternal Data Processing Dilemma appeared first on 
         <summary type="html"><![CDATA[Another week, another pulse check on Tech.]]></summary>
         <author>
             <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLM Summarizers Skip the Identification Step]]></title>
-        <id>https://towardsdatascience.com/?p=609055</id>
-        <link href="https://towardsdatascience.com/llm-summarizers-skip-the-identification-step/"/>
-        <updated>2026-05-10T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A practitioner's argument that meeting summarizers fail in the same way regressions fail when you skip the part where you ask what the data can support.
-The post LLM Summarizers Skip the Identification Step appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>William Gieng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to build a company that withstands any era | Eric Ries, Lean Startup author]]></title>
-        <id>https://www.lennysnewsletter.com/p/how-to-build-a-company-that-withstands</id>
-        <link href="https://www.lennysnewsletter.com/p/how-to-build-a-company-that-withstands"/>
-        <updated>2026-05-10T12:03:32.000Z</updated>
-        <summary type="html"><![CDATA[Listen now | The Lean Startup author on why most mission-driven companies are just mission-“hopeful,” why only 20% of founders remain CEO three years post-IPO, and the Delaware filing every founder should make]]></summary>
-        <author>
-            <name>Lenny Rachitsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Codex can deploy your app to a live domain in seconds with no account and no payment needed 🚀]]></title>
-        <id>https://www.youtube.com/shorts/E4ntWS5HN8w</id>
-        <link href="https://www.youtube.com/shorts/E4ntWS5HN8w"/>
-        <updated>2026-05-09T23:00:26.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I asked Codex to build a checkers game and it wrote the code and played against itself 🎮]]></title>
-        <id>https://www.youtube.com/shorts/Mb7IEo9U_vA</id>
-        <link href="https://www.youtube.com/shorts/Mb7IEo9U_vA"/>
-        <updated>2026-05-09T23:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The only Hermes Agent tutorial you'll ever need...]]></title>
-        <id>https://www.youtube.com/watch?v=cEo95olh2j4</id>
-        <link href="https://www.youtube.com/watch?v=cEo95olh2j4"/>
-        <updated>2026-05-09T20:54:26.000Z</updated>
-        <author>
-            <name>Alex Finn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The System for Never Hitting Claude’s Limits]]></title>
-        <id>https://www.thevccorner.com/p/how-to-never-hit-claude-limits-token-system-2026</id>
-        <link href="https://www.thevccorner.com/p/how-to-never-hit-claude-limits-token-system-2026"/>
-        <updated>2026-05-09T18:24:34.000Z</updated>
-        <summary type="html"><![CDATA[Most users burn the majority of their token allocation on architecture mistakes, not actual work. Here is the operational framework that fixes it.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧠 Community Wisdom: What to do when non-PMs start shipping directly to production, thoughts on Claude Code’s pricing A/B test, the use of gen AI in games, and more]]></title>
-        <id>https://www.lennysnewsletter.com/p/community-wisdom-what-to-do-when</id>
-        <link href="https://www.lennysnewsletter.com/p/community-wisdom-what-to-do-when"/>
-        <updated>2026-05-09T18:18:35.000Z</updated>
-        <summary type="html"><![CDATA[Community Wisdom 185]]></summary>
-        <author>
-            <name>Kiyani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI is taking over video games]]></title>
-        <id>https://www.youtube.com/shorts/1a_k48eco2c</id>
-        <link href="https://www.youtube.com/shorts/1a_k48eco2c"/>
-        <updated>2026-05-09T18:04:22.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One AI Agent Isn't Enough Anymore]]></title>
-        <id>https://www.youtube.com/watch?v=SVz-y-pD6s4</id>
-        <link href="https://www.youtube.com/watch?v=SVz-y-pD6s4"/>
-        <updated>2026-05-09T16:00:42.000Z</updated>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L'intelligence artificielle souveraine expliquée : ce que les entreprises doivent savoir]]></title>
-        <id>https://www.theneuron.ai/sponsored/lintelligence-artificielle-souveraine-explique--ce-que-les-entreprises-doivent-savoir/</id>
-        <link href="https://www.theneuron.ai/sponsored/lintelligence-artificielle-souveraine-explique--ce-que-les-entreprises-doivent-savoir/"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Un guide pratique de l'IA souveraine pour les entreprises, allant de la résidence des données et de l'infrastructure hybride à la gouvernance, aux modèles ouverts et à l'informatique confidentielle dans les environnements réglementés.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Souveräne KI erklärt: was Unternehmen wissen müssen]]></title>
-        <id>https://www.theneuron.ai/sponsored/souverne-ki-erklrt-was-unternehmen-wissen-mssen/</id>
-        <link href="https://www.theneuron.ai/sponsored/souverne-ki-erklrt-was-unternehmen-wissen-mssen/"/>
-        <updated>2026-05-09T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ein praktischer Leitfaden für souveräne KI in Unternehmen – von Datenresidenz und hybrider Infrastruktur bis zu Governance, offenen Modellen und vertraulicher Datenverarbeitung in regulierten Umgebungen.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Must-Know Topics for an LLM Engineer]]></title>
-        <id>https://towardsdatascience.com/?p=609057</id>
-        <link href="https://towardsdatascience.com/the-must-know-topics-for-an-llm-engineer/"/>
-        <updated>2026-05-09T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[From tokenisation to evaluation :  how modern language models actually work in practice
-The post The Must-Know Topics for an LLM Engineer appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Aliaksei Mikhailiuk</name>
         </author>
     </entry>
 </feed>

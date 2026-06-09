@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/iTJQV9l5w-c",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/iTJQV9l5w-c",
+          "publishedOn": "2026-06-08T12:00:34.000Z",
+          "wordCount": 2308,
+          "title": "Why Companies Won't Hire Junior Devs And Why It'll Backfire",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=nu5TH_lyjqg",
           "author": null,
           "description": "",
@@ -434,36 +444,6 @@
           "wordCount": null,
           "title": "Claude Just Got a Superpower No One's Talking About",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/E4ntWS5HN8w",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/E4ntWS5HN8w",
-          "publishedOn": "2026-05-09T23:00:26.000Z",
-          "wordCount": 2136,
-          "title": "Codex can deploy your app to a live domain in seconds with no account and no payment needed 🚀",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/Mb7IEo9U_vA",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/Mb7IEo9U_vA",
-          "publishedOn": "2026-05-09T23:00:20.000Z",
-          "wordCount": 2113,
-          "title": "I asked Codex to build a checkers game and it wrote the code and played against itself 🎮",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SVz-y-pD6s4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SVz-y-pD6s4",
-          "publishedOn": "2026-05-09T16:00:42.000Z",
-          "wordCount": null,
-          "title": "One AI Agent Isn't Enough Anymore",
-          "imageUrl": null
         }
       ]
     },
@@ -570,16 +550,6 @@
           "publishedOn": "2026-05-11T20:11:47.000Z",
           "wordCount": null,
           "title": "LIVE: Talking AI news (no Hermes use cases ignore the thumbnail)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cEo95olh2j4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cEo95olh2j4",
-          "publishedOn": "2026-05-09T20:54:26.000Z",
-          "wordCount": null,
-          "title": "The only Hermes Agent tutorial you'll ever need...",
           "imageUrl": null
         }
       ]
@@ -984,16 +954,6 @@
           "publishedOn": "2026-05-12T19:07:46.000Z",
           "wordCount": null,
           "title": "WTF is going on at Anthropic?!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/1a_k48eco2c",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/1a_k48eco2c",
-          "publishedOn": "2026-05-09T18:04:22.000Z",
-          "wordCount": 2696,
-          "title": "AI is taking over video games",
           "imageUrl": null
         }
       ]
@@ -1427,6 +1387,38 @@
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
         {
+          "id": "https://www.lennysnewsletter.com/p/how-i-ai-gemini-omni-clone-yourself",
+          "author": "Lenny Rachitsky",
+          "description": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+          "link": "https://www.lennysnewsletter.com/p/how-i-ai-gemini-omni-clone-yourself",
+          "publishedOn": "2026-06-08T15:01:21.000Z",
+          "wordCount": null,
+          "title": "🎙️ How I AI: Gemini Omni: Clone yourself with AI in under 15 minutes & Shopping with Claude",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/7aff4476-53d0-4d15-8cb2-3c0b21dd8fd4_1456x1048.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/7aff4476-53d0-4d15-8cb2-3c0b21dd8fd4_1456x1048.png"
+        },
+        {
+          "id": "https://www.lennysnewsletter.com/p/shopping-with-claude",
+          "author": "Claire Vo",
+          "description": "Watch now | 🎙️She uses Claude to shop for high-quality items that last, automate returns when products fail, and spend less time on administrative tasks and more time with her kids",
+          "link": "https://www.lennysnewsletter.com/p/shopping-with-claude",
+          "publishedOn": "2026-06-08T12:03:27.000Z",
+          "wordCount": null,
+          "title": "Shopping with Claude: How to find quality brands, automate returns, and buy things that last 100 years | Nicole Ruiz",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/199808758/244c95a00126f898f2f5e17c70f9cb9e.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://www.lennysnewsletter.com/p/father-of-the-ipod-and-iphone-on",
           "author": "Lenny Rachitsky",
           "description": "Listen now | The creator of iPod, iPhone, and Nest on opinion vs. data decisions, why marketing matters, the \"three generations\" rule behind everything he's shipped, and why AI will still need screens",
@@ -1793,38 +1785,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/how-to-build-a-company-that-withstands",
-          "author": "Lenny Rachitsky",
-          "description": "Listen now | The Lean Startup author on why most mission-driven companies are just mission-“hopeful,” why only 20% of founders remain CEO three years post-IPO, and the Delaware filing every founder should make",
-          "link": "https://www.lennysnewsletter.com/p/how-to-build-a-company-that-withstands",
-          "publishedOn": "2026-05-10T12:03:32.000Z",
-          "wordCount": null,
-          "title": "How to build a company that withstands any era | Eric Ries, Lean Startup author",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/196468137/3118efc439c0b8e3ebe3cf7ba547c97b.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/community-wisdom-what-to-do-when",
-          "author": "Kiyani",
-          "description": "Community Wisdom 185",
-          "link": "https://www.lennysnewsletter.com/p/community-wisdom-what-to-do-when",
-          "publishedOn": "2026-05-09T18:18:35.000Z",
-          "wordCount": null,
-          "title": "🧠 Community Wisdom: What to do when non-PMs start shipping directly to production, thoughts on Claude Code’s pricing A/B test, the use of gen AI in games, and more",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png"
         }
       ]
     },
@@ -1833,6 +1793,22 @@
       "feedUrl": "https://www.thevccorner.com/feed",
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
+        {
+          "id": "https://www.thevccorner.com/p/us-women-angel-investors-database-2026",
+          "author": "Ruben Dominguez",
+          "description": "Names, organizations, investment stages, and contact context for active women angel investors across the US",
+          "link": "https://www.thevccorner.com/p/us-women-angel-investors-database-2026",
+          "publishedOn": "2026-06-08T17:43:13.000Z",
+          "wordCount": null,
+          "title": "590+ US Women Angels",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!36kq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3716e6d-c816-41e3-a065-eb55e97eda85_2254x1254.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!36kq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3716e6d-c816-41e3-a065-eb55e97eda85_2254x1254.png"
+        },
         {
           "id": "https://www.thevccorner.com/p/startups-are-skipping-the-old-playbook",
           "author": "Ruben Dominguez",
@@ -2200,22 +2176,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!FJda!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe931543b-cd53-4867-bce4-16f1a2aadcd4_680x607.jpeg"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/how-to-never-hit-claude-limits-token-system-2026",
-          "author": "Ruben Dominguez",
-          "description": "Most users burn the majority of their token allocation on architecture mistakes, not actual work. Here is the operational framework that fixes it.",
-          "link": "https://www.thevccorner.com/p/how-to-never-hit-claude-limits-token-system-2026",
-          "publishedOn": "2026-05-09T18:24:34.000Z",
-          "wordCount": null,
-          "title": "The System for Never Hitting Claude’s Limits",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/9d048d54-221b-4fd1-bb02-3cb2f2c8f252_995x398.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/9d048d54-221b-4fd1-bb02-3cb2f2c8f252_995x398.jpeg"
         }
       ]
     },
@@ -2224,6 +2184,66 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/everything-ai-apple-announced-at-wwdc-2026/",
+          "author": null,
+          "description": "Apple used WWDC26 to turn Apple Intelligence into a system layer: Siri AI, Google-assisted foundation models, Private Cloud Compute, smarter apps, and new developer tools for building AI into Apple software.",
+          "link": "https://www.theneuron.ai/explainer-articles/everything-ai-apple-announced-at-wwdc-2026/",
+          "publishedOn": "2026-06-09T00:43:37.053Z",
+          "wordCount": null,
+          "title": "Everything (AI) Apple announced at WWDC 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/i-think-apple-just-won-ai-heres-why-/",
+          "author": null,
+          "description": "WWDC26’s Platforms State of the Union showed Apple’s real AI strategy: make Apple Intelligence something every app can use, expose, test, and ship.",
+          "link": "https://www.theneuron.ai/explainer-articles/i-think-apple-just-won-ai-heres-why-/",
+          "publishedOn": "2026-06-09T00:32:25.825Z",
+          "wordCount": null,
+          "title": "I Think Apple Just Won AI: Here’s Why",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/mits-new-ai-risk-study-says-the-public-is-exposed-and-developers-are-responsible/",
+          "author": null,
+          "description": "MIT FutureTech asked 272 AI experts to rank 24 AI risks. Their biggest warning: the people most exposed to AI risk have the least power to reduce it.",
+          "link": "https://www.theneuron.ai/explainer-articles/mits-new-ai-risk-study-says-the-public-is-exposed-and-developers-are-responsible/",
+          "publishedOn": "2026-06-08T22:32:55.514Z",
+          "wordCount": null,
+          "title": "MIT's new AI risk study says the public is exposed and developers are responsible",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/nvidia-is-turning-korea-into-a-full-stack-ai-factory-hub/",
+          "author": null,
+          "description": "NVIDIA’s latest Korea announcements are not just about selling more chips. They show Korea building a full-stack AI economy, from memory and fabs to sovereign models, AI clouds, telecom networks, and physical AI infrastructure.",
+          "link": "https://www.theneuron.ai/explainer-articles/nvidia-is-turning-korea-into-a-full-stack-ai-factory-hub/",
+          "publishedOn": "2026-06-08T16:52:05.895Z",
+          "wordCount": null,
+          "title": "NVIDIA Is Turning Korea Into a Full-Stack AI Factory Hub",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/microsoft-scout-is-the-openclaw-moment-for-office-workers/",
+          "author": null,
+          "description": "Microsoft Scout is not just another Copilot feature. It is Microsoft’s attempt to turn AI from a prompt-and-response tool into an always-on assistant that understands your work, protects your priorities, and acts under enterprise controls.",
+          "link": "https://www.theneuron.ai/explainer-articles/microsoft-scout-is-the-openclaw-moment-for-office-workers/",
+          "publishedOn": "2026-06-08T13:44:38.349Z",
+          "wordCount": null,
+          "title": "Microsoft Scout Is the OpenClaw Moment for Office Workers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/newsletter/chatgpt-is-about-to-look-completely-different/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/chatgpt-is-about-to-look-completely-different/",
+          "publishedOn": "2026-06-08T10:01:36.811Z",
+          "wordCount": null,
+          "title": "😺ChatGPT is about to look completely different",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/newsletter/chatgpt-admitted-its-memory-was-broken/",
           "author": null,
@@ -2903,26 +2923,6 @@
           "wordCount": null,
           "title": "Around the Horn Weekend Digest: Everything That Happened in AI This Weekend (Saturday-Sunday, May 9-10, 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/sponsored/lintelligence-artificielle-souveraine-explique--ce-que-les-entreprises-doivent-savoir/",
-          "author": null,
-          "description": "Un guide pratique de l'IA souveraine pour les entreprises, allant de la résidence des données et de l'infrastructure hybride à la gouvernance, aux modèles ouverts et à l'informatique confidentielle dans les environnements réglementés.",
-          "link": "https://www.theneuron.ai/sponsored/lintelligence-artificielle-souveraine-explique--ce-que-les-entreprises-doivent-savoir/",
-          "publishedOn": "2026-05-09T16:00:00.000Z",
-          "wordCount": null,
-          "title": "L'intelligence artificielle souveraine expliquée : ce que les entreprises doivent savoir",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/sponsored/souverne-ki-erklrt-was-unternehmen-wissen-mssen/",
-          "author": null,
-          "description": "Ein praktischer Leitfaden für souveräne KI in Unternehmen – von Datenresidenz und hybrider Infrastruktur bis zu Governance, offenen Modellen und vertraulicher Datenverarbeitung in regulierten Umgebungen.",
-          "link": "https://www.theneuron.ai/sponsored/souverne-ki-erklrt-was-unternehmen-wissen-mssen/",
-          "publishedOn": "2026-05-09T16:00:00.000Z",
-          "wordCount": null,
-          "title": "Souveräne KI erklärt: was Unternehmen wissen müssen",
-          "imageUrl": null
         }
       ]
     },
@@ -2931,6 +2931,56 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=609308",
+          "author": "Piero Paialunga",
+          "description": "This is how LLMs are used today to increase precision in recommendation systems\nThe post Increase Recommendation Systems’ Precision with LLMs, Using Python appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/increase-recommendation-systems-precision-with-llm-using-python/",
+          "publishedOn": "2026-06-08T18:00:00.000Z",
+          "wordCount": 4972,
+          "title": "Increase Recommendation Systems’ Precision with LLMs, Using Python",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/amanda-jones-w5zpEiVtNIk-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609306",
+          "author": "Davinder Singh",
+          "description": "Quantum Machine Learning promises powerful new ways of processing information, but quantum states are extraordinarily fragile. In this article, we explore why quantum information is so difficult to protect, how noise and decoherence introduce errors, and the fundamental ideas behind Quantum Error Correction: the technology that may make large-scale quantum machine learning possible.\nThe post How to Keep Quantum Information Alive for Machine Learning appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-keep-quantum-information-alive-for-machine-learning/",
+          "publishedOn": "2026-06-08T16:30:00.000Z",
+          "wordCount": 5357,
+          "title": "How to Keep Quantum Information Alive for Machine Learning",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/qerror-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609304",
+          "author": "Eivind Kjosbakken",
+          "description": "Get the most out of Claude Code with these four techniques\nThe post 4 New Techniques to Maximize Claude Code appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/4-new-techniques-to-maximize-claude-code/",
+          "publishedOn": "2026-06-08T15:00:00.000Z",
+          "wordCount": 5066,
+          "title": "4 New Techniques to Maximize Claude Code",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/maximize-claude-code-and-codex_cover.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609302",
+          "author": "Conor Rowan",
+          "description": "What Fourier analysis misses\nThe post Sequential Fitting: A Different Perspective on the Spectral Bias of Neural Networks appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/sequential-fitting-a-different-perspective-on-the-spectral-bias-of-neural-networks/",
+          "publishedOn": "2026-06-08T13:30:00.000Z",
+          "wordCount": 6590,
+          "title": "Sequential Fitting: A Different Perspective on the Spectral Bias of Neural Networks",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/cover-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609300",
+          "author": "Ferran Alia",
+          "description": "The clipping bug has lived in every 3D simulation pipeline for three decades. Here is exactly why it happens, how the math breaks, and how swapping one equation fixes it; as well as the python code to see it for yourself!\nThe post The Polynomial That Fixed 30 Years of Cloth Simulation appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-polynomial-that-fixed-30-years-of-cloth-simulation/",
+          "publishedOn": "2026-06-08T12:30:00.000Z",
+          "wordCount": 6116,
+          "title": "The Polynomial That Fixed 30 Years of Cloth Simulation",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/teaser-image.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=609296",
           "author": "Nathan Bos",
@@ -3980,26 +4030,6 @@
           "wordCount": 5650,
           "title": "Batch or Stream? The Eternal Data Processing Dilemma",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Batch-vs-stream-main-1308x480-1-copy.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609055",
-          "author": "William Gieng",
-          "description": "A practitioner's argument that meeting summarizers fail in the same way regressions fail when you skip the part where you ask what the data can support.\nThe post LLM Summarizers Skip the Identification Step appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/llm-summarizers-skip-the-identification-step/",
-          "publishedOn": "2026-05-10T13:00:00.000Z",
-          "wordCount": 5971,
-          "title": "LLM Summarizers Skip the Identification Step",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/tds_hero_redacted_document_1920x1080.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609057",
-          "author": "Aliaksei Mikhailiuk",
-          "description": "From tokenisation to evaluation :  how modern language models actually work in practice\nThe post The Must-Know Topics for an LLM Engineer appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-must-know-topics-for-an-llm-engineer/",
-          "publishedOn": "2026-05-09T15:00:00.000Z",
-          "wordCount": 8904,
-          "title": "The Must-Know Topics for an LLM Engineer",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Gemini_Generated_Image_uoh7tkuoh7tkuoh7-1.jpg"
         }
       ]
     },
@@ -4014,6 +4044,86 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/131b2f4eb78c",
+          "author": "Takuma Kakehi",
+          "description": "Why Claude Design, Lovable, and v0 all wear the same face — and what a dynamited St. Louis housing project predicted about it.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/ai-design-isnt-ugly-it-s-fluent-and-that-s-the-problem-131b2f4eb78c?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-08T22:10:58.000Z",
+          "wordCount": null,
+          "title": "AI design isn’t ugly. It’s fluent — and that’s the problem.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ee8e53e06b85",
+          "author": "Michael Buckley",
+          "description": "",
+          "link": "https://uxdesign.cc/ai-has-become-the-third-wheel-ee8e53e06b85?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-08T22:10:54.000Z",
+          "wordCount": null,
+          "title": "AI has become the third wheel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7af504269d52",
+          "author": "Jay Acutt",
+          "description": "",
+          "link": "https://uxdesign.cc/the-forgotten-science-behind-self-improving-companies-7af504269d52?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-08T16:06:34.000Z",
+          "wordCount": null,
+          "title": "The forgotten science behind self-improving companies",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/36771c18926b",
+          "author": "Wira Indra Kusuma",
+          "description": "Online used to be a place you could leave. We designed the exit out of it because an exit reads as a leak. Here is why building it back is…\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/we-used-to-log-off-36771c18926b?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-08T11:13:18.000Z",
+          "wordCount": null,
+          "title": "We used to log off",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e6769c5cf5b4",
+          "author": "Dora Czerna",
+          "description": "",
+          "link": "https://uxdesign.cc/the-flaw-is-the-feature-e6769c5cf5b4?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-08T09:32:12.000Z",
+          "wordCount": null,
+          "title": "The flaw is the feature",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0870f0d8d6f1",
+          "author": "Hiroshi Sato",
+          "description": "On prompts, graphic design, and a craft that was quietly about reading the other mind all along\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/exapted-for-the-ai-prompt-0870f0d8d6f1?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-08T09:31:39.000Z",
+          "wordCount": null,
+          "title": "Exapted for the AI Prompt",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1d51eeb4a020",
+          "author": "Daleen Rabe",
+          "description": "Practical wisdom is the designer’s last and most important advantage\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/let-the-ai-have-the-pixels-1d51eeb4a020?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-08T09:30:16.000Z",
+          "wordCount": null,
+          "title": "Let the AI have the pixels",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/436818d416f5",
+          "author": "Fabricio Teixeira",
+          "description": "",
+          "link": "https://uxdesign.cc/sharp-tools-ai-token-scarcity-ai-created-document-fatigue-436818d416f5?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-08T07:52:09.000Z",
+          "wordCount": null,
+          "title": "Sharp tools, AI token scarcity, AI-created document fatigue",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/ce65f088b75a",
           "author": "Adrian Levy",
@@ -4754,6 +4864,106 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/c53d58622d7f",
+          "author": "Yogesh Joshi",
+          "description": "",
+          "link": "https://generativeai.pub/what-makes-content-ai-citation-ready-c53d58622d7f?source=rss----440100e76000---4",
+          "publishedOn": "2026-06-08T14:56:20.000Z",
+          "wordCount": null,
+          "title": "What Makes Content AI Citation Ready?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/49fded8e5d15",
+          "author": "Jordan Vale",
+          "description": "",
+          "link": "https://generativeai.pub/the-company-behind-your-ai-assistant-is-almost-worth-1-trillion-49fded8e5d15?source=rss----440100e76000---4",
+          "publishedOn": "2026-06-08T14:54:44.000Z",
+          "wordCount": null,
+          "title": "The Company Behind Your AI Assistant Is Almost Worth $1 Trillion",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/53a0fa901291",
+          "author": "The Smarter Way",
+          "description": "",
+          "link": "https://generativeai.pub/anthropic-just-asked-the-ai-industry-for-a-brake-pedal-that-should-tell-you-something-53a0fa901291?source=rss----440100e76000---4",
+          "publishedOn": "2026-06-08T14:53:47.000Z",
+          "wordCount": null,
+          "title": "Anthropic Just Asked the AI Industry for a Brake Pedal. That Should Tell You Something.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b0bee1b0a65a",
+          "author": "Tanishq Sardar",
+          "description": "",
+          "link": "https://generativeai.pub/ai-doesnt-have-a-capability-problem-it-has-a-trust-problem-b0bee1b0a65a?source=rss----440100e76000---4",
+          "publishedOn": "2026-06-08T14:51:35.000Z",
+          "wordCount": null,
+          "title": "AI Doesn’t Have a Capability Problem. It Has a Trust Problem.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/67a081984829",
+          "author": "Raza Hussain",
+          "description": "The text to sql rails injection and data-exposure risks, and the read-only scoping plus column allow-list pattern that contains them\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/rails-natural-language-to-sql-a-safe-activerecord-pattern-67a081984829?source=rss----440100e76000---4",
+          "publishedOn": "2026-06-08T14:51:16.000Z",
+          "wordCount": null,
+          "title": "Rails Natural Language to SQL: A Safe ActiveRecord Pattern",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5d016386c9b3",
+          "author": "Stephen Gettel",
+          "description": "",
+          "link": "https://generativeai.pub/governance-that-cannot-stop-execution-is-documentation-5d016386c9b3?source=rss----440100e76000---4",
+          "publishedOn": "2026-06-08T14:48:05.000Z",
+          "wordCount": null,
+          "title": "Governance That Cannot Stop Execution Is Documentation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5fdb41e62a44",
+          "author": "Marco van Hurne",
+          "description": "",
+          "link": "https://generativeai.pub/the-seven-horsemen-of-agentic-workflow-collapse-5fdb41e62a44?source=rss----440100e76000---4",
+          "publishedOn": "2026-06-08T14:45:58.000Z",
+          "wordCount": null,
+          "title": "The seven horsemen of agentic workflow collapse",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/542001a84f93",
+          "author": "Jordan Vale",
+          "description": "",
+          "link": "https://generativeai.pub/1-billion-people-use-chatgpt-most-of-them-are-using-it-wrong-542001a84f93?source=rss----440100e76000---4",
+          "publishedOn": "2026-06-08T14:45:10.000Z",
+          "wordCount": null,
+          "title": "1 Billion People Use ChatGPT. Most of Them Are Using It Wrong",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/97432467525c",
+          "author": "CodeWithYog",
+          "description": "From Transformers to AlphaZero to AGI: Understanding the Vision Behind Demis Hassabis and Google DeepMind\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/the-three-breakthroughs-that-changed-ai-forever-97432467525c?source=rss----440100e76000---4",
+          "publishedOn": "2026-06-08T14:43:32.000Z",
+          "wordCount": null,
+          "title": "The Three Breakthroughs That Changed AI Forever",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/79ee6f76bea6",
+          "author": "khayali",
+          "description": "A field note from multi-model AI collaboration, where operational roles seem to acquire social vocabulary before anyone quite decides they…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/the-right-verb-is-her-call-when-my-ai-coding-partner-started-gendering-its-peers-79ee6f76bea6?source=rss----440100e76000---4",
+          "publishedOn": "2026-06-08T14:43:30.000Z",
+          "wordCount": null,
+          "title": "The Right Verb Is Her Call: When My AI Coding Partner Started Gendering Its Peers",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/f8a53a104069",
           "author": "Samarth Banodia",
