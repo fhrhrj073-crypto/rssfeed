@@ -2,10 +2,153 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-06-12T02:05:16.222Z</updated>
+    <updated>2026-06-13T01:58:06.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[You NEED to try these open-source AI projects RIGHT NOW]]></title>
+        <id>https://www.youtube.com/watch?v=zjFE-dBzP_E</id>
+        <link href="https://www.youtube.com/watch?v=zjFE-dBzP_E"/>
+        <updated>2026-06-12T23:47:25.000Z</updated>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So we're doing loops now]]></title>
+        <id>https://www.youtube.com/shorts/sV1B2_sFzU8</id>
+        <link href="https://www.youtube.com/shorts/sV1B2_sFzU8"/>
+        <updated>2026-06-12T18:14:58.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When PyMuPDF Can’t See the Table: Parse PDFs for RAG with Azure Layout]]></title>
+        <id>https://towardsdatascience.com/?p=609353</id>
+        <link href="https://towardsdatascience.com/when-pymupdf-cant-see-the-table-parse-pdfs-for-rag-with-azure-layout/"/>
+        <updated>2026-06-12T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #5bis] - The same relational tables. Native table cells. OCR for scanned pages and images. Captions and headings without regex.
+The post When PyMuPDF Can’t See the Table: Parse PDFs for RAG with Azure Layout appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Kezhan Shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Decade-Old Residual Connections Still Power All of AI (And Why That’s a Problem)]]></title>
+        <id>https://towardsdatascience.com/?p=609351</id>
+        <link href="https://towardsdatascience.com/why-this-decade-old-idea-still-powers-all-of-ai-and-why-its-a-problem/"/>
+        <updated>2026-06-12T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[For nearly a decade, this part of neural networks barely changed. DeepSeek is trying to reinvent it.
+The post Why Decade-Old Residual Connections Still Power All of AI (And Why That’s a Problem) appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Moulik Gupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Self-Improving Fundraising System With Claude in 14 Steps]]></title>
+        <id>https://www.thevccorner.com/p/self-improving-fundraising-system-claude-14-steps-2026</id>
+        <link href="https://www.thevccorner.com/p/self-improving-fundraising-system-claude-14-steps-2026"/>
+        <updated>2026-06-12T15:02:06.000Z</updated>
+        <summary type="html"><![CDATA[Most founders use AI for fundraising like a better Google. They ask a question, get an answer, close the tab. This is the 14-step system that compounds every conversation into a sharper pitch, a warme]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Harness for Every Task: Putting a Team of Claudes on One Job]]></title>
+        <id>https://towardsdatascience.com/?p=609349</id>
+        <link href="https://towardsdatascience.com/a-harness-for-every-task-putting-a-team-of-claudes-on-one-job/"/>
+        <updated>2026-06-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Claude can now write its own harness on the fly, custom-built for the task at hand.
+The post A Harness for Every Task: Putting a Team of Claudes on One Job appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Chien Vu Minh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Thought Data Engineering Was Just Writing Scripts. I Was Wrong.]]></title>
+        <id>https://towardsdatascience.com/?p=609347</id>
+        <link href="https://towardsdatascience.com/i-thought-data-engineering-was-just-writing-scripts-i-was-wrong/"/>
+        <updated>2026-06-12T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[I tried to make my ETL pipeline production-ready. Three things broke. Each one taught me something scripting alone never could.
+The post I Thought Data Engineering Was Just Writing Scripts. I Was Wrong. appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ibrahim Salami</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Actually Learn to Code]]></title>
+        <id>https://www.youtube.com/shorts/Lx3eD67RXZ8</id>
+        <link href="https://www.youtube.com/shorts/Lx3eD67RXZ8"/>
+        <updated>2026-06-12T12:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Language Visual? An Experiment with Chinese Characters]]></title>
+        <id>https://towardsdatascience.com/?p=609345</id>
+        <link href="https://towardsdatascience.com/is-language-visual-an-experiment-with-chinese-characters-2/"/>
+        <updated>2026-06-12T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A story about a broken printer, visual inductive bias, and why the race endedin a tie.
+The post Is Language Visual? An Experiment with Chinese Characters appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Shuyang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🙀 SpaceX raised $75B for AI in space]]></title>
+        <id>https://www.theneuron.ai/newsletter/new-post-e21f/</id>
+        <link href="https://www.theneuron.ai/newsletter/new-post-e21f/"/>
+        <updated>2026-06-12T10:01:50.973Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 修 bug 都在「蓋症狀」，難怪一直壞]]></title>
+        <id>https://www.youtube.com/shorts/cngjyu_XQSA</id>
+        <link href="https://www.youtube.com/shorts/cngjyu_XQSA"/>
+        <updated>2026-06-12T04:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>追日Gucci-AI效率革命聯盟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our Guide to AI Skills, Projects, Custom GPTs, Agents, Plugins, Connectors, Loops, and Codex Workflows]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/our-guide-to-ai-skills-projects-custom-gpts-agents-plugins-connectors-loops-and-codex-workflows/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/our-guide-to-ai-skills-projects-custom-gpts-agents-plugins-connectors-loops-and-codex-workflows/"/>
+        <updated>2026-06-12T03:40:23.487Z</updated>
+        <summary type="html"><![CDATA[AI Skills vs. Agents vs. GPTs: This is The Neuron’s guided tour for total beginners. We turned our two-hour livestream on Projects, Gems, Custom GPTs, Skills, Agents, plugins, connectors, loops, and subagents into a timestamped guide you can use as a map.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything That Happened in AI Today (Thursday, June 11, 2026)]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-thursday-june-11-2026/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-thursday-june-11-2026/"/>
+        <updated>2026-06-12T02:40:25.166Z</updated>
+        <summary type="html"><![CDATA[OpenAI acquired Ona and weighed token price cuts; Anthropic faced a Claude Fable backlash and launched Claude Corps; SpaceX priced a record IPO; Xiaomi, Goodfire, Perplexity, and Ai2 shipped agent and research tools; plus much more.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch This Video to Learn the Abridged HIstory of Anthropic and Dario's Plan For the Future]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/watch-this-video-to-learn-the-abridged-history-of-anthropic-and-darios-plan-for-the-future/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/watch-this-video-to-learn-the-abridged-history-of-anthropic-and-darios-plan-for-the-future/"/>
+        <updated>2026-06-12T02:03:43.743Z</updated>
+        <summary type="html"><![CDATA[I watched this viral Bloomberg Originals profile of Anthropic, centered on Emily Chang’s interviews with Dario Amodei, Daniela Amodei, and Boris Cherny about Claude, AI safety, enterprise coding, jobs, government use, warfare, regulation, and the unreleased Mythos model.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We stopped clicking, and AI became the Internet]]></title>
         <id>https://medium.com/p/df61a0c79d91</id>
@@ -6192,108 +6335,6 @@ Continue reading on Generative AI »]]></summary>
         <updated>2026-05-14T14:00:16.000Z</updated>
         <author>
             <name>Angie D.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Let CodeSpeak Take Over My Repository]]></title>
-        <id>https://towardsdatascience.com/?p=609096</id>
-        <link href="https://towardsdatascience.com/i-let-codespeak-take-over-my-repository/"/>
-        <updated>2026-05-14T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[What happened when I migrated a 10K+ line project into an AI-native workflow
-The post I Let CodeSpeak Take Over My Repository appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Mariya Mansurova</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write Robust Code with Claude Code]]></title>
-        <id>https://towardsdatascience.com/?p=609094</id>
-        <link href="https://towardsdatascience.com/how-to-write-robust-code-with-claude-code/"/>
-        <updated>2026-05-14T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Improve the quality of Claude Code output. 
-The post How to Write Robust Code with Claude Code appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Eivind Kjosbakken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😸 Claude is now the #1 business AI]]></title>
-        <id>https://www.theneuron.ai/newsletter/claude-is-now-the-1-business-ai/</id>
-        <link href="https://www.theneuron.ai/newsletter/claude-is-now-the-1-business-ai/"/>
-        <updated>2026-05-14T10:01:05.671Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can a typeface be safe?]]></title>
-        <id>https://medium.com/p/2e0720052013</id>
-        <link href="https://uxdesign.cc/can-a-typeface-be-safe-2e0720052013?source=rss----138adf9c44c---4"/>
-        <updated>2026-05-14T05:57:24.000Z</updated>
-        <summary type="html"><![CDATA[How Volvo’s typeface enhances safety for drivers
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Elvis Hsiao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIVE: The greatest Claude Code workflow ever]]></title>
-        <id>https://www.youtube.com/watch?v=yoPv_M2A40U</id>
-        <link href="https://www.youtube.com/watch?v=yoPv_M2A40U"/>
-        <updated>2026-05-13T20:12:33.000Z</updated>
-        <author>
-            <name>Alex Finn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everyone's getting hacked]]></title>
-        <id>https://www.youtube.com/watch?v=hAzhVloGkOw</id>
-        <link href="https://www.youtube.com/watch?v=hAzhVloGkOw"/>
-        <updated>2026-05-13T18:50:08.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built the Same B2B Document Extractor Twice: Rules vs. LLM]]></title>
-        <id>https://towardsdatascience.com/?p=609092</id>
-        <link href="https://towardsdatascience.com/i-built-the-same-b2b-document-extractor-twice-rules-vs-llm/"/>
-        <updated>2026-05-13T18:22:05.000Z</updated>
-        <summary type="html"><![CDATA[A practical comparison between rule-based PDF extraction using pytesseract and an LLM-based approach with Ollama and LLaMA 3, based on a realistic B2B order scenario.
-The post I Built the Same B2B Document Extractor Twice: Rules vs. LLM appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sarah Schürch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring Patterns of Survival from the Titanic Dataset]]></title>
-        <id>https://towardsdatascience.com/?p=609090</id>
-        <link href="https://towardsdatascience.com/exploring-patterns-of-survival-from-the-titanic-dataset/"/>
-        <updated>2026-05-13T16:46:36.000Z</updated>
-        <summary type="html"><![CDATA[A beginner's tutorial on exploratory data analysis using Pandas, Matplolib, and Seaborn
-The post Exploring Patterns of Survival from the Titanic Dataset appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Mahnoor Javed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I asked Codex to open Spotify and play a song and it just did it on its own 🤯]]></title>
-        <id>https://www.youtube.com/shorts/iUj67b4WKl8</id>
-        <link href="https://www.youtube.com/shorts/iUj67b4WKl8"/>
-        <updated>2026-05-13T15:30:20.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parker Conrad Wrote a Memo Instead of a Pitch Deck. It Raised $200M.]]></title>
-        <id>https://www.thevccorner.com/p/rippling-series-f-investment-memo-parker-conrad-2024</id>
-        <link href="https://www.thevccorner.com/p/rippling-series-f-investment-memo-parker-conrad-2024"/>
-        <updated>2026-05-13T14:37:39.000Z</updated>
-        <summary type="html"><![CDATA[The Rippling Series F investor memo is one of the most copied fundraising documents in startup history. Here is the full version.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
         </author>
     </entry>
 </feed>
