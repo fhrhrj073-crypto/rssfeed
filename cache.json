@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/xPI2Dw0y4yU",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/xPI2Dw0y4yU",
+          "publishedOn": "2026-06-14T12:00:24.000Z",
+          "wordCount": 2267,
+          "title": "How to Become an AI Engineer in 2026",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=vVIvatIpzJ4",
           "author": null,
           "description": "",
@@ -374,36 +384,6 @@
           "wordCount": 2181,
           "title": "Mid level AI engineers are making up to $220,000 a year and demand is only growing 🔥",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/8HeFtpdWYp8",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/8HeFtpdWYp8",
-          "publishedOn": "2026-05-16T12:00:10.000Z",
-          "wordCount": 2123,
-          "title": "monday.com's AI Agents Are Actually Insane",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/xZ3iMmoLoac",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/xZ3iMmoLoac",
-          "publishedOn": "2026-05-15T18:01:00.000Z",
-          "wordCount": 2129,
-          "title": "Every great AI engineer is a software engineer first 💻",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XTQTJoSfeMg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XTQTJoSfeMg",
-          "publishedOn": "2026-05-15T15:19:07.000Z",
-          "wordCount": null,
-          "title": "AI Web Scraping Is Insanely Good | Browserbase Full Tutorial",
-          "imageUrl": null
         }
       ]
     },
@@ -490,16 +470,6 @@
           "publishedOn": "2026-05-17T18:06:00.000Z",
           "wordCount": null,
           "title": "Claude Code is 1000x better when you use this tool",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0nI5oo0BDDA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0nI5oo0BDDA",
-          "publishedOn": "2026-05-15T20:24:28.000Z",
-          "wordCount": null,
-          "title": "LIVE: GROK BUILD CLI IS ACTUALLY INCREDIBLE???",
           "imageUrl": null
         }
       ]
@@ -945,16 +915,6 @@
           "wordCount": 2074,
           "title": "So Anthropic is just winning now",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=NksViNo3n08",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=NksViNo3n08",
-          "publishedOn": "2026-05-15T17:51:10.000Z",
-          "wordCount": null,
-          "title": "anthropic vs. openai",
-          "imageUrl": null
         }
       ]
     },
@@ -1101,16 +1061,6 @@
           "publishedOn": "2026-05-18T03:43:12.000Z",
           "wordCount": null,
           "title": "超強 AI 工作平台 Skywork AI：一鍵生成簡報、海報、網站，把 8 小時工作壓縮到 8 分鐘！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jQI40jAQWbo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jQI40jAQWbo",
-          "publishedOn": "2026-05-15T15:34:25.000Z",
-          "wordCount": null,
-          "title": "NVIDIA 機器人學的終局之戰：VLA 時代終結，世界行動模型 WAM 登場",
           "imageUrl": null
         }
       ]
@@ -1492,6 +1442,22 @@
       "feedUrl": "https://www.lennysnewsletter.com/feed",
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
+        {
+          "id": "https://www.lennysnewsletter.com/p/the-common-pattern-behind-successful",
+          "author": "Lenny Rachitsky",
+          "description": "Listen now | Mark Pincus on why your instincts are right but your ideas are wrong, the “Proven, Better, New” framework, and what he’s teaching his kids",
+          "link": "https://www.lennysnewsletter.com/p/the-common-pattern-behind-successful",
+          "publishedOn": "2026-06-14T12:31:44.000Z",
+          "wordCount": null,
+          "title": "The hidden pattern behind successful products | Mark Pincus (founder of Zynga)",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/198591984/35820af666c1ae888d132e3462c93c37.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://www.lennysnewsletter.com/p/community-wisdom-how-ai-is-changing",
           "author": "Kiyani",
@@ -2266,22 +2232,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!xmdV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fccda92b3-9d0b-4991-a7cd-895adc450541_680x570.jpeg"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/5-moats-ai-cannot-replicate",
-          "author": "Ruben Dominguez",
-          "description": "A research-backed breakdown of the only competitive advantages that compound in an AI world",
-          "link": "https://www.thevccorner.com/p/5-moats-ai-cannot-replicate",
-          "publishedOn": "2026-05-15T17:31:21.000Z",
-          "wordCount": null,
-          "title": "What Makes a Business Unbreakable When Software Costs Nothing to Build",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/41ed2028-862a-4986-aaf1-f0079749033a_958x586.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/41ed2028-862a-4986-aaf1-f0079749033a_958x586.png"
         }
       ]
     },
@@ -2290,6 +2240,16 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/newsletter/us-gov-shuts-down-claude-fable/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/us-gov-shuts-down-claude-fable/",
+          "publishedOn": "2026-06-14T17:32:40.001Z",
+          "wordCount": null,
+          "title": "🙀 US Gov Shuts Down Claude Fable",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/newsletter/new-post-e21f/",
           "author": null,
@@ -3027,6 +2987,36 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=609363",
+          "author": "Haden Pelletier",
+          "description": "Without these, Claude will be confidently wrong.\nThe post 4 Lines You Should Include in Your Claude Skill appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/4-lines-you-must-include-in-your-claude-skill/",
+          "publishedOn": "2026-06-14T17:00:00.000Z",
+          "wordCount": 4544,
+          "title": "4 Lines You Should Include in Your Claude Skill",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/Screenshot-2026-06-10-at-12.39.34-PM.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609365",
+          "author": "Kezhan Shi",
+          "description": "Enterprise Document Intelligence [Vol.1 #5quater] - The other parsers read the words on a page. A vision model also reads the pictures\nThe post Vision LLMs are PDF Parsers Too: Reading Charts and Diagrams for RAG appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/vision-llms-are-pdf-parsers-too-reading-charts-and-diagrams-for-rag/",
+          "publishedOn": "2026-06-14T15:00:00.000Z",
+          "wordCount": 5984,
+          "title": "Vision LLMs are PDF Parsers Too: Reading Charts and Diagrams for RAG",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/microscope_fiHQ3-D45zo_v3_card.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609361",
+          "author": "Anubhab Banerjee",
+          "description": "A systems-level deep dive into the hidden microarchitectural costs of Kubernetes GPU time-slicing, and what it actually costs to co-locate Agentic AI workloads.\nThe post GPU Time-Slicing for Concurrent LLM Agents on Kubernetes appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/gpu-time-slicing-for-concurrent-llm-agents-on-kubernetes/",
+          "publishedOn": "2026-06-14T13:00:00.000Z",
+          "wordCount": 7371,
+          "title": "GPU Time-Slicing for Concurrent LLM Agents on Kubernetes",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/overview_ktp.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=609357",
           "author": "Emmimal P Alexander",
@@ -4126,36 +4116,6 @@
           "wordCount": 4848,
           "title": "From Data Analyst to Data Engineer: My 12-Month Self-Study Roadmap",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/data-engineer.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609111",
-          "author": "Avishek Biswas",
-          "description": "Exactly how does it differ from ReAct, CodeAct, Self-Loops, and Subagents?\nThe post Recursive Language Models: An All-in-One Deep Dive appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/recursive-language-models-one-example-deep-dive-that-explains-everything/",
-          "publishedOn": "2026-05-16T13:00:00.000Z",
-          "wordCount": 9614,
-          "title": "Recursive Language Models: An All-in-One Deep Dive",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/RLM_Article-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609107",
-          "author": "JUNIOR JUMBONG",
-          "description": "A practical guide to categorization in credit scoring\nThe post From Raw Data to Risk Classes appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/from-raw-data-to-risk-classes/",
-          "publishedOn": "2026-05-15T16:30:00.000Z",
-          "wordCount": 8072,
-          "title": "From Raw Data to Risk Classes",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/ChatGPT-Image-14-mai-2026-18_43_08.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609109",
-          "author": "Eivind Kjosbakken",
-          "description": "Learn how to make your Claude Code improve over time \nThe post How I Continually Improve My Claude Code appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-i-continually-improve-my-claude-code/",
-          "publishedOn": "2026-05-15T15:00:00.000Z",
-          "wordCount": 4957,
-          "title": "How I Continually Improve My Claude Code",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/image-172-2.jpg"
         }
       ]
     },
@@ -4170,6 +4130,26 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/bd59e0610828",
+          "author": "Takuma Kakehi",
+          "description": "The GUI democratized computing. The prompt interface democratized the GUI.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/access-is-not-mastery-bd59e0610828?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-14T22:51:00.000Z",
+          "wordCount": null,
+          "title": "Access is not mastery",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5967e39563cc",
+          "author": "Ellina Morits",
+          "description": "",
+          "link": "https://uxdesign.cc/how-difficult-could-it-be-to-design-a-chatbot-5967e39563cc?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-14T12:18:02.000Z",
+          "wordCount": null,
+          "title": "How difficult could it be to design a chatbot?",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/07afc7e1d16f",
           "author": "Zeeshan Khalid",
