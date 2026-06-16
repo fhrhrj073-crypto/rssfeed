@@ -2,10 +2,231 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-06-15T02:11:43.629Z</updated>
+    <updated>2026-06-16T02:15:48.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Everything That Happened in AI Today (Monday, June 15, 2026)]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-monday-june-15-2026/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-monday-june-15-2026/"/>
+        <updated>2026-06-15T23:43:30.737Z</updated>
+        <summary type="html"><![CDATA[Anthropic's Fable and Mythos fight spilled into cyber policy and markets; Salesforce agreed to buy Fin for $3.6B; Qualcomm eyed Tenstorrent; Zhipu surged; plus much more.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The board is not the game]]></title>
+        <id>https://medium.com/p/fad30735adfe</id>
+        <link href="https://uxdesign.cc/the-board-is-not-the-game-fad30735adfe?source=rss----138adf9c44c---4"/>
+        <updated>2026-06-15T22:18:47.000Z</updated>
+        <summary type="html"><![CDATA[Your AI product has pieces, cards, and screens. Nobody designed the game.
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Adrian Levy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The autonomy dial: a pattern toolkit for designing human control over AI]]></title>
+        <id>https://medium.com/p/12bfbe23ca70</id>
+        <link href="https://uxdesign.cc/the-autonomy-dial-a-pattern-toolkit-for-designing-human-control-over-ai-12bfbe23ca70?source=rss----138adf9c44c---4"/>
+        <updated>2026-06-15T22:18:24.000Z</updated>
+        <summary type="html"><![CDATA[A practical method for setting how much an AI does on its own, plus six control patterns for human oversight.
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Vadym Grin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No, design is not dead. Neither is engineering or product.]]></title>
+        <id>https://medium.com/p/bd6019410818</id>
+        <link href="https://uxdesign.cc/no-design-is-not-dead-neither-is-engineering-or-product-bd6019410818?source=rss----138adf9c44c---4"/>
+        <updated>2026-06-15T22:18:01.000Z</updated>
+        <author>
+            <name>Revanth Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The World of Atoms, Not Bits⚛️, The VC Liquidity Crunch💸, From Prompts to Orchestration🛠️]]></title>
+        <id>https://www.thevccorner.com/p/the-world-of-atoms-not-bits-the-vc</id>
+        <link href="https://www.thevccorner.com/p/the-world-of-atoms-not-bits-the-vc"/>
+        <updated>2026-06-15T21:37:39.000Z</updated>
+        <summary type="html"><![CDATA[Another week, another pulse check on Tech.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mythos BANNED (explained)]]></title>
+        <id>https://www.youtube.com/shorts/W53XPj4tAyE</id>
+        <link href="https://www.youtube.com/shorts/W53XPj4tAyE"/>
+        <updated>2026-06-15T18:25:41.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Effectively Align with Claude Code]]></title>
+        <id>https://towardsdatascience.com/?p=609373</id>
+        <link href="https://towardsdatascience.com/how-to-effectively-align-with-claude-code/"/>
+        <updated>2026-06-15T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Increase productivity with your LLMs
+The post How to Effectively Align with Claude Code appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎙️ How I AI: Claude Fable 5 review & How Braintrust uses AI agents, evals, and CI to ship better software]]></title>
+        <id>https://www.lennysnewsletter.com/p/how-i-ai-claude-fable-5-review-and</id>
+        <link href="https://www.lennysnewsletter.com/p/how-i-ai-claude-fable-5-review-and"/>
+        <updated>2026-06-15T15:01:32.000Z</updated>
+        <summary type="html"><![CDATA[Your weekly listens from How I AI, part of the Lenny's Podcast Network]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Protocol That Cleaned Up Our Agent Architecture]]></title>
+        <id>https://towardsdatascience.com/?p=609371</id>
+        <link href="https://towardsdatascience.com/the-protocol-that-cleaned-up-our-agent-architecture/"/>
+        <updated>2026-06-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A detailed look at MCP that turned my scattered tool definitions into a stable, discoverable server
+The post The Protocol That Cleaned Up Our Agent Architecture appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Priyansh Bhardwaj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built 11 Models to Predict the 2026 World Cup. They Crown Four Different Champions.]]></title>
+        <id>https://towardsdatascience.com/?p=609369</id>
+        <link href="https://towardsdatascience.com/i-built-11-models-to-predict-the-2026-world-cup-they-crown-four-different-champions/"/>
+        <updated>2026-06-15T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A single model hands you a single answer and no sense of how much it hinges on the dozens of choices buried inside it.
+The post I Built 11 Models to Predict the 2026 World Cup. They Crown Four Different Champions. appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ari Joury, PhD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do THIS Instead of watching endless AI Engineer Roadmaps (DataCamp Review)]]></title>
+        <id>https://www.youtube.com/watch?v=ki0UR5ZP_QY</id>
+        <link href="https://www.youtube.com/watch?v=ki0UR5ZP_QY"/>
+        <updated>2026-06-15T13:00:10.000Z</updated>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenRouter Fusion Makes the Case for Compound AI Models]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/openrouter-fusion-makes-the-case-for-compound-ai-models/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/openrouter-fusion-makes-the-case-for-compound-ai-models/"/>
+        <updated>2026-06-15T12:30:47.822Z</updated>
+        <summary type="html"><![CDATA[OpenRouter’s Fusion API packages a power-user workflow: ask multiple models, compare their answers, surface blind spots, and synthesize the result. The bigger story is customizable model bundles.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Braintrust uses AI agents, evals, and CI to ship better software | Ankur Goyal]]></title>
+        <id>https://www.lennysnewsletter.com/p/how-braintrust-uses-ai-agents-evals</id>
+        <link href="https://www.lennysnewsletter.com/p/how-braintrust-uses-ai-agents-evals"/>
+        <updated>2026-06-15T12:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Watch now | 🎙️ “Evals are the modern version of a PRD”: Ankur Goyal (Braintrust) on encoding taste into systems that scale]]></summary>
+        <author>
+            <name>Claire Vo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The System Always Knows: Why Local Efficiency and System Performance Are Not the Same Problem]]></title>
+        <id>https://towardsdatascience.com/?p=609367</id>
+        <link href="https://towardsdatascience.com/the-system-always-knows/"/>
+        <updated>2026-06-15T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How local optimization in last‑mile delivery can quietly break the system
+The post The System Always Knows: Why Local Efficiency and System Performance Are Not the Same Problem appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Arjun Kaarat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[零基礎玩 AI Agent｜免費用 Hermes Agent Windows Desktop，不用 API 也能跑本機模型｜新手教學]]></title>
+        <id>https://www.youtube.com/watch?v=X-Lk-NBpsQE</id>
+        <link href="https://www.youtube.com/watch?v=X-Lk-NBpsQE"/>
+        <updated>2026-06-15T11:59:52.000Z</updated>
+        <author>
+            <name>Dr. Jackei 科技生活日誌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Separates a Side Project From a Real AI Product]]></title>
+        <id>https://www.youtube.com/shorts/6RyjqwweIDA</id>
+        <link href="https://www.youtube.com/shorts/6RyjqwweIDA"/>
+        <updated>2026-06-15T11:53:28.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The T-shaped UX professional is giving way to the polymath architect]]></title>
+        <id>https://medium.com/p/987008ada937</id>
+        <link href="https://uxdesign.cc/the-t-shaped-ux-professional-is-giving-way-to-the-polymath-architect-987008ada937?source=rss----138adf9c44c---4"/>
+        <updated>2026-06-15T11:19:19.000Z</updated>
+        <author>
+            <name>Patrick Neeman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Past form, future use]]></title>
+        <id>https://medium.com/p/05b112952374</id>
+        <link href="https://uxdesign.cc/past-form-future-use-05b112952374?source=rss----138adf9c44c---4"/>
+        <updated>2026-06-15T11:18:03.000Z</updated>
+        <summary type="html"><![CDATA[On letting fifty centimeters speak three hundred years
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Hiroshi Sato</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI democratized the answer, not the understanding]]></title>
+        <id>https://medium.com/p/5c12da448030</id>
+        <link href="https://uxdesign.cc/ai-democratized-the-answer-not-the-understanding-5c12da448030?source=rss----138adf9c44c---4"/>
+        <updated>2026-06-15T11:17:44.000Z</updated>
+        <summary type="html"><![CDATA[Producing an answer became efortless. Knowing whether it is right did not.
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Wira Indra Kusuma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fluent AI, Liquid Glass, flaw as a feature, AX Design]]></title>
+        <id>https://medium.com/p/4172e246cd8e</id>
+        <link href="https://uxdesign.cc/fluent-ai-liquid-glass-flaw-as-a-feature-ax-design-4172e246cd8e?source=rss----138adf9c44c---4"/>
+        <updated>2026-06-15T11:16:01.000Z</updated>
+        <author>
+            <name>Fabricio Teixeira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 42 states just subpoenaed OpenAI]]></title>
+        <id>https://www.theneuron.ai/newsletter/42-states-just-subpoenaed-openai/</id>
+        <link href="https://www.theneuron.ai/newsletter/42-states-just-subpoenaed-openai/"/>
+        <updated>2026-06-15T10:03:05.671Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenClaw vs Hermes Agent (Don’t choose WRONG!)]]></title>
+        <id>https://www.youtube.com/watch?v=jOK10k70XWE</id>
+        <link href="https://www.youtube.com/watch?v=jOK10k70XWE"/>
+        <updated>2026-06-15T08:52:12.000Z</updated>
+        <author>
+            <name>Metics Media</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Access is not mastery]]></title>
         <id>https://medium.com/p/bd59e0610828</id>
@@ -6192,109 +6413,6 @@ The post How to Maximize OpenAI’s Codex appeared first on Towards Data Science
 The post Pandas Isn’t Going Anywhere: Why It’s Still My Go-To for Data Wrangling appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Soner Yıldırım</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLM Evals Are Based on Vibes — I Built the Missing Layer That Decides What Ships]]></title>
-        <id>https://towardsdatascience.com/?p=609115</id>
-        <link href="https://towardsdatascience.com/llm-evals-are-based-on-vibes-i-built-the-missing-layer-that-decides-what-ships/"/>
-        <updated>2026-05-17T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most LLM evaluation systems rely on vague scoring and human judgment disguised as metrics. I built a lightweight evaluation layer in pure Python that turns LLM outputs into reproducible decisions by separating attribution, specificity, and relevance—so hallucinations are caught before they reach production.
-The post LLM Evals Are Based on Vibes — I Built the Missing Layer That Decides What Ships appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Emmimal P Alexander</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why we’re at the beginning of the AI hardware boom | Caitlin Kalinowski (ex–OpenAI, Meta, Apple)]]></title>
-        <id>https://www.lennysnewsletter.com/p/why-were-at-the-beginning-of-the</id>
-        <link href="https://www.lennysnewsletter.com/p/why-were-at-the-beginning-of-the"/>
-        <updated>2026-05-17T12:31:57.000Z</updated>
-        <summary type="html"><![CDATA[Listen now | Caitlin Kalinowski on supply chain vulnerabilities threaten the robotics revolution, why consumer VR failed, and what she learned building products at Apple, Meta, and OpenAI]]></summary>
-        <author>
-            <name>Lenny Rachitsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧠 Community Wisdom: Screening AI slop in hiring, Wispr Flow alternatives for voice transcription, multi-agent pipeline vs. MCP, and more]]></title>
-        <id>https://www.lennysnewsletter.com/p/community-wisdom-screening-ai-slop</id>
-        <link href="https://www.lennysnewsletter.com/p/community-wisdom-screening-ai-slop"/>
-        <updated>2026-05-16T21:46:34.000Z</updated>
-        <summary type="html"><![CDATA[Community Wisdom 185]]></summary>
-        <author>
-            <name>Kiyani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should we be kind to machines (for our own sake, really)?]]></title>
-        <id>https://medium.com/p/26acf222af29</id>
-        <link href="https://uxdesign.cc/should-we-be-kind-to-machines-for-our-own-sake-really-26acf222af29?source=rss----138adf9c44c---4"/>
-        <updated>2026-05-16T19:11:51.000Z</updated>
-        <author>
-            <name>Dora Czerna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to write a DESIGN.md file Claude can actually use]]></title>
-        <id>https://medium.com/p/2d89d183f823</id>
-        <link href="https://uxdesign.cc/how-to-write-a-design-md-file-claude-can-actually-use-2d89d183f823?source=rss----138adf9c44c---4"/>
-        <updated>2026-05-16T19:11:22.000Z</updated>
-        <summary type="html"><![CDATA[Your DESIGN.md should tell a story of your product
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Lisa Demchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Opening your place to the street]]></title>
-        <id>https://medium.com/p/cf6519afefca</id>
-        <link href="https://uxdesign.cc/opening-your-place-to-the-street-cf6519afefca?source=rss----138adf9c44c---4"/>
-        <updated>2026-05-16T19:10:46.000Z</updated>
-        <summary type="html"><![CDATA[On opening a channel to the upstream conversation ─ notes for designers thinking through the age of AI
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Hiroshi Sato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The undo problem in AI products]]></title>
-        <id>https://medium.com/p/c90ff080de3b</id>
-        <link href="https://uxdesign.cc/the-undo-problem-in-ai-products-c90ff080de3b?source=rss----138adf9c44c---4"/>
-        <updated>2026-05-16T19:08:45.000Z</updated>
-        <author>
-            <name>Adi Leviim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mid level AI engineers are making up to $220,000 a year and demand is only growing 🔥]]></title>
-        <id>https://www.youtube.com/shorts/SCYJxkZMREI</id>
-        <link href="https://www.youtube.com/shorts/SCYJxkZMREI"/>
-        <updated>2026-05-16T15:45:02.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Data Analyst to Data Engineer: My 12-Month Self-Study Roadmap]]></title>
-        <id>https://towardsdatascience.com/?p=609113</id>
-        <link href="https://towardsdatascience.com/from-data-analyst-to-data-engineer-my-12-month-self-study-roadmap/"/>
-        <updated>2026-05-16T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The exact tools I'm learning, the projects I'm building, and the mistakes I'm already expecting to make
-The post From Data Analyst to Data Engineer: My 12-Month Self-Study Roadmap appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ibrahim Salami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 9 Sections Every DESIGN.md Needs]]></title>
-        <id>https://medium.com/p/3a372dd7e7b1</id>
-        <link href="https://generativeai.pub/the-9-sections-every-design-md-needs-3a372dd7e7b1?source=rss----440100e76000---4"/>
-        <updated>2026-05-16T14:33:38.000Z</updated>
-        <summary type="html"><![CDATA[What 70,000 developers bookmarked, what Google open-sourced, and why plain markdown beats your design toolchain
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Yanli Liu</name>
         </author>
     </entry>
 </feed>

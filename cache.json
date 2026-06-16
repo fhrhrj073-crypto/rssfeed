@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ki0UR5ZP_QY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ki0UR5ZP_QY",
+          "publishedOn": "2026-06-15T13:00:10.000Z",
+          "wordCount": null,
+          "title": "Do THIS Instead of watching endless AI Engineer Roadmaps (DataCamp Review)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/6RyjqwweIDA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/6RyjqwweIDA",
+          "publishedOn": "2026-06-15T11:53:28.000Z",
+          "wordCount": 2611,
+          "title": "What Separates a Side Project From a Real AI Product",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/xPI2Dw0y4yU",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
@@ -374,16 +394,6 @@
           "wordCount": null,
           "title": "Devin AI Is the Future of Coding… Full Tutorial",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/SCYJxkZMREI",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/SCYJxkZMREI",
-          "publishedOn": "2026-05-16T15:45:02.000Z",
-          "wordCount": 2181,
-          "title": "Mid level AI engineers are making up to $220,000 a year and demand is only growing 🔥",
-          "imageUrl": null
         }
       ]
     },
@@ -479,6 +489,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuwpzP90g1LuGk6JUNms_AQ",
       "siteUrl": "https://www.youtube.com/channel/UCuwpzP90g1LuGk6JUNms_AQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=jOK10k70XWE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jOK10k70XWE",
+          "publishedOn": "2026-06-15T08:52:12.000Z",
+          "wordCount": null,
+          "title": "OpenClaw vs Hermes Agent (Don’t choose WRONG!)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=QNmIVj7bBng",
           "author": null,
@@ -636,6 +656,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCawZsQWqfGSbCI5yjkdVkTA",
       "siteUrl": "https://www.youtube.com/channel/UCawZsQWqfGSbCI5yjkdVkTA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/W53XPj4tAyE",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/W53XPj4tAyE",
+          "publishedOn": "2026-06-15T18:25:41.000Z",
+          "wordCount": 2088,
+          "title": "Mythos BANNED (explained)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=xvfz3gXVYNI",
           "author": null,
@@ -1335,6 +1365,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZgwgJ1i9ywc2UweRwp09gg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=X-Lk-NBpsQE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=X-Lk-NBpsQE",
+          "publishedOn": "2026-06-15T11:59:52.000Z",
+          "wordCount": null,
+          "title": "零基礎玩 AI Agent｜免費用 Hermes Agent Windows Desktop，不用 API 也能跑本機模型｜新手教學",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=QmHI370amUc",
           "author": null,
           "description": "",
@@ -1442,6 +1482,38 @@
       "feedUrl": "https://www.lennysnewsletter.com/feed",
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
+        {
+          "id": "https://www.lennysnewsletter.com/p/how-i-ai-claude-fable-5-review-and",
+          "author": "Lenny Rachitsky",
+          "description": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+          "link": "https://www.lennysnewsletter.com/p/how-i-ai-claude-fable-5-review-and",
+          "publishedOn": "2026-06-15T15:01:32.000Z",
+          "wordCount": null,
+          "title": "🎙️ How I AI: Claude Fable 5 review & How Braintrust uses AI agents, evals, and CI to ship better software",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/1c21ead7-9311-453f-9dce-9afa916e3466_1456x1048.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/1c21ead7-9311-453f-9dce-9afa916e3466_1456x1048.png"
+        },
+        {
+          "id": "https://www.lennysnewsletter.com/p/how-braintrust-uses-ai-agents-evals",
+          "author": "Claire Vo",
+          "description": "Watch now | 🎙️ “Evals are the modern version of a PRD”: Ankur Goyal (Braintrust) on encoding taste into systems that scale",
+          "link": "https://www.lennysnewsletter.com/p/how-braintrust-uses-ai-agents-evals",
+          "publishedOn": "2026-06-15T12:04:03.000Z",
+          "wordCount": null,
+          "title": "How Braintrust uses AI agents, evals, and CI to ship better software | Ankur Goyal",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/201229109/5c2760fb38b77dfed89116b9bf36dd0c.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://www.lennysnewsletter.com/p/the-common-pattern-behind-successful",
           "author": "Lenny Rachitsky",
@@ -1841,38 +1913,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/why-were-at-the-beginning-of-the",
-          "author": "Lenny Rachitsky",
-          "description": "Listen now | Caitlin Kalinowski on supply chain vulnerabilities threaten the robotics revolution, why consumer VR failed, and what she learned building products at Apple, Meta, and OpenAI",
-          "link": "https://www.lennysnewsletter.com/p/why-were-at-the-beginning-of-the",
-          "publishedOn": "2026-05-17T12:31:57.000Z",
-          "wordCount": null,
-          "title": "Why we’re at the beginning of the AI hardware boom | Caitlin Kalinowski (ex–OpenAI, Meta, Apple)",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/196483701/2f9a6c609377e62db434fdc5c77f8072.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/community-wisdom-screening-ai-slop",
-          "author": "Kiyani",
-          "description": "Community Wisdom 185",
-          "link": "https://www.lennysnewsletter.com/p/community-wisdom-screening-ai-slop",
-          "publishedOn": "2026-05-16T21:46:34.000Z",
-          "wordCount": null,
-          "title": "🧠 Community Wisdom: Screening AI slop in hiring, Wispr Flow alternatives for voice transcription, multi-agent pipeline vs. MCP, and more",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png"
         }
       ]
     },
@@ -1881,6 +1921,22 @@
       "feedUrl": "https://www.thevccorner.com/feed",
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
+        {
+          "id": "https://www.thevccorner.com/p/the-world-of-atoms-not-bits-the-vc",
+          "author": "Ruben Dominguez",
+          "description": "Another week, another pulse check on Tech.",
+          "link": "https://www.thevccorner.com/p/the-world-of-atoms-not-bits-the-vc",
+          "publishedOn": "2026-06-15T21:37:39.000Z",
+          "wordCount": null,
+          "title": "The World of Atoms, Not Bits⚛️, The VC Liquidity Crunch💸, From Prompts to Orchestration🛠️",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!7qCq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f4afe3e-48a7-42a2-8bc9-8eae3c5f0e3b_848x477.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!7qCq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f4afe3e-48a7-42a2-8bc9-8eae3c5f0e3b_848x477.webp"
+        },
         {
           "id": "https://www.thevccorner.com/p/spacex-spcx-ipo-day-one-results-valuation-documents-2026",
           "author": "Ruben Dominguez",
@@ -2240,6 +2296,36 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-monday-june-15-2026/",
+          "author": null,
+          "description": "Anthropic's Fable and Mythos fight spilled into cyber policy and markets; Salesforce agreed to buy Fin for $3.6B; Qualcomm eyed Tenstorrent; Zhipu surged; plus much more.",
+          "link": "https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-monday-june-15-2026/",
+          "publishedOn": "2026-06-15T23:43:30.737Z",
+          "wordCount": null,
+          "title": "Everything That Happened in AI Today (Monday, June 15, 2026)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/openrouter-fusion-makes-the-case-for-compound-ai-models/",
+          "author": null,
+          "description": "OpenRouter’s Fusion API packages a power-user workflow: ask multiple models, compare their answers, surface blind spots, and synthesize the result. The bigger story is customizable model bundles.",
+          "link": "https://www.theneuron.ai/explainer-articles/openrouter-fusion-makes-the-case-for-compound-ai-models/",
+          "publishedOn": "2026-06-15T12:30:47.822Z",
+          "wordCount": null,
+          "title": "OpenRouter Fusion Makes the Case for Compound AI Models",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/newsletter/42-states-just-subpoenaed-openai/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/42-states-just-subpoenaed-openai/",
+          "publishedOn": "2026-06-15T10:03:05.671Z",
+          "wordCount": null,
+          "title": "😺 42 states just subpoenaed OpenAI",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/newsletter/us-gov-shuts-down-claude-fable/",
           "author": null,
@@ -2987,6 +3073,46 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=609373",
+          "author": "Eivind Kjosbakken",
+          "description": "Increase productivity with your LLMs\nThe post How to Effectively Align with Claude Code appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-effectively-align-with-claude-code/",
+          "publishedOn": "2026-06-15T16:30:00.000Z",
+          "wordCount": 4895,
+          "title": "How to Effectively Align with Claude Code",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/coding-agent-alignment_cover.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609371",
+          "author": "Priyansh Bhardwaj",
+          "description": "A detailed look at MCP that turned my scattered tool definitions into a stable, discoverable server\nThe post The Protocol That Cleaned Up Our Agent Architecture appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-protocol-that-cleaned-up-our-agent-architecture/",
+          "publishedOn": "2026-06-15T15:00:00.000Z",
+          "wordCount": 4972,
+          "title": "The Protocol That Cleaned Up Our Agent Architecture",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/MCP_Article.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609369",
+          "author": "Ari Joury, PhD",
+          "description": "A single model hands you a single answer and no sense of how much it hinges on the dozens of choices buried inside it.\nThe post I Built 11 Models to Predict the 2026 World Cup. They Crown Four Different Champions. appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/i-built-11-models-to-predict-the-2026-world-cup-they-crown-four-different-champions/",
+          "publishedOn": "2026-06-15T13:30:00.000Z",
+          "wordCount": 5405,
+          "title": "I Built 11 Models to Predict the 2026 World Cup. They Crown Four Different Champions.",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/lucid-origin_Photograph_of_a_lone_goal_frame_on_a_dusty_desert_field_weathered_net_muted_clay-0.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609367",
+          "author": "Arjun Kaarat",
+          "description": "How local optimization in last‑mile delivery can quietly break the system\nThe post The System Always Knows: Why Local Efficiency and System Performance Are Not the Same Problem appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-system-always-knows/",
+          "publishedOn": "2026-06-15T12:00:00.000Z",
+          "wordCount": 5948,
+          "title": "The System Always Knows: Why Local Efficiency and System Performance Are Not the Same Problem",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/Hero.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=609363",
           "author": "Haden Pelletier",
@@ -4096,26 +4222,6 @@
           "wordCount": 4152,
           "title": "Pandas Isn’t Going Anywhere: Why It’s Still My Go-To for Data Wrangling",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/efe-yagiz-soysal-SgU7-iZn8m8-unsplash-Medium.jpeg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609115",
-          "author": "Emmimal P Alexander",
-          "description": "Most LLM evaluation systems rely on vague scoring and human judgment disguised as metrics. I built a lightweight evaluation layer in pure Python that turns LLM outputs into reproducible decisions by separating attribution, specificity, and relevance—so hallucinations are caught before they reach production.\nThe post LLM Evals Are Based on Vibes — I Built the Missing Layer That Decides What Ships appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/llm-evals-are-based-on-vibes-i-built-the-missing-layer-that-decides-what-ships/",
-          "publishedOn": "2026-05-17T13:00:00.000Z",
-          "wordCount": 7990,
-          "title": "LLM Evals Are Based on Vibes — I Built the Missing Layer That Decides What Ships",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Missing-Scoring-Layer.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609113",
-          "author": "Ibrahim Salami",
-          "description": "The exact tools I'm learning, the projects I'm building, and the mistakes I'm already expecting to make\nThe post From Data Analyst to Data Engineer: My 12-Month Self-Study Roadmap appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/from-data-analyst-to-data-engineer-my-12-month-self-study-roadmap/",
-          "publishedOn": "2026-05-16T15:00:00.000Z",
-          "wordCount": 4848,
-          "title": "From Data Analyst to Data Engineer: My 12-Month Self-Study Roadmap",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/data-engineer.jpg"
         }
       ]
     },
@@ -4130,6 +4236,76 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/fad30735adfe",
+          "author": "Adrian Levy",
+          "description": "Your AI product has pieces, cards, and screens. Nobody designed the game.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/the-board-is-not-the-game-fad30735adfe?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-15T22:18:47.000Z",
+          "wordCount": null,
+          "title": "The board is not the game",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/12bfbe23ca70",
+          "author": "Vadym Grin",
+          "description": "A practical method for setting how much an AI does on its own, plus six control patterns for human oversight.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/the-autonomy-dial-a-pattern-toolkit-for-designing-human-control-over-ai-12bfbe23ca70?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-15T22:18:24.000Z",
+          "wordCount": null,
+          "title": "The autonomy dial: a pattern toolkit for designing human control over AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/bd6019410818",
+          "author": "Revanth Krishna",
+          "description": "",
+          "link": "https://uxdesign.cc/no-design-is-not-dead-neither-is-engineering-or-product-bd6019410818?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-15T22:18:01.000Z",
+          "wordCount": null,
+          "title": "No, design is not dead. Neither is engineering or product.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/987008ada937",
+          "author": "Patrick Neeman",
+          "description": "",
+          "link": "https://uxdesign.cc/the-t-shaped-ux-professional-is-giving-way-to-the-polymath-architect-987008ada937?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-15T11:19:19.000Z",
+          "wordCount": null,
+          "title": "The T-shaped UX professional is giving way to the polymath architect",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/05b112952374",
+          "author": "Hiroshi Sato",
+          "description": "On letting fifty centimeters speak three hundred years\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/past-form-future-use-05b112952374?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-15T11:18:03.000Z",
+          "wordCount": null,
+          "title": "Past form, future use",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5c12da448030",
+          "author": "Wira Indra Kusuma",
+          "description": "Producing an answer became efortless. Knowing whether it is right did not.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/ai-democratized-the-answer-not-the-understanding-5c12da448030?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-15T11:17:44.000Z",
+          "wordCount": null,
+          "title": "AI democratized the answer, not the understanding",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4172e246cd8e",
+          "author": "Fabricio Teixeira",
+          "description": "",
+          "link": "https://uxdesign.cc/fluent-ai-liquid-glass-flaw-as-a-feature-ax-design-4172e246cd8e?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-15T11:16:01.000Z",
+          "wordCount": null,
+          "title": "Fluent AI, Liquid Glass, flaw as a feature, AX Design",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/bd59e0610828",
           "author": "Takuma Kakehi",
@@ -4888,46 +5064,6 @@
           "publishedOn": "2026-05-17T21:38:38.000Z",
           "wordCount": null,
           "title": "Two gears, one compass: designing at velocity while sustaining quality",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/26acf222af29",
-          "author": "Dora Czerna",
-          "description": "",
-          "link": "https://uxdesign.cc/should-we-be-kind-to-machines-for-our-own-sake-really-26acf222af29?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-05-16T19:11:51.000Z",
-          "wordCount": null,
-          "title": "Should we be kind to machines (for our own sake, really)?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/2d89d183f823",
-          "author": "Lisa Demchenko",
-          "description": "Your DESIGN.md should tell a story of your product\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/how-to-write-a-design-md-file-claude-can-actually-use-2d89d183f823?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-05-16T19:11:22.000Z",
-          "wordCount": null,
-          "title": "How to write a DESIGN.md file Claude can actually use",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/cf6519afefca",
-          "author": "Hiroshi Sato",
-          "description": "On opening a channel to the upstream conversation ─ notes for designers thinking through the age of AI\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/opening-your-place-to-the-street-cf6519afefca?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-05-16T19:10:46.000Z",
-          "wordCount": null,
-          "title": "Opening your place to the street",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c90ff080de3b",
-          "author": "Adi Leviim",
-          "description": "",
-          "link": "https://uxdesign.cc/the-undo-problem-in-ai-products-c90ff080de3b?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-05-16T19:08:45.000Z",
-          "wordCount": null,
-          "title": "The undo problem in AI products",
           "imageUrl": null
         }
       ]
@@ -6748,16 +6884,6 @@
           "publishedOn": "2026-05-18T12:55:46.000Z",
           "wordCount": null,
           "title": "The New LLM risk : Skills",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/3a372dd7e7b1",
-          "author": "Yanli Liu",
-          "description": "What 70,000 developers bookmarked, what Google open-sourced, and why plain markdown beats your design toolchain\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/the-9-sections-every-design-md-needs-3a372dd7e7b1?source=rss----440100e76000---4",
-          "publishedOn": "2026-05-16T14:33:38.000Z",
-          "wordCount": null,
-          "title": "The 9 Sections Every DESIGN.md Needs",
           "imageUrl": null
         }
       ]
