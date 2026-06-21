@@ -2,10 +2,111 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-06-20T01:58:37.044Z</updated>
+    <updated>2026-06-21T02:10:25.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[😸 Deep Dive: How We Use ClickUp AI]]></title>
+        <id>https://www.theneuron.ai/newsletter/deep-dive-how-we-use-clickup-ai/</id>
+        <link href="https://www.theneuron.ai/newsletter/deep-dive-how-we-use-clickup-ai/"/>
+        <updated>2026-06-20T17:33:27.474Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😸 Introducing The Neuron Academy]]></title>
+        <id>https://www.theneuron.ai/newsletter/introducing-the-neuron-academy/</id>
+        <link href="https://www.theneuron.ai/newsletter/introducing-the-neuron-academy/"/>
+        <updated>2026-06-20T17:33:27.471Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Crucial Barriers Between Data Teams and Self-Healing Data Architecture]]></title>
+        <id>https://towardsdatascience.com/?p=609421</id>
+        <link href="https://towardsdatascience.com/7-crucial-barriers-between-data-teams-and-self-healing-data-architecture/"/>
+        <updated>2026-06-20T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What data teams need to build with AI to make self-healing data architecture a practical reality
+The post 7 Crucial Barriers Between Data Teams and Self-Healing Data Architecture appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Hugo Lu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Free AI Kit That Turns Any Founder Into a Content Machine]]></title>
+        <id>https://www.thevccorner.com/p/free-ai-creator-kit-founders-content-engine-2026</id>
+        <link href="https://www.thevccorner.com/p/free-ai-creator-kit-founders-content-engine-2026"/>
+        <updated>2026-06-20T16:56:26.000Z</updated>
+        <summary type="html"><![CDATA[This system beats a content team every time.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🧠 Community Wisdom: Fractional CPO compensation, free e-signature tools, why some users pay but never use your product, sharing Claude Code context across a team, and more]]></title>
+        <id>https://www.lennysnewsletter.com/p/community-wisdom-fractional-cpo-compensation</id>
+        <link href="https://www.lennysnewsletter.com/p/community-wisdom-fractional-cpo-compensation"/>
+        <updated>2026-06-20T15:53:05.000Z</updated>
+        <summary type="html"><![CDATA[Community Wisdom 190]]></summary>
+        <author>
+            <name>Kiyani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making a PDF’s Images Searchable for RAG, Without Paying to Read Them All]]></title>
+        <id>https://towardsdatascience.com/?p=609413</id>
+        <link href="https://towardsdatascience.com/making-a-pdfs-images-searchable-for-rag-without-paying-to-read-them-all/"/>
+        <updated>2026-06-20T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #5sexies] - image_df tells you where every picture is. Turning the few that matter into searchable text is a separate, cost-ordered job
+The post Making a PDF’s Images Searchable for RAG, Without Paying to Read Them All appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Kezhan Shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Materialized Lake Views in Microsoft Fabric: When Your Medallion Fits in a SELECT Statement]]></title>
+        <id>https://towardsdatascience.com/?p=609419</id>
+        <link href="https://towardsdatascience.com/materialized-lake-views-in-microsoft-fabric-when-your-medallion-fits-in-a-select-statement/"/>
+        <updated>2026-06-20T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Five surfaces collapsed into one declarative layer. Here's the full story of Materialized Lake Views in Microsoft Fabric - from syntax to the new GA capabilities
+The post Materialized Lake Views in Microsoft Fabric: When Your Medallion Fits in a SELECT Statement appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Nikola Ilic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Software Engineer Hiring Process Is Completely Broken in 2026]]></title>
+        <id>https://www.youtube.com/shorts/9qUU-NFFgSY</id>
+        <link href="https://www.youtube.com/shorts/9qUU-NFFgSY"/>
+        <updated>2026-06-20T12:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why SQL Is the Wrong Interface for Vector Search]]></title>
+        <id>https://medium.com/p/56d80594aaa0</id>
+        <link href="https://generativeai.pub/why-sql-is-the-wrong-interface-for-vector-search-56d80594aaa0?source=rss----440100e76000---4"/>
+        <updated>2026-06-20T03:35:08.000Z</updated>
+        <author>
+            <name>Alex Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Caught My Best Engineer Hiding AI Usage. The Problem Wasn’t the AI.]]></title>
+        <id>https://medium.com/p/0c2227ed82e8</id>
+        <link href="https://generativeai.pub/i-caught-my-best-engineer-hiding-ai-usage-the-problem-wasnt-the-ai-0c2227ed82e8?source=rss----440100e76000---4"/>
+        <updated>2026-06-20T03:23:25.000Z</updated>
+        <summary type="html"><![CDATA[My engineer wasn’t hiding the AI because he was cheating. He was hiding it because the environment hadn’t caught up to the tooling.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Revant</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Enterprise software is getting personal]]></title>
         <id>https://medium.com/p/dea453bee3e3</id>
@@ -6251,134 +6352,6 @@ Continue reading on Generative AI »]]></summary>
         <updated>2026-05-22T14:44:44.000Z</updated>
         <author>
             <name>Yelpin Sergey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Hidden Bottleneck in Quantum Machine Learning: Getting Data into a Quantum Computer]]></title>
-        <id>https://towardsdatascience.com/?p=609159</id>
-        <link href="https://towardsdatascience.com/the-hidden-bottleneck-in-quantum-machine-learning-getting-data-into-a-quantum-computer/"/>
-        <updated>2026-05-22T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Quantum Machine Learning promises access to exponentially large representational spaces, but before any computation can happen, classical data must first be embedded into quantum systems. This article explores one of the most overlooked bottlenecks in QML: getting data into a quantum computer efficiently.
-The post The Hidden Bottleneck in Quantum Machine Learning: Getting Data into a Quantum Computer appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Davinder Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built the Same App With Claude Code and Codex]]></title>
-        <id>https://www.youtube.com/watch?v=E2UgYp2vh5U</id>
-        <link href="https://www.youtube.com/watch?v=E2UgYp2vh5U"/>
-        <updated>2026-05-22T13:00:14.000Z</updated>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lost in Translation: How AI Exposes the Rift Between Law and Logic]]></title>
-        <id>https://towardsdatascience.com/?p=609157</id>
-        <link href="https://towardsdatascience.com/lost-in-translation-how-ai-exposes-the-rift-between-lw-and-logic/"/>
-        <updated>2026-05-22T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The tension between Legal and IT has always been frustrating but  AI is about to make it worse, at scale. The answer is observable compliance: encoding legal intent directly into architecture.
-The post Lost in Translation: How AI Exposes the Rift Between Law and Logic appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Corné POTGIETER</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build & Launch REAL Web Apps (Google AI + Firebase)]]></title>
-        <id>https://www.youtube.com/watch?v=DC4nSUX9pCc</id>
-        <link href="https://www.youtube.com/watch?v=DC4nSUX9pCc"/>
-        <updated>2026-05-22T11:00:28.000Z</updated>
-        <author>
-            <name>Metics Media</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything That Happened in AI on Wednesday - Thursday, May 20-21, 2026]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-on-wednesday---thursday-may-20-21-2026//</id>
-        <link href="https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-on-wednesday---thursday-may-20-21-2026//"/>
-        <updated>2026-05-22T10:10:33.420Z</updated>
-        <summary type="html"><![CDATA[OpenAI's model disproved an 80-year-old math conjecture; Trump delayed an AI order while California prepared workers for disruption; Spotify and UMG licensed fan-made AI covers; quantum firms landed $2B in grants; Starbucks and Waymo hit real-world AI failures; Cohere released Command A+.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😸 OpenAI solved an 80-year math problem by... disproving it]]></title>
-        <id>https://www.theneuron.ai/newsletter/openai-solved-an-80-year-math-problem-by-disproving-it/</id>
-        <link href="https://www.theneuron.ai/newsletter/openai-solved-an-80-year-math-problem-by-disproving-it/"/>
-        <updated>2026-05-22T10:00:21.687Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AGI Is the Wrong Scoreboard. This 7-Level Framework Explains AI Progress Better]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/agi-is-the-wrong-scoreboard-this-7-level-framework-explains-ai-progress-better/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/agi-is-the-wrong-scoreboard-this-7-level-framework-explains-ai-progress-better/"/>
-        <updated>2026-05-22T09:18:39.382Z</updated>
-        <summary type="html"><![CDATA[Greg Kamradt, Kol Tregaskes, and Google DeepMind point to the same idea: AGI is the wrong scoreboard because intelligence only matters when it can be trusted inside a frame. AI progress is therefor the expansion of what we can frame, test, and verify without losing contact with reality.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You should be spending 80% of your time building and 20% watching tutorials 🚀]]></title>
-        <id>https://www.youtube.com/shorts/9ufZJSsJ7vo</id>
-        <link href="https://www.youtube.com/shorts/9ufZJSsJ7vo"/>
-        <updated>2026-05-21T21:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Composer 2.5 and I INTERVIEWED THE CEO OF ALPHABET]]></title>
-        <id>https://www.youtube.com/watch?v=tk9lt-9x8mE</id>
-        <link href="https://www.youtube.com/watch?v=tk9lt-9x8mE"/>
-        <updated>2026-05-21T19:49:20.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is absolutely CRAZY]]></title>
-        <id>https://www.youtube.com/watch?v=Td2TaMWNUtA</id>
-        <link href="https://www.youtube.com/watch?v=Td2TaMWNUtA"/>
-        <updated>2026-05-21T19:43:02.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😺 Watch LIVE NOW: Building AI Voice Agents w/ LiveKit's Ben Cherry]]></title>
-        <id>https://www.theneuron.ai/newsletter/watch-live-now-building-ai-voice-agents-w-livekit-s-ben-cherry/</id>
-        <link href="https://www.theneuron.ai/newsletter/watch-live-now-building-ai-voice-agents-w-livekit-s-ben-cherry/"/>
-        <updated>2026-05-21T16:58:09.834Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLM Themes Are Not Observations]]></title>
-        <id>https://towardsdatascience.com/?p=609155</id>
-        <link href="https://towardsdatascience.com/llm-themes-are-not-observations/"/>
-        <updated>2026-05-21T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A practitioner's warning about generated variables in causal analysis
-The post LLM Themes Are Not Observations appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>William Gieng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Claude Skills Every Data Scientist Needs in 2026]]></title>
-        <id>https://towardsdatascience.com/?p=609153</id>
-        <link href="https://towardsdatascience.com/3-claude-skills-every-data-scientist-needs-in-2026/"/>
-        <updated>2026-05-21T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you don't want to be left behind, start doing these things with Claude
-The post 3 Claude Skills Every Data Scientist Needs in 2026 appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Haden Pelletier</name>
         </author>
     </entry>
 </feed>
