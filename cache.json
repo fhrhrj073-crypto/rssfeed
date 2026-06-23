@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=da5nLxqbTxE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=da5nLxqbTxE",
+          "publishedOn": "2026-06-22T14:49:50.000Z",
+          "wordCount": null,
+          "title": "I Built the Same App With MiniMax M3 and Composer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/64_sse5vSeU",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/64_sse5vSeU",
+          "publishedOn": "2026-06-22T12:00:14.000Z",
+          "wordCount": 2271,
+          "title": "Software Engineers Are Becoming Supervisors, Not Coders",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/wSB5ioctx1w",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
@@ -374,16 +394,6 @@
           "wordCount": 2112,
           "title": "The same AI engineering job can pay half the salary depending on where you work 🤯",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/DN-19EhBEpM",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/DN-19EhBEpM",
-          "publishedOn": "2026-05-24T02:15:45.000Z",
-          "wordCount": 2074,
-          "title": "Senior AI engineers are making $400,000 plus in total compensation right now 🤯",
-          "imageUrl": null
         }
       ]
     },
@@ -616,6 +626,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCawZsQWqfGSbCI5yjkdVkTA",
       "siteUrl": "https://www.youtube.com/channel/UCawZsQWqfGSbCI5yjkdVkTA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/xyJtjk-WZcA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/xyJtjk-WZcA",
+          "publishedOn": "2026-06-22T20:58:12.000Z",
+          "wordCount": 2084,
+          "title": "Use LOOPS for everything",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=F4a8aMLb678",
           "author": null,
@@ -1285,6 +1305,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCZgwgJ1i9ywc2UweRwp09gg",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/TCy0gf1q_2k",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/TCy0gf1q_2k",
+          "publishedOn": "2026-06-22T12:00:06.000Z",
+          "wordCount": 2095,
+          "title": "叫 Codex 控制電腦畫 Hello Kitty，結果竟然係咁…😂",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=X-Lk-NBpsQE",
           "author": null,
           "description": "",
@@ -1392,6 +1422,38 @@
       "feedUrl": "https://www.lennysnewsletter.com/feed",
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
+        {
+          "id": "https://www.lennysnewsletter.com/p/how-i-ai-how-to-write-ai-agent-loops",
+          "author": "Lenny Rachitsky",
+          "description": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+          "link": "https://www.lennysnewsletter.com/p/how-i-ai-how-to-write-ai-agent-loops",
+          "publishedOn": "2026-06-22T15:02:37.000Z",
+          "wordCount": null,
+          "title": "🎙️ How I AI: How to write AI agent loops in Claude Code and Codex + How Claude Mythos found a 15-year-old bug in Mozilla Firefox",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/a0360823-01e5-4060-a794-d51675b9befb_1456x1048.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/a0360823-01e5-4060-a794-d51675b9befb_1456x1048.png"
+        },
+        {
+          "id": "https://www.lennysnewsletter.com/p/how-claude-mythos-found-a-15-year",
+          "author": "Claire Vo",
+          "description": "Watch now | 🎙️423 security fixes in one month: Brian Grinstead (Mozilla) shows the goal-loop harness behind it, and why the model was only half the story",
+          "link": "https://www.lennysnewsletter.com/p/how-claude-mythos-found-a-15-year",
+          "publishedOn": "2026-06-22T12:03:06.000Z",
+          "wordCount": null,
+          "title": "How Claude Mythos found a 15-year-old bug in Mozilla Firefox | Brian Grinstead",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/202480416/565d4d9f8648f6fc863051748270dd17.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://www.lennysnewsletter.com/p/building-the-most-ai-pilled-engineering",
           "author": "Lenny Rachitsky",
@@ -1759,38 +1821,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/the-ai-paradox-dan-shipper",
-          "author": "Lenny Rachitsky",
-          "description": "Why most work will happen inside Codex or Claude Code, the CLI era is over, every agent needs a human, and why he’s wildly bullish on PMs and designers",
-          "link": "https://www.lennysnewsletter.com/p/the-ai-paradox-dan-shipper",
-          "publishedOn": "2026-05-24T12:31:49.000Z",
-          "wordCount": null,
-          "title": "The AI paradox: More automation, more humans, more work | Dan Shipper",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/197415169/96dea3a0bf7a7a85ea6cbce55365b5c8.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/community-wisdom-best-ai-cold-outreach",
-          "author": "Kiyani",
-          "description": "Community Wisdom 186",
-          "link": "https://www.lennysnewsletter.com/p/community-wisdom-best-ai-cold-outreach",
-          "publishedOn": "2026-05-23T20:33:09.000Z",
-          "wordCount": null,
-          "title": "🧠 Community Wisdom: Best AI cold outreach app, advice for college students interested in PM, the state of AI in design, the relevance of QA in 2026, and more",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png"
         }
       ]
     },
@@ -1799,6 +1829,22 @@
       "feedUrl": "https://www.thevccorner.com/feed",
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
+        {
+          "id": "https://www.thevccorner.com/p/vc-horror-stories",
+          "author": "Ruben Dominguez",
+          "description": "What happens when founders share their unfiltered stories on fundraising and meetings with VCs? Hilarious stories and drama that generate virality.",
+          "link": "https://www.thevccorner.com/p/vc-horror-stories",
+          "publishedOn": "2026-06-22T18:22:37.000Z",
+          "wordCount": null,
+          "title": "VC Horror Stories: The Week Founders Stopped Pretending",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!3mX5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F256e3141-f4ed-44be-bf87-44bb79f3cd30_1254x942.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!3mX5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F256e3141-f4ed-44be-bf87-44bb79f3cd30_1254x942.png"
+        },
         {
           "id": "https://www.thevccorner.com/p/taking-stock-of-the-seed-stage-how",
           "author": "Ruben Dominguez",
@@ -2174,6 +2220,46 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-monday-june-22-2026/",
+          "author": null,
+          "description": "Sakana launched Fugu, a one-API multi-agent model; OpenAI expanded Daybreak for software security; AI infrastructure debt and power deals accelerated; Five Eyes warned on frontier cyber models; Getty struck an OpenAI display deal.",
+          "link": "https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-monday-june-22-2026/",
+          "publishedOn": "2026-06-22T23:34:06.872Z",
+          "wordCount": null,
+          "title": "Everything That Happened in AI Today (Monday, June 22, 2026)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/diffusion-llms-just-got-their-first-serious-transparency-test/",
+          "author": null,
+          "description": "Diffusion LLMs like Mercury made the case for speed. A new DiffusionGemma paper asks the harder question: can we inspect how these models reason while they refine an answer? The early answer is encouraging, but it opens a new product and safety frontier.",
+          "link": "https://www.theneuron.ai/explainer-articles/diffusion-llms-just-got-their-first-serious-transparency-test/",
+          "publishedOn": "2026-06-22T17:05:29.017Z",
+          "wordCount": null,
+          "title": "Diffusion LLMs Just Got Their First Serious Transparency Test",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/gpt-56-rumors-everything-we-think-we-know/",
+          "author": null,
+          "description": "GPT-5.6 is still unreleased, but the rumors suggest OpenAI’s next move may be all about about models that can build, inspect, revise, and ship real work.",
+          "link": "https://www.theneuron.ai/explainer-articles/gpt-56-rumors-everything-we-think-we-know/",
+          "publishedOn": "2026-06-22T16:05:43.687Z",
+          "wordCount": null,
+          "title": "GPT-5.6 Rumors: Everything We Think We Know",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/newsletter/glm-5-2-brings-1m-context-7f77/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/glm-5-2-brings-1m-context-7f77/",
+          "publishedOn": "2026-06-22T10:01:23.949Z",
+          "wordCount": null,
+          "title": "😺 GLM 5.2 brings 1M context",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/newsletter/deepmind-mapped-ai-agent-controls-f6d1/",
           "author": null,
@@ -2971,6 +3057,46 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=609435",
+          "author": "W Brett Kennedy",
+          "description": "Why one-hot encoding isn’t always the best approach, and alternative encodings\nThe post Encoding Categorical Data for Outlier Detection appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/encoding-categorical-data-for-outlier-detection/",
+          "publishedOn": "2026-06-22T16:30:00.000Z",
+          "wordCount": 7105,
+          "title": "Encoding Categorical Data for Outlier Detection",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/scatter_plot.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609433",
+          "author": "Eivind Kjosbakken",
+          "description": "Learn how to apply coding agents to verify work in your browser. \nThe post How to Use Claude Code in Your Browser appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-use-claude-code-in-your-browser/",
+          "publishedOn": "2026-06-22T15:00:00.000Z",
+          "wordCount": 4624,
+          "title": "How to Use Claude Code in Your Browser",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/coding-agents-browser_cover.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609429",
+          "author": "angela shi",
+          "description": "Enterprise Document Intelligence [Vol.1 #6bis] - Ask one focused clarification, learn the default from the answer, stay silent next time\nThe post When RAG Users Ask Vague Questions: Clarify Once, Learn the Default appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/when-rag-users-ask-vague-questions-clarify-once-learn-the-default/",
+          "publishedOn": "2026-06-22T13:30:00.000Z",
+          "wordCount": 5207,
+          "title": "When RAG Users Ask Vague Questions: Clarify Once, Learn the Default",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/sticky_note_ETRPjvb0KM0_v3_card.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609427",
+          "author": "Nikhil Dasari",
+          "description": "The intuition behind neural networks and why they need activation functions.\nThe post Neural Networks, Explained for Beginners: Start Here If They’ve Confused You appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/neural-networks-explained-for-beginners-start-here-if-theyve-confused-you/",
+          "publishedOn": "2026-06-22T12:00:00.000Z",
+          "wordCount": 7557,
+          "title": "Neural Networks, Explained for Beginners: Start Here If They’ve Confused You",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/pexels-david-bartus-43782-366791-scaled-1.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=609425",
           "author": "Maria Mouschoutzi",
@@ -4110,36 +4236,6 @@
           "wordCount": 5978,
           "title": "The Ultimate Beginners’ Guide to Building an AI Agent in Python",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/mohamed-nohassi-9Ge8ngH6JeQ-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609171",
-          "author": "Radmila Mandzhieva",
-          "description": "Unlock the power of API for data-driven solutions\nThe post Beyond the Model: Why Data Scientists Must Embrace APIs and API Documentation appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/beyond-the-model-why-data-scientists-must-embrace-apis-and-api-documentation/",
-          "publishedOn": "2026-05-24T13:00:00.000Z",
-          "wordCount": 6040,
-          "title": "Beyond the Model: Why Data Scientists Must Embrace APIs and API Documentation",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/api_updated-copy.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609169",
-          "author": "Fetze Pijlman",
-          "description": "Optimal Resolution in Histograms: A Rigorous Bayesian Approach to Density Fitting\nThe post How to Mathematically Choose the Optimal Bins for Your Histogram appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/fun-with-histograms-and-densities/",
-          "publishedOn": "2026-05-23T17:00:00.000Z",
-          "wordCount": 5026,
-          "title": "How to Mathematically Choose the Optimal Bins for Your Histogram",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/main_figure2.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609175",
-          "author": "Ivo Bernardo",
-          "description": "An intro to recommender systems\nThe post Beyond the Scroll: How Social Media Algorithms Shape Your Reality appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/beyond-the-scroll-how-social-media-algorithms-shape-your-reality/",
-          "publishedOn": "2026-05-23T15:00:00.000Z",
-          "wordCount": 5555,
-          "title": "Beyond the Scroll: How Social Media Algorithms Shape Your Reality",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/image-252.jpg"
         }
       ]
     },
@@ -4154,6 +4250,56 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/135cb8b10c34",
+          "author": "Aurélie Radom",
+          "description": "",
+          "link": "https://uxdesign.cc/the-organizational-cost-of-low-taste-135cb8b10c34?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-22T16:46:04.000Z",
+          "wordCount": null,
+          "title": "The organizational cost of low taste",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1ed2c43fe38f",
+          "author": "Wira Indra Kusuma",
+          "description": "Every number says Google AI Search is better. None of them can see the cost.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/better-search-worse-web-1ed2c43fe38f?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-22T16:45:25.000Z",
+          "wordCount": null,
+          "title": "Better search, worse web",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/88edc2288979",
+          "author": "Fabricio Teixeira",
+          "description": "",
+          "link": "https://uxdesign.cc/access-is-not-mastery-the-polymath-ux-architect-a2ui-under-the-hood-88edc2288979?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-22T11:14:54.000Z",
+          "wordCount": null,
+          "title": "Access is not mastery, the polymath UX architect, A2UI under the hood",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/46acaa876713",
+          "author": "Hiroshi Sato",
+          "description": "On designing for wishes we cannot yet wish alone.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/what-sits-on-the-engawa-46acaa876713?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-22T09:46:11.000Z",
+          "wordCount": null,
+          "title": "What sits on the engawa",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d94f982eaba0",
+          "author": "Patrick Neeman",
+          "description": "",
+          "link": "https://uxdesign.cc/the-original-magic-8-ball-vs-generative-ai-a-surprisingly-interesting-comparison-d94f982eaba0?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-22T06:59:22.000Z",
+          "wordCount": null,
+          "title": "The Magic 8-Ball vs. Gen AI: a surprisingly interesting comparison",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/e9fef73f6bb3",
           "author": "Fabrizia Ausiello",
@@ -4962,16 +5108,6 @@
           "publishedOn": "2026-05-24T15:44:57.000Z",
           "wordCount": null,
           "title": "The future of customer service is designed to make you give up",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/642d8751d945",
-          "author": "Amber Bouabdallah",
-          "description": "",
-          "link": "https://uxdesign.cc/designing-how-designers-master-ai-642d8751d945?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-05-23T20:42:12.000Z",
-          "wordCount": null,
-          "title": "Designing how designers master AI",
           "imageUrl": null
         }
       ]
@@ -6632,106 +6768,6 @@
           "publishedOn": "2026-05-25T03:12:40.000Z",
           "wordCount": null,
           "title": "My Ultimate Setup for Sharing Context Across AI Coding Tools",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/41be32989b34",
-          "author": "Marc Andréas Yao",
-          "description": "Explore Google I/O 2026 recap including Gemini Omni, Gemini 3.5, Gemini Spark and the game-changing Antigravity 2.0 multi-agent developer…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/the-code-of-reality-how-google-i-o-2026-just-redefined-the-human-ai-interface-41be32989b34?source=rss----440100e76000---4",
-          "publishedOn": "2026-05-24T13:28:13.000Z",
-          "wordCount": null,
-          "title": "The Code of Reality: How Google I/O 2026 Just Redefined the Human-AI Interface",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/3ca341422447",
-          "author": "Ahmed M. Abdelfattah",
-          "description": "For anyone who lost a job this year: what the legal records show, and what changes in six weeks.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/sam-altman-admitted-it-companies-are-lying-about-ai-layoffs-3ca341422447?source=rss----440100e76000---4",
-          "publishedOn": "2026-05-24T13:26:46.000Z",
-          "wordCount": null,
-          "title": "Sam Altman Admitted It: Companies Are Lying About AI Layoffs.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/4b91adccc750",
-          "author": "Rakesh Patel",
-          "description": "",
-          "link": "https://generativeai.pub/two-llm-loops-in-every-system-build-vs-run-4b91adccc750?source=rss----440100e76000---4",
-          "publishedOn": "2026-05-24T13:24:24.000Z",
-          "wordCount": null,
-          "title": "Two LLM Loops in Every System: Build vs Run",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/da71b1fa6af8",
-          "author": "Marco van Hurne",
-          "description": "",
-          "link": "https://generativeai.pub/working-on-the-frontier-of-unsexy-ai-da71b1fa6af8?source=rss----440100e76000---4",
-          "publishedOn": "2026-05-24T13:22:02.000Z",
-          "wordCount": null,
-          "title": "Working on the frontier of unsexy AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/b7b92d45fa69",
-          "author": "Pavan Dhake",
-          "description": "40% of multi-agent pilots fail within six months. The problem is never the model. It’s always the architecture.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/multi-agent-systems-in-production-6-patterns-that-work-and-2-that-dont-b7b92d45fa69?source=rss----440100e76000---4",
-          "publishedOn": "2026-05-24T13:21:33.000Z",
-          "wordCount": null,
-          "title": "Multi-Agent Systems in Production: 6 Patterns That Work and 2 That Don’t",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/3caaec22603a",
-          "author": "Luis Ticas",
-          "description": "Two of my four predictions were wrong. The wrong ones made the article.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/claude-code-can-already-plan-so-why-does-bmad-exist-i-ran-69-experiments-to-find-out-3caaec22603a?source=rss----440100e76000---4",
-          "publishedOn": "2026-05-24T13:15:18.000Z",
-          "wordCount": null,
-          "title": "Claude Code Can Already Plan. So Why Does BMAD Exist? I Ran 69 Experiments to Find Out.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/1437f21e781d",
-          "author": "Jes Fink-Jensen",
-          "description": "Camofox-browser, MCP, and Ollama wired together — with server-side structured extraction and search-plus-browse composition.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/build-your-own-local-web-browsing-llm-agent-in-250-lines-of-python-1437f21e781d?source=rss----440100e76000---4",
-          "publishedOn": "2026-05-24T13:14:21.000Z",
-          "wordCount": null,
-          "title": "Build Your Own Local Web Browsing LLM Agent in 250 Lines of Python",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d5470ad4bbb7",
-          "author": "Hayanan",
-          "description": "From 60% zero-click Google queries to ChatGPT Atlas and Perplexity Comet eating browsers alive. A deep technical look at RAG, agentic…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/the-end-of-search-how-ai-is-replacing-browsing-forever-inside-the-architecture-economics-and-d5470ad4bbb7?source=rss----440100e76000---4",
-          "publishedOn": "2026-05-24T13:12:30.000Z",
-          "wordCount": null,
-          "title": "The End of “Search”: How AI Is Replacing Browsing Forever Inside the Architecture, Economics, and…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d1ec418a0f2b",
-          "author": "MohamedAbdelmenem",
-          "description": "The bottleneck moved from GPUs to community consent in under 18 months. Wall Street has noticed. Here’s what that means for compute…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/ais-permission-slip-just-got-revoked-here-s-what-the-2026-backlash-actually-means-d1ec418a0f2b?source=rss----440100e76000---4",
-          "publishedOn": "2026-05-24T13:12:28.000Z",
-          "wordCount": null,
-          "title": "AI’s Permission Slip Just Got Revoked. Here’s What the 2026 Backlash Actually Means.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/4003ec8ade73",
-          "author": "Vicky’s Notes",
-          "description": "",
-          "link": "https://generativeai.pub/designing-secure-compliant-multi-agent-ai-system-for-enterprise-4003ec8ade73?source=rss----440100e76000---4",
-          "publishedOn": "2026-05-24T13:09:52.000Z",
-          "wordCount": null,
-          "title": "Designing Secure, Compliant Multi-Agent AI System for Enterprise",
           "imageUrl": null
         }
       ]

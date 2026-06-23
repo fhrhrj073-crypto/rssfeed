@@ -2,10 +2,211 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-06-22T02:14:01.329Z</updated>
+    <updated>2026-06-23T01:53:13.852Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Everything That Happened in AI Today (Monday, June 22, 2026)]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-monday-june-22-2026/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-monday-june-22-2026/"/>
+        <updated>2026-06-22T23:34:06.872Z</updated>
+        <summary type="html"><![CDATA[Sakana launched Fugu, a one-API multi-agent model; OpenAI expanded Daybreak for software security; AI infrastructure debt and power deals accelerated; Five Eyes warned on frontier cyber models; Getty struck an OpenAI display deal.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use LOOPS for everything]]></title>
+        <id>https://www.youtube.com/shorts/xyJtjk-WZcA</id>
+        <link href="https://www.youtube.com/shorts/xyJtjk-WZcA"/>
+        <updated>2026-06-22T20:58:12.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VC Horror Stories: The Week Founders Stopped Pretending]]></title>
+        <id>https://www.thevccorner.com/p/vc-horror-stories</id>
+        <link href="https://www.thevccorner.com/p/vc-horror-stories"/>
+        <updated>2026-06-22T18:22:37.000Z</updated>
+        <summary type="html"><![CDATA[What happens when founders share their unfiltered stories on fundraising and meetings with VCs? Hilarious stories and drama that generate virality.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diffusion LLMs Just Got Their First Serious Transparency Test]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/diffusion-llms-just-got-their-first-serious-transparency-test/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/diffusion-llms-just-got-their-first-serious-transparency-test/"/>
+        <updated>2026-06-22T17:05:29.017Z</updated>
+        <summary type="html"><![CDATA[Diffusion LLMs like Mercury made the case for speed. A new DiffusionGemma paper asks the harder question: can we inspect how these models reason while they refine an answer? The early answer is encouraging, but it opens a new product and safety frontier.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The organizational cost of low taste]]></title>
+        <id>https://medium.com/p/135cb8b10c34</id>
+        <link href="https://uxdesign.cc/the-organizational-cost-of-low-taste-135cb8b10c34?source=rss----138adf9c44c---4"/>
+        <updated>2026-06-22T16:46:04.000Z</updated>
+        <author>
+            <name>Aurélie Radom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Better search, worse web]]></title>
+        <id>https://medium.com/p/1ed2c43fe38f</id>
+        <link href="https://uxdesign.cc/better-search-worse-web-1ed2c43fe38f?source=rss----138adf9c44c---4"/>
+        <updated>2026-06-22T16:45:25.000Z</updated>
+        <summary type="html"><![CDATA[Every number says Google AI Search is better. None of them can see the cost.
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Wira Indra Kusuma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Encoding Categorical Data for Outlier Detection]]></title>
+        <id>https://towardsdatascience.com/?p=609435</id>
+        <link href="https://towardsdatascience.com/encoding-categorical-data-for-outlier-detection/"/>
+        <updated>2026-06-22T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Why one-hot encoding isn’t always the best approach, and alternative encodings
+The post Encoding Categorical Data for Outlier Detection appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>W Brett Kennedy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-5.6 Rumors: Everything We Think We Know]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/gpt-56-rumors-everything-we-think-we-know/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/gpt-56-rumors-everything-we-think-we-know/"/>
+        <updated>2026-06-22T16:05:43.687Z</updated>
+        <summary type="html"><![CDATA[GPT-5.6 is still unreleased, but the rumors suggest OpenAI’s next move may be all about about models that can build, inspect, revise, and ship real work.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎙️ How I AI: How to write AI agent loops in Claude Code and Codex + How Claude Mythos found a 15-year-old bug in Mozilla Firefox]]></title>
+        <id>https://www.lennysnewsletter.com/p/how-i-ai-how-to-write-ai-agent-loops</id>
+        <link href="https://www.lennysnewsletter.com/p/how-i-ai-how-to-write-ai-agent-loops"/>
+        <updated>2026-06-22T15:02:37.000Z</updated>
+        <summary type="html"><![CDATA[Your weekly listens from How I AI, part of the Lenny’s Podcast Network]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Claude Code in Your Browser]]></title>
+        <id>https://towardsdatascience.com/?p=609433</id>
+        <link href="https://towardsdatascience.com/how-to-use-claude-code-in-your-browser/"/>
+        <updated>2026-06-22T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to apply coding agents to verify work in your browser. 
+The post How to Use Claude Code in Your Browser appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built the Same App With MiniMax M3 and Composer]]></title>
+        <id>https://www.youtube.com/watch?v=da5nLxqbTxE</id>
+        <link href="https://www.youtube.com/watch?v=da5nLxqbTxE"/>
+        <updated>2026-06-22T14:49:50.000Z</updated>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When RAG Users Ask Vague Questions: Clarify Once, Learn the Default]]></title>
+        <id>https://towardsdatascience.com/?p=609429</id>
+        <link href="https://towardsdatascience.com/when-rag-users-ask-vague-questions-clarify-once-learn-the-default/"/>
+        <updated>2026-06-22T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #6bis] - Ask one focused clarification, learn the default from the answer, stay silent next time
+The post When RAG Users Ask Vague Questions: Clarify Once, Learn the Default appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>angela shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Claude Mythos found a 15-year-old bug in Mozilla Firefox | Brian Grinstead]]></title>
+        <id>https://www.lennysnewsletter.com/p/how-claude-mythos-found-a-15-year</id>
+        <link href="https://www.lennysnewsletter.com/p/how-claude-mythos-found-a-15-year"/>
+        <updated>2026-06-22T12:03:06.000Z</updated>
+        <summary type="html"><![CDATA[Watch now | 🎙️423 security fixes in one month: Brian Grinstead (Mozilla) shows the goal-loop harness behind it, and why the model was only half the story]]></summary>
+        <author>
+            <name>Claire Vo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software Engineers Are Becoming Supervisors, Not Coders]]></title>
+        <id>https://www.youtube.com/shorts/64_sse5vSeU</id>
+        <link href="https://www.youtube.com/shorts/64_sse5vSeU"/>
+        <updated>2026-06-22T12:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[叫 Codex 控制電腦畫 Hello Kitty，結果竟然係咁…😂]]></title>
+        <id>https://www.youtube.com/shorts/TCy0gf1q_2k</id>
+        <link href="https://www.youtube.com/shorts/TCy0gf1q_2k"/>
+        <updated>2026-06-22T12:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Dr. Jackei 科技生活日誌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neural Networks, Explained for Beginners: Start Here If They’ve Confused You]]></title>
+        <id>https://towardsdatascience.com/?p=609427</id>
+        <link href="https://towardsdatascience.com/neural-networks-explained-for-beginners-start-here-if-theyve-confused-you/"/>
+        <updated>2026-06-22T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The intuition behind neural networks and why they need activation functions.
+The post Neural Networks, Explained for Beginners: Start Here If They’ve Confused You appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Nikhil Dasari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Access is not mastery, the polymath UX architect, A2UI under the hood]]></title>
+        <id>https://medium.com/p/88edc2288979</id>
+        <link href="https://uxdesign.cc/access-is-not-mastery-the-polymath-ux-architect-a2ui-under-the-hood-88edc2288979?source=rss----138adf9c44c---4"/>
+        <updated>2026-06-22T11:14:54.000Z</updated>
+        <author>
+            <name>Fabricio Teixeira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 GLM 5.2 brings 1M context]]></title>
+        <id>https://www.theneuron.ai/newsletter/glm-5-2-brings-1m-context-7f77/</id>
+        <link href="https://www.theneuron.ai/newsletter/glm-5-2-brings-1m-context-7f77/"/>
+        <updated>2026-06-22T10:01:23.949Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What sits on the engawa]]></title>
+        <id>https://medium.com/p/46acaa876713</id>
+        <link href="https://uxdesign.cc/what-sits-on-the-engawa-46acaa876713?source=rss----138adf9c44c---4"/>
+        <updated>2026-06-22T09:46:11.000Z</updated>
+        <summary type="html"><![CDATA[On designing for wishes we cannot yet wish alone.
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Hiroshi Sato</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Magic 8-Ball vs. Gen AI: a surprisingly interesting comparison]]></title>
+        <id>https://medium.com/p/d94f982eaba0</id>
+        <link href="https://uxdesign.cc/the-original-magic-8-ball-vs-generative-ai-a-surprisingly-interesting-comparison-d94f982eaba0?source=rss----138adf9c44c---4"/>
+        <updated>2026-06-22T06:59:22.000Z</updated>
+        <author>
+            <name>Patrick Neeman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[😼 DeepMind mapped AI agent controls]]></title>
         <id>https://www.theneuron.ai/newsletter/deepmind-mapped-ai-agent-controls-f6d1/</id>
@@ -6106,182 +6307,6 @@ Continue reading on UX Collective »]]></summary>
         <updated>2026-05-24T15:26:24.000Z</updated>
         <author>
             <name>文恩澄 Rannes Man</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Code of Reality: How Google I/O 2026 Just Redefined the Human-AI Interface]]></title>
-        <id>https://medium.com/p/41be32989b34</id>
-        <link href="https://generativeai.pub/the-code-of-reality-how-google-i-o-2026-just-redefined-the-human-ai-interface-41be32989b34?source=rss----440100e76000---4"/>
-        <updated>2026-05-24T13:28:13.000Z</updated>
-        <summary type="html"><![CDATA[Explore Google I/O 2026 recap including Gemini Omni, Gemini 3.5, Gemini Spark and the game-changing Antigravity 2.0 multi-agent developer…
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Marc Andréas Yao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sam Altman Admitted It: Companies Are Lying About AI Layoffs.]]></title>
-        <id>https://medium.com/p/3ca341422447</id>
-        <link href="https://generativeai.pub/sam-altman-admitted-it-companies-are-lying-about-ai-layoffs-3ca341422447?source=rss----440100e76000---4"/>
-        <updated>2026-05-24T13:26:46.000Z</updated>
-        <summary type="html"><![CDATA[For anyone who lost a job this year: what the legal records show, and what changes in six weeks.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Ahmed M. Abdelfattah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two LLM Loops in Every System: Build vs Run]]></title>
-        <id>https://medium.com/p/4b91adccc750</id>
-        <link href="https://generativeai.pub/two-llm-loops-in-every-system-build-vs-run-4b91adccc750?source=rss----440100e76000---4"/>
-        <updated>2026-05-24T13:24:24.000Z</updated>
-        <author>
-            <name>Rakesh Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Working on the frontier of unsexy AI]]></title>
-        <id>https://medium.com/p/da71b1fa6af8</id>
-        <link href="https://generativeai.pub/working-on-the-frontier-of-unsexy-ai-da71b1fa6af8?source=rss----440100e76000---4"/>
-        <updated>2026-05-24T13:22:02.000Z</updated>
-        <author>
-            <name>Marco van Hurne</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multi-Agent Systems in Production: 6 Patterns That Work and 2 That Don’t]]></title>
-        <id>https://medium.com/p/b7b92d45fa69</id>
-        <link href="https://generativeai.pub/multi-agent-systems-in-production-6-patterns-that-work-and-2-that-dont-b7b92d45fa69?source=rss----440100e76000---4"/>
-        <updated>2026-05-24T13:21:33.000Z</updated>
-        <summary type="html"><![CDATA[40% of multi-agent pilots fail within six months. The problem is never the model. It’s always the architecture.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Pavan Dhake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code Can Already Plan. So Why Does BMAD Exist? I Ran 69 Experiments to Find Out.]]></title>
-        <id>https://medium.com/p/3caaec22603a</id>
-        <link href="https://generativeai.pub/claude-code-can-already-plan-so-why-does-bmad-exist-i-ran-69-experiments-to-find-out-3caaec22603a?source=rss----440100e76000---4"/>
-        <updated>2026-05-24T13:15:18.000Z</updated>
-        <summary type="html"><![CDATA[Two of my four predictions were wrong. The wrong ones made the article.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Luis Ticas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Your Own Local Web Browsing LLM Agent in 250 Lines of Python]]></title>
-        <id>https://medium.com/p/1437f21e781d</id>
-        <link href="https://generativeai.pub/build-your-own-local-web-browsing-llm-agent-in-250-lines-of-python-1437f21e781d?source=rss----440100e76000---4"/>
-        <updated>2026-05-24T13:14:21.000Z</updated>
-        <summary type="html"><![CDATA[Camofox-browser, MCP, and Ollama wired together — with server-side structured extraction and search-plus-browse composition.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Jes Fink-Jensen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The End of “Search”: How AI Is Replacing Browsing Forever Inside the Architecture, Economics, and…]]></title>
-        <id>https://medium.com/p/d5470ad4bbb7</id>
-        <link href="https://generativeai.pub/the-end-of-search-how-ai-is-replacing-browsing-forever-inside-the-architecture-economics-and-d5470ad4bbb7?source=rss----440100e76000---4"/>
-        <updated>2026-05-24T13:12:30.000Z</updated>
-        <summary type="html"><![CDATA[From 60% zero-click Google queries to ChatGPT Atlas and Perplexity Comet eating browsers alive. A deep technical look at RAG, agentic…
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Hayanan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI’s Permission Slip Just Got Revoked. Here’s What the 2026 Backlash Actually Means.]]></title>
-        <id>https://medium.com/p/d1ec418a0f2b</id>
-        <link href="https://generativeai.pub/ais-permission-slip-just-got-revoked-here-s-what-the-2026-backlash-actually-means-d1ec418a0f2b?source=rss----440100e76000---4"/>
-        <updated>2026-05-24T13:12:28.000Z</updated>
-        <summary type="html"><![CDATA[The bottleneck moved from GPUs to community consent in under 18 months. Wall Street has noticed. Here’s what that means for compute…
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>MohamedAbdelmenem</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing Secure, Compliant Multi-Agent AI System for Enterprise]]></title>
-        <id>https://medium.com/p/4003ec8ade73</id>
-        <link href="https://generativeai.pub/designing-secure-compliant-multi-agent-ai-system-for-enterprise-4003ec8ade73?source=rss----440100e76000---4"/>
-        <updated>2026-05-24T13:09:52.000Z</updated>
-        <author>
-            <name>Vicky’s Notes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond the Model: Why Data Scientists Must Embrace APIs and API Documentation]]></title>
-        <id>https://towardsdatascience.com/?p=609171</id>
-        <link href="https://towardsdatascience.com/beyond-the-model-why-data-scientists-must-embrace-apis-and-api-documentation/"/>
-        <updated>2026-05-24T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock the power of API for data-driven solutions
-The post Beyond the Model: Why Data Scientists Must Embrace APIs and API Documentation appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Radmila Mandzhieva</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI paradox: More automation, more humans, more work | Dan Shipper]]></title>
-        <id>https://www.lennysnewsletter.com/p/the-ai-paradox-dan-shipper</id>
-        <link href="https://www.lennysnewsletter.com/p/the-ai-paradox-dan-shipper"/>
-        <updated>2026-05-24T12:31:49.000Z</updated>
-        <summary type="html"><![CDATA[Why most work will happen inside Codex or Claude Code, the CLI era is over, every agent needs a human, and why he’s wildly bullish on PMs and designers]]></summary>
-        <author>
-            <name>Lenny Rachitsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior AI engineers are making $400,000 plus in total compensation right now 🤯]]></title>
-        <id>https://www.youtube.com/shorts/DN-19EhBEpM</id>
-        <link href="https://www.youtube.com/shorts/DN-19EhBEpM"/>
-        <updated>2026-05-24T02:15:45.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing how designers master AI]]></title>
-        <id>https://medium.com/p/642d8751d945</id>
-        <link href="https://uxdesign.cc/designing-how-designers-master-ai-642d8751d945?source=rss----138adf9c44c---4"/>
-        <updated>2026-05-23T20:42:12.000Z</updated>
-        <author>
-            <name>Amber Bouabdallah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧠 Community Wisdom: Best AI cold outreach app, advice for college students interested in PM, the state of AI in design, the relevance of QA in 2026, and more]]></title>
-        <id>https://www.lennysnewsletter.com/p/community-wisdom-best-ai-cold-outreach</id>
-        <link href="https://www.lennysnewsletter.com/p/community-wisdom-best-ai-cold-outreach"/>
-        <updated>2026-05-23T20:33:09.000Z</updated>
-        <summary type="html"><![CDATA[Community Wisdom 186]]></summary>
-        <author>
-            <name>Kiyani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Mathematically Choose the Optimal Bins for Your Histogram]]></title>
-        <id>https://towardsdatascience.com/?p=609169</id>
-        <link href="https://towardsdatascience.com/fun-with-histograms-and-densities/"/>
-        <updated>2026-05-23T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Optimal Resolution in Histograms: A Rigorous Bayesian Approach to Density Fitting
-The post How to Mathematically Choose the Optimal Bins for Your Histogram appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Fetze Pijlman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond the Scroll: How Social Media Algorithms Shape Your Reality]]></title>
-        <id>https://towardsdatascience.com/?p=609175</id>
-        <link href="https://towardsdatascience.com/beyond-the-scroll-how-social-media-algorithms-shape-your-reality/"/>
-        <updated>2026-05-23T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[An intro to recommender systems
-The post Beyond the Scroll: How Social Media Algorithms Shape Your Reality appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ivo Bernardo</name>
         </author>
     </entry>
 </feed>
