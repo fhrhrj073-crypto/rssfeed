@@ -2,10 +2,126 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-06-28T02:00:35.931Z</updated>
+    <updated>2026-06-29T02:01:38.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[When the profession outruns the mentor]]></title>
+        <id>https://medium.com/p/5f40596e17ca</id>
+        <link href="https://uxdesign.cc/when-the-profession-outruns-the-mentor-5f40596e17ca?source=rss----138adf9c44c---4"/>
+        <updated>2026-06-28T22:00:11.000Z</updated>
+        <author>
+            <name>Michael Buckley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 OpenAI launched Sol, Terra, and Luna... kiiinda.]]></title>
+        <id>https://www.theneuron.ai/newsletter/openai-launched-sol-terra-and-luna-kiiinda/</id>
+        <link href="https://www.theneuron.ai/newsletter/openai-launched-sol-terra-and-luna-kiiinda/"/>
+        <updated>2026-06-28T16:33:13.682Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tail Control: The Counterintuitive Engineering of Reliable Agentic Workflows]]></title>
+        <id>https://towardsdatascience.com/?p=609558</id>
+        <link href="https://towardsdatascience.com/tail-control-the-counterintuitive-engineering-of-reliable-agentic-workflows/"/>
+        <updated>2026-06-28T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Behind a customer's API, a high-quality answer isn't enough. It has to be usable, which means on time. Delivering that consistently is a problem about variance, not speed, and the fixes are counterintuitive.
+The post Tail Control: The Counterintuitive Engineering of Reliable Agentic Workflows appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Frank Wittkampf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are hypertokens? The layer between tokens and components, rebuilt for agents]]></title>
+        <id>https://medium.com/p/962dbe93e0c4</id>
+        <link href="https://uxdesign.cc/what-are-hypertokens-the-layer-between-tokens-and-components-rebuilt-for-agents-962dbe93e0c4?source=rss----138adf9c44c---4"/>
+        <updated>2026-06-28T14:48:13.000Z</updated>
+        <author>
+            <name>Christine Vallaure</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The State of the AI Economy 📈, Ship Your First AI Agent in a Day🛠️, How to Steal a Customer Base🍴]]></title>
+        <id>https://www.thevccorner.com/p/the-state-of-the-ai-economy-ship</id>
+        <link href="https://www.thevccorner.com/p/the-state-of-the-ai-economy-ship"/>
+        <updated>2026-06-28T14:43:31.000Z</updated>
+        <summary type="html"><![CDATA[Another week, another pulse check on Tech.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["The best thing since OpenClaw" (Hermes Tutorial)]]></title>
+        <id>https://www.youtube.com/watch?v=TML-0HmxWCE</id>
+        <link href="https://www.youtube.com/watch?v=TML-0HmxWCE"/>
+        <updated>2026-06-28T14:00:35.000Z</updated>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Pitted XGBoost Against Logistic Regression on 358 Matches. The Boring Model Won.]]></title>
+        <id>https://towardsdatascience.com/?p=609555</id>
+        <link href="https://towardsdatascience.com/i-pitted-xgboost-against-logistic-regression-on-358-matches-the-boring-model-won/"/>
+        <updated>2026-06-28T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A concrete bias–variance lesson: why the smallest model had the best cross-validated fit, and how to know when to reach for the big hammer.
+The post I Pitted XGBoost Against Logistic Regression on 358 Matches. The Boring Model Won. appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ari Joury, PhD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Codex lead on the new shape of product work | Andrew Ambrosino]]></title>
+        <id>https://www.lennysnewsletter.com/p/openai-codex-lead-on-the-new-shape</id>
+        <link href="https://www.lennysnewsletter.com/p/openai-codex-lead-on-the-new-shape"/>
+        <updated>2026-06-28T12:31:54.000Z</updated>
+        <summary type="html"><![CDATA[Listen now | OpenAI’s Andrew Ambrosino on why software is getting cheaper to build, why taste matters more than ever, and what’s next for the Codex desktop app]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't Learn AI Engineering the Wrong Way]]></title>
+        <id>https://www.youtube.com/shorts/OQUyWN8XDPM</id>
+        <link href="https://www.youtube.com/shorts/OQUyWN8XDPM"/>
+        <updated>2026-06-28T12:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoHighLevel Review 2026: Is it Actually Worth it?]]></title>
+        <id>https://www.youtube.com/watch?v=zzJ4nXcgk-o</id>
+        <link href="https://www.youtube.com/watch?v=zzJ4nXcgk-o"/>
+        <updated>2026-06-28T11:00:29.000Z</updated>
+        <author>
+            <name>Metics Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The bullshit asymmetry principle was survivable. AI made production of slop almost free.]]></title>
+        <id>https://medium.com/p/2107dd4530b4</id>
+        <link href="https://uxdesign.cc/the-bullshit-asymmetry-principle-was-survivable-ai-made-production-of-slop-almost-free-2107dd4530b4?source=rss----138adf9c44c---4"/>
+        <updated>2026-06-28T09:17:35.000Z</updated>
+        <author>
+            <name>Patrick Neeman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI agent 慢到你懶得用？這個記憶測試差了 170 倍]]></title>
+        <id>https://www.youtube.com/shorts/dQlaBh_fs-c</id>
+        <link href="https://www.youtube.com/shorts/dQlaBh_fs-c"/>
+        <updated>2026-06-28T04:00:24.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>追日Gucci-AI效率革命聯盟</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pollen tried to remove my article about Callum Negus-Fancey, and Google is assisting to it]]></title>
         <id>6a4069be08e0e1000161f830</id>
@@ -5985,218 +6101,6 @@ The post Meta-Cognitive Regulation Might Be the Most Important AI Skill Nobody I
 The post Embeddings Aren’t Magic: The Predictable Failure Modes of RAG Retrieval appeared first on Towards Data Science.]]></summary>
         <author>
             <name>angela shi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qdrant TurboQuant Explained: Is TurboQuant the Silver Bullet?]]></title>
-        <id>https://towardsdatascience.com/?p=609226</id>
-        <link href="https://towardsdatascience.com/qdrant-turboquant-explained-is-turboquant-the-silver-bullet/"/>
-        <updated>2026-05-30T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most engineers see quantization as shrinking vectors. TurboQuant asks a harder question: can you shrink them without breaking their geometry?
-The post Qdrant TurboQuant Explained: Is TurboQuant the Silver Bullet? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Chien Vu Minh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Your Own Local Web Reading LLM Agent in 700 Lines of Python]]></title>
-        <id>https://medium.com/p/bc308167d5f0</id>
-        <link href="https://generativeai.pub/build-your-own-local-web-reading-llm-agent-in-700-lines-of-python-bc308167d5f0?source=rss----440100e76000---4"/>
-        <updated>2026-05-30T02:55:43.000Z</updated>
-        <summary type="html"><![CDATA[Chunked extraction and summarization that beat truncation, plus a family of sharp reader tools (snippet, links, outline), over…
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Jes Fink-Jensen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I spent 4 months building a research idea generator. Here’s what actually works.]]></title>
-        <id>https://medium.com/p/b29310ba850d</id>
-        <link href="https://generativeai.pub/i-spent-4-months-building-a-research-idea-generator-heres-what-actually-works-b29310ba850d?source=rss----440100e76000---4"/>
-        <updated>2026-05-30T02:54:50.000Z</updated>
-        <author>
-            <name>Ahmadinejad Sulaiman Putra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI didn’t ask for more greenery. It just started adding it.]]></title>
-        <id>https://medium.com/p/5311b500db08</id>
-        <link href="https://generativeai.pub/ai-didnt-ask-for-more-greenery-it-just-started-adding-it-5311b500db08?source=rss----440100e76000---4"/>
-        <updated>2026-05-30T02:53:20.000Z</updated>
-        <author>
-            <name>Priya Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An AI Coding Agent Deleted a Production Database in 9 Seconds. The Community Is Not Blaming the AI.]]></title>
-        <id>https://medium.com/p/81fbd5df5574</id>
-        <link href="https://generativeai.pub/an-ai-coding-agent-deleted-a-production-database-in-9-seconds-the-community-is-not-blaming-the-ai-81fbd5df5574?source=rss----440100e76000---4"/>
-        <updated>2026-05-30T02:53:03.000Z</updated>
-        <summary type="html"><![CDATA[Yes, the PocketOS postmortem shows an AI coding agent destroyed a database in 9 seconds. No, this is not an AI safety crisis. Here is the…
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>MohamedAbdelmenem</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Don’t Need to Know How to Code to Build Real Things Anymore]]></title>
-        <id>https://medium.com/p/66c1a9ca228b</id>
-        <link href="https://generativeai.pub/you-dont-need-to-know-how-to-code-to-build-real-things-anymore-66c1a9ca228b?source=rss----440100e76000---4"/>
-        <updated>2026-05-30T02:52:30.000Z</updated>
-        <summary type="html"><![CDATA[You Don’t Need to Know How to Code to Build Real Things Anymore
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Favian Rafif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Paper Mills, a Copenhagen Scandal, and the 9-Agent “Scissors” I Built to Fight Them]]></title>
-        <id>https://medium.com/p/550fa2e0b64e</id>
-        <link href="https://generativeai.pub/ai-paper-mills-a-copenhagen-scandal-and-the-9-agent-scissors-i-built-to-fight-them-550fa2e0b64e?source=rss----440100e76000---4"/>
-        <updated>2026-05-30T02:51:28.000Z</updated>
-        <author>
-            <name>Jonathan Putra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I pretrained a 1B language model for $0 (Part 1 of 2)]]></title>
-        <id>https://medium.com/p/a57063b91fd6</id>
-        <link href="https://generativeai.pub/how-i-pretrained-a-1b-language-model-for-0-part-1-of-2-a57063b91fd6?source=rss----440100e76000---4"/>
-        <updated>2026-05-30T02:46:59.000Z</updated>
-        <author>
-            <name>Himanshu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I post-trained a 1B model with SFT + GRPO for $0 (Part 2 of 2)]]></title>
-        <id>https://medium.com/p/b283dff7d996</id>
-        <link href="https://generativeai.pub/how-i-post-trained-a-1b-model-with-sft-grpo-for-0-part-2-of-2-b283dff7d996?source=rss----440100e76000---4"/>
-        <updated>2026-05-30T02:46:41.000Z</updated>
-        <author>
-            <name>Himanshu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk Called Anthropic “Evil.” Anthropic Just Paid Him $15 Billion.]]></title>
-        <id>https://medium.com/p/8e4f0d5ba464</id>
-        <link href="https://generativeai.pub/elon-musk-called-anthropic-evil-anthropic-just-paid-him-15-billion-8e4f0d5ba464?source=rss----440100e76000---4"/>
-        <updated>2026-05-30T02:44:03.000Z</updated>
-        <summary type="html"><![CDATA[For anyone who uses Claude: what the SpaceX S-1 actually shows about who funds the AI safety mission.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Ahmed M. Abdelfattah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside GPU Execution and Memory]]></title>
-        <id>https://medium.com/p/d619d6a237ff</id>
-        <link href="https://generativeai.pub/inside-gpu-execution-and-memory-d619d6a237ff?source=rss----440100e76000---4"/>
-        <updated>2026-05-30T02:44:00.000Z</updated>
-        <author>
-            <name>Rutuja Pathade</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google’s Gemini co-leads explain what comes next]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/googles-gemini-co-leads-explain-what-comes-next/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/googles-gemini-co-leads-explain-what-comes-next/"/>
-        <updated>2026-05-30T02:00:05.193Z</updated>
-        <summary type="html"><![CDATA[Jeff Dean, Koray Kavukcuoglu, Noam Shazeer, and Oriol Vinyals gave the clearest version yet of Google’s Gemini strategy: one unified model, better coding and agents, world models, self-improvement, and a lot more work on memory, evaluation, and hardware.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything That Happened in AI This Weekend (May 29-31, 2026)]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-this-weekend-may-29-31-2026-/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-this-weekend-may-29-31-2026-/"/>
-        <updated>2026-05-30T01:57:00.045Z</updated>
-        <summary type="html"><![CDATA[OpenAI launched Rosalind Biodefense; Kog hit 3,000 output tokens/s on standard GPUs; Google pushed Gemini Spark; Microsoft worked on a Copilot super app; Nvidia bet on photonics; plus much more.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everyone Is Tokenmaxxing, and the AI Bill Is Coming Due]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/everyone-is-tokenmaxxing-and-the-ai-bill-is-coming-due/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/everyone-is-tokenmaxxing-and-the-ai-bill-is-coming-due/"/>
-        <updated>2026-05-30T01:36:40.798Z</updated>
-        <summary type="html"><![CDATA[Companies spent the last year telling employees to use AI more. Now Amazon, Uber, and the rest of corporate America are learning that token usage is a terrible proxy for actual work.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Baseline Enterprise RAG, From PDF to Highlighted Answer]]></title>
-        <id>https://towardsdatascience.com/?p=609231</id>
-        <link href="https://towardsdatascience.com/baseline-enterprise-rag-from-pdf-to-highlighted-answer-enterprise-document-intelligence-vol-1-1/"/>
-        <updated>2026-05-29T19:10:22.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol. 1 #1] The smallest version of RAG that actually works, on a real PDF, with grounded answers and the source lines highlighted.
-The post Baseline Enterprise RAG, From PDF to Highlighted Answer appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>angela shi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Self Improving AI actually solves everything]]></title>
-        <id>https://www.youtube.com/shorts/IYN2jfJHJd4</id>
-        <link href="https://www.youtube.com/shorts/IYN2jfJHJd4"/>
-        <updated>2026-05-29T19:09:21.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pope is into AI]]></title>
-        <id>https://www.youtube.com/watch?v=HoMvCjnpAJ8</id>
-        <link href="https://www.youtube.com/watch?v=HoMvCjnpAJ8"/>
-        <updated>2026-05-29T17:03:37.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RAG Is Burning Money — I Built a Cost Control Layer to Fix It]]></title>
-        <id>https://towardsdatascience.com/?p=609222</id>
-        <link href="https://towardsdatascience.com/rag-is-burning-money-i-built-a-cost-control-layer-to-fix-it/"/>
-        <updated>2026-05-29T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Most RAG systems are optimized for answer quality, not cost—and that blind spot gets expensive fast. In this article, I break down a production-ready cost control layer combining semantic caching, query routing, token budgeting, and circuit breaking, achieving an 85% reduction in LLM costs without sacrificing answer quality.
-The post RAG Is Burning Money — I Built a Cost Control Layer to Fix It appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Emmimal P Alexander</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Asking What Your Startup Is Worth]]></title>
-        <id>https://www.thevccorner.com/p/stop-asking-what-your-startup-is-worth</id>
-        <link href="https://www.thevccorner.com/p/stop-asking-what-your-startup-is-worth"/>
-        <updated>2026-05-29T15:48:29.000Z</updated>
-        <summary type="html"><![CDATA[A VC’s honest take on pricing risk, belief, and hype at the earliest stage.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Gradient Descent Became Stochastic]]></title>
-        <id>https://towardsdatascience.com/?p=609220</id>
-        <link href="https://towardsdatascience.com/why-gradient-descent-became-stochastic/"/>
-        <updated>2026-05-29T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A step-by-step journey from calculus-based optimization to Stochastic Gradient Descent
-The post Why Gradient Descent Became Stochastic appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Nikhil Dasari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude’s New Dynamic Workflows Feature Is a Beast, But Token Hungry]]></title>
-        <id>https://medium.com/p/e859b0616bdd</id>
-        <link href="https://generativeai.pub/claudes-new-dynamic-workflows-feature-is-a-beast-but-token-hungry-e859b0616bdd?source=rss----440100e76000---4"/>
-        <updated>2026-05-29T14:27:35.000Z</updated>
-        <summary type="html"><![CDATA[Claude can now spin up parallel agents for massive coding tasks, but this much power comes with a serious token bill.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Jim Clyde Monge</name>
         </author>
     </entry>
 </feed>
