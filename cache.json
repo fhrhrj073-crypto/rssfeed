@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/EfsHdnb_j4E",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/EfsHdnb_j4E",
+          "publishedOn": "2026-06-29T12:00:04.000Z",
+          "wordCount": 2158,
+          "title": "Why You Can't Learn AI Engineering All at Once 2026",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/OQUyWN8XDPM",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
@@ -1091,6 +1101,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCwew_LjtIVo_MTwHM6ILNog",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/ocgf-IkGJZE",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/ocgf-IkGJZE",
+          "publishedOn": "2026-06-29T04:00:14.000Z",
+          "wordCount": 1991,
+          "title": "我把 AI 編成一間公司：一位 CEO 派工、八個員工各司其職",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/dQlaBh_fs-c",
           "author": null,
           "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
@@ -1355,6 +1375,38 @@
       "feedUrl": "https://www.lennysnewsletter.com/feed",
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
+        {
+          "id": "https://www.lennysnewsletter.com/p/how-i-ai-glm-52-review-and-how-gusto",
+          "author": "Lenny Rachitsky",
+          "description": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+          "link": "https://www.lennysnewsletter.com/p/how-i-ai-glm-52-review-and-how-gusto",
+          "publishedOn": "2026-06-29T15:02:35.000Z",
+          "wordCount": null,
+          "title": "🎙️ How I AI: GLM-5.2 review & How Gusto built a new product line with Claude Code",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/c3a5f605-f314-4b28-8398-cc9a0d30559f_1456x1048.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/c3a5f605-f314-4b28-8398-cc9a0d30559f_1456x1048.png"
+        },
+        {
+          "id": "https://www.lennysnewsletter.com/p/no-figma-no-jira-no-docs-how-gusto",
+          "author": "Claire Vo",
+          "description": "Watch now | 🎙️ Eddie Kim, the CTO of Gusto, shows how a 5-person team shipped a full AI product line in 10 weeks using Claude Code, a perma-Zoom, and zero documentation",
+          "link": "https://www.lennysnewsletter.com/p/no-figma-no-jira-no-docs-how-gusto",
+          "publishedOn": "2026-06-29T12:03:38.000Z",
+          "wordCount": null,
+          "title": "No Figma. No Jira. No docs. How Gusto built a new product line with Claude Code | Eddie Kim (CTO)",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/203589481/846f1cae45d76ef325a01c8acbcd5f61.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://www.lennysnewsletter.com/p/openai-codex-lead-on-the-new-shape",
           "author": "Lenny Rachitsky",
@@ -1706,38 +1758,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/a-rational-conversation-on-where",
-          "author": "Lenny Rachitsky",
-          "description": "Benedict Evans on why AI is a 1997 internet moment, what everyone gets wrong about job loss, and where the real value may accrue",
-          "link": "https://www.lennysnewsletter.com/p/a-rational-conversation-on-where",
-          "publishedOn": "2026-05-31T12:31:43.000Z",
-          "wordCount": null,
-          "title": "A rational conversation on where AI is actually going | Benedict Evans",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/198591907/72f36bfdec88e660720309a3d730fec7.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/community-wisdom-catching-people",
-          "author": "Kiyani",
-          "description": "Community Wisdom 187",
-          "link": "https://www.lennysnewsletter.com/p/community-wisdom-catching-people",
-          "publishedOn": "2026-05-30T16:43:36.000Z",
-          "wordCount": null,
-          "title": "🧠 Community Wisdom: Catching people using AI during an interview, org design when everything lives in one person’s head, when to rename your product, from nurse to health-tech PM, and more",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png"
         }
       ]
     },
@@ -1746,6 +1766,22 @@
       "feedUrl": "https://www.thevccorner.com/feed",
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
+        {
+          "id": "https://www.thevccorner.com/p/building-in-public-ai-copycat-risk",
+          "author": "Ruben Dominguez",
+          "description": "Everyone is panicking about copycats. The real change is what your openness now signals to the people watching you.",
+          "link": "https://www.thevccorner.com/p/building-in-public-ai-copycat-risk",
+          "publishedOn": "2026-06-29T16:49:06.000Z",
+          "wordCount": null,
+          "title": "Building in Public Is Not What It Used To Be",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!8JwD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3304a21c-7437-4263-be1a-e9ce46ed25ce_1672x941.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!8JwD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3304a21c-7437-4263-be1a-e9ce46ed25ce_1672x941.png"
+        },
         {
           "id": "https://www.thevccorner.com/p/the-state-of-the-ai-economy-ship",
           "author": "Ruben Dominguez",
@@ -2113,22 +2149,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!pahv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03e9254e-e4c9-4b09-aef4-e4fa5cecd30a_848x716.webp"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/high-agency-success-guide",
-          "author": "Ruben Dominguez",
-          "description": "High agency is the only way to move from being a passenger to the one who drives the outcome.",
-          "link": "https://www.thevccorner.com/p/high-agency-success-guide",
-          "publishedOn": "2026-05-30T17:19:32.000Z",
-          "wordCount": null,
-          "title": "The One Trait You Need to Succeed in the Next 10 Years",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!QboC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2f4b47b-ff8d-4250-bb9a-d9ec779cf867_800x400.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!QboC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2f4b47b-ff8d-4250-bb9a-d9ec779cf867_800x400.png"
         }
       ]
     },
@@ -2137,6 +2157,16 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/newsletter/apple-s-brain-drain-continues/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/apple-s-brain-drain-continues/",
+          "publishedOn": "2026-06-29T10:02:10.604Z",
+          "wordCount": null,
+          "title": "😺 Apple's brain drain continues 🍎",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/newsletter/openai-launched-sol-terra-and-luna-kiiinda/",
           "author": null,
@@ -2904,6 +2934,46 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=609599",
+          "author": "Nahid Ahmadvand",
+          "description": "An end-to-end classical NLP experiment on Kaggle’s Spooky Author Identification task: from Vowpal Wabbit and TF-IDF/NB-SVM baselines to a tuned stacked ensemble, with a compact representation survey of Bag-of-Words, BM25, Word2Vec, and FastText for context.\nThe post How Far Can Classical NLP Go? From Bag-of-Words to Stacking on Spooky Author Identification appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-far-can-classical-nlp-go-from-bag-of-words-to-stacking-on-spooky-author-identification/",
+          "publishedOn": "2026-06-29T17:34:26.000Z",
+          "wordCount": 6264,
+          "title": "How Far Can Classical NLP Go? From Bag-of-Words to Stacking on Spooky Author Identification",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-18-2026-05_07_07-AM.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609564",
+          "author": "Emmimal P Alexander",
+          "description": "Small prompt changes can silently break critical behavior in production. This article introduces a practical framework to detect hidden regressions before users notice.\nThe post Prompt Engineering Fails Quietly —  Prompt Regression Is Why appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/prompt-engineering-fails-quietly-prompt-regression-is-why/",
+          "publishedOn": "2026-06-29T15:00:00.000Z",
+          "wordCount": 6337,
+          "title": "Prompt Engineering Fails Quietly —  Prompt Regression Is Why",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/Prompt-Engineering.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609562",
+          "author": "Rashi Desai",
+          "description": "The tools I use for analytics and reporting have changed more than I expected, yet my questions for any analytics project haven't moved much.\nThe post I Completed Five Years in Analytics Consulting: 5 Lessons That Changed How I Work appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/i-completed-five-years-in-analytics-consulting-5-lessons-that-changed-how-i-work/",
+          "publishedOn": "2026-06-29T13:30:00.000Z",
+          "wordCount": 4553,
+          "title": "I Completed Five Years in Analytics Consulting: 5 Lessons That Changed How I Work",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/fiona-smallwood-T64_Ysj_EMQ-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609560",
+          "author": "Sara Nobrega",
+          "description": "The rise of small language models\nThe post How to Choose Between Small and Frontier Models appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-choose-between-small-and-frontier-models/",
+          "publishedOn": "2026-06-29T12:00:00.000Z",
+          "wordCount": 5312,
+          "title": "How to Choose Between Small and Frontier Models",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-26-2026-09_33_20-AM.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=609558",
           "author": "Frank Wittkampf",
@@ -4063,36 +4133,6 @@
           "wordCount": 6962,
           "title": "Rerankers Aren’t Magic Either: When the Cross-Encoder Layer Is Worth the Cost",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/rushikesh-gaikwad-gKpX3rxe6Ow-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609214",
-          "author": "Partha Sarkar",
-          "description": "Structure-guided NER optimization for enterprise GraphRAG systems\nThe post Proxy-Pointer RAG: Eliminating Wasteful Entity & Relations Extraction in Knowledge Graphs appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/proxy-pointer-rag-eliminating-wasteful-entity-relations-extraction-in-knowledge-graphs/",
-          "publishedOn": "2026-05-31T13:00:00.000Z",
-          "wordCount": 6630,
-          "title": "Proxy-Pointer RAG: Eliminating Wasteful Entity & Relations Extraction in Knowledge Graphs",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/Gemini_Generated_Image_8yk6b98yk6b98yk6-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609229",
-          "author": "Rashi Desai",
-          "description": "As AI gets smarter, the real differentiator may be how well humans regulate their own thinking.\nThe post Meta-Cognitive Regulation Might Be the Most Important AI Skill Nobody Is Talking About appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/meta-cognitive-regulation-might-be-the-most-important-ai-skill-nobody-is-talking-about/",
-          "publishedOn": "2026-05-30T17:00:00.000Z",
-          "wordCount": 4458,
-          "title": "Meta-Cognitive Regulation Might Be the Most Important AI Skill Nobody Is Talking About",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/bhautik-patel-CFSJUUb_Q-Y-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609241",
-          "author": "angela shi",
-          "description": "Enterprise Document Intelligence [Vol. 1 #2] Why the same vector search that handles synonyms and paraphrase silently fails on negation, exact identifiers, and your company’s acronyms, and what to use when it does.\nThe post Embeddings Aren’t Magic: The Predictable Failure Modes of RAG Retrieval appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/embeddings-arent-magic-the-predictable-failure-modes-of-rag-retrieval-enterprise-document-intelligence-vol-1-2/",
-          "publishedOn": "2026-05-30T15:00:00.000Z",
-          "wordCount": 11740,
-          "title": "Embeddings Aren’t Magic: The Predictable Failure Modes of RAG Retrieval",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/05/rushikesh-gaikwad-mPEVZmwdlUw-unsplash-scaled-1.jpg"
         }
       ]
     },
@@ -4107,6 +4147,86 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/f56d6d96b54b",
+          "author": "Kike Peña",
+          "description": "",
+          "link": "https://uxdesign.cc/youre-missing-the-point-this-is-your-real-value-in-tech-companies-f56d6d96b54b?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-29T21:51:00.000Z",
+          "wordCount": null,
+          "title": "You’re missing the point; this is your real value in tech companies",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2e9ecb6272bf",
+          "author": "Dolphia",
+          "description": "",
+          "link": "https://uxdesign.cc/figma-just-made-your-design-system-debt-everyones-problem-now-use-it-2e9ecb6272bf?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-29T21:44:16.000Z",
+          "wordCount": null,
+          "title": "Figma just made your design system debt everyone’s problem. Now use it.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/835c01982ead",
+          "author": "Adrian Levy",
+          "description": "The agent is only the material. The discipline is what it’s allowed to decide.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/you-dont-design-the-interface-anymore-you-design-the-deciding-835c01982ead?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-29T21:43:25.000Z",
+          "wordCount": null,
+          "title": "You don’t design the interface anymore. You design the deciding.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3b3a964827cb",
+          "author": "Michal Malewicz",
+          "description": "Why most sales websites now drift into abstraction and irrelevance and how to avoid it.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/popular-design-trends-that-destroy-conversion-3b3a964827cb?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-29T21:42:47.000Z",
+          "wordCount": null,
+          "title": "Popular design trends that destroy conversion",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7fc06441dbca",
+          "author": "Hiroshi Sato",
+          "description": "On designing repellence for humanity\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/the-stone-that-blocks-nothing-7fc06441dbca?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-29T21:42:27.000Z",
+          "wordCount": null,
+          "title": "The stone that blocks nothing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/20f2ec172f03",
+          "author": "Fabricio Teixeira",
+          "description": "",
+          "link": "https://uxdesign.cc/rethinking-figma-the-cost-of-low-taste-your-banking-app-is-lying-to-you-20f2ec172f03?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-29T11:10:21.000Z",
+          "wordCount": null,
+          "title": "Rethinking Figma, the cost of low taste, your banking app is lying to you",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/69fc01c0c71f",
+          "author": "Catherine Chu",
+          "description": "",
+          "link": "https://uxdesign.cc/can-ai-make-ocd-worse-69fc01c0c71f?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-29T11:08:59.000Z",
+          "wordCount": null,
+          "title": "Can AI make OCD worse?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/73f8e3ce6ee5",
+          "author": "Takuma Kakehi",
+          "description": "Why global design inherited the wrong framework for reading Japanese aesthetics.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/japan-doesnt-design-with-less-it-designs-with-ma-73f8e3ce6ee5?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-06-29T07:38:23.000Z",
+          "wordCount": null,
+          "title": "Japan Doesn’t Design With Less. It Designs With Ma.",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/5f40596e17ca",
           "author": "Michael Buckley",
@@ -4865,36 +4985,6 @@
           "publishedOn": "2026-06-01T08:10:07.000Z",
           "wordCount": null,
           "title": "Is your website ready for AI agents?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/5d6c0f2df3b5",
-          "author": "Luis Berumen Castro",
-          "description": "The rising cost of computing is prompting a reevaluation of designers' expectations.\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/ai-token-scarcity-and-arcade-economics-5d6c0f2df3b5?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-05-31T12:22:00.000Z",
-          "wordCount": null,
-          "title": "AI Token Scarcity and Arcade Economics",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c9e40cca3d75",
-          "author": "Dora Czerna",
-          "description": "",
-          "link": "https://uxdesign.cc/who-is-your-content-actually-for-c9e40cca3d75?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-05-31T12:22:00.000Z",
-          "wordCount": null,
-          "title": "Who is your content actually for?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/598bff827a68",
-          "author": "Rita Kind-Envy",
-          "description": "So late to the party, so slimy, so angry.\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/youtube-is-gonna-auto-tag-ai-and-it-makes-me-angry-598bff827a68?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-05-31T12:21:58.000Z",
-          "wordCount": null,
-          "title": "YouTube is gonna auto-tag AI, and it makes me angry",
           "imageUrl": null
         }
       ]

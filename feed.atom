@@ -2,10 +2,193 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-06-29T02:01:38.034Z</updated>
+    <updated>2026-06-30T01:55:55.457Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[You’re missing the point; this is your real value in tech companies]]></title>
+        <id>https://medium.com/p/f56d6d96b54b</id>
+        <link href="https://uxdesign.cc/youre-missing-the-point-this-is-your-real-value-in-tech-companies-f56d6d96b54b?source=rss----138adf9c44c---4"/>
+        <updated>2026-06-29T21:51:00.000Z</updated>
+        <author>
+            <name>Kike Peña</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Figma just made your design system debt everyone’s problem. Now use it.]]></title>
+        <id>https://medium.com/p/2e9ecb6272bf</id>
+        <link href="https://uxdesign.cc/figma-just-made-your-design-system-debt-everyones-problem-now-use-it-2e9ecb6272bf?source=rss----138adf9c44c---4"/>
+        <updated>2026-06-29T21:44:16.000Z</updated>
+        <author>
+            <name>Dolphia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You don’t design the interface anymore. You design the deciding.]]></title>
+        <id>https://medium.com/p/835c01982ead</id>
+        <link href="https://uxdesign.cc/you-dont-design-the-interface-anymore-you-design-the-deciding-835c01982ead?source=rss----138adf9c44c---4"/>
+        <updated>2026-06-29T21:43:25.000Z</updated>
+        <summary type="html"><![CDATA[The agent is only the material. The discipline is what it’s allowed to decide.
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Adrian Levy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Popular design trends that destroy conversion]]></title>
+        <id>https://medium.com/p/3b3a964827cb</id>
+        <link href="https://uxdesign.cc/popular-design-trends-that-destroy-conversion-3b3a964827cb?source=rss----138adf9c44c---4"/>
+        <updated>2026-06-29T21:42:47.000Z</updated>
+        <summary type="html"><![CDATA[Why most sales websites now drift into abstraction and irrelevance and how to avoid it.
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Michal Malewicz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The stone that blocks nothing]]></title>
+        <id>https://medium.com/p/7fc06441dbca</id>
+        <link href="https://uxdesign.cc/the-stone-that-blocks-nothing-7fc06441dbca?source=rss----138adf9c44c---4"/>
+        <updated>2026-06-29T21:42:27.000Z</updated>
+        <summary type="html"><![CDATA[On designing repellence for humanity
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Hiroshi Sato</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Far Can Classical NLP Go? From Bag-of-Words to Stacking on Spooky Author Identification]]></title>
+        <id>https://towardsdatascience.com/?p=609599</id>
+        <link href="https://towardsdatascience.com/how-far-can-classical-nlp-go-from-bag-of-words-to-stacking-on-spooky-author-identification/"/>
+        <updated>2026-06-29T17:34:26.000Z</updated>
+        <summary type="html"><![CDATA[An end-to-end classical NLP experiment on Kaggle’s Spooky Author Identification task: from Vowpal Wabbit and TF-IDF/NB-SVM baselines to a tuned stacked ensemble, with a compact representation survey of Bag-of-Words, BM25, Word2Vec, and FastText for context.
+The post How Far Can Classical NLP Go? From Bag-of-Words to Stacking on Spooky Author Identification appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Nahid Ahmadvand</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building in Public Is Not What It Used To Be]]></title>
+        <id>https://www.thevccorner.com/p/building-in-public-ai-copycat-risk</id>
+        <link href="https://www.thevccorner.com/p/building-in-public-ai-copycat-risk"/>
+        <updated>2026-06-29T16:49:06.000Z</updated>
+        <summary type="html"><![CDATA[Everyone is panicking about copycats. The real change is what your openness now signals to the people watching you.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎙️ How I AI: GLM-5.2 review & How Gusto built a new product line with Claude Code]]></title>
+        <id>https://www.lennysnewsletter.com/p/how-i-ai-glm-52-review-and-how-gusto</id>
+        <link href="https://www.lennysnewsletter.com/p/how-i-ai-glm-52-review-and-how-gusto"/>
+        <updated>2026-06-29T15:02:35.000Z</updated>
+        <summary type="html"><![CDATA[Your weekly listens from How I AI, part of the Lenny's Podcast Network]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prompt Engineering Fails Quietly —  Prompt Regression Is Why]]></title>
+        <id>https://towardsdatascience.com/?p=609564</id>
+        <link href="https://towardsdatascience.com/prompt-engineering-fails-quietly-prompt-regression-is-why/"/>
+        <updated>2026-06-29T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Small prompt changes can silently break critical behavior in production. This article introduces a practical framework to detect hidden regressions before users notice.
+The post Prompt Engineering Fails Quietly —  Prompt Regression Is Why appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Emmimal P Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Completed Five Years in Analytics Consulting: 5 Lessons That Changed How I Work]]></title>
+        <id>https://towardsdatascience.com/?p=609562</id>
+        <link href="https://towardsdatascience.com/i-completed-five-years-in-analytics-consulting-5-lessons-that-changed-how-i-work/"/>
+        <updated>2026-06-29T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The tools I use for analytics and reporting have changed more than I expected, yet my questions for any analytics project haven't moved much.
+The post I Completed Five Years in Analytics Consulting: 5 Lessons That Changed How I Work appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Rashi Desai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Figma. No Jira. No docs. How Gusto built a new product line with Claude Code | Eddie Kim (CTO)]]></title>
+        <id>https://www.lennysnewsletter.com/p/no-figma-no-jira-no-docs-how-gusto</id>
+        <link href="https://www.lennysnewsletter.com/p/no-figma-no-jira-no-docs-how-gusto"/>
+        <updated>2026-06-29T12:03:38.000Z</updated>
+        <summary type="html"><![CDATA[Watch now | 🎙️ Eddie Kim, the CTO of Gusto, shows how a 5-person team shipped a full AI product line in 10 weeks using Claude Code, a perma-Zoom, and zero documentation]]></summary>
+        <author>
+            <name>Claire Vo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Can't Learn AI Engineering All at Once 2026]]></title>
+        <id>https://www.youtube.com/shorts/EfsHdnb_j4E</id>
+        <link href="https://www.youtube.com/shorts/EfsHdnb_j4E"/>
+        <updated>2026-06-29T12:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Choose Between Small and Frontier Models]]></title>
+        <id>https://towardsdatascience.com/?p=609560</id>
+        <link href="https://towardsdatascience.com/how-to-choose-between-small-and-frontier-models/"/>
+        <updated>2026-06-29T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The rise of small language models
+The post How to Choose Between Small and Frontier Models appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Sara Nobrega</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rethinking Figma, the cost of low taste, your banking app is lying to you]]></title>
+        <id>https://medium.com/p/20f2ec172f03</id>
+        <link href="https://uxdesign.cc/rethinking-figma-the-cost-of-low-taste-your-banking-app-is-lying-to-you-20f2ec172f03?source=rss----138adf9c44c---4"/>
+        <updated>2026-06-29T11:10:21.000Z</updated>
+        <author>
+            <name>Fabricio Teixeira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can AI make OCD worse?]]></title>
+        <id>https://medium.com/p/69fc01c0c71f</id>
+        <link href="https://uxdesign.cc/can-ai-make-ocd-worse-69fc01c0c71f?source=rss----138adf9c44c---4"/>
+        <updated>2026-06-29T11:08:59.000Z</updated>
+        <author>
+            <name>Catherine Chu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 Apple's brain drain continues 🍎]]></title>
+        <id>https://www.theneuron.ai/newsletter/apple-s-brain-drain-continues/</id>
+        <link href="https://www.theneuron.ai/newsletter/apple-s-brain-drain-continues/"/>
+        <updated>2026-06-29T10:02:10.604Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japan Doesn’t Design With Less. It Designs With Ma.]]></title>
+        <id>https://medium.com/p/73f8e3ce6ee5</id>
+        <link href="https://uxdesign.cc/japan-doesnt-design-with-less-it-designs-with-ma-73f8e3ce6ee5?source=rss----138adf9c44c---4"/>
+        <updated>2026-06-29T07:38:23.000Z</updated>
+        <summary type="html"><![CDATA[Why global design inherited the wrong framework for reading Japanese aesthetics.
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Takuma Kakehi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我把 AI 編成一間公司：一位 CEO 派工、八個員工各司其職]]></title>
+        <id>https://www.youtube.com/shorts/ocgf-IkGJZE</id>
+        <link href="https://www.youtube.com/shorts/ocgf-IkGJZE"/>
+        <updated>2026-06-29T04:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>追日Gucci-AI效率革命聯盟</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[When the profession outruns the mentor]]></title>
         <id>https://medium.com/p/5f40596e17ca</id>
@@ -5992,58 +6175,6 @@ The post Rerankers Aren’t Magic Either: When the Cross-Encoder Layer Is Worth 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Proxy-Pointer RAG: Eliminating Wasteful Entity & Relations Extraction in Knowledge Graphs]]></title>
-        <id>https://towardsdatascience.com/?p=609214</id>
-        <link href="https://towardsdatascience.com/proxy-pointer-rag-eliminating-wasteful-entity-relations-extraction-in-knowledge-graphs/"/>
-        <updated>2026-05-31T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Structure-guided NER optimization for enterprise GraphRAG systems
-The post Proxy-Pointer RAG: Eliminating Wasteful Entity & Relations Extraction in Knowledge Graphs appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Partha Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A rational conversation on where AI is actually going | Benedict Evans]]></title>
-        <id>https://www.lennysnewsletter.com/p/a-rational-conversation-on-where</id>
-        <link href="https://www.lennysnewsletter.com/p/a-rational-conversation-on-where"/>
-        <updated>2026-05-31T12:31:43.000Z</updated>
-        <summary type="html"><![CDATA[Benedict Evans on why AI is a 1997 internet moment, what everyone gets wrong about job loss, and where the real value may accrue]]></summary>
-        <author>
-            <name>Lenny Rachitsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Token Scarcity and Arcade Economics]]></title>
-        <id>https://medium.com/p/5d6c0f2df3b5</id>
-        <link href="https://uxdesign.cc/ai-token-scarcity-and-arcade-economics-5d6c0f2df3b5?source=rss----138adf9c44c---4"/>
-        <updated>2026-05-31T12:22:00.000Z</updated>
-        <summary type="html"><![CDATA[The rising cost of computing is prompting a reevaluation of designers' expectations.
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Luis Berumen Castro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who is your content actually for?]]></title>
-        <id>https://medium.com/p/c9e40cca3d75</id>
-        <link href="https://uxdesign.cc/who-is-your-content-actually-for-c9e40cca3d75?source=rss----138adf9c44c---4"/>
-        <updated>2026-05-31T12:22:00.000Z</updated>
-        <author>
-            <name>Dora Czerna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube is gonna auto-tag AI, and it makes me angry]]></title>
-        <id>https://medium.com/p/598bff827a68</id>
-        <link href="https://uxdesign.cc/youtube-is-gonna-auto-tag-ai-and-it-makes-me-angry-598bff827a68?source=rss----138adf9c44c---4"/>
-        <updated>2026-05-31T12:21:58.000Z</updated>
-        <summary type="html"><![CDATA[So late to the party, so slimy, so angry.
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Rita Kind-Envy</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Saily eSim Review & Tutorial - Best eSim in 2026]]></title>
         <id>https://www.youtube.com/watch?v=1uP9Ckel8w4</id>
         <link href="https://www.youtube.com/watch?v=1uP9Ckel8w4"/>
@@ -6059,48 +6190,6 @@ Continue reading on UX Collective »]]></summary>
         <updated>2026-05-31T05:48:08.000Z</updated>
         <author>
             <name>電腦王阿達</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The One Trait You Need to Succeed in the Next 10 Years]]></title>
-        <id>https://www.thevccorner.com/p/high-agency-success-guide</id>
-        <link href="https://www.thevccorner.com/p/high-agency-success-guide"/>
-        <updated>2026-05-30T17:19:32.000Z</updated>
-        <summary type="html"><![CDATA[High agency is the only way to move from being a passenger to the one who drives the outcome.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta-Cognitive Regulation Might Be the Most Important AI Skill Nobody Is Talking About]]></title>
-        <id>https://towardsdatascience.com/?p=609229</id>
-        <link href="https://towardsdatascience.com/meta-cognitive-regulation-might-be-the-most-important-ai-skill-nobody-is-talking-about/"/>
-        <updated>2026-05-30T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As AI gets smarter, the real differentiator may be how well humans regulate their own thinking.
-The post Meta-Cognitive Regulation Might Be the Most Important AI Skill Nobody Is Talking About appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Rashi Desai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧠 Community Wisdom: Catching people using AI during an interview, org design when everything lives in one person’s head, when to rename your product, from nurse to health-tech PM, and more]]></title>
-        <id>https://www.lennysnewsletter.com/p/community-wisdom-catching-people</id>
-        <link href="https://www.lennysnewsletter.com/p/community-wisdom-catching-people"/>
-        <updated>2026-05-30T16:43:36.000Z</updated>
-        <summary type="html"><![CDATA[Community Wisdom 187]]></summary>
-        <author>
-            <name>Kiyani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Embeddings Aren’t Magic: The Predictable Failure Modes of RAG Retrieval]]></title>
-        <id>https://towardsdatascience.com/?p=609241</id>
-        <link href="https://towardsdatascience.com/embeddings-arent-magic-the-predictable-failure-modes-of-rag-retrieval-enterprise-document-intelligence-vol-1-2/"/>
-        <updated>2026-05-30T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol. 1 #2] Why the same vector search that handles synonyms and paraphrase silently fails on negation, exact identifiers, and your company’s acronyms, and what to use when it does.
-The post Embeddings Aren’t Magic: The Predictable Failure Modes of RAG Retrieval appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>angela shi</name>
         </author>
     </entry>
 </feed>
