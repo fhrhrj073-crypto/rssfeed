@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/oR0QweoNHoE",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/oR0QweoNHoE",
+          "publishedOn": "2026-07-01T12:00:05.000Z",
+          "wordCount": 2205,
+          "title": "What Actually Makes You an AI Engineer",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=PHICGGjN5Pc",
           "author": null,
           "description": "",
@@ -404,26 +414,6 @@
           "wordCount": 2223,
           "title": "Stop Tutorial Hopping — Do This Instead",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=XOCVdPIhAHg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=XOCVdPIhAHg",
-          "publishedOn": "2026-06-02T11:58:44.000Z",
-          "wordCount": null,
-          "title": "Cursor just crushed Claude Code",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/wlpvRV43vXM",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/wlpvRV43vXM",
-          "publishedOn": "2026-06-02T11:56:18.000Z",
-          "wordCount": 2115,
-          "title": "5 Machine Learning Skills Interviewers Will Cut You For Not Knowing   v2",
-          "imageUrl": null
         }
       ]
     },
@@ -432,6 +422,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfQNB91qRP_5ILeu_S_bSkg",
       "siteUrl": "https://www.youtube.com/channel/UCfQNB91qRP_5ILeu_S_bSkg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=A3fxKRsvh3U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=A3fxKRsvh3U",
+          "publishedOn": "2026-07-01T21:21:21.000Z",
+          "wordCount": null,
+          "title": "Fable 5 is BACK! Here are the first 8 things you need to do…",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=uU0RFxGv-Ks",
           "author": null,
@@ -975,16 +975,6 @@
           "wordCount": null,
           "title": "i guess they were wrong...",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/l2r3aWn96K8",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/l2r3aWn96K8",
-          "publishedOn": "2026-06-01T15:23:07.000Z",
-          "wordCount": 2101,
-          "title": "SWEbench is done.",
-          "imageUrl": null
         }
       ]
     },
@@ -1332,16 +1322,6 @@
           "publishedOn": "2026-06-09T11:29:53.000Z",
           "wordCount": null,
           "title": "AI 接手工作流，每日慳 5 個鐘？教材變 Web Game、文章變 IG，仲自動生成 Reels｜Kuse AI Workflow 實測",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=L1fP4cmNjg0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=L1fP4cmNjg0",
-          "publishedOn": "2026-06-02T12:03:50.000Z",
-          "wordCount": null,
-          "title": "Gemini 一鍵美化 PPT 實測｜Google Slides AI 生成簡報真係咁好用？｜Google Gemini 教學",
           "imageUrl": null
         }
       ]
@@ -1795,22 +1775,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/how-i-ai-codex-goals-explained-and",
-          "author": "Lenny Rachitsky",
-          "description": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-          "link": "https://www.lennysnewsletter.com/p/how-i-ai-codex-goals-explained-and",
-          "publishedOn": "2026-06-01T15:01:46.000Z",
-          "wordCount": null,
-          "title": "🎙️ How I AI: Codex Goals explained & Claude Opus 4.8 review & Building an iPhone app with zero technical skills",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/cd8fc145-3e6b-4a79-a878-90c2d71fdb6a_1456x1048.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/cd8fc145-3e6b-4a79-a878-90c2d71fdb6a_1456x1048.png"
         }
       ]
     },
@@ -1819,6 +1783,22 @@
       "feedUrl": "https://www.thevccorner.com/feed",
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
+        {
+          "id": "https://www.thevccorner.com/p/elon-musk-2007-predictions",
+          "author": "Ruben Dominguez",
+          "description": "Before Tesla shipped a car or SpaceX reached orbit, the plan was already on tape",
+          "link": "https://www.thevccorner.com/p/elon-musk-2007-predictions",
+          "publishedOn": "2026-07-01T21:38:02.000Z",
+          "wordCount": null,
+          "title": "Elon Musk's 2007 Interview Predicted the Next 18 Years",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/8b9495f9-565c-410a-a65c-743bc2d3e7b5_480x360.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/8b9495f9-565c-410a-a65c-743bc2d3e7b5_480x360.jpeg"
+        },
         {
           "id": "https://www.thevccorner.com/p/building-in-public-ai-copycat-risk",
           "author": "Ruben Dominguez",
@@ -2194,6 +2174,36 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-thursday-july-2-2026/",
+          "author": null,
+          "description": "Anthropic restored Fable 5 after a government-triggered shutdown; CAIS ranked Fable 5 first on real remote-work tasks; Meta moved to sell excess AI compute; xAI launched voice agents; NVIDIA pushed faster models and physical AI; plus a packed funding and agent-tools slate.",
+          "link": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-thursday-july-2-2026/",
+          "publishedOn": "2026-07-02T00:22:24.994Z",
+          "wordCount": null,
+          "title": "Around the Horn Digest: Everything That Happened in AI Today (Thursday, July 2, 2026)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/newsletter/july-1-claude-got-a-workhorse-upgrade/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/july-1-claude-got-a-workhorse-upgrade/",
+          "publishedOn": "2026-07-01T09:56:29.885Z",
+          "wordCount": null,
+          "title": "😺 Fable 5 is back baby",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-tuesday-june-30-2026/",
+          "author": null,
+          "description": "Anthropic launched Claude Sonnet 5 and Claude Science; OpenAI reportedly cut inference costs; AWS created a $1B forward-deployed AI push; Meituan open-sourced LongCat-2.0; Etched hit $1B in AI chip sales.",
+          "link": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-tuesday-june-30-2026/",
+          "publishedOn": "2026-07-01T04:37:55.130Z",
+          "wordCount": null,
+          "title": "Everything That Happened in AI Today (Tuesday, June 30, 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/newsletter/june-30-tuesday/",
           "author": null,
@@ -2953,36 +2963,6 @@
           "wordCount": null,
           "title": "Here is Everything Microsoft announced at Microsoft Build 2026",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/nvidia-agents-in-your-laptop/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/nvidia-agents-in-your-laptop/",
-          "publishedOn": "2026-06-02T10:02:33.918Z",
-          "wordCount": null,
-          "title": "😺 NVIDIA agents in your laptop?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/the-personal-ai-computer-will-move-agents-from-cloud-tolls-to-local-control/",
-          "author": null,
-          "description": "NVIDIA and Microsoft’s RTX Spark points to a future where everyday agents run locally, cloud models handle premium intelligence, and workers use agents to sell their own services.",
-          "link": "https://www.theneuron.ai/explainer-articles/the-personal-ai-computer-will-move-agents-from-cloud-tolls-to-local-control/",
-          "publishedOn": "2026-06-02T02:15:31.514Z",
-          "wordCount": null,
-          "title": "The Personal AI Computer Will Move Agents From Cloud Tolls to Local Control",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-monday-june-1-2026/",
-          "author": null,
-          "description": "NVIDIA turned the PC into an agent computer; Anthropic filed confidentially for an IPO; MiniMax released M3; Bernie Sanders proposed public ownership of AI labs; Mythos sparked a cybersecurity cost debate; plus much more.",
-          "link": "https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-monday-june-1-2026/",
-          "publishedOn": "2026-06-01T23:14:28.160Z",
-          "wordCount": null,
-          "title": "Everything That Happened in AI Today (Monday, June 1, 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -2991,6 +2971,46 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=609635",
+          "author": "Erika Gomes-Gonçalves",
+          "description": "The next leakage problem is not only temporal. It is spatial, structural, and coverage-related. AI-generated illustration created with DALL·E\nThe post Why Powerful ML Is Deceptively Easy — Part 2 appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/why-powerful-ml-is-deceptively-easy-part-2/",
+          "publishedOn": "2026-07-01T16:30:00.000Z",
+          "wordCount": 6950,
+          "title": "Why Powerful ML Is Deceptively Easy — Part 2",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/Screenshot-2026-06-28-at-16.15.56.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609633",
+          "author": "Anubhab Banerjee",
+          "description": "Every hand-off in your multi-agent pipeline is an expensive tokenization round-trip. Discover how Inductive Latent Context Persistence (ILCP) transfers a compressed hidden state so downstream agents never have to re-create the same context.\nThe post Persistent Latent Memory for Multi-Hop LLM Agents: How a 6G Handover Paper Closes the Agent Cold-Start appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/persistent-latent-memory-for-multi-hop-llm-agents-how-a-6g-handover-paper-closes-the-agent-cold-start/",
+          "publishedOn": "2026-07-01T15:00:00.000Z",
+          "wordCount": 10660,
+          "title": "Persistent Latent Memory for Multi-Hop LLM Agents: How a 6G Handover Paper Closes the Agent Cold-Start",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/part4_overview.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609630",
+          "author": "Jiayan Yin",
+          "description": "How Pandas chunking, Dask, and Polars help process millions of records when adding more compute isn't an option.\nThe post What Can We Do When Memory Becomes the New Bottleneck in Data Engineering? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/when-memory-becomes-the-new-bottleneck-in-data-engineering-what-can-we-do/",
+          "publishedOn": "2026-07-01T13:30:00.000Z",
+          "wordCount": 4543,
+          "title": "What Can We Do When Memory Becomes the New Bottleneck in Data Engineering?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/liam-briese-lYxQ5F9xBDM-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609628",
+          "author": "Thomas Reid",
+          "description": "Build and deploy an agent on AWS with Strands and AgentCore\nThe post Build and Run Your Own AI Agent in the Cloud appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/build-and-run-your-own-ai-agent-in-the-cloud/",
+          "publishedOn": "2026-07-01T12:00:00.000Z",
+          "wordCount": 8039,
+          "title": "Build and Run Your Own AI Agent in the Cloud",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/ig_020b8d354f1edfb1016a2c5177d9c88193bc7dddbc59220a90.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=609617",
           "author": "Kezhan Shi",
@@ -4140,56 +4160,6 @@
           "wordCount": 5296,
           "title": "From Local App to Public Website in Minutes",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/starline-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609253",
-          "author": "angela shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #4] - A diagnostic across PDFs and questions, and a map of the techniques the rest of the series will cover\nThe post From Regex to Vision Models: Which RAG Technique Fits Which Problem appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/from-regex-to-vision-models-which-rag-technique-fits-which-problem/",
-          "publishedOn": "2026-06-02T13:30:00.000Z",
-          "wordCount": 7537,
-          "title": "From Regex to Vision Models: Which RAG Technique Fits Which Problem",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/tools_JQZyN8WJPh0_v3_card.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609251",
-          "author": "Mahnoor Javed",
-          "description": "Exploratory data analysis on the US Census Dataset \nThe post Exploring Income Patterns with Python Pandas, Matplotlib, and Seaborn appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/from-raw-census-data-to-powerful-insights-exploring-income-patterns-with-pandas-matplotlib-seaborn/",
-          "publishedOn": "2026-06-02T12:00:00.000Z",
-          "wordCount": 5611,
-          "title": "Exploring Income Patterns with Python Pandas, Matplotlib, and Seaborn",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/engin-akyurt-n3h7BlAyHXc-unsplash-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609249",
-          "author": "angela shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #3] - Why the ML toolkit (hyperparameter sweeps, train/test splits, explainability frameworks) solves the wrong problem, and what to use instead\nThe post RAG Is Not Machine Learning, and the ML Toolkit Solves the Wrong Problem appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/rag-is-not-machine-learning-and-the-ml-toolkit-solves-the-wrong-problem/",
-          "publishedOn": "2026-06-01T18:49:53.000Z",
-          "wordCount": 8889,
-          "title": "RAG Is Not Machine Learning, and the ML Toolkit Solves the Wrong Problem",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/loupe_O7LDeH0Qo_v3_card.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609247",
-          "author": "Eivind Kjosbakken",
-          "description": "Get the most out of each coding model to have a very powerful coding setup \nThe post How to Combine Claude Code and Codex for Maximum Coding Power appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-combining-claude-code-and-codex-for-max-coding-power/",
-          "publishedOn": "2026-06-01T17:30:00.000Z",
-          "wordCount": 4793,
-          "title": "How to Combine Claude Code and Codex for Maximum Coding Power",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/claude-code-and-codex_cover.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609245",
-          "author": "Sam Black",
-          "description": "Applying blockchain primitives to dataset versioning, provenance, and integrity assurance\nThe post Ensuring Data Integrity with Cryptographic Hashing and the Ethereum Blockchain appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/ensuring-data-integrity-with-cryptographic-hashing-and-the-ethereum-blockchain/",
-          "publishedOn": "2026-06-01T15:00:00.000Z",
-          "wordCount": 4522,
-          "title": "Ensuring Data Integrity with Cryptographic Hashing and the Ethereum Blockchain",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/photo-1523961131990-5ea7c61b2107.jpg"
         }
       ]
     },
@@ -4204,6 +4174,26 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/b51c3c195954",
+          "author": "Cassie McDaniel",
+          "description": "A recap of ideas from our panel discussion for a topic that’s on everyone’s mind\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/how-designers-need-to-change-for-an-ai-powered-world-b51c3c195954?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-07-01T21:49:00.000Z",
+          "wordCount": null,
+          "title": "How designers need to change for an AI-powered world",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3dce31215ff4",
+          "author": "Zeeshan Khalid",
+          "description": "A tale of strategy, survival, and the wild animals hiding in plain sight\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/the-4-predators-sabotaging-your-product-team-3dce31215ff4?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-07-01T11:18:41.000Z",
+          "wordCount": null,
+          "title": "The 4 predators sabotaging your product team",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/87be5fabdbbe",
           "author": "Taras Bakusevych",
@@ -5012,56 +5002,6 @@
           "publishedOn": "2026-06-02T21:53:50.000Z",
           "wordCount": null,
           "title": "AI-created document fatigue: how I designed my way out of it",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/be91aeac65d9",
-          "author": "Kai Wong",
-          "description": "What having taste trapped in your head costs you and your team\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/the-most-important-part-of-building-your-taste-is-to-hand-it-off-be91aeac65d9?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-06-02T11:08:16.000Z",
-          "wordCount": null,
-          "title": "The most important part of building your taste is to hand it off",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d2acde25551b",
-          "author": "Bora",
-          "description": "",
-          "link": "https://uxdesign.cc/default-bias-who-chose-your-settings-d2acde25551b?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-06-02T11:07:25.000Z",
-          "wordCount": null,
-          "title": "Default Bias: Who chose your settings?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/21d17488fc48",
-          "author": "Chris R Becker",
-          "description": "Why does more content not mean more quality\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/ai-meets-sturgeons-law-21d17488fc48?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-06-01T22:53:56.000Z",
-          "wordCount": null,
-          "title": "AI meets Sturgeon’s Law",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/7d1119af30ba",
-          "author": "Hiroshi Sato",
-          "description": "On a moving company’s box, and the long reach of a few quiet decisions\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/foreman-guardian-team-builder-all-this-is-a-box-7d1119af30ba?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-06-01T22:53:47.000Z",
-          "wordCount": null,
-          "title": "Foreman, guardian, team builder: all this is a box",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/cf72fed592ed",
-          "author": "Alessandro Molinaro",
-          "description": "",
-          "link": "https://uxdesign.cc/the-register-shift-cf72fed592ed?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-06-01T22:53:36.000Z",
-          "wordCount": null,
-          "title": "The register shift",
           "imageUrl": null
         }
       ]
@@ -6652,86 +6592,6 @@
           "publishedOn": "2026-06-02T14:06:36.000Z",
           "wordCount": null,
           "title": "Higgsfield Canvas vs Topview Canvas: Which One is Better?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c91c8243c3c6",
-          "author": "Ahmed M. Abdelfattah",
-          "description": "For every Gmail user: what Google’s four-sentence privacy promise actually says, and what opting out can’t undo.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/google-just-gave-itself-permission-to-learn-from-your-doctors-emails-c91c8243c3c6?source=rss----440100e76000---4",
-          "publishedOn": "2026-06-02T08:27:51.000Z",
-          "wordCount": null,
-          "title": "Google Just Gave Itself Permission to Learn From Your Doctor’s Emails",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/387d04c2aa40",
-          "author": "Ruqaiya Beguwala",
-          "description": "There’s a Claude Code skill that runs your decisions through 5 AI advisors, has them peer-review each other anonymously, and hands you a…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/i-got-tired-of-claude-agreeing-with-me-so-i-made-it-argue-with-itself-387d04c2aa40?source=rss----440100e76000---4",
-          "publishedOn": "2026-06-02T08:27:37.000Z",
-          "wordCount": null,
-          "title": "I Got Tired of Claude Agreeing With Me. So I Made It Argue With Itself.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/dda27f703e3c",
-          "author": "AI Unfiltered",
-          "description": "No server breach. No malware. Just a polite message and a VPN.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/metas-ai-gave-away-instagram-accounts-all-you-needed-was-a-username-dda27f703e3c?source=rss----440100e76000---4",
-          "publishedOn": "2026-06-02T08:27:32.000Z",
-          "wordCount": null,
-          "title": "Meta’s AI Gave Away Instagram Accounts. All You Needed Was a Username.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/5e15adb1406d",
-          "author": "hejrene | Rene",
-          "description": "If you use a billion-dollar intelligence machine to avoid a simple Google search, maybe the price is not the problem.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/ai-is-far-too-cheap-yes-i-said-it-5e15adb1406d?source=rss----440100e76000---4",
-          "publishedOn": "2026-06-01T14:16:13.000Z",
-          "wordCount": null,
-          "title": "AI Is Far Too Cheap! Yes, I Said It.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/0fdec2ce710b",
-          "author": "Amit | AI & Side Hustle",
-          "description": "The software you’re paying for every month is becoming obsolete — and most people haven’t noticed yet.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/why-ai-agents-are-replacing-saas-0fdec2ce710b?source=rss----440100e76000---4",
-          "publishedOn": "2026-06-01T14:16:11.000Z",
-          "wordCount": null,
-          "title": "Why AI Agents Are Replacing SaaS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/1bc304dfb16c",
-          "author": "Marco van Hurne",
-          "description": "",
-          "link": "https://generativeai.pub/how-to-build-an-agentification-factory-that-actually-turns-a-profit-1bc304dfb16c?source=rss----440100e76000---4",
-          "publishedOn": "2026-06-01T14:15:27.000Z",
-          "wordCount": null,
-          "title": "How to build an agentification factory that actually turns a profit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/33cb92bc9869",
-          "author": "Jim the AI Whisperer",
-          "description": "Even when AI seemingly gets facts right, it only sounds correct\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/why-every-ai-answer-is-a-hallucination-that-often-isnt-wrong-33cb92bc9869?source=rss----440100e76000---4",
-          "publishedOn": "2026-06-01T14:14:44.000Z",
-          "wordCount": null,
-          "title": "Why Every AI Answer Is a Hallucination (That Often Isn’t Wrong)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/6b92e89528d8",
-          "author": "The Smarter Way",
-          "description": "",
-          "link": "https://generativeai.pub/what-id-tell-my-past-self-about-using-ai-at-work-before-it-s-too-late-6b92e89528d8?source=rss----440100e76000---4",
-          "publishedOn": "2026-06-01T14:13:19.000Z",
-          "wordCount": null,
-          "title": "What I’d Tell My Past Self About Using AI at Work — Before It’s Too Late",
           "imageUrl": null
         }
       ]
