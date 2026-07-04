@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/WgSTct_Zzxw",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/WgSTct_Zzxw",
+          "publishedOn": "2026-07-03T12:00:22.000Z",
+          "wordCount": 2145,
+          "title": "7 Mistakes to Avoid When Learning AI Engineering in 2026",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=86Dfgazdu-0",
           "author": null,
           "description": "",
@@ -414,16 +424,6 @@
           "wordCount": 2215,
           "title": "The Biggest Mistake I Made Learning Python   v2",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/j4Vkqi_fuCI",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/j4Vkqi_fuCI",
-          "publishedOn": "2026-06-04T12:00:56.000Z",
-          "wordCount": 2166,
-          "title": "The Right Way to Learn Machine Learning Most People Don't",
-          "imageUrl": null
         }
       ]
     },
@@ -510,16 +510,6 @@
           "publishedOn": "2026-06-09T20:08:12.000Z",
           "wordCount": null,
           "title": "Claude Fable 5 just dropped and I'm speechless...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tiFJmVhkF_s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tiFJmVhkF_s",
-          "publishedOn": "2026-06-03T21:47:44.000Z",
-          "wordCount": null,
-          "title": "Hermes Agent just WON (Hermes desktop app)",
           "imageUrl": null
         }
       ]
@@ -1748,6 +1738,22 @@
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
         {
+          "id": "https://www.thevccorner.com/p/vc-fund-economics-waterfall-model",
+          "author": "Ruben Dominguez",
+          "description": "The perfect model for VCs, LPs and founders to understand fees, carry, and alignment.",
+          "link": "https://www.thevccorner.com/p/vc-fund-economics-waterfall-model",
+          "publishedOn": "2026-07-03T15:21:54.000Z",
+          "wordCount": null,
+          "title": "Why Most VCs Misunderstand Their Own Fund Economics",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!8DtW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a594972-4a61-42dc-85a7-48736dd06783_1600x707.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!8DtW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a594972-4a61-42dc-85a7-48736dd06783_1600x707.png"
+        },
+        {
           "id": "https://www.thevccorner.com/p/the-new-saas-playbook-ai-agent-era",
           "author": "Ruben Dominguez",
           "description": "SaaS just got demoted from the prize to the packaging and the value moved somewhere else entirely.",
@@ -2138,6 +2144,26 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/newsletter/openai-may-give-uncle-sam-5/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/openai-may-give-uncle-sam-5/",
+          "publishedOn": "2026-07-03T09:32:25.187Z",
+          "wordCount": null,
+          "title": "😸 OpenAI may give Uncle Sam 5%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-friday-july-3-2026/",
+          "author": null,
+          "description": "OpenAI reportedly discussed a U.S. government stake; Anthropic reportedly explored custom chips with Samsung; Microsoft pushed Frontier Company, Copilot cleanup, and Memora; NVIDIA, SoftBank, Kling, Tripo, ElevenLabs, and Cloudflare reshaped the AI infrastructure and content-access fight; and a huge crop of agent, robotics, memory, benchmark, coding, and developer tools pushed the stack forward.",
+          "link": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-friday-july-3-2026/",
+          "publishedOn": "2026-07-03T01:14:48.656Z",
+          "wordCount": null,
+          "title": "Everything That Happened in AI Today (Friday, July 3, 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/newsletter/fable-5-first-reviews-tna-segments/",
           "author": null,
@@ -2857,46 +2883,6 @@
           "wordCount": null,
           "title": "Nemotron 3 Ultra Is Fast, Open, and Surprisingly Good at Weird Instructions",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/google-gemini-got-hijacked-via-whatsapp/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/google-gemini-got-hijacked-via-whatsapp/",
-          "publishedOn": "2026-06-04T10:02:23.313Z",
-          "wordCount": null,
-          "title": "😺 Google Gemini got hijacked via WhatsApp",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/watch-this-company-has-a-fix-for-bots-taking-over-the-internet/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/watch-this-company-has-a-fix-for-bots-taking-over-the-internet/",
-          "publishedOn": "2026-06-03T19:10:25.625Z",
-          "wordCount": null,
-          "title": "😺 Watch: This company has a fix for bots taking over the internet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/world-id-and-the-fight-to-prove-youre-human-online/",
-          "author": null,
-          "description": "Tiago Sada explains why AI is breaking online trust, how World ID tries to prove unique humanhood without exposing identity, and why the privacy objections are the whole story.",
-          "link": "https://www.theneuron.ai/explainer-articles/world-id-and-the-fight-to-prove-youre-human-online/",
-          "publishedOn": "2026-06-03T18:35:56.442Z",
-          "wordCount": null,
-          "title": "World ID and the Fight to Prove You’re Human Online",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/scott-hanselmans-beginner-guide-to-ai-augmented-software-engineering/",
-          "author": null,
-          "description": "Scott Hanselman’s Microsoft Build demo showed a better way to code with AI: start weird, stay grounded, review everything, and turn useful AI work into reusable tools.",
-          "link": "https://www.theneuron.ai/explainer-articles/scott-hanselmans-beginner-guide-to-ai-augmented-software-engineering/",
-          "publishedOn": "2026-06-03T16:57:35.210Z",
-          "wordCount": null,
-          "title": "Scott Hanselman’s Beginner Guide to AI-Augmented Software Engineering",
-          "imageUrl": null
         }
       ]
     },
@@ -2905,6 +2891,46 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=609664",
+          "author": "Maria Mouschoutzi",
+          "description": "How agents reason, act, and observe their way to a final answer, one step at a time\nThe post AI Agents Explained: What Is a ReAct Loop and How Does It Work? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/ai-agents-explained-what-is-a-react-loop-and-how-does-it-work/",
+          "publishedOn": "2026-07-03T16:30:00.000Z",
+          "wordCount": 5184,
+          "title": "AI Agents Explained: What Is a ReAct Loop and How Does It Work?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/ChatGPT-Image-Jun-24-2026-10_21_57-PM.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609661",
+          "author": "Chien Vu Minh",
+          "description": "Balancing context capability against cost, speed, and data\nThe post Long Context vs. Short Context Model: When Does a Long Context Model Win? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/long-context-vs-short-context-model-when-does-a-long-context-model-win/",
+          "publishedOn": "2026-07-03T15:00:00.000Z",
+          "wordCount": 9457,
+          "title": "Long Context vs. Short Context Model: When Does a Long Context Model Win?",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/jr-korpa-Dm-DXaMx2vY-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609659",
+          "author": "Emmimal P Alexander",
+          "description": "Most \"LLM wikis\" use agents, embeddings, and repeated model calls to organize local notes. I built a deterministic alternative: a pure Python compiler that turns messy markdown into a linked, linted wiki using only the standard library. Along the way, I fixed two real bugs, benchmarked the pipeline on two operating systems, and showed why a compiler is often a better fit than an agent for mechanical text organization.\nThe post LLM Wikis Are Over-Engineered — I Replaced Mine With a Pure Python Compiler appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/llm-wikis-are-over-engineered-i-replaced-mine-with-a-pure-python-compiler/",
+          "publishedOn": "2026-07-03T13:30:00.000Z",
+          "wordCount": 6328,
+          "title": "LLM Wikis Are Over-Engineered — I Replaced Mine With a Pure Python Compiler",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/LLM-Wikis.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609657",
+          "author": "Kezhan Shi",
+          "description": "Enterprise Document Intelligence [Vol.1 #7ter] - Six positions on the retrieval brick that contradict the cosine-first reflex of mainstream RAG\nThe post The Untaught Lessons of RAG Retrieval: Cosine Is Not the Foundation appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-untaught-lessons-of-rag-retrieval-cosine-is-not-the-foundation/",
+          "publishedOn": "2026-07-03T12:00:00.000Z",
+          "wordCount": 4376,
+          "title": "The Untaught Lessons of RAG Retrieval: Cosine Is Not the Foundation",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/card_catalog_kAQo6CJCPN4_v3_card.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=609644",
           "author": "Sam Black",
@@ -4064,46 +4090,6 @@
           "wordCount": 7173,
           "title": "FPN Paper Walkthrough: Leveraging the Internal Pyramid",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/0_FE3IgUisiKV5ZlqW.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609271",
-          "author": "Sachin Hosmani",
-          "description": "A look at the real-world value of online graduate AI programs, combining hard data with firsthand experience of a big tech machine learning engineer\nThe post Is an Online Master’s Degree in AI a Good Idea? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/is-an-online-masters-degree-in-ai-a-good-idea/",
-          "publishedOn": "2026-06-04T12:00:00.000Z",
-          "wordCount": 5733,
-          "title": "Is an Online Master’s Degree in AI a Good Idea?",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/featured_image-2.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609266",
-          "author": "Ida Silfverskiöld",
-          "description": "Testing fourteen engines on ninety-three human documents\nThe post I Spent May Evaluating Different Engines for OCR appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/i-spent-may-evaluating-different-engines-for-ocr/",
-          "publishedOn": "2026-06-03T16:30:00.000Z",
-          "wordCount": 6238,
-          "title": "I Spent May Evaluating Different Engines for OCR",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/Skarmavbild-2026-06-02-kl.-09.18.12.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609264",
-          "author": "Marco Baity-Jesi",
-          "description": "AI does not decide who gets fired. Companies do.\nThe post Why AI Is NOT Stealing Your Job appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/why-ai-is-not-stealing-your-job/",
-          "publishedOn": "2026-06-03T15:00:00.000Z",
-          "wordCount": 4708,
-          "title": "Why AI Is NOT Stealing Your Job",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/image2.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609261",
-          "author": "Anubhab Banerjee",
-          "description": "A comprehensive guide to optimizing LLM inference by eliminating padding overhead with hardware-aware sequence packing.\nThe post I Built a C++ Backend So My GPU Would Stop Eating Air appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/i-built-a-c-backend-so-my-gpu-would-stop-eating-air/",
-          "publishedOn": "2026-06-03T13:30:00.000Z",
-          "wordCount": 9529,
-          "title": "I Built a C++ Backend So My GPU Would Stop Eating Air",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/vram-aware-packing.jpg"
         }
       ]
     },
@@ -4118,6 +4104,36 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/954a4084175f",
+          "author": "Christine Vallaure",
+          "description": "A beginner’s guide through the AI pipeline fog",
+          "link": "https://uxdesign.cc/you-design-it-then-what-a-clear-map-of-the-figma-to-code-ai-mess-954a4084175f?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-07-03T11:17:14.000Z",
+          "wordCount": 8369,
+          "title": "You design it. Then what? A clear map of the Figma-to-code AI mess",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*o-Oilskerz46L2jpF9kvxQ.png"
+        },
+        {
+          "id": "https://medium.com/p/546438288589",
+          "author": "Michael Buckley",
+          "description": "Why making it easier to apply may have made it harder to get hired.",
+          "link": "https://uxdesign.cc/did-good-ux-break-the-job-market-546438288589?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-07-03T11:16:44.000Z",
+          "wordCount": 2816,
+          "title": "Did good UX break the job market?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*55ZQe0ZqnB009-0Qt-6Gkw.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/a0baca87994e",
+          "author": "Patrick Neeman",
+          "description": "Nobody builds with one model anymore. Here is the stack I reach for, tool by tool, with the one trick that makes each earn its place.",
+          "link": "https://uxdesign.cc/the-seven-ai-tools-i-actually-use-and-when-june-2026-edition-a0baca87994e?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-07-03T03:56:18.000Z",
+          "wordCount": 7012,
+          "title": "The seven AI tools I actually use and when",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*rVzBRTEirr5aOfxEOErgpw.png"
+        },
         {
           "id": "https://medium.com/p/58fbc7926a3d",
           "author": "Slava Polonski, PhD",
@@ -6516,46 +6532,6 @@
           "publishedOn": "2026-06-04T13:34:02.000Z",
           "wordCount": null,
           "title": "AI Did Not Replace My Work. It Expanded What I Can Do",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/a82b9181c8a4",
-          "author": "Rakesh Patel",
-          "description": "",
-          "link": "https://generativeai.pub/how-shared-governance-stops-ai-agents-forgetting-a82b9181c8a4?source=rss----440100e76000---4",
-          "publishedOn": "2026-06-03T14:50:28.000Z",
-          "wordCount": null,
-          "title": "How Shared Governance Stops AI Agents Forgetting",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/b41dd6df2eeb",
-          "author": "AI Unfiltered",
-          "description": "",
-          "link": "https://generativeai.pub/i-watched-someone-delete-three-months-of-ai-code-the-real-problem-wasnt-the-code-b41dd6df2eeb?source=rss----440100e76000---4",
-          "publishedOn": "2026-06-03T14:49:12.000Z",
-          "wordCount": null,
-          "title": "I Watched Someone Delete Three Months of AI Code. The Real Problem Wasn’t the Code.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9fb050c47176",
-          "author": "Ash Pirnia",
-          "description": "",
-          "link": "https://generativeai.pub/two-banks-and-a-river-bridging-okrs-and-agents-9fb050c47176?source=rss----440100e76000---4",
-          "publishedOn": "2026-06-03T14:48:40.000Z",
-          "wordCount": null,
-          "title": "Two Banks and a River: Bridging OKRs and Agents",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/99697616704c",
-          "author": "AI Unfiltered",
-          "description": "",
-          "link": "https://generativeai.pub/xai-had-no-video-product-eight-months-ago-grok-imagine-1-5-just-topped-the-global-leaderboard-99697616704c?source=rss----440100e76000---4",
-          "publishedOn": "2026-06-03T14:48:19.000Z",
-          "wordCount": null,
-          "title": "xAI Had No Video Product Eight Months Ago. Grok Imagine 1.5 Just Topped the Global Leaderboard.",
           "imageUrl": null
         }
       ]

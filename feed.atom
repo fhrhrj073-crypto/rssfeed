@@ -2,10 +2,123 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-07-03T01:25:14.597Z</updated>
+    <updated>2026-07-04T01:24:53.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI Agents Explained: What Is a ReAct Loop and How Does It Work?]]></title>
+        <id>https://towardsdatascience.com/?p=609664</id>
+        <link href="https://towardsdatascience.com/ai-agents-explained-what-is-a-react-loop-and-how-does-it-work/"/>
+        <updated>2026-07-03T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[How agents reason, act, and observe their way to a final answer, one step at a time
+The post AI Agents Explained: What Is a ReAct Loop and How Does It Work? appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Maria Mouschoutzi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Most VCs Misunderstand Their Own Fund Economics]]></title>
+        <id>https://www.thevccorner.com/p/vc-fund-economics-waterfall-model</id>
+        <link href="https://www.thevccorner.com/p/vc-fund-economics-waterfall-model"/>
+        <updated>2026-07-03T15:21:54.000Z</updated>
+        <summary type="html"><![CDATA[The perfect model for VCs, LPs and founders to understand fees, carry, and alignment.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Long Context vs. Short Context Model: When Does a Long Context Model Win?]]></title>
+        <id>https://towardsdatascience.com/?p=609661</id>
+        <link href="https://towardsdatascience.com/long-context-vs-short-context-model-when-does-a-long-context-model-win/"/>
+        <updated>2026-07-03T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Balancing context capability against cost, speed, and data
+The post Long Context vs. Short Context Model: When Does a Long Context Model Win? appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Chien Vu Minh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM Wikis Are Over-Engineered — I Replaced Mine With a Pure Python Compiler]]></title>
+        <id>https://towardsdatascience.com/?p=609659</id>
+        <link href="https://towardsdatascience.com/llm-wikis-are-over-engineered-i-replaced-mine-with-a-pure-python-compiler/"/>
+        <updated>2026-07-03T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Most "LLM wikis" use agents, embeddings, and repeated model calls to organize local notes. I built a deterministic alternative: a pure Python compiler that turns messy markdown into a linked, linted wiki using only the standard library. Along the way, I fixed two real bugs, benchmarked the pipeline on two operating systems, and showed why a compiler is often a better fit than an agent for mechanical text organization.
+The post LLM Wikis Are Over-Engineered — I Replaced Mine With a Pure Python Compiler appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Emmimal P Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Mistakes to Avoid When Learning AI Engineering in 2026]]></title>
+        <id>https://www.youtube.com/shorts/WgSTct_Zzxw</id>
+        <link href="https://www.youtube.com/shorts/WgSTct_Zzxw"/>
+        <updated>2026-07-03T12:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Untaught Lessons of RAG Retrieval: Cosine Is Not the Foundation]]></title>
+        <id>https://towardsdatascience.com/?p=609657</id>
+        <link href="https://towardsdatascience.com/the-untaught-lessons-of-rag-retrieval-cosine-is-not-the-foundation/"/>
+        <updated>2026-07-03T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #7ter] - Six positions on the retrieval brick that contradict the cosine-first reflex of mainstream RAG
+The post The Untaught Lessons of RAG Retrieval: Cosine Is Not the Foundation appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Kezhan Shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You design it. Then what? A clear map of the Figma-to-code AI mess]]></title>
+        <id>https://medium.com/p/954a4084175f</id>
+        <link href="https://uxdesign.cc/you-design-it-then-what-a-clear-map-of-the-figma-to-code-ai-mess-954a4084175f?source=rss----138adf9c44c---4"/>
+        <updated>2026-07-03T11:17:14.000Z</updated>
+        <summary type="html"><![CDATA[A beginner’s guide through the AI pipeline fog]]></summary>
+        <author>
+            <name>Christine Vallaure</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did good UX break the job market?]]></title>
+        <id>https://medium.com/p/546438288589</id>
+        <link href="https://uxdesign.cc/did-good-ux-break-the-job-market-546438288589?source=rss----138adf9c44c---4"/>
+        <updated>2026-07-03T11:16:44.000Z</updated>
+        <summary type="html"><![CDATA[Why making it easier to apply may have made it harder to get hired.]]></summary>
+        <author>
+            <name>Michael Buckley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😸 OpenAI may give Uncle Sam 5%]]></title>
+        <id>https://www.theneuron.ai/newsletter/openai-may-give-uncle-sam-5/</id>
+        <link href="https://www.theneuron.ai/newsletter/openai-may-give-uncle-sam-5/"/>
+        <updated>2026-07-03T09:32:25.187Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The seven AI tools I actually use and when]]></title>
+        <id>https://medium.com/p/a0baca87994e</id>
+        <link href="https://uxdesign.cc/the-seven-ai-tools-i-actually-use-and-when-june-2026-edition-a0baca87994e?source=rss----138adf9c44c---4"/>
+        <updated>2026-07-03T03:56:18.000Z</updated>
+        <summary type="html"><![CDATA[Nobody builds with one model anymore. Here is the stack I reach for, tool by tool, with the one trick that makes each earn its place.]]></summary>
+        <author>
+            <name>Patrick Neeman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything That Happened in AI Today (Friday, July 3, 2026)]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-friday-july-3-2026/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-friday-july-3-2026/"/>
+        <updated>2026-07-03T01:14:48.656Z</updated>
+        <summary type="html"><![CDATA[OpenAI reportedly discussed a U.S. government stake; Anthropic reportedly explored custom chips with Samsung; Microsoft pushed Frontier Company, Copilot cleanup, and Memora; NVIDIA, SoftBank, Kling, Tripo, ElevenLabs, and Cloudflare reshaped the AI infrastructure and content-access fight; and a huge crop of agent, robotics, memory, benchmark, coding, and developer tools pushed the stack forward.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Pulse: a new trend, smart model routing]]></title>
         <id>6a46b160d2d7770001b1479c</id>
@@ -5970,143 +6083,6 @@ Continue reading on Generative AI »]]></summary>
 The post FPN Paper Walkthrough: Leveraging the Internal Pyramid appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Muhammad Ardi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Right Way to Learn Machine Learning Most People Don't]]></title>
-        <id>https://www.youtube.com/shorts/j4Vkqi_fuCI</id>
-        <link href="https://www.youtube.com/shorts/j4Vkqi_fuCI"/>
-        <updated>2026-06-04T12:00:56.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is an Online Master’s Degree in AI a Good Idea?]]></title>
-        <id>https://towardsdatascience.com/?p=609271</id>
-        <link href="https://towardsdatascience.com/is-an-online-masters-degree-in-ai-a-good-idea/"/>
-        <updated>2026-06-04T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A look at the real-world value of online graduate AI programs, combining hard data with firsthand experience of a big tech machine learning engineer
-The post Is an Online Master’s Degree in AI a Good Idea? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sachin Hosmani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😺 Google Gemini got hijacked via WhatsApp]]></title>
-        <id>https://www.theneuron.ai/newsletter/google-gemini-got-hijacked-via-whatsapp/</id>
-        <link href="https://www.theneuron.ai/newsletter/google-gemini-got-hijacked-via-whatsapp/"/>
-        <updated>2026-06-04T10:02:23.313Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hermes Agent just WON (Hermes desktop app)]]></title>
-        <id>https://www.youtube.com/watch?v=tiFJmVhkF_s</id>
-        <link href="https://www.youtube.com/watch?v=tiFJmVhkF_s"/>
-        <updated>2026-06-03T21:47:44.000Z</updated>
-        <author>
-            <name>Alex Finn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😺 Watch: This company has a fix for bots taking over the internet]]></title>
-        <id>https://www.theneuron.ai/newsletter/watch-this-company-has-a-fix-for-bots-taking-over-the-internet/</id>
-        <link href="https://www.theneuron.ai/newsletter/watch-this-company-has-a-fix-for-bots-taking-over-the-internet/"/>
-        <updated>2026-06-03T19:10:25.625Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World ID and the Fight to Prove You’re Human Online]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/world-id-and-the-fight-to-prove-youre-human-online/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/world-id-and-the-fight-to-prove-youre-human-online/"/>
-        <updated>2026-06-03T18:35:56.442Z</updated>
-        <summary type="html"><![CDATA[Tiago Sada explains why AI is breaking online trust, how World ID tries to prove unique humanhood without exposing identity, and why the privacy objections are the whole story.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scott Hanselman’s Beginner Guide to AI-Augmented Software Engineering]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/scott-hanselmans-beginner-guide-to-ai-augmented-software-engineering/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/scott-hanselmans-beginner-guide-to-ai-augmented-software-engineering/"/>
-        <updated>2026-06-03T16:57:35.210Z</updated>
-        <summary type="html"><![CDATA[Scott Hanselman’s Microsoft Build demo showed a better way to code with AI: start weird, stay grounded, review everything, and turn useful AI work into reusable tools.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Spent May Evaluating Different Engines for OCR]]></title>
-        <id>https://towardsdatascience.com/?p=609266</id>
-        <link href="https://towardsdatascience.com/i-spent-may-evaluating-different-engines-for-ocr/"/>
-        <updated>2026-06-03T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Testing fourteen engines on ninety-three human documents
-The post I Spent May Evaluating Different Engines for OCR appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ida Silfverskiöld</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why AI Is NOT Stealing Your Job]]></title>
-        <id>https://towardsdatascience.com/?p=609264</id>
-        <link href="https://towardsdatascience.com/why-ai-is-not-stealing-your-job/"/>
-        <updated>2026-06-03T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AI does not decide who gets fired. Companies do.
-The post Why AI Is NOT Stealing Your Job appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Marco Baity-Jesi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Shared Governance Stops AI Agents Forgetting]]></title>
-        <id>https://medium.com/p/a82b9181c8a4</id>
-        <link href="https://generativeai.pub/how-shared-governance-stops-ai-agents-forgetting-a82b9181c8a4?source=rss----440100e76000---4"/>
-        <updated>2026-06-03T14:50:28.000Z</updated>
-        <author>
-            <name>Rakesh Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Watched Someone Delete Three Months of AI Code. The Real Problem Wasn’t the Code.]]></title>
-        <id>https://medium.com/p/b41dd6df2eeb</id>
-        <link href="https://generativeai.pub/i-watched-someone-delete-three-months-of-ai-code-the-real-problem-wasnt-the-code-b41dd6df2eeb?source=rss----440100e76000---4"/>
-        <updated>2026-06-03T14:49:12.000Z</updated>
-        <author>
-            <name>AI Unfiltered</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two Banks and a River: Bridging OKRs and Agents]]></title>
-        <id>https://medium.com/p/9fb050c47176</id>
-        <link href="https://generativeai.pub/two-banks-and-a-river-bridging-okrs-and-agents-9fb050c47176?source=rss----440100e76000---4"/>
-        <updated>2026-06-03T14:48:40.000Z</updated>
-        <author>
-            <name>Ash Pirnia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xAI Had No Video Product Eight Months Ago. Grok Imagine 1.5 Just Topped the Global Leaderboard.]]></title>
-        <id>https://medium.com/p/99697616704c</id>
-        <link href="https://generativeai.pub/xai-had-no-video-product-eight-months-ago-grok-imagine-1-5-just-topped-the-global-leaderboard-99697616704c?source=rss----440100e76000---4"/>
-        <updated>2026-06-03T14:48:19.000Z</updated>
-        <author>
-            <name>AI Unfiltered</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built a C++ Backend So My GPU Would Stop Eating Air]]></title>
-        <id>https://towardsdatascience.com/?p=609261</id>
-        <link href="https://towardsdatascience.com/i-built-a-c-backend-so-my-gpu-would-stop-eating-air/"/>
-        <updated>2026-06-03T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A comprehensive guide to optimizing LLM inference by eliminating padding overhead with hardware-aware sequence packing.
-The post I Built a C++ Backend So My GPU Would Stop Eating Air appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Anubhab Banerjee</name>
         </author>
     </entry>
 </feed>
