@@ -2,10 +2,209 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-07-09T01:24:19.665Z</updated>
+    <updated>2026-07-10T01:21:42.115Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GPT-5.6 SOL is HERE]]></title>
+        <id>https://www.youtube.com/watch?v=roGmNXASYOM</id>
+        <link href="https://www.youtube.com/watch?v=roGmNXASYOM"/>
+        <updated>2026-07-09T20:49:47.000Z</updated>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT 5.6 just KILLED Fable 5]]></title>
+        <id>https://www.youtube.com/watch?v=r0TLqUwsB28</id>
+        <link href="https://www.youtube.com/watch?v=r0TLqUwsB28"/>
+        <updated>2026-07-09T18:21:02.000Z</updated>
+        <author>
+            <name>Alex Finn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today's the day...]]></title>
+        <id>https://www.youtube.com/watch?v=mD1F5DsC5tc</id>
+        <link href="https://www.youtube.com/watch?v=mD1F5DsC5tc"/>
+        <updated>2026-07-09T18:00:10.000Z</updated>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minecraft made by GPT-5.6]]></title>
+        <id>https://www.youtube.com/shorts/3IudC2n8jvQ</id>
+        <link href="https://www.youtube.com/shorts/3IudC2n8jvQ"/>
+        <updated>2026-07-09T17:39:17.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-5.6 Sol vs. Claude Fable: Why OpenAI’s new model crushes my benchmark]]></title>
+        <id>https://www.lennysnewsletter.com/p/gpt-56-sol-vs-claude-fable-why-openais</id>
+        <link href="https://www.lennysnewsletter.com/p/gpt-56-sol-vs-claude-fable-why-openais"/>
+        <updated>2026-07-09T17:33:57.000Z</updated>
+        <summary type="html"><![CDATA[Watch now | 🎙️GPT 5.6-Sol beats Fable on prototypes, PRDs, and browser use in my 5-category How I AI benchmark, and here's exactly where each model earns its spot.]]></summary>
+        <author>
+            <name>Claire Vo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pulse: Interesting AI coding stats from Cursor]]></title>
+        <id>6a4fd7106171aa00016f1eab</id>
+        <link href="https://blog.pragmaticengineer.com/the-pulse-interesting-ai-coding-stats-from-cursor/"/>
+        <updated>2026-07-09T17:20:34.000Z</updated>
+        <summary type="html"><![CDATA[Power users generate 10x as many lines of code vs the median, most of the AI spend is coming from input tokens not output ones, and almost half of AI changes are accepted without manual review by devs (!!)]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 LIVE now: GPT-5.6 Sol goes hands-on]]></title>
+        <id>https://www.theneuron.ai/newsletter/live-today-gpt-56-sol-goes-hands-on/</id>
+        <link href="https://www.theneuron.ai/newsletter/live-today-gpt-56-sol-goes-hands-on/"/>
+        <updated>2026-07-09T16:57:53.006Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Behind the Scenes of Distributed Training and Why Your GPU Wiring Matters as Much as Your Strategy]]></title>
+        <id>https://towardsdatascience.com/?p=609749</id>
+        <link href="https://towardsdatascience.com/behind-the-scenes-of-distributed-training-why-your-gpu-wiring-matters-as-much-as-your-strategy/"/>
+        <updated>2026-07-09T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A measured look at distributed training, from DDP and FSDP to the ZeRO stages in between, and why the wiring between your GPUs matters as much as the strategy you choose
+The post Behind the Scenes of Distributed Training and Why Your GPU Wiring Matters as Much as Your Strategy appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Hussen Mohammed Ibrahim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DesignOps in the age of AI: when governance becomes orchestration]]></title>
+        <id>https://medium.com/p/7b946ceea70f</id>
+        <link href="https://uxdesign.cc/designops-in-the-age-of-ai-when-governance-becomes-orchestration-7b946ceea70f?source=rss----138adf9c44c---4"/>
+        <updated>2026-07-09T16:23:55.000Z</updated>
+        <summary type="html"><![CDATA[DesignOps is shifting from governing human-led process to orchestrating human and AI technology towards ethical, meaningful outcomes.
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Luis Hermosilla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Find the Optimal Coding Agent Interface]]></title>
+        <id>https://towardsdatascience.com/?p=609747</id>
+        <link href="https://towardsdatascience.com/how-to-find-the-optimal-coding-agent-interface/"/>
+        <updated>2026-07-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Find the optimal way to interact with your coding agents
+The post How to Find the Optimal Coding Agent Interface appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI Job Apocalypse Is a Complete Misread]]></title>
+        <id>https://www.thevccorner.com/p/the-ai-job-apocalypse-is-a-complete</id>
+        <link href="https://www.thevccorner.com/p/the-ai-job-apocalypse-is-a-complete"/>
+        <updated>2026-07-09T14:18:05.000Z</updated>
+        <summary type="html"><![CDATA[Three years of surveys, stable headcount across the economy, and companies still making decisions based on a forecast that hasn't materialized. Here's what's actually happening.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loop Engineering for Hierarchical Retrieval: Reading a Long Document by Its Table of Contents]]></title>
+        <id>https://towardsdatascience.com/?p=609744</id>
+        <link href="https://towardsdatascience.com/loop-engineering-for-hierarchical-retrieval-reading-a-long-document-by-its-table-of-contents/"/>
+        <updated>2026-07-09T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #7quater] - A 492-page document has a 358-entry table of contents. You can’t read it all, and top-k over every page mixes the answer with its neighbours. Route through the TOC instead: a bounded loop inside retrieval that saves tokens and lifts precision
+The post Loop Engineering for Hierarchical Retrieval: Reading a Long Document by Its Table of Contents appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Kezhan Shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adam Mosseri: AI is a tailwind for authenticity]]></title>
+        <id>https://www.lennysnewsletter.com/p/adam-mosseri-ai-is-a-tailwind-for</id>
+        <link href="https://www.lennysnewsletter.com/p/adam-mosseri-ai-is-a-tailwind-for"/>
+        <updated>2026-07-09T12:32:21.000Z</updated>
+        <summary type="html"><![CDATA[Listen now | Instagram’s Adam Mosseri on the new product team structure in 2026, the rise of the “product staff” role, and the hiring traits that matter most today]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[同一個記憶召回測試，一個等快二十秒，一個 113 毫秒]]></title>
+        <id>https://www.youtube.com/shorts/Og5Vby9uhTo</id>
+        <link href="https://www.youtube.com/shorts/Og5Vby9uhTo"/>
+        <updated>2026-07-09T12:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>追日Gucci-AI效率革命聯盟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Vibe Coded App Is Leaking]]></title>
+        <id>https://www.youtube.com/shorts/wWOaiI9xM_o</id>
+        <link href="https://www.youtube.com/shorts/wWOaiI9xM_o"/>
+        <updated>2026-07-09T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where Does an AI’s Personality Actually Come From?]]></title>
+        <id>https://towardsdatascience.com/?p=609734</id>
+        <link href="https://towardsdatascience.com/where-does-an-ais-personality-actually-come-from/"/>
+        <updated>2026-07-09T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[They aren’t designed, you can’t help perceiving one anyway, and that makes them an engineering problem almost no one is solving.
+The post Where Does an AI’s Personality Actually Come From? appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Slava Polonski, PhD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 GPT-Live lets ChatGPT interrupt you]]></title>
+        <id>https://www.theneuron.ai/newsletter/gpt-live-lets-chatgpt-interrupt-you/</id>
+        <link href="https://www.theneuron.ai/newsletter/gpt-live-lets-chatgpt-interrupt-you/"/>
+        <updated>2026-07-09T09:30:45.414Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本旅遊網路怎麼選？DJB eSIM 跟一般網卡到底差在哪？]]></title>
+        <id>https://www.youtube.com/watch?v=1Wa-Tco7efs</id>
+        <link href="https://www.youtube.com/watch?v=1Wa-Tco7efs"/>
+        <updated>2026-07-09T05:22:17.000Z</updated>
+        <author>
+            <name>電腦王阿達</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 自己判斷哪裡枯燥，生成 B-roll 幫你補上]]></title>
+        <id>https://www.youtube.com/shorts/NNE4M6vnmsk</id>
+        <link href="https://www.youtube.com/shorts/NNE4M6vnmsk"/>
+        <updated>2026-07-09T04:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>追日Gucci-AI效率革命聯盟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything That Happened in AI Today (Wednesday, July 8, 2026)]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-wednesday-july-8-2026/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-wednesday-july-8-2026/"/>
+        <updated>2026-07-09T02:45:03.519Z</updated>
+        <summary type="html"><![CDATA[OpenAI's GPT-5.6 rollout led the day; GPT-Live, Grok 4.5, Seedream 5.0 Pro, Databricks' agent benchmark, Competency Gaps, HiLS-Attention, and GPT-6 rumors sharpened the cost/performance race.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grok  just broke the trend]]></title>
         <id>https://www.youtube.com/shorts/p7eQYMcmZqo</id>
@@ -5549,263 +5748,6 @@ Continue reading on Generative AI »]]></summary>
 The post Bayesian Networks and Markov Networks: An Intuitive Guide to Structured Uncertainty appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Sean Moran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best LOCAL Agentic Coding Workflow (Complete Guide)]]></title>
-        <id>https://www.youtube.com/watch?v=hfba9dAT6xE</id>
-        <link href="https://www.youtube.com/watch?v=hfba9dAT6xE"/>
-        <updated>2026-06-10T13:00:23.000Z</updated>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Insta360 Luna Ultra 創作者套裝開箱：1 吋雙鏡頭+可拆無線螢幕這設計太聰明！]]></title>
-        <id>https://www.youtube.com/watch?v=RdUHfDGM91I</id>
-        <link href="https://www.youtube.com/watch?v=RdUHfDGM91I"/>
-        <updated>2026-06-10T12:59:30.000Z</updated>
-        <author>
-            <name>電腦王阿達</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Fable 5 實測：把 AI 當資深工程師會怎樣]]></title>
-        <id>https://www.youtube.com/watch?v=VtehqGqpcjE</id>
-        <link href="https://www.youtube.com/watch?v=VtehqGqpcjE"/>
-        <updated>2026-06-10T12:21:57.000Z</updated>
-        <author>
-            <name>追日Gucci-AI效率革命聯盟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Hard Truth Every Developer Needs to Hear in 2026]]></title>
-        <id>https://www.youtube.com/shorts/1H2q_8R0mwo</id>
-        <link href="https://www.youtube.com/shorts/1H2q_8R0mwo"/>
-        <updated>2026-06-10T12:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Physical AI: What It Is and What It Is Not]]></title>
-        <id>https://towardsdatascience.com/?p=609325</id>
-        <link href="https://towardsdatascience.com/physical-ai-what-it-is-and-what-it-is-not/"/>
-        <updated>2026-06-10T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A quick guide to separating Physical AI from world models, embodied AI, physics AI, and digital twins
-The post Physical AI: What It Is and What It Is Not appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Shuai Guo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liquid Glass: who gets to decide how an interface looks?]]></title>
-        <id>https://medium.com/p/a0abe75ae21e</id>
-        <link href="https://uxdesign.cc/liquid-glass-who-gets-to-decide-how-an-interface-looks-a0abe75ae21e?source=rss----138adf9c44c---4"/>
-        <updated>2026-06-10T10:42:59.000Z</updated>
-        <summary type="html"><![CDATA[Notes from the 2026 WWDC keynote
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Fabrizia Ausiello</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ultimate Beginner’s Guide to WordPress]]></title>
-        <id>https://www.youtube.com/watch?v=5D6HEJDjoYQ</id>
-        <link href="https://www.youtube.com/watch?v=5D6HEJDjoYQ"/>
-        <updated>2026-06-10T10:39:16.000Z</updated>
-        <author>
-            <name>Metics Media</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 投資研究三步驟]]></title>
-        <id>https://www.youtube.com/shorts/sHRWPiQBxvU</id>
-        <link href="https://www.youtube.com/shorts/sHRWPiQBxvU"/>
-        <updated>2026-06-10T03:45:03.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>追日Gucci-AI效率革命聯盟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything to Know About Claude Fable 5, Anthropic's New And First Public Release of Its "Mythos" Model]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/everything-to-know-about-claude-fable-5-anthropics-new-and-first-public-release-of-its-mythos-model/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/everything-to-know-about-claude-fable-5-anthropics-new-and-first-public-release-of-its-mythos-model/"/>
-        <updated>2026-06-10T03:14:01.239Z</updated>
-        <summary type="html"><![CDATA[Anthropic released Claude Fable 5, its first generally available Mythos-class model, alongside a restricted Mythos 5 version for trusted cyber and biology access. The safety docs show the larger story: Anthropic is now shipping frontier capability as a routed, monitored, partially restricted system.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code Creators Boris Cherny and Cat Wu & Addy Osmani Explain How to Use Agent Loops]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/claude-code-creators-boris-cherny-and-cat-wu-explain-how-to-use-agent-loops/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/claude-code-creators-boris-cherny-and-cat-wu-explain-how-to-use-agent-loops/"/>
-        <updated>2026-06-09T23:33:51.241Z</updated>
-        <summary type="html"><![CDATA[Anthropic’s Claude Code team says the breakthrough is verification, routines, auto mode, and context minimalism. Here’s what that means and how to apply it.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should you really give AI your whole digital life?]]></title>
-        <id>https://medium.com/p/9b0c55df46e2</id>
-        <link href="https://uxdesign.cc/should-you-really-give-ai-your-whole-digital-life-9b0c55df46e2?source=rss----138adf9c44c---4"/>
-        <updated>2026-06-09T23:04:27.000Z</updated>
-        <summary type="html"><![CDATA[You’ve felt it, haven’t you? That tiny pause.
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Zeeshan Khalid</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MYTHOS MYTHOS MYTHOS]]></title>
-        <id>https://www.youtube.com/watch?v=Ou-0vjl6FZo</id>
-        <link href="https://www.youtube.com/watch?v=Ou-0vjl6FZo"/>
-        <updated>2026-06-09T23:02:27.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dieter Rams avoids computers. His ten rules still fit designing for AI.]]></title>
-        <id>https://medium.com/p/499229fd049e</id>
-        <link href="https://uxdesign.cc/dieter-rams-avoids-computers-his-ten-rules-still-fit-designing-for-ai-499229fd049e?source=rss----138adf9c44c---4"/>
-        <updated>2026-06-09T23:00:33.000Z</updated>
-        <author>
-            <name>Patrick Neeman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New GPT Memory Feature, GPT-5.6 Rumors, Hermes Desktop Agent, New Codex Plugins, MAI-2.5 Image, Etc.]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/new-gpt-memory-feature-gpt-56-rumors-hermes-desktop-agent-new-codex-plugins-mai-25-image-etc/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/new-gpt-memory-feature-gpt-56-rumors-hermes-desktop-agent-new-codex-plugins-mai-25-image-etc/"/>
-        <updated>2026-06-09T22:54:35.190Z</updated>
-        <summary type="html"><![CDATA[Grant and Corey break down Mercury Alpha rumors, ChatGPT memory, Codex plugins, Hermes Desktop, Microsoft AI models, and what agent tools mean for work.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic's Managed Agents, Explained (Meet Claude's Agent Platform)]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/managed-agents-explained/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/managed-agents-explained/"/>
-        <updated>2026-06-09T22:36:08.794Z</updated>
-        <summary type="html"><![CDATA[Anthropic’s latest Managed Agents tutorial shows how to build an incident-response agent with Agents, Environments, and Sessions. The bigger story is infrastructure: useful agents need state, observability, permissions, tools, memory, and secure execution before companies can trust them.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mythos is officially here.]]></title>
-        <id>https://www.youtube.com/shorts/naOUMQt-8pU</id>
-        <link href="https://www.youtube.com/shorts/naOUMQt-8pU"/>
-        <updated>2026-06-09T21:36:19.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Fable 5 just dropped and I'm speechless...]]></title>
-        <id>https://www.youtube.com/watch?v=RwsUnvHYmyw</id>
-        <link href="https://www.youtube.com/watch?v=RwsUnvHYmyw"/>
-        <updated>2026-06-09T20:08:12.000Z</updated>
-        <author>
-            <name>Alex Finn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouMind 在我建議之下搞出不鎖臉的 seedance 2.0 製作影片的方法，分鏡丟進去就好了現在是性價比最高的平台XD #aivideo]]></title>
-        <id>https://www.youtube.com/shorts/IIVd53KZAMU</id>
-        <link href="https://www.youtube.com/shorts/IIVd53KZAMU"/>
-        <updated>2026-06-09T19:23:37.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>電腦王阿達</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MYTHOS is LIVE!!!!]]></title>
-        <id>https://www.youtube.com/watch?v=e-4xG1U7M70</id>
-        <link href="https://www.youtube.com/watch?v=e-4xG1U7M70"/>
-        <updated>2026-06-09T19:17:39.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Fable 5 review: what the new Mythos model gets right (and very wrong)]]></title>
-        <id>https://www.lennysnewsletter.com/p/claude-fable-5-review-what-the-new</id>
-        <link href="https://www.lennysnewsletter.com/p/claude-fable-5-review-what-the-new"/>
-        <updated>2026-06-09T18:32:03.000Z</updated>
-        <summary type="html"><![CDATA[Watch now | 🎙️Early access to Claude Fable 5: what Anthropic claims, what I tested, and my honest take]]></summary>
-        <author>
-            <name>Claire Vo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What it feels like to work with Mythos]]></title>
-        <id>https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos</id>
-        <link href="https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos"/>
-        <updated>2026-06-09T17:11:22.000Z</updated>
-        <summary type="html"><![CDATA[Claude Fable represents another big jump in AI]]></summary>
-        <author>
-            <name>Ethan Mollick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Common RAG Mistakes We Keep Seeing in Production]]></title>
-        <id>https://towardsdatascience.com/?p=609320</id>
-        <link href="https://towardsdatascience.com/10-common-rag-mistakes-we-keep-seeing-in-production/"/>
-        <updated>2026-06-09T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #4bis] - A coauthor note on the brick-by-brick pitfalls that justified the four-brick split, before Part II walks the fixes
-The post 10 Common RAG Mistakes We Keep Seeing in Production appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Kezhan Shi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Every time I think I've caught up with the AI news...]]></title>
-        <id>https://www.youtube.com/shorts/GaiZvDn_Viw</id>
-        <link href="https://www.youtube.com/shorts/GaiZvDn_Viw"/>
-        <updated>2026-06-09T15:38:51.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Hardware That Makes AI Possible]]></title>
-        <id>https://towardsdatascience.com/?p=609323</id>
-        <link href="https://towardsdatascience.com/the-hardware-that-makes-ai-possible/"/>
-        <updated>2026-06-09T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CPUs, GPUs, TPUs, and NPUs
-The post The Hardware That Makes AI Possible appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sara A. Metwalli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[馬斯克公開終極藍圖：Starlink V3、太空 AI 衛星網路、火星計畫全解析！]]></title>
-        <id>https://www.youtube.com/watch?v=QAwxL43sq_o</id>
-        <link href="https://www.youtube.com/watch?v=QAwxL43sq_o"/>
-        <updated>2026-06-09T14:11:55.000Z</updated>
-        <author>
-            <name>電腦王阿達</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prefill Once, Fan Out: KV Snapshot Sharing for Multi-Agent LLM Pipelines]]></title>
-        <id>https://towardsdatascience.com/?p=609316</id>
-        <link href="https://towardsdatascience.com/kv-cache-reuse-for-multi-agent-llm-inference-i-built-a-c-orchestrator-so-my-gpu-would-stop-reading-the-same-document-twice/"/>
-        <updated>2026-06-09T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Stop re-computing the same context. Learn how to build a C++ runtime with copy-on-fork KV snapshots to eliminate redundant LLM prefills in multi-agent pipelines.
-The post Prefill Once, Fan Out: KV Snapshot Sharing for Multi-Agent LLM Pipelines appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Anubhab Banerjee</name>
         </author>
     </entry>
 </feed>
