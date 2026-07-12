@@ -2,10 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-07-11T01:15:12.748Z</updated>
+    <updated>2026-07-12T01:16:57.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Venture Capital Isn’t What It Used to Be, and It's at a Crossroads]]></title>
+        <id>https://www.thevccorner.com/p/the-future-of-venture-capital-evolution</id>
+        <link href="https://www.thevccorner.com/p/the-future-of-venture-capital-evolution"/>
+        <updated>2026-07-11T20:08:48.000Z</updated>
+        <summary type="html"><![CDATA[A deep look at the “niche network” that turned into a global financial system shaping trillion-dollar companies.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🧠 Community Wisdom: Negative network effects, managing overconfident colleagues, developers sidestepping design decisions, keeping stakeholder meetings on track, and more]]></title>
+        <id>https://www.lennysnewsletter.com/p/community-wisdom-negative-network</id>
+        <link href="https://www.lennysnewsletter.com/p/community-wisdom-negative-network"/>
+        <updated>2026-07-11T16:40:58.000Z</updated>
+        <summary type="html"><![CDATA[Community Wisdom 193]]></summary>
+        <author>
+            <name>Kiyani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Long Context Isn’t Free — I Built a Safe Prompt-Pruning Layer That Makes LLM Systems Work]]></title>
+        <id>https://towardsdatascience.com/?p=609807</id>
+        <link href="https://towardsdatascience.com/long-context-isnt-free-i-built-a-safe-prompt-pruning-layer-that-makes-llm-systems-work/"/>
+        <updated>2026-07-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[LLMs don’t fail because they forget—they fail because they remember too much. As conversations grow, prompts accumulate redundant and low-value tokens, driving up cost and latency while silently degrading output quality. This article introduces a deterministic prompt-pruning layer that reduces token usage without breaking dependencies, backed by real benchmarks and production-tested design.
+The post Long Context Isn’t Free — I Built a Safe Prompt-Pruning Layer That Makes LLM Systems Work appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Emmimal P Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Craft still matters, but it’s about outcomes]]></title>
+        <id>https://medium.com/p/e542cac33d12</id>
+        <link href="https://uxdesign.cc/craft-still-matters-but-its-not-about-pixels-anymore-ai-can-help-you-keep-it-e542cac33d12?source=rss----138adf9c44c---4"/>
+        <updated>2026-07-11T13:29:41.000Z</updated>
+        <summary type="html"><![CDATA[AI moved craft from production to judgment; the same tools can help you protect it, if you describe your standards and keep humans…]]></summary>
+        <author>
+            <name>Patrick Neeman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[That Is Embarrassing: Why Frontier AI Still Makes Things Up, and What to Do About It]]></title>
+        <id>https://towardsdatascience.com/?p=609803</id>
+        <link href="https://towardsdatascience.com/that-is-embarrassing-why-frontier-ai-still-makes-things-up-and-what-to-do-about-it/"/>
+        <updated>2026-07-11T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The best AI models still hallucinate. These hallucinations are sometimes funny, and sometimes cause actual damage. In this post we will consider recent tales of AI hallucinations, and then look under the hood to understand why they happen.
+The post That Is Embarrassing: Why Frontier AI Still Makes Things Up, and What to Do About It appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Omer Rosenbaum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make Claude Code Write Better Python With Pyright]]></title>
+        <id>https://www.youtube.com/shorts/188rCAWkoVo</id>
+        <link href="https://www.youtube.com/shorts/188rCAWkoVo"/>
+        <updated>2026-07-11T12:00:28.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每次都要重新跟 AI 解釋一遍？我幫它建了一個第二大腦]]></title>
+        <id>https://www.youtube.com/shorts/Gr1FbLALizY</id>
+        <link href="https://www.youtube.com/shorts/Gr1FbLALizY"/>
+        <updated>2026-07-11T04:07:56.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>追日Gucci-AI效率革命聯盟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[剪片的粗活全交給 AI，你只要確認 6 個點]]></title>
+        <id>https://www.youtube.com/shorts/DsVzruXprnI</id>
+        <link href="https://www.youtube.com/shorts/DsVzruXprnI"/>
+        <updated>2026-07-11T04:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>追日Gucci-AI效率革命聯盟</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PixAI vs SeaArt: Which AI Art Platform Is Better for Anime Creators?]]></title>
         <id>https://medium.com/p/95110e93c25a</id>
@@ -5459,225 +5541,6 @@ The post A Harness for Every Task: Putting a Team of Claudes on One Job appeared
 The post I Thought Data Engineering Was Just Writing Scripts. I Was Wrong. appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Ibrahim Salami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Actually Learn to Code]]></title>
-        <id>https://www.youtube.com/shorts/Lx3eD67RXZ8</id>
-        <link href="https://www.youtube.com/shorts/Lx3eD67RXZ8"/>
-        <updated>2026-06-12T12:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Language Visual? An Experiment with Chinese Characters]]></title>
-        <id>https://towardsdatascience.com/?p=609345</id>
-        <link href="https://towardsdatascience.com/is-language-visual-an-experiment-with-chinese-characters-2/"/>
-        <updated>2026-06-12T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A story about a broken printer, visual inductive bias, and why the race endedin a tie.
-The post Is Language Visual? An Experiment with Chinese Characters appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Shuyang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🙀 SpaceX raised $75B for AI in space]]></title>
-        <id>https://www.theneuron.ai/newsletter/new-post-e21f/</id>
-        <link href="https://www.theneuron.ai/newsletter/new-post-e21f/"/>
-        <updated>2026-06-12T10:01:50.973Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 修 bug 都在「蓋症狀」，難怪一直壞]]></title>
-        <id>https://www.youtube.com/shorts/cngjyu_XQSA</id>
-        <link href="https://www.youtube.com/shorts/cngjyu_XQSA"/>
-        <updated>2026-06-12T04:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>追日Gucci-AI效率革命聯盟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our Guide to AI Skills, Projects, Custom GPTs, Agents, Plugins, Connectors, Loops, and Codex Workflows]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/our-guide-to-ai-skills-projects-custom-gpts-agents-plugins-connectors-loops-and-codex-workflows/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/our-guide-to-ai-skills-projects-custom-gpts-agents-plugins-connectors-loops-and-codex-workflows/"/>
-        <updated>2026-06-12T03:40:23.487Z</updated>
-        <summary type="html"><![CDATA[AI Skills vs. Agents vs. GPTs: This is The Neuron’s guided tour for total beginners. We turned our two-hour livestream on Projects, Gems, Custom GPTs, Skills, Agents, plugins, connectors, loops, and subagents into a timestamped guide you can use as a map.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything That Happened in AI Today (Thursday, June 11, 2026)]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-thursday-june-11-2026/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-thursday-june-11-2026/"/>
-        <updated>2026-06-12T02:40:25.166Z</updated>
-        <summary type="html"><![CDATA[OpenAI acquired Ona and weighed token price cuts; Anthropic faced a Claude Fable backlash and launched Claude Corps; SpaceX priced a record IPO; Xiaomi, Goodfire, Perplexity, and Ai2 shipped agent and research tools; plus much more.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch This Video to Learn the Abridged HIstory of Anthropic and Dario's Plan For the Future]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/watch-this-video-to-learn-the-abridged-history-of-anthropic-and-darios-plan-for-the-future/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/watch-this-video-to-learn-the-abridged-history-of-anthropic-and-darios-plan-for-the-future/"/>
-        <updated>2026-06-12T02:03:43.743Z</updated>
-        <summary type="html"><![CDATA[I watched this viral Bloomberg Originals profile of Anthropic, centered on Emily Chang’s interviews with Dario Amodei, Daniela Amodei, and Boris Cherny about Claude, AI safety, enterprise coding, jobs, government use, warfare, regulation, and the unreleased Mythos model.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We stopped clicking, and AI became the Internet]]></title>
-        <id>https://medium.com/p/df61a0c79d91</id>
-        <link href="https://uxdesign.cc/we-stopped-clicking-and-ai-became-the-internet-df61a0c79d91?source=rss----138adf9c44c---4"/>
-        <updated>2026-06-11T21:46:16.000Z</updated>
-        <author>
-            <name>Patrizia Bertini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design for pain: how to make the worst moment better]]></title>
-        <id>https://medium.com/p/7b1a54a7dd7d</id>
-        <link href="https://uxdesign.cc/design-for-pain-how-to-make-the-worst-moment-better-7b1a54a7dd7d?source=rss----138adf9c44c---4"/>
-        <updated>2026-06-11T21:45:59.000Z</updated>
-        <author>
-            <name>Catherine Chu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The gesture and the instruction]]></title>
-        <id>https://medium.com/p/4f90d5a6b8f5</id>
-        <link href="https://uxdesign.cc/the-gesture-and-the-instruction-4f90d5a6b8f5?source=rss----138adf9c44c---4"/>
-        <updated>2026-06-11T21:45:37.000Z</updated>
-        <author>
-            <name>Quinn Keast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BI Is Dead, Long Live BI]]></title>
-        <id>https://towardsdatascience.com/?p=609343</id>
-        <link href="https://towardsdatascience.com/bi-is-dead-long-live-bi/"/>
-        <updated>2026-06-11T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The true bottleneck was never the analysis.
-The post BI Is Dead, Long Live BI appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Mahdi Karabiben</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😸 WATCH: Skills vs Projects vs Custom GPT vs Agents vs Plugins vs...]]></title>
-        <id>https://www.theneuron.ai/newsletter/watch-skills-vs-projects-vs-custom-gpt-vs-agents-vs-plugins-vs/</id>
-        <link href="https://www.theneuron.ai/newsletter/watch-skills-vs-projects-vs-custom-gpt-vs-agents-vs-plugins-vs/"/>
-        <updated>2026-06-11T17:01:09.302Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pulse: a trend of trying to cut back on AI spend within eng departments?]]></title>
-        <id>6a2ae21f4eaa560001de7fde</id>
-        <link href="https://blog.pragmaticengineer.com/the-pulse-a-trend-of-trying-to-cut-back-on-ai-spend-within-eng-departments/"/>
-        <updated>2026-06-11T16:31:42.000Z</updated>
-        <summary type="html"><![CDATA[Hi, this is Gergely with a bonus, free issue of the Pragmatic Engineer Newsletter. In every issue, I cover Big Tech and startups through the lens of senior engineers and engineering leaders. Today, we cover one out of four topics from The Pulse issue from two weeks ago. Full subscribers]]></summary>
-        <author>
-            <name>Gergely Orosz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Returning Flat Text from a PDF: The Relational Shape RAG Needs]]></title>
-        <id>https://towardsdatascience.com/?p=609341</id>
-        <link href="https://towardsdatascience.com/stop-returning-flat-text-from-a-pdf-the-relational-shape-rag-needs/"/>
-        <updated>2026-06-11T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #5B] - One PDF in, a relational set of DataFrames out: lines, pages, TOC, images, cross-references, captions, spans, and a parsing summary
-The post Stop Returning Flat Text from a PDF: The Relational Shape RAG Needs appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Kezhan Shi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pulse: Antigravity 2.0 takes ‘IDE’ out of its new IDE]]></title>
-        <id>6a2ae0124eaa560001de7f72</id>
-        <link href="https://blog.pragmaticengineer.com/the-pulse-antigravity-2-0-takes-ide-out-of-its-new-ide/"/>
-        <updated>2026-06-11T16:22:16.000Z</updated>
-        <summary type="html"><![CDATA[Feedback about the redesigned IDE is overwhelmingly negative due to bugs, poor UX & model support, and eating through Gemini token quotas. Also: a clue that Antigravity’s own devs use other tools for their work?]]></summary>
-        <author>
-            <name>Gergely Orosz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PySpark for Beginners: Beyond the Basics]]></title>
-        <id>https://towardsdatascience.com/?p=609339</id>
-        <link href="https://towardsdatascience.com/pyspark-for-beginners-beyond-the-basics/"/>
-        <updated>2026-06-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Take the next step to building real workflows with Spark on your laptop
-The post PySpark for Beginners: Beyond the Basics appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Thomas Reid</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Said This AI Was Too Dangerous to Release. Then They Released It.]]></title>
-        <id>https://medium.com/p/27feb69b7b26</id>
-        <link href="https://generativeai.pub/anthropic-said-this-ai-was-too-dangerous-to-release-then-they-released-it-27feb69b7b26?source=rss----440100e76000---4"/>
-        <updated>2026-06-11T14:01:05.000Z</updated>
-        <author>
-            <name>Vruddhi Shah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dear Anthropic: We’re Paying for Agentic AI, Not a “Continue” Button]]></title>
-        <id>https://medium.com/p/d8159e444b40</id>
-        <link href="https://generativeai.pub/dear-anthropic-were-paying-for-agentic-ai-not-a-continue-button-d8159e444b40?source=rss----440100e76000---4"/>
-        <updated>2026-06-11T13:56:56.000Z</updated>
-        <author>
-            <name>Eshaan Jain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Bell Is Not Asking for More Noise]]></title>
-        <id>https://medium.com/p/d7e8a75ded53</id>
-        <link href="https://generativeai.pub/the-bell-is-not-asking-for-more-noise-d7e8a75ded53?source=rss----440100e76000---4"/>
-        <updated>2026-06-11T13:42:02.000Z</updated>
-        <author>
-            <name>Stephen Gettel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When GPU Utilization Lies: The Hidden Systems Problem Slowing Modern AI]]></title>
-        <id>https://towardsdatascience.com/?p=609337</id>
-        <link href="https://towardsdatascience.com/when-gpu-utilization-lies-the-hidden-systems-problem-slowing-modern-ai/"/>
-        <updated>2026-06-11T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Why “average utilization” lies about how full your GPUs really are
-The post When GPU Utilization Lies: The Hidden Systems Problem Slowing Modern AI appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Arjun Kaarat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Most of Your Evals Don’t Measure Anything]]></title>
-        <id>https://medium.com/p/ebe18e5ab204</id>
-        <link href="https://generativeai.pub/most-of-your-evals-dont-measure-anything-ebe18e5ab204?source=rss----440100e76000---4"/>
-        <updated>2026-06-11T13:26:51.000Z</updated>
-        <summary type="html"><![CDATA[Your dashboard says 0.84. Your users say it’s broken. The gap is that the thing you call an “eval” is a unit test in disguise.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Alvis Ng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Most People Use Claude Like a Search Box. Here’s How to Actually Use It.]]></title>
-        <id>https://medium.com/p/305ed0f27735</id>
-        <link href="https://generativeai.pub/most-people-use-claude-like-a-search-box-heres-how-to-actually-use-it-305ed0f27735?source=rss----440100e76000---4"/>
-        <updated>2026-06-11T13:25:48.000Z</updated>
-        <summary type="html"><![CDATA[Five layers that make Claude feel like it already knows your job.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Ruqaiya Beguwala</name>
         </author>
     </entry>
 </feed>
