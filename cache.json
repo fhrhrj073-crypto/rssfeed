@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/1cA-O8z87zY",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/1cA-O8z87zY",
+          "publishedOn": "2026-07-13T12:00:27.000Z",
+          "wordCount": 3342,
+          "title": "The Claude Code Skill That Gives You a Real Design System",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=NUWUwz7Jy4k",
           "author": null,
           "description": "",
@@ -424,26 +434,6 @@
           "wordCount": 2611,
           "title": "What Separates a Side Project From a Real AI Product",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/xPI2Dw0y4yU",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/xPI2Dw0y4yU",
-          "publishedOn": "2026-06-14T12:00:24.000Z",
-          "wordCount": 2267,
-          "title": "How to Become an AI Engineer in 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vVIvatIpzJ4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vVIvatIpzJ4",
-          "publishedOn": "2026-06-13T14:52:11.000Z",
-          "wordCount": null,
-          "title": "They'll Fly You to Vegas if You Win This Coding Challenge",
-          "imageUrl": null
         }
       ]
     },
@@ -626,6 +616,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCawZsQWqfGSbCI5yjkdVkTA",
       "siteUrl": "https://www.youtube.com/channel/UCawZsQWqfGSbCI5yjkdVkTA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/mlc9JSTQoxc",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/mlc9JSTQoxc",
+          "publishedOn": "2026-07-13T07:20:20.000Z",
+          "wordCount": 2075,
+          "title": "Codex is GONE",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=roGmNXASYOM",
           "author": null,
@@ -884,16 +884,6 @@
           "publishedOn": "2026-06-15T18:25:41.000Z",
           "wordCount": 2088,
           "title": "Mythos BANNED (explained)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xvfz3gXVYNI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xvfz3gXVYNI",
-          "publishedOn": "2026-06-13T20:21:41.000Z",
-          "wordCount": null,
-          "title": "WTF is going on?!",
           "imageUrl": null
         }
       ]
@@ -1341,6 +1331,38 @@
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
         {
+          "id": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-56-review-how-a-solo",
+          "author": "Lenny Rachitsky",
+          "description": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+          "link": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-56-review-how-a-solo",
+          "publishedOn": "2026-07-13T15:02:17.000Z",
+          "wordCount": null,
+          "title": "🎙️ How I AI: GPT-5.6 review, How a solo builder runs 24/7 local AI, and What an agent harness is and how to build one",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/c3eccdc2-ac57-47dc-af99-4daa75d21bc7_1456x1048.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/c3eccdc2-ac57-47dc-af99-4daa75d21bc7_1456x1048.png"
+        },
+        {
+          "id": "https://www.lennysnewsletter.com/p/this-solo-builder-runs-247-local",
+          "author": "Claire Vo",
+          "description": "Watch now | 🎙️ Alex Finn breaks down his five-computer local AI setup, the Claude Code build-and-review loop that ships features while he sleeps, and why unlimited local intelligence beats a $20 subscription",
+          "link": "https://www.lennysnewsletter.com/p/this-solo-builder-runs-247-local",
+          "publishedOn": "2026-07-13T12:05:20.000Z",
+          "wordCount": null,
+          "title": "This solo builder runs 24/7 local AI on his own hardware | Alex Finn",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/205689325/b872277f3a2dbf756729413f4210989b.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://www.lennysnewsletter.com/p/how-tech-workers-actually-feel-about",
           "author": "Lenny Rachitsky",
           "description": "Listen now | The great tech bifurcation: half the workforce is thriving, half is struggling, and burnout just hit a record high",
@@ -1723,38 +1745,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/the-common-pattern-behind-successful",
-          "author": "Lenny Rachitsky",
-          "description": "Listen now | Mark Pincus on why your instincts are right but your ideas are wrong, the “Proven, Better, New” framework, and what he’s teaching his kids",
-          "link": "https://www.lennysnewsletter.com/p/the-common-pattern-behind-successful",
-          "publishedOn": "2026-06-14T12:31:44.000Z",
-          "wordCount": null,
-          "title": "The hidden pattern behind successful products | Mark Pincus (founder of Zynga)",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/198591984/35820af666c1ae888d132e3462c93c37.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/community-wisdom-how-ai-is-changing",
-          "author": "Kiyani",
-          "description": "Community Wisdom 189",
-          "link": "https://www.lennysnewsletter.com/p/community-wisdom-how-ai-is-changing",
-          "publishedOn": "2026-06-13T20:54:15.000Z",
-          "wordCount": null,
-          "title": "🧠 Community Wisdom: How AI is changing product operating models, tracking work stress with Whoop, whether you need a portfolio of AI side projects, marketing for tiny teams, and more",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png"
         }
       ]
     },
@@ -1763,6 +1753,22 @@
       "feedUrl": "https://www.thevccorner.com/feed",
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
+        {
+          "id": "https://www.thevccorner.com/p/anthropic-hiring-spree-fable-5-ipo-2026",
+          "author": "Ruben Dominguez",
+          "description": "And two of them went straight to data centers",
+          "link": "https://www.thevccorner.com/p/anthropic-hiring-spree-fable-5-ipo-2026",
+          "publishedOn": "2026-07-13T21:03:13.000Z",
+          "wordCount": null,
+          "title": "Anthropic Just Hired a Nobel Laureate, an OpenAI Co-Founder, and a YC Partner in Nine Weeks",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!RdCo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d055983-5fe9-4105-aedd-e2e0332ccb11_1103x1087.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!RdCo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d055983-5fe9-4105-aedd-e2e0332ccb11_1103x1087.png"
+        },
         {
           "id": "https://www.thevccorner.com/p/self-improving-fundraising-system",
           "author": "Ruben Dominguez",
@@ -2178,22 +2184,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!7qCq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f4afe3e-48a7-42a2-8bc9-8eae3c5f0e3b_848x477.webp"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/spacex-spcx-ipo-day-one-results-valuation-documents-2026",
-          "author": "Ruben Dominguez",
-          "description": "$135 IPO price. $150 opening. $176 intraday high. $161 close. $2 trillion market cap on day one. And Morningstar says it is worth $63. Here is the full picture:",
-          "link": "https://www.thevccorner.com/p/spacex-spcx-ipo-day-one-results-valuation-documents-2026",
-          "publishedOn": "2026-06-13T16:28:16.000Z",
-          "wordCount": null,
-          "title": "SpaceX Just Became the Biggest IPO in History. Here Is What Actually Happened",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/f4dfd712-c128-4d09-a948-fa4ebdafb7c6_2040x1360.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/f4dfd712-c128-4d09-a948-fa4ebdafb7c6_2040x1360.webp"
         }
       ]
     },
@@ -2202,6 +2192,46 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/robotics-insider/1x-gives-its-humanoid-robot-hands-built-for-the-fiddly-stuff/",
+          "author": null,
+          "description": "1X has unveiled force-controlled, touch-sensing hands for its NEO humanoid robot, aiming to improve everyday object manipulation at home.",
+          "link": "https://www.theneuron.ai/robotics-insider/1x-gives-its-humanoid-robot-hands-built-for-the-fiddly-stuff/",
+          "publishedOn": "2026-07-13T19:23:24.897Z",
+          "wordCount": null,
+          "title": "1X Gives Its Humanoid Robot Hands Built for the Fiddly Stuff",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/meta-patents-a-wearable-that-knows-how-you-feel/",
+          "author": null,
+          "description": "A Meta patent outlines an AI wearable that could infer users' emotions from speech, activity, and other behavioral signals over time.",
+          "link": "https://www.theneuron.ai/news/meta-patents-a-wearable-that-knows-how-you-feel/",
+          "publishedOn": "2026-07-13T15:24:52.335Z",
+          "wordCount": null,
+          "title": "Meta Patents a Wearable That Knows How You Feel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/the-china-ai-theft-claims-are-real-so-is-the-case-for-open-models/",
+          "author": null,
+          "description": "AI distillation can make open models cheap enough to run locally. The real security problem is covert extraction of closed-model capabilities through fraudulent API access.",
+          "link": "https://www.theneuron.ai/news/the-china-ai-theft-claims-are-real-so-is-the-case-for-open-models/",
+          "publishedOn": "2026-07-13T14:53:31.098Z",
+          "wordCount": null,
+          "title": "The China AI Theft Claims Are Real. So Is the Case for Open Models",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/newsletter/july-13-monday/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/july-13-monday/",
+          "publishedOn": "2026-07-13T09:32:32.374Z",
+          "wordCount": null,
+          "title": "😼 Microsoft is routing around OpenAI",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/newsletter/apple-is-suing-openai/",
           "author": null,
@@ -2879,6 +2909,46 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=609820",
+          "author": "Shuai Guo",
+          "description": "A minimal OpenAI Agents SDK implementation where retrieval becomes a search-read-decide loop\nThe post Agentic RAG: Let the Agent Search appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/agentic-rag-let-the-agent-search/",
+          "publishedOn": "2026-07-13T16:30:00.000Z",
+          "wordCount": 4368,
+          "title": "Agentic RAG: Let the Agent Search",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/agenti_RAG.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609816",
+          "author": "Jake Minns",
+          "description": "Long sessions rot quietly, well before any token limit is reached. Here’s why, and how to govern your context in Claude Code.\nThe post Context Rot: Why Claude Code Sessions Decay, and How to Govern Them appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/governed-context-managing-context-rot-in-claude-code/",
+          "publishedOn": "2026-07-13T15:00:00.000Z",
+          "wordCount": 6762,
+          "title": "Context Rot: Why Claude Code Sessions Decay, and How to Govern Them",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/headline.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609813",
+          "author": "Sneha Rani",
+          "description": "My PhD models tried to explain why people engage. My industry models predict who will. The statistics barely changed. Everything around them did.\nThe post Building Models in Two Worlds: From Latent Constructs to Behavioral Signals appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/building-models-in-two-worlds-from-latent-constructs-to-behavioral-signals/",
+          "publishedOn": "2026-07-13T13:30:00.000Z",
+          "wordCount": 6545,
+          "title": "Building Models in Two Worlds: From Latent Constructs to Behavioral Signals",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/image-86.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=609811",
+          "author": "Gadi Singer",
+          "description": "A framework for aligning agentic AI with enterprise intent to ensure consistent scenario‑wide autonomous behavior.\nThe post The Three Dimensions of Custom Agentic Alignment: Purpose, Principles and Practices appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-three-dimensions-of-custom-agentic-alignment-purpose-principles-and-practices/",
+          "publishedOn": "2026-07-13T12:00:00.000Z",
+          "wordCount": 6550,
+          "title": "The Three Dimensions of Custom Agentic Alignment: Purpose, Principles and Practices",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/Gemini_Generated_Image_Gadi-Singer.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=609809",
           "author": "Maria Mouschoutzi",
@@ -3958,36 +4028,6 @@
           "wordCount": 5984,
           "title": "Vision LLMs are PDF Parsers Too: Reading Charts and Diagrams for RAG",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/microscope_fiHQ3-D45zo_v3_card.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609361",
-          "author": "Anubhab Banerjee",
-          "description": "A systems-level deep dive into the hidden microarchitectural costs of Kubernetes GPU time-slicing, and what it actually costs to co-locate Agentic AI workloads.\nThe post GPU Time-Slicing for Concurrent LLM Agents on Kubernetes appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/gpu-time-slicing-for-concurrent-llm-agents-on-kubernetes/",
-          "publishedOn": "2026-06-14T13:00:00.000Z",
-          "wordCount": 7371,
-          "title": "GPU Time-Slicing for Concurrent LLM Agents on Kubernetes",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/overview_ktp.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609357",
-          "author": "Emmimal P Alexander",
-          "description": "Increasing context size in RAG systems doesn’t improve accuracy for aggregation tasks—it makes errors harder to detect. In this article, I benchmark retrieval-based pipelines against a deterministic full-scan engine across 100,000 rows and show why computation queries must be routed away from RAG entirely.\nThe post Larger Context Windows Don’t Fix RAG — So I Built a System That Does appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/larger-context-windows-dont-fix-rag-so-i-built-a-system-that-does/",
-          "publishedOn": "2026-06-13T17:00:00.000Z",
-          "wordCount": 6216,
-          "title": "Larger Context Windows Don’t Fix RAG — So I Built a System That Does",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/Larger-Context-Windows.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609359",
-          "author": "Kezhan Shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #5ter] - Table cells, OCR, captions, headings: cloud-grade structure, running on your own machine. No key, no per-page bill, nothing leaves the building\nThe post Parse PDFs for RAG Locally with Docling: Rich Tables, No Cloud Upload appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/parse-pdfs-for-rag-locally-with-docling-rich-tables-no-cloud-upload/",
-          "publishedOn": "2026-06-13T15:00:00.000Z",
-          "wordCount": 6770,
-          "title": "Parse PDFs for RAG Locally with Docling: Rich Tables, No Cloud Upload",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/06/compare_spinning_wheel_28096615_v3_card.jpg"
         }
       ]
     },
@@ -4002,6 +4042,46 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/18af0740f650",
+          "author": "Pablo Stanley",
+          "description": "And it’s great… but horrible at the same time\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/the-terminal-became-my-canvas-18af0740f650?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-07-13T22:10:10.000Z",
+          "wordCount": 1236,
+          "title": "The terminal became my canvas",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:947/1*DWyRC6NyUUgkB5GW1mkmyQ.png"
+        },
+        {
+          "id": "https://medium.com/p/cacb4ed4fe45",
+          "author": "Adrian Levy",
+          "description": "The work didn’t vanish with the screen. It fell one layer down.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/ax-is-just-the-orchestration-layer-cacb4ed4fe45?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-07-13T22:09:55.000Z",
+          "wordCount": 1633,
+          "title": "AX is just the orchestration layer",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*oClaxaWA_8gphYwyopqP7g.png"
+        },
+        {
+          "id": "https://medium.com/p/e5ef0bb9093c",
+          "author": "Fabricio Teixeira",
+          "description": "Weekly curated resources for designers — thinkers and makers.",
+          "link": "https://uxdesign.cc/who-made-this-designing-excuses-designops-in-the-age-of-ai-e5ef0bb9093c?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-07-13T11:11:11.000Z",
+          "wordCount": 2630,
+          "title": "Who made this, Designing excuses, DesignOps in the age of AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/19185e56319a",
+          "author": "Zeeshan Khalid",
+          "description": "What happens when the entity that designs everything is itself being designed by machines?\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/when-design-becomes-the-organisation-and-ai-becomes-the-design-19185e56319a?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-07-13T11:09:50.000Z",
+          "wordCount": 1487,
+          "title": "When design becomes the organisation, and AI becomes the design",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*j-6TJBCmYYLm7duyXJIbNQ.jpeg"
+        },
         {
           "id": "https://medium.com/p/1706847a0b4b",
           "author": "Aurélie Radom",
@@ -4761,36 +4841,6 @@
           "wordCount": null,
           "title": "Access is not mastery",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/5967e39563cc",
-          "author": "Ellina Morits",
-          "description": "",
-          "link": "https://uxdesign.cc/how-difficult-could-it-be-to-design-a-chatbot-5967e39563cc?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-06-14T12:18:02.000Z",
-          "wordCount": null,
-          "title": "How difficult could it be to design a chatbot?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/07afc7e1d16f",
-          "author": "Zeeshan Khalid",
-          "description": "Why the quietest voice in the room is the one that can save your company from a multimillion-dollar lawsuit, a shattered brand reputation…\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/what-it-really-feels-like-to-be-a-digital-accessibility-advocate-07afc7e1d16f?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-06-13T22:16:52.000Z",
-          "wordCount": null,
-          "title": "What it really feels like to be a digital accessibility advocate",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d55f43c411db",
-          "author": "Dora Czerna",
-          "description": "",
-          "link": "https://uxdesign.cc/a-shortlist-of-one-how-ai-became-our-shopping-adviser-d55f43c411db?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-06-13T22:16:33.000Z",
-          "wordCount": null,
-          "title": "A shortlist of one: how AI became our shopping adviser",
-          "imageUrl": null
         }
       ]
     },
@@ -4852,6 +4902,106 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/0f7bf4f9850d",
+          "author": "Jim Clyde Monge",
+          "description": "Two ways to combine OpenAI’s latest coding model with Claude Code’s terminal workflow.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/how-to-run-openais-gpt-5-6-sol-inside-anthropic-s-claude-code-0f7bf4f9850d?source=rss----440100e76000---4",
+          "publishedOn": "2026-07-13T11:03:50.000Z",
+          "wordCount": 1541,
+          "title": "How to Run OpenAI’s GPT-5.6 Sol Inside Anthropic’s Claude Code",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*A-g2iHgs8a-DTxkdwoEl6Q.png"
+        },
+        {
+          "id": "https://medium.com/p/e4d488ebcf4b",
+          "author": "Nitin Bisht",
+          "description": "After publishing my Claude Code setup checklist, I made a mistake my checklist couldn’t prevent.",
+          "link": "https://generativeai.pub/i-thought-i-knew-claude-code-then-i-learned-how-advanced-users-actually-run-it-e4d488ebcf4b?source=rss----440100e76000---4",
+          "publishedOn": "2026-07-13T11:03:24.000Z",
+          "wordCount": 6443,
+          "title": "I Thought I Knew Claude Code. Then I Learned How Advanced Users Actually Run It",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*eQJbIdZzuvbjTxnCAP0XuA.png"
+        },
+        {
+          "id": "https://medium.com/p/daee2baf16df",
+          "author": "Daniel Rusnok",
+          "description": "Voice needs a consistent baseline, not semantic search. Here is the $0 file that beat it.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/i-skipped-rag-for-my-ai-apps-voice-static-markdown-won-daee2baf16df?source=rss----440100e76000---4",
+          "publishedOn": "2026-07-13T11:00:36.000Z",
+          "wordCount": 1650,
+          "title": "I skipped RAG for my AI app's voice. Static markdown won.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*tpGRTqrM72RmVJPA.jpg"
+        },
+        {
+          "id": "https://medium.com/p/05218b612154",
+          "author": "Tyler Stahl",
+          "description": "The AI Personality Mismatch",
+          "link": "https://generativeai.pub/the-cognitive-bridge-05218b612154?source=rss----440100e76000---4",
+          "publishedOn": "2026-07-13T10:59:25.000Z",
+          "wordCount": 4624,
+          "title": "Optimizing Human-AI Collaboration",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*98b4LXpyfeJVWOwmmPHcag.png"
+        },
+        {
+          "id": "https://medium.com/p/49af4a386e07",
+          "author": "Himanshu Kumar Sharma",
+          "description": "What really happens inside an AI model, and why the engine running it matters more than you think.",
+          "link": "https://generativeai.pub/your-llm-isnt-thinking-it-s-an-engineer-pulling-weights-at-10-000-tokens-per-second-49af4a386e07?source=rss----440100e76000---4",
+          "publishedOn": "2026-07-13T10:56:08.000Z",
+          "wordCount": 7903,
+          "title": "Your LLM Isn’t Thinking — It’s an Engineer Pulling Weights at 10,000 Tokens Per Second",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*S4g9sMcwk7e1PmSlQTwRZw.png"
+        },
+        {
+          "id": "https://medium.com/p/61f9a611a9c8",
+          "author": "Guhankarthik A G",
+          "description": "Modern RAG systems often include rerankers, hybrid retrieval, query rewriting, HNSW tuning, and many other components. But how many of…",
+          "link": "https://generativeai.pub/the-rag-complexity-trap-do-more-components-actually-improve-retrieval-performance-61f9a611a9c8?source=rss----440100e76000---4",
+          "publishedOn": "2026-07-13T10:52:36.000Z",
+          "wordCount": 4160,
+          "title": "The RAG Complexity Trap: Do More Components Actually Improve Retrieval Performance?",
+          "imageUrl": "https://miro.medium.com/v2/resize:fill:1200:632/g:fp:0.5:0.09/1*Ow19C6p6N6XXAmN06CymEQ.png"
+        },
+        {
+          "id": "https://medium.com/p/ffb4e580dd4d",
+          "author": "Krzyś",
+          "description": "In which the author, professionally obliged to assess technological risk in the middle of a gold rush, watches three eternally warring…",
+          "link": "https://generativeai.pub/the-ai-shop-dont-fight-the-vibe-invoice-it-notes-from-an-internal-auditor-who-got-tired-of-ffb4e580dd4d?source=rss----440100e76000---4",
+          "publishedOn": "2026-07-13T10:52:34.000Z",
+          "wordCount": 13256,
+          "title": "The AI Shop: Don’t Fight the Vibe, Invoice It (Notes from an Internal Auditor Who Got Tired of…",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*N8qEmqIe91aDyDRaQ_68kw.png"
+        },
+        {
+          "id": "https://medium.com/p/2df821d264d6",
+          "author": "CodeWithYog",
+          "description": "Learn how to build practical evaluation checks for prompts, RAG pipelines, model changes, and AI product quality\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/the-developers-guide-to-testing-llm-apps-before-production-2df821d264d6?source=rss----440100e76000---4",
+          "publishedOn": "2026-07-13T10:50:38.000Z",
+          "wordCount": 1545,
+          "title": "The Developer’s Guide to Testing LLM Apps Before Production",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*bLWve7zVvzBpQcDolK1i5w.png"
+        },
+        {
+          "id": "https://medium.com/p/067bc7fd16bd",
+          "author": "Tanishq Sardar",
+          "description": "Everyone scored Apple against the wrong scoreboard. As a product designer, the more interesting question isn’t who has the better model…",
+          "link": "https://generativeai.pub/apple-didnt-lose-the-ai-race-it-s-not-running-the-one-everyone-s-watching-067bc7fd16bd?source=rss----440100e76000---4",
+          "publishedOn": "2026-07-13T10:46:11.000Z",
+          "wordCount": 4227,
+          "title": "Apple Didn’t Lose the AI Race. It’s Not Running the One Everyone’s Watching.",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*g4M64wACVMN3Rzgf_bSOCg.png"
+        },
+        {
+          "id": "https://medium.com/p/27d59dc1e8e2",
+          "author": "Engrgbenga",
+          "description": "On July 1, 2026, Anthropic redeployed Claude Fable 5 but it wasn’t the same product.",
+          "link": "https://generativeai.pub/the-paragraph-buried-in-anthropics-july-1-blog-that-changes-every-enterprise-ai-contract-27d59dc1e8e2?source=rss----440100e76000---4",
+          "publishedOn": "2026-07-13T10:45:28.000Z",
+          "wordCount": 4848,
+          "title": "The Paragraph Buried in Anthropic’s July 1 Blog That Changes Every Enterprise AI Contract",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1LILNCUjKLOBv4eZ1nN3dQ.png"
+        },
         {
           "id": "https://medium.com/p/3e458a7c76e9",
           "author": "Jim Clyde Monge",
