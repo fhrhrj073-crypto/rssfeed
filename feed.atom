@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-07-18T01:09:54.885Z</updated>
+    <updated>2026-07-19T01:14:51.461Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🧠 Community Wisdom: Syncing Claude Code and Claude Design, earning trust when customers assume you vibe coded it, co-founder fallout lessons, personal CRMs, and more]]></title>
+        <id>https://www.lennysnewsletter.com/p/community-wisdom-syncing-claude-code</id>
+        <link href="https://www.lennysnewsletter.com/p/community-wisdom-syncing-claude-code"/>
+        <updated>2026-07-18T17:04:04.000Z</updated>
+        <summary type="html"><![CDATA[Community Wisdom 194]]></summary>
+        <author>
+            <name>Kiyani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Many Companies Use AI. Few Know How to Build an AI-Native Enterprise Data Platform.]]></title>
+        <id>https://towardsdatascience.com/?p=609931</id>
+        <link href="https://towardsdatascience.com/many-companies-use-ai-few-know-how-to-build-an-ai-native-enterprise-data-platform/"/>
+        <updated>2026-07-18T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A practical enterprise AI architecture with data agents, AI-powered QA, and AI governance.
+The post Many Companies Use AI. Few Know How to Build an AI-Native Enterprise Data Platform. appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Jiayan Yin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loop Engineering with Adaptive PDF Parsing: Start Cheap, Pay for a Heavier Parser Only When the Page Needs It]]></title>
+        <id>https://towardsdatascience.com/?p=609941</id>
+        <link href="https://towardsdatascience.com/loop-engineering-with-adaptive-pdf-parsing-start-cheap-pay-for-a-heavier-parser-only-when-the-page-needs-it/"/>
+        <updated>2026-07-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #10A] - The escalation cascade and the free, deterministic checks that flag a failed parse before you pay for a deeper one
+The post Loop Engineering with Adaptive PDF Parsing: Start Cheap, Pay for a Heavier Parser Only When the Page Needs It appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>angela shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Local AI Coding Actually Good?]]></title>
+        <id>https://www.youtube.com/watch?v=8JRJq4EEdik</id>
+        <link href="https://www.youtube.com/watch?v=8JRJq4EEdik"/>
+        <updated>2026-07-18T14:02:37.000Z</updated>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Improve Customer Retention in FinTech]]></title>
+        <id>https://towardsdatascience.com/?p=609920</id>
+        <link href="https://towardsdatascience.com/how-to-improve-customer-retention-in-digital-banking/"/>
+        <updated>2026-07-18T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A practical guide to combining pre-churn scoring with uplift modelling for smarter retention.
+The post How to Improve Customer Retention in FinTech appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Aleksei Terentev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台積電上看3000？那是外資裡最保守的數字]]></title>
+        <id>https://www.youtube.com/shorts/h-PiT3bPDlM</id>
+        <link href="https://www.youtube.com/shorts/h-PiT3bPDlM"/>
+        <updated>2026-07-18T12:29:59.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>追日Gucci-AI效率革命聯盟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude/Codex 影片產線：不出鏡、不剪片，成本一杯咖啡有找]]></title>
+        <id>https://www.youtube.com/watch?v=NzETYKeZGOE</id>
+        <link href="https://www.youtube.com/watch?v=NzETYKeZGOE"/>
+        <updated>2026-07-18T12:29:31.000Z</updated>
+        <author>
+            <name>追日Gucci-AI效率革命聯盟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Engineer Means 5 Different Things]]></title>
+        <id>https://www.youtube.com/shorts/jPaEhSRIdnI</id>
+        <link href="https://www.youtube.com/shorts/jPaEhSRIdnI"/>
+        <updated>2026-07-18T12:00:39.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did Kimi K3 really beat Fable?]]></title>
+        <id>https://www.youtube.com/watch?v=JrVPIy9AdfQ</id>
+        <link href="https://www.youtube.com/watch?v=JrVPIy9AdfQ"/>
+        <updated>2026-07-18T06:14:32.000Z</updated>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[太扯！AI 幫我剪片 #claudecode #codex]]></title>
+        <id>https://www.youtube.com/shorts/pe8hHpARlHg</id>
+        <link href="https://www.youtube.com/shorts/pe8hHpARlHg"/>
+        <updated>2026-07-18T04:53:51.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>追日Gucci-AI效率革命聯盟</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The “mocked, then loved” AirPods effect]]></title>
         <id>https://medium.com/p/65ec25feeb3a</id>
@@ -5513,226 +5613,6 @@ The post I Tried to Schedule My ETL Pipeline. Here’s What I Didn’t Expect. a
 The post Parse Scanned PDFs for RAG with EasyOCR: Free OCR Gives You Words, Not a Document appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Kezhan Shi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Junior Developer Jobs in 2026 Are Brutal Here's Why]]></title>
-        <id>https://www.youtube.com/shorts/52QFDoFf92E</id>
-        <link href="https://www.youtube.com/shorts/52QFDoFf92E"/>
-        <updated>2026-06-19T12:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPU-Resident Top-K for Agentic RAG: I Built a CUDA Kernel So My Retrieval Step Would Stop Bouncing Off the GPU]]></title>
-        <id>https://towardsdatascience.com/?p=609404</id>
-        <link href="https://towardsdatascience.com/gpu-resident-top-k-for-agentic-rag-i-built-a-cuda-kernel-so-my-retrieval-step-would-stop-bouncing-off-the-gpu/"/>
-        <updated>2026-06-19T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The PCIe transfer latency is silently bottlenecking your agentic inference. Here is how building a custom device-resident vector search kernel bypasses the CPU to unlock deterministic microsecond tail latencies.
-The post GPU-Resident Top-K for Agentic RAG: I Built a CUDA Kernel So My Retrieval Step Would Stop Bouncing Off the GPU appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Anubhab Banerjee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😺 OpenAI found 18 rare diseases]]></title>
-        <id>https://www.theneuron.ai/newsletter/openai-found-18-rare-diseases/</id>
-        <link href="https://www.theneuron.ai/newsletter/openai-found-18-rare-diseases/"/>
-        <updated>2026-06-19T10:02:33.083Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😺 OpenAI found 18 rare diseases]]></title>
-        <id>https://www.theneuron.ai/newsletter/openai-found-18-rare-diseases-a2f9/</id>
-        <link href="https://www.theneuron.ai/newsletter/openai-found-18-rare-diseases-a2f9/"/>
-        <updated>2026-06-19T10:02:32.510Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吃播 vlog神器，猜的出來我在哪的第一個有獎品🤣 #lunaultra]]></title>
-        <id>https://www.youtube.com/shorts/40olmnIs724</id>
-        <link href="https://www.youtube.com/shorts/40olmnIs724"/>
-        <updated>2026-06-19T04:23:19.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>電腦王阿達</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Government Just Switched Off An AI Model In 90 Minutes. That’s The Story.]]></title>
-        <id>https://medium.com/p/23fbc96a79a1</id>
-        <link href="https://generativeai.pub/a-government-just-switched-off-an-ai-model-in-90-minutes-thats-the-story-23fbc96a79a1?source=rss----440100e76000---4"/>
-        <updated>2026-06-19T03:06:44.000Z</updated>
-        <author>
-            <name>The Smarter Way</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Your AI-Generated Test Cases Miss Critical Bugs (And How to Fix It)]]></title>
-        <id>https://medium.com/p/06c71839a2b4</id>
-        <link href="https://generativeai.pub/why-your-ai-generated-test-cases-miss-critical-bugs-and-how-to-fix-it-06c71839a2b4?source=rss----440100e76000---4"/>
-        <updated>2026-06-19T03:05:32.000Z</updated>
-        <author>
-            <name>Srihari Mogalapalli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Became a Top 1% Claude Code User — Here’s the Playbook Nobody Talks About]]></title>
-        <id>https://medium.com/p/af9e34797872</id>
-        <link href="https://generativeai.pub/i-became-a-top-1-claude-code-user-heres-the-playbook-nobody-talks-about-af9e34797872?source=rss----440100e76000---4"/>
-        <updated>2026-06-19T03:03:43.000Z</updated>
-        <author>
-            <name>PhynixAI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your AI Stack Has a Geopolitical Dependency You Haven’t Modeled]]></title>
-        <id>https://medium.com/p/e8b550fb0055</id>
-        <link href="https://generativeai.pub/your-ai-stack-has-a-geopolitical-dependency-you-havent-modeled-e8b550fb0055?source=rss----440100e76000---4"/>
-        <updated>2026-06-19T03:00:30.000Z</updated>
-        <summary type="html"><![CDATA[On Thursday, June 12, 2026, at 5:21 PM Eastern, Anthropic received a letter from the US Commerce Department. The order:
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Noaman Kazi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Doctor to Writer: Lessons I Never Expected to Learn]]></title>
-        <id>https://medium.com/p/5776a86f3115</id>
-        <link href="https://generativeai.pub/from-doctor-to-writer-lessons-i-never-expected-to-learn-5776a86f3115?source=rss----440100e76000---4"/>
-        <updated>2026-06-19T02:59:01.000Z</updated>
-        <summary type="html"><![CDATA[Why Learning to Write Became One of the Most Valuable Skills in My Life.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Dr. Mohit singhal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Freelancing Graveyard Is Full of Talented People With Bad Strategies]]></title>
-        <id>https://medium.com/p/1a4fdc660219</id>
-        <link href="https://generativeai.pub/the-freelancing-graveyard-is-full-of-talented-people-with-bad-strategies-1a4fdc660219?source=rss----440100e76000---4"/>
-        <updated>2026-06-19T02:57:59.000Z</updated>
-        <author>
-            <name>Bit Builder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything That Happened in AI Today (Friday, June 19, 2026)]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/-everything-that-happened-in-ai-today-friday-june-19-2026/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/-everything-that-happened-in-ai-today-friday-june-19-2026/"/>
-        <updated>2026-06-18T22:30:18.262Z</updated>
-        <summary type="html"><![CDATA[OpenAI helped solve 18 rare pediatric disease cases; Google pushed AMIE from diagnosis into ongoing care; Z.ai's GLM-5.2 shook up open models; Anthropic sped up robotics work; Amazon aimed Trainium at Nvidia; plus much more.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One skill separates the designers who survive 2026 from the ones who don’t]]></title>
-        <id>https://medium.com/p/f4dec8c3ffe0</id>
-        <link href="https://uxdesign.cc/one-skill-separates-the-designers-who-survive-2026-from-the-ones-who-dont-f4dec8c3ffe0?source=rss----138adf9c44c---4"/>
-        <updated>2026-06-18T22:05:51.000Z</updated>
-        <author>
-            <name>Arin Bhowmick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We used to know that it was a person who wrote it]]></title>
-        <id>https://medium.com/p/a321c970266f</id>
-        <link href="https://uxdesign.cc/we-used-to-know-that-it-was-a-person-who-wrote-it-a321c970266f?source=rss----138adf9c44c---4"/>
-        <updated>2026-06-18T22:04:55.000Z</updated>
-        <summary type="html"><![CDATA[Reading used to come with a guarantee that a person was on the other end. We spent it down, and now you check everything.
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Wira Indra Kusuma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your strategic guide to winning design awards]]></title>
-        <id>https://medium.com/p/7afee3876ce4</id>
-        <link href="https://uxdesign.cc/your-strategic-guide-to-winning-design-awards-7afee3876ce4?source=rss----138adf9c44c---4"/>
-        <updated>2026-06-18T22:03:39.000Z</updated>
-        <summary type="html"><![CDATA[A roadmap to transform recognition into rocket fuel for your career and company.
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Zeeshan Khalid</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Structured Outputs with LLMs: JSON Mode, Function Calling, and When to Use Each]]></title>
-        <id>https://towardsdatascience.com/?p=609402</id>
-        <link href="https://towardsdatascience.com/structured-outputs-with-llms-json-mode-function-calling-and-when-to-use-each/"/>
-        <updated>2026-06-18T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Getting reliable, readable responses out of your LLM, and knowing which tool to reach for
-The post Structured Outputs with LLMs: JSON Mode, Function Calling, and When to Use Each appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Maria Mouschoutzi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I figured out the best way to vibe code]]></title>
-        <id>https://www.youtube.com/watch?v=wwfJlSF34n8</id>
-        <link href="https://www.youtube.com/watch?v=wwfJlSF34n8"/>
-        <updated>2026-06-18T17:44:06.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Powerful is Claude Fable (Mythos) 5 for Coding?]]></title>
-        <id>https://towardsdatascience.com/?p=609400</id>
-        <link href="https://towardsdatascience.com/how-powerful-is-claude-fable-mythos-5-for-coding/"/>
-        <updated>2026-06-18T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn about the upsides and downsides of Claude Fable 5
-The post How Powerful is Claude Fable (Mythos) 5 for Coding? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Eivind Kjosbakken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is How You Get Your Homepage Viral]]></title>
-        <id>https://www.thevccorner.com/p/reddit-playbook-startup-founders</id>
-        <link href="https://www.thevccorner.com/p/reddit-playbook-startup-founders"/>
-        <updated>2026-06-18T16:18:24.000Z</updated>
-        <summary type="html"><![CDATA[How Reddit became the most cited source across all major AI platforms and what founders need to do about it right now.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proteins: A Mosaic Pattern to Rule Them All?]]></title>
-        <id>https://towardsdatascience.com/?p=609397</id>
-        <link href="https://towardsdatascience.com/proteins-a-mosaic-pattern-to-rule-them-all/"/>
-        <updated>2026-06-18T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[For decades, the existence of the hydrophobic core, a region in the 3D structure of proteins where hydrophobic amino acids reside together, has been considered a general property in proteins. What we have found now may extend that model. In particular, the rest of amino acids also seem to cluster together according to their chemical type (polar, acidic, basic, special), specifically in groups of ~8 units. This is what we have come to call the Mosaic Q model. Here is how we found it, along with tools for its quantification and visualization.
-The post Proteins: A Mosaic Pattern to Rule Them All? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Francisco Javier Lobo-Cabrera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Research Papers Are Here (And They're Scary Good)]]></title>
-        <id>https://www.youtube.com/watch?v=zvSH4_cgQ6s</id>
-        <link href="https://www.youtube.com/watch?v=zvSH4_cgQ6s"/>
-        <updated>2026-06-18T13:50:05.000Z</updated>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dispatching the Parsed RAG Question: Chunk Strategy, Model Tier, Activations, Audit]]></title>
-        <id>https://towardsdatascience.com/?p=609385</id>
-        <link href="https://towardsdatascience.com/dispatching-the-parsed-rag-question-chunk-strategy-model-tier-activations-audit/"/>
-        <updated>2026-06-18T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #6c] - The decisions the parser makes on top of the user string, using the document’s profile: dispatch, activations, full schema, three approaches to deciding what fires, the audit _meta block, and a broker-corpus walkthrough
-The post Dispatching the Parsed RAG Question: Chunk Strategy, Model Tier, Activations, Audit appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>angela shi</name>
         </author>
     </entry>
 </feed>
