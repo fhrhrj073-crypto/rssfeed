@@ -2,10 +2,213 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-07-23T01:21:08.345Z</updated>
+    <updated>2026-07-24T01:16:59.208Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Steal this UX framework from Dubai’s most over-the-top hotel]]></title>
+        <id>https://medium.com/p/0b14f71e46e5</id>
+        <link href="https://uxdesign.cc/steal-this-ux-framework-from-dubais-most-over-the-top-hotel-0b14f71e46e5?source=rss----138adf9c44c---4"/>
+        <updated>2026-07-23T21:48:28.000Z</updated>
+        <summary type="html"><![CDATA[Stop studying apps. Study hotels. A Google UX researcher’s field notes on the hidden UX of hospitality.
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Slava Polonski, PhD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Four questions every tool should answer (even Figma) about AI training model usage]]></title>
+        <id>https://medium.com/p/4f1150f91a30</id>
+        <link href="https://uxdesign.cc/the-trust-test-four-questions-every-tool-should-answer-even-figma-about-ai-training-model-usage-4f1150f91a30?source=rss----138adf9c44c---4"/>
+        <updated>2026-07-23T21:43:32.000Z</updated>
+        <summary type="html"><![CDATA[Figma’s class action is not really about copyright, it is about defaults and they are a design decision your team makes. Here’s a test you…]]></summary>
+        <author>
+            <name>Patrick Neeman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You're probably wasting tokens]]></title>
+        <id>https://www.youtube.com/watch?v=QNEo_tl-nhw</id>
+        <link href="https://www.youtube.com/watch?v=QNEo_tl-nhw"/>
+        <updated>2026-07-23T21:01:48.000Z</updated>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An opinionated guide to which AI to use to do stuff]]></title>
+        <id>https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22</id>
+        <link href="https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22"/>
+        <updated>2026-07-23T18:05:24.000Z</updated>
+        <summary type="html"><![CDATA[The Summer 2026 Edition]]></summary>
+        <author>
+            <name>Ethan Mollick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 LIVE: App building 101 for total beginners]]></title>
+        <id>https://www.theneuron.ai/newsletter/live-app-building-101-for-total-beginners/</id>
+        <link href="https://www.theneuron.ai/newsletter/live-app-building-101-for-total-beginners/"/>
+        <updated>2026-07-23T16:56:27.404Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pulse: New trend - concern about massive increase in code review load]]></title>
+        <id>6a61e422435ae800016524b9</id>
+        <link href="https://blog.pragmaticengineer.com/the-pulse-new-trend-concern-about-massive-increase-in-code-review-load/"/>
+        <updated>2026-07-23T16:55:29.000Z</updated>
+        <summary type="html"><![CDATA[Top of mind for engineering leaders: what to do about the growing code review load, and how devs are starting to review code less thoroughly than before? Many questions, but few proven solutions.]]></summary>
+        <author>
+            <name>Ivan Klaric</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 10 Claude Skills Every Founder & Builder Should Steal]]></title>
+        <id>https://www.thevccorner.com/p/claude-skills-every-founder-should-steal</id>
+        <link href="https://www.thevccorner.com/p/claude-skills-every-founder-should-steal"/>
+        <updated>2026-07-23T16:41:13.000Z</updated>
+        <summary type="html"><![CDATA[A free, build-once toolkit for the people shipping products, raising money, and doing their own marketing.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Data Science Makes Us Sad: The Story of an Overbooked Flight]]></title>
+        <id>https://towardsdatascience.com/?p=610036</id>
+        <link href="https://towardsdatascience.com/when-data-science-makes-us-sad-the-story-of-an-overbooked-flight/"/>
+        <updated>2026-07-23T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[$8 million vs $5k + Potentially Going Viral
+The post When Data Science Makes Us Sad: The Story of an Overbooked Flight appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Soner Yıldırım</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Most RAG Hallucinations Are Extraction Errors: Seven Patterns for a Typed Generation Contract]]></title>
+        <id>https://towardsdatascience.com/?p=610032</id>
+        <link href="https://towardsdatascience.com/most-rag-hallucinations-are-extraction-errors-seven-patterns-for-a-typed-generation-contract/"/>
+        <updated>2026-07-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #8ter] - Naming the RAG error correctly matters: model reads the context, so a wrong answer is an extraction error, not a hallucination. Seven typed-contract patterns keep the generation brick honest, with a decomposition rule for small models
+The post Most RAG Hallucinations Are Extraction Errors: Seven Patterns for a Typed Generation Contract appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Kezhan Shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GLM 5.2 in Claude Code is Blowing My Mind]]></title>
+        <id>https://www.youtube.com/watch?v=yRtUkbq_hHo</id>
+        <link href="https://www.youtube.com/watch?v=yRtUkbq_hHo"/>
+        <updated>2026-07-23T14:01:34.000Z</updated>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lessons Learned After 8.5 Years of ML]]></title>
+        <id>https://towardsdatascience.com/?p=610031</id>
+        <link href="https://towardsdatascience.com/lessons-learned-after-8-5-years-of-ml/"/>
+        <updated>2026-07-23T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Patience, Optimism, Discipline, Projects, Teams
+The post Lessons Learned After 8.5 Years of ML appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Pascal Janetzky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RAG Explained The Most In Demand Pattern in AI Engineering]]></title>
+        <id>https://www.youtube.com/shorts/mEL4_t3an78</id>
+        <link href="https://www.youtube.com/shorts/mEL4_t3an78"/>
+        <updated>2026-07-23T12:00:08.000Z</updated>
+        <summary type="html"><![CDATA[RAG, or retrieval augmented generation, is probably the most in-demand pattern in AI engineering right now. It's been around a few years and it's still wildl...]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Adding More AI Agents Made Our System Slower]]></title>
+        <id>https://towardsdatascience.com/?p=610028</id>
+        <link href="https://towardsdatascience.com/why-adding-more-ai-agents-made-our-system-slower/"/>
+        <updated>2026-07-23T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The hidden cost of asynchronous systems, how tiny CPU tasks quietly became our biggest bottleneck while scaling hundreds of LLM agents.
+The post Why Adding More AI Agents Made Our System Slower appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Uri Peled</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不想露臉，也能把內容做成短片 #claudecode #code]]></title>
+        <id>https://www.youtube.com/shorts/3r3tVH1gG3Y</id>
+        <link href="https://www.youtube.com/shorts/3r3tVH1gG3Y"/>
+        <updated>2026-07-23T10:00:06.000Z</updated>
+        <summary type="html"><![CDATA[想做短影片，卻不想露臉？真正卡住的，常常不是內容，而是每一句到底要配什麼畫面。AI 內容短片生成器會先讀題目和腳本，再安排分析圖卡、時間軸與動畫。影片裡的台積電案例，就是實際生成的 AI 內容短片。想看完整做法，可以加入免費的 AI 效率啟動營。🎯 你提供題目與腳本，AI 先安排畫面，再由你驗收。章節00:00...]]></summary>
+        <author>
+            <name>追日Gucci-AI效率革命聯盟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 You Need 3 Geminis Now]]></title>
+        <id>https://www.theneuron.ai/newsletter/you-need-3-geminis-now/</id>
+        <link href="https://www.theneuron.ai/newsletter/you-need-3-geminis-now/"/>
+        <updated>2026-07-23T09:32:15.972Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Negotiated my ENTIRE return]]></title>
+        <id>https://www.youtube.com/shorts/Bf-f2XK4Qv0</id>
+        <link href="https://www.youtube.com/shorts/Bf-f2XK4Qv0"/>
+        <updated>2026-07-23T09:31:18.000Z</updated>
+        <summary type="html"><![CDATA[Join My Newsletter for Regular AI Updates 👇🏼https://forwardfuture.comMy Links 🔗👉🏻 X: https://x.com/matthewberman👉🏻 Forward Future X: https://x.com/for...]]></summary>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic’s biggest 2026 miscalculation was believing model leadership could excuse everything else]]></title>
+        <id>https://medium.com/p/b55cf4d9b64b</id>
+        <link href="https://generativeai.pub/anthropics-biggest-2026-miscalculation-was-believing-model-leadership-could-excuse-everything-else-b55cf4d9b64b?source=rss----440100e76000---4"/>
+        <updated>2026-07-23T05:17:43.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic is losing its grip on the AI market, and it happened much faster than anyone expected.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Jim Clyde Monge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Imagination, Aligned]]></title>
+        <id>https://medium.com/p/1296140d1032</id>
+        <link href="https://generativeai.pub/imagination-aligned-on-ai-and-literature-1296140d1032?source=rss----440100e76000---4"/>
+        <updated>2026-07-23T05:13:16.000Z</updated>
+        <summary type="html"><![CDATA[What AI can and can’t do with a story — and what is actually under threat]]></summary>
+        <author>
+            <name>Stanislav Lvovsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Two-Agent Code Review Loop with A2A, LangGraph, and LM Studio]]></title>
+        <id>https://medium.com/p/684455491963</id>
+        <link href="https://generativeai.pub/building-a-two-agent-code-review-loop-with-a2a-langgraph-and-lm-studio-684455491963?source=rss----440100e76000---4"/>
+        <updated>2026-07-23T05:07:49.000Z</updated>
+        <summary type="html"><![CDATA[Agent Cards, JSON-RPC routes, the TaskUpdater lifecycle, and a working orchestrator loop.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Jes Fink-Jensen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 做影片苦工，你把時間留給專業、事業與家人]]></title>
+        <id>https://www.youtube.com/shorts/nlP-0bwKjBw</id>
+        <link href="https://www.youtube.com/shorts/nlP-0bwKjBw"/>
+        <updated>2026-07-23T04:00:28.000Z</updated>
+        <summary type="html"><![CDATA[🎁 加入免費社群拿AI 影片工具包：guccidgi.com/aifree-----從選題到 QA 接成一條產線，人只在關鍵節點看過並決定。]]></summary>
+        <author>
+            <name>追日Gucci-AI效率革命聯盟</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WORST AI Mistakes by Companies]]></title>
         <id>https://www.youtube.com/shorts/_X0kRfqGsx8</id>
@@ -5612,137 +5815,6 @@ Continue reading on Generative AI »]]></summary>
 The post Why I Stopped Using One Agent and Built a Multi-Agent Pipeline Instead appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Priyansh Bhardwaj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The new Hermes Agent update has me speechless....]]></title>
-        <id>https://www.youtube.com/watch?v=bQ1LCFrwj08</id>
-        <link href="https://www.youtube.com/watch?v=bQ1LCFrwj08"/>
-        <updated>2026-06-24T13:15:31.000Z</updated>
-        <author>
-            <name>Alex Finn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GLM 5.2: why I’m replacing Opus in Claude Code with this new model]]></title>
-        <id>https://www.lennysnewsletter.com/p/glm-52-why-im-replacing-opus-in-claude</id>
-        <link href="https://www.lennysnewsletter.com/p/glm-52-why-im-replacing-opus-in-claude"/>
-        <updated>2026-06-24T12:03:52.000Z</updated>
-        <summary type="html"><![CDATA[Watch now | 🎙️I ran GLM-5.2, the open-weight model from Z.AI, through codebase audits, UI redesigns, and a 45-minute autonomous bug-hunting task in Cursor and Claude Code, and it cost me $3.36]]></summary>
-        <author>
-            <name>Claire Vo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run AI Coding Agents 24 7]]></title>
-        <id>https://www.youtube.com/shorts/H9rTnmuisC0</id>
-        <link href="https://www.youtube.com/shorts/H9rTnmuisC0"/>
-        <updated>2026-06-24T12:00:30.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anchor Detection for RAG: Parallel Detectors, Then One LLM Call at the End]]></title>
-        <id>https://towardsdatascience.com/?p=609448</id>
-        <link href="https://towardsdatascience.com/anchor-detection-for-rag-parallel-detectors-then-one-llm-call-at-the-end/"/>
-        <updated>2026-06-24T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #7B] - Retrieval is filtering on structured tables: keywords first, TOC second, embeddings last
-The post Anchor Detection for RAG: Parallel Detectors, Then One LLM Call at the End appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>angela shi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build AI Agents That Actually Work (No Code)]]></title>
-        <id>https://www.youtube.com/watch?v=b0ymN8OgiMM</id>
-        <link href="https://www.youtube.com/watch?v=b0ymN8OgiMM"/>
-        <updated>2026-06-24T11:00:16.000Z</updated>
-        <author>
-            <name>Metics Media</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😺 Meta's $299 AI glasses are here]]></title>
-        <id>https://www.theneuron.ai/newsletter/meta-s-299-ai-glasses-are-here-d918/</id>
-        <link href="https://www.theneuron.ai/newsletter/meta-s-299-ai-glasses-are-here-d918/"/>
-        <updated>2026-06-24T10:00:55.776Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You NEED to try these 12 open-source AI projects RIGHT NOW]]></title>
-        <id>https://www.youtube.com/watch?v=2lmBj_XQq0I</id>
-        <link href="https://www.youtube.com/watch?v=2lmBj_XQq0I"/>
-        <updated>2026-06-24T00:01:49.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Fund That Backed Revolut at £300K. Now Raising $320M for What Comes Next]]></title>
-        <id>https://www.thevccorner.com/p/seedcamp-fund-vii-320m-revolut-deck-returns-2026</id>
-        <link href="https://www.thevccorner.com/p/seedcamp-fund-vii-320m-revolut-deck-returns-2026"/>
-        <updated>2026-06-23T18:50:52.000Z</updated>
-        <summary type="html"><![CDATA[Seedcamp just closed the largest raise in its nearly 20-year history. Fund III is tracking to a 20x net return. Here is the deck, the numbers, and the playbook behind Europe’s most consistent early-st]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Powerful Loops in Claude Code]]></title>
-        <id>https://towardsdatascience.com/?p=609445</id>
-        <link href="https://towardsdatascience.com/how-to-create-powerful-loops-in-claude-code/"/>
-        <updated>2026-06-23T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn about the concept of loops to power your coding agents. 
-The post How to Create Powerful Loops in Claude Code appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Eivind Kjosbakken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reliability fail: No automated zone failover for Coinbase’s global trading service]]></title>
-        <id>6a3ab42d341dfc0001969c22</id>
-        <link href="https://blog.pragmaticengineer.com/coinbase-fail/"/>
-        <updated>2026-06-23T16:30:59.000Z</updated>
-        <summary type="html"><![CDATA[Hi, this is Gergely with a bonus, free issue of the Pragmatic Engineer Newsletter. In every issue, I cover Big Tech and startups through the lens of senior engineers and engineering leaders. Today, we cover one out of four topics from this past The Pulse issue. Full subscribers received the]]></summary>
-        <author>
-            <name>Gergely Orosz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Spent an Hour on a Data Preprocessing Task Before Asking Gemini]]></title>
-        <id>https://towardsdatascience.com/?p=609443</id>
-        <link href="https://towardsdatascience.com/i-spent-an-hour-on-a-data-preprocessing-task-before-asking-gemini/"/>
-        <updated>2026-06-23T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[How Gemini solved my Pandas problem in seconds, and why data science fundamentals still matter to spot suboptimal solutions
-The post I Spent an Hour on a Data Preprocessing Task Before Asking Gemini appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Soner Yıldırım</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Retrieval Is Filtering, Not Search: A Mental Model for Enterprise RAG]]></title>
-        <id>https://towardsdatascience.com/?p=609431</id>
-        <link href="https://towardsdatascience.com/retrieval-is-filtering-not-search-a-mental-model-for-enterprise-rag/"/>
-        <updated>2026-06-23T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #7A] - Stop searching strings. Filter line_df and toc_df. Pick anchors small, expand context large
-The post Retrieval Is Filtering, Not Search: A Mental Model for Enterprise RAG appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>angela shi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Era of No-Code AI: What You Need to Know]]></title>
-        <id>https://towardsdatascience.com/?p=609441</id>
-        <link href="https://towardsdatascience.com/the-era-of-no-code-ai-what-you-need-to-know/"/>
-        <updated>2026-06-23T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[If you are a programmer and you don't feel "special" anymore, you are not alone
-The post The Era of No-Code AI: What You Need to Know appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Mauro Di Pietro</name>
         </author>
     </entry>
 </feed>
