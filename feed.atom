@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-07-25T01:18:03.611Z</updated>
+    <updated>2026-07-26T01:20:41.177Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一顆所有 AI 共用的大腦，出門用手機也叫得動]]></title>
+        <id>https://www.youtube.com/shorts/pRL1ES4olc0</id>
+        <link href="https://www.youtube.com/shorts/pRL1ES4olc0"/>
+        <updated>2026-07-26T00:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Claude Code、Codex、外部 Agent 讀的都是同一份，還能帶著走。完整版在 https://www.guccidgi.com/join-ai-skool-yt]]></summary>
+        <author>
+            <name>追日Gucci-AI效率革命聯盟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🧠 Community Wisdom: Staying on a client’s radar during pilot purgatory, pairing Linear with a discovery tool, the limits of what AI can automate, whether Techstars is worth it, and more]]></title>
+        <id>https://www.lennysnewsletter.com/p/community-wisdom-staying-on-a-clients</id>
+        <link href="https://www.lennysnewsletter.com/p/community-wisdom-staying-on-a-clients"/>
+        <updated>2026-07-25T16:01:44.000Z</updated>
+        <summary type="html"><![CDATA[Community Wisdom 194]]></summary>
+        <author>
+            <name>Kiyani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Optimize Vector Search When RAM Gets Too Expensive: On-Disk vs. In-Memory ANN Indexes]]></title>
+        <id>https://towardsdatascience.com/?p=610059</id>
+        <link href="https://towardsdatascience.com/optimizing-vector-search-on-disk-vs-in-memory-ann-indexes-when-ram-gets-too-expensive/"/>
+        <updated>2026-07-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Architecting cost-effective infrastructure by navigating the latency and storage trade-offs of HNSW, SPANN, and DiskANN
+The post How to Optimize Vector Search When RAM Gets Too Expensive: On-Disk vs. In-Memory ANN Indexes appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Oleg Tereshin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fluid Simulator That Doesn’t Solve the Fluid Equations]]></title>
+        <id>https://towardsdatascience.com/?p=610057</id>
+        <link href="https://towardsdatascience.com/the-fluid-simulator-that-doesnt-solve-the-fluid-equations/"/>
+        <updated>2026-07-25T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I generated a Kármán vortex street without solving a single fluid equation. Here's how the Lattice Boltzmann Method gets there instead, derived from first principles, implemented in C++, and run on a supercomputer.
+The post The Fluid Simulator That Doesn’t Solve the Fluid Equations appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ferran Alia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI Portfolio That Gives You an Edge in Interviews]]></title>
+        <id>https://www.youtube.com/shorts/N3FDISelpOE</id>
+        <link href="https://www.youtube.com/shorts/N3FDISelpOE"/>
+        <updated>2026-07-25T12:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Want something to talk about in an AI engineering interview that edges out the competition? Build a real portfolio. Not tutorial clones, but real projects th...]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你不是在教 AI，只是在每個工具重複自我介紹]]></title>
+        <id>https://www.youtube.com/shorts/Hvf8o0tM8K0</id>
+        <link href="https://www.youtube.com/shorts/Hvf8o0tM8K0"/>
+        <updated>2026-07-25T12:00:10.000Z</updated>
+        <summary type="html"><![CDATA[換到另一個專案，Claude Code 又不認識你；切到 Codex，背景和規則還得重講一次。我的做法是把大腦留在一個資料夾裡。重要知識、決策與筆記只存一份，所有 AI 都讀同一份，不再各養各的記憶。#AIVault #ClaudeCode #Codex #第二大腦 #AIAgent #知識管理 #AI效率]]></summary>
+        <author>
+            <name>追日Gucci-AI效率革命聯盟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我故意問 AI 一個大腦裡沒有的題目，結果它沒亂掰]]></title>
+        <id>https://www.youtube.com/shorts/ih0wVjmq_T0</id>
+        <link href="https://www.youtube.com/shorts/ih0wVjmq_T0"/>
+        <updated>2026-07-25T08:00:21.000Z</updated>
+        <summary type="html"><![CDATA[第二大腦真正重要的，不只是找得到資料，而是找不到時願意承認沒有。我故意問一個從沒討論過的量子電腦題目。它沒有湊答案，而是清楚回報沒有相關記錄；有答案時，也會說明依據從哪裡來。#AIVault #AI幻覺 #RAG #第二大腦 #知識庫 #AIAgent #AI實測]]></summary>
+        <author>
+            <name>追日Gucci-AI效率革命聯盟</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ryan Carson Teaches Greg Isenberg How to Run an AI Software Factory]]></title>
         <id>https://www.theneuron.ai/explainer-articles/ryan-carson-teaches-greg-isenberg-how-to-run-an-ai-software-factory/</id>
@@ -5497,275 +5569,6 @@ The post Water Cooler Small Talk, Ep. 11: Overfitting in RAG evaluation appeared
         <updated>2026-06-26T13:30:00.000Z</updated>
         <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #M1] - The thesis behind every architectural choice in this series
 The post Amplify the Expert: A Philosophy for Building Enterprise RAG appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>angela shi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is an AI Engineer in 2026]]></title>
-        <id>https://www.youtube.com/shorts/4EJX5ZQdVU0</id>
-        <link href="https://www.youtube.com/shorts/4EJX5ZQdVU0"/>
-        <updated>2026-06-26T12:00:37.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Ace Data and ML Behavioural Interviews]]></title>
-        <id>https://towardsdatascience.com/?p=609513</id>
-        <link href="https://towardsdatascience.com/how-to-ace-data-ml-behavioural-interviews/"/>
-        <updated>2026-06-26T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How to smash through data / ML behavioural interviews
-The post How to Ace Data and ML Behavioural Interviews appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Egor Howell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Someone designed this]]></title>
-        <id>https://medium.com/p/2d48482b64df</id>
-        <link href="https://uxdesign.cc/someone-designed-this-2d48482b64df?source=rss----138adf9c44c---4"/>
-        <updated>2026-06-26T11:09:43.000Z</updated>
-        <author>
-            <name>Arun Bakirathan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Start a US LLC as a Non-Resident in 2026 (Step-by-Step)]]></title>
-        <id>https://www.youtube.com/watch?v=aoU8uXycrVw</id>
-        <link href="https://www.youtube.com/watch?v=aoU8uXycrVw"/>
-        <updated>2026-06-26T11:00:25.000Z</updated>
-        <author>
-            <name>Metics Media</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😺 AI ate the memory chips. Apple sent you the bill.]]></title>
-        <id>https://www.theneuron.ai/newsletter/ai-ate-the-memory-chips-apple-sent-you-the-bill-4d75/</id>
-        <link href="https://www.theneuron.ai/newsletter/ai-ate-the-memory-chips-apple-sent-you-the-bill-4d75/"/>
-        <updated>2026-06-26T10:00:33.861Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果官方教學：教你三步驟在 Mac 上跑本地 AI Agent，並開發 iPad App]]></title>
-        <id>https://www.youtube.com/watch?v=yb46FtahQUE</id>
-        <link href="https://www.youtube.com/watch?v=yb46FtahQUE"/>
-        <updated>2026-06-26T08:23:21.000Z</updated>
-        <author>
-            <name>電腦王阿達</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to stop re-explaining yourself to Claude]]></title>
-        <id>https://medium.com/p/5845bc5025a2</id>
-        <link href="https://uxdesign.cc/how-to-stop-re-explaining-yourself-to-claude-5845bc5025a2?source=rss----138adf9c44c---4"/>
-        <updated>2026-06-26T07:50:16.000Z</updated>
-        <author>
-            <name>Sean Filiatrault</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seedance 2.5 is Now Available in Topview AI]]></title>
-        <id>https://medium.com/p/4b0995210fcf</id>
-        <link href="https://generativeai.pub/seedance-2-5-is-now-available-in-topview-ai-4b0995210fcf?source=rss----440100e76000---4"/>
-        <updated>2026-06-26T07:42:03.000Z</updated>
-        <author>
-            <name>Jim Clyde Monge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We deleted fifty years of information retrieval and called it RAG]]></title>
-        <id>https://medium.com/p/d60801fdafd9</id>
-        <link href="https://generativeai.pub/we-deleted-fifty-years-of-information-retrieval-and-called-it-rag-d60801fdafd9?source=rss----440100e76000---4"/>
-        <updated>2026-06-26T07:41:17.000Z</updated>
-        <summary type="html"><![CDATA[Chunking, embeddings, hybrid search, reranking, eval. Every one already had a name in information retrieval. We didn’t lose it, we just…
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Alvis Ng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The US Government Classified Fable 5 as a Munition.]]></title>
-        <id>https://medium.com/p/09e17cbeea48</id>
-        <link href="https://generativeai.pub/the-us-government-classified-fable-5-as-a-munition-09e17cbeea48?source=rss----440100e76000---4"/>
-        <updated>2026-06-26T07:39:41.000Z</updated>
-        <summary type="html"><![CDATA[As the Anthropic Fable 5 ban enters its ninth day, enterprise strategists must abandon direct-to-developer APIs and immediately pivot to…
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>MohamedAbdelmenem</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your AI-Generated Tests Are Lying to You]]></title>
-        <id>https://medium.com/p/929b57b8bd63</id>
-        <link href="https://generativeai.pub/your-ai-generated-tests-are-lying-to-you-929b57b8bd63?source=rss----440100e76000---4"/>
-        <updated>2026-06-26T07:39:17.000Z</updated>
-        <summary type="html"><![CDATA[We found out from a customer. I’d rather not do that again.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Revant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Your Own Local LLM Agent Workflow in 400 Lines of Python]]></title>
-        <id>https://medium.com/p/ee6e0b749dfd</id>
-        <link href="https://generativeai.pub/build-your-own-local-llm-agent-workflow-in-400-lines-of-python-ee6e0b749dfd?source=rss----440100e76000---4"/>
-        <updated>2026-06-26T07:37:59.000Z</updated>
-        <summary type="html"><![CDATA[Turning a single agent into a repeatable, human-gated pipeline made of numbered folders and plain markdown: layered context loading…
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Jes Fink-Jensen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[America’s First Big AI Law Was Repealed Before It Ever Took Effect]]></title>
-        <id>https://medium.com/p/dea4b37c5baa</id>
-        <link href="https://generativeai.pub/americas-first-big-ai-law-was-repealed-before-it-ever-took-effect-dea4b37c5baa?source=rss----440100e76000---4"/>
-        <updated>2026-06-26T07:37:33.000Z</updated>
-        <summary type="html"><![CDATA[Colorado wrote the toughest AI rules in the country. They were set to go live June 30. Instead the state deleted them and the reason it…
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Ahmed M. Abdelfattah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Subagents Are Not Coworkers. They Are Disposable Context Firewalls.]]></title>
-        <id>https://medium.com/p/77c0e6d92364</id>
-        <link href="https://generativeai.pub/your-subagents-are-not-coworkers-they-are-disposable-context-firewalls-77c0e6d92364?source=rss----440100e76000---4"/>
-        <updated>2026-06-26T07:35:44.000Z</updated>
-        <author>
-            <name>Richardson Gunde</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You’re Being Judged for Using AI at Work, Even When Your Work Is Better]]></title>
-        <id>https://medium.com/p/d5f554b2ebcf</id>
-        <link href="https://generativeai.pub/youre-being-judged-for-using-ai-at-work-even-when-your-work-is-better-d5f554b2ebcf?source=rss----440100e76000---4"/>
-        <updated>2026-06-26T07:34:35.000Z</updated>
-        <author>
-            <name>Alara Akcasiz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generative AI and Mental Health: Why the Internet Feels So Numb in 2026]]></title>
-        <id>https://medium.com/p/e74476d1ef9b</id>
-        <link href="https://generativeai.pub/generative-ai-and-mental-health-why-the-internet-feels-so-numb-in-2026-e74476d1ef9b?source=rss----440100e76000---4"/>
-        <updated>2026-06-26T07:33:19.000Z</updated>
-        <author>
-            <name>Jeet Laha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Me, my career, & GenAI: the Present, Past & Future]]></title>
-        <id>https://medium.com/p/b4cbe486d9b2</id>
-        <link href="https://generativeai.pub/me-my-career-genai-the-present-past-future-b4cbe486d9b2?source=rss----440100e76000---4"/>
-        <updated>2026-06-26T07:33:05.000Z</updated>
-        <author>
-            <name>A grain of salt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT 5.6 is officially BANNED]]></title>
-        <id>https://www.youtube.com/shorts/oQ_aqiSTLQc</id>
-        <link href="https://www.youtube.com/shorts/oQ_aqiSTLQc"/>
-        <updated>2026-06-26T02:24:09.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic is coming for EVERYTHING]]></title>
-        <id>https://www.youtube.com/watch?v=IwKuv4LrCVk</id>
-        <link href="https://www.youtube.com/watch?v=IwKuv4LrCVk"/>
-        <updated>2026-06-25T23:33:11.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking Figma in an AI World]]></title>
-        <id>https://medium.com/p/0facba587ba5</id>
-        <link href="https://uxdesign.cc/rethinking-figma-in-an-ai-world-0facba587ba5?source=rss----138adf9c44c---4"/>
-        <updated>2026-06-25T22:50:53.000Z</updated>
-        <author>
-            <name>Darren Yeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI companies are trying to take over]]></title>
-        <id>https://www.youtube.com/shorts/_gtQJTnWA4E</id>
-        <link href="https://www.youtube.com/shorts/_gtQJTnWA4E"/>
-        <updated>2026-06-25T19:25:14.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vector RAG Isn’t Enough — I Built a Context Graph Layer for Multi-Agent Memory]]></title>
-        <id>https://towardsdatascience.com/vector-rag-isnt-enough-i-built-a-context-graph-layer-for-multi-agent-memory/</id>
-        <link href="https://towardsdatascience.com/vector-rag-isnt-enough-i-built-a-context-graph-layer-for-multi-agent-memory/"/>
-        <updated>2026-06-25T18:37:53.000Z</updated>
-        <summary type="html"><![CDATA[I benchmarked raw chat history, vector-only RAG, and a context graph on the same multi-agent conversations. The results exposed a surprising weakness in relational retrieval.
-The post Vector RAG Isn’t Enough — I Built a Context Graph Layer for Multi-Agent Memory appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Emmimal P Alexander</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pivot or Die. The Market Is Trying to Tell You Something]]></title>
-        <id>https://www.thevccorner.com/p/pivot-or-die-when-the-market-rejects-your-idea</id>
-        <link href="https://www.thevccorner.com/p/pivot-or-die-when-the-market-rejects-your-idea"/>
-        <updated>2026-06-25T18:26:21.000Z</updated>
-        <summary type="html"><![CDATA[The honest framework for knowing when your idea is the problem and you are not.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Hot Path Belongs to GBDTs, Agents Own the Cold Path: A Payment-Fraud Benchmark]]></title>
-        <id>https://towardsdatascience.com/?p=609506</id>
-        <link href="https://towardsdatascience.com/the-hot-path-belongs-to-gbdts-agents-own-the-cold-path-a-payment-fraud-benchmark/"/>
-        <updated>2026-06-25T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A reproducible benchmark on latency, cost, and reproducibility, and where agents actually earn their keep.
-The post The Hot Path Belongs to GBDTs, Agents Own the Cold Path: A Payment-Fraud Benchmark appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sandeep Bharadwaj Mannapur</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond the Straight Line: Choosing Between OLS, Interaction Terms, and Tweedie Regression]]></title>
-        <id>https://towardsdatascience.com/?p=609504</id>
-        <link href="https://towardsdatascience.com/beyond-the-straight-line-choosing-between-ols-interaction-terms-and-tweedie-regression/"/>
-        <updated>2026-06-25T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Whether you should stick to a classic Ordinary Least Squares regression, introduce interaction terms, or pivot to a Tweedie distribution depends entirely on how your data handles the messy reality of zeros and extreme outliers.
-The post Beyond the Straight Line: Choosing Between OLS, Interaction Terms, and Tweedie Regression appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Gustavo Santos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Agents. 3 LLMs. 1 Aging GPU: Engineering Parallel Inference on Bare Metal]]></title>
-        <id>https://towardsdatascience.com/?p=609498</id>
-        <link href="https://towardsdatascience.com/3-agents-3-llms-1-aging-gpu-engineering-parallel-inference-on-bare-metal/"/>
-        <updated>2026-06-25T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Beat the 8GB VRAM limit. Learn how to run three different LLMs on a single 8GB GPU using C++ layer multiplexing and admission control.
-The post 3 Agents. 3 LLMs. 1 Aging GPU: Engineering Parallel Inference on Bare Metal appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Anubhab Banerjee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An LLM as arbiter in RAG retrieval: picking the right candidate with reasons]]></title>
-        <id>https://towardsdatascience.com/?p=609450</id>
-        <link href="https://towardsdatascience.com/letting-an-llm-pick-the-right-rag-page-the-arbiter-pattern-at-the-end-of-retrieval/"/>
-        <updated>2026-06-25T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #7C] - One LLM call ranks the candidates with reasons. The output is one typed object your auditor can defend
-The post An LLM as arbiter in RAG retrieval: picking the right candidate with reasons appeared first on Towards Data Science.]]></summary>
         <author>
             <name>angela shi</name>
         </author>
