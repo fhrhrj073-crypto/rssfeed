@@ -2,10 +2,131 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-07-26T01:20:41.177Z</updated>
+    <updated>2026-07-27T01:24:59.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一顆所有 AI 共用的大腦，出門用手機也叫得動]]></title>
+        <id>https://www.youtube.com/shorts/QqVMxBjC460</id>
+        <link href="https://www.youtube.com/shorts/QqVMxBjC460"/>
+        <updated>2026-07-27T00:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Claude Code、Codex、外部 Agent 讀的都是同一份，還能帶著走。完整版在 https://www.guccidgi.com/join-ai-skool-yt]]></summary>
+        <author>
+            <name>追日Gucci-AI效率革命聯盟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Information architecture is the foundation artificial intelligence is starving for]]></title>
+        <id>https://medium.com/p/1d91fb5bf59f</id>
+        <link href="https://uxdesign.cc/information-architecture-is-the-foundation-artificial-intelligence-is-starving-for-1d91fb5bf59f?source=rss----138adf9c44c---4"/>
+        <updated>2026-07-26T19:28:45.000Z</updated>
+        <summary type="html"><![CDATA[Every AI problem you chase — hallucinations, wrong answers, poor retrieval — traces back to the IA projects you never funded. Now’s the…]]></summary>
+        <author>
+            <name>Patrick Neeman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😸 NVIDIA 🤝 Microsoft all in on open-source]]></title>
+        <id>https://www.theneuron.ai/newsletter/nvidia-microsoft-all-in-on-open-source/</id>
+        <link href="https://www.theneuron.ai/newsletter/nvidia-microsoft-all-in-on-open-source/"/>
+        <updated>2026-07-26T17:32:49.384Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Efficiently Prompt Claude Code]]></title>
+        <id>https://towardsdatascience.com/?p=610068</id>
+        <link href="https://towardsdatascience.com/how-to-efficiently-prompt-claude-code/"/>
+        <updated>2026-07-26T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Maximize your efficiency with Claude Code
+The post How to Efficiently Prompt Claude Code appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic's 10-Slide Deck 💰, Blueprint for Agent-First Software🤖, Top SaaS Vendors💳]]></title>
+        <id>https://www.thevccorner.com/p/anthropics-10-slide-deck-blueprint</id>
+        <link href="https://www.thevccorner.com/p/anthropics-10-slide-deck-blueprint"/>
+        <updated>2026-07-26T14:26:10.000Z</updated>
+        <summary type="html"><![CDATA[Another week, another pulse check on Tech.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your website is boring (but that might just set it free)]]></title>
+        <id>https://medium.com/p/f2b13863e22c</id>
+        <link href="https://uxdesign.cc/your-website-is-boring-but-that-might-just-set-it-free-f2b13863e22c?source=rss----138adf9c44c---4"/>
+        <updated>2026-07-26T14:19:22.000Z</updated>
+        <summary type="html"><![CDATA[It’s time to shake off the grip of the templated web and celebrate a world of Brand x Code]]></summary>
+        <author>
+            <name>Sam Belt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Tutorial for beginners - learn the basics step by step in 20 min]]></title>
+        <id>https://www.youtube.com/watch?v=Js05B8Z1ivE</id>
+        <link href="https://www.youtube.com/watch?v=Js05B8Z1ivE"/>
+        <updated>2026-07-26T13:00:10.000Z</updated>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Give an LLM Agent a Browser]]></title>
+        <id>https://towardsdatascience.com/?p=610062</id>
+        <link href="https://towardsdatascience.com/giving-an-llm-agent-a-browser/"/>
+        <updated>2026-07-26T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Building a browser-use agent with OpenAI Agents SDK and Playwright MCP
+The post How to Give an LLM Agent a Browser appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Shuai Guo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic’s first technical PM on token maxing, the jagged edge, and living in the future | Dianne Penn]]></title>
+        <id>https://www.lennysnewsletter.com/p/anthropics-first-technical-pm-on</id>
+        <link href="https://www.lennysnewsletter.com/p/anthropics-first-technical-pm-on"/>
+        <updated>2026-07-26T12:32:06.000Z</updated>
+        <summary type="html"><![CDATA[Listen now | Dianne Penn, Anthropic’s first PM, on the bets that made Claude dominant: the coding pivot, the eval-driven development loop, and what comes after coding is solved]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The seams are where the system lives]]></title>
+        <id>https://medium.com/p/9c43587be771</id>
+        <link href="https://uxdesign.cc/the-seams-are-where-the-system-lives-9c43587be771?source=rss----138adf9c44c---4"/>
+        <updated>2026-07-26T12:08:08.000Z</updated>
+        <summary type="html"><![CDATA[Partitioning a system into clean modules doesn’t remove complexity — it relocates it to the seams. Cities learned this by zoning. Software…
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Takuma Kakehi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fastest Way Into AI Engineering if You Already Have a Job]]></title>
+        <id>https://www.youtube.com/shorts/iOaPHGP6s2w</id>
+        <link href="https://www.youtube.com/shorts/iOaPHGP6s2w"/>
+        <updated>2026-07-26T12:00:01.000Z</updated>
+        <summary type="html"><![CDATA[If you're already employed, the fastest path into AI engineering is to become the AI person on your team. Volunteer to build the AI feature nobody else wants...]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 胡謅是因為它沒得查：接上第二大腦，找不到就說不知道]]></title>
+        <id>https://www.youtube.com/shorts/hliLYvApPk4</id>
+        <link href="https://www.youtube.com/shorts/hliLYvApPk4"/>
+        <updated>2026-07-26T08:00:35.000Z</updated>
+        <summary type="html"><![CDATA[單純用 AI，問到它不知道的事就開始胡謅。但如果它直接存取你自己的第二大腦呢？我問了一個我從沒跟它討論過的題目（量子電腦），它很誠實地說沒有查到相關記錄。找得到，它就告訴你我找到誰、為什麼得出這個答案，有憑有據；找不到，它也不亂講。這就是接了知識庫跟沒接的差別。**Hashtags**：#AI幻覺 #AI第二大腦...]]></summary>
+        <author>
+            <name>追日Gucci-AI效率革命聯盟</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一顆所有 AI 共用的大腦，出門用手機也叫得動]]></title>
         <id>https://www.youtube.com/shorts/pRL1ES4olc0</id>
@@ -5288,289 +5409,6 @@ The post We Built a Routing Layer to Cut Our AI Costs. It Broke the Product. app
         <summary type="html"><![CDATA[Don’t get blindsided by dilution or debt. Here is the exact toolkit we use to pressure-test every transaction.]]></summary>
         <author>
             <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Powerful LLM Knowledge Base]]></title>
-        <id>https://towardsdatascience.com/?p=609541</id>
-        <link href="https://towardsdatascience.com/how-to-build-a-powerful-llm-knowledge-base/"/>
-        <updated>2026-06-27T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Use coding agents to power your knowledge base
-The post How to Build a Powerful LLM Knowledge Base appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Eivind Kjosbakken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Engineer Myths Debunked]]></title>
-        <id>https://www.youtube.com/shorts/6VuwBNizE6E</id>
-        <link href="https://www.youtube.com/shorts/6VuwBNizE6E"/>
-        <updated>2026-06-27T12:00:37.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第一個 Skill，該從哪件事開始？]]></title>
-        <id>https://www.youtube.com/shorts/3_dsUjgHCAA</id>
-        <link href="https://www.youtube.com/shorts/3_dsUjgHCAA"/>
-        <updated>2026-06-27T08:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>追日Gucci-AI效率革命聯盟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Fastest Way to Create an AI Series with a One-Person Drama Studio]]></title>
-        <id>https://medium.com/p/c40cedc60737</id>
-        <link href="https://generativeai.pub/the-fastest-way-to-create-an-ai-series-with-a-one-person-drama-studio-c40cedc60737?source=rss----440100e76000---4"/>
-        <updated>2026-06-27T05:25:50.000Z</updated>
-        <author>
-            <name>Jim Clyde Monge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Loop That Learns]]></title>
-        <id>https://medium.com/p/fe0ffc18a869</id>
-        <link href="https://generativeai.pub/the-loop-that-learns-fe0ffc18a869?source=rss----440100e76000---4"/>
-        <updated>2026-06-27T05:17:26.000Z</updated>
-        <author>
-            <name>Isle of Tech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The future of AI isn’t the cloud. It’s the device in your hands.]]></title>
-        <id>https://medium.com/p/c5d1be782cf3</id>
-        <link href="https://generativeai.pub/the-future-of-ai-isnt-the-cloud-it-s-the-device-in-your-hands-c5d1be782cf3?source=rss----440100e76000---4"/>
-        <updated>2026-06-27T05:11:57.000Z</updated>
-        <author>
-            <name>Abe Kulmiye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agent Loops Explained: How AI Systems Iterate, Reflect, and Improve]]></title>
-        <id>https://medium.com/p/566d90210781</id>
-        <link href="https://generativeai.pub/agent-loops-explained-how-ai-systems-iterate-reflect-and-improve-566d90210781?source=rss----440100e76000---4"/>
-        <updated>2026-06-27T05:10:26.000Z</updated>
-        <summary type="html"><![CDATA[A technical breakdown of how AI agent loops work, from reasoning and tool use to reflection, memory, and verification. In this article, we…
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Mehmet Özel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Google Engineer Spent a Year Stealing AI Secrets.]]></title>
-        <id>https://medium.com/p/24209847b5b8</id>
-        <link href="https://generativeai.pub/a-google-engineer-spent-a-year-stealing-ai-secrets-24209847b5b8?source=rss----440100e76000---4"/>
-        <updated>2026-06-27T05:08:03.000Z</updated>
-        <summary type="html"><![CDATA[He had legitimate access to some of the most valuable infrastructure designs in the world. The only mistake he made was uploading files…
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Toyez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpaceX’s $60 Billion Anysphere Deal Signals the Next Phase of the AI Revolution]]></title>
-        <id>https://medium.com/p/94c1bd497e47</id>
-        <link href="https://generativeai.pub/spacexs-60-billion-anysphere-deal-signals-the-next-phase-of-the-ai-revolution-94c1bd497e47?source=rss----440100e76000---4"/>
-        <updated>2026-06-27T05:03:25.000Z</updated>
-        <author>
-            <name>Rian Atheer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Every Claude Skill Mentioned, So You Don’t Have to Read 50 Articles and Podcasts]]></title>
-        <id>https://medium.com/p/166b32628788</id>
-        <link href="https://generativeai.pub/every-claude-skill-mentioned-so-you-dont-have-to-read-50-articles-and-podcasts-166b32628788?source=rss----440100e76000---4"/>
-        <updated>2026-06-27T05:03:19.000Z</updated>
-        <author>
-            <name>Vruddhi Shah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What “long-term greedy” means for creator businesses]]></title>
-        <id>https://medium.com/p/2eeec0cea60b</id>
-        <link href="https://generativeai.pub/what-long-term-greedy-means-for-creator-businesses-2eeec0cea60b?source=rss----440100e76000---4"/>
-        <updated>2026-06-27T04:59:43.000Z</updated>
-        <author>
-            <name>Olivia Hart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build vs Buy, a 2026 edition]]></title>
-        <id>https://medium.com/p/2c5a0d77b677</id>
-        <link href="https://generativeai.pub/build-vs-buy-a-2026-edition-2c5a0d77b677?source=rss----440100e76000---4"/>
-        <updated>2026-06-27T04:51:01.000Z</updated>
-        <author>
-            <name>Dmytro Savchenko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一句話搞懂 Claude Skill 到底是什麼]]></title>
-        <id>https://www.youtube.com/shorts/1B_YwZqK3zg</id>
-        <link href="https://www.youtube.com/shorts/1B_YwZqK3zg"/>
-        <updated>2026-06-27T04:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>追日Gucci-AI效率革命聯盟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用了五個月，我把主力 AI agent 從 OpenClaw 換成 Hermes]]></title>
-        <id>https://www.youtube.com/watch?v=VRYBwuSsjg0</id>
-        <link href="https://www.youtube.com/watch?v=VRYBwuSsjg0"/>
-        <updated>2026-06-27T03:51:45.000Z</updated>
-        <author>
-            <name>追日Gucci-AI效率革命聯盟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT 5.6 has been announced. I’m done…]]></title>
-        <id>https://www.youtube.com/watch?v=5zm7LIDXtvE</id>
-        <link href="https://www.youtube.com/watch?v=5zm7LIDXtvE"/>
-        <updated>2026-06-27T02:55:19.000Z</updated>
-        <author>
-            <name>Alex Finn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Watched AI Turn COBOL Into Java in Seconds. Then I Found the Decimal It Moved]]></title>
-        <id>https://medium.com/p/cf7d73ff9725</id>
-        <link href="https://generativeai.pub/i-watched-ai-turn-cobol-into-java-in-seconds-then-i-found-the-decimal-it-moved-cf7d73ff9725?source=rss----440100e76000---4"/>
-        <updated>2026-06-27T02:39:59.000Z</updated>
-        <author>
-            <name>Jegan Selvaraj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Death of Naive Vector Search: Building Agentic, Multi-Step RAG for Complex Knowledge Workflows]]></title>
-        <id>https://medium.com/p/a0b4d2891f79</id>
-        <link href="https://generativeai.pub/the-death-of-naive-vector-search-building-agentic-multi-step-rag-for-complex-knowledge-workflows-a0b4d2891f79?source=rss----440100e76000---4"/>
-        <updated>2026-06-27T02:38:25.000Z</updated>
-        <author>
-            <name>BhavaniKumarKalavakunta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 回報的「完成」其實在騙你]]></title>
-        <id>https://www.youtube.com/shorts/8e-8XVza8VI</id>
-        <link href="https://www.youtube.com/shorts/8e-8XVza8VI"/>
-        <updated>2026-06-27T00:00:34.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>追日Gucci-AI效率革命聯盟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discovery is a capability, not a phase]]></title>
-        <id>https://medium.com/p/0fd6c1dab2f5</id>
-        <link href="https://uxdesign.cc/discovery-is-a-capability-not-a-phase-0fd6c1dab2f5?source=rss----138adf9c44c---4"/>
-        <updated>2026-06-26T21:58:55.000Z</updated>
-        <author>
-            <name>Gale Robins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The boundary between philosophy and design: Leveraging pure thought]]></title>
-        <id>https://medium.com/p/72a903b05f57</id>
-        <link href="https://uxdesign.cc/the-boundary-between-philosophy-and-design-leveraging-pure-thought-72a903b05f57?source=rss----138adf9c44c---4"/>
-        <updated>2026-06-26T21:58:37.000Z</updated>
-        <summary type="html"><![CDATA[Following the line from Plato’s Forms to the iPod, and what it reveals about where great design actually begins.
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Zacharia C.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I can't believe this happened...]]></title>
-        <id>https://www.youtube.com/watch?v=eEdOqSmkZy0</id>
-        <link href="https://www.youtube.com/watch?v=eEdOqSmkZy0"/>
-        <updated>2026-06-26T21:26:32.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I AM SO MAD]]></title>
-        <id>https://www.youtube.com/shorts/iG3lW8GslXs</id>
-        <link href="https://www.youtube.com/shorts/iG3lW8GslXs"/>
-        <updated>2026-06-26T20:04:33.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT 5.6 is officially NOT BANNED (even worse)]]></title>
-        <id>https://www.youtube.com/shorts/rg9oHMXzLl0</id>
-        <link href="https://www.youtube.com/shorts/rg9oHMXzLl0"/>
-        <updated>2026-06-26T19:06:59.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built The Same App with Every LLM]]></title>
-        <id>https://www.youtube.com/watch?v=Amd6DmoV4NY</id>
-        <link href="https://www.youtube.com/watch?v=Amd6DmoV4NY"/>
-        <updated>2026-06-26T18:42:26.000Z</updated>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your AI App Has a Hole in It Right Now]]></title>
-        <id>https://www.thevccorner.com/p/ai-app-security-checklist-builders-launch-2026</id>
-        <link href="https://www.thevccorner.com/p/ai-app-security-checklist-builders-launch-2026"/>
-        <updated>2026-06-26T17:40:19.000Z</updated>
-        <summary type="html"><![CDATA[The security checklist with copy-paste prompts most builders only find after something breaks]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Local LLM to Tool-Using Agent]]></title>
-        <id>https://towardsdatascience.com/?p=609528</id>
-        <link href="https://towardsdatascience.com/from-local-llm-to-tool-using-agent/"/>
-        <updated>2026-06-26T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Using Gemma 4, Ollama, OpenAI Agents SDK, and Tavily MCP to build a lightweight research agent
-The post From Local LLM to Tool-Using Agent appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Shuai Guo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Water Cooler Small Talk, Ep. 11: Overfitting in RAG evaluation]]></title>
-        <id>https://towardsdatascience.com/?p=609526</id>
-        <link href="https://towardsdatascience.com/water-cooler-small-talk-ep-11-overfitting-in-rag-evaluation/"/>
-        <updated>2026-06-26T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Why memorizing for the exam doesn't mean you understand the subject
-The post Water Cooler Small Talk, Ep. 11: Overfitting in RAG evaluation appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Maria Mouschoutzi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude got attacked]]></title>
-        <id>https://www.youtube.com/shorts/DOfwOVDKSSk</id>
-        <link href="https://www.youtube.com/shorts/DOfwOVDKSSk"/>
-        <updated>2026-06-26T14:18:02.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amplify the Expert: A Philosophy for Building Enterprise RAG]]></title>
-        <id>https://towardsdatascience.com/?p=609515</id>
-        <link href="https://towardsdatascience.com/amplify-the-expert-a-philosophy-for-building-enterprise-rag/"/>
-        <updated>2026-06-26T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #M1] - The thesis behind every architectural choice in this series
-The post Amplify the Expert: A Philosophy for Building Enterprise RAG appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>angela shi</name>
         </author>
     </entry>
 </feed>
