@@ -2,10 +2,122 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-07-31T01:21:09.923Z</updated>
+    <updated>2026-08-01T01:22:11.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Everything That Happened in AI Today (Friday, July 31, 2026)]]></title>
+        <id>https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-july-31-2026/</id>
+        <link href="https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-july-31-2026/"/>
+        <updated>2026-07-31T23:53:26.787Z</updated>
+        <summary type="html"><![CDATA[Anthropic’s cyber tests reached real systems; DeepSeek upgraded V4-Flash; Big Tech AI spending passed $1.1T; FrontisAI open-sourced a recursive ML stack; EU labeling rules took effect.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jack Dorsey's Buzz has left me completely speechless...]]></title>
+        <id>https://www.youtube.com/watch?v=RA0E_luzfBM</id>
+        <link href="https://www.youtube.com/watch?v=RA0E_luzfBM"/>
+        <updated>2026-07-31T17:00:18.000Z</updated>
+        <author>
+            <name>Alex Finn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 3× Token Bill We Didn’t See Coming]]></title>
+        <id>https://towardsdatascience.com/?p=610227</id>
+        <link href="https://towardsdatascience.com/the-3x-token-bill-we-didnt-see-coming/"/>
+        <updated>2026-07-31T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[How a seemingly harmless move to a multi-agent architecture quietly tripled our LLM costs and what actually fixed it.
+The post The 3× Token Bill We Didn’t See Coming appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Priyansh Bhardwaj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When the Code Becomes the CEO: Why Your Next Manager Might Be a Decentralized Agentic Loop]]></title>
+        <id>https://towardsdatascience.com/?p=610224</id>
+        <link href="https://towardsdatascience.com/when-the-code-becomes-the-ceo-why-your-next-manager-might-be-a-decentralized-agentic-loop/"/>
+        <updated>2026-07-31T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In five to ten years, the sharpest manager in your company might not be human, might not sleep, and might exist entirely in shared GPU memory. This is the systems-level view of the algorithmic corporation — why middle management collapses into a protocol, what breaks in the current AI stack, and what has to be built for autonomous agents to actually run a business.
+The post When the Code Becomes the CEO: Why Your Next Manager Might Be a Decentralized Agentic Loop appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Anubhab Banerjee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Debug AI Coding Agents When They Change the Wrong Thing]]></title>
+        <id>https://towardsdatascience.com/?p=610222</id>
+        <link href="https://towardsdatascience.com/how-to-debug-ai-coding-agents-when-they-change-the-wrong-thing/"/>
+        <updated>2026-07-31T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A practical tutorial for recording model tool requests, real function results, patches, checks, screenshots, and a saved run log.
+The post How to Debug AI Coding Agents When They Change the Wrong Thing appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Abdullahi Dattijo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Next AI Video Breakthrough Will Come From Learning From the Edit]]></title>
+        <id>https://medium.com/p/9b85aeadd4bd</id>
+        <link href="https://generativeai.pub/the-next-ai-video-breakthrough-will-come-from-learning-from-the-edit-9b85aeadd4bd?source=rss----440100e76000---4"/>
+        <updated>2026-07-31T12:59:23.000Z</updated>
+        <summary type="html"><![CDATA[Video models can already surprise us. The harder problem is capturing the long, messy path from reference image to usable clip.]]></summary>
+        <author>
+            <name>Alinpan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Agents Use Tools The Harness Explained]]></title>
+        <id>https://www.youtube.com/shorts/wAXfSXewYHg</id>
+        <link href="https://www.youtube.com/shorts/wAXfSXewYHg"/>
+        <updated>2026-07-31T12:00:30.000Z</updated>
+        <summary type="html"><![CDATA[How do AI agents actually use tools like web search? The model can't magically go online, it can only predict text. So when it wants to search, it outputs a ...]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Benders Decomposition Works Part I: Optimality Cuts]]></title>
+        <id>https://towardsdatascience.com/?p=610220</id>
+        <link href="https://towardsdatascience.com/how-benders-decomposition-works-part-i-optimality-cuts/"/>
+        <updated>2026-07-31T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A friendly introduction to one of the most powerfull optimization techniques using the uncapacitated facility location problem
+The post How Benders Decomposition Works Part I: Optimality Cuts appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Luis Fernando Pérez Armas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😸 Leopold’s $20B AI fund hit the leverage wall]]></title>
+        <id>https://www.theneuron.ai/newsletter/july-31-friday/</id>
+        <link href="https://www.theneuron.ai/newsletter/july-31-friday/"/>
+        <updated>2026-07-31T09:31:06.255Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teaching Machines to Remember: Episodic, Semantic, and Procedural Memory in LLM Agents]]></title>
+        <id>https://medium.com/p/e6a6aa2587cb</id>
+        <link href="https://generativeai.pub/teaching-machines-to-remember-episodic-semantic-and-procedural-memory-in-llm-agents-e6a6aa2587cb?source=rss----440100e76000---4"/>
+        <updated>2026-07-31T01:11:19.000Z</updated>
+        <summary type="html"><![CDATA[Why your AI agent forgets everything, and what real memory architectures do about it.]]></summary>
+        <author>
+            <name>Himanshu Kumar Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Publish an AI-Built iPhone App to the App Store]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/how-to-publish-an-ai-built-iphone-app-to-the-app-store/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/how-to-publish-an-ai-built-iphone-app-to-the-app-store/"/>
+        <updated>2026-07-31T00:44:28.397Z</updated>
+        <summary type="html"><![CDATA[AI can build a working prototype. Shipping it requires a release review, Apple credentials, signing, TestFlight, store materials, privacy disclosures, and App Review. Here is the beginner path from local project to public app.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPT-5.6 just made itself CHEAPER]]></title>
         <id>https://www.youtube.com/watch?v=wAPDmc8e22U</id>
@@ -5462,149 +5574,6 @@ Continue reading on Generative AI »]]></summary>
 The post Time-Series LLMs, Explained with t0-alpha appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Sean Moran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenClaw vs Hermes Agent: Which One Is Actually Better in 2026?]]></title>
-        <id>https://www.youtube.com/watch?v=86Dfgazdu-0</id>
-        <link href="https://www.youtube.com/watch?v=86Dfgazdu-0"/>
-        <updated>2026-07-02T13:00:04.000Z</updated>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI Portfolio Mistake That Kills Your Job Chances 2026]]></title>
-        <id>https://www.youtube.com/shorts/MfYL4RnkJFk</id>
-        <link href="https://www.youtube.com/shorts/MfYL4RnkJFk"/>
-        <updated>2026-07-02T12:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Untaught Lessons of RAG Question Parsing: Structure Before You Search]]></title>
-        <id>https://towardsdatascience.com/?p=609638</id>
-        <link href="https://towardsdatascience.com/the-untaught-lessons-of-rag-question-parsing-structure-before-you-search/"/>
-        <updated>2026-07-02T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #6ter] - Six positions on the question-parsing brick that contradict the mainstream RAG playbook
-The post The Untaught Lessons of RAG Question Parsing: Structure Before You Search appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>angela shi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😹 Fable 5 first reviews - TNA segments]]></title>
-        <id>https://www.theneuron.ai/newsletter/fable-5-first-reviews-tna-segments/</id>
-        <link href="https://www.theneuron.ai/newsletter/fable-5-first-reviews-tna-segments/"/>
-        <updated>2026-07-02T10:06:34.917Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😹 Fable 5 first reviews]]></title>
-        <id>https://www.theneuron.ai/newsletter/july-2-thursday/</id>
-        <link href="https://www.theneuron.ai/newsletter/july-2-thursday/"/>
-        <updated>2026-07-02T09:30:23.153Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI personality is a design problem]]></title>
-        <id>https://medium.com/p/58fbc7926a3d</id>
-        <link href="https://uxdesign.cc/ai-personality-is-a-design-problem-58fbc7926a3d?source=rss----138adf9c44c---4"/>
-        <updated>2026-07-02T05:09:06.000Z</updated>
-        <summary type="html"><![CDATA[Right now it’s an accidental byproduct of AI alignment. It could be an interface we build deliberately.
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Slava Polonski, PhD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Secretly Embedded Spyware in Claude Code to Target Chinese Users]]></title>
-        <id>https://medium.com/p/35f1442e4278</id>
-        <link href="https://generativeai.pub/anthropic-secretly-embedded-spyware-in-claude-code-to-target-chinese-users-35f1442e4278?source=rss----440100e76000---4"/>
-        <updated>2026-07-02T02:51:32.000Z</updated>
-        <summary type="html"><![CDATA[The company says it was an anti-abuse experiment meant to stop unauthorized resellers and model distillation. But hiding China-related…
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Jim Clyde Monge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Around the Horn Digest: Everything That Happened in AI Today (Thursday, July 2, 2026)]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-thursday-july-2-2026/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-thursday-july-2-2026/"/>
-        <updated>2026-07-02T00:22:24.994Z</updated>
-        <summary type="html"><![CDATA[Anthropic restored Fable 5 after a government-triggered shutdown; CAIS ranked Fable 5 first on real remote-work tasks; Meta moved to sell excess AI compute; xAI launched voice agents; NVIDIA pushed faster models and physical AI; plus a packed funding and agent-tools slate.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How designers need to change for an AI-powered world]]></title>
-        <id>https://medium.com/p/b51c3c195954</id>
-        <link href="https://uxdesign.cc/how-designers-need-to-change-for-an-ai-powered-world-b51c3c195954?source=rss----138adf9c44c---4"/>
-        <updated>2026-07-01T21:49:00.000Z</updated>
-        <summary type="html"><![CDATA[A recap of ideas from our panel discussion for a topic that’s on everyone’s mind
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Cassie McDaniel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk's 2007 Interview Predicted the Next 18 Years]]></title>
-        <id>https://www.thevccorner.com/p/elon-musk-2007-predictions</id>
-        <link href="https://www.thevccorner.com/p/elon-musk-2007-predictions"/>
-        <updated>2026-07-01T21:38:02.000Z</updated>
-        <summary type="html"><![CDATA[Before Tesla shipped a car or SpaceX reached orbit, the plan was already on tape]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fable 5 is BACK! Here are the first 8 things you need to do…]]></title>
-        <id>https://www.youtube.com/watch?v=A3fxKRsvh3U</id>
-        <link href="https://www.youtube.com/watch?v=A3fxKRsvh3U"/>
-        <updated>2026-07-01T21:21:21.000Z</updated>
-        <author>
-            <name>Alex Finn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Powerful ML Is Deceptively Easy — Part 2]]></title>
-        <id>https://towardsdatascience.com/?p=609635</id>
-        <link href="https://towardsdatascience.com/why-powerful-ml-is-deceptively-easy-part-2/"/>
-        <updated>2026-07-01T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The next leakage problem is not only temporal. It is spatial, structural, and coverage-related. AI-generated illustration created with DALL·E
-The post Why Powerful ML Is Deceptively Easy — Part 2 appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Erika Gomes-Gonçalves</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Persistent Latent Memory for Multi-Hop LLM Agents: How a 6G Handover Paper Closes the Agent Cold-Start]]></title>
-        <id>https://towardsdatascience.com/?p=609633</id>
-        <link href="https://towardsdatascience.com/persistent-latent-memory-for-multi-hop-llm-agents-how-a-6g-handover-paper-closes-the-agent-cold-start/"/>
-        <updated>2026-07-01T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Every hand-off in your multi-agent pipeline is an expensive tokenization round-trip. Discover how Inductive Latent Context Persistence (ILCP) transfers a compressed hidden state so downstream agents never have to re-create the same context.
-The post Persistent Latent Memory for Multi-Hop LLM Agents: How a 6G Handover Paper Closes the Agent Cold-Start appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Anubhab Banerjee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Can We Do When Memory Becomes the New Bottleneck in Data Engineering?]]></title>
-        <id>https://towardsdatascience.com/?p=609630</id>
-        <link href="https://towardsdatascience.com/when-memory-becomes-the-new-bottleneck-in-data-engineering-what-can-we-do/"/>
-        <updated>2026-07-01T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[How Pandas chunking, Dask, and Polars help process millions of records when adding more compute isn't an option.
-The post What Can We Do When Memory Becomes the New Bottleneck in Data Engineering? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Jiayan Yin</name>
         </author>
     </entry>
 </feed>
