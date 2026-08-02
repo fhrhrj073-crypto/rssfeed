@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=SM17ps6-gAY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SM17ps6-gAY",
+          "publishedOn": "2026-08-01T14:17:19.000Z",
+          "wordCount": null,
+          "title": "Ultimate Vibe Coding Guide for Beginners",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/N0tY9JXRi_A",
+          "author": null,
+          "description": "Do AI models actually have memory? No. On their own they store nothing, so ask a follow-up and the model forgets what you said unless it's inside the context...",
+          "link": "https://www.youtube.com/shorts/N0tY9JXRi_A",
+          "publishedOn": "2026-08-01T12:00:09.000Z",
+          "wordCount": 3327,
+          "title": "How Do AI Agents Remember It's Not What You Think",
+          "imageUrl": "https://i.ytimg.com/vi/N0tY9JXRi_A/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBWqihV_jpkSctsKlkpsy59bBhEwQ&usqp=CCk"
+        },
+        {
           "id": "https://www.youtube.com/shorts/wAXfSXewYHg",
           "author": null,
           "description": "How do AI agents actually use tools like web search? The model can't magically go online, it can only predict text. So when it wants to search, it outputs a ...",
@@ -453,16 +473,6 @@
           "publishedOn": "2026-07-04T12:00:38.000Z",
           "wordCount": 2157,
           "title": "Make Claude Code Way More Token Efficient",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/WgSTct_Zzxw",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/WgSTct_Zzxw",
-          "publishedOn": "2026-07-03T12:00:22.000Z",
-          "wordCount": 2145,
-          "title": "7 Mistakes to Avoid When Learning AI Engineering in 2026",
           "imageUrl": null
         }
       ]
@@ -1051,6 +1061,26 @@
       "siteUrl": "https://www.youtube.com/channel/UCwew_LjtIVo_MTwHM6ILNog",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/jLw28jT1qv4",
+          "author": null,
+          "description": "集中度猜不到下一段報酬，但會決定你的帳戶怎麼晃。當 ETF 六成壓在同一檔股票上，那家公司跳空，你的帳戶就會跟著跳。真正要想的不是猜漲跌，而是這種波動你抱不抱得住。#0050 #ETF #投資風險 #台積電",
+          "link": "https://www.youtube.com/shorts/jLw28jT1qv4",
+          "publishedOn": "2026-08-01T09:18:57.000Z",
+          "wordCount": 3045,
+          "title": "台積電一跳，0050 為什麼就跟著跳？",
+          "imageUrl": "https://i.ytimg.com/vi/jLw28jT1qv4/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBQLypsTZLGte1EeIgEbrGML4uuvQ"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gnTvszq_Ytw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=gnTvszq_Ytw",
+          "publishedOn": "2026-08-01T09:04:40.000Z",
+          "wordCount": null,
+          "title": "韓股熔斷是一記警報：0050 明明有 50 檔，為什麼只剩 2.7 檔？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/K_uLFEuugbo",
           "author": null,
           "description": "講完一堆好處，也講兩件現在還做不到的事。不是技術上沒辦法，是我還沒做。第一，它還不能做語義搜尋，現在走的是關鍵詞加權。人講同一件事常常換不同的詞，這種情況現在就有可能查不到。第二件在完整版裡。先講清楚做不到什麼，你才知道它做得到什麼。#AI第二大腦 #語義搜尋 #RAG #知識管理 #AIAgent #工程師誠實",
@@ -1610,6 +1640,22 @@
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
         {
+          "id": "https://www.lennysnewsletter.com/p/community-wisdom-getting-started",
+          "author": "Kiyani",
+          "description": "Community Wisdom 195",
+          "link": "https://www.lennysnewsletter.com/p/community-wisdom-getting-started",
+          "publishedOn": "2026-08-01T17:25:18.000Z",
+          "wordCount": null,
+          "title": "🧠 Community Wisdom: Getting started with open source models, making a U.S. business trip worth it, preparing for a possible layoff, when marketing can’t keep up with product, and more",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png"
+        },
+        {
           "id": "https://www.lennysnewsletter.com/p/productpass-summer2026launch",
           "author": "Lenny Rachitsky",
           "description": "Runway, Higgsfield, Waking Up, Brain.fm, Customer.io, Resend, Pangram, Mercury Personal, Supercut, Readwise, and Jam are joining Product Pass today, all included with Annual and Insider memberships",
@@ -1985,6 +2031,22 @@
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
         {
+          "id": "https://www.thevccorner.com/p/375-prompt-book-fundraising-2026",
+          "author": "Ruben Dominguez",
+          "description": "The research and outreach layer of a raise, finding investors, vetting fit, writing the outreach, rebuilt as 375 copy-paste prompts.",
+          "link": "https://www.thevccorner.com/p/375-prompt-book-fundraising-2026",
+          "publishedOn": "2026-08-01T17:22:50.000Z",
+          "wordCount": null,
+          "title": "The 375 Prompt Book for Fundraising",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!gX1E!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53cd6785-4ceb-4a61-bbe5-1b3d8b98d926_1272x638.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!gX1E!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53cd6785-4ceb-4a61-bbe5-1b3d8b98d926_1272x638.webp"
+        },
+        {
           "id": "https://www.thevccorner.com/p/sam-altman-singularity-10-rules-founders-2026",
           "author": "Ruben Dominguez",
           "description": "A two-week-old startup just did a year's worth of work, and Sam Altman says that's the new baseline, not the exception.",
@@ -2319,22 +2381,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!8DtW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a594972-4a61-42dc-85a7-48736dd06783_1600x707.png"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/the-new-saas-playbook-ai-agent-era",
-          "author": "Ruben Dominguez",
-          "description": "SaaS just got demoted from the prize to the packaging and the value moved somewhere else entirely.",
-          "link": "https://www.thevccorner.com/p/the-new-saas-playbook-ai-agent-era",
-          "publishedOn": "2026-07-02T14:16:11.000Z",
-          "wordCount": null,
-          "title": "This Is the New SaaS Playbook",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/52531c0b-7f06-4cba-937c-504ab2c46d72_1600x1050.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/52531c0b-7f06-4cba-937c-504ab2c46d72_1600x1050.webp"
         }
       ]
     },
@@ -3112,26 +3158,6 @@
           "wordCount": null,
           "title": "😸 Build something real with Fable",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/openai-may-give-uncle-sam-5/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/openai-may-give-uncle-sam-5/",
-          "publishedOn": "2026-07-03T09:32:25.187Z",
-          "wordCount": null,
-          "title": "😸 OpenAI may give Uncle Sam 5%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-friday-july-3-2026/",
-          "author": null,
-          "description": "OpenAI reportedly discussed a U.S. government stake; Anthropic reportedly explored custom chips with Samsung; Microsoft pushed Frontier Company, Copilot cleanup, and Memora; NVIDIA, SoftBank, Kling, Tripo, ElevenLabs, and Cloudflare reshaped the AI infrastructure and content-access fight; and a huge crop of agent, robotics, memory, benchmark, coding, and developer tools pushed the stack forward.",
-          "link": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-friday-july-3-2026/",
-          "publishedOn": "2026-07-03T01:14:48.656Z",
-          "wordCount": null,
-          "title": "Everything That Happened in AI Today (Friday, July 3, 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -3140,6 +3166,26 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=610231",
+          "author": "Emmimal P Alexander",
+          "description": "Most coding agents treat prompt construction like retrieval: gather more files, add more context, hope the model figures it out. But that approach breaks down fast. As context grows, irrelevant code competes for attention, and when the window fills, agents start compressing their own memory—often mid-task. What looks like “forgetting” is usually just degraded context. This article explores a different approach: treating prompt construction like a compiler that decides what to keep, what to reduce, and what to discard entirely.\nThe post Coding Agents Don’t Need Bigger Context Windows — They Need a Context Compiler appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/coding-agents-dont-need-bigger-context-windows-they-need-a-context-compiler/",
+          "publishedOn": "2026-08-01T15:00:00.000Z",
+          "wordCount": 5843,
+          "title": "Coding Agents Don’t Need Bigger Context Windows — They Need a Context Compiler",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/Context-Compiler.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610229",
+          "author": "Shuai Guo",
+          "description": "A hybrid LLM application pattern that combines a predefined workflow with adaptive agent behavior\nThe post Put the Agent Inside the Workflow appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/put-the-agent-inside-the-workflow/",
+          "publishedOn": "2026-08-01T13:00:00.000Z",
+          "wordCount": 4526,
+          "title": "Put the Agent Inside the Workflow",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/workflow_agent_hybrid.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=610227",
           "author": "Priyansh Bhardwaj",
@@ -4189,46 +4235,6 @@
           "wordCount": 6328,
           "title": "LLM Wikis Are Over-Engineered — I Replaced Mine With a Pure Python Compiler",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/LLM-Wikis.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609657",
-          "author": "Kezhan Shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #7ter] - Six positions on the retrieval brick that contradict the cosine-first reflex of mainstream RAG\nThe post The Untaught Lessons of RAG Retrieval: Cosine Is Not the Foundation appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-untaught-lessons-of-rag-retrieval-cosine-is-not-the-foundation/",
-          "publishedOn": "2026-07-03T12:00:00.000Z",
-          "wordCount": 4376,
-          "title": "The Untaught Lessons of RAG Retrieval: Cosine Is Not the Foundation",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/card_catalog_kAQo6CJCPN4_v3_card.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609644",
-          "author": "Sam Black",
-          "description": "Tokenmaxxing is out. Real patterns for reducing costs without sacrificing AI effectiveness\nThe post Tokenminning: How to Get More from Your Chatbot for Less appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/tokenminning-how-to-get-more-from-your-chatbot-for-less/",
-          "publishedOn": "2026-07-02T16:30:00.000Z",
-          "wordCount": 5573,
-          "title": "Tokenminning: How to Get More from Your Chatbot for Less",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/2c944596-ee19-4d0f-a2e3-a0512ba2d347-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609642",
-          "author": "Javier Marin",
-          "description": "But don't let the model check itself\nThe post Design Loops, Not Prompts appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/design-loops-not-prompts/",
-          "publishedOn": "2026-07-02T15:00:00.000Z",
-          "wordCount": 4818,
-          "title": "Design Loops, Not Prompts",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/TDS_pipeline-02.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609640",
-          "author": "Sean Moran",
-          "description": "t0-alpha is a decoder-style patch transformer for probabilistic time-series forecasting. Raw series are split into 32-step patches, embedded, processed through causal time-attention and group-attention layers, and decoded into future quantiles rather than a single point forecast.\nThe post Time-Series LLMs, Explained with t0-alpha appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/time-series-llms-explained-with-t0-alpha/",
-          "publishedOn": "2026-07-02T13:30:00.000Z",
-          "wordCount": 6531,
-          "title": "Time-Series LLMs, Explained with t0-alpha",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/1EbQFHX9U1sZLOBsmYnv1Mg-scaled-copy.jpg"
         }
       ]
     },
@@ -4243,6 +4249,36 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/9cdb67722d03",
+          "author": "Zeeshan Khalid",
+          "description": "Your boarding pass has been sitting in that app for three days. But right now, as you sprint through Terminal 5, it’s the last thing you…\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/why-airlines-are-finally-waking-up-to-context-aware-design-9cdb67722d03?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-08-01T17:17:38.000Z",
+          "wordCount": 1940,
+          "title": "Why airlines are finally waking up to context-aware design",
+          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*f747OZL4UEmBCN2J"
+        },
+        {
+          "id": "https://medium.com/p/cad28cbe7bad",
+          "author": "Theresa-Marie Rhyne",
+          "description": "Building data color schemes with Generative AI.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/perplexity-diverges-with-color-cad28cbe7bad?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-08-01T02:47:36.000Z",
+          "wordCount": 1970,
+          "title": "Perplexity diverges with color",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*2Uyw7GVZYWxyrQo80EZtYA.png"
+        },
+        {
+          "id": "https://medium.com/p/4fcfaa3cf2f6",
+          "author": "Ioana Adriana Teleanu",
+          "description": "Once an obscure job title, creative technology is becoming a new way of working, and a core capability inside modern product teams. Soon…",
+          "link": "https://uxdesign.cc/creative-technologists-are-moving-from-the-margins-to-the-center-4fcfaa3cf2f6?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-08-01T02:44:37.000Z",
+          "wordCount": 7106,
+          "title": "Creative Technologists are moving from the margins to the center",
+          "imageUrl": "https://miro.medium.com/v2/resize:fill:1200:632/g:fp:0.5:0.65/1*_ljUGVuohH1v0usJ-TpBCQ.png"
+        },
         {
           "id": "https://medium.com/p/d8ebc9a727db",
           "author": "Patrick Neeman",
@@ -4872,36 +4908,6 @@
           "wordCount": 8257,
           "title": "Never mind the prompts, here’s the thinking",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*X2hy8ttpHSixu9HsPJke1w.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/954a4084175f",
-          "author": "Christine Vallaure",
-          "description": "A beginner’s guide through the AI pipeline fog",
-          "link": "https://uxdesign.cc/you-design-it-then-what-a-clear-map-of-the-figma-to-code-ai-mess-954a4084175f?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-07-03T11:17:14.000Z",
-          "wordCount": 8369,
-          "title": "You design it. Then what? A clear map of the Figma-to-code AI mess",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*o-Oilskerz46L2jpF9kvxQ.png"
-        },
-        {
-          "id": "https://medium.com/p/546438288589",
-          "author": "Michael Buckley",
-          "description": "Why making it easier to apply may have made it harder to get hired.",
-          "link": "https://uxdesign.cc/did-good-ux-break-the-job-market-546438288589?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-07-03T11:16:44.000Z",
-          "wordCount": 2816,
-          "title": "Did good UX break the job market?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*55ZQe0ZqnB009-0Qt-6Gkw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/a0baca87994e",
-          "author": "Patrick Neeman",
-          "description": "Nobody builds with one model anymore. Here is the stack I reach for, tool by tool, with the one trick that makes each earn its place.",
-          "link": "https://uxdesign.cc/the-seven-ai-tools-i-actually-use-and-when-june-2026-edition-a0baca87994e?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-07-03T03:56:18.000Z",
-          "wordCount": 7012,
-          "title": "The seven AI tools I actually use and when",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*rVzBRTEirr5aOfxEOErgpw.png"
         }
       ]
     },
@@ -4954,16 +4960,6 @@
           "publishedOn": "2026-07-09T17:20:34.000Z",
           "wordCount": 1871,
           "title": "The Pulse: Interesting AI coding stats from Cursor",
-          "imageUrl": null
-        },
-        {
-          "id": "6a46b160d2d7770001b1479c",
-          "author": "Gergely Orosz",
-          "description": "Are there any ‘intelligent’ router solutions out there which select the right model for the right task? I looked into it, and there are a few options.",
-          "link": "https://blog.pragmaticengineer.com/the-pulse-a-new-trend-smart-model-routing/",
-          "publishedOn": "2026-07-02T18:46:24.000Z",
-          "wordCount": 1500,
-          "title": "The Pulse: a new trend, smart model routing",
           "imageUrl": null
         }
       ]
@@ -5832,76 +5828,6 @@
           "wordCount": 12638,
           "title": "Brace Yourself: ‘Vibe Management’ Is Coming (Spoiler: It’s Not the Programmers Who Should Worry)",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Iq5dpOQz3Jztonv51hr1zQ.png"
-        },
-        {
-          "id": "https://medium.com/p/5ab39ceb5893",
-          "author": "Algorithm Alchemist",
-          "description": "For many years, software development followed a familiar process.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/ai-product-engineers-how-ai-is-changing-the-future-of-software-engineering-5ab39ceb5893?source=rss----440100e76000---4",
-          "publishedOn": "2026-07-02T15:07:54.000Z",
-          "wordCount": 1501,
-          "title": "AI Product Engineers: How AI Is Changing the Future of Software Engineering",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*1R7_TKWRADJy3UOIlwpKYQ.png"
-        },
-        {
-          "id": "https://medium.com/p/94846dbb975f",
-          "author": "Dirk Michel",
-          "description": "How the AI-DLC changes the operational architecture by shipping runtime agents.",
-          "link": "https://generativeai.pub/runtime-agents-the-missing-piece-of-ai-dlc-94846dbb975f?source=rss----440100e76000---4",
-          "publishedOn": "2026-07-02T15:07:15.000Z",
-          "wordCount": 8244,
-          "title": "Runtime Agents: The missing piece of AI-DLC",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*uh_7ot09DH_HEXxwWtM2IA.png"
-        },
-        {
-          "id": "https://medium.com/p/63f628a2e34d",
-          "author": "Abe Kulmiye",
-          "description": "Speculative decoding is a rare thing in machine learning, a speed-up with no cost to output quality. Here is how it works, and how EAGLE-3…",
-          "link": "https://generativeai.pub/predicting-possible-futures-faster-llm-decoding-for-free-how-eagle-3-speeds-up-generation-63f628a2e34d?source=rss----440100e76000---4",
-          "publishedOn": "2026-07-02T15:06:18.000Z",
-          "wordCount": 5597,
-          "title": "Predicting Possible Futures = Faster LLM decoding for free: how EAGLE-3 speeds up generation…",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*xxogblQb_Of4x0M0NFQ5vQ.png"
-        },
-        {
-          "id": "https://medium.com/p/8b1a2542e24f",
-          "author": "Stanislav Lvovsky",
-          "description": "Roughly 70% of the hidden instructions found on the web sit in plain sight. Just not ours",
-          "link": "https://generativeai.pub/someone-left-a-note-for-your-assistant-8b1a2542e24f?source=rss----440100e76000---4",
-          "publishedOn": "2026-07-02T14:59:36.000Z",
-          "wordCount": 4920,
-          "title": "Someone Left a Note for Your Assistant",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*olZyEN6Bbjzxf7P1NbTBqg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/ca2874554374",
-          "author": "Dr. Leon Eversberg",
-          "description": "Google’s SynthID technology embeds invisible digital watermarks into AI-generated content. It can verify if text, images, videos, or audio…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/detect-ai-generated-text-synthid-ca2874554374?source=rss----440100e76000---4",
-          "publishedOn": "2026-07-02T14:58:53.000Z",
-          "wordCount": 1510,
-          "title": "How To Detect AI-Generated Text with Google’s SynthID Watermarking",
-          "imageUrl": "https://miro.medium.com/v2/resize:fill:1200:632/g:fp:0.5:0.5/1*gfMmWGCLBlMq2cUVVEo35A.png"
-        },
-        {
-          "id": "https://medium.com/p/0dbe760b9fb2",
-          "author": "Monica Mock-Sipos",
-          "description": "If you’re still wiring up apps the old way, you’re building for yesterday’s problems.",
-          "link": "https://generativeai.pub/why-model-context-protocol-and-agentic-workflows-are-shaking-up-how-we-build-apps-0dbe760b9fb2?source=rss----440100e76000---4",
-          "publishedOn": "2026-07-02T14:56:10.000Z",
-          "wordCount": 7883,
-          "title": "Why Model Context Protocol and Agentic Workflows Are Shaking Up How We Build Apps",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*aBPmJrQyNyBZGOCYLEw8WQ.png"
-        },
-        {
-          "id": "https://medium.com/p/159eb3e4e387",
-          "author": "Rafe Brena, Ph.D.",
-          "description": "They are cuter, too.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/dogs-are-closer-to-consciousness-than-ai-159eb3e4e387?source=rss----440100e76000---4",
-          "publishedOn": "2026-07-02T14:54:49.000Z",
-          "wordCount": 1485,
-          "title": "Dogs are closer to consciousness than AI",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*S3RdREFccPKbd0qv"
         }
       ]
     }

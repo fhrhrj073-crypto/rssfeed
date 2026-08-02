@@ -2,10 +2,122 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-08-01T01:22:11.127Z</updated>
+    <updated>2026-08-02T01:19:55.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🧠 Community Wisdom: Getting started with open source models, making a U.S. business trip worth it, preparing for a possible layoff, when marketing can’t keep up with product, and more]]></title>
+        <id>https://www.lennysnewsletter.com/p/community-wisdom-getting-started</id>
+        <link href="https://www.lennysnewsletter.com/p/community-wisdom-getting-started"/>
+        <updated>2026-08-01T17:25:18.000Z</updated>
+        <summary type="html"><![CDATA[Community Wisdom 195]]></summary>
+        <author>
+            <name>Kiyani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 375 Prompt Book for Fundraising]]></title>
+        <id>https://www.thevccorner.com/p/375-prompt-book-fundraising-2026</id>
+        <link href="https://www.thevccorner.com/p/375-prompt-book-fundraising-2026"/>
+        <updated>2026-08-01T17:22:50.000Z</updated>
+        <summary type="html"><![CDATA[The research and outreach layer of a raise, finding investors, vetting fit, writing the outreach, rebuilt as 375 copy-paste prompts.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why airlines are finally waking up to context-aware design]]></title>
+        <id>https://medium.com/p/9cdb67722d03</id>
+        <link href="https://uxdesign.cc/why-airlines-are-finally-waking-up-to-context-aware-design-9cdb67722d03?source=rss----138adf9c44c---4"/>
+        <updated>2026-08-01T17:17:38.000Z</updated>
+        <summary type="html"><![CDATA[Your boarding pass has been sitting in that app for three days. But right now, as you sprint through Terminal 5, it’s the last thing you…
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Zeeshan Khalid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coding Agents Don’t Need Bigger Context Windows — They Need a Context Compiler]]></title>
+        <id>https://towardsdatascience.com/?p=610231</id>
+        <link href="https://towardsdatascience.com/coding-agents-dont-need-bigger-context-windows-they-need-a-context-compiler/"/>
+        <updated>2026-08-01T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most coding agents treat prompt construction like retrieval: gather more files, add more context, hope the model figures it out. But that approach breaks down fast. As context grows, irrelevant code competes for attention, and when the window fills, agents start compressing their own memory—often mid-task. What looks like “forgetting” is usually just degraded context. This article explores a different approach: treating prompt construction like a compiler that decides what to keep, what to reduce, and what to discard entirely.
+The post Coding Agents Don’t Need Bigger Context Windows — They Need a Context Compiler appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Emmimal P Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultimate Vibe Coding Guide for Beginners]]></title>
+        <id>https://www.youtube.com/watch?v=SM17ps6-gAY</id>
+        <link href="https://www.youtube.com/watch?v=SM17ps6-gAY"/>
+        <updated>2026-08-01T14:17:19.000Z</updated>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Put the Agent Inside the Workflow]]></title>
+        <id>https://towardsdatascience.com/?p=610229</id>
+        <link href="https://towardsdatascience.com/put-the-agent-inside-the-workflow/"/>
+        <updated>2026-08-01T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A hybrid LLM application pattern that combines a predefined workflow with adaptive agent behavior
+The post Put the Agent Inside the Workflow appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Shuai Guo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Do AI Agents Remember It's Not What You Think]]></title>
+        <id>https://www.youtube.com/shorts/N0tY9JXRi_A</id>
+        <link href="https://www.youtube.com/shorts/N0tY9JXRi_A"/>
+        <updated>2026-08-01T12:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Do AI models actually have memory? No. On their own they store nothing, so ask a follow-up and the model forgets what you said unless it's inside the context...]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台積電一跳，0050 為什麼就跟著跳？]]></title>
+        <id>https://www.youtube.com/shorts/jLw28jT1qv4</id>
+        <link href="https://www.youtube.com/shorts/jLw28jT1qv4"/>
+        <updated>2026-08-01T09:18:57.000Z</updated>
+        <summary type="html"><![CDATA[集中度猜不到下一段報酬，但會決定你的帳戶怎麼晃。當 ETF 六成壓在同一檔股票上，那家公司跳空，你的帳戶就會跟著跳。真正要想的不是猜漲跌，而是這種波動你抱不抱得住。#0050 #ETF #投資風險 #台積電]]></summary>
+        <author>
+            <name>追日Gucci-AI效率革命聯盟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韓股熔斷是一記警報：0050 明明有 50 檔，為什麼只剩 2.7 檔？]]></title>
+        <id>https://www.youtube.com/watch?v=gnTvszq_Ytw</id>
+        <link href="https://www.youtube.com/watch?v=gnTvszq_Ytw"/>
+        <updated>2026-08-01T09:04:40.000Z</updated>
+        <author>
+            <name>追日Gucci-AI效率革命聯盟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perplexity diverges with color]]></title>
+        <id>https://medium.com/p/cad28cbe7bad</id>
+        <link href="https://uxdesign.cc/perplexity-diverges-with-color-cad28cbe7bad?source=rss----138adf9c44c---4"/>
+        <updated>2026-08-01T02:47:36.000Z</updated>
+        <summary type="html"><![CDATA[Building data color schemes with Generative AI.
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Theresa-Marie Rhyne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creative Technologists are moving from the margins to the center]]></title>
+        <id>https://medium.com/p/4fcfaa3cf2f6</id>
+        <link href="https://uxdesign.cc/creative-technologists-are-moving-from-the-margins-to-the-center-4fcfaa3cf2f6?source=rss----138adf9c44c---4"/>
+        <updated>2026-08-01T02:44:37.000Z</updated>
+        <summary type="html"><![CDATA[Once an obscure job title, creative technology is becoming a new way of working, and a core capability inside modern product teams. Soon…]]></summary>
+        <author>
+            <name>Ioana Adriana Teleanu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Everything That Happened in AI Today (Friday, July 31, 2026)]]></title>
         <id>https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-july-31-2026/</id>
@@ -5378,202 +5490,6 @@ The post Long Context vs. Short Context Model: When Does a Long Context Model Wi
 The post LLM Wikis Are Over-Engineered — I Replaced Mine With a Pure Python Compiler appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Emmimal P Alexander</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Mistakes to Avoid When Learning AI Engineering in 2026]]></title>
-        <id>https://www.youtube.com/shorts/WgSTct_Zzxw</id>
-        <link href="https://www.youtube.com/shorts/WgSTct_Zzxw"/>
-        <updated>2026-07-03T12:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Untaught Lessons of RAG Retrieval: Cosine Is Not the Foundation]]></title>
-        <id>https://towardsdatascience.com/?p=609657</id>
-        <link href="https://towardsdatascience.com/the-untaught-lessons-of-rag-retrieval-cosine-is-not-the-foundation/"/>
-        <updated>2026-07-03T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #7ter] - Six positions on the retrieval brick that contradict the cosine-first reflex of mainstream RAG
-The post The Untaught Lessons of RAG Retrieval: Cosine Is Not the Foundation appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Kezhan Shi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You design it. Then what? A clear map of the Figma-to-code AI mess]]></title>
-        <id>https://medium.com/p/954a4084175f</id>
-        <link href="https://uxdesign.cc/you-design-it-then-what-a-clear-map-of-the-figma-to-code-ai-mess-954a4084175f?source=rss----138adf9c44c---4"/>
-        <updated>2026-07-03T11:17:14.000Z</updated>
-        <summary type="html"><![CDATA[A beginner’s guide through the AI pipeline fog]]></summary>
-        <author>
-            <name>Christine Vallaure</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did good UX break the job market?]]></title>
-        <id>https://medium.com/p/546438288589</id>
-        <link href="https://uxdesign.cc/did-good-ux-break-the-job-market-546438288589?source=rss----138adf9c44c---4"/>
-        <updated>2026-07-03T11:16:44.000Z</updated>
-        <summary type="html"><![CDATA[Why making it easier to apply may have made it harder to get hired.]]></summary>
-        <author>
-            <name>Michael Buckley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😸 OpenAI may give Uncle Sam 5%]]></title>
-        <id>https://www.theneuron.ai/newsletter/openai-may-give-uncle-sam-5/</id>
-        <link href="https://www.theneuron.ai/newsletter/openai-may-give-uncle-sam-5/"/>
-        <updated>2026-07-03T09:32:25.187Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The seven AI tools I actually use and when]]></title>
-        <id>https://medium.com/p/a0baca87994e</id>
-        <link href="https://uxdesign.cc/the-seven-ai-tools-i-actually-use-and-when-june-2026-edition-a0baca87994e?source=rss----138adf9c44c---4"/>
-        <updated>2026-07-03T03:56:18.000Z</updated>
-        <summary type="html"><![CDATA[Nobody builds with one model anymore. Here is the stack I reach for, tool by tool, with the one trick that makes each earn its place.]]></summary>
-        <author>
-            <name>Patrick Neeman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything That Happened in AI Today (Friday, July 3, 2026)]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-friday-july-3-2026/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-friday-july-3-2026/"/>
-        <updated>2026-07-03T01:14:48.656Z</updated>
-        <summary type="html"><![CDATA[OpenAI reportedly discussed a U.S. government stake; Anthropic reportedly explored custom chips with Samsung; Microsoft pushed Frontier Company, Copilot cleanup, and Memora; NVIDIA, SoftBank, Kling, Tripo, ElevenLabs, and Cloudflare reshaped the AI infrastructure and content-access fight; and a huge crop of agent, robotics, memory, benchmark, coding, and developer tools pushed the stack forward.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pulse: a new trend, smart model routing]]></title>
-        <id>6a46b160d2d7770001b1479c</id>
-        <link href="https://blog.pragmaticengineer.com/the-pulse-a-new-trend-smart-model-routing/"/>
-        <updated>2026-07-02T18:46:24.000Z</updated>
-        <summary type="html"><![CDATA[Are there any ‘intelligent’ router solutions out there which select the right model for the right task? I looked into it, and there are a few options.]]></summary>
-        <author>
-            <name>Gergely Orosz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tokenminning: How to Get More from Your Chatbot for Less]]></title>
-        <id>https://towardsdatascience.com/?p=609644</id>
-        <link href="https://towardsdatascience.com/tokenminning-how-to-get-more-from-your-chatbot-for-less/"/>
-        <updated>2026-07-02T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Tokenmaxxing is out. Real patterns for reducing costs without sacrificing AI effectiveness
-The post Tokenminning: How to Get More from Your Chatbot for Less appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sam Black</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Product Engineers: How AI Is Changing the Future of Software Engineering]]></title>
-        <id>https://medium.com/p/5ab39ceb5893</id>
-        <link href="https://generativeai.pub/ai-product-engineers-how-ai-is-changing-the-future-of-software-engineering-5ab39ceb5893?source=rss----440100e76000---4"/>
-        <updated>2026-07-02T15:07:54.000Z</updated>
-        <summary type="html"><![CDATA[For many years, software development followed a familiar process.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Algorithm Alchemist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Runtime Agents: The missing piece of AI-DLC]]></title>
-        <id>https://medium.com/p/94846dbb975f</id>
-        <link href="https://generativeai.pub/runtime-agents-the-missing-piece-of-ai-dlc-94846dbb975f?source=rss----440100e76000---4"/>
-        <updated>2026-07-02T15:07:15.000Z</updated>
-        <summary type="html"><![CDATA[How the AI-DLC changes the operational architecture by shipping runtime agents.]]></summary>
-        <author>
-            <name>Dirk Michel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Predicting Possible Futures = Faster LLM decoding for free: how EAGLE-3 speeds up generation…]]></title>
-        <id>https://medium.com/p/63f628a2e34d</id>
-        <link href="https://generativeai.pub/predicting-possible-futures-faster-llm-decoding-for-free-how-eagle-3-speeds-up-generation-63f628a2e34d?source=rss----440100e76000---4"/>
-        <updated>2026-07-02T15:06:18.000Z</updated>
-        <summary type="html"><![CDATA[Speculative decoding is a rare thing in machine learning, a speed-up with no cost to output quality. Here is how it works, and how EAGLE-3…]]></summary>
-        <author>
-            <name>Abe Kulmiye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design Loops, Not Prompts]]></title>
-        <id>https://towardsdatascience.com/?p=609642</id>
-        <link href="https://towardsdatascience.com/design-loops-not-prompts/"/>
-        <updated>2026-07-02T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[But don't let the model check itself
-The post Design Loops, Not Prompts appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Javier Marin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Someone Left a Note for Your Assistant]]></title>
-        <id>https://medium.com/p/8b1a2542e24f</id>
-        <link href="https://generativeai.pub/someone-left-a-note-for-your-assistant-8b1a2542e24f?source=rss----440100e76000---4"/>
-        <updated>2026-07-02T14:59:36.000Z</updated>
-        <summary type="html"><![CDATA[Roughly 70% of the hidden instructions found on the web sit in plain sight. Just not ours]]></summary>
-        <author>
-            <name>Stanislav Lvovsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Detect AI-Generated Text with Google’s SynthID Watermarking]]></title>
-        <id>https://medium.com/p/ca2874554374</id>
-        <link href="https://generativeai.pub/detect-ai-generated-text-synthid-ca2874554374?source=rss----440100e76000---4"/>
-        <updated>2026-07-02T14:58:53.000Z</updated>
-        <summary type="html"><![CDATA[Google’s SynthID technology embeds invisible digital watermarks into AI-generated content. It can verify if text, images, videos, or audio…
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Dr. Leon Eversberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Model Context Protocol and Agentic Workflows Are Shaking Up How We Build Apps]]></title>
-        <id>https://medium.com/p/0dbe760b9fb2</id>
-        <link href="https://generativeai.pub/why-model-context-protocol-and-agentic-workflows-are-shaking-up-how-we-build-apps-0dbe760b9fb2?source=rss----440100e76000---4"/>
-        <updated>2026-07-02T14:56:10.000Z</updated>
-        <summary type="html"><![CDATA[If you’re still wiring up apps the old way, you’re building for yesterday’s problems.]]></summary>
-        <author>
-            <name>Monica Mock-Sipos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dogs are closer to consciousness than AI]]></title>
-        <id>https://medium.com/p/159eb3e4e387</id>
-        <link href="https://generativeai.pub/dogs-are-closer-to-consciousness-than-ai-159eb3e4e387?source=rss----440100e76000---4"/>
-        <updated>2026-07-02T14:54:49.000Z</updated>
-        <summary type="html"><![CDATA[They are cuter, too.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Rafe Brena, Ph.D.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Is the New SaaS Playbook]]></title>
-        <id>https://www.thevccorner.com/p/the-new-saas-playbook-ai-agent-era</id>
-        <link href="https://www.thevccorner.com/p/the-new-saas-playbook-ai-agent-era"/>
-        <updated>2026-07-02T14:16:11.000Z</updated>
-        <summary type="html"><![CDATA[SaaS just got demoted from the prize to the packaging and the value moved somewhere else entirely.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Time-Series LLMs, Explained with t0-alpha]]></title>
-        <id>https://towardsdatascience.com/?p=609640</id>
-        <link href="https://towardsdatascience.com/time-series-llms-explained-with-t0-alpha/"/>
-        <updated>2026-07-02T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[t0-alpha is a decoder-style patch transformer for probabilistic time-series forecasting. Raw series are split into 32-step patches, embedded, processed through causal time-attention and group-attention layers, and decoded into future quantiles rather than a single point forecast.
-The post Time-Series LLMs, Explained with t0-alpha appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sean Moran</name>
         </author>
     </entry>
 </feed>
