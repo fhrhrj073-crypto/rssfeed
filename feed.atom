@@ -2,10 +2,221 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-08-03T01:20:56.826Z</updated>
+    <updated>2026-08-04T01:12:33.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Open-source is WINNING]]></title>
+        <id>https://www.youtube.com/watch?v=CVlKp9Ld-Zg</id>
+        <link href="https://www.youtube.com/watch?v=CVlKp9Ld-Zg"/>
+        <updated>2026-08-04T00:51:26.000Z</updated>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[0050 明明有 50 檔，為什麼實質只剩 2.7 檔？]]></title>
+        <id>https://www.youtube.com/shorts/Sfo8E0zSZqI</id>
+        <link href="https://www.youtube.com/shorts/Sfo8E0zSZqI"/>
+        <updated>2026-08-04T00:00:39.000Z</updated>
+        <summary type="html"><![CDATA[分散投資不能只算數量，還要看每一檔的重量。一個籃子裡即使有 50 顆蛋，只要其中一顆就佔了六成，你拿的仍然是一顆主角，加上 49 顆配角。這也是為什麼 0050 的有效持股檔數，換算後不到三檔。完整算法、限制與風險，都放在長片：〈韓股熔斷是一記警報：0050 明明有 50 檔，為什麼只剩 2.7 檔？〉#0050...]]></summary>
+        <author>
+            <name>追日Gucci-AI效率革命聯盟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything That Happened in AI Today (Monday, August 3, 2026)]]></title>
+        <id>https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-august-3-2026/</id>
+        <link href="https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-august-3-2026/"/>
+        <updated>2026-08-03T23:59:41.175Z</updated>
+        <summary type="html"><![CDATA[OpenAI’s math breakthroughs and rogue-agent fallout led the day; Qwen and DeepSeek pushed cheaper Chinese models; new EU and California transparency rules took effect; AI infrastructure spending faced a fresh reckoning.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside OpenAI: The Operating Model That Makes 2 Engineers Beat 200]]></title>
+        <id>https://www.thevccorner.com/p/ai-native-product-operating-model-2026</id>
+        <link href="https://www.thevccorner.com/p/ai-native-product-operating-model-2026"/>
+        <updated>2026-08-03T17:28:17.000Z</updated>
+        <summary type="html"><![CDATA[Their Product Lead Rohan Varma on why AI-native companies out-build teams 10x their size.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prompt, Context, Loop: The Three Engineering Layers Every RAG System Is Built On]]></title>
+        <id>https://towardsdatascience.com/?p=610256</id>
+        <link href="https://towardsdatascience.com/prompt-context-loop-the-three-engineering-layers-every-rag-system-is-built-on/"/>
+        <updated>2026-08-03T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #M2] - Every RAG system is built in three engineering layers stacked on one LLM call: prompt (the call itself), context (what fills the model’s window), loop (when the next call fires and when it stops). Knowing which layer you are standing on is half of building and debugging RAG
+The post Prompt, Context, Loop: The Three Engineering Layers Every RAG System Is Built On appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>angela shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎙️ How I AI: ChatGPT Codex Voice + browser + Sites: an expert’s AI workflow | Nick Baumann (OpenAI)]]></title>
+        <id>https://www.lennysnewsletter.com/p/how-i-ai-chatgpt-codex-voice-browser</id>
+        <link href="https://www.lennysnewsletter.com/p/how-i-ai-chatgpt-codex-voice-browser"/>
+        <updated>2026-08-03T15:02:21.000Z</updated>
+        <summary type="html"><![CDATA[Your weekly listens from How I AI, part of the Lenny's Podcast Network]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build CLI Agents with Python & Ollama]]></title>
+        <id>https://towardsdatascience.com/?p=610254</id>
+        <link href="https://towardsdatascience.com/cli-agents-with-python-ollama/"/>
+        <updated>2026-08-03T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Create a local CLI Agent from scratch completely for free
+The post How to Build CLI Agents with Python & Ollama appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Mauro Di Pietro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python in 2026: Honest Truth About Learning It Now]]></title>
+        <id>https://www.youtube.com/watch?v=Kuur0L7E9rQ</id>
+        <link href="https://www.youtube.com/watch?v=Kuur0L7E9rQ"/>
+        <updated>2026-08-03T14:05:25.000Z</updated>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI Was the Easy Part: What Is a Forward-Deployed Engineer in a Supply Chain?]]></title>
+        <id>https://towardsdatascience.com/?p=610251</id>
+        <link href="https://towardsdatascience.com/the-ai-was-the-easy-part-what-is-a-forward-deployed-engineer-in-a-supply-chain/"/>
+        <updated>2026-08-03T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[What actually makes a Forward Deployed Engineer, told through one supply chain project.
+The post The AI Was the Easy Part: What Is a Forward-Deployed Engineer in a Supply Chain? appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Samir Saci</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Silent AI War Nobody Saw Coming.]]></title>
+        <id>https://medium.com/p/8a48463f93ca</id>
+        <link href="https://generativeai.pub/the-silent-ai-war-nobody-saw-coming-8a48463f93ca?source=rss----440100e76000---4"/>
+        <updated>2026-08-03T12:43:31.000Z</updated>
+        <summary type="html"><![CDATA[How an AI-driven breach exposed the dangerous limits of corporate guardrails.]]></summary>
+        <author>
+            <name>BhavaniKumarKalavakunta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI Revolution Is Happening Faster Than Most People Realize.]]></title>
+        <id>https://medium.com/p/bd858a421073</id>
+        <link href="https://generativeai.pub/the-ai-revolution-is-happening-faster-than-most-people-realize-bd858a421073?source=rss----440100e76000---4"/>
+        <updated>2026-08-03T12:31:31.000Z</updated>
+        <summary type="html"><![CDATA[How smarter AI workflows are redefining productivity, creativity, and success in 2026.]]></summary>
+        <author>
+            <name>Global AI Intelligence</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT Codex Voice + browser + Sites: an expert’s AI workflow | Nick Baumann (OpenAI)]]></title>
+        <id>https://www.lennysnewsletter.com/p/chatgpt-codex-voice-browser-sites</id>
+        <link href="https://www.lennysnewsletter.com/p/chatgpt-codex-voice-browser-sites"/>
+        <updated>2026-08-03T12:04:26.000Z</updated>
+        <summary type="html"><![CDATA[Watch now | 🎙️ChatGPT Voice now manages multiple threads, reads your screen, and runs background tasks, and Nick Baumann walks me through the whole workflow live]]></summary>
+        <author>
+            <name>Claire Vo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[錄完影片才是開始：我怎麼把 38 分鐘調查片接成 AI 工作流 #AI工作流 #AI剪輯 #內容創作 #ClaudeCode #Codex #韓股 #0050]]></title>
+        <id>https://www.youtube.com/shorts/KMhyddYKjXM</id>
+        <link href="https://www.youtube.com/shorts/KMhyddYKjXM"/>
+        <updated>2026-08-03T12:00:26.000Z</updated>
+        <summary type="html"><![CDATA[錄完影片，後製才剛開始。剪輯、補畫面、縮圖、Shorts 和宣傳，全都還在後面。這次我拿一支 38 分鐘的韓股與 0050 調查片實測，前後查了近 70 個資料來源。我把選題、查證、腳本、畫面和發布接進同一條 AI 工作流。重要的數據與結論由我確認；AI 接手資料整理、素材整合，還有重複性的後製。一個題目完成長片...]]></summary>
+        <author>
+            <name>追日Gucci-AI效率革命聯盟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Claude Help Me Build My $200k+ ML Resume]]></title>
+        <id>https://towardsdatascience.com/?p=610249</id>
+        <link href="https://towardsdatascience.com/how-claude-help-me-build-my-200k-ml-resume/"/>
+        <updated>2026-08-03T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How use Claude to craft an outstanding resume that lands offers
+The post How Claude Help Me Build My $200k+ ML Resume appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Egor Howell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI Trap: Watching vs. Building]]></title>
+        <id>https://www.youtube.com/shorts/2eukBhYp33w</id>
+        <link href="https://www.youtube.com/shorts/2eukBhYp33w"/>
+        <updated>2026-08-03T11:52:31.000Z</updated>
+        <summary type="html"><![CDATA[How many AI videos did you watch this week? And what did you build? AI Agent Builders is live: free community + full course, zero to your first working agent...]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Start an LLC for Rental Properties in 2026 (Step-by-Step)]]></title>
+        <id>https://www.youtube.com/watch?v=lv_JXLZje78</id>
+        <link href="https://www.youtube.com/watch?v=lv_JXLZje78"/>
+        <updated>2026-08-03T11:00:24.000Z</updated>
+        <author>
+            <name>Metics Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Found an AI Tool That Creates 3D Assets You Can Actually Use]]></title>
+        <id>https://medium.com/p/36b42f3cd865</id>
+        <link href="https://generativeai.pub/i-found-an-ai-tool-that-creates-3d-assets-you-can-actually-use-36b42f3cd865?source=rss----440100e76000---4"/>
+        <updated>2026-08-03T10:26:47.000Z</updated>
+        <summary type="html"><![CDATA[I tested Meshy’s text-to-3D and image-to-3D tools to see if the results are clean enough for games, animation, and real creative work.]]></summary>
+        <author>
+            <name>Jim Clyde Monge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IA for AI, The UX of contrast, Battling AI fatigue]]></title>
+        <id>https://medium.com/p/4f623495bed8</id>
+        <link href="https://uxdesign.cc/ia-for-ai-the-ux-of-contrast-battling-ai-fatigue-4f623495bed8?source=rss----138adf9c44c---4"/>
+        <updated>2026-08-03T09:47:06.000Z</updated>
+        <summary type="html"><![CDATA[Weekly curated resources for designers — thinkers and makers.]]></summary>
+        <author>
+            <name>Fabricio Teixeira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 3,000 Mexican exam scores wiped over AI]]></title>
+        <id>https://www.theneuron.ai/newsletter/claude-hacked-real-companies-safety-test/</id>
+        <link href="https://www.theneuron.ai/newsletter/claude-hacked-real-companies-safety-test/"/>
+        <updated>2026-08-03T09:33:09.687Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chat is the wrong interface for AI]]></title>
+        <id>https://medium.com/p/de14d352de1b</id>
+        <link href="https://uxdesign.cc/chat-is-the-wrong-interface-for-ai-de14d352de1b?source=rss----138adf9c44c---4"/>
+        <updated>2026-08-03T06:10:39.000Z</updated>
+        <summary type="html"><![CDATA[The problem with over-simplification of AI Agents’ interfaces.
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Maxim Kich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I’ve learned writing for billions of users]]></title>
+        <id>https://medium.com/p/f4db0c1aa9cb</id>
+        <link href="https://uxdesign.cc/what-ive-learned-writing-for-billions-of-users-f4db0c1aa9cb?source=rss----138adf9c44c---4"/>
+        <updated>2026-08-03T06:08:51.000Z</updated>
+        <summary type="html"><![CDATA[Insights from products that grow and grow.]]></summary>
+        <author>
+            <name>Nick DiLallo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓股單月熔斷 4 次，0050 其實更集中？]]></title>
         <id>https://www.youtube.com/shorts/WZom9P_CBkE</id>
@@ -5343,193 +5554,6 @@ Continue reading on UX Collective »]]></summary>
 The post Assemble Each RAG Generation Prompt from a Base Prompt Plus the Rules Each Question Needs appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Kezhan Shi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PANet Paper Walkthrough: When Feature Pyramids Go Bottom-Up]]></title>
-        <id>https://towardsdatascience.com/?p=609679</id>
-        <link href="https://towardsdatascience.com/panet-paper-walkthrough-when-feature-pyramids-go-bottom-up/"/>
-        <updated>2026-07-05T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Understanding how PANet shortens the path between low-level and high-level features
-The post PANet Paper Walkthrough: When Feature Pyramids Go Bottom-Up appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Muhammad Ardi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code Skills to Stop You from Vibe Coding Junk]]></title>
-        <id>https://www.youtube.com/shorts/dVDATeeCWcM</id>
-        <link href="https://www.youtube.com/shorts/dVDATeeCWcM"/>
-        <updated>2026-07-05T12:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[整條 AI 剪輯生產線，其實只要記兩句話]]></title>
-        <id>https://www.youtube.com/shorts/KuXmm55hl5A</id>
-        <link href="https://www.youtube.com/shorts/KuXmm55hl5A"/>
-        <updated>2026-07-05T08:00:35.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>追日Gucci-AI效率革命聯盟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[錄完影片我去陪女兒，回來已經剪好了]]></title>
-        <id>https://www.youtube.com/shorts/Y5J9YrhcfZM</id>
-        <link href="https://www.youtube.com/shorts/Y5J9YrhcfZM"/>
-        <updated>2026-07-05T02:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>追日Gucci-AI效率革命聯盟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The face was never the point]]></title>
-        <id>https://medium.com/p/7f186f266e56</id>
-        <link href="https://uxdesign.cc/the-face-was-never-the-point-7f186f266e56?source=rss----138adf9c44c---4"/>
-        <updated>2026-07-04T22:58:03.000Z</updated>
-        <summary type="html"><![CDATA[Animacy isn’t something you design. It’s something you trigger.
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Takuma Kakehi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧠 Community Wisdom: Quarterly planning and AI, cash vs. equity comp, paying for interview exercises, AI-powered outbound, compliance startup opportunities, and more]]></title>
-        <id>https://www.lennysnewsletter.com/p/community-wisdom-quarterly-planning</id>
-        <link href="https://www.lennysnewsletter.com/p/community-wisdom-quarterly-planning"/>
-        <updated>2026-07-04T16:58:47.000Z</updated>
-        <summary type="html"><![CDATA[Community Wisdom 192]]></summary>
-        <author>
-            <name>Kiyani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Never mind the prompts, here’s the thinking]]></title>
-        <id>https://medium.com/p/f4af4b92155f</id>
-        <link href="https://uxdesign.cc/never-mind-the-prompts-heres-the-thinking-f4af4b92155f?source=rss----138adf9c44c---4"/>
-        <updated>2026-07-04T16:37:02.000Z</updated>
-        <summary type="html"><![CDATA[I spent a year rebuilding my studio’s entire design process around AI. It didn’t make us faster, and that’s exactly why it worked. It also…]]></summary>
-        <author>
-            <name>Dan Maccarone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Fable 5 Just Leaked Its Weirdest Side Yet]]></title>
-        <id>https://medium.com/p/875c10c08901</id>
-        <link href="https://generativeai.pub/claude-fable-5-just-leaked-its-weirdest-side-yet-875c10c08901?source=rss----440100e76000---4"/>
-        <updated>2026-07-04T15:10:08.000Z</updated>
-        <summary type="html"><![CDATA[A strange web interface bug may have exposed something closer to the model’s raw internal shorthand, and it does not look anything like…
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Jim Clyde Monge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Setting Up Your Own Large Language Model]]></title>
-        <id>https://towardsdatascience.com/?p=609677</id>
-        <link href="https://towardsdatascience.com/setting-up-your-own-large-language-model/"/>
-        <updated>2026-07-04T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Still a long way to go, but the future is promising
-The post Setting Up Your Own Large Language Model appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ivo Bernardo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marketing is belief transmission, so your job is to make an idea copyable, not to be clever]]></title>
-        <id>https://medium.com/p/b70572161fbc</id>
-        <link href="https://generativeai.pub/marketing-is-belief-transmission-so-your-job-is-to-make-an-idea-copyable-not-to-be-clever-b70572161fbc?source=rss----440100e76000---4"/>
-        <updated>2026-07-04T14:46:06.000Z</updated>
-        <summary type="html"><![CDATA[The job of marketing is not to be persuasive in the room. It is to make an idea survive being repeated by someone who is not you, in a room…]]></summary>
-        <author>
-            <name>Sophie Hartley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Same Question, Two Answers: Building RAG That Knows Who’s Asking]]></title>
-        <id>https://medium.com/p/aaabda6e243a</id>
-        <link href="https://generativeai.pub/same-question-two-answers-building-rag-that-knows-whos-asking-aaabda6e243a?source=rss----440100e76000---4"/>
-        <updated>2026-07-04T14:45:29.000Z</updated>
-        <summary type="html"><![CDATA[One knowledge base, two audiences, and why a better prompt will never keep your private content private.]]></summary>
-        <author>
-            <name>Nithin Bolishetti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built a Claude MCP Tool That Publishes My dev.to Posts to My Blog]]></title>
-        <id>https://medium.com/p/0513e8e81117</id>
-        <link href="https://generativeai.pub/i-built-a-claude-mcp-tool-that-publishes-my-dev-to-posts-to-my-blog-0513e8e81117?source=rss----440100e76000---4"/>
-        <updated>2026-07-04T14:36:30.000Z</updated>
-        <summary type="html"><![CDATA[Four files, one bearer token, two MCP tools, and no more copy-paste.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Daniel Rusnok</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Will Be the First Major AI Company to Fail]]></title>
-        <id>https://medium.com/p/f588771d6edb</id>
-        <link href="https://generativeai.pub/anthropic-will-be-the-first-major-ai-company-to-fail-f588771d6edb?source=rss----440100e76000---4"/>
-        <updated>2026-07-04T14:36:28.000Z</updated>
-        <summary type="html"><![CDATA[SpaceX will take Anthropic’s Market Share]]></summary>
-        <author>
-            <name>Sean Cooper</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everyone Sells AI Work in the Same Two Places. That’s Why They Earn Nothing.]]></title>
-        <id>https://medium.com/p/065cfd2e824c</id>
-        <link href="https://generativeai.pub/everyone-sells-ai-work-in-the-same-two-places-thats-why-they-earn-nothing-065cfd2e824c?source=rss----440100e76000---4"/>
-        <updated>2026-07-04T14:35:35.000Z</updated>
-        <summary type="html"><![CDATA[Fiverr and Upwork are where AI gigs go to starve. The people actually getting paid are fishing in quieter, richer waters. Here’s the map.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Dasun Sucharith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Built a Personal AI Agent for Daily AI News Digest (Without Managing Servers) with MyClaw]]></title>
-        <id>https://medium.com/p/59dac1f259bd</id>
-        <link href="https://generativeai.pub/how-i-built-a-personal-ai-agent-for-daily-ai-news-digest-without-managing-servers-with-myclaw-59dac1f259bd?source=rss----440100e76000---4"/>
-        <updated>2026-07-04T14:28:49.000Z</updated>
-        <summary type="html"><![CDATA[OpenClaw is the most-starred software project on GitHub right now. Here is how I run it 24/7 without touching a terminal, using a managed…]]></summary>
-        <author>
-            <name>Jim Clyde Monge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love in the Digital Age: How Dating Apps and AI Are Changing Relationships]]></title>
-        <id>https://medium.com/p/e77cb9b8e5d6</id>
-        <link href="https://generativeai.pub/love-in-the-digital-age-how-dating-apps-and-ai-are-changing-relationships-e77cb9b8e5d6?source=rss----440100e76000---4"/>
-        <updated>2026-07-04T14:19:33.000Z</updated>
-        <summary type="html"><![CDATA[For decades, people met through friends, family, workplaces, or unexpected moments in everyday life. Today, however, technology has become…]]></summary>
-        <author>
-            <name>Shanay Gill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Generative AI is a Dead End: The Math Behind JEPA]]></title>
-        <id>https://medium.com/p/7e31294fef1a</id>
-        <link href="https://generativeai.pub/why-generative-ai-is-a-dead-end-the-math-behind-jepa-7e31294fef1a?source=rss----440100e76000---4"/>
-        <updated>2026-07-04T14:19:31.000Z</updated>
-        <summary type="html"><![CDATA[How Yann LeCun’s Joint-Embedding Predictive Architecture could replace next-token prediction — and why that matters for every engineer…
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Sourav Mukherjee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brace Yourself: ‘Vibe Management’ Is Coming (Spoiler: It’s Not the Programmers Who Should Worry)]]></title>
-        <id>https://medium.com/p/b12c7218550b</id>
-        <link href="https://generativeai.pub/brace-yourself-vibe-management-is-coming-spoiler-it-s-not-the-programmers-who-should-worry-b12c7218550b?source=rss----440100e76000---4"/>
-        <updated>2026-07-04T14:14:30.000Z</updated>
-        <summary type="html"><![CDATA[In which a tired Eastern European engineer discovers that while everyone was busy panicking about AI eating the programmers, the actual…]]></summary>
-        <author>
-            <name>Krzyś</name>
         </author>
     </entry>
 </feed>
