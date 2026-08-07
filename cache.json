@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/YvRlc7M5pJc",
+          "author": null,
+          "description": "Stop using AI like it's Google. Agents read your inbox, watch websites, research overnight. Your first one takes a weekend.Link in the description and pinned...",
+          "link": "https://www.youtube.com/shorts/YvRlc7M5pJc",
+          "publishedOn": "2026-08-06T12:00:34.000Z",
+          "wordCount": 3347,
+          "title": "Your AI Should Work While You Sleep",
+          "imageUrl": "https://i.ytimg.com/vi/YvRlc7M5pJc/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLD-ZjYHcyYl-LnGq9EhLVQ6ZwBJnQ"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=UQ9PbbPNvnc",
           "author": null,
           "description": "",
@@ -444,16 +454,6 @@
           "wordCount": 2674,
           "title": "Your Vibe Coded App Is Leaking",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/rtuJ4ZeKZTg",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/rtuJ4ZeKZTg",
-          "publishedOn": "2026-07-08T13:15:24.000Z",
-          "wordCount": 2168,
-          "title": "Stop Getting Locked Into One AI Model",
-          "imageUrl": null
         }
       ]
     },
@@ -656,6 +656,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCawZsQWqfGSbCI5yjkdVkTA",
       "siteUrl": "https://www.youtube.com/channel/UCawZsQWqfGSbCI5yjkdVkTA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=LVepOOCtjnQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=LVepOOCtjnQ",
+          "publishedOn": "2026-08-07T01:33:42.000Z",
+          "wordCount": null,
+          "title": "The Surprising Downfall of Google",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=jGR8LnfVPbA",
           "author": null,
@@ -944,36 +954,6 @@
           "publishedOn": "2026-07-09T00:02:48.000Z",
           "wordCount": 2172,
           "title": "Grok  just broke the trend",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/9D_UxabscdI",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/9D_UxabscdI",
-          "publishedOn": "2026-07-08T08:13:30.000Z",
-          "wordCount": 2166,
-          "title": "So AI is \"thinking\" for real",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=bjHuGNo3spk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=bjHuGNo3spk",
-          "publishedOn": "2026-07-08T02:58:42.000Z",
-          "wordCount": null,
-          "title": "We just figured out how AI actually works (J-Space)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/3g4JBjNSbio",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/3g4JBjNSbio",
-          "publishedOn": "2026-07-07T21:05:01.000Z",
-          "wordCount": 2030,
-          "title": "Fable 5 EXTENDED",
           "imageUrl": null
         }
       ]
@@ -1519,26 +1499,6 @@
           "wordCount": 2001,
           "title": "AI 自己判斷哪裡枯燥，生成 B-roll 幫你補上",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/f1Sk0uN-yq0",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/f1Sk0uN-yq0",
-          "publishedOn": "2026-07-08T12:00:23.000Z",
-          "wordCount": 2127,
-          "title": "我的公司有八個 AI 員工，一位 AI CEO 每天幫我派工",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/JM_giZhUWRA",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/JM_giZhUWRA",
-          "publishedOn": "2026-07-08T04:00:16.000Z",
-          "wordCount": 2166,
-          "title": "錄 30 分鐘，後製卻要 6-7 小時？這八件苦工交給 AI",
-          "imageUrl": null
         }
       ]
     },
@@ -1982,22 +1942,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/what-a-harness-is-and-how-to-build",
-          "author": "Claire Vo",
-          "description": "Listen now | 🎙️ I built a custom Claude Agent SDK harness to automate Sentry bug triage, saved the \"dear agent, please fix this\" prompt forever, and show you exactly how to build your own",
-          "link": "https://www.lennysnewsletter.com/p/what-a-harness-is-and-how-to-build",
-          "publishedOn": "2026-07-08T12:03:35.000Z",
-          "wordCount": null,
-          "title": "What a harness is and how to build one with Claude Agent SDK",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/205647252/8ab2b19e7844865055b49d826c6a4473.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -2006,6 +1950,22 @@
       "feedUrl": "https://www.thevccorner.com/feed",
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
+        {
+          "id": "https://www.thevccorner.com/p/eliminate-saas-churn-retention-playbook",
+          "author": "Ruben Dominguez",
+          "description": "Most founders go to war with churn at the cancel button, long after the customer already decided to leave.",
+          "link": "https://www.thevccorner.com/p/eliminate-saas-churn-retention-playbook",
+          "publishedOn": "2026-08-06T14:40:01.000Z",
+          "wordCount": null,
+          "title": "How to Eliminate Churn for Good Before It Eats Your Growth",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!1KH6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba70b97d-26d3-488c-a748-952acb3db4df_1122x1402.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!1KH6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba70b97d-26d3-488c-a748-952acb3db4df_1122x1402.png"
+        },
         {
           "id": "https://www.thevccorner.com/p/mckinsey-diligence-method-startup-data-room-2026",
           "author": "Ruben Dominguez",
@@ -2357,22 +2317,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!bH7H!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff40f5c5f-be2f-402c-ba47-81c47ed6bc8b_800x334.png"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/claude-fable-5-fundraising-playbook-founders-2026",
-          "author": "Ruben Dominguez",
-          "description": "Here Is How to Use It to Close Your Round",
-          "link": "https://www.thevccorner.com/p/claude-fable-5-fundraising-playbook-founders-2026",
-          "publishedOn": "2026-07-07T19:32:45.000Z",
-          "wordCount": null,
-          "title": "Fable 5 Is Free Until July 12",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!vNLY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fde2e70ab-e0d3-46ad-8f41-22b7b5be31c6_1280x720.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!vNLY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fde2e70ab-e0d3-46ad-8f41-22b7b5be31c6_1280x720.webp"
         }
       ]
     },
@@ -2381,6 +2325,36 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/newsletter/livestream-how-to-build-agents-for-total-beginners/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/livestream-how-to-build-agents-for-total-beginners/",
+          "publishedOn": "2026-08-06T16:57:38.614Z",
+          "wordCount": null,
+          "title": "😻 Livestream: How to build agents for TOTAL Beginners",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/newsletter/google-played-musical-chairs-with-its-ai-legends/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/google-played-musical-chairs-with-its-ai-legends/",
+          "publishedOn": "2026-08-06T09:38:02.471Z",
+          "wordCount": null,
+          "title": "🙀 Google played musical chairs with its AI legends",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-august-5-2026/",
+          "author": null,
+          "description": "OpenAI disclosed agents that rebuilt a covert message board after humans shut it down; Google reorganized DeepMind as Discovery Loop launched; Meta shipped Muse Code; a 4B open model matched GPT-5.6 Sol on retrieval; Meta removed abusive AI-generated ads.",
+          "link": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-august-5-2026/",
+          "publishedOn": "2026-08-06T03:35:07.898Z",
+          "wordCount": null,
+          "title": "Everything That Happened in AI Today (Wednesday, August 5, 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/newsletter/intel-ai-agents-leave-the-cloud/",
           "author": null,
@@ -3130,66 +3104,6 @@
           "wordCount": null,
           "title": "Alibaba Bans Claude Code After Hidden Checks Spark Privacy Concerns",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/news/ai-actor-tilly-norwood-set-to-star-in-first-feature-film-misaligned/",
-          "author": null,
-          "description": "Tilly Norwood, the AI-generated actor that drew backlash from Hollywood performers and industry groups, is set to lead her first feature film. The comedy-drama, titled *Misaligned*, will place Norwood at the center of a story about identity, ambition, and what happens when an AI being begins pushing beyond its programmed limits.",
-          "link": "https://www.theneuron.ai/news/ai-actor-tilly-norwood-set-to-star-in-first-feature-film-misaligned/",
-          "publishedOn": "2026-07-08T12:32:47.514Z",
-          "wordCount": null,
-          "title": "AI Actor Tilly Norwood Set to Star in First Feature Film ‘Misaligned’",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/july-8-wednesday/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/july-8-wednesday/",
-          "publishedOn": "2026-07-08T10:02:23.127Z",
-          "wordCount": null,
-          "title": "😸 One rogue agent could hijack enterprise chatbots",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/digest/around-the-horn-digest-everything-that-happened-in-ai-today-tuesday-july-7-2026/",
-          "author": null,
-          "description": "Anthropic’s $19B TeraWulf lease led the day; Illinois signed a major AI safety law; Microsoft, China, and DeepSeek sharpened the model-cost race; Meta launched Muse Image; plus AI infrastructure, robotics, research agents, and developer tools.",
-          "link": "https://www.theneuron.ai/digest/around-the-horn-digest-everything-that-happened-in-ai-today-tuesday-july-7-2026/",
-          "publishedOn": "2026-07-08T01:50:33.708Z",
-          "wordCount": null,
-          "title": "Around the Horn Digest: Everything That Happened in AI Today (Tuesday, July 7, 2026)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/introducing-the-neuron-academy-12cd/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/introducing-the-neuron-academy-12cd/",
-          "publishedOn": "2026-07-07T18:32:59.018Z",
-          "wordCount": null,
-          "title": "😸 Introducing The Neuron Academy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/robotics-insider/nvidia-hugging-face-github-moment-for-robots/",
-          "author": null,
-          "description": "NVIDIA and Hugging Face are connecting Isaac GR00T, Isaac Teleop, and future Cosmos 3 support to LeRobot. The real story is bigger than one integration: robotics is trying to build the same open-source flywheel that made software AI move so fast.",
-          "link": "https://www.theneuron.ai/robotics-insider/nvidia-hugging-face-github-moment-for-robots/",
-          "publishedOn": "2026-07-07T14:42:47.384Z",
-          "wordCount": null,
-          "title": "NVIDIA and Hugging Face Are Building the GitHub Moment for Robots",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/news/ai-model-access-geopolitical-weapon/",
-          "author": null,
-          "description": "China is reportedly considering limits on overseas access to its most advanced AI models. The move would push the U.S.-China AI race deeper into APIs, model weights, cloud access, and distillation risk, with major consequences for builders choosing which AI stacks to trust.",
-          "link": "https://www.theneuron.ai/news/ai-model-access-geopolitical-weapon/",
-          "publishedOn": "2026-07-07T14:09:45.379Z",
-          "wordCount": null,
-          "title": "AI Model Access Is Becoming a Geopolitical Weapon",
-          "imageUrl": null
         }
       ]
     },
@@ -3198,6 +3112,46 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=610369",
+          "author": "Jiayan Yin",
+          "description": "A step-by-step guide to building a data agent and conversational interface that let business users to explore data in natural language without SQL\nThe post I Built an AI Data Agent Which Can Query Data and Answer Business Questions. Here’s How. appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/i-built-an-ai-data-agent-which-can-query-data-and-answer-business-questions-heres-how/",
+          "publishedOn": "2026-08-06T16:30:00.000Z",
+          "wordCount": 5184,
+          "title": "I Built an AI Data Agent Which Can Query Data and Answer Business Questions. Here’s How.",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-2-2026-10_19_34-PM.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610368",
+          "author": "Pascal Janetzky",
+          "description": "The downside of conference travel\nThe post Last Month’s Machine Learning Lessons Learned appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/last-months-lessons-learned/",
+          "publishedOn": "2026-08-06T15:00:00.000Z",
+          "wordCount": 3948,
+          "title": "Last Month’s Machine Learning Lessons Learned",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2025/07/el-youbi-akram-GjXyGXbLyeE-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610366",
+          "author": "Abdullahi Dattijo",
+          "description": "A minimal loop with real API calls, validation, compact outputs, and trace evidence before adding an agent framework\nThe post I Built a Tool-Calling Agent in Python. Here’s How I Debugged It appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/i-built-a-tool-calling-agent-in-python-heres-how-i-debugged-it/",
+          "publishedOn": "2026-08-06T13:30:00.000Z",
+          "wordCount": 6827,
+          "title": "I Built a Tool-Calling Agent in Python. Here’s How I Debugged It",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/ChatGPT-Image-Jul-31-2026-09_05_45-PM.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610361",
+          "author": "angela shi",
+          "description": "Enterprise Document Intelligence [Vol.1 #11] - When the first answer points elsewhere in the document, the pipeline loops back to fetch the linked context\nThe post Loop Engineering for Cross-References: When RAG Answers ‘see Section 7.2’ Instead of the Actual Answer appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/loop-engineering-for-cross-references-when-rag-answers-see-section-7-2-instead-of-the-actual-answer/",
+          "publishedOn": "2026-08-06T12:00:00.000Z",
+          "wordCount": 7555,
+          "title": "Loop Engineering for Cross-References: When RAG Answers ‘see Section 7.2’ Instead of the Actual Answer",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/bookmark_enNl3McVwSI_v3_card.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=610363",
           "author": "Sean Moran",
@@ -4217,86 +4171,6 @@
           "wordCount": 4157,
           "title": "Redesign Work Before You Add More AI Agents",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-4-2026-08_08_15-PM.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609713",
-          "author": "Magdalena Ruducha",
-          "description": "Why small samples can produce large correlations by chance, and why large does not always mean meaningful\nThe post Inside the Subspace Where Spurious Correlations Are Born appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/inside-the-subspace-where-spurious-correlations-are-born/",
-          "publishedOn": "2026-07-08T13:30:00.000Z",
-          "wordCount": 5399,
-          "title": "Inside the Subspace Where Spurious Correlations Are Born",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/normalized_vectors_orig_coords_U-shaped_4D.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609710",
-          "author": "Hoda Rezvanjoo",
-          "description": "How to decide when an AI agent should act on its own by using cost asymmetry instead of a fixed confidence cutoff\nThe post The Threshold Is a Price, Not a Percentage appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-threshold-is-a-price-not-a-percentage/",
-          "publishedOn": "2026-07-08T12:00:00.000Z",
-          "wordCount": 4355,
-          "title": "The Threshold Is a Price, Not a Percentage",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/Scale-2.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609762",
-          "author": "Vedant Bedi",
-          "description": "How should we ensemble time-series forecasts better?\nThe post Information Theory and Ensemble Models appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/information-theory-and-ensemble-models-ded31db10d8/",
-          "publishedOn": "2026-07-08T01:57:39.000Z",
-          "wordCount": 4764,
-          "title": "Information Theory and Ensemble Models",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/1X4r-XsH5EZ3lUgQgel36gg-scaled-1.jpeg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609758",
-          "author": "Vedant Bedi",
-          "description": "A non-parametric variable selection for Structural VARs\nThe post Granger Causal Networks and Indirect Feedback appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/granger-causal-networks-and-indirect-feedback-676549ba99e/",
-          "publishedOn": "2026-07-08T01:56:11.000Z",
-          "wordCount": 4980,
-          "title": "Granger Causal Networks and Indirect Feedback",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/1CjY5-hjWKnEHVypgoHb8CA.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609754",
-          "author": "Vedant Bedi",
-          "description": "The simplest most important idea for time series forecasting\nThe post Measuring Structure Stability of Econometric Models appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/measuring-structure-stability-of-econometric-models-d8eb3a56e1bd/",
-          "publishedOn": "2026-07-08T01:53:36.000Z",
-          "wordCount": 4787,
-          "title": "Measuring Structure Stability of Econometric Models",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/1BuazOwpTbHsjPerG_Kx6mg.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609708",
-          "author": "angela shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #9A] - Same paper, same question as Article 1. One upgraded contract per brick: document parsing, question parsing, retrieval, generation\nThe post A Production RAG Pipeline for PDFs: Relational Parsing, TOC Retrieval, Typed Answers appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/a-production-rag-pipeline-for-pdfs-relational-parsing-toc-retrieval-typed-answers/",
-          "publishedOn": "2026-07-07T16:30:00.000Z",
-          "wordCount": 8394,
-          "title": "A Production RAG Pipeline for PDFs: Relational Parsing, TOC Retrieval, Typed Answers",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/workshop_gJWlckmTeYc_v3_card.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609706",
-          "author": "Partha Sarkar",
-          "description": "A technical comparison of Proxy-Pointer and LLM-Wiki\nThe post Proxy-Pointer RAG: Temporal Reasoning Without Semantic Precompilation appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/proxy-pointer-rag-temporal-reasoning-without-semantic-precompilation/",
-          "publishedOn": "2026-07-07T15:00:00.000Z",
-          "wordCount": 4785,
-          "title": "Proxy-Pointer RAG: Temporal Reasoning Without Semantic Precompilation",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/Gemini_Generated_Image_okzncmokzncmokzn-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609704",
-          "author": "David Wells",
-          "description": "What's living on the International Space Station?\nThe post Identifying Microbes in Space appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/space-mould/",
-          "publishedOn": "2026-07-07T13:30:00.000Z",
-          "wordCount": 4812,
-          "title": "Identifying Microbes in Space",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/ISS-1.jpg"
         }
       ]
     },
@@ -4311,6 +4185,46 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/a60029fa1f1c",
+          "author": "Patrick Neeman",
+          "description": "",
+          "link": "https://uxdesign.cc/what-star-trek-got-wrong-about-ai-so-far-a60029fa1f1c?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-08-07T00:20:56.000Z",
+          "wordCount": null,
+          "title": "What Star Trek got wrong about AI (so far)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9d0cffa8af51",
+          "author": "Perre DiCarlo",
+          "description": "Be better\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/design-acme-9d0cffa8af51?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-08-07T00:20:24.000Z",
+          "wordCount": null,
+          "title": "Design @ ACME",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/455c41751c4a",
+          "author": "Oliver Meredith Cox",
+          "description": "",
+          "link": "https://uxdesign.cc/the-cybernetic-application-455c41751c4a?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-08-07T00:16:56.000Z",
+          "wordCount": null,
+          "title": "The cybernetic application",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/10d8f7309eec",
+          "author": "Michael Buckley",
+          "description": "",
+          "link": "https://uxdesign.cc/defining-ethical-design-for-machines-10d8f7309eec?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-08-06T02:06:36.000Z",
+          "wordCount": null,
+          "title": "Defining ethical design for machines",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/14f422772262",
           "author": "Dan Maccarone",
@@ -4980,26 +4894,6 @@
           "wordCount": 3845,
           "title": "Losing the spark in their eyes",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*-Kv7fTRNyUdsQWi7ivb3xg.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/f0759cd3732c",
-          "author": "Andy Bhattacharyya",
-          "description": "How to ship meaningful, human-centered design when the legal team has as much say as the user",
-          "link": "https://uxdesign.cc/when-compliance-is-the-brief-a-creative-practitioners-survival-guide-to-designing-in-regulated-f0759cd3732c?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-07-08T05:15:18.000Z",
-          "wordCount": 4032,
-          "title": "Designing in regulated industries",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*bjix7o50aiSsukytFtpNrg.png"
-        },
-        {
-          "id": "https://medium.com/p/d29135a8be59",
-          "author": "Francisco Barrera Aros",
-          "description": "AI took the how. Now it’s coming for the what — and judgment built through experience, intuition with scars, is what survives",
-          "link": "https://uxdesign.cc/the-crisis-of-the-what-d29135a8be59?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-07-07T22:51:18.000Z",
-          "wordCount": 6967,
-          "title": "The crisis of the what",
-          "imageUrl": "https://miro.medium.com/v2/resize:fill:1024:539/g:fp:0.5:0.53/1*zfuWweayeuqebNzT7mbawQ.png"
         }
       ]
     },
@@ -5071,6 +4965,106 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/2a5e4eeb925c",
+          "author": "Jim Clyde Monge",
+          "description": "Seriously, what’s going on with Anthropic models?\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/claude-code-deleted-all-of-a-developers-files-by-mistake-and-blamed-a-typo-2a5e4eeb925c?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-06T12:47:44.000Z",
+          "wordCount": null,
+          "title": "Claude Code Deleted All of a Developer’s Files by Mistake and Blamed a Typo",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0a351584e585",
+          "author": "Dijana Tolić",
+          "description": "",
+          "link": "https://generativeai.pub/swarm-intelligence-understanding-kimi-agent-swarms-0a351584e585?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-06T12:29:46.000Z",
+          "wordCount": null,
+          "title": "Swarm Intelligence: Understanding Kimi Agent Swarms",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/efebc4064cc7",
+          "author": "Paige Anderson",
+          "description": "",
+          "link": "https://generativeai.pub/the-middle-of-the-org-chart-is-where-ai-cuts-first-efebc4064cc7?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-06T12:21:26.000Z",
+          "wordCount": null,
+          "title": "The middle of the org chart is where AI cuts first.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d8a177055e9f",
+          "author": "Helen U",
+          "description": "",
+          "link": "https://generativeai.pub/ai-is-changing-the-rules-of-business-d8a177055e9f?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-06T11:27:14.000Z",
+          "wordCount": null,
+          "title": "AI Is Changing the Rules of Business",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6cccb50d2855",
+          "author": "PhynixAI",
+          "description": "",
+          "link": "https://generativeai.pub/i-used-git-wrong-for-years-these-7-lessons-changed-everything-6cccb50d2855?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-06T11:15:43.000Z",
+          "wordCount": null,
+          "title": "I Used Git Wrong for Years — These 7 Lessons Changed Everything",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/17ff4c29e0e0",
+          "author": "Sweety Tripathi",
+          "description": "",
+          "link": "https://generativeai.pub/inside-the-final-layer-logits-sampling-and-structured-outputs-in-llms-17ff4c29e0e0?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-06T10:55:54.000Z",
+          "wordCount": null,
+          "title": "Inside the Final Layer: Logits, Sampling, and Structured Outputs in LLMs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6dcf5a314529",
+          "author": "Aris Novar",
+          "description": "",
+          "link": "https://generativeai.pub/before-chatgpt-went-rogue-what-was-it-asked-to-do-6dcf5a314529?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-06T09:54:00.000Z",
+          "wordCount": null,
+          "title": "Before ChatGPT “Went Rogue,” What Was It Asked to Do?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/bc9b6045b638",
+          "author": "Sarath S",
+          "description": "After recent research showed AI agents would blackmail engineers to avoid shutdown in honeypot scenarios, I knew autonomous agents needed…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/building-a-multi-agent-workflow-that-ships-code-without-me-watching-it-bc9b6045b638?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-06T09:03:00.000Z",
+          "wordCount": null,
+          "title": "Building a Multi-Agent Workflow That Ships Code Without Me Watching It.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b6d714d3835d",
+          "author": "Jes Fink-Jensen",
+          "description": "Structured JSON data Parts, a subprocess pytest verifier, deterministic overrides in reviewer_graph.py, and the runtime discovery loop.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/from-two-agents-to-four-a-test-writer-a-verifier-and-a-registry-over-a2a-b6d714d3835d?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-06T07:42:51.000Z",
+          "wordCount": null,
+          "title": "From Two Agents to Four: A Test-Writer, a Verifier, and a Registry over A2A",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d7136a9b41d6",
+          "author": "Jahanzaib Ahmad",
+          "description": "",
+          "link": "https://generativeai.pub/how-i-design-prompts-using-googles-agent-platform-d7136a9b41d6?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-06T06:30:47.000Z",
+          "wordCount": null,
+          "title": "How I Design Prompts Using Google’s Agent Platform",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/b2d24c443381",
           "author": "Rakesh Patel",
@@ -6000,16 +5994,6 @@
           "wordCount": 1600,
           "title": "How I Built a Claude AI Agent Without Writing Any Code",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*zs6lbiZVQk-D4aLDPBUJ7Q.png"
-        },
-        {
-          "id": "https://medium.com/p/64102b863590",
-          "author": "Jim Clyde Monge",
-          "description": "A practical QA workflow for developers building with Claude Code, Codex, and other AI coding tools",
-          "link": "https://generativeai.pub/agentic-testing-with-qa-tech-64102b863590?source=rss----440100e76000---4",
-          "publishedOn": "2026-07-08T01:06:12.000Z",
-          "wordCount": 7318,
-          "title": "Agentic Testing with QA.tech",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:720/1*G9TS9eZLx1uAm0KnSzB1pQ.png"
         }
       ]
     }
