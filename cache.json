@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/yCoJ89qc__A",
+          "author": null,
+          "description": "Someone in your field is automating what you still do manually every morning. Close the gap this week. Link in the description and pinned comment.",
+          "link": "https://www.youtube.com/shorts/yCoJ89qc__A",
+          "publishedOn": "2026-08-08T12:00:01.000Z",
+          "wordCount": 3281,
+          "title": "Someone in Your Field Already Automated This",
+          "imageUrl": "https://i.ytimg.com/vi/yCoJ89qc__A/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLATPKjFvh-_mgd0vkIEQNKkLgns2w"
+        },
+        {
           "id": "https://www.youtube.com/shorts/jH26BIplM2k",
           "author": null,
           "description": "You don't need to be an expert. A beginner in motion beats an expert at rest. The Zero-to-Agent path is free.Link in the description and pinned comment.",
@@ -444,16 +454,6 @@
           "wordCount": 2112,
           "title": "Make Claude Code Write Better Python With Pyright",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/63xSXrrX6e0",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/63xSXrrX6e0",
-          "publishedOn": "2026-07-10T12:00:20.000Z",
-          "wordCount": 2091,
-          "title": "Claude Code Plugins Actually Worth Installing",
-          "imageUrl": null
         }
       ]
     },
@@ -530,16 +530,6 @@
           "publishedOn": "2026-07-15T21:59:26.000Z",
           "wordCount": null,
           "title": "ChatGPT 5.6 inside Hermes Agent left me speechless...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=r0TLqUwsB28",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=r0TLqUwsB28",
-          "publishedOn": "2026-07-09T18:21:02.000Z",
-          "wordCount": null,
-          "title": "ChatGPT 5.6 just KILLED Fable 5",
           "imageUrl": null
         }
       ]
@@ -914,36 +904,6 @@
           "publishedOn": "2026-07-13T07:20:20.000Z",
           "wordCount": 2075,
           "title": "Codex is GONE",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=roGmNXASYOM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=roGmNXASYOM",
-          "publishedOn": "2026-07-09T20:49:47.000Z",
-          "wordCount": null,
-          "title": "GPT-5.6 SOL is HERE",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mD1F5DsC5tc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mD1F5DsC5tc",
-          "publishedOn": "2026-07-09T18:00:10.000Z",
-          "wordCount": null,
-          "title": "Today's the day...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/3IudC2n8jvQ",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/3IudC2n8jvQ",
-          "publishedOn": "2026-07-09T17:39:17.000Z",
-          "wordCount": 2009,
-          "title": "Minecraft made by GPT-5.6",
           "imageUrl": null
         }
       ]
@@ -1449,26 +1409,6 @@
           "wordCount": 2027,
           "title": "剪片的粗活全交給 AI，你只要確認 6 個點",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=iOAJQhZmw_o",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=iOAJQhZmw_o",
-          "publishedOn": "2026-07-10T12:16:02.000Z",
-          "wordCount": null,
-          "title": "做完第二大腦我才發現：一直餵資料給 AI，是我在拖慢它",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/u9Zbo3gEaH4",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/u9Zbo3gEaH4",
-          "publishedOn": "2026-07-10T04:00:18.000Z",
-          "wordCount": 2482,
-          "title": "AI 剪片後：我的時間從 6-7 小時變成幾次點頭",
-          "imageUrl": null
         }
       ]
     },
@@ -1529,6 +1469,22 @@
       "feedUrl": "https://www.lennysnewsletter.com/feed",
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
+        {
+          "id": "https://www.lennysnewsletter.com/p/community-wisdom-crafting-outreach",
+          "author": "Kiyani",
+          "description": "Community Wisdom 196",
+          "link": "https://www.lennysnewsletter.com/p/community-wisdom-crafting-outreach",
+          "publishedOn": "2026-08-08T17:08:14.000Z",
+          "wordCount": null,
+          "title": "🧠 Community Wisdom: Crafting outreach that reads as authentic, finding design partners, what counts as a moat when anyone can build, making a product vision stick, and more",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png"
+        },
         {
           "id": "https://www.lennysnewsletter.com/p/build-an-ai-code-review-bot-in-30",
           "author": "Claire Vo",
@@ -1880,22 +1836,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png"
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/gpt-56-sol-vs-claude-fable-why-openais",
-          "author": "Claire Vo",
-          "description": "Watch now | 🎙️GPT 5.6-Sol beats Fable on prototypes, PRDs, and browser use in my 5-category How I AI benchmark, and here's exactly where each model earns its spot.",
-          "link": "https://www.lennysnewsletter.com/p/gpt-56-sol-vs-claude-fable-why-openais",
-          "publishedOn": "2026-07-09T17:33:57.000Z",
-          "wordCount": null,
-          "title": "GPT-5.6 Sol vs. Claude Fable: Why OpenAI’s new model crushes my benchmark",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/206191009/f1f9241f1b8ff9181b201a5bed6becf7.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -2255,22 +2195,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!6LRU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9478f314-9864-4531-a876-e0ff670a4c31_959x639.jpeg"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/the-ai-job-apocalypse-is-a-complete",
-          "author": "Ruben Dominguez",
-          "description": "Three years of surveys, stable headcount across the economy, and companies still making decisions based on a forecast that hasn't materialized. Here's what's actually happening.",
-          "link": "https://www.thevccorner.com/p/the-ai-job-apocalypse-is-a-complete",
-          "publishedOn": "2026-07-09T14:18:05.000Z",
-          "wordCount": null,
-          "title": "The AI Job Apocalypse Is a Complete Misread",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/75fb50c4-996a-47da-a305-2d51b01bb91c_576x384.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/75fb50c4-996a-47da-a305-2d51b01bb91c_576x384.jpeg"
         }
       ]
     },
@@ -2279,6 +2203,16 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-august-7-2026/",
+          "author": null,
+          "description": "OpenAI slowed Astra after cyber evaluations could not rule out critical autonomous attack capability; U.S. data vendors were selling frontier datasets to Chinese labs; ByteDance scaled toward 10T parameters; Claude Code added cross-session messaging; DeepSeek V4 Flash reset ARC-AGI cost.",
+          "link": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-august-7-2026/",
+          "publishedOn": "2026-08-08T00:38:07.287Z",
+          "wordCount": null,
+          "title": "Everything That Happened in AI Today (Friday, August 7, 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/newsletter/ai-made-viruses-agents-made-a-backroom-chat/",
           "author": null,
@@ -3008,56 +2942,6 @@
           "wordCount": null,
           "title": "Everything That Happened in AI Today (Saturday, July 11, 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/openai-s-super-thursday/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/openai-s-super-thursday/",
-          "publishedOn": "2026-07-10T09:31:16.456Z",
-          "wordCount": null,
-          "title": "😼 OpenAI's Super Thursday",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/gpt-5-6-and-the-new-chatgpt-desktop-app-complete-guide/",
-          "author": null,
-          "description": "OpenAI launched three GPT-5.6 models, merged Codex into a new ChatGPT desktop app, and introduced Work, Sites, scheduled agents, and background computer use. Here is what changed and which features are worth trying.",
-          "link": "https://www.theneuron.ai/explainer-articles/gpt-5-6-and-the-new-chatgpt-desktop-app-complete-guide/",
-          "publishedOn": "2026-07-10T05:50:24.503Z",
-          "wordCount": null,
-          "title": "GPT-5.6 and the New ChatGPT Desktop App: Complete Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/gpt-5-6-and-chatgpt-work-everything-openai-announced/",
-          "author": null,
-          "description": "OpenAI's July launch combined GPT-5.6 Sol, Terra, and Luna with ChatGPT Work, Sites, background computer use, and a unified desktop app.",
-          "link": "https://www.theneuron.ai/explainer-articles/gpt-5-6-and-chatgpt-work-everything-openai-announced/",
-          "publishedOn": "2026-07-10T05:43:53.911Z",
-          "wordCount": null,
-          "title": "GPT-5.6 and ChatGPT Work: Everything OpenAI Announced",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-thursday-july-9-2026/",
-          "author": null,
-          "description": "OpenAI released GPT-5.6 and ChatGPT Work; China weighed restricting access to advanced AI models; $130B in U.S. AI data centers were blocked or delayed; Meta launched Muse Spark 1.1; plus much more.",
-          "link": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-thursday-july-9-2026/",
-          "publishedOn": "2026-07-10T01:16:58.872Z",
-          "wordCount": null,
-          "title": "Everything That Happened in AI Today (Thursday, July 9, 2026)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/live-today-gpt-56-sol-goes-hands-on/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/live-today-gpt-56-sol-goes-hands-on/",
-          "publishedOn": "2026-07-09T16:57:53.006Z",
-          "wordCount": null,
-          "title": "😺 LIVE now: GPT-5.6 Sol goes hands-on",
-          "imageUrl": null
         }
       ]
     },
@@ -3066,6 +2950,26 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=610386",
+          "author": "Sankar Srinivasan",
+          "description": "Many Transformer explainers start with the finished architecture. We ask why it looks the way it does.\nThe post Before Q, K, and V: Reconstructing the Transformer appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/before-q-k-and-v-reconstructing-the-transformer/",
+          "publishedOn": "2026-08-08T15:00:00.000Z",
+          "wordCount": 8756,
+          "title": "Before Q, K, and V: Reconstructing the Transformer",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/antonio-janeski-ANP0t4EGMBE-unsplash-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610385",
+          "author": "Soner Yıldırım",
+          "description": "Building a production-ready web interface for a stateful LangGraph agent\nThe post Building a Streamlit UI for My LangGraph AI Agent appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/building-a-streamlit-ui-for-my-langgraph-ai-agent/",
+          "publishedOn": "2026-08-08T13:00:00.000Z",
+          "wordCount": 4171,
+          "title": "Building a Streamlit UI for My LangGraph AI Agent",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/towfiqu-barbhuiya-9gPKrsbGmc-unsplash-scaled-1.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=610383",
           "author": "Thomas Reid",
@@ -4095,46 +3999,6 @@
           "wordCount": 4552,
           "title": "RAG Was Always a Temporary Workaround. What is Next?",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/rag1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609785",
-          "author": "Chinmay Kakatkar",
-          "description": "What our over-dependence on external consulting teaches us about delegating our minds to machines\nThe post The Big Con of Agentic AI appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-big-con-of-agentic-ai/",
-          "publishedOn": "2026-07-10T12:00:00.000Z",
-          "wordCount": 7524,
-          "title": "The Big Con of Agentic AI",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/geralt-businessman-8957483-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609749",
-          "author": "Hussen Mohammed Ibrahim",
-          "description": "A measured look at distributed training, from DDP and FSDP to the ZeRO stages in between, and why the wiring between your GPUs matters as much as the strategy you choose\nThe post Behind the Scenes of Distributed Training and Why Your GPU Wiring Matters as Much as Your Strategy appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/behind-the-scenes-of-distributed-training-why-your-gpu-wiring-matters-as-much-as-your-strategy/",
-          "publishedOn": "2026-07-09T16:30:00.000Z",
-          "wordCount": 8457,
-          "title": "Behind the Scenes of Distributed Training and Why Your GPU Wiring Matters as Much as Your Strategy",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/distributed-training-cover.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609747",
-          "author": "Eivind Kjosbakken",
-          "description": "Find the optimal way to interact with your coding agents\nThe post How to Find the Optimal Coding Agent Interface appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-find-the-optimal-coding-agent-interface/",
-          "publishedOn": "2026-07-09T15:00:00.000Z",
-          "wordCount": 4691,
-          "title": "How to Find the Optimal Coding Agent Interface",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/coding-agent-interfaces_cover.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609744",
-          "author": "Kezhan Shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #7quater] - A 492-page document has a 358-entry table of contents. You can’t read it all, and top-k over every page mixes the answer with its neighbours. Route through the TOC instead: a bounded loop inside retrieval that saves tokens and lifts precision\nThe post Loop Engineering for Hierarchical Retrieval: Reading a Long Document by Its Table of Contents appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/loop-engineering-for-hierarchical-retrieval-reading-a-long-document-by-its-table-of-contents/",
-          "publishedOn": "2026-07-09T13:30:00.000Z",
-          "wordCount": 4772,
-          "title": "Loop Engineering for Hierarchical Retrieval: Reading a Long Document by Its Table of Contents",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/card_catalog_Ph4ZJrwf4x8_v3_card.jpg"
         }
       ]
     },
@@ -4818,26 +4682,6 @@
           "wordCount": 9968,
           "title": "Craft still matters, but it’s about outcomes",
           "imageUrl": "https://miro.medium.com/v2/resize:fill:1200:632/g:fp:0.29:0.5/1*s8Oih5wlUh3XJRdb29Rg4w.png"
-        },
-        {
-          "id": "https://medium.com/p/fd3326ad375d",
-          "author": "Hiroshi Sato",
-          "description": "Perhaps it is the market that draws the norm into the open\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/designing-excuses-fd3326ad375d?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-07-10T07:28:15.000Z",
-          "wordCount": 1575,
-          "title": "Designing excuses",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*kqxVDqBpgUyc76A2N38yjw.png"
-        },
-        {
-          "id": "https://medium.com/p/7b946ceea70f",
-          "author": "Luis Hermosilla",
-          "description": "DesignOps is shifting from governing human-led process to orchestrating human and AI technology towards ethical, meaningful outcomes.\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/designops-in-the-age-of-ai-when-governance-becomes-orchestration-7b946ceea70f?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-07-09T16:23:55.000Z",
-          "wordCount": 1495,
-          "title": "DesignOps in the age of AI: when governance becomes orchestration",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*dgJQWU6y8TofAMQ7c__eRw.png"
         }
       ]
     },
@@ -4891,16 +4735,6 @@
           "wordCount": 2861,
           "title": "The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?",
           "imageUrl": null
-        },
-        {
-          "id": "6a4fd7106171aa00016f1eab",
-          "author": "Gergely Orosz",
-          "description": "Power users generate 10x as many lines of code vs the median, most of the AI spend is coming from input tokens not output ones, and almost half of AI changes are accepted without manual review by devs (!!)",
-          "link": "https://blog.pragmaticengineer.com/the-pulse-interesting-ai-coding-stats-from-cursor/",
-          "publishedOn": "2026-07-09T17:20:34.000Z",
-          "wordCount": 1871,
-          "title": "The Pulse: Interesting AI coding stats from Cursor",
-          "imageUrl": null
         }
       ]
     },
@@ -4909,6 +4743,56 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/85e292e4685a",
+          "author": "Camilo Lascano Tribin",
+          "description": "",
+          "link": "https://generativeai.pub/ghetto-kids-tiktok-trends-and-the-history-of-one-of-the-worlds-youngest-nations-courtesy-of-a-85e292e4685a?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-08T07:23:09.000Z",
+          "wordCount": null,
+          "title": "Ghetto Kids, TikTok Trends and the history of one of the world’s youngest nations courtesy of a…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a56acac6aebf",
+          "author": "Sean Cooper",
+          "description": "",
+          "link": "https://generativeai.pub/the-mainframe-era-of-ai-is-ending-a56acac6aebf?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-08T07:21:41.000Z",
+          "wordCount": null,
+          "title": "The Mainframe Era of AI Is Ending",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f117b6b57318",
+          "author": "Sean Cooper",
+          "description": "",
+          "link": "https://generativeai.pub/what-ai-companies-can-learn-from-the-auto-industry-f117b6b57318?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-08T07:20:57.000Z",
+          "wordCount": null,
+          "title": "What AI Companies Can Learn From the Auto Industry",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/85cbba1ba5d7",
+          "author": "Engrgbenga",
+          "description": "",
+          "link": "https://generativeai.pub/the-95-number-that-explains-why-sam-altman-needs-a-bodyguard-85cbba1ba5d7?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-08T07:07:57.000Z",
+          "wordCount": null,
+          "title": "The 95% Number That Explains Why Sam Altman Needs a Bodyguard",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e1edf93a010e",
+          "author": "Cezary Gesikowski",
+          "description": "Agents are still at the peak, with a growing stack underneath\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/generative-ai-hype-cycle-2026-e1edf93a010e?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-08T07:01:10.000Z",
+          "wordCount": null,
+          "title": "Generative AI Hype Cycle 2026",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/67d84df88d61",
           "author": "Colby Hood, MBA",

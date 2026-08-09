@@ -2,10 +2,109 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-08-08T00:37:34.297Z</updated>
+    <updated>2026-08-09T00:39:36.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🧠 Community Wisdom: Crafting outreach that reads as authentic, finding design partners, what counts as a moat when anyone can build, making a product vision stick, and more]]></title>
+        <id>https://www.lennysnewsletter.com/p/community-wisdom-crafting-outreach</id>
+        <link href="https://www.lennysnewsletter.com/p/community-wisdom-crafting-outreach"/>
+        <updated>2026-08-08T17:08:14.000Z</updated>
+        <summary type="html"><![CDATA[Community Wisdom 196]]></summary>
+        <author>
+            <name>Kiyani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Before Q, K, and V: Reconstructing the Transformer]]></title>
+        <id>https://towardsdatascience.com/?p=610386</id>
+        <link href="https://towardsdatascience.com/before-q-k-and-v-reconstructing-the-transformer/"/>
+        <updated>2026-08-08T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Many Transformer explainers start with the finished architecture. We ask why it looks the way it does.
+The post Before Q, K, and V: Reconstructing the Transformer appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Sankar Srinivasan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Streamlit UI for My LangGraph AI Agent]]></title>
+        <id>https://towardsdatascience.com/?p=610385</id>
+        <link href="https://towardsdatascience.com/building-a-streamlit-ui-for-my-langgraph-ai-agent/"/>
+        <updated>2026-08-08T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Building a production-ready web interface for a stateful LangGraph agent
+The post Building a Streamlit UI for My LangGraph AI Agent appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Soner Yıldırım</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Someone in Your Field Already Automated This]]></title>
+        <id>https://www.youtube.com/shorts/yCoJ89qc__A</id>
+        <link href="https://www.youtube.com/shorts/yCoJ89qc__A"/>
+        <updated>2026-08-08T12:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Someone in your field is automating what you still do manually every morning. Close the gap this week. Link in the description and pinned comment.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ghetto Kids, TikTok Trends and the history of one of the world’s youngest nations courtesy of a…]]></title>
+        <id>https://medium.com/p/85e292e4685a</id>
+        <link href="https://generativeai.pub/ghetto-kids-tiktok-trends-and-the-history-of-one-of-the-worlds-youngest-nations-courtesy-of-a-85e292e4685a?source=rss----440100e76000---4"/>
+        <updated>2026-08-08T07:23:09.000Z</updated>
+        <author>
+            <name>Camilo Lascano Tribin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Mainframe Era of AI Is Ending]]></title>
+        <id>https://medium.com/p/a56acac6aebf</id>
+        <link href="https://generativeai.pub/the-mainframe-era-of-ai-is-ending-a56acac6aebf?source=rss----440100e76000---4"/>
+        <updated>2026-08-08T07:21:41.000Z</updated>
+        <author>
+            <name>Sean Cooper</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What AI Companies Can Learn From the Auto Industry]]></title>
+        <id>https://medium.com/p/f117b6b57318</id>
+        <link href="https://generativeai.pub/what-ai-companies-can-learn-from-the-auto-industry-f117b6b57318?source=rss----440100e76000---4"/>
+        <updated>2026-08-08T07:20:57.000Z</updated>
+        <author>
+            <name>Sean Cooper</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 95% Number That Explains Why Sam Altman Needs a Bodyguard]]></title>
+        <id>https://medium.com/p/85cbba1ba5d7</id>
+        <link href="https://generativeai.pub/the-95-number-that-explains-why-sam-altman-needs-a-bodyguard-85cbba1ba5d7?source=rss----440100e76000---4"/>
+        <updated>2026-08-08T07:07:57.000Z</updated>
+        <author>
+            <name>Engrgbenga</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generative AI Hype Cycle 2026]]></title>
+        <id>https://medium.com/p/e1edf93a010e</id>
+        <link href="https://generativeai.pub/generative-ai-hype-cycle-2026-e1edf93a010e?source=rss----440100e76000---4"/>
+        <updated>2026-08-08T07:01:10.000Z</updated>
+        <summary type="html"><![CDATA[Agents are still at the peak, with a growing stack underneath
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Cezary Gesikowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything That Happened in AI Today (Friday, August 7, 2026)]]></title>
+        <id>https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-august-7-2026/</id>
+        <link href="https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-august-7-2026/"/>
+        <updated>2026-08-08T00:38:07.287Z</updated>
+        <summary type="html"><![CDATA[OpenAI slowed Astra after cyber evaluations could not rule out critical autonomous attack capability; U.S. data vendors were selling frontier datasets to Chinese labs; ByteDance scaled toward 10T parameters; Claude Code added cross-session messaging; DeepSeek V4 Flash reset ARC-AGI cost.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT Voice is the most powerful AI feature of 2026. Here’s how to master it]]></title>
         <id>https://www.youtube.com/watch?v=jKkr8czmG4U</id>
@@ -5453,216 +5552,6 @@ Continue reading on Generative AI »]]></summary>
 Continue reading on Generative AI »]]></summary>
         <author>
             <name>Ruqaiya Beguwala</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[做完第二大腦我才發現：一直餵資料給 AI，是我在拖慢它]]></title>
-        <id>https://www.youtube.com/watch?v=iOAJQhZmw_o</id>
-        <link href="https://www.youtube.com/watch?v=iOAJQhZmw_o"/>
-        <updated>2026-07-10T12:16:02.000Z</updated>
-        <author>
-            <name>追日Gucci-AI效率革命聯盟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code Plugins Actually Worth Installing]]></title>
-        <id>https://www.youtube.com/shorts/63xSXrrX6e0</id>
-        <link href="https://www.youtube.com/shorts/63xSXrrX6e0"/>
-        <updated>2026-07-10T12:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Big Con of Agentic AI]]></title>
-        <id>https://towardsdatascience.com/?p=609785</id>
-        <link href="https://towardsdatascience.com/the-big-con-of-agentic-ai/"/>
-        <updated>2026-07-10T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What our over-dependence on external consulting teaches us about delegating our minds to machines
-The post The Big Con of Agentic AI appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Chinmay Kakatkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😼 OpenAI's Super Thursday]]></title>
-        <id>https://www.theneuron.ai/newsletter/openai-s-super-thursday/</id>
-        <link href="https://www.theneuron.ai/newsletter/openai-s-super-thursday/"/>
-        <updated>2026-07-10T09:31:16.456Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing excuses]]></title>
-        <id>https://medium.com/p/fd3326ad375d</id>
-        <link href="https://uxdesign.cc/designing-excuses-fd3326ad375d?source=rss----138adf9c44c---4"/>
-        <updated>2026-07-10T07:28:15.000Z</updated>
-        <summary type="html"><![CDATA[Perhaps it is the market that draws the norm into the open
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Hiroshi Sato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-5.6 and the New ChatGPT Desktop App: Complete Guide]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/gpt-5-6-and-the-new-chatgpt-desktop-app-complete-guide/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/gpt-5-6-and-the-new-chatgpt-desktop-app-complete-guide/"/>
-        <updated>2026-07-10T05:50:24.503Z</updated>
-        <summary type="html"><![CDATA[OpenAI launched three GPT-5.6 models, merged Codex into a new ChatGPT desktop app, and introduced Work, Sites, scheduled agents, and background computer use. Here is what changed and which features are worth trying.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-5.6 and ChatGPT Work: Everything OpenAI Announced]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/gpt-5-6-and-chatgpt-work-everything-openai-announced/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/gpt-5-6-and-chatgpt-work-everything-openai-announced/"/>
-        <updated>2026-07-10T05:43:53.911Z</updated>
-        <summary type="html"><![CDATA[OpenAI's July launch combined GPT-5.6 Sol, Terra, and Luna with ChatGPT Work, Sites, background computer use, and a unified desktop app.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 剪片後：我的時間從 6-7 小時變成幾次點頭]]></title>
-        <id>https://www.youtube.com/shorts/u9Zbo3gEaH4</id>
-        <link href="https://www.youtube.com/shorts/u9Zbo3gEaH4"/>
-        <updated>2026-07-10T04:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>追日Gucci-AI效率革命聯盟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything That Happened in AI Today (Thursday, July 9, 2026)]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-thursday-july-9-2026/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-thursday-july-9-2026/"/>
-        <updated>2026-07-10T01:16:58.872Z</updated>
-        <summary type="html"><![CDATA[OpenAI released GPT-5.6 and ChatGPT Work; China weighed restricting access to advanced AI models; $130B in U.S. AI data centers were blocked or delayed; Meta launched Muse Spark 1.1; plus much more.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-5.6 SOL is HERE]]></title>
-        <id>https://www.youtube.com/watch?v=roGmNXASYOM</id>
-        <link href="https://www.youtube.com/watch?v=roGmNXASYOM"/>
-        <updated>2026-07-09T20:49:47.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT 5.6 just KILLED Fable 5]]></title>
-        <id>https://www.youtube.com/watch?v=r0TLqUwsB28</id>
-        <link href="https://www.youtube.com/watch?v=r0TLqUwsB28"/>
-        <updated>2026-07-09T18:21:02.000Z</updated>
-        <author>
-            <name>Alex Finn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today's the day...]]></title>
-        <id>https://www.youtube.com/watch?v=mD1F5DsC5tc</id>
-        <link href="https://www.youtube.com/watch?v=mD1F5DsC5tc"/>
-        <updated>2026-07-09T18:00:10.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minecraft made by GPT-5.6]]></title>
-        <id>https://www.youtube.com/shorts/3IudC2n8jvQ</id>
-        <link href="https://www.youtube.com/shorts/3IudC2n8jvQ"/>
-        <updated>2026-07-09T17:39:17.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-5.6 Sol vs. Claude Fable: Why OpenAI’s new model crushes my benchmark]]></title>
-        <id>https://www.lennysnewsletter.com/p/gpt-56-sol-vs-claude-fable-why-openais</id>
-        <link href="https://www.lennysnewsletter.com/p/gpt-56-sol-vs-claude-fable-why-openais"/>
-        <updated>2026-07-09T17:33:57.000Z</updated>
-        <summary type="html"><![CDATA[Watch now | 🎙️GPT 5.6-Sol beats Fable on prototypes, PRDs, and browser use in my 5-category How I AI benchmark, and here's exactly where each model earns its spot.]]></summary>
-        <author>
-            <name>Claire Vo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pulse: Interesting AI coding stats from Cursor]]></title>
-        <id>6a4fd7106171aa00016f1eab</id>
-        <link href="https://blog.pragmaticengineer.com/the-pulse-interesting-ai-coding-stats-from-cursor/"/>
-        <updated>2026-07-09T17:20:34.000Z</updated>
-        <summary type="html"><![CDATA[Power users generate 10x as many lines of code vs the median, most of the AI spend is coming from input tokens not output ones, and almost half of AI changes are accepted without manual review by devs (!!)]]></summary>
-        <author>
-            <name>Gergely Orosz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😺 LIVE now: GPT-5.6 Sol goes hands-on]]></title>
-        <id>https://www.theneuron.ai/newsletter/live-today-gpt-56-sol-goes-hands-on/</id>
-        <link href="https://www.theneuron.ai/newsletter/live-today-gpt-56-sol-goes-hands-on/"/>
-        <updated>2026-07-09T16:57:53.006Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Behind the Scenes of Distributed Training and Why Your GPU Wiring Matters as Much as Your Strategy]]></title>
-        <id>https://towardsdatascience.com/?p=609749</id>
-        <link href="https://towardsdatascience.com/behind-the-scenes-of-distributed-training-why-your-gpu-wiring-matters-as-much-as-your-strategy/"/>
-        <updated>2026-07-09T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A measured look at distributed training, from DDP and FSDP to the ZeRO stages in between, and why the wiring between your GPUs matters as much as the strategy you choose
-The post Behind the Scenes of Distributed Training and Why Your GPU Wiring Matters as Much as Your Strategy appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Hussen Mohammed Ibrahim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DesignOps in the age of AI: when governance becomes orchestration]]></title>
-        <id>https://medium.com/p/7b946ceea70f</id>
-        <link href="https://uxdesign.cc/designops-in-the-age-of-ai-when-governance-becomes-orchestration-7b946ceea70f?source=rss----138adf9c44c---4"/>
-        <updated>2026-07-09T16:23:55.000Z</updated>
-        <summary type="html"><![CDATA[DesignOps is shifting from governing human-led process to orchestrating human and AI technology towards ethical, meaningful outcomes.
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Luis Hermosilla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Find the Optimal Coding Agent Interface]]></title>
-        <id>https://towardsdatascience.com/?p=609747</id>
-        <link href="https://towardsdatascience.com/how-to-find-the-optimal-coding-agent-interface/"/>
-        <updated>2026-07-09T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Find the optimal way to interact with your coding agents
-The post How to Find the Optimal Coding Agent Interface appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Eivind Kjosbakken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI Job Apocalypse Is a Complete Misread]]></title>
-        <id>https://www.thevccorner.com/p/the-ai-job-apocalypse-is-a-complete</id>
-        <link href="https://www.thevccorner.com/p/the-ai-job-apocalypse-is-a-complete"/>
-        <updated>2026-07-09T14:18:05.000Z</updated>
-        <summary type="html"><![CDATA[Three years of surveys, stable headcount across the economy, and companies still making decisions based on a forecast that hasn't materialized. Here's what's actually happening.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loop Engineering for Hierarchical Retrieval: Reading a Long Document by Its Table of Contents]]></title>
-        <id>https://towardsdatascience.com/?p=609744</id>
-        <link href="https://towardsdatascience.com/loop-engineering-for-hierarchical-retrieval-reading-a-long-document-by-its-table-of-contents/"/>
-        <updated>2026-07-09T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #7quater] - A 492-page document has a 358-entry table of contents. You can’t read it all, and top-k over every page mixes the answer with its neighbours. Route through the TOC instead: a bounded loop inside retrieval that saves tokens and lifts precision
-The post Loop Engineering for Hierarchical Retrieval: Reading a Long Document by Its Table of Contents appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Kezhan Shi</name>
         </author>
     </entry>
 </feed>
