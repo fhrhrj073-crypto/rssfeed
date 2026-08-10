@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/njnKqY5r5CM",
+          "author": null,
+          "description": "More videos aren't your bottleneck. You have a shipping problem, not a knowledge problem. Fix it free. Link in the description and pinned comment.",
+          "link": "https://www.youtube.com/shorts/njnKqY5r5CM",
+          "publishedOn": "2026-08-09T12:00:20.000Z",
+          "wordCount": 3189,
+          "title": "The Real Reason You're Not Improving",
+          "imageUrl": "https://i.ytimg.com/vi/njnKqY5r5CM/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLDAgXQdm1zF1p7E32vyO9UuzZjijg"
+        },
+        {
           "id": "https://www.youtube.com/shorts/yCoJ89qc__A",
           "author": null,
           "description": "Someone in your field is automating what you still do manually every morning. Close the gap this week. Link in the description and pinned comment.",
@@ -443,16 +453,6 @@
           "publishedOn": "2026-07-12T12:00:24.000Z",
           "wordCount": 2104,
           "title": "How to Actually Connect GitHub to Claude Code",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/188rCAWkoVo",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/188rCAWkoVo",
-          "publishedOn": "2026-07-11T12:00:28.000Z",
-          "wordCount": 2112,
-          "title": "Make Claude Code Write Better Python With Pyright",
           "imageUrl": null
         }
       ]
@@ -913,6 +913,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcQA-MzQxCvET1S-BekQdAA",
       "siteUrl": "https://www.youtube.com/channel/UCcQA-MzQxCvET1S-BekQdAA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=kkIjffc6mE0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kkIjffc6mE0",
+          "publishedOn": "2026-08-09T12:54:45.000Z",
+          "wordCount": null,
+          "title": "電腦藍屏、關機也能遠端救援！AweSun + Q1 Smart KVM 竟然連 BIOS 都能硬控",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=lgaDJhP9eTE",
           "author": null,
@@ -1389,26 +1399,6 @@
           "wordCount": 2120,
           "title": "縮圖、Shorts、文案全部備好，你只剩上架這個動作",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/Gr1FbLALizY",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/Gr1FbLALizY",
-          "publishedOn": "2026-07-11T04:07:56.000Z",
-          "wordCount": 2006,
-          "title": "每次都要重新跟 AI 解釋一遍？我幫它建了一個第二大腦",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/DsVzruXprnI",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/DsVzruXprnI",
-          "publishedOn": "2026-07-11T04:00:03.000Z",
-          "wordCount": 2027,
-          "title": "剪片的粗活全交給 AI，你只要確認 6 個點",
-          "imageUrl": null
         }
       ]
     },
@@ -1469,6 +1459,22 @@
       "feedUrl": "https://www.lennysnewsletter.com/feed",
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
+        {
+          "id": "https://www.lennysnewsletter.com/p/the-playbook-for-building-high-talent",
+          "author": "Lenny Rachitsky",
+          "description": "Listen now | Cursor’s Adam Ward on “funnel of doom” hiring, treating every hire like an executive search, and why caring is the biggest unfair advantage in recruiting",
+          "link": "https://www.lennysnewsletter.com/p/the-playbook-for-building-high-talent",
+          "publishedOn": "2026-08-09T12:31:29.000Z",
+          "wordCount": null,
+          "title": "The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/209025209/a266314f944e73b52dd2625cb49642a9.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://www.lennysnewsletter.com/p/community-wisdom-crafting-outreach",
           "author": "Kiyani",
@@ -1845,6 +1851,22 @@
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
         {
+          "id": "https://www.thevccorner.com/p/the-endgame-of-vertical-integration",
+          "author": "Ruben Dominguez",
+          "description": "Another week, another pulse check on Tech.",
+          "link": "https://www.thevccorner.com/p/the-endgame-of-vertical-integration",
+          "publishedOn": "2026-08-09T14:10:25.000Z",
+          "wordCount": null,
+          "title": "The Endgame Of Vertical Integration🤖, VC Fund Performance💰, The Frontier AI Price Wars Continue💸",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!rHJq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F901e5bc9-fa7b-4b6f-88c6-4a3e74642aab_3840x2160.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!rHJq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F901e5bc9-fa7b-4b6f-88c6-4a3e74642aab_3840x2160.webp"
+        },
+        {
           "id": "https://www.thevccorner.com/p/startups-raising-now-august-2026-list",
           "author": "Ruben Dominguez",
           "description": "Pre-seed to Series A, across 40+ countries, every deck attached. Updated monthly, and free for founders to join",
@@ -2179,22 +2201,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!GHDW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ce46ddf-4aca-4608-be45-9c2a93577a09_946x709.jpeg"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/the-most-successful-venture-fund-ever",
-          "author": "Ruben Dominguez",
-          "description": "Chris Sacca is the world’s best investor and you’ve probably never heard of him",
-          "link": "https://www.thevccorner.com/p/the-most-successful-venture-fund-ever",
-          "publishedOn": "2026-07-10T14:49:20.000Z",
-          "wordCount": null,
-          "title": "The Most Improbable Venture Fund Ever Built",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!6LRU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9478f314-9864-4531-a876-e0ff670a4c31_959x639.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!6LRU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9478f314-9864-4531-a876-e0ff670a4c31_959x639.jpeg"
         }
       ]
     },
@@ -2203,6 +2209,16 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/newsletter/the-ai-data-center-backlash-is-going-bipartisan/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/the-ai-data-center-backlash-is-going-bipartisan/",
+          "publishedOn": "2026-08-09T16:03:42.899Z",
+          "wordCount": null,
+          "title": "😺 The AI Data Center Backlash Is Going Bipartisan",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-august-7-2026/",
           "author": null,
@@ -2950,6 +2966,26 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=610482",
+          "author": "Ibrahim Salami",
+          "description": "Building my first dbt models and learning what “analysis-ready” data actually means\nThe post I Thought Loading Data Was the Finish Line. It Was the Starting Point. appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/i-thought-loading-data-was-the-finish-line-it-was-the-starting-point/",
+          "publishedOn": "2026-08-09T15:00:00.000Z",
+          "wordCount": 4998,
+          "title": "I Thought Loading Data Was the Finish Line. It Was the Starting Point.",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/RSS-transform-article-dbt.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610388",
+          "author": "Shuai Guo",
+          "description": "Why use it? How to implement it? What can we do when it fails?\nThe post How to Implement Structured Output with Local LLMs appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/structured-output-with-local-llms/",
+          "publishedOn": "2026-08-09T13:00:00.000Z",
+          "wordCount": 4639,
+          "title": "How to Implement Structured Output with Local LLMs",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/structured_output.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=610386",
           "author": "Sankar Srinivasan",
@@ -3969,36 +4005,6 @@
           "wordCount": 7133,
           "title": "That Is Embarrassing: Why Frontier AI Still Makes Things Up, and What to Do About It",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/gilang-fahmi-H4K_5qxu_9w-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609797",
-          "author": "Ibrahim Salami",
-          "description": "Building a production-ready RSS pipeline with Python, Docker, PostgreSQL, and Kestra\nThe post I Built My Second ETL Pipeline. This Time, I Started Thinking Like a Data Engineer appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/i-built-my-second-etl-pipeline-this-time-i-started-thinking-like-a-data-engineer/",
-          "publishedOn": "2026-07-10T17:00:00.000Z",
-          "wordCount": 6297,
-          "title": "I Built My Second ETL Pipeline. This Time, I Started Thinking Like a Data Engineer",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/etl-article-image-rss.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609791",
-          "author": "Thomas Reid",
-          "description": "A practical next step into partitions, shuffles, joins, caching, and execution plans.\nThe post PySpark for Beginners: Building Intermediate-Level Skills appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/pyspark-for-beginners-building-intermediate-level-skills/",
-          "publishedOn": "2026-07-10T15:00:00.000Z",
-          "wordCount": 5935,
-          "title": "PySpark for Beginners: Building Intermediate-Level Skills",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/Generated-Image-May-24-2026-9_06AM.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609789",
-          "author": "Anubhab Banerjee",
-          "description": "Vector databases are a temporary bridge. Discover why the next AI infrastructure revolution relies on persistent neural state and strict latency budgets, not on vector databases.\nThe post RAG Was Always a Temporary Workaround. What is Next? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/rag-was-always-a-temporary-workaround-what-is-next/",
-          "publishedOn": "2026-07-10T13:30:00.000Z",
-          "wordCount": 4552,
-          "title": "RAG Was Always a Temporary Workaround. What is Next?",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/rag1.jpg"
         }
       ]
     },
@@ -4013,6 +4019,26 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/4e8981b3ef88",
+          "author": "Takuma Kakehi",
+          "description": "90 years of loom engineering went into teaching machines to catch their mistakes.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/the-loom-that-raised-its-hand-4e8981b3ef88?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-08-09T20:51:26.000Z",
+          "wordCount": null,
+          "title": "The loom that raised its hand",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2c2054ea6017",
+          "author": "Andrea Filiberto Lucas",
+          "description": "",
+          "link": "https://uxdesign.cc/thinking-outside-the-box-2c2054ea6017?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-08-09T18:25:26.000Z",
+          "wordCount": null,
+          "title": "Thinking outside the box (literally)",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/a60029fa1f1c",
           "author": "Patrick Neeman",
@@ -4743,6 +4769,96 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/114ed91e8024",
+          "author": "thecloudhustler",
+          "description": "",
+          "link": "https://generativeai.pub/from-vibe-to-verify-the-hidden-checklist-for-production-ready-ai-114ed91e8024?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-09T12:46:58.000Z",
+          "wordCount": null,
+          "title": "From Vibe to Verify: The Hidden Checklist for Production-Ready AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2b1e2aeb019e",
+          "author": "Shivank Prabhudessai",
+          "description": "Why fitting more into a prompt does not mean the model can find what matters.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/context-windows-are-a-lie-what-actually-happens-when-you-stuff-them-full-2b1e2aeb019e?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-09T12:41:32.000Z",
+          "wordCount": null,
+          "title": "Context Windows Are a Lie: What Actually Happens When You Stuff Them Full",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9cfd98122764",
+          "author": "Emilio Ferrara",
+          "description": "",
+          "link": "https://generativeai.pub/a-language-model-will-tell-you-its-values-then-it-will-act-otherwise-9cfd98122764?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-09T12:02:32.000Z",
+          "wordCount": null,
+          "title": "A Language Model Will Tell You Its Values. Then It Will Act Otherwise.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/254a5812f240",
+          "author": "Colby Hood, MBA",
+          "description": "",
+          "link": "https://generativeai.pub/an-open-letter-to-the-c-suite-your-ai-will-get-along-exactly-as-well-as-you-do-254a5812f240?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-09T09:37:04.000Z",
+          "wordCount": null,
+          "title": "An open letter to the C-suite: your Agents will get along as well as you do",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6debdc61e4ad",
+          "author": "Jes Fink-Jensen",
+          "description": "What’s actually inside CLAUDE.md and CONTEXT.md, and how the layout maps onto Interpretable Context Methodology.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/how-i-structured-an-icm-workspace-for-drafting-mini-courses-6debdc61e4ad?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-09T09:31:08.000Z",
+          "wordCount": null,
+          "title": "How I Structured an ICM Workspace for Drafting Mini-Courses",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/acf88fb684fb",
+          "author": "Jim Clyde Monge",
+          "description": "",
+          "link": "https://generativeai.pub/how-i-use-ai-to-manage-a-research-project-from-papers-to-a-revised-draft-acf88fb684fb?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-09T09:23:54.000Z",
+          "wordCount": null,
+          "title": "How I Use AI to Manage a Research Project: From Papers to a Revised Draft",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a56878c90729",
+          "author": "Jes Fink-Jensen",
+          "description": "A reproducible ICM test for OpenCode, Claude Code, or any agent that reads CLAUDE.md or AGENTS.md on startup\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/copy-these-6-files-and-watch-your-ai-coding-agent-follow-a-chain-of-instructions-on-its-own-a56878c90729?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-09T09:20:14.000Z",
+          "wordCount": null,
+          "title": "Copy These 6 Files and Watch Your AI Coding Agent Follow a Chain of Instructions on Its Own",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/fe7dfeefa486",
+          "author": "Weiwei Hu",
+          "description": "How to define recurring work, give AI the right context, explain what high-quality work looks like, and decide where human judgment is…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/prepare-these-5-assets-before-your-ai-agents-take-on-more-work-fe7dfeefa486?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-09T09:15:56.000Z",
+          "wordCount": null,
+          "title": "Prepare These 5 Assets Before Your AI Agents Take On More Work",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1b357161124e",
+          "author": "Mehmet Özel",
+          "description": "Krugman signed. LeCun signed. The real story is what neither signature can tell us.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/16-nobel-laureates-warned-about-ai-what-their-signatures-actually-prove-1b357161124e?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-09T08:46:04.000Z",
+          "wordCount": null,
+          "title": "16 Nobel Laureates Warned About AI: What Their Signatures Actually Prove",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/85e292e4685a",
           "author": "Camilo Lascano Tribin",
@@ -5802,106 +5918,6 @@
           "wordCount": 4152,
           "title": "#1 Claude Loops: Stop Using Claude Like Chat",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*U0887G53fnEafED11V_7ow.png"
-        },
-        {
-          "id": "https://medium.com/p/95110e93c25a",
-          "author": "Jim Clyde Monge",
-          "description": "A practical comparison of PixAI and SeaArt AI for anime image generation, character consistency, LoRA workflows, pricing, and creative use…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/pixai-vs-seaart-which-ai-art-platform-is-better-for-anime-creators-95110e93c25a?source=rss----440100e76000---4",
-          "publishedOn": "2026-07-10T23:33:40.000Z",
-          "wordCount": 2388,
-          "title": "PixAI vs SeaArt: Which AI Art Platform Is Better for Anime Creators?",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*QmohWBs6uRV47dlA8mQ_uw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/3b564d4c13d3",
-          "author": "Ruqaiya Beguwala",
-          "description": "Each one attacks a different layer of waste — context, discovery, terminal output, response length. All free. Setup included.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/four-open-source-tools-that-cut-claudes-token-burn-3b564d4c13d3?source=rss----440100e76000---4",
-          "publishedOn": "2026-07-10T13:33:14.000Z",
-          "wordCount": 1571,
-          "title": "Four Open-Source Tools That Cut Claude’s Token Burn",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*xwHUIOXxRaHPIaSkCSFRCw.png"
-        },
-        {
-          "id": "https://medium.com/p/90dcd31ce008",
-          "author": "hejrene | Rene",
-          "description": "I thought HR would feel more human, but I was probably naive. Here’s why and what I would change.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/i-thought-hr-was-about-people-then-ai-took-over-90dcd31ce008?source=rss----440100e76000---4",
-          "publishedOn": "2026-07-10T13:29:38.000Z",
-          "wordCount": 2473,
-          "title": "I Thought HR Was About People. Then AI Took Over",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*81B4BigLqgBOJFJ4Fg6xgQ.png"
-        },
-        {
-          "id": "https://medium.com/p/e10bf841d3ae",
-          "author": "Jim Clyde Monge",
-          "description": "How developers using Claude Code and Codex can turn agent test failures into their next bug fix prompt.",
-          "link": "https://generativeai.pub/let-the-agent-complain-friction-as-telemetry-e10bf841d3ae?source=rss----440100e76000---4",
-          "publishedOn": "2026-07-10T13:27:55.000Z",
-          "wordCount": 6637,
-          "title": "Let the Agent Complain: Friction as Telemetry",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*lvLlGGYImlLxx2UZ5ZtlEg.png"
-        },
-        {
-          "id": "https://medium.com/p/e90465d3acc6",
-          "author": "PIXIPACE",
-          "description": "Cursor shipped an iPhone app this week that lets you kick off and steer coding agents from your phone. It’s the clearest sign yet that…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/my-coding-agent-now-lives-in-my-pocket-and-im-still-deciding-how-i-feel-about-it-e90465d3acc6?source=rss----440100e76000---4",
-          "publishedOn": "2026-07-10T13:22:59.000Z",
-          "wordCount": 2530,
-          "title": "My Coding Agent Now Lives in My Pocket, and I’m Still Deciding How I Feel About It",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*wddRQsK-jS5pU4spb2ZVvQ.png"
-        },
-        {
-          "id": "https://medium.com/p/b88db3582c2c",
-          "author": "Mehmet Özel",
-          "description": "How frontier AI, coding agents, and unreliable evaluation benchmarks are changing roadmap planning for LLM-powered products.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/roadmaps-after-frontier-models-planning-on-a-moving-capability-frontier-b88db3582c2c?source=rss----440100e76000---4",
-          "publishedOn": "2026-07-10T13:18:14.000Z",
-          "wordCount": 2413,
-          "title": "Roadmaps After Frontier Models: Planning on a Moving Capability Frontier",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*FX4eRGo7fm_LNKAS5hOy7g.png"
-        },
-        {
-          "id": "https://medium.com/p/2c83e08e3ed9",
-          "author": "Ahmed M. Abdelfattah",
-          "description": "The cooling water is the part companies can shrink and love to talk about. It is also the small part. The water that actually runs the AI…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/microsoft-says-its-ai-data-centers-use-as-much-water-as-a-restaurant-2c83e08e3ed9?source=rss----440100e76000---4",
-          "publishedOn": "2026-07-10T13:14:43.000Z",
-          "wordCount": 2439,
-          "title": "Microsoft Says Its AI Data Centers Use as Much Water as a Restaurant.",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:720/1*Q1G5wjWE6VIsrQh73MarGw.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/ef6a18221fc9",
-          "author": "Daniel Hayes",
-          "description": "The phrase “AI for every industry” does the opposite of what the marketing team intends. It is written to widen the funnel, and it narrows…",
-          "link": "https://generativeai.pub/ai-for-every-industry-messaging-kills-deals-because-buyers-hear-not-for-me-ef6a18221fc9?source=rss----440100e76000---4",
-          "publishedOn": "2026-07-10T13:14:30.000Z",
-          "wordCount": 5516,
-          "title": "“AI for every industry” messaging kills deals because buyers hear “not for me”",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*gBrbHlP9zer0hS4_LYxKUw.png"
-        },
-        {
-          "id": "https://medium.com/p/58c4b59074da",
-          "author": "Paige Anderson",
-          "description": "If a hiring manager has asked you for a “what I would do in my first 90 days” deck and you want the short answer to which AI builds the…",
-          "link": "https://generativeai.pub/the-90-day-plan-deck-should-take-an-evening-not-a-weekend-58c4b59074da?source=rss----440100e76000---4",
-          "publishedOn": "2026-07-10T13:11:14.000Z",
-          "wordCount": 6151,
-          "title": "The 90-day plan deck should take an evening, not a weekend",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1116/1*pai1FWgK90OGbhnuVyo9ng.png"
-        },
-        {
-          "id": "https://medium.com/p/7741fefc0c12",
-          "author": "Ruqaiya Beguwala",
-          "description": "No code, no babysitting — just an interview, a build sheet, and a live agent grading its own work.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/how-i-built-a-claude-ai-agent-without-writing-any-code-7741fefc0c12?source=rss----440100e76000---4",
-          "publishedOn": "2026-07-10T13:11:11.000Z",
-          "wordCount": 1600,
-          "title": "How I Built a Claude AI Agent Without Writing Any Code",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*zs6lbiZVQk-D4aLDPBUJ7Q.png"
         }
       ]
     }
