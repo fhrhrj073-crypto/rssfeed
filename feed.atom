@@ -2,10 +2,220 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-08-14T00:47:55.869Z</updated>
+    <updated>2026-08-15T00:26:32.271Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI News: ChatGPT Ultrafast, Grok 4.6, 3 New Open-Source Models, and more!]]></title>
+        <id>https://www.youtube.com/watch?v=9qix4oDB5aw</id>
+        <link href="https://www.youtube.com/watch?v=9qix4oDB5aw"/>
+        <updated>2026-08-14T23:34:42.000Z</updated>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Skill of the Day Digest — May 2026 (Part 2)]]></title>
+        <id>https://www.theneuron.ai/digest/ai-skill-of-the-day-digest-may-2026-part-2/</id>
+        <link href="https://www.theneuron.ai/digest/ai-skill-of-the-day-digest-may-2026-part-2/"/>
+        <updated>2026-08-14T22:58:42.135Z</updated>
+        <summary type="html"><![CDATA[Fifteen practical AI skills from The Neuron's May 14-31 newsletters, with copy-pastable prompts for Claude, ChatGPT, Gemini, Codex, and AI agents.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything That Happened in AI Today (Friday, August 14, 2026)]]></title>
+        <id>https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-august-14-2026/</id>
+        <link href="https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-august-14-2026/"/>
+        <updated>2026-08-14T21:44:48.590Z</updated>
+        <summary type="html"><![CDATA[OpenAI crossed a $40B annualized revenue run rate amid executive churn; Apple built a China-specific AI model with Alibaba; GLM-5.3 boosted coding and cyber capability; Cursor joined SpaceX; Google shipped Gemini 3.7 Flash.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 CLI Tools for Managing Multiple AI Agents Without Losing Your Mind]]></title>
+        <id>https://medium.com/p/1886c5037489</id>
+        <link href="https://generativeai.pub/5-cli-tools-for-managing-multiple-ai-agents-without-losing-your-mind-1886c5037489?source=rss----440100e76000---4"/>
+        <updated>2026-08-14T21:39:57.000Z</updated>
+        <summary type="html"><![CDATA[How to prevent collisions, preserve long-running sessions, and review parallel work without becoming the bottleneck.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Sarath S</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LTX-2.5 Video Prompting for Beginners: Full Guide With Timestamps]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/ltx-2-5-video-prompting-for-beginners-full-guide-with-timestamps/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/ltx-2-5-video-prompting-for-beginners-full-guide-with-timestamps/"/>
+        <updated>2026-08-14T19:55:40.969Z</updated>
+        <summary type="html"><![CDATA[We went live with the LTX team to learn how AI video prompting actually works. This guide turns the demos into a beginner workflow, with exact timestamps for every important lesson.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting started is not getting it right]]></title>
+        <id>https://medium.com/p/e76270614d14</id>
+        <link href="https://uxdesign.cc/getting-started-is-not-getting-it-right-e76270614d14?source=rss----138adf9c44c---4"/>
+        <updated>2026-08-14T19:26:57.000Z</updated>
+        <author>
+            <name>Nicole Alexandra Michaelis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become a Forward Deployed Engineer in 2026]]></title>
+        <id>https://www.youtube.com/watch?v=vLlIBT0HSSc</id>
+        <link href="https://www.youtube.com/watch?v=vLlIBT0HSSc"/>
+        <updated>2026-08-14T17:42:59.000Z</updated>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Day in the Life of a Data Scientist in 2026]]></title>
+        <id>https://towardsdatascience.com/?p=610606</id>
+        <link href="https://towardsdatascience.com/a-day-in-the-life-of-a-data-scientist-in-2026/"/>
+        <updated>2026-08-14T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[How AI has massively changed my day-to-day workflow
+The post A Day in the Life of a Data Scientist in 2026 appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Haden Pelletier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RAG Workflow and Loop Engineering: The Dispatcher That Decides When to Loop and When to Stop]]></title>
+        <id>https://towardsdatascience.com/?p=610604</id>
+        <link href="https://towardsdatascience.com/rag-workflow-and-loop-engineering-the-dispatcher-that-decides-when-to-loop-and-when-to-stop/"/>
+        <updated>2026-08-14T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #13] - Putting the patterns together, and why this is what “agentic RAG” should look like
+The post RAG Workflow and Loop Engineering: The Dispatcher That Decides When to Loop and When to Stop appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>angela shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Money Most Founders Never Claim: 156 Grants, Matched in 10 Seconds]]></title>
+        <id>https://www.thevccorner.com/p/startup-grant-radar-non-dilutive-funding-2026</id>
+        <link href="https://www.thevccorner.com/p/startup-grant-radar-non-dilutive-funding-2026"/>
+        <updated>2026-08-14T13:40:43.000Z</updated>
+        <summary type="html"><![CDATA[SBIR, EIC Accelerator, R&D tax credits, cloud credits. Tell it your region, sector, and stage. Get a ranked shortlist with apply links. Plus 20 matched investor pitches on September 17.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Model Was Cheating on Its Own Test]]></title>
+        <id>https://towardsdatascience.com/?p=610602</id>
+        <link href="https://towardsdatascience.com/my-model-was-cheating-on-its-own-test/"/>
+        <updated>2026-08-14T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A preprocessing pipeline let my car price model peek at the test set before the exam, and the twelve points of R squared it cheated its way to
+The post My Model Was Cheating on Its Own Test appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Abdullahi Dattijo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Founding Window Closes Tonight]]></title>
+        <id>https://www.youtube.com/shorts/y29u2FiAIrM</id>
+        <link href="https://www.youtube.com/shorts/y29u2FiAIrM"/>
+        <updated>2026-08-14T12:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Founding window closes TONIGHT. This is later. Link in the description and pinned comment.]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Made an LLM Lay Siege to My Minecraft House]]></title>
+        <id>https://towardsdatascience.com/?p=610600</id>
+        <link href="https://towardsdatascience.com/i-made-an-llm-lay-siege-to-my-minecraft-house/"/>
+        <updated>2026-08-14T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Can a language model do live adversarial level design? Yes, emphasis on the adversarial part
+The post I Made an LLM Lay Siege to My Minecraft House appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Jaemin Han</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manus突然免費！但部分用戶8月23日前要Backup資料⚠️]]></title>
+        <id>https://www.youtube.com/shorts/js3AfR1P6pQ</id>
+        <link href="https://www.youtube.com/shorts/js3AfR1P6pQ"/>
+        <updated>2026-08-14T10:00:09.000Z</updated>
+        <summary type="html"><![CDATA[🚨 有用 Manus？呢個更新一定要留意。Manus 1.6 Lite 同 Manus 1.6 而家限時免費用，活動去到 8月25日晚上11:59（香港時間）。但更重要係，Manus 宣布同 Meta 分離、重新獨立營運。因應部分地區監管要求，部分受影響用戶嘅資料需要刪除。⚠️ 如果你收到受影響通知：8月23日...]]></summary>
+        <author>
+            <name>Dr. Jackei 科技生活日誌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你排的隊、你訂的位，別人的 AI 可以直接取消｜不需要問過你，也救不回來]]></title>
+        <id>https://www.youtube.com/watch?v=KO-0cmGG2DU</id>
+        <link href="https://www.youtube.com/watch?v=KO-0cmGG2DU"/>
+        <updated>2026-08-14T09:42:08.000Z</updated>
+        <author>
+            <name>追日Gucci-AI效率革命聯盟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 Google, OpenAI, DeepSeek dropped models today]]></title>
+        <id>https://www.theneuron.ai/newsletter/google-openai-deepseek-dropped-models-today/</id>
+        <link href="https://www.theneuron.ai/newsletter/google-openai-deepseek-dropped-models-today/"/>
+        <updated>2026-08-14T09:32:36.286Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seedance 2.5 vs Seedance 2.0: What’s Changed?]]></title>
+        <id>https://medium.com/p/14d86faba7a4</id>
+        <link href="https://generativeai.pub/seedance-2-5-vs-seedance-2-0-whats-changed-14d86faba7a4?source=rss----440100e76000---4"/>
+        <updated>2026-08-14T09:32:28.000Z</updated>
+        <author>
+            <name>Jim Clyde Monge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不想滿屋子都是線？Deco BE65-PoE 你一定需要知道！]]></title>
+        <id>https://www.youtube.com/shorts/3fedPYsxt0k</id>
+        <link href="https://www.youtube.com/shorts/3fedPYsxt0k"/>
+        <updated>2026-08-14T07:10:02.000Z</updated>
+        <summary type="html"><![CDATA[TP-Link 專屬優惠：https://shopee.tw/product/55797099/52202433654/8/14-8/28 購買Deco BE65-PoE(3-pack) 輸入折扣碼「TPLIKOCPC」現折1,000！]]></summary>
+        <author>
+            <name>電腦王阿達</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Git Still the Right Version Control When Your Agents Write the Code?]]></title>
+        <id>https://medium.com/p/e2ff410c3509</id>
+        <link href="https://generativeai.pub/is-git-still-the-right-version-control-when-your-agents-write-the-code-e2ff410c3509?source=rss----440100e76000---4"/>
+        <updated>2026-08-14T01:46:38.000Z</updated>
+        <summary type="html"><![CDATA[Agents made writing code cheap. They did not make reviewing, isolating, merging, or trusting it any cheaper.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Luis Ticas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 memories I would use to build AI agents in 2026]]></title>
+        <id>https://medium.com/p/cecc7fb39a9e</id>
+        <link href="https://generativeai.pub/5-memories-i-would-use-to-build-ai-agents-in-2026-cecc7fb39a9e?source=rss----440100e76000---4"/>
+        <updated>2026-08-14T01:35:27.000Z</updated>
+        <summary type="html"><![CDATA[How working, episodic, semantic, procedural, and perceptual memory shape what an agent remembers and what enters its context.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>S Sankar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Look, Everything Is…Code]]></title>
+        <id>https://medium.com/p/bedfb6dff8e9</id>
+        <link href="https://generativeai.pub/look-everything-is-code-bedfb6dff8e9?source=rss----440100e76000---4"/>
+        <updated>2026-08-14T01:15:18.000Z</updated>
+        <author>
+            <name>Volodymyr Vreshch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rethinking design leadership with swarms and flocks]]></title>
         <id>https://medium.com/p/9298db8c59d2</id>
@@ -5445,195 +5655,6 @@ The post How to Get the Most Out of Claude Fable 5 appeared first on Towards Dat
         <updated>2026-07-16T13:00:18.000Z</updated>
         <author>
             <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turn Figma Designs Into Working Code With Claude Code]]></title>
-        <id>https://www.youtube.com/shorts/skvDVmuZT-w</id>
-        <link href="https://www.youtube.com/shorts/skvDVmuZT-w"/>
-        <updated>2026-07-16T12:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Your Betas Explode: The Hidden Geometry of Multicollinearity]]></title>
-        <id>https://towardsdatascience.com/?p=609887</id>
-        <link href="https://towardsdatascience.com/why-your-betas-explode-the-hidden-geometry-of-multicollinearity/"/>
-        <updated>2026-07-16T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Why your regression coefficients keep changing, and what geometry has to do with it.
-The post Why Your Betas Explode: The Hidden Geometry of Multicollinearity appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Spyros Georgopoulos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😸 ChatGPT may get a body]]></title>
-        <id>https://www.theneuron.ai/newsletter/chatgpt-may-get-a-body/</id>
-        <link href="https://www.theneuron.ai/newsletter/chatgpt-may-get-a-body/"/>
-        <updated>2026-07-16T09:30:54.444Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything That Happened in AI Today (Sunday, July 12, 2026)]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-sunday-july-12-2026/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-sunday-july-12-2026/"/>
-        <updated>2026-07-16T01:04:45.368Z</updated>
-        <summary type="html"><![CDATA[AI data centers ran into local resistance, investor scrutiny, and Oracle credit-risk pressure; OpenAI faced safety-lead churn and launch complexity; Anthropic expanded Claude Code's browser-agent surface; AI slop kept spreading across LinkedIn.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything That Happened in AI Today (Wednesday, July 15, 2026)]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-wednesday-july-15-2026/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/everything-that-happened-in-ai-today-wednesday-july-15-2026/"/>
-        <updated>2026-07-16T00:54:38.220Z</updated>
-        <summary type="html"><![CDATA[OpenAI's first hardware device took shape as a screenless AI speaker; Thinking Machines released Inkling; OpenAI trained GPT-Red; Anthropic moved toward an IPO while backing AI implementation; Walden launched with Toyota support.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything That Happened in AI Today (Tuesday, July 14, 2026)]]></title>
-        <id>https://www.theneuron.ai/newsletter/everything-that-happened-in-ai-today-tuesday-july-14-2026/</id>
-        <link href="https://www.theneuron.ai/newsletter/everything-that-happened-in-ai-today-tuesday-july-14-2026/"/>
-        <updated>2026-07-16T00:44:36.450Z</updated>
-        <summary type="html"><![CDATA[Google DeepMind’s Demis Hassabis called for a U.S.-led frontier-AI watchdog; New York paused hyperscale data-center permits; Apple opened Siri AI to public beta testers; Google faced a new publisher lawsuit; DeepSeek eyed a $1.5B raise.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything That Happened in AI Today (Monday, July 13, 2026)]]></title>
-        <id>https://www.theneuron.ai/newsletter/everything-that-happened-in-ai-today-monday-july-13-2026/</id>
-        <link href="https://www.theneuron.ai/newsletter/everything-that-happened-in-ai-today-monday-july-13-2026/"/>
-        <updated>2026-07-16T00:43:22.004Z</updated>
-        <summary type="html"><![CDATA[Apple's OpenAI lawsuit got sharper; Meta's AI infrastructure bill climbed past $50B; companies turned to cheaper Chinese AI models; AI bond issuance tested investors; Apple shipped its first real Siri AI beta.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT 5.6 inside Hermes Agent left me speechless...]]></title>
-        <id>https://www.youtube.com/watch?v=eHZ14afnDZ0</id>
-        <link href="https://www.youtube.com/watch?v=eHZ14afnDZ0"/>
-        <updated>2026-07-15T21:59:26.000Z</updated>
-        <author>
-            <name>Alex Finn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA’s Proves AI Agents Can Fine-Tune AI Models]]></title>
-        <id>https://www.theneuron.ai/news/nvidia-proves-ai-agents-can-customize-ai-models/</id>
-        <link href="https://www.theneuron.ai/news/nvidia-proves-ai-agents-can-customize-ai-models/"/>
-        <updated>2026-07-15T20:29:57.549Z</updated>
-        <summary type="html"><![CDATA[NVIDIA used Cosmos 3, TAO agent skills, LoRA, and AutoML to automate vision-model post-training. The real story is agentic ML operations.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI NEWS LIVE]]></title>
-        <id>https://www.youtube.com/watch?v=5HTqWgt6ctk</id>
-        <link href="https://www.youtube.com/watch?v=5HTqWgt6ctk"/>
-        <updated>2026-07-15T19:56:29.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI systems are demanding new interaction models. Are designers ready?]]></title>
-        <id>https://medium.com/p/d8a95f5e55a9</id>
-        <link href="https://uxdesign.cc/ai-systems-are-demanding-new-interaction-models-are-designers-ready-d8a95f5e55a9?source=rss----138adf9c44c---4"/>
-        <updated>2026-07-15T19:48:50.000Z</updated>
-        <summary type="html"><![CDATA[The first big shift in how we use software in years is underway.]]></summary>
-        <author>
-            <name>Arin Bhowmick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designers are sharpening knives for the wrong fight]]></title>
-        <id>https://medium.com/p/56844adad459</id>
-        <link href="https://uxdesign.cc/everyones-sharpening-knives-for-the-wrong-fight-56844adad459?source=rss----138adf9c44c---4"/>
-        <updated>2026-07-15T19:47:57.000Z</updated>
-        <summary type="html"><![CDATA[AI made building free. So why is the whole conversation still about how to build?]]></summary>
-        <author>
-            <name>Dan Maccarone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI NEWS LIVE]]></title>
-        <id>https://www.youtube.com/watch?v=WMiylHobhBM</id>
-        <link href="https://www.youtube.com/watch?v=WMiylHobhBM"/>
-        <updated>2026-07-15T18:43:18.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI vs Anthropic]]></title>
-        <id>https://www.youtube.com/watch?v=nxr20lcqagg</id>
-        <link href="https://www.youtube.com/watch?v=nxr20lcqagg"/>
-        <updated>2026-07-15T17:31:52.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best AI Tools for Podcasters in 2026]]></title>
-        <id>https://www.theneuron.ai/guides/best-ai-tools-for-podcasters/</id>
-        <link href="https://www.theneuron.ai/guides/best-ai-tools-for-podcasters/"/>
-        <updated>2026-07-15T16:42:08.674Z</updated>
-        <summary type="html"><![CDATA[A practical guide to the best AI tools for podcasters, including recording, editing, voiceover, cleanup, clips, and publishing workflows.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don’t Let Claude Grade Its Own Homework]]></title>
-        <id>https://towardsdatascience.com/?p=609885</id>
-        <link href="https://towardsdatascience.com/dont-let-claude-gaslight-you/"/>
-        <updated>2026-07-15T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Cross-provider PR review with Codex in GitHub Actions, and why a second opinion from a different lab beats any self-review
-The post Don’t Let Claude Grade Its Own Homework appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ruben Broekx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Trustworthy Production RAG Systems Through Continuous Evaluation]]></title>
-        <id>https://towardsdatascience.com/?p=609880</id>
-        <link href="https://towardsdatascience.com/building-trustworthy-production-rag-systems-through-continuous-evaluation/"/>
-        <updated>2026-07-15T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A practical guide to building an evaluation workflow that catches retrieval failures, hallucinations, and performance drift before they reach users
-The post Building Trustworthy Production RAG Systems Through Continuous Evaluation appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Priyansh Bhardwaj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Mastered Data Structures and Algorithms for ML (In 6 Weeks)]]></title>
-        <id>https://towardsdatascience.com/?p=609877</id>
-        <link href="https://towardsdatascience.com/how-i-mastered-data-structures-algorithms-for-ml-in-6-weeks/"/>
-        <updated>2026-07-15T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The strategies, questions, and process I used to ace coding interviews.
-The post How I Mastered Data Structures and Algorithms for ML (In 6 Weeks) appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Egor Howell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deepseek ban?]]></title>
-        <id>https://www.youtube.com/shorts/M2WtYYR_Dk0</id>
-        <link href="https://www.youtube.com/shorts/M2WtYYR_Dk0"/>
-        <updated>2026-07-15T13:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Matthew Berman</name>
         </author>
     </entry>
 </feed>
