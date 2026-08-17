@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=hAckBGtCwxo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hAckBGtCwxo",
+          "publishedOn": "2026-08-16T18:06:49.000Z",
+          "wordCount": null,
+          "title": "Top 6 AI Certifications That Can Make You Rich in 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/XUfdkXYNtik",
+          "author": null,
+          "description": "Which tool should you actually use to build an AI agent? Here's the honest take, no sponsorships involved. Just want something working and you're not technic...",
+          "link": "https://www.youtube.com/shorts/XUfdkXYNtik",
+          "publishedOn": "2026-08-16T12:00:27.000Z",
+          "wordCount": 3563,
+          "title": "Which Agent Tool Should You Use?",
+          "imageUrl": "https://i.ytimg.com/vi/XUfdkXYNtik/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBLeCuw5308Pg9Fmy5WIq_jm5WtyQ&usqp=CCk"
+        },
+        {
           "id": "https://www.youtube.com/shorts/do8Rx6CpQX8",
           "author": null,
           "description": "What's the best way to build an AI agent? It depends how much you want to build yourself, and it breaks into four tiers. At the top: no-code platforms, where...",
@@ -454,16 +474,6 @@
           "wordCount": null,
           "title": "Is Local AI Coding Actually Good?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/jPaEhSRIdnI",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/jPaEhSRIdnI",
-          "publishedOn": "2026-07-18T12:00:39.000Z",
-          "wordCount": 2123,
-          "title": "AI Engineer Means 5 Different Things",
-          "imageUrl": null
         }
       ]
     },
@@ -550,16 +560,6 @@
           "publishedOn": "2026-07-22T16:52:43.000Z",
           "wordCount": null,
           "title": "Prompting is dead. Here is how you create loops",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rQUgUKnPsFs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rQUgUKnPsFs",
-          "publishedOn": "2026-07-17T20:09:43.000Z",
-          "wordCount": null,
-          "title": "Do these 5 things in Claude Fable 5 NOW",
           "imageUrl": null
         }
       ]
@@ -904,16 +904,6 @@
           "publishedOn": "2026-07-19T23:48:45.000Z",
           "wordCount": 3435,
           "title": "Anthropic messed up",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JrVPIy9AdfQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JrVPIy9AdfQ",
-          "publishedOn": "2026-07-18T06:14:32.000Z",
-          "wordCount": null,
-          "title": "Did Kimi K3 really beat Fable?",
           "imageUrl": null
         }
       ]
@@ -1429,26 +1419,6 @@
           "wordCount": null,
           "title": "Claude/Codex 影片產線：不出鏡、不剪片，成本一杯咖啡有找",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/pe8hHpARlHg",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/pe8hHpARlHg",
-          "publishedOn": "2026-07-18T04:53:51.000Z",
-          "wordCount": 1998,
-          "title": "太扯！AI 幫我剪片 #claudecode #codex",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/tx1w_wJoH_k",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/tx1w_wJoH_k",
-          "publishedOn": "2026-07-17T15:16:38.000Z",
-          "wordCount": 3280,
-          "title": "⚡台積電淨利暴衝 77%，台股卻創史上最大跌點：好消息為什麼變成賣壓？",
-          "imageUrl": null
         }
       ]
     },
@@ -1529,6 +1499,22 @@
       "feedUrl": "https://www.lennysnewsletter.com/feed",
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
+        {
+          "id": "https://www.lennysnewsletter.com/p/openais-head-of-design-this-is-the",
+          "author": "Lenny Rachitsky",
+          "description": "Listen now | OpenAI’s head of product design on why this is the best time in history to be a designer, where humans still beat AI, and how to escape the overwhelm",
+          "link": "https://www.lennysnewsletter.com/p/openais-head-of-design-this-is-the",
+          "publishedOn": "2026-08-16T12:31:42.000Z",
+          "wordCount": null,
+          "title": "OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/209801560/52b8b8dcb7b2a7754107eef06aa02f4a.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://www.lennysnewsletter.com/p/community-wisdom-recovering-from",
           "author": "Kiyani",
@@ -1921,6 +1907,22 @@
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
         {
+          "id": "https://www.thevccorner.com/p/ai-adoption-is-a-myth-anthropic-could",
+          "author": "Ruben Dominguez",
+          "description": "Another week, another pulse check on Tech.",
+          "link": "https://www.thevccorner.com/p/ai-adoption-is-a-myth-anthropic-could",
+          "publishedOn": "2026-08-16T14:22:36.000Z",
+          "wordCount": null,
+          "title": "AI Adoption Is a Myth⚖️, Anthropic Could Be Worth $2 Trillion at IPO💵, The Claude Prompts That Close Rounds in 2026🤝",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!gJiu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a4db60f-d5fd-43fa-9004-b7e819992c90_3840x2160.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!gJiu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a4db60f-d5fd-43fa-9004-b7e819992c90_3840x2160.webp"
+        },
+        {
           "id": "https://www.thevccorner.com/p/rick-rubin-creative-work-lessons",
           "author": null,
           "description": "Rick Rubin shares 10 lessons on subtraction, editing, and creative discipline from his podcast, showing founders and investors how to build work that lasts.",
@@ -2255,22 +2257,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!_BiP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02daf81e-7da0-4370-8a3d-f63647bcf1d4_1272x636.webp"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/see-every-startup-raising-right-now",
-          "author": "Ruben Dominguez",
-          "description": "Founders add themselves for free. Investors get the whole sheet, decks and all.",
-          "link": "https://www.thevccorner.com/p/see-every-startup-raising-right-now",
-          "publishedOn": "2026-07-17T15:30:39.000Z",
-          "wordCount": null,
-          "title": "See Every Startup Raising Right Now, Deck Included",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!Susa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2e80495-7d6f-4f34-b133-f90a84c4514d_800x308.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!Susa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2e80495-7d6f-4f34-b133-f90a84c4514d_800x308.png"
         }
       ]
     },
@@ -2279,6 +2265,16 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/newsletter/let-s-talk-about-that-ai-agent-turf-war/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/let-s-talk-about-that-ai-agent-turf-war/",
+          "publishedOn": "2026-08-16T16:02:25.482Z",
+          "wordCount": null,
+          "title": "😺 Let's talk about that AI agent Turf War",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/digest/ai-skill-of-the-day-digest-august-2026-part-1/",
           "author": null,
@@ -3056,6 +3052,26 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=610617",
+          "author": "Miodrag Cekikj",
+          "description": "RAG Retrieves, It Never Remembers. A vendor-neutral blueprint for applications that accumulate understanding. Includes a complete Azure-native implementation (Microsoft Foundry, Azure AI Search, Cosmos DB, FastAPI) mapped to a property-insurance corpus. \nThe post Designing a Persistent Knowledge Layer That Refuses to Guess appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/designing-a-persistent-knowledge-layer-that-refuses-to-guess/",
+          "publishedOn": "2026-08-16T15:00:00.000Z",
+          "wordCount": 12768,
+          "title": "Designing a Persistent Knowledge Layer That Refuses to Guess",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/image-316.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610619",
+          "author": "Thomas Reid",
+          "description": "A small experiment in remote SQL execution\nThe post Running SQL Concurrently Across Three Remote DuckDB Servers with Quack appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/running-sql-concurrently-across-three-remote-duckdb-servers-with-quack/",
+          "publishedOn": "2026-08-16T13:00:00.000Z",
+          "wordCount": 6552,
+          "title": "Running SQL Concurrently Across Three Remote DuckDB Servers with Quack",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/exec-b645139d-72cc-456b-9ad9-a810bca8e5e0.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=610610",
           "author": "Sean Moran",
@@ -4065,36 +4081,6 @@
           "wordCount": 7690,
           "title": "How to Improve Customer Retention in FinTech",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/A-practical-guide-to-combining-pre-churn-scoring-with-uplift-modelling-for-smarter-retention.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609918",
-          "author": "Eivind Kjosbakken",
-          "description": "Maximize the latest OpenAI model\nThe post How to Work Effectively with GPT-5.6 appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-work-effectively-with-gpt-5-6/",
-          "publishedOn": "2026-07-17T16:30:00.000Z",
-          "wordCount": 6754,
-          "title": "How to Work Effectively with GPT-5.6",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/gpt-5-6-first-impressions_cover-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609915",
-          "author": "Stephanie Kirmer",
-          "description": "On the value of building on existing foundations\nThe post Using Classical ML to Empower AI Agents appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/using-classical-ml-to-empower-ai-agents/",
-          "publishedOn": "2026-07-17T15:00:00.000Z",
-          "wordCount": 6490,
-          "title": "Using Classical ML to Empower AI Agents",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/image.jpeg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609913",
-          "author": "Emmimal P Alexander",
-          "description": "Everyone is talking about loop engineering, but most discussions assume an LLM sits at the center of the loop. I wanted to isolate the architecture itself. So I built a deterministic, zero-dependency Python benchmark that replaces the model with simple rules, allowing me to measure one question directly: can a goal-directed controller isolate failures better than a traditional linear pipeline? After validating the benchmark across 300 random seeds—and fixing a subtle bug that initially invalidated my own results—I found that the controller consistently completed independent branches that a linear executor never reached. This article walks through the architecture, the benchmark design, the debugging process, and the evidence behind a narrow but practical claim: failure isolation is a measurable property of control flow, independent of LLM reasoning.\nThe post Context Engineering Isn’t Enough — A Loop Engineering Experiment With No LLM Inside the Loop appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/context-engineering-isnt-enough-a-loop-engineering-experiment-with-no-llm-inside-the-loop/",
-          "publishedOn": "2026-07-17T13:30:00.000Z",
-          "wordCount": 9249,
-          "title": "Context Engineering Isn’t Enough — A Loop Engineering Experiment With No LLM Inside the Loop",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/loop-engine.jpg"
         }
       ]
     },
@@ -4109,6 +4095,16 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/b29513a9b217",
+          "author": "Hope Turner",
+          "description": "",
+          "link": "https://uxdesign.cc/you-already-know-how-to-make-it-accessible-b29513a9b217?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-08-16T10:08:38.000Z",
+          "wordCount": null,
+          "title": "You already know how to make it accessible",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/ff8ee8aed205",
           "author": "Maya Brennan",
@@ -4748,16 +4744,6 @@
           "wordCount": 1960,
           "title": "The weakest channel",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*iVMS7zk9Pl2M1ulmHwWmow.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/65ec25feeb3a",
-          "author": "Catherine Chu",
-          "description": "Will it happen again?",
-          "link": "https://uxdesign.cc/the-mocked-then-loved-airpods-effect-65ec25feeb3a?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-07-17T21:22:37.000Z",
-          "wordCount": 4273,
-          "title": "The “mocked, then loved” AirPods effect",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*6YzlJEkLQpGM1uvf"
         }
       ]
     },
@@ -4809,6 +4795,26 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/a70954458806",
+          "author": "Mohit Sewak, Ph.D.",
+          "description": "",
+          "link": "https://generativeai.pub/the-silent-margin-killer-why-your-genai-saas-will-bleed-cash-at-scale-a70954458806?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-16T02:30:15.000Z",
+          "wordCount": null,
+          "title": "The Silent Margin Killer: Why Your GenAI SaaS Will Bleed Cash at Scale",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/424cf69d621a",
+          "author": "André Bergholz",
+          "description": "A confident, well-phrased answer earns trust it hasn’t earned. From a machine, and from a person.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/too-smart-to-be-right-why-fluent-language-isnt-a-sign-of-good-reasoning-424cf69d621a?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-16T02:19:51.000Z",
+          "wordCount": null,
+          "title": "Too Smart to Be Right: Why Fluent Language Isn’t a Sign of Good Reasoning",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/d77d308a68ab",
           "author": "Ruqaiya Beguwala",
