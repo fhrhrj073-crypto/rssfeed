@@ -2,10 +2,270 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-08-17T00:25:47.398Z</updated>
+    <updated>2026-08-18T00:25:32.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Grok Bot: From Beginner to Expert in 25 minutes]]></title>
+        <id>https://www.youtube.com/watch?v=vrgO4D_mUlA</id>
+        <link href="https://www.youtube.com/watch?v=vrgO4D_mUlA"/>
+        <updated>2026-08-17T23:59:22.000Z</updated>
+        <author>
+            <name>Alex Finn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 Open-Source AI Projects Trending NOW]]></title>
+        <id>https://www.youtube.com/watch?v=1RTq_EWv2Yo</id>
+        <link href="https://www.youtube.com/watch?v=1RTq_EWv2Yo"/>
+        <updated>2026-08-17T19:07:56.000Z</updated>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ranking the Best AI Meeting Assistants for Work in 2026]]></title>
+        <id>https://www.theneuron.ai/guides/best-ai-meeting-assistants/</id>
+        <link href="https://www.theneuron.ai/guides/best-ai-meeting-assistants/"/>
+        <updated>2026-08-17T17:28:57.724Z</updated>
+        <summary type="html"><![CDATA[Compare Fireflies, Otter, Notta, and Spinach by the meeting problem each tool solves best: search, live notes, multilingual capture, and follow-up.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webwright: Why AI Web Agents Should Write Code, Not Click]]></title>
+        <id>https://towardsdatascience.com/?p=610630</id>
+        <link href="https://towardsdatascience.com/webwright-why-ai-web-agents-should-write-code-not-click/"/>
+        <updated>2026-08-17T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[For years, web agents have worked one click at a time—and often fallen apart on long tasks. Microsoft Research’s Webwright makes a different bet: give the model a terminal and let it write the program instead. On long-horizon tasks, the same GPT-5.4 model jumps from 33.5% to 60.1% success. And instead of leaving behind a click trace, it leaves something you can actually use again: a command-line tool.
+The post Webwright: Why AI Web Agents Should Write Code, Not Click appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Chien Vu Minh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buzz is the BEST AI Tool Of 2026]]></title>
+        <id>https://www.youtube.com/watch?v=cHlmP4LYdPg</id>
+        <link href="https://www.youtube.com/watch?v=cHlmP4LYdPg"/>
+        <updated>2026-08-17T15:30:32.000Z</updated>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best AI Website Builders for Small Businesses in 2026]]></title>
+        <id>https://www.theneuron.ai/guides/best-ai-website-builders-small-businesses/</id>
+        <link href="https://www.theneuron.ai/guides/best-ai-website-builders-small-businesses/"/>
+        <updated>2026-08-17T15:24:11.308Z</updated>
+        <summary type="html"><![CDATA[A practical guide to the best AI website builders for small businesses, with quick picks for service firms, ecommerce stores, app-like sites, and support agents.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎙️ How I AI: How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers]]></title>
+        <id>https://www.lennysnewsletter.com/p/how-i-ai-how-a-solo-founder-used</id>
+        <link href="https://www.lennysnewsletter.com/p/how-i-ai-how-a-solo-founder-used"/>
+        <updated>2026-08-17T15:03:16.000Z</updated>
+        <summary type="html"><![CDATA[Your weekly listens from How I AI, part of the Lenny's Podcast Network]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Generations of Autoscaling — And Why Agentic Traffic Breaks All of Them]]></title>
+        <id>https://towardsdatascience.com/?p=610626</id>
+        <link href="https://towardsdatascience.com/three-generations-of-autoscaling-and-why-agentic-traffic-breaks-all-of-them/"/>
+        <updated>2026-08-17T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How autonomous agents broke two decades of capacity planning — and what to build instead
+The post Three Generations of Autoscaling — And Why Agentic Traffic Breaks All of Them appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Shoumik Chakravarty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Perform Effective Project Management with AI]]></title>
+        <id>https://towardsdatascience.com/?p=610623</id>
+        <link href="https://towardsdatascience.com/how-to-perform-effective-project-management-with-ai/"/>
+        <updated>2026-08-17T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Become a more productive software engineer with LLMs
+The post How to Perform Effective Project Management with AI appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers | Yana Welinder]]></title>
+        <id>https://www.lennysnewsletter.com/p/how-a-solo-founder-used-codex-and</id>
+        <link href="https://www.lennysnewsletter.com/p/how-a-solo-founder-used-codex-and"/>
+        <updated>2026-08-17T12:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Watch now | 🎙️From hand-drawn sketch to 3D-printed gown, Yana Welinder shows how Codex plus computer use makes previously unmanufacturable garments and full e-commerce builds possible for a solo founder]]></summary>
+        <author>
+            <name>Claire Vo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should You Learn Python in 2026]]></title>
+        <id>https://www.youtube.com/shorts/V6eHVKNsMXc</id>
+        <link href="https://www.youtube.com/shorts/V6eHVKNsMXc"/>
+        <updated>2026-08-17T12:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Should you learn Python in 2026, or is it a waste of time now that AI writes so much code? The honest answer depends on what you want to build and the career...]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loop Engineering for RAG: The Small Loops Inside Each Step, the Big Loops Across the Pipeline]]></title>
+        <id>https://towardsdatascience.com/?p=610621</id>
+        <link href="https://towardsdatascience.com/loop-engineering-for-rag-the-small-loops-inside-each-step-the-big-loops-across-the-pipeline/"/>
+        <updated>2026-08-17T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #13bis] - The four bricks return useful results most of the time. Loop engineering is what the system does the rest of the time: when retrieval misses, when generation fails the schema, when the listing comes back incomplete, when an API call times out. Three control surfaces (trigger, termination, recovery) and one rule that separates a useful loop from a spinning one
+The post Loop Engineering for RAG: The Small Loops Inside Each Step, the Big Loops Across the Pipeline appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>angela shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rethinking leadership, Judgment as bottleneck, Ethical UX for machines]]></title>
+        <id>https://medium.com/p/5927df9a399e</id>
+        <link href="https://uxdesign.cc/rethinking-leadership-judgment-as-bottleneck-ethical-ux-for-machines-5927df9a399e?source=rss----138adf9c44c---4"/>
+        <updated>2026-08-17T11:23:18.000Z</updated>
+        <author>
+            <name>Fabricio Teixeira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The feature was fine. So why did users keep hiding it?]]></title>
+        <id>https://medium.com/p/58082b6f3abf</id>
+        <link href="https://uxdesign.cc/the-feature-was-fine-so-why-did-users-keep-hiding-it-58082b6f3abf?source=rss----138adf9c44c---4"/>
+        <updated>2026-08-17T11:22:10.000Z</updated>
+        <author>
+            <name>SoYoon Park (DR. PARK)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenClaw只是起點：我用 7 個本地 AI Agent 管理字幕、帳目與 Email，但越強越危險｜文恩澄｜廣東話]]></title>
+        <id>https://www.youtube.com/watch?v=Z47H_C34Z8Y</id>
+        <link href="https://www.youtube.com/watch?v=Z47H_C34Z8Y"/>
+        <updated>2026-08-17T11:06:46.000Z</updated>
+        <author>
+            <name>文恩澄 Rannes Man</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 Anthropic CEO denies wanting to rule AI alone]]></title>
+        <id>https://www.theneuron.ai/newsletter/anthropic-ceo-denies-wanting-to-rule-ai-alone/</id>
+        <link href="https://www.theneuron.ai/newsletter/anthropic-ceo-denies-wanting-to-rule-ai-alone/"/>
+        <updated>2026-08-17T09:31:30.935Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI adoption and the slow erosion of design idealism]]></title>
+        <id>https://medium.com/p/fab75761ebd6</id>
+        <link href="https://uxdesign.cc/ai-adoption-and-the-slow-erosion-of-design-idealism-fab75761ebd6?source=rss----138adf9c44c---4"/>
+        <updated>2026-08-17T07:37:27.000Z</updated>
+        <author>
+            <name>Michael Buckley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best AI Research Assistant for End-to-End, Citation-Backed Scientific Research]]></title>
+        <id>https://medium.com/p/89419a0bd242</id>
+        <link href="https://generativeai.pub/the-best-ai-research-assistant-for-end-to-end-citation-backed-scientific-research-89419a0bd242?source=rss----440100e76000---4"/>
+        <updated>2026-08-17T07:02:46.000Z</updated>
+        <author>
+            <name>Jim Clyde Monge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Memory Isn’t a Bigger Context Window]]></title>
+        <id>https://medium.com/p/bc58ff6e625b</id>
+        <link href="https://generativeai.pub/memory-isnt-a-bigger-context-window-bc58ff6e625b?source=rss----440100e76000---4"/>
+        <updated>2026-08-17T02:58:41.000Z</updated>
+        <author>
+            <name>JAYESH B.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free AI Credits Are a Distribution Strategy, Not a Gift]]></title>
+        <id>https://medium.com/p/6cc5861f7e02</id>
+        <link href="https://generativeai.pub/free-ai-credits-are-a-distribution-strategy-not-a-gift-6cc5861f7e02?source=rss----440100e76000---4"/>
+        <updated>2026-08-17T02:57:14.000Z</updated>
+        <author>
+            <name>Elena Brooks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Do We Eat Today? How I Turned Claude into My Personal Kitchen Chef]]></title>
+        <id>https://medium.com/p/14c31acfe196</id>
+        <link href="https://generativeai.pub/what-do-we-eat-today-how-i-turned-claude-into-my-personal-kitchen-chef-14c31acfe196?source=rss----440100e76000---4"/>
+        <updated>2026-08-17T02:53:35.000Z</updated>
+        <author>
+            <name>Felix Pappe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenClaw vs Hermes Agent: The Cage Match for Your Digital Soul]]></title>
+        <id>https://medium.com/p/aa19fded06d2</id>
+        <link href="https://generativeai.pub/openclaw-vs-hermes-agent-the-cage-match-for-your-digital-soul-aa19fded06d2?source=rss----440100e76000---4"/>
+        <updated>2026-08-17T02:49:53.000Z</updated>
+        <author>
+            <name>Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA]</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From AI Coding Agents to Safe Autonomy: Building Guardrails with Amazon Bedrock AgentCore on AWS]]></title>
+        <id>https://medium.com/p/813da318add0</id>
+        <link href="https://generativeai.pub/from-ai-coding-agents-to-safe-autonomy-building-guardrails-with-amazon-bedrock-agentcore-on-aws-813da318add0?source=rss----440100e76000---4"/>
+        <updated>2026-08-17T02:48:41.000Z</updated>
+        <summary type="html"><![CDATA[How Amazon Bedrock AgentCore, IAM, policy, verification, and observability can help coding agents work autonomously without giving them…
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Sudha Subramaniam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did LLMs Solve Wittgenstein’s Language Problem?]]></title>
+        <id>https://medium.com/p/dfb55855a8e4</id>
+        <link href="https://generativeai.pub/did-llms-solve-wittgensteins-language-problem-dfb55855a8e4?source=rss----440100e76000---4"/>
+        <updated>2026-08-17T02:47:11.000Z</updated>
+        <author>
+            <name>Fredrik Carleson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I saved 100+ hours using OpenAI Codex]]></title>
+        <id>https://medium.com/p/2444a4e2276f</id>
+        <link href="https://generativeai.pub/how-i-saved-100-hours-using-openai-codex-2444a4e2276f?source=rss----440100e76000---4"/>
+        <updated>2026-08-17T02:45:02.000Z</updated>
+        <summary type="html"><![CDATA[Your desktop is a mess. Here’s how AI cleans it up for you
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Felix Pappe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Edit an AI Song Without Losing the Chorus]]></title>
+        <id>https://medium.com/p/724ad315618c</id>
+        <link href="https://generativeai.pub/how-to-edit-an-ai-song-without-losing-the-chorus-724ad315618c?source=rss----440100e76000---4"/>
+        <updated>2026-08-17T02:41:45.000Z</updated>
+        <author>
+            <name>Nina Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Try my addictive new word game, Cross Fall! It’s retro goodness.]]></title>
+        <id>https://medium.com/p/a402de83cfe0</id>
+        <link href="https://generativeai.pub/cross-fall-word-puzzle-game-a402de83cfe0?source=rss----440100e76000---4"/>
+        <updated>2026-08-17T02:39:33.000Z</updated>
+        <author>
+            <name>Jim the AI Whisperer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 6 AI Certifications That Can Make You Rich in 2026]]></title>
         <id>https://www.youtube.com/watch?v=hAckBGtCwxo</id>
@@ -5462,127 +5722,6 @@ The post Your AI Agent Passed Every Eval. Finance Still Killed It. appeared firs
         <summary type="html"><![CDATA[Elizabeth Stone, CPTO of Netflix, on managing AI-era product teams, the rise of systems thinking, and how to build excellence as an operating system]]></summary>
         <author>
             <name>Lenny Rachitsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Hardest Skill in AI Engineering]]></title>
-        <id>https://www.youtube.com/shorts/q0dS_QRITIk</id>
-        <link href="https://www.youtube.com/shorts/q0dS_QRITIk"/>
-        <updated>2026-07-19T12:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拍一支影片要半天？AI 把它縮成幾分鐘的審核 #claudecode #codex]]></title>
-        <id>https://www.youtube.com/shorts/cMkLtvdfEkM</id>
-        <link href="https://www.youtube.com/shorts/cMkLtvdfEkM"/>
-        <updated>2026-07-19T12:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>追日Gucci-AI效率革命聯盟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一支影片半天起跳？把選題、配音與 QA 接成 AI 生產線 #claudecode #codex]]></title>
-        <id>https://www.youtube.com/shorts/rMO044LpNWw</id>
-        <link href="https://www.youtube.com/shorts/rMO044LpNWw"/>
-        <updated>2026-07-19T10:00:32.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>追日Gucci-AI效率革命聯盟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎬 我這支影片，沒人拍也沒人剪]]></title>
-        <id>https://www.youtube.com/shorts/40iCVhBDlCM</id>
-        <link href="https://www.youtube.com/shorts/40iCVhBDlCM"/>
-        <updated>2026-07-19T06:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>追日Gucci-AI效率革命聯盟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[太扯！AI 幫我剪片 #claudecode #codex]]></title>
-        <id>https://www.youtube.com/shorts/0mxG2gb1UlQ</id>
-        <link href="https://www.youtube.com/shorts/0mxG2gb1UlQ"/>
-        <updated>2026-07-19T02:45:34.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>追日Gucci-AI效率革命聯盟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧠 Community Wisdom: Syncing Claude Code and Claude Design, earning trust when customers assume you vibe coded it, co-founder fallout lessons, personal CRMs, and more]]></title>
-        <id>https://www.lennysnewsletter.com/p/community-wisdom-syncing-claude-code</id>
-        <link href="https://www.lennysnewsletter.com/p/community-wisdom-syncing-claude-code"/>
-        <updated>2026-07-18T17:04:04.000Z</updated>
-        <summary type="html"><![CDATA[Community Wisdom 194]]></summary>
-        <author>
-            <name>Kiyani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Many Companies Use AI. Few Know How to Build an AI-Native Enterprise Data Platform.]]></title>
-        <id>https://towardsdatascience.com/?p=609931</id>
-        <link href="https://towardsdatascience.com/many-companies-use-ai-few-know-how-to-build-an-ai-native-enterprise-data-platform/"/>
-        <updated>2026-07-18T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A practical enterprise AI architecture with data agents, AI-powered QA, and AI governance.
-The post Many Companies Use AI. Few Know How to Build an AI-Native Enterprise Data Platform. appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Jiayan Yin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loop Engineering with Adaptive PDF Parsing: Start Cheap, Pay for a Heavier Parser Only When the Page Needs It]]></title>
-        <id>https://towardsdatascience.com/?p=609941</id>
-        <link href="https://towardsdatascience.com/loop-engineering-with-adaptive-pdf-parsing-start-cheap-pay-for-a-heavier-parser-only-when-the-page-needs-it/"/>
-        <updated>2026-07-18T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #10A] - The escalation cascade and the free, deterministic checks that flag a failed parse before you pay for a deeper one
-The post Loop Engineering with Adaptive PDF Parsing: Start Cheap, Pay for a Heavier Parser Only When the Page Needs It appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>angela shi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Local AI Coding Actually Good?]]></title>
-        <id>https://www.youtube.com/watch?v=8JRJq4EEdik</id>
-        <link href="https://www.youtube.com/watch?v=8JRJq4EEdik"/>
-        <updated>2026-07-18T14:02:37.000Z</updated>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Improve Customer Retention in FinTech]]></title>
-        <id>https://towardsdatascience.com/?p=609920</id>
-        <link href="https://towardsdatascience.com/how-to-improve-customer-retention-in-digital-banking/"/>
-        <updated>2026-07-18T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A practical guide to combining pre-churn scoring with uplift modelling for smarter retention.
-The post How to Improve Customer Retention in FinTech appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Aleksei Terentev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[台積電上看3000？那是外資裡最保守的數字]]></title>
-        <id>https://www.youtube.com/shorts/h-PiT3bPDlM</id>
-        <link href="https://www.youtube.com/shorts/h-PiT3bPDlM"/>
-        <updated>2026-07-18T12:29:59.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>追日Gucci-AI效率革命聯盟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude/Codex 影片產線：不出鏡、不剪片，成本一杯咖啡有找]]></title>
-        <id>https://www.youtube.com/watch?v=NzETYKeZGOE</id>
-        <link href="https://www.youtube.com/watch?v=NzETYKeZGOE"/>
-        <updated>2026-07-18T12:29:31.000Z</updated>
-        <author>
-            <name>追日Gucci-AI效率革命聯盟</name>
         </author>
     </entry>
 </feed>
