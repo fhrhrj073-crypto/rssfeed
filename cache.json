@@ -6,6 +6,26 @@
       "siteUrl": "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=mq-rVs7oUXw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mq-rVs7oUXw",
+          "publishedOn": "2026-08-18T13:00:12.000Z",
+          "wordCount": null,
+          "title": "Build Anything with Kimi K3 - The Next Frontier",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/-SRy2xZLGac",
+          "author": null,
+          "description": "You don't need to code to build AI agents. Over the past year, complete non-programmers have built agents that read their email, manage their calendar, and h...",
+          "link": "https://www.youtube.com/shorts/-SRy2xZLGac",
+          "publishedOn": "2026-08-18T12:00:07.000Z",
+          "wordCount": 3763,
+          "title": "Build AI Agents, No Coding",
+          "imageUrl": "https://i.ytimg.com/vi/-SRy2xZLGac/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLA44BZWwqQAzLKSe9BAQ8d4zloBTw"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=cHlmP4LYdPg",
           "author": null,
           "description": "",
@@ -464,16 +484,6 @@
           "wordCount": null,
           "title": "How I Actually Use AI for Data Science in Python",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/DAruHr-AdwU",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/DAruHr-AdwU",
-          "publishedOn": "2026-07-20T12:00:28.000Z",
-          "wordCount": 3431,
-          "title": "The Trap Keeping You From Becoming an AI Engineer",
-          "imageUrl": null
         }
       ]
     },
@@ -482,6 +492,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfQNB91qRP_5ILeu_S_bSkg",
       "siteUrl": "https://www.youtube.com/channel/UCfQNB91qRP_5ILeu_S_bSkg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=1udtpl43iv8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1udtpl43iv8",
+          "publishedOn": "2026-08-18T22:13:33.000Z",
+          "wordCount": null,
+          "title": "Hermes Bot vs Grok Bot... you won't believe the winner",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=vrgO4D_mUlA",
           "author": null,
@@ -914,16 +934,6 @@
           "publishedOn": "2026-07-21T19:57:45.000Z",
           "wordCount": null,
           "title": "The Most Important Conversation in AI Right Now",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/6ugVjmFsDmc",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/6ugVjmFsDmc",
-          "publishedOn": "2026-07-19T23:48:45.000Z",
-          "wordCount": 3435,
-          "title": "Anthropic messed up",
           "imageUrl": null
         }
       ]
@@ -1359,26 +1369,6 @@
           "wordCount": 3491,
           "title": "你買的大盤，三分之一押在七家公司",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/O5znK8ScQRk",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/O5znK8ScQRk",
-          "publishedOn": "2026-07-20T04:00:30.000Z",
-          "wordCount": 3362,
-          "title": "一支 AI 影片 NT$35–75？成本拆給你看 #claudecode #codex",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/H41CZecEeOM",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/H41CZecEeOM",
-          "publishedOn": "2026-07-20T00:00:39.000Z",
-          "wordCount": 2139,
-          "title": "市場創新高就想停扣？先看你沒填的那一格",
-          "imageUrl": null
         }
       ]
     },
@@ -1470,6 +1460,38 @@
       "feedUrl": "https://www.lennysnewsletter.com/feed",
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
+        {
+          "id": "https://www.lennysnewsletter.com/p/i-tested-grok-bot-grok-46-and-cursor",
+          "author": "Claire Vo",
+          "description": "Watch now | 🎙️ I tested Grok Bot, Cursor Origin, and Grok 4.6 head-to-head against my favorite models and ranked them on the Claire Index: here's what actually moved the needle",
+          "link": "https://www.lennysnewsletter.com/p/i-tested-grok-bot-grok-46-and-cursor",
+          "publishedOn": "2026-08-18T21:30:31.000Z",
+          "wordCount": null,
+          "title": "I tested Grok Bot, Grok 4.6, and Cursor Origin - here’s my honest take",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/211737019/7311da6f6320066679f24efa88a18a57.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.lennysnewsletter.com/p/announcing-lennys-jobs-the-best-place",
+          "author": "Lenny Rachitsky",
+          "description": "Where product managers, engineers, designers, and growth/marketing professionals discover high-quality open roles at tech companies",
+          "link": "https://www.lennysnewsletter.com/p/announcing-lennys-jobs-the-best-place",
+          "publishedOn": "2026-08-18T15:40:06.000Z",
+          "wordCount": null,
+          "title": "Announcing Lenny’s Jobs: The best place in the world to find, vet, and land your dream job",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!PFZn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f696879-6374-42d6-a171-47933f6eb126_1456x970.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!PFZn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f696879-6374-42d6-a171-47933f6eb126_1456x970.png"
+        },
         {
           "id": "https://www.lennysnewsletter.com/p/how-i-ai-how-a-solo-founder-used",
           "author": "Lenny Rachitsky",
@@ -1853,38 +1875,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/95485dc8-c492-41a8-966d-957553d1df87_1456x1048.png"
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/how-the-founder-of-morning-brew-built",
-          "author": "Claire Vo",
-          "description": "Listen now | 🎙 How Alex Lieberman (Morning Brew) built a Claude workflow that interviews him before drafting, codes his voice in Markdown, and runs a six-persona revision loop before posting",
-          "link": "https://www.lennysnewsletter.com/p/how-the-founder-of-morning-brew-built",
-          "publishedOn": "2026-07-20T12:04:47.000Z",
-          "wordCount": null,
-          "title": "How the founder of Morning Brew built a Claude content machine that never runs out of ideas and never sounds like slop | Alex Lieberman",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/207355289/37ca9e348cb5cb291449aaa2c86d2637.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/netflix-cpto-on-ai-and-the-future",
-          "author": "Lenny Rachitsky",
-          "description": "Elizabeth Stone, CPTO of Netflix, on managing AI-era product teams, the rise of systems thinking, and how to build excellence as an operating system",
-          "link": "https://www.lennysnewsletter.com/p/netflix-cpto-on-ai-and-the-future",
-          "publishedOn": "2026-07-19T12:31:21.000Z",
-          "wordCount": null,
-          "title": "Netflix CPTO on AI and the future of product and tech roles | Elizabeth Stone",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/205675851/7c9d212495d749dbb630c4880d920182.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -1893,6 +1883,38 @@
       "feedUrl": "https://www.thevccorner.com/feed",
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
+        {
+          "id": "https://www.thevccorner.com/p/free-vc-matching-tool-top-20-investors-2026",
+          "author": "Ruben Dominguez",
+          "description": "293 active VCs, angels, and family offices, filtered by your stage, sector, and geography. No signup. Plus 20 guaranteed 1:1 pitches on September 17.",
+          "link": "https://www.thevccorner.com/p/free-vc-matching-tool-top-20-investors-2026",
+          "publishedOn": "2026-08-18T21:16:48.000Z",
+          "wordCount": null,
+          "title": "Your Top 20 Investor Matches, Free, in 30 Seconds",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!rBVQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb972552b-5a83-4a8e-883e-8a49931931c0_1578x1536.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!rBVQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb972552b-5a83-4a8e-883e-8a49931931c0_1578x1536.jpeg"
+        },
+        {
+          "id": "https://www.thevccorner.com/p/hiring-your-first-engineer-ai-era",
+          "author": "Ruben Dominguez",
+          "description": "The hiring playbook everyone is still running was written for a market that closed in 2022.",
+          "link": "https://www.thevccorner.com/p/hiring-your-first-engineer-ai-era",
+          "publishedOn": "2026-08-18T14:39:34.000Z",
+          "wordCount": null,
+          "title": "Most Founders Hire Their First Engineer Too Early, Too Fast and for the Wrong Reasons",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!D2wo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2da3daa8-234f-4a2d-9f69-bfcfe795d9c2_2014x1007.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!D2wo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2da3daa8-234f-4a2d-9f69-bfcfe795d9c2_2014x1007.png"
+        },
         {
           "id": "https://www.thevccorner.com/p/ai-adoption-is-a-myth-anthropic-could",
           "author": "Ruben Dominguez",
@@ -2228,22 +2250,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!-hBI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7494e0ed-a1ea-465e-bc1f-7b43ab7ab9bc_1672x941.png"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/ais-biggest-winners-stop-playing",
-          "author": "Ruben Dominguez",
-          "description": "Another week, another pulse check on Tech.",
-          "link": "https://www.thevccorner.com/p/ais-biggest-winners-stop-playing",
-          "publishedOn": "2026-07-19T17:26:16.000Z",
-          "wordCount": null,
-          "title": "AI’s Biggest Winners📉, Stop Playing The Markup Game🎯, The Self Driving Company🚗",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!_BiP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02daf81e-7da0-4370-8a3d-f63647bcf1d4_1272x636.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!_BiP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02daf81e-7da0-4370-8a3d-f63647bcf1d4_1272x636.webp"
         }
       ]
     },
@@ -2252,6 +2258,16 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/newsletter/nvidia-backs-105b-for-openai-s-mega-data-center/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/nvidia-backs-105b-for-openai-s-mega-data-center/",
+          "publishedOn": "2026-08-18T09:46:57.735Z",
+          "wordCount": null,
+          "title": "😺 Nvidia backs $105B for OpenAI's mega data center",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/guides/best-ai-meeting-assistants/",
           "author": null,
@@ -3041,26 +3057,6 @@
           "wordCount": null,
           "title": "Best AI Avatar Video Generators for Business Training in 2026",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/alibaba-s-2-4t-qwen-joins-the-ai-race/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/alibaba-s-2-4t-qwen-joins-the-ai-race/",
-          "publishedOn": "2026-07-20T10:01:05.062Z",
-          "wordCount": null,
-          "title": "😸 Alibaba’s 2.4T Qwen joins the AI race",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/july-19-sunday/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/july-19-sunday/",
-          "publishedOn": "2026-07-19T17:01:56.571Z",
-          "wordCount": null,
-          "title": "😸 July 19 (Sunday)",
-          "imageUrl": null
         }
       ]
     },
@@ -3069,6 +3065,46 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=610657",
+          "author": "Partha Sarkar",
+          "description": "Building the Responsible AI, security, and governance layers required for enterprise-ready agents\nThe post From Prototype to Production: The Architecture Behind Secure & Governed AI Agents appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/from-prototype-to-production-the-architecture-behind-secure-governed-ai-agents/",
+          "publishedOn": "2026-08-18T16:30:00.000Z",
+          "wordCount": 5902,
+          "title": "From Prototype to Production: The Architecture Behind Secure & Governed AI Agents",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/Gemini_Generated_Image_v8fbg1v8fbg1v8fb-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610655",
+          "author": "Sheila Teo",
+          "description": "5 principles that determine whether an agent system succeeds in production, explained through one I built for a $100M+ company.\nThe post Building Enterprise Agent Systems that People can Trust, Verify and Improve appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/building-enterprise-agent-systems-that-people-can-trust-verify-and-improve/",
+          "publishedOn": "2026-08-18T15:00:00.000Z",
+          "wordCount": 6192,
+          "title": "Building Enterprise Agent Systems that People can Trust, Verify and Improve",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/Generated-image-1-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610634",
+          "author": "Emmimal P Alexander",
+          "description": "Adding more communication pathways between agents doesn’t necessarily improve multi-agent performance. In a controlled, reproducible experiment across 50 runs, recovery remained remarkably stable from 20% to 100% relationship density. But as the network became denser, the fraction of edges actually used fell sharply—revealing a gap between configured connectivity and behavioral connectivity.\nThe post Graph Engineering Isn’t About More Connections — It’s About Which Ones Get Used appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/graph-engineering-isnt-about-more-connections-its-about-which-ones-get-used/",
+          "publishedOn": "2026-08-18T13:30:00.000Z",
+          "wordCount": 6074,
+          "title": "Graph Engineering Isn’t About More Connections — It’s About Which Ones Get Used",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/Graph-Engineering.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=610632",
+          "author": "Javier Marin",
+          "description": "The number that fooled every hallucination detector\nThe post Ten Is Not a Hundred appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/ten-is-not-a-hundred/",
+          "publishedOn": "2026-08-18T12:00:00.000Z",
+          "wordCount": 5096,
+          "title": "Ten Is Not a Hundred",
+          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/Groundlens1-scaled-1.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/?p=610630",
           "author": "Chien Vu Minh",
@@ -4068,46 +4104,6 @@
           "wordCount": 6580,
           "title": "Water Cooler Small Talk, Ep. 12: Byzantine Fault Tolerance",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/E961875B-411E-4760-B73D-CDEFD7BE77B0.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609955",
-          "author": "Salvatore Cagliari",
-          "description": "Having categorized data is everything in reporting. Uncategorized data cannot be grouped and aggregated. But sometimes we must assign a category to uncategorized data according to certain rules. Let’s see how I solved this in a facility management project.\nThe post Automatically Assign a Category to Uncategorized Rows in Power Query and DAX appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/automatically-assign-a-category-to-uncategorised-rows-in-power-query-and-dax/",
-          "publishedOn": "2026-07-20T12:00:00.000Z",
-          "wordCount": 6902,
-          "title": "Automatically Assign a Category to Uncategorized Rows in Power Query and DAX",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/rodeo-project-management-software-iqLVxrHp46k-unsplash.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609923",
-          "author": "Nikhil Dasari",
-          "description": "Let's discover how neural networks learn, step by step\nThe post Backpropagation Explained for Beginners (Part 1): Building the Intuition appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/backpropagation-explained-for-beginners-part-1-building-the-intuition/",
-          "publishedOn": "2026-07-19T17:00:00.000Z",
-          "wordCount": 7645,
-          "title": "Backpropagation Explained for Beginners (Part 1): Building the Intuition",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/pexels-vargaphotography-10796342-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609943",
-          "author": "Kezhan Shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #6quinquies] - Prompt engineering, then context engineering, then loop engineering. On the question side, the loop is small by design: read the doc, ask what is missing, re-parse.\nThe post Loop Engineering for RAG Question Parsing: The Small Loop That Runs Before Retrieval appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/loop-engineering-for-rag-question-parsing-the-small-loop-that-runs-before-retrieval/",
-          "publishedOn": "2026-07-19T15:00:00.000Z",
-          "wordCount": 7282,
-          "title": "Loop Engineering for RAG Question Parsing: The Small Loop That Runs Before Retrieval",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/loop_roundabout_7900785_card.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=609939",
-          "author": "Pratik Rupareliya",
-          "description": "An AI agent passed every metric in the eval harness I published, then the CFO killed it — its successful resolutions cost more than the humans it replaced.\nThe post Your AI Agent Passed Every Eval. Finance Still Killed It. appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/your-ai-agent-passed-every-eval-finance-still-killed-it/",
-          "publishedOn": "2026-07-19T13:00:00.000Z",
-          "wordCount": 8339,
-          "title": "Your AI Agent Passed Every Eval. Finance Still Killed It.",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/eval-metric-cost-per-successful-outcome.jpg"
         }
       ]
     },
@@ -4122,6 +4118,36 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/c741b38dca68",
+          "author": "Patrick Neeman",
+          "description": "",
+          "link": "https://uxdesign.cc/what-the-matrix-got-right-about-ai-c741b38dca68?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-08-18T21:43:01.000Z",
+          "wordCount": null,
+          "title": "What The Matrix got right about AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/410e155567e3",
+          "author": "Michael Burnett",
+          "description": "",
+          "link": "https://uxdesign.cc/what-is-the-purpose-of-software-410e155567e3?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-08-18T21:41:42.000Z",
+          "wordCount": null,
+          "title": "What is the purpose of software",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/64fca3bb7655",
+          "author": "Kai Wong",
+          "description": "You can’t vibe code your way through HIPAA violations\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/how-to-experiment-when-designing-in-a-regulated-field-like-healthcare-64fca3bb7655?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-08-18T21:41:12.000Z",
+          "wordCount": null,
+          "title": "How to experiment when designing in a regulated field like Healthcare",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/5927df9a399e",
           "author": "Fabricio Teixeira",
@@ -4761,46 +4787,6 @@
           "wordCount": 9417,
           "title": "How to apply Nir Eyal’s Hook Model to AI products, safely",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*H2988nKKxQtsXnJ92R1Mog.png"
-        },
-        {
-          "id": "https://medium.com/p/7ac13d2ff1d6",
-          "author": "Fabricio Teixeira",
-          "description": "Weekly curated resources for designers — thinkers and makers.",
-          "link": "https://uxdesign.cc/delegating-taste-orchestration-layer-ai-workflows-7ac13d2ff1d6?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-07-20T11:14:00.000Z",
-          "wordCount": 2658,
-          "title": "Delegating taste, orchestration layer, AI workflows",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/99ae638489b9",
-          "author": "Wira Indra Kusuma",
-          "description": "Everything got faster, closer, more certain. The person inside stayed the same.\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/lonely-at-a-lower-latency-99ae638489b9?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-07-20T11:09:56.000Z",
-          "wordCount": 1862,
-          "title": "Lonely at a lower latency",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*vtOkkZh8esAFIa8e1oHMTw.png"
-        },
-        {
-          "id": "https://medium.com/p/bc59947c3c16",
-          "author": "Hiroshi Sato",
-          "description": "On the small delay that makes a brainstorm actually storm\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/the-brainstorm-that-couldnt-storm-bc59947c3c16?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-07-20T11:09:21.000Z",
-          "wordCount": 1994,
-          "title": "The brainstorm that couldn’t storm",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*TRNLh7umtF1YQn2GTo3HKw.png"
-        },
-        {
-          "id": "https://medium.com/p/1e6d68d8d562",
-          "author": "Takuma Kakehi",
-          "description": "Universality isn’t designed into things. It’s selected by surviving constraints — and often, people are the constraint.\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/the-weakest-channel-1e6d68d8d562?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-07-19T20:47:00.000Z",
-          "wordCount": 1960,
-          "title": "The weakest channel",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*iVMS7zk9Pl2M1ulmHwWmow.jpeg"
         }
       ]
     },
@@ -4852,6 +4838,16 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/eea529d5e2f4",
+          "author": "Jim Clyde Monge",
+          "description": "",
+          "link": "https://generativeai.pub/easiest-way-to-deploy-open-source-models-to-production-in-2026-eea529d5e2f4?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-18T13:29:49.000Z",
+          "wordCount": null,
+          "title": "Easiest Way to Deploy Open-Source Models to Production in 2026",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/89419a0bd242",
           "author": "Jim Clyde Monge",

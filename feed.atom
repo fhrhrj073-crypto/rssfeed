@@ -2,10 +2,169 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-08-18T00:25:32.817Z</updated>
+    <updated>2026-08-19T00:25:48.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hermes Bot vs Grok Bot... you won't believe the winner]]></title>
+        <id>https://www.youtube.com/watch?v=1udtpl43iv8</id>
+        <link href="https://www.youtube.com/watch?v=1udtpl43iv8"/>
+        <updated>2026-08-18T22:13:33.000Z</updated>
+        <author>
+            <name>Alex Finn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What The Matrix got right about AI]]></title>
+        <id>https://medium.com/p/c741b38dca68</id>
+        <link href="https://uxdesign.cc/what-the-matrix-got-right-about-ai-c741b38dca68?source=rss----138adf9c44c---4"/>
+        <updated>2026-08-18T21:43:01.000Z</updated>
+        <author>
+            <name>Patrick Neeman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the purpose of software]]></title>
+        <id>https://medium.com/p/410e155567e3</id>
+        <link href="https://uxdesign.cc/what-is-the-purpose-of-software-410e155567e3?source=rss----138adf9c44c---4"/>
+        <updated>2026-08-18T21:41:42.000Z</updated>
+        <author>
+            <name>Michael Burnett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to experiment when designing in a regulated field like Healthcare]]></title>
+        <id>https://medium.com/p/64fca3bb7655</id>
+        <link href="https://uxdesign.cc/how-to-experiment-when-designing-in-a-regulated-field-like-healthcare-64fca3bb7655?source=rss----138adf9c44c---4"/>
+        <updated>2026-08-18T21:41:12.000Z</updated>
+        <summary type="html"><![CDATA[You can’t vibe code your way through HIPAA violations
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Kai Wong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I tested Grok Bot, Grok 4.6, and Cursor Origin - here’s my honest take]]></title>
+        <id>https://www.lennysnewsletter.com/p/i-tested-grok-bot-grok-46-and-cursor</id>
+        <link href="https://www.lennysnewsletter.com/p/i-tested-grok-bot-grok-46-and-cursor"/>
+        <updated>2026-08-18T21:30:31.000Z</updated>
+        <summary type="html"><![CDATA[Watch now | 🎙️ I tested Grok Bot, Cursor Origin, and Grok 4.6 head-to-head against my favorite models and ranked them on the Claire Index: here's what actually moved the needle]]></summary>
+        <author>
+            <name>Claire Vo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Top 20 Investor Matches, Free, in 30 Seconds]]></title>
+        <id>https://www.thevccorner.com/p/free-vc-matching-tool-top-20-investors-2026</id>
+        <link href="https://www.thevccorner.com/p/free-vc-matching-tool-top-20-investors-2026"/>
+        <updated>2026-08-18T21:16:48.000Z</updated>
+        <summary type="html"><![CDATA[293 active VCs, angels, and family offices, filtered by your stage, sector, and geography. No signup. Plus 20 guaranteed 1:1 pitches on September 17.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Prototype to Production: The Architecture Behind Secure & Governed AI Agents]]></title>
+        <id>https://towardsdatascience.com/?p=610657</id>
+        <link href="https://towardsdatascience.com/from-prototype-to-production-the-architecture-behind-secure-governed-ai-agents/"/>
+        <updated>2026-08-18T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Building the Responsible AI, security, and governance layers required for enterprise-ready agents
+The post From Prototype to Production: The Architecture Behind Secure & Governed AI Agents appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Partha Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing Lenny’s Jobs: The best place in the world to find, vet, and land your dream job]]></title>
+        <id>https://www.lennysnewsletter.com/p/announcing-lennys-jobs-the-best-place</id>
+        <link href="https://www.lennysnewsletter.com/p/announcing-lennys-jobs-the-best-place"/>
+        <updated>2026-08-18T15:40:06.000Z</updated>
+        <summary type="html"><![CDATA[Where product managers, engineers, designers, and growth/marketing professionals discover high-quality open roles at tech companies]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Enterprise Agent Systems that People can Trust, Verify and Improve]]></title>
+        <id>https://towardsdatascience.com/?p=610655</id>
+        <link href="https://towardsdatascience.com/building-enterprise-agent-systems-that-people-can-trust-verify-and-improve/"/>
+        <updated>2026-08-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[5 principles that determine whether an agent system succeeds in production, explained through one I built for a $100M+ company.
+The post Building Enterprise Agent Systems that People can Trust, Verify and Improve appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Sheila Teo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Most Founders Hire Their First Engineer Too Early, Too Fast and for the Wrong Reasons]]></title>
+        <id>https://www.thevccorner.com/p/hiring-your-first-engineer-ai-era</id>
+        <link href="https://www.thevccorner.com/p/hiring-your-first-engineer-ai-era"/>
+        <updated>2026-08-18T14:39:34.000Z</updated>
+        <summary type="html"><![CDATA[The hiring playbook everyone is still running was written for a market that closed in 2022.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graph Engineering Isn’t About More Connections — It’s About Which Ones Get Used]]></title>
+        <id>https://towardsdatascience.com/?p=610634</id>
+        <link href="https://towardsdatascience.com/graph-engineering-isnt-about-more-connections-its-about-which-ones-get-used/"/>
+        <updated>2026-08-18T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Adding more communication pathways between agents doesn’t necessarily improve multi-agent performance. In a controlled, reproducible experiment across 50 runs, recovery remained remarkably stable from 20% to 100% relationship density. But as the network became denser, the fraction of edges actually used fell sharply—revealing a gap between configured connectivity and behavioral connectivity.
+The post Graph Engineering Isn’t About More Connections — It’s About Which Ones Get Used appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Emmimal P Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Easiest Way to Deploy Open-Source Models to Production in 2026]]></title>
+        <id>https://medium.com/p/eea529d5e2f4</id>
+        <link href="https://generativeai.pub/easiest-way-to-deploy-open-source-models-to-production-in-2026-eea529d5e2f4?source=rss----440100e76000---4"/>
+        <updated>2026-08-18T13:29:49.000Z</updated>
+        <author>
+            <name>Jim Clyde Monge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Anything with Kimi K3 - The Next Frontier]]></title>
+        <id>https://www.youtube.com/watch?v=mq-rVs7oUXw</id>
+        <link href="https://www.youtube.com/watch?v=mq-rVs7oUXw"/>
+        <updated>2026-08-18T13:00:12.000Z</updated>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build AI Agents, No Coding]]></title>
+        <id>https://www.youtube.com/shorts/-SRy2xZLGac</id>
+        <link href="https://www.youtube.com/shorts/-SRy2xZLGac"/>
+        <updated>2026-08-18T12:00:07.000Z</updated>
+        <summary type="html"><![CDATA[You don't need to code to build AI agents. Over the past year, complete non-programmers have built agents that read their email, manage their calendar, and h...]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ten Is Not a Hundred]]></title>
+        <id>https://towardsdatascience.com/?p=610632</id>
+        <link href="https://towardsdatascience.com/ten-is-not-a-hundred/"/>
+        <updated>2026-08-18T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The number that fooled every hallucination detector
+The post Ten Is Not a Hundred appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Javier Marin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 Nvidia backs $105B for OpenAI's mega data center]]></title>
+        <id>https://www.theneuron.ai/newsletter/nvidia-backs-105b-for-openai-s-mega-data-center/</id>
+        <link href="https://www.theneuron.ai/newsletter/nvidia-backs-105b-for-openai-s-mega-data-center/"/>
+        <updated>2026-08-18T09:46:57.735Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grok Bot: From Beginner to Expert in 25 minutes]]></title>
         <id>https://www.youtube.com/watch?v=vrgO4D_mUlA</id>
@@ -5547,181 +5706,6 @@ The post Water Cooler Small Talk, Ep. 12: Byzantine Fault Tolerance appeared fir
         <summary type="html"><![CDATA[The best AI avatar video generators help training teams turn scripts, slides, and policies into updateable videos without booking a studio.]]></summary>
         <author>
             <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the founder of Morning Brew built a Claude content machine that never runs out of ideas and never sounds like slop | Alex Lieberman]]></title>
-        <id>https://www.lennysnewsletter.com/p/how-the-founder-of-morning-brew-built</id>
-        <link href="https://www.lennysnewsletter.com/p/how-the-founder-of-morning-brew-built"/>
-        <updated>2026-07-20T12:04:47.000Z</updated>
-        <summary type="html"><![CDATA[Listen now | 🎙 How Alex Lieberman (Morning Brew) built a Claude workflow that interviews him before drafting, codes his voice in Markdown, and runs a six-persona revision loop before posting]]></summary>
-        <author>
-            <name>Claire Vo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Trap Keeping You From Becoming an AI Engineer]]></title>
-        <id>https://www.youtube.com/shorts/DAruHr-AdwU</id>
-        <link href="https://www.youtube.com/shorts/DAruHr-AdwU"/>
-        <updated>2026-07-20T12:00:28.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automatically Assign a Category to Uncategorized Rows in Power Query and DAX]]></title>
-        <id>https://towardsdatascience.com/?p=609955</id>
-        <link href="https://towardsdatascience.com/automatically-assign-a-category-to-uncategorised-rows-in-power-query-and-dax/"/>
-        <updated>2026-07-20T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Having categorized data is everything in reporting. Uncategorized data cannot be grouped and aggregated. But sometimes we must assign a category to uncategorized data according to certain rules. Let’s see how I solved this in a facility management project.
-The post Automatically Assign a Category to Uncategorized Rows in Power Query and DAX appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Salvatore Cagliari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Delegating taste, orchestration layer, AI workflows]]></title>
-        <id>https://medium.com/p/7ac13d2ff1d6</id>
-        <link href="https://uxdesign.cc/delegating-taste-orchestration-layer-ai-workflows-7ac13d2ff1d6?source=rss----138adf9c44c---4"/>
-        <updated>2026-07-20T11:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Weekly curated resources for designers — thinkers and makers.]]></summary>
-        <author>
-            <name>Fabricio Teixeira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lonely at a lower latency]]></title>
-        <id>https://medium.com/p/99ae638489b9</id>
-        <link href="https://uxdesign.cc/lonely-at-a-lower-latency-99ae638489b9?source=rss----138adf9c44c---4"/>
-        <updated>2026-07-20T11:09:56.000Z</updated>
-        <summary type="html"><![CDATA[Everything got faster, closer, more certain. The person inside stayed the same.
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Wira Indra Kusuma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The brainstorm that couldn’t storm]]></title>
-        <id>https://medium.com/p/bc59947c3c16</id>
-        <link href="https://uxdesign.cc/the-brainstorm-that-couldnt-storm-bc59947c3c16?source=rss----138adf9c44c---4"/>
-        <updated>2026-07-20T11:09:21.000Z</updated>
-        <summary type="html"><![CDATA[On the small delay that makes a brainstorm actually storm
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Hiroshi Sato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😸 Alibaba’s 2.4T Qwen joins the AI race]]></title>
-        <id>https://www.theneuron.ai/newsletter/alibaba-s-2-4t-qwen-joins-the-ai-race/</id>
-        <link href="https://www.theneuron.ai/newsletter/alibaba-s-2-4t-qwen-joins-the-ai-race/"/>
-        <updated>2026-07-20T10:01:05.062Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一支 AI 影片 NT$35–75？成本拆給你看 #claudecode #codex]]></title>
-        <id>https://www.youtube.com/shorts/O5znK8ScQRk</id>
-        <link href="https://www.youtube.com/shorts/O5znK8ScQRk"/>
-        <updated>2026-07-20T04:00:30.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>追日Gucci-AI效率革命聯盟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[市場創新高就想停扣？先看你沒填的那一格]]></title>
-        <id>https://www.youtube.com/shorts/H41CZecEeOM</id>
-        <link href="https://www.youtube.com/shorts/H41CZecEeOM"/>
-        <updated>2026-07-20T00:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>追日Gucci-AI效率革命聯盟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic messed up]]></title>
-        <id>https://www.youtube.com/shorts/6ugVjmFsDmc</id>
-        <link href="https://www.youtube.com/shorts/6ugVjmFsDmc"/>
-        <updated>2026-07-19T23:48:45.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The weakest channel]]></title>
-        <id>https://medium.com/p/1e6d68d8d562</id>
-        <link href="https://uxdesign.cc/the-weakest-channel-1e6d68d8d562?source=rss----138adf9c44c---4"/>
-        <updated>2026-07-19T20:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Universality isn’t designed into things. It’s selected by surviving constraints — and often, people are the constraint.
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Takuma Kakehi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI’s Biggest Winners📉, Stop Playing The Markup Game🎯, The Self Driving Company🚗]]></title>
-        <id>https://www.thevccorner.com/p/ais-biggest-winners-stop-playing</id>
-        <link href="https://www.thevccorner.com/p/ais-biggest-winners-stop-playing"/>
-        <updated>2026-07-19T17:26:16.000Z</updated>
-        <summary type="html"><![CDATA[Another week, another pulse check on Tech.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😸 July 19 (Sunday)]]></title>
-        <id>https://www.theneuron.ai/newsletter/july-19-sunday/</id>
-        <link href="https://www.theneuron.ai/newsletter/july-19-sunday/"/>
-        <updated>2026-07-19T17:01:56.571Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Backpropagation Explained for Beginners (Part 1): Building the Intuition]]></title>
-        <id>https://towardsdatascience.com/?p=609923</id>
-        <link href="https://towardsdatascience.com/backpropagation-explained-for-beginners-part-1-building-the-intuition/"/>
-        <updated>2026-07-19T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Let's discover how neural networks learn, step by step
-The post Backpropagation Explained for Beginners (Part 1): Building the Intuition appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Nikhil Dasari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loop Engineering for RAG Question Parsing: The Small Loop That Runs Before Retrieval]]></title>
-        <id>https://towardsdatascience.com/?p=609943</id>
-        <link href="https://towardsdatascience.com/loop-engineering-for-rag-question-parsing-the-small-loop-that-runs-before-retrieval/"/>
-        <updated>2026-07-19T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #6quinquies] - Prompt engineering, then context engineering, then loop engineering. On the question side, the loop is small by design: read the doc, ask what is missing, re-parse.
-The post Loop Engineering for RAG Question Parsing: The Small Loop That Runs Before Retrieval appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Kezhan Shi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your AI Agent Passed Every Eval. Finance Still Killed It.]]></title>
-        <id>https://towardsdatascience.com/?p=609939</id>
-        <link href="https://towardsdatascience.com/your-ai-agent-passed-every-eval-finance-still-killed-it/"/>
-        <updated>2026-07-19T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[An AI agent passed every metric in the eval harness I published, then the CFO killed it — its successful resolutions cost more than the humans it replaced.
-The post Your AI Agent Passed Every Eval. Finance Still Killed It. appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Pratik Rupareliya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix CPTO on AI and the future of product and tech roles | Elizabeth Stone]]></title>
-        <id>https://www.lennysnewsletter.com/p/netflix-cpto-on-ai-and-the-future</id>
-        <link href="https://www.lennysnewsletter.com/p/netflix-cpto-on-ai-and-the-future"/>
-        <updated>2026-07-19T12:31:21.000Z</updated>
-        <summary type="html"><![CDATA[Elizabeth Stone, CPTO of Netflix, on managing AI-era product teams, the rise of systems thinking, and how to build excellence as an operating system]]></summary>
-        <author>
-            <name>Lenny Rachitsky</name>
         </author>
     </entry>
 </feed>
