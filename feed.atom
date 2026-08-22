@@ -2,10 +2,136 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-08-21T00:28:42.900Z</updated>
+    <updated>2026-08-22T00:25:49.918Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Running Codex as a Headless Agent]]></title>
+        <id>https://towardsdatascience.com/?p=610713</id>
+        <link href="https://towardsdatascience.com/running-codex-as-a-headless-agent/"/>
+        <updated>2026-08-21T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Turning Codex from an interactive assistant into a programmable automation component
+The post Running Codex as a Headless Agent appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Shuai Guo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Estimating from No Data: Deriving a Continuous Score from Categories]]></title>
+        <id>https://towardsdatascience.com/?p=610778</id>
+        <link href="https://towardsdatascience.com/estimating-from-no-data-deriving-a-continuous-score-from-categories-2/"/>
+        <updated>2026-08-21T17:09:54.000Z</updated>
+        <summary type="html"><![CDATA[A walkthrough of and the maths behind using low-capacity networks to acquire fine-grained scoring when only categorical labelling is available for training
+The post Estimating from No Data: Deriving a Continuous Score from Categories appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Elod Pal Csirmaz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Retrieve One Row from a Table, Not the Whole Table: Row-Level Chunks for RAG]]></title>
+        <id>https://towardsdatascience.com/?p=610715</id>
+        <link href="https://towardsdatascience.com/retrieve-one-row-from-a-table-not-the-whole-table-row-level-chunks-for-rag/"/>
+        <updated>2026-08-21T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #7sexies] - The unit of retrieval doesn’t have to be a page or a paragraph. When the corpus carries tables, each body row with its column headers is a chunk in its own right, and it’s often the one row the reader asked about
+The post Retrieve One Row from a Table, Not the Whole Table: Row-Level Chunks for RAG appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Kezhan Shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Outbid.lol is Blowing Up Right Now: A Dead-Simple Website and Made $100K in Less Than 48 Hours]]></title>
+        <id>https://medium.com/p/ee471942bebf</id>
+        <link href="https://generativeai.pub/outbid-lol-is-blowing-up-right-now-a-dead-simple-website-and-made-100k-in-less-than-48-hours-ee471942bebf?source=rss----440100e76000---4"/>
+        <updated>2026-08-21T16:12:12.000Z</updated>
+        <author>
+            <name>Jim Clyde Monge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Types of Dimensions in a Star Schema, and How to Use Them]]></title>
+        <id>https://towardsdatascience.com/?p=610711</id>
+        <link href="https://towardsdatascience.com/what-are-the-types-of-dimensions-in-a-star-schema-and-how-to-use-them/"/>
+        <updated>2026-08-21T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dimensions are one of the two main object types in dimensional modelling. But what are the different types of dimensions? And how can you use them?
+The post The Types of Dimensions in a Star Schema, and How to Use Them appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Salvatore Cagliari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bayesian Guardrails for AI Decisions: Measuring Uncertainty Before Automating Decisions]]></title>
+        <id>https://towardsdatascience.com/?p=610709</id>
+        <link href="https://towardsdatascience.com/bayesian-guardrails-for-ai-decisions-measuring-uncertainty-before-automating-decisions/"/>
+        <updated>2026-08-21T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[AI systems should not automate a decision simply because they can provide a prediction. A decision system should consider how uncertain the prediction is and defer if a mistake would be costly.
+The post Bayesian Guardrails for AI Decisions: Measuring Uncertainty Before Automating Decisions appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Mahe Jabeen Abdul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Won't Replace Learning Python]]></title>
+        <id>https://www.youtube.com/shorts/5u8z3X8D674</id>
+        <link href="https://www.youtube.com/shorts/5u8z3X8D674"/>
+        <updated>2026-08-21T12:00:33.000Z</updated>
+        <summary type="html"><![CDATA[Want a job in software, machine learning, or data science in 2026? You still need Python, and honestly you need to know it better than ever. The advice hasn'...]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Benders Decomposition Works, Part II: Feasibility Cuts]]></title>
+        <id>https://towardsdatascience.com/?p=610707</id>
+        <link href="https://towardsdatascience.com/how-benders-decomposition-works-part-ii-feasibility-cuts/"/>
+        <updated>2026-08-21T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Learning about Farkas' lemma and how it can inform Benders decomposition to learn from infeasibility, applied to the capacitated facility location problem.
+The post How Benders Decomposition Works, Part II: Feasibility Cuts appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Luis Fernando Pérez Armas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 AT&T Is Going Half In On Open Models]]></title>
+        <id>https://www.theneuron.ai/newsletter/at-t-is-going-half-in-on-open-models/</id>
+        <link href="https://www.theneuron.ai/newsletter/at-t-is-going-half-in-on-open-models/"/>
+        <updated>2026-08-21T09:31:21.875Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything That Happened in AI Today (Thursday, August 20, 2026)]]></title>
+        <id>https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-august-20-2026/</id>
+        <link href="https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-august-20-2026/"/>
+        <updated>2026-08-21T03:17:49.109Z</updated>
+        <summary type="html"><![CDATA[OpenAI and Anthropic accelerated toward IPOs; Nvidia struck a $6B Poolside licensing deal plus a $1B investment; Stripe bought OpenRouter; U.S. data-center backlash hit elections; robots learned tasks from seconds of demonstration.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GenAI Is Great at JDK Migration Today. Will It Still Be Great When Humans Stop Doing It?]]></title>
+        <id>https://medium.com/p/21f207b39899</id>
+        <link href="https://generativeai.pub/genai-is-great-at-jdk-migration-today-will-it-still-be-great-when-humans-stop-doing-it-21f207b39899?source=rss----440100e76000---4"/>
+        <updated>2026-08-21T03:16:19.000Z</updated>
+        <summary type="html"><![CDATA[Today, AI Consumes Human Knowledge. Tomorrow, Where Will That Knowledge Come From?
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Vijayaraghavn Ramalingam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Asking AI to Write. Start Asking It to Ask.]]></title>
+        <id>https://medium.com/p/bbd551609cde</id>
+        <link href="https://generativeai.pub/stop-asking-ai-to-write-start-asking-it-to-ask-bbd551609cde?source=rss----440100e76000---4"/>
+        <updated>2026-08-21T03:13:26.000Z</updated>
+        <summary type="html"><![CDATA[How knowledge elicitation works, and why it beats a blank page every time
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Jes Fink-Jensen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8 Grok Bot use cases I promise will change your life]]></title>
         <id>https://www.youtube.com/watch?v=x8KP4MdvM1k</id>
@@ -5300,197 +5426,6 @@ The post Most RAG Hallucinations Are Extraction Errors: Seven Patterns for a Typ
 The post Lessons Learned After 8.5 Years of ML appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Pascal Janetzky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RAG Explained The Most In Demand Pattern in AI Engineering]]></title>
-        <id>https://www.youtube.com/shorts/mEL4_t3an78</id>
-        <link href="https://www.youtube.com/shorts/mEL4_t3an78"/>
-        <updated>2026-07-23T12:00:08.000Z</updated>
-        <summary type="html"><![CDATA[RAG, or retrieval augmented generation, is probably the most in-demand pattern in AI engineering right now. It's been around a few years and it's still wildl...]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Adding More AI Agents Made Our System Slower]]></title>
-        <id>https://towardsdatascience.com/?p=610028</id>
-        <link href="https://towardsdatascience.com/why-adding-more-ai-agents-made-our-system-slower/"/>
-        <updated>2026-07-23T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The hidden cost of asynchronous systems, how tiny CPU tasks quietly became our biggest bottleneck while scaling hundreds of LLM agents.
-The post Why Adding More AI Agents Made Our System Slower appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Uri Peled</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不想露臉，也能把內容做成短片 #claudecode #code]]></title>
-        <id>https://www.youtube.com/shorts/3r3tVH1gG3Y</id>
-        <link href="https://www.youtube.com/shorts/3r3tVH1gG3Y"/>
-        <updated>2026-07-23T10:00:06.000Z</updated>
-        <summary type="html"><![CDATA[想做短影片，卻不想露臉？真正卡住的，常常不是內容，而是每一句到底要配什麼畫面。AI 內容短片生成器會先讀題目和腳本，再安排分析圖卡、時間軸與動畫。影片裡的台積電案例，就是實際生成的 AI 內容短片。想看完整做法，可以加入免費的 AI 效率啟動營。🎯 你提供題目與腳本，AI 先安排畫面，再由你驗收。章節00:00...]]></summary>
-        <author>
-            <name>追日Gucci-AI效率革命聯盟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😺 You Need 3 Geminis Now]]></title>
-        <id>https://www.theneuron.ai/newsletter/you-need-3-geminis-now/</id>
-        <link href="https://www.theneuron.ai/newsletter/you-need-3-geminis-now/"/>
-        <updated>2026-07-23T09:32:15.972Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Negotiated my ENTIRE return]]></title>
-        <id>https://www.youtube.com/shorts/Bf-f2XK4Qv0</id>
-        <link href="https://www.youtube.com/shorts/Bf-f2XK4Qv0"/>
-        <updated>2026-07-23T09:31:18.000Z</updated>
-        <summary type="html"><![CDATA[Join My Newsletter for Regular AI Updates 👇🏼https://forwardfuture.comMy Links 🔗👉🏻 X: https://x.com/matthewberman👉🏻 Forward Future X: https://x.com/for...]]></summary>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic’s biggest 2026 miscalculation was believing model leadership could excuse everything else]]></title>
-        <id>https://medium.com/p/b55cf4d9b64b</id>
-        <link href="https://generativeai.pub/anthropics-biggest-2026-miscalculation-was-believing-model-leadership-could-excuse-everything-else-b55cf4d9b64b?source=rss----440100e76000---4"/>
-        <updated>2026-07-23T05:17:43.000Z</updated>
-        <summary type="html"><![CDATA[Anthropic is losing its grip on the AI market, and it happened much faster than anyone expected.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Jim Clyde Monge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Imagination, Aligned]]></title>
-        <id>https://medium.com/p/1296140d1032</id>
-        <link href="https://generativeai.pub/imagination-aligned-on-ai-and-literature-1296140d1032?source=rss----440100e76000---4"/>
-        <updated>2026-07-23T05:13:16.000Z</updated>
-        <summary type="html"><![CDATA[What AI can and can’t do with a story — and what is actually under threat]]></summary>
-        <author>
-            <name>Stanislav Lvovsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Two-Agent Code Review Loop with A2A, LangGraph, and LM Studio]]></title>
-        <id>https://medium.com/p/684455491963</id>
-        <link href="https://generativeai.pub/building-a-two-agent-code-review-loop-with-a2a-langgraph-and-lm-studio-684455491963?source=rss----440100e76000---4"/>
-        <updated>2026-07-23T05:07:49.000Z</updated>
-        <summary type="html"><![CDATA[Agent Cards, JSON-RPC routes, the TaskUpdater lifecycle, and a working orchestrator loop.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Jes Fink-Jensen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 做影片苦工，你把時間留給專業、事業與家人]]></title>
-        <id>https://www.youtube.com/shorts/nlP-0bwKjBw</id>
-        <link href="https://www.youtube.com/shorts/nlP-0bwKjBw"/>
-        <updated>2026-07-23T04:00:28.000Z</updated>
-        <summary type="html"><![CDATA[🎁 加入免費社群拿AI 影片工具包：guccidgi.com/aifree-----從選題到 QA 接成一條產線，人只在關鍵節點看過並決定。]]></summary>
-        <author>
-            <name>追日Gucci-AI效率革命聯盟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WORST AI Mistakes by Companies]]></title>
-        <id>https://www.youtube.com/shorts/_X0kRfqGsx8</id>
-        <link href="https://www.youtube.com/shorts/_X0kRfqGsx8"/>
-        <updated>2026-07-22T23:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Visit https://do.co/matthewberman and start building on DigitalOcean's AI-Native Cloud today.There have been some crazy headlines going around where companie...]]></summary>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The screens are getting demoted]]></title>
-        <id>https://medium.com/p/6b40120fcf04</id>
-        <link href="https://uxdesign.cc/the-screens-are-getting-demoted-6b40120fcf04?source=rss----138adf9c44c---4"/>
-        <updated>2026-07-22T22:21:02.000Z</updated>
-        <summary type="html"><![CDATA[As AI become more advanced, the UI is no longer the main focus. Now, the real question is which screens are still needed]]></summary>
-        <author>
-            <name>Serg Zorin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😺 Watch: Would you trust an AI surgeon?]]></title>
-        <id>https://www.theneuron.ai/newsletter/dell-podcast-july-22-wednesday/</id>
-        <link href="https://www.theneuron.ai/newsletter/dell-podcast-july-22-wednesday/"/>
-        <updated>2026-07-22T19:12:14.185Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It Begins: An AI Tried to Escape the Lab]]></title>
-        <id>https://www.youtube.com/watch?v=r4H7rx5nn1A</id>
-        <link href="https://www.youtube.com/watch?v=r4H7rx5nn1A"/>
-        <updated>2026-07-22T18:14:09.000Z</updated>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Forward Deployed Engineer Playbookhe Forward Deployed Engineer Playbook]]></title>
-        <id>https://www.thevccorner.com/p/forward-deployed-engineer-playbook-2026</id>
-        <link href="https://www.thevccorner.com/p/forward-deployed-engineer-playbook-2026"/>
-        <updated>2026-07-22T17:45:07.000Z</updated>
-        <summary type="html"><![CDATA[The role every AI company is racing to hire, and the complete operating manual for finding, pricing, deploying, and keeping them.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prompting is dead. Here is how you create loops]]></title>
-        <id>https://www.youtube.com/watch?v=FRGLToHAtgc</id>
-        <link href="https://www.youtube.com/watch?v=FRGLToHAtgc"/>
-        <updated>2026-07-22T16:52:43.000Z</updated>
-        <author>
-            <name>Alex Finn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loop Engineering for RAG Generation: Iterate top-k One at a Time]]></title>
-        <id>https://towardsdatascience.com/?p=610019</id>
-        <link href="https://towardsdatascience.com/loop-engineering-for-rag-generation-when-top-1-is-enough-when-you-need-top-k/"/>
-        <updated>2026-07-22T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #8bis] - Two regimes for sending retrieved candidates to the generation brick, the sufficiency signal that picks between them, and the per-question type dispatch that makes it cheap
-The post Loop Engineering for RAG Generation: Iterate top-k One at a Time appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Kezhan Shi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hermes Agent - Full Course & SECURE Setup Guide]]></title>
-        <id>https://www.youtube.com/watch?v=MEfpHENH78c</id>
-        <link href="https://www.youtube.com/watch?v=MEfpHENH78c"/>
-        <updated>2026-07-22T15:49:30.000Z</updated>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build Your Own LLM Runtime From Scratch]]></title>
-        <id>https://towardsdatascience.com/?p=610015</id>
-        <link href="https://towardsdatascience.com/how-to-build-your-own-llm-runtime-from-scratch/"/>
-        <updated>2026-07-22T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you have ever wanted to actually build an LLM inference runtime yourself — pack your own weights, own every barrier, capture your own CUDA graphs — this is what that journey looks like on an H100. A step-by-step tour of a small runtime called annotated-llm-runtime, and the three bugs that produced most of the annotations.
-The post How To Build Your Own LLM Runtime From Scratch appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Anubhab Banerjee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build an LLM Agent That Can Write and Run Code]]></title>
-        <id>https://towardsdatascience.com/?p=610013</id>
-        <link href="https://towardsdatascience.com/build-an-llm-agent-that-can-write-and-run-code/"/>
-        <updated>2026-07-22T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A hands-on walkthrough of code execution with the OpenAI Agents SDK and Docker
-The post Build an LLM Agent That Can Write and Run Code appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Shuai Guo</name>
         </author>
     </entry>
 </feed>
