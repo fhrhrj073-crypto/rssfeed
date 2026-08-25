@@ -2,10 +2,141 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-08-24T00:27:26.507Z</updated>
+    <updated>2026-08-25T00:26:53.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Understand the Next Wave of AI Before Everyone Else | Tibo Interview]]></title>
+        <id>https://www.youtube.com/watch?v=4qjEgPojjzM</id>
+        <link href="https://www.youtube.com/watch?v=4qjEgPojjzM"/>
+        <updated>2026-08-24T18:11:25.000Z</updated>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Put Your Own Logic Inside the Codex Agentic Loop]]></title>
+        <id>https://towardsdatascience.com/?p=610754</id>
+        <link href="https://towardsdatascience.com/put-your-own-logic-inside-the-codex-agentic-loop/"/>
+        <updated>2026-08-24T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Understanding Codex hooks
+The post Put Your Own Logic Inside the Codex Agentic Loop appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Shuai Guo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Positions for Enterprise RAG That Mainstream Tutorials Get Wrong]]></title>
+        <id>https://towardsdatascience.com/?p=610752</id>
+        <link href="https://towardsdatascience.com/10-positions-for-enterprise-rag-that-mainstream-tutorials-get-wrong/"/>
+        <updated>2026-08-24T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #M3] - The ten positions the series argues from, and the map of every article that argues them
+The post 10 Positions for Enterprise RAG That Mainstream Tutorials Get Wrong appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Kezhan Shi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎙️ How I AI: Grok Bot + Grok 4.6—what’s great (and what’s still hype) & Lessons from spending $20,000 on Devin in one month]]></title>
+        <id>https://www.lennysnewsletter.com/p/how-i-ai-grok-bot-grok-46whats-great</id>
+        <link href="https://www.lennysnewsletter.com/p/how-i-ai-grok-bot-grok-46whats-great"/>
+        <updated>2026-08-24T15:02:23.000Z</updated>
+        <summary type="html"><![CDATA[Your weekly listens from How I AI, part of the Lenny’s Podcast Network]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can an LLM Forget the Right Things?]]></title>
+        <id>https://towardsdatascience.com/?p=610744</id>
+        <link href="https://towardsdatascience.com/can-an-llm-forget-the-right-things/"/>
+        <updated>2026-08-24T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Most LLM inference runtimes have no idea a physical deadline exists. This one refuses admission rather than miss a 33ms robot control cycle, evicts KV cache by meaning instead of age, and is written entirely in hand-written CUDA — no cuBLAS, no libtorch.
+The post Can an LLM Forget the Right Things? appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Anubhab Banerjee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Speculative Decoding on CPUs: Nearly 4x Faster Token Generation with DFlash]]></title>
+        <id>https://towardsdatascience.com/?p=610740</id>
+        <link href="https://towardsdatascience.com/speculative-decoding-on-cpus-nearly-4x-faster-token-generation-with-dflash/"/>
+        <updated>2026-08-24T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Speculative decoding can turn underused CPU compute into faster token generation, without changing the model's output. In our vLLM tests, DFlash delivered 3.92x the autoregressive throughput with Qwen3.5-9B on Intel Xeon 6 at concurrency 1. We break down where the speedup comes from, explain the acceptance metrics, and show what determines whether speculation pays off.
+The post Speculative Decoding on CPUs: Nearly 4x Faster Token Generation with DFlash appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ehssan Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I spent $20,000 on Devin in a month. Here’s what I learned | Ryan Carson (solo founder)]]></title>
+        <id>https://www.lennysnewsletter.com/p/i-spent-20000-on-devin-in-a-month</id>
+        <link href="https://www.lennysnewsletter.com/p/i-spent-20000-on-devin-in-a-month"/>
+        <updated>2026-08-24T12:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Watch now | 🎙️ Solo founder Ryan Carson runs 15 concurrent Devin agents to handle engineering, customer success, and investor updates, and he uses a handwritten list to keep it all straight]]></summary>
+        <author>
+            <name>Claire Vo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Learning Python Like It's 2019]]></title>
+        <id>https://www.youtube.com/shorts/dn8LS0L9OkY</id>
+        <link href="https://www.youtube.com/shorts/dn8LS0L9OkY"/>
+        <updated>2026-08-24T12:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Learning Python in 2026? Don't do it the 2019 way. You can learn significantly faster now: start building from day one and treat the AI in your editor like a...]]></summary>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Agents Don’t Need More Context — They Need Typed Context]]></title>
+        <id>https://towardsdatascience.com/?p=610738</id>
+        <link href="https://towardsdatascience.com/ai-agents-dont-need-more-context-they-need-typed-context/"/>
+        <updated>2026-08-24T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI agents don’t just have a context problem—they have a context typing problem. When instructions, memory, retrieved evidence, and tool outputs are flattened into one string, their semantic boundaries can disappear. I built a lightweight, zero-dependency Python runtime that keeps those boundaries explicit, tracks provenance, and rejects invalid context transformations before they reach the model. This article walks through the implementation, tests, and what this approach does—and does not—guarantee.
+The post AI Agents Don’t Need More Context — They Need Typed Context appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Emmimal P Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台北101五燈獎「邊荷律套餐」動口吃！滿滿膠質到底多厲害？在家也能100%還原神級美味！]]></title>
+        <id>https://www.youtube.com/watch?v=_b0QB9_mBco</id>
+        <link href="https://www.youtube.com/watch?v=_b0QB9_mBco"/>
+        <updated>2026-08-24T11:21:09.000Z</updated>
+        <author>
+            <name>電腦王阿達</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No log off, How to become an AI Designer, vibe coded portfolios]]></title>
+        <id>https://medium.com/p/deb7ca0e0f5d</id>
+        <link href="https://uxdesign.cc/no-log-off-how-to-become-an-ai-designer-vibe-coded-portfolios-deb7ca0e0f5d?source=rss----138adf9c44c---4"/>
+        <updated>2026-08-24T11:15:25.000Z</updated>
+        <author>
+            <name>Fabricio Teixeira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 Anthropic's IPO could top SpaceX's record]]></title>
+        <id>https://www.theneuron.ai/newsletter/anthropic-s-ipo-could-top-spacex-s-record/</id>
+        <link href="https://www.theneuron.ai/newsletter/anthropic-s-ipo-could-top-spacex-s-record/"/>
+        <updated>2026-08-24T09:30:15.147Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grok Bot saves so much time and is so easy]]></title>
+        <id>https://www.youtube.com/shorts/RUAtrbLa9Q0</id>
+        <link href="https://www.youtube.com/shorts/RUAtrbLa9Q0"/>
+        <updated>2026-08-24T07:26:04.000Z</updated>
+        <summary type="html"><![CDATA[Join My Newsletter for Regular AI Updates 👇🏼https://forwardfuture.comMy Links 🔗👉🏻 X: https://x.com/matthewberman👉🏻 Forward Future X: https://x.com/for...]]></summary>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stop using OKLCH lightness for your color scale]]></title>
         <id>https://medium.com/p/02025deca49d</id>
@@ -5278,79 +5409,6 @@ The post How to Give an LLM Agent a Browser appeared first on Towards Data Scien
         <summary type="html"><![CDATA[Listen now | Dianne Penn, Anthropic’s first PM, on the bets that made Claude dominant: the coding pivot, the eval-driven development loop, and what comes after coding is solved]]></summary>
         <author>
             <name>Lenny Rachitsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The seams are where the system lives]]></title>
-        <id>https://medium.com/p/9c43587be771</id>
-        <link href="https://uxdesign.cc/the-seams-are-where-the-system-lives-9c43587be771?source=rss----138adf9c44c---4"/>
-        <updated>2026-07-26T12:08:08.000Z</updated>
-        <summary type="html"><![CDATA[Partitioning a system into clean modules doesn’t remove complexity — it relocates it to the seams. Cities learned this by zoning. Software…
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Takuma Kakehi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Fastest Way Into AI Engineering if You Already Have a Job]]></title>
-        <id>https://www.youtube.com/shorts/iOaPHGP6s2w</id>
-        <link href="https://www.youtube.com/shorts/iOaPHGP6s2w"/>
-        <updated>2026-07-26T12:00:01.000Z</updated>
-        <summary type="html"><![CDATA[If you're already employed, the fastest path into AI engineering is to become the AI person on your team. Volunteer to build the AI feature nobody else wants...]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 胡謅是因為它沒得查：接上第二大腦，找不到就說不知道]]></title>
-        <id>https://www.youtube.com/shorts/hliLYvApPk4</id>
-        <link href="https://www.youtube.com/shorts/hliLYvApPk4"/>
-        <updated>2026-07-26T08:00:35.000Z</updated>
-        <summary type="html"><![CDATA[單純用 AI，問到它不知道的事就開始胡謅。但如果它直接存取你自己的第二大腦呢？我問了一個我從沒跟它討論過的題目（量子電腦），它很誠實地說沒有查到相關記錄。找得到，它就告訴你我找到誰、為什麼得出這個答案，有憑有據；找不到，它也不亂講。這就是接了知識庫跟沒接的差別。**Hashtags**：#AI幻覺 #AI第二大腦...]]></summary>
-        <author>
-            <name>追日Gucci-AI效率革命聯盟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一顆所有 AI 共用的大腦，出門用手機也叫得動]]></title>
-        <id>https://www.youtube.com/shorts/pRL1ES4olc0</id>
-        <link href="https://www.youtube.com/shorts/pRL1ES4olc0"/>
-        <updated>2026-07-26T00:00:19.000Z</updated>
-        <summary type="html"><![CDATA[Claude Code、Codex、外部 Agent 讀的都是同一份，還能帶著走。完整版在 https://www.guccidgi.com/join-ai-skool-yt]]></summary>
-        <author>
-            <name>追日Gucci-AI效率革命聯盟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧠 Community Wisdom: Staying on a client’s radar during pilot purgatory, pairing Linear with a discovery tool, the limits of what AI can automate, whether Techstars is worth it, and more]]></title>
-        <id>https://www.lennysnewsletter.com/p/community-wisdom-staying-on-a-clients</id>
-        <link href="https://www.lennysnewsletter.com/p/community-wisdom-staying-on-a-clients"/>
-        <updated>2026-07-25T16:01:44.000Z</updated>
-        <summary type="html"><![CDATA[Community Wisdom 194]]></summary>
-        <author>
-            <name>Kiyani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Optimize Vector Search When RAM Gets Too Expensive: On-Disk vs. In-Memory ANN Indexes]]></title>
-        <id>https://towardsdatascience.com/?p=610059</id>
-        <link href="https://towardsdatascience.com/optimizing-vector-search-on-disk-vs-in-memory-ann-indexes-when-ram-gets-too-expensive/"/>
-        <updated>2026-07-25T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Architecting cost-effective infrastructure by navigating the latency and storage trade-offs of HNSW, SPANN, and DiskANN
-The post How to Optimize Vector Search When RAM Gets Too Expensive: On-Disk vs. In-Memory ANN Indexes appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Oleg Tereshin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Fluid Simulator That Doesn’t Solve the Fluid Equations]]></title>
-        <id>https://towardsdatascience.com/?p=610057</id>
-        <link href="https://towardsdatascience.com/the-fluid-simulator-that-doesnt-solve-the-fluid-equations/"/>
-        <updated>2026-07-25T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I generated a Kármán vortex street without solving a single fluid equation. Here's how the Lattice Boltzmann Method gets there instead, derived from first principles, implemented in C++, and run on a supercomputer.
-The post The Fluid Simulator That Doesn’t Solve the Fluid Equations appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ferran Alia</name>
         </author>
     </entry>
 </feed>
