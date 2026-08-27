@@ -1564,38 +1564,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png"
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/productpass-summer2026launch",
-          "author": "Lenny Rachitsky",
-          "description": "Runway, Higgsfield, Waking Up, Brain.fm, Customer.io, Resend, Pangram, Mercury Personal, Supercut, Readwise, and Jam are joining Product Pass today, all included with Annual and Insider memberships",
-          "link": "https://www.lennysnewsletter.com/p/productpass-summer2026launch",
-          "publishedOn": "2026-07-28T15:54:24.000Z",
-          "wordCount": null,
-          "title": "11 products I love, free for a year—the biggest Product Pass expansion in 2 years",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!zA4i!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd82569d-7b1e-43f1-a487-c9cb4da0435b_1456x970.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!zA4i!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd82569d-7b1e-43f1-a487-c9cb4da0435b_1456x970.png"
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/how-i-ai-claude-opus-5-review-browser",
-          "author": "Lenny Rachitsky",
-          "description": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-          "link": "https://www.lennysnewsletter.com/p/how-i-ai-claude-opus-5-review-browser",
-          "publishedOn": "2026-07-27T15:03:21.000Z",
-          "wordCount": null,
-          "title": "🎙️ How I AI: Claude Opus 5 Review + Browser use in Codex + How Cursor and a Raspberry Pi makes AI fun",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/f3505a78-5a9a-4c2a-a432-ceb4e92894e1_1456x1048.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/f3505a78-5a9a-4c2a-a432-ceb4e92894e1_1456x1048.png"
         }
       ]
     },
@@ -1939,22 +1907,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!ZAcc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F316ef4a4-ddfc-44c4-b733-20c2efc8eb92_1280x720.webp"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/first-deal-mistakes-founders",
-          "author": "Ruben Dominguez",
-          "description": "Most founders blame the market but the data points somewhere closer to home.",
-          "link": "https://www.thevccorner.com/p/first-deal-mistakes-founders",
-          "publishedOn": "2026-07-28T14:28:13.000Z",
-          "wordCount": null,
-          "title": "These Are The Mistakes That Cost Founders Their First Deal",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/39629e60-638e-4a7b-a2fe-f1e11651e7a5_600x800.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/39629e60-638e-4a7b-a2fe-f1e11651e7a5_600x800.jpeg"
         }
       ]
     },
@@ -1963,6 +1915,16 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/newsletter/anthropic-s-30-trillion-market-claim/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/anthropic-s-30-trillion-market-claim/",
+          "publishedOn": "2026-08-26T11:31:46.294Z",
+          "wordCount": null,
+          "title": "😺 Anthropic's $30 Trillion Market Claim",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/newsletter/nvidia-built-a-cpu-musk-shot-it-into-space/",
           "author": null,
@@ -2682,56 +2644,6 @@
           "wordCount": null,
           "title": "Everything That Happened in AI Today (Tuesday, July 28, 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/news/microsoft-wants-to-turn-cybersecurity-into-a-continuous-ai-defense-loop/",
-          "author": null,
-          "description": "Microsoft’s MAI-Cyber-1-Flash and Project Perception show how specialized AI, agent orchestration, and human controls could reshape security.",
-          "link": "https://www.theneuron.ai/news/microsoft-wants-to-turn-cybersecurity-into-a-continuous-ai-defense-loop/",
-          "publishedOn": "2026-07-28T14:09:00.317Z",
-          "wordCount": null,
-          "title": "Microsoft Wants to Turn Cybersecurity Into a Continuous AI Defense Loop",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/nvidia-built-an-ai-defense-league-e72a/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/nvidia-built-an-ai-defense-league-e72a/",
-          "publishedOn": "2026-07-28T09:30:55.221Z",
-          "wordCount": null,
-          "title": "😼 Nvidia built an AI defense league",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-july-27-2026/",
-          "author": null,
-          "description": "Nvidia and Microsoft launched an open AI-security alliance; Anthropic clarified its open-weights stance; Claude share links surfaced in search; OpenAI mapped job-boundary shifts; Kimi K3 spread across U.S. platforms.",
-          "link": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-july-27-2026/",
-          "publishedOn": "2026-07-28T00:35:18.564Z",
-          "wordCount": null,
-          "title": "Everything That Happened in AI Today (Monday, July 27, 2026)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-sunday-july-26-2026/",
-          "author": null,
-          "description": "Sam Altman headed to the White House as Claude Opus 5 reset ARC-AGI-3; unions tightened AI workplace rules; data centers rattled the grid; AI political spending passed $65M; plus much more.",
-          "link": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-sunday-july-26-2026/",
-          "publishedOn": "2026-07-27T17:53:08.804Z",
-          "wordCount": null,
-          "title": "Everything That Happened in AI Today (Sunday, July 26, 2026)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/news/openai-10-gw-gamble-compute-scarcity/",
-          "author": null,
-          "description": "Nvidia’s reported $250 billion backstop for OpenAI raises real financing risks. But OpenAI’s bigger wager is avoiding a costly compute shortage.",
-          "link": "https://www.theneuron.ai/news/openai-10-gw-gamble-compute-scarcity/",
-          "publishedOn": "2026-07-27T14:31:25.451Z",
-          "wordCount": null,
-          "title": "OpenAI’s 10 GW Gamble Is Really a Bet on Compute Scarcity",
-          "imageUrl": null
         }
       ]
     },
@@ -2740,6 +2652,56 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=680587",
+          "author": "Kezhan Shi",
+          "description": "Enterprise Document Intelligence [Vol.1 #2D] - What data scientists say when asked, what the model actually does under the hood, and why the honest answer changes your architecture decisions in enterprise RAG\nThe post How Does a RAG Reranker Really Work? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-does-a-rag-reranker-really-work-the-honest-answer-most-data-scientists-wont-give-you/",
+          "publishedOn": "2026-08-26T10:30:01.000Z",
+          "wordCount": 6782,
+          "title": "How Does a RAG Reranker Really Work?",
+          "imageUrl": "https://assets.insightmediagroup.io/media/wp-content/uploads/2026/08/image-3.jpeg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=680327",
+          "author": "Eivind Kjosbakken",
+          "description": "Work more effectively with your coding agents\nThe post How to Effectively Solve 100+ Tasks with Claude Code appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-effectively-solve-100-tasks-with-claude-code/",
+          "publishedOn": "2026-08-26T09:00:02.000Z",
+          "wordCount": 4518,
+          "title": "How to Effectively Solve 100+ Tasks with Claude Code",
+          "imageUrl": "https://assets.insightmediagroup.io/media/wp-content/uploads/2026/08/solving-hundreds-of-small-tasks_cover.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=676370",
+          "author": "Spyros Georgopoulos",
+          "description": "Bagging hits a wall no amount of trees can break — here's the equation that explains why, and the experiment that proves it\nThe post Why Random Forest Needs to Be This Random appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/why-random-forest-needs-to-be-this-random/",
+          "publishedOn": "2026-08-26T07:30:02.000Z",
+          "wordCount": 8764,
+          "title": "Why Random Forest Needs to Be This Random",
+          "imageUrl": "https://assets.insightmediagroup.io/media/wp-content/uploads/2026/08/pexels-nelson-sousa-945930204-20094347-scaled-1.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=680233",
+          "author": "Prashant Mudgal",
+          "description": "Why most agents are just flowcharts in disguise, and what to build instead.\nThe post Is Agentic AI Just Automation? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/is-agentic-ai-just-automation/",
+          "publishedOn": "2026-08-26T06:00:02.000Z",
+          "wordCount": 5499,
+          "title": "Is Agentic AI Just Automation?",
+          "imageUrl": "https://assets.insightmediagroup.io/media/wp-content/uploads/2026/08/Screenshot-2026-08-21-at-16.43.52.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/how-to-format-your-tds-draft-a-new-and-improved-guide/",
+          "author": "TDS Editors",
+          "description": "Everything you need to know about creating a draft on our Contributor Portal\nThe post How to Format Your TDS Draft: A New and Improved Guide appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-format-your-tds-draft-a-new-and-improved-guide/",
+          "publishedOn": "2026-08-26T01:13:39.000Z",
+          "wordCount": 4311,
+          "title": "How to Format Your TDS Draft: A New and Improved Guide",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1784835730635_rdcqhg.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/a-new-towards-data-science-a-faster-site-and-a-brand-new-contributor-portal/",
           "author": "TDS Editors",
@@ -3779,76 +3741,6 @@
           "wordCount": 6005,
           "title": "Avoiding Entity Key Drift in a Data Lake: Step 1, Normalization",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/291547589_m-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610132",
-          "author": "Justin Stewart",
-          "description": "Five models, sustained generation, real wall-socket energy at $0.31/kWh — and the surprise the RTX-3090 numbers predicted, only bigger.\nThe post How Much Does a Local LLM Actually Cost to Run? I Measured Every Watt on Apple Silicon appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-much-does-a-local-llm-actually-cost-to-run-i-measured-every-watt-on-apple-silicon/",
-          "publishedOn": "2026-07-28T16:30:00.000Z",
-          "wordCount": 5277,
-          "title": "How Much Does a Local LLM Actually Cost to Run? I Measured Every Watt on Apple Silicon",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/20260716localllmcostapplesilicon.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610129",
-          "author": "Maria Mouschoutzi",
-          "description": "from custom integrations to a universal standard for tool access\nThe post MCP Explained: How Modern AI Agents Connect to the Real World appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/mcp-explained-how-modern-ai-agents-connect-to-the-real-world/",
-          "publishedOn": "2026-07-28T15:00:00.000Z",
-          "wordCount": 4851,
-          "title": "MCP Explained: How Modern AI Agents Connect to the Real World",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/3440604A-B881-4555-8517-C8E5FA9743C3.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610127",
-          "author": "Sam Black",
-          "description": "You \"vibe coded\" the import. Understand Adam's optimization dynamics, why it fails spectacularly, and how to fix it.\nThe post Don’t Just “Throw Adam at It”: Misunderstanding Adam Will Cost You appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/dont-just-throw-adam-at-it-misunderstanding-adam-will-cost-you/",
-          "publishedOn": "2026-07-28T13:30:00.000Z",
-          "wordCount": 5632,
-          "title": "Don’t Just “Throw Adam at It”: Misunderstanding Adam Will Cost You",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/e72c590f-677c-497e-90c3-61799cb08ade.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610125",
-          "author": "Nikhil Dasari",
-          "description": "The idea that makes backpropagation possible.\nThe post Backpropagation Explained for Beginners (Part 2): There Has to Be a Better Way appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/backpropagation-explained-for-beginners-part-2-there-has-to-be-a-better-way/",
-          "publishedOn": "2026-07-28T12:00:00.000Z",
-          "wordCount": 5589,
-          "title": "Backpropagation Explained for Beginners (Part 2): There Has to Be a Better Way",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/pexels-masoodaslami-29831512-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610098",
-          "author": "Luis Fernando Pérez Armas",
-          "description": "Using mathematical optimization to solve a pickup-and-delivery problem with time windows.\nThe post “Los Movimientos”: The Routing Problem That Nearly Broke My Spirit appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/los-movimientos-the-routing-problem-that-nearly-broke-my-spirit-2/",
-          "publishedOn": "2026-07-27T16:30:00.000Z",
-          "wordCount": 10319,
-          "title": "“Los Movimientos”: The Routing Problem That Nearly Broke My Spirit",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/movimientos-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610081",
-          "author": "Lucas Braga",
-          "description": "In a world where human time is expensive, learn how to use it only when really necessary\nThe post Reducing Human Annotation with ML Active Learning appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/reducing-human-annotation-with-ml-active-learning/",
-          "publishedOn": "2026-07-27T15:00:00.000Z",
-          "wordCount": 6881,
-          "title": "Reducing Human Annotation with ML Active Learning",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/image-338.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610072",
-          "author": "Sachin Date",
-          "description": "The mean keeps making its usefulness felt in all sorts of situations, often in truly non-obvious ways\nThe post The Most Beautiful Statistic: The History and the Science of the Humble Mean appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-most-beautiful-statistic-the-history-and-the-science-of-the-humble-mean/",
-          "publishedOn": "2026-07-27T13:30:00.000Z",
-          "wordCount": 11543,
-          "title": "The Most Beautiful Statistic: The History and the Science of the Humble Mean",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/07/Viking_spacecraft.jpg"
         }
       ]
     },
@@ -3863,6 +3755,16 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/e8fa34e91d62",
+          "author": "Dan Maccarone",
+          "description": "",
+          "link": "https://uxdesign.cc/ai-has-a-hospitality-problem-money-cant-fix-e8fa34e91d62?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-08-26T21:51:09.000Z",
+          "wordCount": null,
+          "title": "AI has a hospitality problem money can’t fix",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/8339c99398f3",
           "author": "Michael Burnett",
@@ -4502,16 +4404,6 @@
           "wordCount": 1887,
           "title": "The MOS 6502: the people’s princess",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:700/1*q7pCK6qndlOsJFSuGJHFug.png"
-        },
-        {
-          "id": "https://medium.com/p/2dc785d6cc4e",
-          "author": "Ida Persson",
-          "description": "Inviting friction into design and life",
-          "link": "https://uxdesign.cc/from-frictionless-to-meaningful-2dc785d6cc4e?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-07-27T22:00:18.000Z",
-          "wordCount": 6361,
-          "title": "From frictionless to meaningful",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*9hBLouW0xkc74_qt.jpeg"
         }
       ]
     },
@@ -4573,6 +4465,106 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/ec1d4f751550",
+          "author": "Suyog Joshi",
+          "description": "A new portability standard is turning agent skills, tools, and engineering procedures into reusable software artifacts.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/agent-plugins-1-0-engineering-process-is-becoming-installable-ec1d4f751550?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-27T01:23:35.000Z",
+          "wordCount": null,
+          "title": "Agent Plugins 1.0: Engineering Process Is Becoming Installable",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/19c6a45c0af9",
+          "author": "Sarath S",
+          "description": "It destroyed nothing, but one vague request triggered server-wide changes I never asked for.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/what-happens-when-you-give-an-ai-agent-root-access-to-your-terminal-19c6a45c0af9?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-27T01:21:37.000Z",
+          "wordCount": null,
+          "title": "What Happens When You Give an AI Agent Root Access to Your Terminal",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/78739b2d2ede",
+          "author": "Getter Chen",
+          "description": "Comparing the low-cost AI text-to-UI options I have on hand (as opposed to subscription tools like Claude Design and Lovable) and see…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/3-prompts-to-test-text2ui-agents-on-low-cost-tools-78739b2d2ede?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-27T00:55:21.000Z",
+          "wordCount": null,
+          "title": "3 Prompts to Test Text2UI Agents on Low-Cost Tools",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/77a4a2423338",
+          "author": "Jim Clyde Monge",
+          "description": "",
+          "link": "https://generativeai.pub/i-tried-8-ai-study-tools-after-talking-to-students-about-how-they-actually-use-ai-77a4a2423338?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-27T00:48:35.000Z",
+          "wordCount": null,
+          "title": "I Tried 8 AI Study Tools After Talking to Students About How They Actually Use AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/aea07ad8ecd9",
+          "author": "Jim Clyde Monge",
+          "description": "",
+          "link": "https://generativeai.pub/what-happens-when-an-ai-agent-can-learn-from-its-own-trading-experiments-aea07ad8ecd9?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-26T23:25:33.000Z",
+          "wordCount": null,
+          "title": "What Happens When an AI Agent Can Learn From Its Own Trading Experiments?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b6092226f882",
+          "author": "Luis Ticas",
+          "description": "Most agent architecture debates are people solving different problems with the same word. Here’s how to tell them apart, and when you need…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/loops-graphs-and-knowing-which-one-you-actually-need-b6092226f882?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-26T11:33:10.000Z",
+          "wordCount": null,
+          "title": "Loops, Graphs, and Knowing Which One You Actually Need",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1791753c35f1",
+          "author": "Abhinav Jain",
+          "description": "",
+          "link": "https://generativeai.pub/on-psychotic-machines-and-dead-creativity-1791753c35f1?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-26T11:30:32.000Z",
+          "wordCount": null,
+          "title": "On Psychotic Machines And Dead Creativity",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/96038101f1a9",
+          "author": "MohamedAbdelmenem",
+          "description": "Cursor sold because renting intelligence doesn’t scale. Cognition’s compute lease is the only surviving play.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/spacexs-60b-cursor-deal-kills-the-standalone-ai-wrapper-96038101f1a9?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-26T10:34:39.000Z",
+          "wordCount": null,
+          "title": "SpaceX’s $60B Cursor Deal Kills the Standalone AI Wrapper",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d8cf6a2f18e0",
+          "author": "Jahanzaib Ahmad",
+          "description": "",
+          "link": "https://generativeai.pub/what-googles-aiventure-taught-me-about-vibe-coding-and-ai-agents-d8cf6a2f18e0?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-26T07:40:00.000Z",
+          "wordCount": null,
+          "title": "I Tested Vibe Coding and AI Agents Inside Google’s AIventure",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5c1ef4ab838c",
+          "author": "Nina Chen",
+          "description": "",
+          "link": "https://generativeai.pub/how-much-cleanup-does-codex-generated-svg-need-at-16-pixels-5c1ef4ab838c?source=rss----440100e76000---4",
+          "publishedOn": "2026-08-26T07:27:59.000Z",
+          "wordCount": null,
+          "title": "How Much Cleanup Does Codex-Generated SVG Need at 16 Pixels?",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/2e53a7dabf0e",
           "author": "Jim Clyde Monge",
@@ -5752,96 +5744,6 @@
           "wordCount": 3950,
           "title": "RAG Chunking Strategies Explained: The Step Most Developers Get Wrong",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*sP4FzKzOkyLc1mWdyQaO8g.jpeg"
-        },
-        {
-          "id": "https://medium.com/p/c89bff913545",
-          "author": "Jim Clyde Monge",
-          "description": "Continue reading on Generative AI »",
-          "link": "https://generativeai.pub/openais-ai-agent-autonomously-hacks-into-hugging-face-c89bff913545?source=rss----440100e76000---4",
-          "publishedOn": "2026-07-28T12:36:29.000Z",
-          "wordCount": 1875,
-          "title": "OpenAI’s AI Agent Autonomously Hacks into Hugging Face",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*SeVnxd-qCLxKZcU_T6CRlQ.png"
-        },
-        {
-          "id": "https://medium.com/p/714367fe656b",
-          "author": "Denis ATLAN",
-          "description": "When I heard that OpenAI and Anthropic were going public, my reaction was instant.",
-          "link": "https://generativeai.pub/openai-anthropic-ipo-ai-hype-bubble-valuation-vs-reality-714367fe656b?source=rss----440100e76000---4",
-          "publishedOn": "2026-07-28T10:01:03.000Z",
-          "wordCount": 4544,
-          "title": "AI Scares You. And Yet You’re About to Buy the Stock",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*xFYvt1wSJOsPkrfW"
-        },
-        {
-          "id": "https://medium.com/p/4437a91285ce",
-          "author": "Sai Kiran Meda",
-          "description": "Why did our AI bill triple last month?",
-          "link": "https://generativeai.pub/what-are-tokens-the-hidden-meter-behind-every-ai-bill-4437a91285ce?source=rss----440100e76000---4",
-          "publishedOn": "2026-07-28T09:27:17.000Z",
-          "wordCount": 4727,
-          "title": "What Are Tokens? The Hidden Meter Behind Every AI Bill",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*9PKlogIiQoIB5GhU_o1bJA.png"
-        },
-        {
-          "id": "https://medium.com/p/64e7ab92123d",
-          "author": "Luis Ticas",
-          "description": "I thought agentic coding had damaged my SSD. The drive was healthy. The software around it was not.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/my-macbook-aged-three-years-in-three-months-of-vibe-coding-64e7ab92123d?source=rss----440100e76000---4",
-          "publishedOn": "2026-07-28T09:03:14.000Z",
-          "wordCount": 2055,
-          "title": "My MacBook Aged Three Years in Three Months of Vibe Coding",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*TXp2lU9qfTeLhI-qQBEGAA.png"
-        },
-        {
-          "id": "https://medium.com/p/bdd95052dcdf",
-          "author": "Alan Scott Encinas",
-          "description": "Reliable AI comes from the architecture around the model, not a bigger model. State, planning, verification, memory.",
-          "link": "https://generativeai.pub/what-is-cognitive-orchestration-why-ai-systems-cant-be-built-like-traditional-software-bdd95052dcdf?source=rss----440100e76000---4",
-          "publishedOn": "2026-07-28T08:44:22.000Z",
-          "wordCount": 7628,
-          "title": "What Is Cognitive Orchestration? Why AI Systems Can’t Be Built Like Traditional Software",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*MKa1ZEMSBVGsC-rh.jpg"
-        },
-        {
-          "id": "https://medium.com/p/cfd249b85370",
-          "author": "Alan Scott Encinas",
-          "description": "For fifty years software executed instructions. Cognitive systems pursue objectives: they perceive, plan, act, verify, and adapt under…",
-          "link": "https://generativeai.pub/what-is-a-cognitive-system-software-that-pursues-goals-not-instructions-cfd249b85370?source=rss----440100e76000---4",
-          "publishedOn": "2026-07-28T08:16:45.000Z",
-          "wordCount": 6533,
-          "title": "What Is a Cognitive System? Software That Pursues Goals, Not Instructions",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*ykVJjmgjEbAVZAVL.jpg"
-        },
-        {
-          "id": "https://medium.com/p/e119bbf0dc39",
-          "author": "Lindsay Hiebert",
-          "description": "How one skeptical question, an AI agent, and free public data turned a seductive investment narrative into a lesson I’ll use forever.",
-          "link": "https://generativeai.pub/a-seductive-gold-thesis-an-ai-agent-and-one-honest-question-e119bbf0dc39?source=rss----440100e76000---4",
-          "publishedOn": "2026-07-28T07:55:25.000Z",
-          "wordCount": 5268,
-          "title": "A Seductive Gold Thesis, an AI Agent, and One Honest Question",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*0aqGJceuaqktVkegvVFUwQ.png"
-        },
-        {
-          "id": "https://medium.com/p/8b5204d91a92",
-          "author": "Sai Kiran Meda",
-          "description": "Why reliable AI agents depend less on clever prompts, and more on the systems that keep them on track.",
-          "link": "https://generativeai.pub/loop-engineering-the-skill-behind-every-ai-agent-that-actually-works-8b5204d91a92?source=rss----440100e76000---4",
-          "publishedOn": "2026-07-28T07:32:24.000Z",
-          "wordCount": 4642,
-          "title": "Loop Engineering: The Skill Behind Every AI Agent That Actually Works",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*av0xYH30R7BtFPUucwmuiA.png"
-        },
-        {
-          "id": "https://medium.com/p/7b0967fb7933",
-          "author": "Krzyś",
-          "description": "In which the author says a sentence out loud, hears how it sounds, and then spends an unreasonable number of sections establishing that the…",
-          "link": "https://generativeai.pub/i-am-no-longer-a-programmer-and-i-tried-briefly-to-feel-bad-about-it-7b0967fb7933?source=rss----440100e76000---4",
-          "publishedOn": "2026-07-28T01:52:38.000Z",
-          "wordCount": 14518,
-          "title": "I Am No Longer a Programmer — and I Tried, Briefly, to Feel Bad About It",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*P3fD3pJziHdVGfgyhHmyzw.png"
         }
       ]
     }
