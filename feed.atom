@@ -2,10 +2,221 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-09-07T01:23:48.125Z</updated>
+    <updated>2026-09-08T01:33:14.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Backend Architecture Matters More Than Your AI Prompts]]></title>
+        <id>https://medium.com/p/f4eb8c28df85</id>
+        <link href="https://generativeai.pub/why-backend-architecture-matters-more-than-your-ai-prompts-f4eb8c28df85?source=rss----440100e76000---4"/>
+        <updated>2026-09-08T00:38:04.000Z</updated>
+        <summary type="html"><![CDATA[The bottleneck in building autonomous agentic systems isn’t model intelligence. It’s distributed state, idempotency, execution boundaries…
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Abul Kalam Azad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your AI Agent Isn’t Dumb. It’s Locked Out.]]></title>
+        <id>https://medium.com/p/9ed05be99b62</id>
+        <link href="https://generativeai.pub/your-ai-agent-isnt-dumb-it-s-locked-out-9ed05be99b62?source=rss----440100e76000---4"/>
+        <updated>2026-09-08T00:35:53.000Z</updated>
+        <summary type="html"><![CDATA[The smartest model in the world still can’t do your job if it can’t log into your tools. That’s the unglamorous problem eating the agentic…
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>PIXIPACE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Benchmarks to Reality: Inside Ilya Sutskever’s New Age of AI Research]]></title>
+        <id>https://medium.com/p/053f89152844</id>
+        <link href="https://generativeai.pub/from-benchmarks-to-reality-inside-ilya-sutskevers-new-age-of-ai-research-053f89152844?source=rss----440100e76000---4"/>
+        <updated>2026-09-08T00:32:09.000Z</updated>
+        <summary type="html"><![CDATA[We’re Moving from the Age of Scaling to the Age of Research — What This Means for AI?
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Mostafa Gamal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Boring Truth That Wins in Production]]></title>
+        <id>https://medium.com/p/93dcb05ef437</id>
+        <link href="https://generativeai.pub/the-boring-truth-that-wins-in-production-why-306-ai-teams-chose-simplicity-93dcb05ef437?source=rss----440100e76000---4"/>
+        <updated>2026-09-08T00:28:15.000Z</updated>
+        <summary type="html"><![CDATA[Why 306 AI Teams Chose Simplicity.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Mostafa Gamal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I designed an Agentic AI system, end-to-end.]]></title>
+        <id>https://medium.com/p/26ec422fd8db</id>
+        <link href="https://generativeai.pub/i-designed-an-agentic-ai-system-end-to-end-26ec422fd8db?source=rss----440100e76000---4"/>
+        <updated>2026-09-08T00:19:09.000Z</updated>
+        <summary type="html"><![CDATA[I tried to design a banking chatbot agent, understanding MCP, tool calls, memory, and the harness for the agent.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>S Sankar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Architecting Autonomous AI Systems: The Complete Guide to Building Production-Grade Agentic…]]></title>
+        <id>https://medium.com/p/74eae2c0b11e</id>
+        <link href="https://generativeai.pub/architecting-autonomous-ai-systems-the-complete-guide-to-building-production-grade-agentic-74eae2c0b11e?source=rss----440100e76000---4"/>
+        <updated>2026-09-08T00:15:14.000Z</updated>
+        <summary type="html"><![CDATA[How modern enterprises are leveraging stateful, multi-agent architectures to transform decision-making, automate complex workflows, and…
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Raj kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why 80% of AI Agents Breach Their Intended Scope]]></title>
+        <id>https://medium.com/p/7452364d61db</id>
+        <link href="https://generativeai.pub/why-80-of-ai-agents-breach-their-intended-scope-7452364d61db?source=rss----440100e76000---4"/>
+        <updated>2026-09-07T23:42:27.000Z</updated>
+        <author>
+            <name>Mohit Sewak, Ph.D.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pgvector vs Chroma vs LanceDB vs FAISS: I Benchmarked All 4 Defaults.]]></title>
+        <id>https://medium.com/p/e725cbf2651b</id>
+        <link href="https://generativeai.pub/pgvector-vs-chroma-vs-lancedb-vs-faiss-i-benchmarked-all-4-defaults-e725cbf2651b?source=rss----440100e76000---4"/>
+        <updated>2026-09-07T23:34:12.000Z</updated>
+        <summary type="html"><![CDATA[LanceDB’s one-line create_index() took 190 seconds to build and lost 473 answers. The database everyone tells you to outgrow lost 115.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Nazmul Hasan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Most Important Part of OpenAI’s “Alien Mind” Warning Is Observability]]></title>
+        <id>https://medium.com/p/9fe9565f4fb0</id>
+        <link href="https://generativeai.pub/the-most-important-part-of-openais-alien-mind-warning-is-observability-9fe9565f4fb0?source=rss----440100e76000---4"/>
+        <updated>2026-09-07T23:30:09.000Z</updated>
+        <author>
+            <name>Marcus Ma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skills vs. MCP vs. RAG vs. Memory: How to Actually Give AI Agents the Knowledge They Need]]></title>
+        <id>https://medium.com/p/5c6470c5310e</id>
+        <link href="https://generativeai.pub/skills-vs-mcp-vs-rag-vs-memory-how-to-actually-give-ai-agents-the-knowledge-they-need-5c6470c5310e?source=rss----440100e76000---4"/>
+        <updated>2026-09-07T23:26:40.000Z</updated>
+        <summary type="html"><![CDATA[A practical guide to the four ways agents get knowledge beyond their training data, and exactly when to reach for each one.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Veera RS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tetris had to cheat to feel random]]></title>
+        <id>https://medium.com/p/201913dc69ed</id>
+        <link href="https://uxdesign.cc/tetris-had-to-cheat-to-feel-random-201913dc69ed?source=rss----138adf9c44c---4"/>
+        <updated>2026-09-07T22:27:53.000Z</updated>
+        <summary type="html"><![CDATA[Nobody can see a probability distribution. You only ever see a sequence, and sequences are where human intuition falls apart.
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Takuma Kakehi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The model is behaving impeccably. Your information architecture isn’t.]]></title>
+        <id>https://medium.com/p/bfe8881da3c2</id>
+        <link href="https://uxdesign.cc/the-model-is-behaving-impeccably-your-information-architecture-isnt-bfe8881da3c2?source=rss----138adf9c44c---4"/>
+        <updated>2026-09-07T22:27:32.000Z</updated>
+        <summary type="html"><![CDATA[What a 1960 study of city maps explains about AI context.
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Adrian Levy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The sycophancy trap: what happens when feelings become the metric]]></title>
+        <id>https://medium.com/p/14a4f1f26a75</id>
+        <link href="https://uxdesign.cc/the-sycophancy-trap-what-happens-when-feelings-become-the-metric-14a4f1f26a75?source=rss----138adf9c44c---4"/>
+        <updated>2026-09-07T22:27:01.000Z</updated>
+        <summary type="html"><![CDATA[A framework for emotional design that survives contact with an engagement dashboard
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Vadym Grin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Villains plan. Heroes react.]]></title>
+        <id>https://medium.com/p/ee012a510ecb</id>
+        <link href="https://uxdesign.cc/villains-plan-heroes-react-ee012a510ecb?source=rss----138adf9c44c---4"/>
+        <updated>2026-09-07T22:26:09.000Z</updated>
+        <summary type="html"><![CDATA[What product teams should borrow from the people who want to take over the world.
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Wira Indra Kusuma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎙️ How I AI: GPT-6 Astra is a banger + Stripe’s AI playbook + Grok Bot vs. OpenClaw: why I replaced my entire agent stack]]></title>
+        <id>https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger</id>
+        <link href="https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger"/>
+        <updated>2026-09-07T15:02:41.000Z</updated>
+        <summary type="html"><![CDATA[Your weekly listens from How I AI, part of the Lenny’s Podcast Network]]></summary>
+        <author>
+            <name>Claire Vo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Find Family Office Investors: The Claude Playbook]]></title>
+        <id>https://www.thevccorner.com/p/how-to-find-family-office-investors-claude-playbook-2026</id>
+        <link href="https://www.thevccorner.com/p/how-to-find-family-office-investors-claude-playbook-2026"/>
+        <updated>2026-09-07T14:39:46.000Z</updated>
+        <summary type="html"><![CDATA[The contacts nobody can find, the warm intros hiding in your own network, and outreach where every message is written for one person.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Vibe-Coded an App in Just Two Hours (And Regretted It the Next Day)]]></title>
+        <id>https://towardsdatascience.com/i-vibe-coded-an-app-in-just-two-hours-and-regretted-it-the-next-day/</id>
+        <link href="https://towardsdatascience.com/i-vibe-coded-an-app-in-just-two-hours-and-regretted-it-the-next-day/"/>
+        <updated>2026-09-07T14:00:01.000Z</updated>
+        <summary type="html"><![CDATA[I saved my day with a mere $52 bill. But you don't have to repeat my mistake.
+The post I Vibe-Coded an App in Just Two Hours (And Regretted It the Next Day) appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Thuwarakesh Murallie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build your own company brain: the enterprise AI playbook from Stripe’s engineering team | Sharadh Krishnamurthy]]></title>
+        <id>https://www.lennysnewsletter.com/p/build-your-own-company-brain-the</id>
+        <link href="https://www.lennysnewsletter.com/p/build-your-own-company-brain-the"/>
+        <updated>2026-09-07T12:04:19.000Z</updated>
+        <summary type="html"><![CDATA[Watch now | 🎙️ Learn how Stripe scaled AI to everyone at a complex global company by building context, governance, and a shared skills platform directly into their internal agent]]></summary>
+        <author>
+            <name>Claire Vo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Most Multi-Agent Systems Fail Even When Evaluation Passes]]></title>
+        <id>https://towardsdatascience.com/why-most-multi-agent-systems-fail-even-when-evaluation-passes/</id>
+        <link href="https://towardsdatascience.com/why-most-multi-agent-systems-fail-even-when-evaluation-passes/"/>
+        <updated>2026-09-07T12:00:01.000Z</updated>
+        <summary type="html"><![CDATA[How to catch a payload that looks correct but isn't, using a watchdog pattern with working Python.
+The post Why Most Multi-Agent Systems Fail Even When Evaluation Passes appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Benjamin Nweke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 OpenAI's chief scientist is calling for brakes]]></title>
+        <id>https://www.theneuron.ai/newsletter/openai-s-chief-scientist-is-calling-for-brakes/</id>
+        <link href="https://www.theneuron.ai/newsletter/openai-s-chief-scientist-is-calling-for-brakes/"/>
+        <updated>2026-09-07T09:30:34.584Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[世界AI新聞快訊（2026年9月7日）｜AI研究實習生出現；ChatGPT Desktop可用本地模型]]></title>
         <id>https://www.youtube.com/watch?v=6NYLgb40A7o</id>
@@ -5900,62 +6111,12 @@ The post I Thought Loading Data Was the Finish Line. It Was the Starting Point. 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Implement Structured Output with Local LLMs]]></title>
-        <id>https://towardsdatascience.com/?p=610388</id>
-        <link href="https://towardsdatascience.com/structured-output-with-local-llms/"/>
-        <updated>2026-08-09T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Why use it? How to implement it? What can we do when it fails?
-The post How to Implement Structured Output with Local LLMs appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Shuai Guo</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[電腦藍屏、關機也能遠端救援！AweSun + Q1 Smart KVM 竟然連 BIOS 都能硬控]]></title>
         <id>https://www.youtube.com/watch?v=kkIjffc6mE0</id>
         <link href="https://www.youtube.com/watch?v=kkIjffc6mE0"/>
         <updated>2026-08-09T12:54:45.000Z</updated>
         <author>
             <name>電腦王阿達</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Vibe to Verify: The Hidden Checklist for Production-Ready AI]]></title>
-        <id>https://medium.com/p/114ed91e8024</id>
-        <link href="https://generativeai.pub/from-vibe-to-verify-the-hidden-checklist-for-production-ready-ai-114ed91e8024?source=rss----440100e76000---4"/>
-        <updated>2026-08-09T12:46:58.000Z</updated>
-        <author>
-            <name>thecloudhustler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Context Windows Are a Lie: What Actually Happens When You Stuff Them Full]]></title>
-        <id>https://medium.com/p/2b1e2aeb019e</id>
-        <link href="https://generativeai.pub/context-windows-are-a-lie-what-actually-happens-when-you-stuff-them-full-2b1e2aeb019e?source=rss----440100e76000---4"/>
-        <updated>2026-08-09T12:41:32.000Z</updated>
-        <summary type="html"><![CDATA[Why fitting more into a prompt does not mean the model can find what matters.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Shivank Prabhudessai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor]]></title>
-        <id>https://www.lennysnewsletter.com/p/the-playbook-for-building-high-talent</id>
-        <link href="https://www.lennysnewsletter.com/p/the-playbook-for-building-high-talent"/>
-        <updated>2026-08-09T12:31:29.000Z</updated>
-        <summary type="html"><![CDATA[Listen now | Cursor’s Adam Ward on “funnel of doom” hiring, treating every hire like an executive search, and why caring is the biggest unfair advantage in recruiting]]></summary>
-        <author>
-            <name>Lenny Rachitsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Language Model Will Tell You Its Values. Then It Will Act Otherwise.]]></title>
-        <id>https://medium.com/p/9cfd98122764</id>
-        <link href="https://generativeai.pub/a-language-model-will-tell-you-its-values-then-it-will-act-otherwise-9cfd98122764?source=rss----440100e76000---4"/>
-        <updated>2026-08-09T12:02:32.000Z</updated>
-        <author>
-            <name>Emilio Ferrara</name>
         </author>
     </entry>
     <entry>
@@ -5966,89 +6127,6 @@ Continue reading on Generative AI »]]></summary>
         <summary type="html"><![CDATA[More videos aren't your bottleneck. You have a shipping problem, not a knowledge problem. Fix it free. Link in the description and pinned comment.]]></summary>
         <author>
             <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An open letter to the C-suite: your Agents will get along as well as you do]]></title>
-        <id>https://medium.com/p/254a5812f240</id>
-        <link href="https://generativeai.pub/an-open-letter-to-the-c-suite-your-ai-will-get-along-exactly-as-well-as-you-do-254a5812f240?source=rss----440100e76000---4"/>
-        <updated>2026-08-09T09:37:04.000Z</updated>
-        <author>
-            <name>Colby Hood, MBA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Structured an ICM Workspace for Drafting Mini-Courses]]></title>
-        <id>https://medium.com/p/6debdc61e4ad</id>
-        <link href="https://generativeai.pub/how-i-structured-an-icm-workspace-for-drafting-mini-courses-6debdc61e4ad?source=rss----440100e76000---4"/>
-        <updated>2026-08-09T09:31:08.000Z</updated>
-        <summary type="html"><![CDATA[What’s actually inside CLAUDE.md and CONTEXT.md, and how the layout maps onto Interpretable Context Methodology.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Jes Fink-Jensen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Use AI to Manage a Research Project: From Papers to a Revised Draft]]></title>
-        <id>https://medium.com/p/acf88fb684fb</id>
-        <link href="https://generativeai.pub/how-i-use-ai-to-manage-a-research-project-from-papers-to-a-revised-draft-acf88fb684fb?source=rss----440100e76000---4"/>
-        <updated>2026-08-09T09:23:54.000Z</updated>
-        <author>
-            <name>Jim Clyde Monge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copy These 6 Files and Watch Your AI Coding Agent Follow a Chain of Instructions on Its Own]]></title>
-        <id>https://medium.com/p/a56878c90729</id>
-        <link href="https://generativeai.pub/copy-these-6-files-and-watch-your-ai-coding-agent-follow-a-chain-of-instructions-on-its-own-a56878c90729?source=rss----440100e76000---4"/>
-        <updated>2026-08-09T09:20:14.000Z</updated>
-        <summary type="html"><![CDATA[A reproducible ICM test for OpenCode, Claude Code, or any agent that reads CLAUDE.md or AGENTS.md on startup
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Jes Fink-Jensen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prepare These 5 Assets Before Your AI Agents Take On More Work]]></title>
-        <id>https://medium.com/p/fe7dfeefa486</id>
-        <link href="https://generativeai.pub/prepare-these-5-assets-before-your-ai-agents-take-on-more-work-fe7dfeefa486?source=rss----440100e76000---4"/>
-        <updated>2026-08-09T09:15:56.000Z</updated>
-        <summary type="html"><![CDATA[How to define recurring work, give AI the right context, explain what high-quality work looks like, and decide where human judgment is…
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Weiwei Hu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[16 Nobel Laureates Warned About AI: What Their Signatures Actually Prove]]></title>
-        <id>https://medium.com/p/1b357161124e</id>
-        <link href="https://generativeai.pub/16-nobel-laureates-warned-about-ai-what-their-signatures-actually-prove-1b357161124e?source=rss----440100e76000---4"/>
-        <updated>2026-08-09T08:46:04.000Z</updated>
-        <summary type="html"><![CDATA[Krugman signed. LeCun signed. The real story is what neither signature can tell us.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Mehmet Özel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧠 Community Wisdom: Crafting outreach that reads as authentic, finding design partners, what counts as a moat when anyone can build, making a product vision stick, and more]]></title>
-        <id>https://www.lennysnewsletter.com/p/community-wisdom-crafting-outreach</id>
-        <link href="https://www.lennysnewsletter.com/p/community-wisdom-crafting-outreach"/>
-        <updated>2026-08-08T17:08:14.000Z</updated>
-        <summary type="html"><![CDATA[Community Wisdom 196]]></summary>
-        <author>
-            <name>Kiyani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Before Q, K, and V: Reconstructing the Transformer]]></title>
-        <id>https://towardsdatascience.com/?p=610386</id>
-        <link href="https://towardsdatascience.com/before-q-k-and-v-reconstructing-the-transformer/"/>
-        <updated>2026-08-08T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Many Transformer explainers start with the finished architecture. We ask why it looks the way it does.
-The post Before Q, K, and V: Reconstructing the Transformer appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Sankar Srinivasan</name>
         </author>
     </entry>
 </feed>
