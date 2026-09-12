@@ -6,6 +6,46 @@
       "siteUrl": "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=ByWCsa8DbF8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ByWCsa8DbF8",
+          "publishedOn": "2026-09-11T14:00:35.000Z",
+          "wordCount": null,
+          "title": "Build a Local AI Agent in 10 Minutes using Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/KzaSYYQ-pPE",
+          "author": null,
+          "description": "Is Microsoft's Azure AI Engineer Associate certification worth it? It covers building real solutions with Azure AI Foundry and Azure OpenAI, generative AI, a...",
+          "link": "https://www.youtube.com/shorts/KzaSYYQ-pPE",
+          "publishedOn": "2026-09-11T12:00:35.000Z",
+          "wordCount": 3582,
+          "title": "The Highest Value AI Cert",
+          "imageUrl": "https://i.ytimg.com/vi/KzaSYYQ-pPE/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLC31g1ad7rwgdq9-iyw6wad8ZtmOw"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=qxygwvBoBTc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=qxygwvBoBTc",
+          "publishedOn": "2026-09-10T13:00:15.000Z",
+          "wordCount": null,
+          "title": "Lovable ADVANCED Tutorial - FULL Guide for Real Websites",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/Ruh5WKjWPTA",
+          "author": null,
+          "description": "Is NVIDIA's generative AI and LLMs certification worth it? It's been called the fastest-growing AI certification going into 2026, and there are two reasons i...",
+          "link": "https://www.youtube.com/shorts/Ruh5WKjWPTA",
+          "publishedOn": "2026-09-10T12:00:20.000Z",
+          "wordCount": 3442,
+          "title": "Is NVIDIA's AI Certification Worth It",
+          "imageUrl": "https://i.ytimg.com/vi/Ruh5WKjWPTA/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLDe-HVOEzHXmcUKriF4u_7lmKyv_Q"
+        },
+        {
           "id": "https://www.youtube.com/shorts/d0bMDDzPBDs",
           "author": null,
           "description": "Is the AWS Certified AI Practitioner worth getting? Since AWS is still the largest cloud on the planet, the badge is recognized by basically any company with...",
@@ -434,46 +474,6 @@
           "wordCount": 3209,
           "title": "The Founding Window Closes Tonight",
           "imageUrl": "https://i.ytimg.com/vi/y29u2FiAIrM/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCCgEB3dmEPsdXq9mVSxGuyWTlGCg"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3hgRw7E4vQA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3hgRw7E4vQA",
-          "publishedOn": "2026-08-13T13:02:59.000Z",
-          "wordCount": null,
-          "title": "This Database Handles 630 Billion Rows a Year",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/854E1jORFI0",
-          "author": null,
-          "description": "How does an AI agent actually run? It's the agent loop, and it's the part most people skip. You start with a system prompt and a goal. The model thinks and d...",
-          "link": "https://www.youtube.com/shorts/854E1jORFI0",
-          "publishedOn": "2026-08-13T12:00:11.000Z",
-          "wordCount": 3590,
-          "title": "The AI Agent Loop Explained",
-          "imageUrl": "https://i.ytimg.com/vi/854E1jORFI0/hq720.jpg?sqp=-oaymwEoCJUDENAFSFryq4qpAxoIARUAAAAAJQAAyEI9AICiQ3gB0AEBuALzGA==&rs=AOn4CLAFEUx2MYxbgziFaHxUNhHyIywbJw"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=QID-QHVLYYc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=QID-QHVLYYc",
-          "publishedOn": "2026-08-12T13:00:23.000Z",
-          "wordCount": null,
-          "title": "The Open Source Claude Cowork Alternative I've Been Waiting For",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/WZxbzEpdjlU",
-          "author": null,
-          "description": "The gap isn't talent. They started. This is inside AI Agent Builders, and the founding window closes in two days. Link in the description and pinned comment.",
-          "link": "https://www.youtube.com/shorts/WZxbzEpdjlU",
-          "publishedOn": "2026-08-12T12:28:41.000Z",
-          "wordCount": 3283,
-          "title": "Talent Isn’t the Gap. Starting Is.",
-          "imageUrl": "https://i.ytimg.com/vi/WZxbzEpdjlU/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLACa0t1PSSzi8NtY-TC2KW4wIUoeg"
         }
       ]
     },
@@ -571,26 +571,6 @@
           "wordCount": null,
           "title": "Grok Bot: From Beginner to Expert in 25 minutes",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3-ahsHfFjwk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3-ahsHfFjwk",
-          "publishedOn": "2026-08-13T00:35:24.000Z",
-          "wordCount": null,
-          "title": "Grok 4.6 is Claude Fable 5, but dirt cheap",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lc6hKU4BdsA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lc6hKU4BdsA",
-          "publishedOn": "2026-08-11T19:15:56.000Z",
-          "wordCount": null,
-          "title": "Did Grok Bot just kill Hermes and OpenClaw?",
-          "imageUrl": null
         }
       ]
     },
@@ -678,16 +658,6 @@
           "wordCount": null,
           "title": "How to Build a WordPress Website using Claude AI - FULL GUIDE",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=snErQUyqwCU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=snErQUyqwCU",
-          "publishedOn": "2026-08-13T11:00:27.000Z",
-          "wordCount": null,
-          "title": "How to Build $10K Websites in Minutes (Claude AI)",
-          "imageUrl": null
         }
       ]
     },
@@ -696,6 +666,46 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCawZsQWqfGSbCI5yjkdVkTA",
       "siteUrl": "https://www.youtube.com/channel/UCawZsQWqfGSbCI5yjkdVkTA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/IUNrqVtp51U",
+          "author": null,
+          "description": "Join My Newsletter for Regular AI Updates 👇🏼https://forwardfuture.comMy Links 🔗👉🏻 X: https://x.com/matthewberman👉🏻 Forward Future X: https://x.com/for...",
+          "link": "https://www.youtube.com/shorts/IUNrqVtp51U",
+          "publishedOn": "2026-09-11T23:05:08.000Z",
+          "wordCount": 3426,
+          "title": "A Simulated Fruit Fly Tries to Solve a Rubik's Cube",
+          "imageUrl": "https://i.ytimg.com/vi/IUNrqVtp51U/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBI7n8GnUcXxX_vfMQSQn6HDxZv0A&usqp=CCk"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=U-rsvXds9ck",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=U-rsvXds9ck",
+          "publishedOn": "2026-09-11T19:01:56.000Z",
+          "wordCount": null,
+          "title": "Deepseek did it again...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/Szfppy1NdO0",
+          "author": null,
+          "description": "Join My Newsletter for Regular AI Updates 👇🏼https://forwardfuture.comMy Links 🔗👉🏻 X: https://x.com/matthewberman👉🏻 Forward Future X: https://x.com/for...",
+          "link": "https://www.youtube.com/shorts/Szfppy1NdO0",
+          "publishedOn": "2026-09-11T16:00:17.000Z",
+          "wordCount": 3414,
+          "title": "Anthropic is saving us behind the scenes",
+          "imageUrl": "https://i.ytimg.com/vi/Szfppy1NdO0/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLB_VZe9qkztrJTM3DxBYAN7JNeLUA&usqp=CCk"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/B50IGSrfpbQ",
+          "author": null,
+          "description": "Join My Newsletter for Regular AI Updates 👇🏼https://forwardfuture.comMy Links 🔗👉🏻 X: https://x.com/matthewberman👉🏻 Forward Future X: https://x.com/for...",
+          "link": "https://www.youtube.com/shorts/B50IGSrfpbQ",
+          "publishedOn": "2026-09-11T02:45:46.000Z",
+          "wordCount": 3215,
+          "title": "A Simulated Fruit Fly Is Learning to Drive",
+          "imageUrl": "https://i.ytimg.com/vi/B50IGSrfpbQ/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBDMD-JyPfTaPtOD3O7izXkfXQVRA&usqp=CCk"
+        },
         {
           "id": "https://www.youtube.com/shorts/o49wKra_m5E",
           "author": null,
@@ -1035,16 +1045,6 @@
           "wordCount": null,
           "title": "xAI actually did it... (Grok 4.6)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mZM-J7XK5Aw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mZM-J7XK5Aw",
-          "publishedOn": "2026-08-12T20:09:00.000Z",
-          "wordCount": null,
-          "title": "Cursor just made something incredible...",
-          "imageUrl": null
         }
       ]
     },
@@ -1142,26 +1142,6 @@
           "wordCount": null,
           "title": "「中譯」SpaceX 真正的未來不是火箭？馬斯克：AI 才是99%的價值",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/W-E0xCm_bCg",
-          "author": null,
-          "description": "這裡買：https://powerfruit.com.tw/rvlPgimos這款新保貼為 iPhone 18 量身打造，通過 Eyesafe®RPF80低藍光認證、AR低反光、3D滿版，iPhone 17/16也能用！",
-          "link": "https://www.youtube.com/shorts/W-E0xCm_bCg",
-          "publishedOn": "2026-08-13T04:19:01.000Z",
-          "wordCount": 3394,
-          "title": "imos AR無影膜™玻璃保護貼：Eyesafe®RPF80低藍光 x AR低反光 x3D滿版",
-          "imageUrl": "https://i.ytimg.com/vi/W-E0xCm_bCg/hq720.jpg?sqp=-oaymwEoCJUDENAFSFryq4qpAxoIARUAAAAAJQAAyEI9AICiQ3gB0AEBuALzGA==&rs=AOn4CLBauGzw-PSiNxTXKeiaDpKfKQOVdA"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/1tkva5sV2F8",
-          "author": null,
-          "description": "使用本地端 MiniMax H3 在我的筆電上用參考圖片生成的影片＃MiniMaxH3",
-          "link": "https://www.youtube.com/shorts/1tkva5sV2F8",
-          "publishedOn": "2026-08-12T04:17:21.000Z",
-          "wordCount": 3031,
-          "title": "本地端 MiniMax H3 測試",
-          "imageUrl": "https://i.ytimg.com/vi/1tkva5sV2F8/oar2.jpg?sqp=-oaymwEkCJADENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBZWjisVuIHTbV_JY7aZ1UC7PVqPA&usqp=CCk"
         }
       ]
     },
@@ -1170,6 +1150,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwew_LjtIVo_MTwHM6ILNog",
       "siteUrl": "https://www.youtube.com/channel/UCwew_LjtIVo_MTwHM6ILNog",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=GN2m7X6YKtY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GN2m7X6YKtY",
+          "publishedOn": "2026-09-11T11:11:14.000Z",
+          "wordCount": null,
+          "title": "AI 做的工具明明能用，為什麼還會出事？｜非技術人員的資安入門",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=2LnDYe3cf58",
           "author": null,
@@ -1307,6 +1297,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC38YXS2v9NWq99MCzXj9vJA",
       "siteUrl": "https://www.youtube.com/channel/UC38YXS2v9NWq99MCzXj9vJA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ohHomy-23dM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ohHomy-23dM",
+          "publishedOn": "2026-09-12T00:00:22.000Z",
+          "wordCount": null,
+          "title": "世界AI新聞快訊（2026年9月12日）｜AI語音識得一邊講一邊聽；AI審計搵出軟件漏洞",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=hf0S43HxcZ8",
           "author": null,
@@ -1473,16 +1473,6 @@
           "wordCount": 3272,
           "title": "Manus突然免費！但部分用戶8月23日前要Backup資料⚠️",
           "imageUrl": "https://i.ytimg.com/vi/js3AfR1P6pQ/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBkrr1PXbwdcb3hWp2GVNQ27mOX2A"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/lS5bai4B69M",
-          "author": null,
-          "description": "AI剪片原來可以由「逐樣剪」，變成直接用 Prompt 講你想要咩。🤖🎬今次用 HyperFrames + Codex 示範：🌐 網站 → 宣傳片🎤 Raw Video → 專業短片📊 CSV → 動畫圖表最有趣嘅仲唔係生成，而係第一版唔啱，可以繼續用 Prompt 叫 AI 改畫面、文字、動畫同 Ti...",
-          "link": "https://www.youtube.com/shorts/lS5bai4B69M",
-          "publishedOn": "2026-08-13T12:00:21.000Z",
-          "wordCount": 3502,
-          "title": "AI剪片可以咁玩？1個 Prompt 將素材直接變影片｜HyperFrames + Codex",
-          "imageUrl": "https://i.ytimg.com/vi/lS5bai4B69M/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAdzLilekX76zV-92R9THwpVNjfgA"
         }
       ]
     },
@@ -1896,6 +1886,22 @@
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
         {
+          "id": "https://www.thevccorner.com/p/travis-kalanick-rules-building-pain",
+          "author": "Ruben Dominguez",
+          "description": "The Uber founder raised $1.2B at a $17.5B valuation nine months after his last round, ran 5 fundraising rooms at once, and says none of it was ever about the money.",
+          "link": "https://www.thevccorner.com/p/travis-kalanick-rules-building-pain",
+          "publishedOn": "2026-09-11T16:35:29.000Z",
+          "wordCount": null,
+          "title": "Travis Kalanick Says Excellence Is the Capacity to Take Pain. Here Are His 10 Rules for Building Through It.",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/QVnU5lGlKE8",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/QVnU5lGlKE8"
+        },
+        {
           "id": "https://www.thevccorner.com/p/144-family-offices-that-cut-pre-seed-eda",
           "author": "Ruben Dominguez",
           "description": "Named partners, LinkedIn profiles, sector tags and locations. Plus the outreach system that turns a list into replies.",
@@ -2246,22 +2252,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/5c2bd938-a493-4e90-8268-827e6632c274_3775x1858.png"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/the-ultimate-founder-ai-resources",
-          "author": "Ruben Dominguez",
-          "description": "10,000+ investors, 300+ pitch decks, every financial model and AI system",
-          "link": "https://www.thevccorner.com/p/the-ultimate-founder-ai-resources",
-          "publishedOn": "2026-08-12T14:36:03.000Z",
-          "wordCount": null,
-          "title": "The Ultimate Founder + AI Resources Bundle",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/fc1a9e7d-5ea9-460f-a2a6-12df27ff7411_1620x1080.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/fc1a9e7d-5ea9-460f-a2a6-12df27ff7411_1620x1080.webp"
         }
       ]
     },
@@ -2270,6 +2260,36 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/newsletter/did-openai-just-speedrun-another-millennium-problem/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/did-openai-just-speedrun-another-millennium-problem/",
+          "publishedOn": "2026-09-11T09:31:16.368Z",
+          "wordCount": null,
+          "title": "😺 Did OpenAI just speedrun another Millennium problem?!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-september-10-2026/",
+          "author": null,
+          "description": "OpenAI said it made substantial progress on another Millennium Prize problem; Anthropic detailed cyber, surveillance and biological misuse; California signed AI-auditor laws; OpenAI launched an Agents API and finance workspace; UMG and ElevenLabs licensed fan remixes.",
+          "link": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-september-10-2026/",
+          "publishedOn": "2026-09-11T01:15:18.319Z",
+          "wordCount": null,
+          "title": "Everything That Happened in AI Today (Thursday, September 10, 2026)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/github-for-beginners-how-to-use-it-with-ai-coding-agents/",
+          "author": null,
+          "description": "GitHub feels complicated until you realize your AI coding agent can handle most of it for you. Here’s our complete beginner’s guide to repos, commits, branches, forks, pull requests, deployment, security, Copilot, Claude Code, Codex, and more, with timestamps from our live walkthrough with GitHub’s Cassidy Williams.",
+          "link": "https://www.theneuron.ai/explainer-articles/github-for-beginners-how-to-use-it-with-ai-coding-agents/",
+          "publishedOn": "2026-09-11T00:26:41.224Z",
+          "wordCount": null,
+          "title": "GitHub for Beginners: How to Use It With AI Coding Agents",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/newsletter/live-github-for-total-beginners-cassidy-williams/",
           "author": null,
@@ -3069,56 +3089,6 @@
           "wordCount": null,
           "title": "😻 Livestream: Learn Video Prompting for TOTAL Beginners",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/grok-4-6-is-gpt-5-6-level-and-built-for-agents-that-don-t-quit/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/grok-4-6-is-gpt-5-6-level-and-built-for-agents-that-don-t-quit/",
-          "publishedOn": "2026-08-13T09:30:16.803Z",
-          "wordCount": null,
-          "title": "😺 Grok 4.6 is GPT 5.6 level and built for agents that don't quit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-august-13-2026/",
-          "author": null,
-          "description": "Elon Musk previewed Grok 4.7 with SpaceX data; the White House opened private-sector cyber operations against foreign criminal groups; Anthropic found retraining programs may not scale to AI displacement; Eigen Labs launched Yukon; plus more.",
-          "link": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-august-13-2026/",
-          "publishedOn": "2026-08-13T03:55:49.639Z",
-          "wordCount": null,
-          "title": "Everything That Happened in AI Today (Thursday, August 13, 2026)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/watch-ai-can-write-dna-now-what-could-go-wrong/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/watch-ai-can-write-dna-now-what-could-go-wrong/",
-          "publishedOn": "2026-08-12T17:02:18.710Z",
-          "wordCount": null,
-          "title": "😺 Watch: AI can write DNA now. What could go wrong?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/guides/descript-vs-riverside/",
-          "author": null,
-          "description": "Descript is better for transcript-first editing and AI-assisted post-production. Riverside is better for high-quality remote recording, live sessions, and publishing.",
-          "link": "https://www.theneuron.ai/guides/descript-vs-riverside/",
-          "publishedOn": "2026-08-12T15:59:52.216Z",
-          "wordCount": null,
-          "title": "Descript vs Riverside: Which Is Better for Podcasts and Video?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/guides/best-ai-voice-generators-business-content/",
-          "author": null,
-          "description": "Compare the best AI voice generators for business narration, voice cloning, dubbing, API projects, and dictation-led writing, with clear picks for each use case.",
-          "link": "https://www.theneuron.ai/guides/best-ai-voice-generators-business-content/",
-          "publishedOn": "2026-08-12T15:30:27.141Z",
-          "wordCount": null,
-          "title": "Best AI Voice Generators for Business Content in 2026",
-          "imageUrl": null
         }
       ]
     },
@@ -3127,6 +3097,46 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/coding-agents-dont-need-longer-history-they-need-intent-continuity/",
+          "author": "Emmimal P Alexander",
+          "description": "I built a system that automatically discovers, verifies, and applies relevant requirements from earlier interactions without asking the user where they came from.\nThe post Coding Agents Don't Need Longer History — They Need Intent Continuity appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/coding-agents-dont-need-longer-history-they-need-intent-continuity/",
+          "publishedOn": "2026-09-11T15:30:01.000Z",
+          "wordCount": 8498,
+          "title": "Coding Agents Don't Need Longer History — They Need Intent Continuity",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1789012369567_r109sa.webp"
+        },
+        {
+          "id": "https://towardsdatascience.com/software-design-in-the-age-of-ai/",
+          "author": "Devesh Rajadhyax",
+          "description": "Why AI coding makes software design more important\nThe post Software Design in the Age of AI appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/software-design-in-the-age-of-ai/",
+          "publishedOn": "2026-09-11T14:00:02.000Z",
+          "wordCount": 8409,
+          "title": "Software Design in the Age of AI",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1788876230373_1b47e6.webp"
+        },
+        {
+          "id": "https://towardsdatascience.com/the-95-illusion-why-your-confidence-interval-isnt-what-you-think-it-is/",
+          "author": "Ananya Bhattacharyya",
+          "description": "Frequentist confidence intervals and Bayesian credible intervals answer different questions, and confusing them can distort product decisions\nThe post The 95% Illusion: Why Your Confidence Interval Isn't What You Think It Is appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-95-illusion-why-your-confidence-interval-isnt-what-you-think-it-is/",
+          "publishedOn": "2026-09-11T12:30:02.000Z",
+          "wordCount": 4626,
+          "title": "The 95% Illusion: Why Your Confidence Interval Isn't What You Think It Is",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1788842405425_75maw3.jpg"
+        },
+        {
+          "id": "https://towardsdatascience.com/demystifying-anthropics-j-space-a-mathematical-primer/",
+          "author": "Pirmin Lemberger",
+          "description": "Clarifying the math behind Anthropic’s representation workspace\nThe post Demystifying Anthropic's J-Space: A Mathematical Primer appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/demystifying-anthropics-j-space-a-mathematical-primer/",
+          "publishedOn": "2026-09-11T11:00:02.000Z",
+          "wordCount": 3250,
+          "title": "Demystifying Anthropic's J-Space: A Mathematical Primer",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1788771866306_trus89.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/how-to-5x-your-communication-effectiveness-with-claude-code/",
           "author": "Eivind Kjosbakken",
@@ -4206,46 +4216,6 @@
           "wordCount": 5532,
           "title": "Cut an Enterprise RAG Pipeline’s Latency and Cost by Calling the LLM Less, Not by Buying a Faster Model",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/toll_plaza_aerial_34282750_card.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610592",
-          "author": "Eivind Kjosbakken",
-          "description": "Learn how to run OpenClaw bots for increased productivity\nThe post How to Orchestrate a Fleet of OpenClaw Bots appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-orchestrate-a-fleet-of-openclaw-bots/",
-          "publishedOn": "2026-08-13T13:30:00.000Z",
-          "wordCount": 4674,
-          "title": "How to Orchestrate a Fleet of OpenClaw Bots",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/openclaw-agent-fleet_cover.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610589",
-          "author": "Soner Yıldırım",
-          "description": "A practical guide to choose the proper tool for your agentic workflows and systems\nThe post LangChain vs LangGraph: 4 Key Differences and When to Use Each appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/langchain-vs-langgraph-4-key-differences-and-when-to-use-each/",
-          "publishedOn": "2026-08-13T12:00:00.000Z",
-          "wordCount": 4032,
-          "title": "LangChain vs LangGraph: 4 Key Differences and When to Use Each",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/mika-baumeister-3XjMwxUHx0Q-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610579",
-          "author": "angela shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #5nonies] - Nature, plan, execute, synthesize: closing brick 1 with a dispatcher that reads each PDF’s nature and picks the method that fits, fitz, Docling, PaddleOCR, EasyOCR, MinerU or Surya, then folds the outputs into one corpus\nThe post Before Full Agentic RAG: Know How You Decide, and the Parsing Methods You Pick From appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/before-full-agentic-rag-know-how-you-decide-and-the-parsing-methods-you-pick-from/",
-          "publishedOn": "2026-08-12T16:30:00.000Z",
-          "wordCount": 5795,
-          "title": "Before Full Agentic RAG: Know How You Decide, and the Parsing Methods You Pick From",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/image.jpeg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610576",
-          "author": "Nikhil Dasari",
-          "description": "From one gradient to every gradient\nThe post Backpropagation Explained for Beginners (Part 3): How Backpropagation Really Works appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/backpropagation-explained-for-beginners-part-3-how-backpropagation-really-works/",
-          "publishedOn": "2026-08-12T15:00:00.000Z",
-          "wordCount": 5704,
-          "title": "Backpropagation Explained for Beginners (Part 3): How Backpropagation Really Works",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/pexels-phil-s-423397-27018689-scaled-1.jpg"
         }
       ]
     },
@@ -4260,6 +4230,16 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/7719d6a967dc",
+          "author": "Dora Czerna",
+          "description": "Almost everyone in tech thinks the rest of the industry is further ahead. Most of them are wrong, and for the same reasons.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/youre-not-behind-the-feed-is-built-to-make-you-feel-that-way-7719d6a967dc?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-09-11T21:04:03.000Z",
+          "wordCount": null,
+          "title": "You’re not behind. The feed is built to make you feel that way.",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/81324c8feaa0",
           "author": "Sharang Sharma",
@@ -4879,26 +4859,6 @@
           "wordCount": null,
           "title": "Framer is killing the marketplace… or are they?",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/e959a249c191",
-          "author": "Catherine Chu",
-          "description": "",
-          "link": "https://uxdesign.cc/what-a-dollhouse-full-of-death-taught-me-about-thinking-e959a249c191?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-08-13T04:39:08.000Z",
-          "wordCount": null,
-          "title": "What a dollhouse full of death taught me about thinking",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/2bc3f918caf5",
-          "author": "Dan Maccarone",
-          "description": "",
-          "link": "https://uxdesign.cc/were-gorging-on-borrowed-trust-and-it-s-going-to-cost-us-2bc3f918caf5?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-08-13T04:37:38.000Z",
-          "wordCount": null,
-          "title": "We’re gorging on borrowed trust and it’s going to cost us.",
-          "imageUrl": null
         }
       ]
     },
@@ -4990,6 +4950,26 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/d3b67e65a8e4",
+          "author": "Jim Clyde Monge",
+          "description": "Jacob Coxon helped train the AI models. Then he quit and told 90 million people they should be scared.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/ai-researcher-jacob-coxon-fears-that-ai-could-kill-us-all-within-a-decade-d3b67e65a8e4?source=rss----440100e76000---4",
+          "publishedOn": "2026-09-11T14:06:15.000Z",
+          "wordCount": null,
+          "title": "AI Researcher, Jacob Coxon, Fears that AI “Could Kill Us All Within a Decade”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/dad84676bfcc",
+          "author": "Jim Clyde Monge",
+          "description": "",
+          "link": "https://generativeai.pub/how-to-create-consistent-anime-characters-from-reference-images-dad84676bfcc?source=rss----440100e76000---4",
+          "publishedOn": "2026-09-11T05:55:29.000Z",
+          "wordCount": null,
+          "title": "How to Create Consistent Anime Characters from Reference Images",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/5b47a8cd7ba2",
           "author": "James Wilkins",
@@ -6778,36 +6758,6 @@
           "publishedOn": "2026-08-14T01:15:18.000Z",
           "wordCount": null,
           "title": "Look, Everything Is…Code",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/75df5a27b3ed",
-          "author": "Yaz",
-          "description": "",
-          "link": "https://generativeai.pub/instrumental-convergence-in-ai-v2-the-evidence-strengthened-then-the-instruments-broke-75df5a27b3ed?source=rss----440100e76000---4",
-          "publishedOn": "2026-08-12T15:10:37.000Z",
-          "wordCount": null,
-          "title": "Instrumental Convergence in AI, v2: The Evidence Strengthened. Then the Instruments Broke.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/298743d6b4d4",
-          "author": "Subhash Jugran",
-          "description": "",
-          "link": "https://generativeai.pub/building-the-same-rag-assistant-3-ways-langchain-vs-langgraph-vs-strands-agents-298743d6b4d4?source=rss----440100e76000---4",
-          "publishedOn": "2026-08-12T15:00:09.000Z",
-          "wordCount": null,
-          "title": "Building the Same RAG Assistant 3 Ways: LangChain vs LangGraph vs Strands Agents",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f446135f9430",
-          "author": "Vishal Borana",
-          "description": "",
-          "link": "https://generativeai.pub/the-hidden-machinery-behind-every-ai-response-f446135f9430?source=rss----440100e76000---4",
-          "publishedOn": "2026-08-12T14:43:48.000Z",
-          "wordCount": null,
-          "title": "The Hidden Machinery Behind an AI Response",
           "imageUrl": null
         }
       ]
