@@ -1620,6 +1620,22 @@
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
         {
+          "id": "https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent",
+          "author": "Claire Vo",
+          "description": "Watch now (38 mins) | 🎙️ I gave Meta’s Muse my calendar, my email, and my kids’ chaotic schedule, and it produced a one-shot family PDF more beautiful than anything I’ve ever made with Claude or Codex",
+          "link": "https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent",
+          "publishedOn": "2026-09-16T12:02:14.000Z",
+          "wordCount": null,
+          "title": "Muse review: The personal AI agent that gets consumer UX right",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/215710078/f0a34674483a4a7ee6a05d4ec88e3ffe.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://www.lennysnewsletter.com/p/60-creative-growth-ideas",
           "author": "Tom Orbach",
           "description": "How to stand out when everyone is running the same playbook",
@@ -1986,22 +2002,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!PFZn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f696879-6374-42d6-a171-47933f6eb126_1456x970.png"
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/how-i-ai-how-a-solo-founder-used",
-          "author": "Lenny Rachitsky",
-          "description": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-          "link": "https://www.lennysnewsletter.com/p/how-i-ai-how-a-solo-founder-used",
-          "publishedOn": "2026-08-17T15:03:16.000Z",
-          "wordCount": null,
-          "title": "🎙️ How I AI: How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/3a20691b-3814-4c2d-8bca-2aeaac598ba4_1456x1048.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/3a20691b-3814-4c2d-8bca-2aeaac598ba4_1456x1048.png"
         }
       ]
     },
@@ -2010,6 +2010,22 @@
       "feedUrl": "https://www.thevccorner.com/feed",
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
+        {
+          "id": "https://www.thevccorner.com/p/success-fee-fundraising-advisors-no-retainer-database-2026",
+          "author": "Ruben Dominguez",
+          "description": "No retainers, success fee only, with self-reported fees and capital raised. Plus the vetting system, because half this market raised less than $1M last year.",
+          "link": "https://www.thevccorner.com/p/success-fee-fundraising-advisors-no-retainer-database-2026",
+          "publishedOn": "2026-09-16T14:47:10.000Z",
+          "wordCount": null,
+          "title": "150 Fundraising Advisors Who Only Get Paid If You Close",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!d_PS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9f4f53a-8979-4593-b344-563d8a34164a_800x825.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!d_PS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9f4f53a-8979-4593-b344-563d8a34164a_800x825.jpeg"
+        },
         {
           "id": "https://www.thevccorner.com/p/us-early-stage-investors-database-map-2026",
           "author": "Ruben Dominguez",
@@ -2369,6 +2385,106 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/newsletter/gpt-6-astra-built-all-this-from-one-prompt/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/gpt-6-astra-built-all-this-from-one-prompt/",
+          "publishedOn": "2026-09-16T21:50:48.178Z",
+          "wordCount": null,
+          "title": "😺 GPT-6 Astra built all this from one prompt",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/typesafe-jev-system-one-models-explained/",
+          "author": null,
+          "description": "TypeSafe’s new JEV model uses a System One architecture and Reinforcement Learning for Calibrated Decisions to make structured software decisions in parallel, without generating free-form text token by token.",
+          "link": "https://www.theneuron.ai/explainer-articles/typesafe-jev-system-one-models-explained/",
+          "publishedOn": "2026-09-16T16:40:04.116Z",
+          "wordCount": null,
+          "title": "TypeSafe’s JEV Explained: Why AI Decisions May Not Need a Chatbot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/ai-tools/best-ai-cli-tools/",
+          "author": null,
+          "description": "The best AI CLI tools bring coding agents, research, automation, and structured data directly into the terminal. I compared six options for 2026 based on capabilities, setup, cost, and who should actually use them.",
+          "link": "https://www.theneuron.ai/ai-tools/best-ai-cli-tools/",
+          "publishedOn": "2026-09-16T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Best AI CLI Tools for 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/ai-slowdown-pacing-frontier-embedded-evaluators/",
+          "author": null,
+          "description": "Anthropic’s call to “pace the frontier” has triggered a wider debate about slowing AI. The most concrete point of agreement may be much less dramatic: give independent evaluators continuous access to frontier labs.",
+          "link": "https://www.theneuron.ai/news/ai-slowdown-pacing-frontier-embedded-evaluators/",
+          "publishedOn": "2026-09-16T14:42:53.052Z",
+          "wordCount": null,
+          "title": "The AI Slowdown Debate Is Turning Into an Auditability Debate",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/data-centers-electricity-problem-ai-energy-alliance/",
+          "author": null,
+          "description": "A new alliance wants AI data centers to reduce electricity demand when the grid is under pressure. It’s a welcome step on a legitimate concern, with plenty left to prove.",
+          "link": "https://www.theneuron.ai/news/data-centers-electricity-problem-ai-energy-alliance/",
+          "publishedOn": "2026-09-16T14:37:52.893Z",
+          "wordCount": null,
+          "title": "Data Centers Have an Electricity Problem. This Alliance Could Help.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/meta-one-ai-instagram-subscription/",
+          "author": null,
+          "description": "Meta One puts paid AI across its apps. Its $7.99 Core plan tests whether everyday social habits can support a recurring subscription.",
+          "link": "https://www.theneuron.ai/news/meta-one-ai-instagram-subscription/",
+          "publishedOn": "2026-09-16T11:49:34.273Z",
+          "wordCount": null,
+          "title": "Meta Is Betting You’ll Pay for AI Inside Instagram",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/newsletter/chatgpt-co-creator-s-new-ai-model/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/chatgpt-co-creator-s-new-ai-model/",
+          "publishedOn": "2026-09-16T09:30:56.668Z",
+          "wordCount": null,
+          "title": "😺 ChatGPT co-creator’s new AI model",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/ai-agents-restrictions-who-controls-their-next-move/",
+          "author": null,
+          "description": "An agent’s decision becomes consequential when its tools let it act. Recent research puts effective permissions, legitimate approval, and justified stopping at the center of AI deployment.",
+          "link": "https://www.theneuron.ai/news/ai-agents-restrictions-who-controls-their-next-move/",
+          "publishedOn": "2026-09-16T07:12:20.844Z",
+          "wordCount": null,
+          "title": "AI Agents Are Finding Ways Around Restrictions. Who Controls Their Next Move?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/intel-ceo-memory-shortage-will-get-worse/",
+          "author": null,
+          "description": "Intel’s CEO says memory shortages are delaying projects and making components harder to secure for affordable phones and laptops. AI’s appetite for memory helps explain the pressure.",
+          "link": "https://www.theneuron.ai/news/intel-ceo-memory-shortage-will-get-worse/",
+          "publishedOn": "2026-09-16T04:41:33.045Z",
+          "wordCount": null,
+          "title": "Intel’s CEO Says the Memory Shortage Will Get Worse. Here’s Why.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-september-15-2026/",
+          "author": null,
+          "description": "TypeSafe launched Jev, a fast non-generative decision model; OpenAI backed third-party frontier-model assessors; Agility unveiled Digit 5; Periodic Labs trained Neon inside a physical materials lab loop.",
+          "link": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-september-15-2026/",
+          "publishedOn": "2026-09-16T03:45:50.610Z",
+          "wordCount": null,
+          "title": "Everything That Happened in AI Today (Tuesday, September 15, 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/explainer-articles/ai-skills-confidence-gap/",
           "author": null,
@@ -3218,36 +3334,6 @@
           "wordCount": null,
           "title": "Everything That Happened in AI Today (Tuesday, August 18, 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/nvidia-backs-105b-for-openai-s-mega-data-center/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/nvidia-backs-105b-for-openai-s-mega-data-center/",
-          "publishedOn": "2026-08-18T09:46:57.735Z",
-          "wordCount": null,
-          "title": "😺 Nvidia backs $105B for OpenAI's mega data center",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/guides/best-ai-meeting-assistants/",
-          "author": null,
-          "description": "Compare Fireflies, Otter, Notta, and Spinach by the meeting problem each tool solves best: search, live notes, multilingual capture, and follow-up.",
-          "link": "https://www.theneuron.ai/guides/best-ai-meeting-assistants/",
-          "publishedOn": "2026-08-17T17:28:57.724Z",
-          "wordCount": null,
-          "title": "Ranking the Best AI Meeting Assistants for Work in 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/guides/best-ai-website-builders-small-businesses/",
-          "author": null,
-          "description": "A practical guide to the best AI website builders for small businesses, with quick picks for service firms, ecommerce stores, app-like sites, and support agents.",
-          "link": "https://www.theneuron.ai/guides/best-ai-website-builders-small-businesses/",
-          "publishedOn": "2026-08-17T15:24:11.308Z",
-          "wordCount": null,
-          "title": "Best AI Website Builders for Small Businesses in 2026",
-          "imageUrl": null
         }
       ]
     },
@@ -3256,6 +3342,46 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/how-to-make-linear-regression-survive-outliers/",
+          "author": "Aamir Hussain Chughtai, PhD",
+          "description": "Robust Estimation Series: comparing classical and modern robust estimators through theory, code, and experiments\nThe post How to Make Linear Regression Survive Outliers appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-make-linear-regression-survive-outliers/",
+          "publishedOn": "2026-09-16T15:30:01.000Z",
+          "wordCount": 12499,
+          "title": "How to Make Linear Regression Survive Outliers",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1789023917893_774ihr.webp"
+        },
+        {
+          "id": "https://towardsdatascience.com/silent-broadcasting-can-ruin-your-model/",
+          "author": "Sam Black",
+          "description": "PyTorch and TensorFlow tensor broadcasting: how silent shape errors cause difficult-to-debug machine learning bugs\nThe post Silent Broadcasting Can Ruin Your Model appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/silent-broadcasting-can-ruin-your-model/",
+          "publishedOn": "2026-09-16T14:00:01.000Z",
+          "wordCount": 3542,
+          "title": "Silent Broadcasting Can Ruin Your Model",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1789493748719_jlk4gz.webp"
+        },
+        {
+          "id": "https://towardsdatascience.com/the-kv-cache-tax-why-inference-servers-run-out-of-memory-before-compute/",
+          "author": "Mostafa Ibrahim",
+          "description": "A VRAM budget formula for LLM serving, and three optimization strategies mapped to the traffic patterns that trigger the OOM.\nThe post The KV Cache Tax: Why Inference Servers Run Out of Memory Before Compute appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-kv-cache-tax-why-inference-servers-run-out-of-memory-before-compute/",
+          "publishedOn": "2026-09-16T12:30:02.000Z",
+          "wordCount": 4034,
+          "title": "The KV Cache Tax: Why Inference Servers Run Out of Memory Before Compute",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1789330856875_qybhsj.webp"
+        },
+        {
+          "id": "https://towardsdatascience.com/the-n-squared-pizza-problem/",
+          "author": "Daniel Miller",
+          "description": "What ordering and not eating a large pizza tells us about ML memory management\nThe post The N Squared Pizza Problem appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-n-squared-pizza-problem/",
+          "publishedOn": "2026-09-16T11:00:02.000Z",
+          "wordCount": 5254,
+          "title": "The N Squared Pizza Problem",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1789479570881_wapx9n.webp"
+        },
         {
           "id": "https://towardsdatascience.com/reparameterization-tricks-variance-reduction-by-smarter-gradients/",
           "author": "Ananya Bhattacharyya",
@@ -4335,46 +4461,6 @@
           "wordCount": 6192,
           "title": "Building Enterprise Agent Systems that People can Trust, Verify and Improve",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/Generated-image-1-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610634",
-          "author": "Emmimal P Alexander",
-          "description": "Adding more communication pathways between agents doesn’t necessarily improve multi-agent performance. In a controlled, reproducible experiment across 50 runs, recovery remained remarkably stable from 20% to 100% relationship density. But as the network became denser, the fraction of edges actually used fell sharply—revealing a gap between configured connectivity and behavioral connectivity.\nThe post Graph Engineering Isn’t About More Connections — It’s About Which Ones Get Used appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/graph-engineering-isnt-about-more-connections-its-about-which-ones-get-used/",
-          "publishedOn": "2026-08-18T13:30:00.000Z",
-          "wordCount": 6074,
-          "title": "Graph Engineering Isn’t About More Connections — It’s About Which Ones Get Used",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/Graph-Engineering.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610632",
-          "author": "Javier Marin",
-          "description": "The number that fooled every hallucination detector\nThe post Ten Is Not a Hundred appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/ten-is-not-a-hundred/",
-          "publishedOn": "2026-08-18T12:00:00.000Z",
-          "wordCount": 5096,
-          "title": "Ten Is Not a Hundred",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/Groundlens1-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610630",
-          "author": "Chien Vu Minh",
-          "description": "For years, web agents have worked one click at a time—and often fallen apart on long tasks. Microsoft Research’s Webwright makes a different bet: give the model a terminal and let it write the program instead. On long-horizon tasks, the same GPT-5.4 model jumps from 33.5% to 60.1% success. And instead of leaving behind a click trace, it leaves something you can actually use again: a command-line tool.\nThe post Webwright: Why AI Web Agents Should Write Code, Not Click appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/webwright-why-ai-web-agents-should-write-code-not-click/",
-          "publishedOn": "2026-08-17T16:30:00.000Z",
-          "wordCount": 7206,
-          "title": "Webwright: Why AI Web Agents Should Write Code, Not Click",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/hal-gatewood-tZc3vjPCk-Q-unsplash-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610626",
-          "author": "Shoumik Chakravarty",
-          "description": "How autonomous agents broke two decades of capacity planning — and what to build instead\nThe post Three Generations of Autoscaling — And Why Agentic Traffic Breaks All of Them appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/three-generations-of-autoscaling-and-why-agentic-traffic-breaks-all-of-them/",
-          "publishedOn": "2026-08-17T15:00:00.000Z",
-          "wordCount": 5501,
-          "title": "Three Generations of Autoscaling — And Why Agentic Traffic Breaks All of Them",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/Three_Generations_Autoscaling_1.jpg"
         }
       ]
     },
@@ -4389,6 +4475,26 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/73e9f58bfbc8",
+          "author": "Dan Maccarone",
+          "description": "",
+          "link": "https://uxdesign.cc/what-shakespeare-got-wrong-about-ai-73e9f58bfbc8?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-09-16T15:21:34.000Z",
+          "wordCount": null,
+          "title": "What Shakespeare got wrong about AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/2cb59ec05a73",
+          "author": "Patrick Neeman",
+          "description": "",
+          "link": "https://uxdesign.cc/dont-let-ai-build-a-winchester-mystery-house-2cb59ec05a73?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-09-16T07:27:23.000Z",
+          "wordCount": null,
+          "title": "Don’t let AI build a Winchester Mystery House",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/36c7d410cd1f",
           "author": "Slava Polonski, PhD",
@@ -5089,6 +5195,96 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/f2d5d02e2f93",
+          "author": "Nina Chen",
+          "description": "",
+          "link": "https://generativeai.pub/ai-script-generator-is-this-draft-worth-filming-f2d5d02e2f93?source=rss----440100e76000---4",
+          "publishedOn": "2026-09-16T12:07:38.000Z",
+          "wordCount": null,
+          "title": "AI Script Generator: Is This Draft Worth Filming?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9617d8fdd6ff",
+          "author": "Ashish Rawat",
+          "description": "",
+          "link": "https://generativeai.pub/i-turned-my-6-best-seo-prompts-into-claude-code-skills-now-they-run-themselves-9617d8fdd6ff?source=rss----440100e76000---4",
+          "publishedOn": "2026-09-16T12:03:50.000Z",
+          "wordCount": null,
+          "title": "I Turned My 6 Best SEO Prompts Into Claude Code Skills. Now They Run Themselves.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/258a5917d810",
+          "author": "Ray Hu",
+          "description": "Screenshots, coordinates, and safety nets — the real engineering behind AI that clicks your screen.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/how-computer-use-actually-works-inside-openai-anthropic-and-googles-ai-agents-258a5917d810?source=rss----440100e76000---4",
+          "publishedOn": "2026-09-16T11:56:35.000Z",
+          "wordCount": null,
+          "title": "How Computer Use Actually Works: Inside OpenAI, Anthropic, and Google’s AI Agents",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0cb239d574b3",
+          "author": "Abul Kalam Azad",
+          "description": "Move beyond zero-shot prompts by coupling LLM orchestration with Zod validation boundaries, idempotency, and deterministic execution…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/stop-treating-llms-like-search-engines-building-reliable-typescript-agents-0cb239d574b3?source=rss----440100e76000---4",
+          "publishedOn": "2026-09-16T02:34:11.000Z",
+          "wordCount": null,
+          "title": "Stop Treating LLMs Like Search Engines: Building Reliable TypeScript Agents",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ca98ed5ca33d",
+          "author": "MohamedAbdelmenem",
+          "description": "Everyone says this is about safety. The three-point plan maps directly onto closed-API business models. Here’s what that means for…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/the-essay-that-never-mentions-open-source-once-heres-what-that-means-ca98ed5ca33d?source=rss----440100e76000---4",
+          "publishedOn": "2026-09-16T02:27:44.000Z",
+          "wordCount": null,
+          "title": "The Essay That Never Mentions Open Source Once. Here’s What That Means.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/19ab695cc7fd",
+          "author": "Sanjeev Jaiswal (Jassi)",
+          "description": "",
+          "link": "https://generativeai.pub/every-token-counts-a-token-efficiency-playbook-for-claude-apps-19ab695cc7fd?source=rss----440100e76000---4",
+          "publishedOn": "2026-09-16T02:20:35.000Z",
+          "wordCount": null,
+          "title": "Every Token Counts: A Token-Efficiency Playbook for Claude Apps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/14b8dfcad3d4",
+          "author": "Yashraj Behera",
+          "description": "Eight steps, the arithmetic that decides whether it’s worth starting, and the check that will fail first\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/how-to-fine-tune-a-large-llm-on-low-vram-without-renting-a-gpu-14b8dfcad3d4?source=rss----440100e76000---4",
+          "publishedOn": "2026-09-16T02:08:09.000Z",
+          "wordCount": null,
+          "title": "How to Fine-Tune a Large LLM on Low VRAM Without Renting a GPU",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/98662c939261",
+          "author": "Marcus Beale",
+          "description": "",
+          "link": "https://generativeai.pub/modern-and-clean-is-one-click-now-and-the-pictures-are-what-give-a-deck-away-98662c939261?source=rss----440100e76000---4",
+          "publishedOn": "2026-09-16T01:56:53.000Z",
+          "wordCount": null,
+          "title": "Modern And Clean Is One Click Now, And The Pictures Are What Give A Deck Away",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/bbf77f2c9b53",
+          "author": "Montasir Mahmud",
+          "description": "OpenAI’s losses, trillion-dollar compute commitments, circular financing, and ambitious revenue forecasts reveal the increasingly…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/everyone-is-spending-billions-on-ai-but-who-is-actually-paying-bbf77f2c9b53?source=rss----440100e76000---4",
+          "publishedOn": "2026-09-16T01:46:35.000Z",
+          "wordCount": null,
+          "title": "Everyone Is Spending Billions on AI. But Who Is Actually Paying?",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/55d8514c3b4d",
           "author": "allglenn",
@@ -6917,16 +7113,6 @@
           "publishedOn": "2026-08-19T02:50:38.000Z",
           "wordCount": null,
           "title": "How I Turned a Research Paper Into a Diagram, a Summary, and a Slide Deck With AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/eea529d5e2f4",
-          "author": "Jim Clyde Monge",
-          "description": "",
-          "link": "https://generativeai.pub/easiest-way-to-deploy-open-source-models-to-production-in-2026-eea529d5e2f4?source=rss----440100e76000---4",
-          "publishedOn": "2026-08-18T13:29:49.000Z",
-          "wordCount": null,
-          "title": "Easiest Way to Deploy Open-Source Models to Production in 2026",
           "imageUrl": null
         }
       ]

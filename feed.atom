@@ -2,10 +2,281 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-09-16T01:49:46.251Z</updated>
+    <updated>2026-09-17T01:53:47.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[😺 GPT-6 Astra built all this from one prompt]]></title>
+        <id>https://www.theneuron.ai/newsletter/gpt-6-astra-built-all-this-from-one-prompt/</id>
+        <link href="https://www.theneuron.ai/newsletter/gpt-6-astra-built-all-this-from-one-prompt/"/>
+        <updated>2026-09-16T21:50:48.178Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeSafe’s JEV Explained: Why AI Decisions May Not Need a Chatbot]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/typesafe-jev-system-one-models-explained/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/typesafe-jev-system-one-models-explained/"/>
+        <updated>2026-09-16T16:40:04.116Z</updated>
+        <summary type="html"><![CDATA[TypeSafe’s new JEV model uses a System One architecture and Reinforcement Learning for Calibrated Decisions to make structured software decisions in parallel, without generating free-form text token by token.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best AI CLI Tools for 2026]]></title>
+        <id>https://www.theneuron.ai/ai-tools/best-ai-cli-tools/</id>
+        <link href="https://www.theneuron.ai/ai-tools/best-ai-cli-tools/"/>
+        <updated>2026-09-16T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The best AI CLI tools bring coding agents, research, automation, and structured data directly into the terminal. I compared six options for 2026 based on capabilities, setup, cost, and who should actually use them.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make Linear Regression Survive Outliers]]></title>
+        <id>https://towardsdatascience.com/how-to-make-linear-regression-survive-outliers/</id>
+        <link href="https://towardsdatascience.com/how-to-make-linear-regression-survive-outliers/"/>
+        <updated>2026-09-16T15:30:01.000Z</updated>
+        <summary type="html"><![CDATA[Robust Estimation Series: comparing classical and modern robust estimators through theory, code, and experiments
+The post How to Make Linear Regression Survive Outliers appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Aamir Hussain Chughtai, PhD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Shakespeare got wrong about AI]]></title>
+        <id>https://medium.com/p/73e9f58bfbc8</id>
+        <link href="https://uxdesign.cc/what-shakespeare-got-wrong-about-ai-73e9f58bfbc8?source=rss----138adf9c44c---4"/>
+        <updated>2026-09-16T15:21:34.000Z</updated>
+        <author>
+            <name>Dan Maccarone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[150 Fundraising Advisors Who Only Get Paid If You Close]]></title>
+        <id>https://www.thevccorner.com/p/success-fee-fundraising-advisors-no-retainer-database-2026</id>
+        <link href="https://www.thevccorner.com/p/success-fee-fundraising-advisors-no-retainer-database-2026"/>
+        <updated>2026-09-16T14:47:10.000Z</updated>
+        <summary type="html"><![CDATA[No retainers, success fee only, with self-reported fees and capital raised. Plus the vetting system, because half this market raised less than $1M last year.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI Slowdown Debate Is Turning Into an Auditability Debate]]></title>
+        <id>https://www.theneuron.ai/news/ai-slowdown-pacing-frontier-embedded-evaluators/</id>
+        <link href="https://www.theneuron.ai/news/ai-slowdown-pacing-frontier-embedded-evaluators/"/>
+        <updated>2026-09-16T14:42:53.052Z</updated>
+        <summary type="html"><![CDATA[Anthropic’s call to “pace the frontier” has triggered a wider debate about slowing AI. The most concrete point of agreement may be much less dramatic: give independent evaluators continuous access to frontier labs.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Centers Have an Electricity Problem. This Alliance Could Help.]]></title>
+        <id>https://www.theneuron.ai/news/data-centers-electricity-problem-ai-energy-alliance/</id>
+        <link href="https://www.theneuron.ai/news/data-centers-electricity-problem-ai-energy-alliance/"/>
+        <updated>2026-09-16T14:37:52.893Z</updated>
+        <summary type="html"><![CDATA[A new alliance wants AI data centers to reduce electricity demand when the grid is under pressure. It’s a welcome step on a legitimate concern, with plenty left to prove.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silent Broadcasting Can Ruin Your Model]]></title>
+        <id>https://towardsdatascience.com/silent-broadcasting-can-ruin-your-model/</id>
+        <link href="https://towardsdatascience.com/silent-broadcasting-can-ruin-your-model/"/>
+        <updated>2026-09-16T14:00:01.000Z</updated>
+        <summary type="html"><![CDATA[PyTorch and TensorFlow tensor broadcasting: how silent shape errors cause difficult-to-debug machine learning bugs
+The post Silent Broadcasting Can Ruin Your Model appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Sam Black</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The KV Cache Tax: Why Inference Servers Run Out of Memory Before Compute]]></title>
+        <id>https://towardsdatascience.com/the-kv-cache-tax-why-inference-servers-run-out-of-memory-before-compute/</id>
+        <link href="https://towardsdatascience.com/the-kv-cache-tax-why-inference-servers-run-out-of-memory-before-compute/"/>
+        <updated>2026-09-16T12:30:02.000Z</updated>
+        <summary type="html"><![CDATA[A VRAM budget formula for LLM serving, and three optimization strategies mapped to the traffic patterns that trigger the OOM.
+The post The KV Cache Tax: Why Inference Servers Run Out of Memory Before Compute appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Mostafa Ibrahim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Script Generator: Is This Draft Worth Filming?]]></title>
+        <id>https://medium.com/p/f2d5d02e2f93</id>
+        <link href="https://generativeai.pub/ai-script-generator-is-this-draft-worth-filming-f2d5d02e2f93?source=rss----440100e76000---4"/>
+        <updated>2026-09-16T12:07:38.000Z</updated>
+        <author>
+            <name>Nina Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Turned My 6 Best SEO Prompts Into Claude Code Skills. Now They Run Themselves.]]></title>
+        <id>https://medium.com/p/9617d8fdd6ff</id>
+        <link href="https://generativeai.pub/i-turned-my-6-best-seo-prompts-into-claude-code-skills-now-they-run-themselves-9617d8fdd6ff?source=rss----440100e76000---4"/>
+        <updated>2026-09-16T12:03:50.000Z</updated>
+        <author>
+            <name>Ashish Rawat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muse review: The personal AI agent that gets consumer UX right]]></title>
+        <id>https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent</id>
+        <link href="https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent"/>
+        <updated>2026-09-16T12:02:14.000Z</updated>
+        <summary type="html"><![CDATA[Watch now (38 mins) | 🎙️ I gave Meta’s Muse my calendar, my email, and my kids’ chaotic schedule, and it produced a one-shot family PDF more beautiful than anything I’ve ever made with Claude or Codex]]></summary>
+        <author>
+            <name>Claire Vo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Computer Use Actually Works: Inside OpenAI, Anthropic, and Google’s AI Agents]]></title>
+        <id>https://medium.com/p/258a5917d810</id>
+        <link href="https://generativeai.pub/how-computer-use-actually-works-inside-openai-anthropic-and-googles-ai-agents-258a5917d810?source=rss----440100e76000---4"/>
+        <updated>2026-09-16T11:56:35.000Z</updated>
+        <summary type="html"><![CDATA[Screenshots, coordinates, and safety nets — the real engineering behind AI that clicks your screen.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Ray Hu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Is Betting You’ll Pay for AI Inside Instagram]]></title>
+        <id>https://www.theneuron.ai/news/meta-one-ai-instagram-subscription/</id>
+        <link href="https://www.theneuron.ai/news/meta-one-ai-instagram-subscription/"/>
+        <updated>2026-09-16T11:49:34.273Z</updated>
+        <summary type="html"><![CDATA[Meta One puts paid AI across its apps. Its $7.99 Core plan tests whether everyday social habits can support a recurring subscription.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The N Squared Pizza Problem]]></title>
+        <id>https://towardsdatascience.com/the-n-squared-pizza-problem/</id>
+        <link href="https://towardsdatascience.com/the-n-squared-pizza-problem/"/>
+        <updated>2026-09-16T11:00:02.000Z</updated>
+        <summary type="html"><![CDATA[What ordering and not eating a large pizza tells us about ML memory management
+The post The N Squared Pizza Problem appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Daniel Miller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 ChatGPT co-creator’s new AI model]]></title>
+        <id>https://www.theneuron.ai/newsletter/chatgpt-co-creator-s-new-ai-model/</id>
+        <link href="https://www.theneuron.ai/newsletter/chatgpt-co-creator-s-new-ai-model/"/>
+        <updated>2026-09-16T09:30:56.668Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don’t let AI build a Winchester Mystery House]]></title>
+        <id>https://medium.com/p/2cb59ec05a73</id>
+        <link href="https://uxdesign.cc/dont-let-ai-build-a-winchester-mystery-house-2cb59ec05a73?source=rss----138adf9c44c---4"/>
+        <updated>2026-09-16T07:27:23.000Z</updated>
+        <author>
+            <name>Patrick Neeman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Agents Are Finding Ways Around Restrictions. Who Controls Their Next Move?]]></title>
+        <id>https://www.theneuron.ai/news/ai-agents-restrictions-who-controls-their-next-move/</id>
+        <link href="https://www.theneuron.ai/news/ai-agents-restrictions-who-controls-their-next-move/"/>
+        <updated>2026-09-16T07:12:20.844Z</updated>
+        <summary type="html"><![CDATA[An agent’s decision becomes consequential when its tools let it act. Recent research puts effective permissions, legitimate approval, and justified stopping at the center of AI deployment.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel’s CEO Says the Memory Shortage Will Get Worse. Here’s Why.]]></title>
+        <id>https://www.theneuron.ai/news/intel-ceo-memory-shortage-will-get-worse/</id>
+        <link href="https://www.theneuron.ai/news/intel-ceo-memory-shortage-will-get-worse/"/>
+        <updated>2026-09-16T04:41:33.045Z</updated>
+        <summary type="html"><![CDATA[Intel’s CEO says memory shortages are delaying projects and making components harder to secure for affordable phones and laptops. AI’s appetite for memory helps explain the pressure.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything That Happened in AI Today (Tuesday, September 15, 2026)]]></title>
+        <id>https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-september-15-2026/</id>
+        <link href="https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-september-15-2026/"/>
+        <updated>2026-09-16T03:45:50.610Z</updated>
+        <summary type="html"><![CDATA[TypeSafe launched Jev, a fast non-generative decision model; OpenAI backed third-party frontier-model assessors; Agility unveiled Digit 5; Periodic Labs trained Neon inside a physical materials lab loop.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Treating LLMs Like Search Engines: Building Reliable TypeScript Agents]]></title>
+        <id>https://medium.com/p/0cb239d574b3</id>
+        <link href="https://generativeai.pub/stop-treating-llms-like-search-engines-building-reliable-typescript-agents-0cb239d574b3?source=rss----440100e76000---4"/>
+        <updated>2026-09-16T02:34:11.000Z</updated>
+        <summary type="html"><![CDATA[Move beyond zero-shot prompts by coupling LLM orchestration with Zod validation boundaries, idempotency, and deterministic execution…
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Abul Kalam Azad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Essay That Never Mentions Open Source Once. Here’s What That Means.]]></title>
+        <id>https://medium.com/p/ca98ed5ca33d</id>
+        <link href="https://generativeai.pub/the-essay-that-never-mentions-open-source-once-heres-what-that-means-ca98ed5ca33d?source=rss----440100e76000---4"/>
+        <updated>2026-09-16T02:27:44.000Z</updated>
+        <summary type="html"><![CDATA[Everyone says this is about safety. The three-point plan maps directly onto closed-API business models. Here’s what that means for…
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>MohamedAbdelmenem</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Every Token Counts: A Token-Efficiency Playbook for Claude Apps]]></title>
+        <id>https://medium.com/p/19ab695cc7fd</id>
+        <link href="https://generativeai.pub/every-token-counts-a-token-efficiency-playbook-for-claude-apps-19ab695cc7fd?source=rss----440100e76000---4"/>
+        <updated>2026-09-16T02:20:35.000Z</updated>
+        <author>
+            <name>Sanjeev Jaiswal (Jassi)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Fine-Tune a Large LLM on Low VRAM Without Renting a GPU]]></title>
+        <id>https://medium.com/p/14b8dfcad3d4</id>
+        <link href="https://generativeai.pub/how-to-fine-tune-a-large-llm-on-low-vram-without-renting-a-gpu-14b8dfcad3d4?source=rss----440100e76000---4"/>
+        <updated>2026-09-16T02:08:09.000Z</updated>
+        <summary type="html"><![CDATA[Eight steps, the arithmetic that decides whether it’s worth starting, and the check that will fail first
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Yashraj Behera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern And Clean Is One Click Now, And The Pictures Are What Give A Deck Away]]></title>
+        <id>https://medium.com/p/98662c939261</id>
+        <link href="https://generativeai.pub/modern-and-clean-is-one-click-now-and-the-pictures-are-what-give-a-deck-away-98662c939261?source=rss----440100e76000---4"/>
+        <updated>2026-09-16T01:56:53.000Z</updated>
+        <author>
+            <name>Marcus Beale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everyone Is Spending Billions on AI. But Who Is Actually Paying?]]></title>
+        <id>https://medium.com/p/bbf77f2c9b53</id>
+        <link href="https://generativeai.pub/everyone-is-spending-billions-on-ai-but-who-is-actually-paying-bbf77f2c9b53?source=rss----440100e76000---4"/>
+        <updated>2026-09-16T01:46:35.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI’s losses, trillion-dollar compute commitments, circular financing, and ambitious revenue forecasts reveal the increasingly…
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Montasir Mahmud</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 Reasons the AI Model Race Will Be Won by Distribution, Not Benchmarks]]></title>
         <id>https://medium.com/p/55d8514c3b4d</id>
@@ -6368,26 +6639,6 @@ The post Building Enterprise Agent Systems that People can Trust, Verify and Im
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Graph Engineering Isn’t About More Connections — It’s About Which Ones Get Used]]></title>
-        <id>https://towardsdatascience.com/?p=610634</id>
-        <link href="https://towardsdatascience.com/graph-engineering-isnt-about-more-connections-its-about-which-ones-get-used/"/>
-        <updated>2026-08-18T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Adding more communication pathways between agents doesn’t necessarily improve multi-agent performance. In a controlled, reproducible experiment across 50 runs, recovery remained remarkably stable from 20% to 100% relationship density. But as the network became denser, the fraction of edges actually used fell sharply—revealing a gap between configured connectivity and behavioral connectivity.
-The post Graph Engineering Isn’t About More Connections — It’s About Which Ones Get Used appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Emmimal P Alexander</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easiest Way to Deploy Open-Source Models to Production in 2026]]></title>
-        <id>https://medium.com/p/eea529d5e2f4</id>
-        <link href="https://generativeai.pub/easiest-way-to-deploy-open-source-models-to-production-in-2026-eea529d5e2f4?source=rss----440100e76000---4"/>
-        <updated>2026-08-18T13:29:49.000Z</updated>
-        <author>
-            <name>Jim Clyde Monge</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Build Anything with Kimi K3 - The Next Frontier]]></title>
         <id>https://www.youtube.com/watch?v=mq-rVs7oUXw</id>
         <link href="https://www.youtube.com/watch?v=mq-rVs7oUXw"/>
@@ -6404,26 +6655,6 @@ The post Graph Engineering Isn’t About More Connections — It’s About Which
         <summary type="html"><![CDATA[You don't need to code to build AI agents. Over the past year, complete non-programmers have built agents that read their email, manage their calendar, and h...]]></summary>
         <author>
             <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ten Is Not a Hundred]]></title>
-        <id>https://towardsdatascience.com/?p=610632</id>
-        <link href="https://towardsdatascience.com/ten-is-not-a-hundred/"/>
-        <updated>2026-08-18T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The number that fooled every hallucination detector
-The post Ten Is Not a Hundred appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Javier Marin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😺 Nvidia backs $105B for OpenAI's mega data center]]></title>
-        <id>https://www.theneuron.ai/newsletter/nvidia-backs-105b-for-openai-s-mega-data-center/</id>
-        <link href="https://www.theneuron.ai/newsletter/nvidia-backs-105b-for-openai-s-mega-data-center/"/>
-        <updated>2026-08-18T09:46:57.735Z</updated>
-        <author>
-            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -6445,64 +6676,12 @@ The post Ten Is Not a Hundred appeared first on Towards Data Science.]]></summar
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ranking the Best AI Meeting Assistants for Work in 2026]]></title>
-        <id>https://www.theneuron.ai/guides/best-ai-meeting-assistants/</id>
-        <link href="https://www.theneuron.ai/guides/best-ai-meeting-assistants/"/>
-        <updated>2026-08-17T17:28:57.724Z</updated>
-        <summary type="html"><![CDATA[Compare Fireflies, Otter, Notta, and Spinach by the meeting problem each tool solves best: search, live notes, multilingual capture, and follow-up.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webwright: Why AI Web Agents Should Write Code, Not Click]]></title>
-        <id>https://towardsdatascience.com/?p=610630</id>
-        <link href="https://towardsdatascience.com/webwright-why-ai-web-agents-should-write-code-not-click/"/>
-        <updated>2026-08-17T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[For years, web agents have worked one click at a time—and often fallen apart on long tasks. Microsoft Research’s Webwright makes a different bet: give the model a terminal and let it write the program instead. On long-horizon tasks, the same GPT-5.4 model jumps from 33.5% to 60.1% success. And instead of leaving behind a click trace, it leaves something you can actually use again: a command-line tool.
-The post Webwright: Why AI Web Agents Should Write Code, Not Click appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Chien Vu Minh</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Buzz is the BEST AI Tool Of 2026]]></title>
         <id>https://www.youtube.com/watch?v=cHlmP4LYdPg</id>
         <link href="https://www.youtube.com/watch?v=cHlmP4LYdPg"/>
         <updated>2026-08-17T15:30:32.000Z</updated>
         <author>
             <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best AI Website Builders for Small Businesses in 2026]]></title>
-        <id>https://www.theneuron.ai/guides/best-ai-website-builders-small-businesses/</id>
-        <link href="https://www.theneuron.ai/guides/best-ai-website-builders-small-businesses/"/>
-        <updated>2026-08-17T15:24:11.308Z</updated>
-        <summary type="html"><![CDATA[A practical guide to the best AI website builders for small businesses, with quick picks for service firms, ecommerce stores, app-like sites, and support agents.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎙️ How I AI: How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers]]></title>
-        <id>https://www.lennysnewsletter.com/p/how-i-ai-how-a-solo-founder-used</id>
-        <link href="https://www.lennysnewsletter.com/p/how-i-ai-how-a-solo-founder-used"/>
-        <updated>2026-08-17T15:03:16.000Z</updated>
-        <summary type="html"><![CDATA[Your weekly listens from How I AI, part of the Lenny's Podcast Network]]></summary>
-        <author>
-            <name>Lenny Rachitsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Generations of Autoscaling — And Why Agentic Traffic Breaks All of Them]]></title>
-        <id>https://towardsdatascience.com/?p=610626</id>
-        <link href="https://towardsdatascience.com/three-generations-of-autoscaling-and-why-agentic-traffic-breaks-all-of-them/"/>
-        <updated>2026-08-17T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How autonomous agents broke two decades of capacity planning — and what to build instead
-The post Three Generations of Autoscaling — And Why Agentic Traffic Breaks All of Them appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Shoumik Chakravarty</name>
         </author>
     </entry>
 </feed>
