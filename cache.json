@@ -1696,6 +1696,22 @@
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
         {
+          "id": "https://www.lennysnewsletter.com/p/community-wisdom-finding-your-first",
+          "author": "Kiyani",
+          "description": "Community Wisdom 299",
+          "link": "https://www.lennysnewsletter.com/p/community-wisdom-finding-your-first",
+          "publishedOn": "2026-09-19T19:42:24.000Z",
+          "wordCount": null,
+          "title": "🧠 Community Wisdom: Finding your first users before the product exists, debriefing your own interviews, what to optimize for in the early years of your career, and more",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png"
+        },
+        {
           "id": "https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent",
           "author": "Claire Vo",
           "description": "Watch now (38 mins) | 🎙️ I gave Meta’s Muse my calendar, my email, and my kids’ chaotic schedule, and it produced a one-shot family PDF more beautiful than anything I’ve ever made with Claude or Codex",
@@ -2055,6 +2071,22 @@
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
         {
+          "id": "https://www.thevccorner.com/p/903-european-seed-funds-you-can-actually",
+          "author": "Ruben Dominguez",
+          "description": "Every firm on this list publishes a direct email or a deck submission route. The dead ends are already removed.",
+          "link": "https://www.thevccorner.com/p/903-european-seed-funds-you-can-actually",
+          "publishedOn": "2026-09-19T16:31:27.000Z",
+          "wordCount": null,
+          "title": "903 European Seed Funds You Can Actually Reach",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!gVg7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F190722a9-7c85-4ffe-b703-365e8bc1fe25_1281x1210.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!gVg7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F190722a9-7c85-4ffe-b703-365e8bc1fe25_1281x1210.png"
+        },
+        {
           "id": "https://www.thevccorner.com/p/safe-note-dilution-calculator-cap-table-template-2026",
           "author": "Ruben Dominguez",
           "description": "How discounts and caps actually convert, what the data says founders keep at each stage, and the cap table template to model it before you sign.",
@@ -2389,22 +2421,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!6rZE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7234d574-1b96-421d-9d8c-67f7f5133224_3600x3874.jpeg"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/aws-gives-you-1000-or-300000-same",
-          "author": "Ruben Dominguez",
-          "description": "The difference is one field: your investor’s fund ID. We mapped 95 compute credit programs, and 23 of them need no investor at all",
-          "link": "https://www.thevccorner.com/p/aws-gives-you-1000-or-300000-same",
-          "publishedOn": "2026-08-20T21:50:15.000Z",
-          "wordCount": null,
-          "title": "AWS Gives You $1,000. Or $300,000. Same Form",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!3lTE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10f7b78c-24e0-4443-86c7-8069c8ae21f0_1200x1048.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!3lTE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10f7b78c-24e0-4443-86c7-8069c8ae21f0_1200x1048.jpeg"
         }
       ]
     },
@@ -2413,6 +2429,16 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-september-17-2026/",
+          "author": null,
+          "description": "Washington debated frontier-AI oversight as Anthropic opened controlled biology access, Figure tested Helix 2.5 across unseen homes, Goodfire found reward-hacking signals, and Crusoe raised $3.9B.",
+          "link": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-september-17-2026/",
+          "publishedOn": "2026-09-19T17:13:20.239Z",
+          "wordCount": null,
+          "title": "Everything That Happened in AI Today (Thursday, September 17, 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/news/andrew-yang-self-replicating-ai-claim-explained/",
           "author": null,
@@ -3422,36 +3448,6 @@
           "wordCount": null,
           "title": "Everything That Happened in AI Today (Friday, August 21, 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/at-t-is-going-half-in-on-open-models/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/at-t-is-going-half-in-on-open-models/",
-          "publishedOn": "2026-08-21T09:31:21.875Z",
-          "wordCount": null,
-          "title": "😺 AT&T Is Going Half In On Open Models",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-august-20-2026/",
-          "author": null,
-          "description": "OpenAI and Anthropic accelerated toward IPOs; Nvidia struck a $6B Poolside licensing deal plus a $1B investment; Stripe bought OpenRouter; U.S. data-center backlash hit elections; robots learned tasks from seconds of demonstration.",
-          "link": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-august-20-2026/",
-          "publishedOn": "2026-08-21T03:17:49.109Z",
-          "wordCount": null,
-          "title": "Everything That Happened in AI Today (Thursday, August 20, 2026)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/livestream-how-to-build-agents-for-total-beginners-2/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/livestream-how-to-build-agents-for-total-beginners-2/",
-          "publishedOn": "2026-08-20T16:56:57.198Z",
-          "wordCount": null,
-          "title": "😻 Livestream: AI Tool Roundup for Normal People",
-          "imageUrl": null
         }
       ]
     },
@@ -3460,6 +3456,26 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/one-vendor-four-spellings-how-deterministic-stages-beat-similarity-scores/",
+          "author": "Boris Dzhingarov",
+          "description": "Deduplicating a 10,000-row supplier list in Python, where the hard part is deciding what a similarity score of 91 means\nThe post One Vendor, Four Spellings: How Deterministic Stages Beat Similarity Scores appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/one-vendor-four-spellings-how-deterministic-stages-beat-similarity-scores/",
+          "publishedOn": "2026-09-19T15:00:01.000Z",
+          "wordCount": 5558,
+          "title": "One Vendor, Four Spellings: How Deterministic Stages Beat Similarity Scores",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1789283071488_524xny.png"
+        },
+        {
+          "id": "https://towardsdatascience.com/ai-made-me-5x-faster-it-also-made-me-5x-worse-at-my-job/",
+          "author": "Gursimar Singh",
+          "description": "One near miss, four months of running agents, and the question almost nobody is asking: what are you supposed to do while the AI writes the code?\nThe post AI Made Me 5x Faster. It Also Made Me 5x Worse at My Job. appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/ai-made-me-5x-faster-it-also-made-me-5x-worse-at-my-job/",
+          "publishedOn": "2026-09-19T13:00:01.000Z",
+          "wordCount": 6142,
+          "title": "AI Made Me 5x Faster. It Also Made Me 5x Worse at My Job.",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1789669106848_cea74c.png"
+        },
         {
           "id": "https://towardsdatascience.com/coding-agents-keep-shipping-silent-failures-here-is-how-to-catch-them/",
           "author": "Reya Vir",
@@ -4529,56 +4545,6 @@
           "wordCount": 4729,
           "title": "The Types of Dimensions in a Star Schema, and How to Use Them",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/deng-xiang-WXQm_NTK0U-unsplash.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610709",
-          "author": "Mahe Jabeen Abdul",
-          "description": "AI systems should not automate a decision simply because they can provide a prediction. A decision system should consider how uncertain the prediction is and defer if a mistake would be costly.\nThe post Bayesian Guardrails for AI Decisions: Measuring Uncertainty Before Automating Decisions appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/bayesian-guardrails-for-ai-decisions-measuring-uncertainty-before-automating-decisions/",
-          "publishedOn": "2026-08-21T13:30:00.000Z",
-          "wordCount": 5814,
-          "title": "Bayesian Guardrails for AI Decisions: Measuring Uncertainty Before Automating Decisions",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/pexels-photo-1034650-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610707",
-          "author": "Luis Fernando Pérez Armas",
-          "description": "Learning about Farkas' lemma and how it can inform Benders decomposition to learn from infeasibility, applied to the capacitated facility location problem.\nThe post How Benders Decomposition Works, Part II: Feasibility Cuts appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-benders-decomposition-works-part-ii-feasibility-cuts/",
-          "publishedOn": "2026-08-21T12:00:00.000Z",
-          "wordCount": 10817,
-          "title": "How Benders Decomposition Works, Part II: Feasibility Cuts",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/image-527.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610694",
-          "author": "Eivind Kjosbakken",
-          "description": "Improve your proficiency with Claude Code.\nThe post How to Effectively Align Your Intent with Claude Code appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-effectively-align-your-intents-with-claude-code/",
-          "publishedOn": "2026-08-20T18:00:00.000Z",
-          "wordCount": 5169,
-          "title": "How to Effectively Align Your Intent with Claude Code",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/aligning-intent-coding-agents_cover.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610692",
-          "author": "Priyansh Bhardwaj",
-          "description": "What a production incident taught me about trusting a model to judge another model's work\nThe post The LLM Judge That Kept Agreeing With Itself appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-llm-judge-that-kept-agreeing-with-itself/",
-          "publishedOn": "2026-08-20T16:30:00.000Z",
-          "wordCount": 4809,
-          "title": "The LLM Judge That Kept Agreeing With Itself",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/article8_1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610690",
-          "author": "angela shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #14A] - Three questions tell you which shape a document collection has, and each shape wants a different architecture\nThe post Three Kinds of RAG Corpus, and What It Costs to Build for the Wrong One appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/three-kinds-of-rag-corpus-and-what-it-costs-to-build-for-the-wrong-one/",
-          "publishedOn": "2026-08-20T15:00:00.000Z",
-          "wordCount": 6782,
-          "title": "Three Kinds of RAG Corpus, and What It Costs to Build for the Wrong One",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/forked_road_snow_20061882_v3_card.jpg"
         }
       ]
     },
@@ -5202,16 +5168,6 @@
           "wordCount": null,
           "title": "Sterling Cooper built your UX process. We need to redefine it in the age of AI and systems.",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c35f8e7f091c",
-          "author": "Patrick Neeman",
-          "description": "",
-          "link": "https://uxdesign.cc/what-the-matrix-got-wrong-about-ai-so-far-c35f8e7f091c?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-08-20T21:26:03.000Z",
-          "wordCount": null,
-          "title": "What The Matrix got wrong about AI (so far)",
-          "imageUrl": null
         }
       ]
     },
@@ -5275,16 +5231,6 @@
           "wordCount": 1750,
           "title": "Why you're not getting a response to your podcast pitch from me (or others)",
           "imageUrl": null
-        },
-        {
-          "id": "6a87427404189e00018c442c",
-          "author": "Gergely Orosz",
-          "description": "In what was predictable: Meta’s layoffs and forced reassignments pushed engineers not impacted by either to look for a new job. Meta is now offering large equity retainers, and it doesn’t seem working",
-          "link": "https://blog.pragmaticengineer.com/the-pulse-metas-self-inflicted-resignation-wave/",
-          "publishedOn": "2026-08-20T18:08:45.000Z",
-          "wordCount": 2627,
-          "title": "The Pulse: Meta’s self-inflicted resignation-wave",
-          "imageUrl": null
         }
       ]
     },
@@ -5293,6 +5239,26 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/4c595a3abe55",
+          "author": "Jim Clyde Monge",
+          "description": "Why TypeSafe AI just flipped software automation on its head, and why your app probably does not need another expensive chat model.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/new-jev-model-is-insane-200x-faster-400x-cheaper-than-frontier-models-4c595a3abe55?source=rss----440100e76000---4",
+          "publishedOn": "2026-09-19T14:17:11.000Z",
+          "wordCount": null,
+          "title": "New Jev Model is Insane! 200x Faster & 400x Cheaper Than Frontier Models",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/87a8bb375ce2",
+          "author": "Jim Clyde Monge",
+          "description": "",
+          "link": "https://generativeai.pub/i-tested-gpt-image-2-5-and-compared-it-against-gpt-image-2-5-on-pollo-ai-87a8bb375ce2?source=rss----440100e76000---4",
+          "publishedOn": "2026-09-19T08:52:13.000Z",
+          "wordCount": null,
+          "title": "I Tested GPT Image 2.5 and Compared It Against GPT Image 2.5 on Pollo AI",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/8054a07368f1",
           "author": "Jahanzaib Ahmad",
@@ -7381,26 +7347,6 @@
           "publishedOn": "2026-08-21T16:12:12.000Z",
           "wordCount": null,
           "title": "Outbid.lol is Blowing Up Right Now: A Dead-Simple Website and Made $100K in Less Than 48 Hours",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/21f207b39899",
-          "author": "Vijayaraghavn Ramalingam",
-          "description": "Today, AI Consumes Human Knowledge. Tomorrow, Where Will That Knowledge Come From?\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/genai-is-great-at-jdk-migration-today-will-it-still-be-great-when-humans-stop-doing-it-21f207b39899?source=rss----440100e76000---4",
-          "publishedOn": "2026-08-21T03:16:19.000Z",
-          "wordCount": null,
-          "title": "GenAI Is Great at JDK Migration Today. Will It Still Be Great When Humans Stop Doing It?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/bbd551609cde",
-          "author": "Jes Fink-Jensen",
-          "description": "How knowledge elicitation works, and why it beats a blank page every time\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/stop-asking-ai-to-write-start-asking-it-to-ask-bbd551609cde?source=rss----440100e76000---4",
-          "publishedOn": "2026-08-21T03:13:26.000Z",
-          "wordCount": null,
-          "title": "Stop Asking AI to Write. Start Asking It to Ask.",
           "imageUrl": null
         }
       ]

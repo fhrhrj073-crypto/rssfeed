@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-09-19T01:45:39.370Z</updated>
+    <updated>2026-09-20T01:47:49.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🧠 Community Wisdom: Finding your first users before the product exists, debriefing your own interviews, what to optimize for in the early years of your career, and more]]></title>
+        <id>https://www.lennysnewsletter.com/p/community-wisdom-finding-your-first</id>
+        <link href="https://www.lennysnewsletter.com/p/community-wisdom-finding-your-first"/>
+        <updated>2026-09-19T19:42:24.000Z</updated>
+        <summary type="html"><![CDATA[Community Wisdom 299]]></summary>
+        <author>
+            <name>Kiyani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything That Happened in AI Today (Thursday, September 17, 2026)]]></title>
+        <id>https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-september-17-2026/</id>
+        <link href="https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-september-17-2026/"/>
+        <updated>2026-09-19T17:13:20.239Z</updated>
+        <summary type="html"><![CDATA[Washington debated frontier-AI oversight as Anthropic opened controlled biology access, Figure tested Helix 2.5 across unseen homes, Goodfire found reward-hacking signals, and Crusoe raised $3.9B.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[903 European Seed Funds You Can Actually Reach]]></title>
+        <id>https://www.thevccorner.com/p/903-european-seed-funds-you-can-actually</id>
+        <link href="https://www.thevccorner.com/p/903-european-seed-funds-you-can-actually"/>
+        <updated>2026-09-19T16:31:27.000Z</updated>
+        <summary type="html"><![CDATA[Every firm on this list publishes a direct email or a deck submission route. The dead ends are already removed.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Vendor, Four Spellings: How Deterministic Stages Beat Similarity Scores]]></title>
+        <id>https://towardsdatascience.com/one-vendor-four-spellings-how-deterministic-stages-beat-similarity-scores/</id>
+        <link href="https://towardsdatascience.com/one-vendor-four-spellings-how-deterministic-stages-beat-similarity-scores/"/>
+        <updated>2026-09-19T15:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Deduplicating a 10,000-row supplier list in Python, where the hard part is deciding what a similarity score of 91 means
+The post One Vendor, Four Spellings: How Deterministic Stages Beat Similarity Scores appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Boris Dzhingarov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Jev Model is Insane! 200x Faster & 400x Cheaper Than Frontier Models]]></title>
+        <id>https://medium.com/p/4c595a3abe55</id>
+        <link href="https://generativeai.pub/new-jev-model-is-insane-200x-faster-400x-cheaper-than-frontier-models-4c595a3abe55?source=rss----440100e76000---4"/>
+        <updated>2026-09-19T14:17:11.000Z</updated>
+        <summary type="html"><![CDATA[Why TypeSafe AI just flipped software automation on its head, and why your app probably does not need another expensive chat model.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Jim Clyde Monge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Made Me 5x Faster. It Also Made Me 5x Worse at My Job.]]></title>
+        <id>https://towardsdatascience.com/ai-made-me-5x-faster-it-also-made-me-5x-worse-at-my-job/</id>
+        <link href="https://towardsdatascience.com/ai-made-me-5x-faster-it-also-made-me-5x-worse-at-my-job/"/>
+        <updated>2026-09-19T13:00:01.000Z</updated>
+        <summary type="html"><![CDATA[One near miss, four months of running agents, and the question almost nobody is asking: what are you supposed to do while the AI writes the code?
+The post AI Made Me 5x Faster. It Also Made Me 5x Worse at My Job. appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Gursimar Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Tested GPT Image 2.5 and Compared It Against GPT Image 2.5 on Pollo AI]]></title>
+        <id>https://medium.com/p/87a8bb375ce2</id>
+        <link href="https://generativeai.pub/i-tested-gpt-image-2-5-and-compared-it-against-gpt-image-2-5-on-pollo-ai-87a8bb375ce2?source=rss----440100e76000---4"/>
+        <updated>2026-09-19T08:52:13.000Z</updated>
+        <author>
+            <name>Jim Clyde Monge</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Andrew Yang’s Self-Replicating AI Claim: What We Know and What We Don’t]]></title>
         <id>https://www.theneuron.ai/news/andrew-yang-self-replicating-ai-claim-explained/</id>
@@ -6734,17 +6806,6 @@ The post The Types of Dimensions in a Star Schema, and How to Use Them appeared 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bayesian Guardrails for AI Decisions: Measuring Uncertainty Before Automating Decisions]]></title>
-        <id>https://towardsdatascience.com/?p=610709</id>
-        <link href="https://towardsdatascience.com/bayesian-guardrails-for-ai-decisions-measuring-uncertainty-before-automating-decisions/"/>
-        <updated>2026-08-21T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[AI systems should not automate a decision simply because they can provide a prediction. A decision system should consider how uncertain the prediction is and defer if a mistake would be costly.
-The post Bayesian Guardrails for AI Decisions: Measuring Uncertainty Before Automating Decisions appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Mahe Jabeen Abdul</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AI Won't Replace Learning Python]]></title>
         <id>https://www.youtube.com/shorts/5u8z3X8D674</id>
         <link href="https://www.youtube.com/shorts/5u8z3X8D674"/>
@@ -6755,83 +6816,12 @@ The post Bayesian Guardrails for AI Decisions: Measuring Uncertainty Before Auto
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Benders Decomposition Works, Part II: Feasibility Cuts]]></title>
-        <id>https://towardsdatascience.com/?p=610707</id>
-        <link href="https://towardsdatascience.com/how-benders-decomposition-works-part-ii-feasibility-cuts/"/>
-        <updated>2026-08-21T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Learning about Farkas' lemma and how it can inform Benders decomposition to learn from infeasibility, applied to the capacitated facility location problem.
-The post How Benders Decomposition Works, Part II: Feasibility Cuts appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Luis Fernando Pérez Armas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😺 AT&T Is Going Half In On Open Models]]></title>
-        <id>https://www.theneuron.ai/newsletter/at-t-is-going-half-in-on-open-models/</id>
-        <link href="https://www.theneuron.ai/newsletter/at-t-is-going-half-in-on-open-models/"/>
-        <updated>2026-08-21T09:31:21.875Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything That Happened in AI Today (Thursday, August 20, 2026)]]></title>
-        <id>https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-august-20-2026/</id>
-        <link href="https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-august-20-2026/"/>
-        <updated>2026-08-21T03:17:49.109Z</updated>
-        <summary type="html"><![CDATA[OpenAI and Anthropic accelerated toward IPOs; Nvidia struck a $6B Poolside licensing deal plus a $1B investment; Stripe bought OpenRouter; U.S. data-center backlash hit elections; robots learned tasks from seconds of demonstration.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GenAI Is Great at JDK Migration Today. Will It Still Be Great When Humans Stop Doing It?]]></title>
-        <id>https://medium.com/p/21f207b39899</id>
-        <link href="https://generativeai.pub/genai-is-great-at-jdk-migration-today-will-it-still-be-great-when-humans-stop-doing-it-21f207b39899?source=rss----440100e76000---4"/>
-        <updated>2026-08-21T03:16:19.000Z</updated>
-        <summary type="html"><![CDATA[Today, AI Consumes Human Knowledge. Tomorrow, Where Will That Knowledge Come From?
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Vijayaraghavn Ramalingam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Asking AI to Write. Start Asking It to Ask.]]></title>
-        <id>https://medium.com/p/bbd551609cde</id>
-        <link href="https://generativeai.pub/stop-asking-ai-to-write-start-asking-it-to-ask-bbd551609cde?source=rss----440100e76000---4"/>
-        <updated>2026-08-21T03:13:26.000Z</updated>
-        <summary type="html"><![CDATA[How knowledge elicitation works, and why it beats a blank page every time
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Jes Fink-Jensen</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[8 Grok Bot use cases I promise will change your life]]></title>
         <id>https://www.youtube.com/watch?v=x8KP4MdvM1k</id>
         <link href="https://www.youtube.com/watch?v=x8KP4MdvM1k"/>
         <updated>2026-08-20T23:08:25.000Z</updated>
         <author>
             <name>Alex Finn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Gives You $1,000. Or $300,000. Same Form]]></title>
-        <id>https://www.thevccorner.com/p/aws-gives-you-1000-or-300000-same</id>
-        <link href="https://www.thevccorner.com/p/aws-gives-you-1000-or-300000-same"/>
-        <updated>2026-08-20T21:50:15.000Z</updated>
-        <summary type="html"><![CDATA[The difference is one field: your investor’s fund ID. We mapped 95 compute credit programs, and 23 of them need no investor at all]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What The Matrix got wrong about AI (so far)]]></title>
-        <id>https://medium.com/p/c35f8e7f091c</id>
-        <link href="https://uxdesign.cc/what-the-matrix-got-wrong-about-ai-so-far-c35f8e7f091c?source=rss----138adf9c44c---4"/>
-        <updated>2026-08-20T21:26:03.000Z</updated>
-        <author>
-            <name>Patrick Neeman</name>
         </author>
     </entry>
     <entry>
@@ -6860,58 +6850,6 @@ Continue reading on Generative AI »]]></summary>
         <updated>2026-08-20T18:13:08.000Z</updated>
         <author>
             <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pulse: Meta’s self-inflicted resignation-wave]]></title>
-        <id>6a87427404189e00018c442c</id>
-        <link href="https://blog.pragmaticengineer.com/the-pulse-metas-self-inflicted-resignation-wave/"/>
-        <updated>2026-08-20T18:08:45.000Z</updated>
-        <summary type="html"><![CDATA[In what was predictable: Meta’s layoffs and forced reassignments pushed engineers not impacted by either to look for a new job. Meta is now offering large equity retainers, and it doesn’t seem working]]></summary>
-        <author>
-            <name>Gergely Orosz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Effectively Align Your Intent with Claude Code]]></title>
-        <id>https://towardsdatascience.com/?p=610694</id>
-        <link href="https://towardsdatascience.com/how-to-effectively-align-your-intents-with-claude-code/"/>
-        <updated>2026-08-20T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Improve your proficiency with Claude Code.
-The post How to Effectively Align Your Intent with Claude Code appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Eivind Kjosbakken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😻 Livestream: AI Tool Roundup for Normal People]]></title>
-        <id>https://www.theneuron.ai/newsletter/livestream-how-to-build-agents-for-total-beginners-2/</id>
-        <link href="https://www.theneuron.ai/newsletter/livestream-how-to-build-agents-for-total-beginners-2/"/>
-        <updated>2026-08-20T16:56:57.198Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The LLM Judge That Kept Agreeing With Itself]]></title>
-        <id>https://towardsdatascience.com/?p=610692</id>
-        <link href="https://towardsdatascience.com/the-llm-judge-that-kept-agreeing-with-itself/"/>
-        <updated>2026-08-20T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[What a production incident taught me about trusting a model to judge another model's work
-The post The LLM Judge That Kept Agreeing With Itself appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Priyansh Bhardwaj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Kinds of RAG Corpus, and What It Costs to Build for the Wrong One]]></title>
-        <id>https://towardsdatascience.com/?p=610690</id>
-        <link href="https://towardsdatascience.com/three-kinds-of-rag-corpus-and-what-it-costs-to-build-for-the-wrong-one/"/>
-        <updated>2026-08-20T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise Document Intelligence [Vol.1 #14A] - Three questions tell you which shape a document collection has, and each shape wants a different architecture
-The post Three Kinds of RAG Corpus, and What It Costs to Build for the Wrong One appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>angela shi</name>
         </author>
     </entry>
     <entry>
