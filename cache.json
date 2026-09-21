@@ -6,6 +6,86 @@
       "siteUrl": "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/Ge47OxX5vAI",
+          "author": null,
+          "description": "Why do you forget most of what you learn? Passive consumption, just watching or reading, has terrible retention. Interactive learning, where you do exercises...",
+          "link": "https://www.youtube.com/shorts/Ge47OxX5vAI",
+          "publishedOn": "2026-09-20T12:00:31.000Z",
+          "wordCount": 3338,
+          "title": "Stop Passively Watching Tutorials",
+          "imageUrl": "https://i.ytimg.com/vi/Ge47OxX5vAI/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLAGXet50pzt9REAWmLUfXbmp6Eg2A"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=1PdgNyOy20w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1PdgNyOy20w",
+          "publishedOn": "2026-09-19T13:00:13.000Z",
+          "wordCount": null,
+          "title": "Is Software Engineering Dying in 2026? (What the Data Actually Says)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/hzQ0brWmVyM",
+          "author": null,
+          "description": "The biggest mistake I made learning Python was not having a plan. I jumped between a ton of resources and learned a lot, but I never knew where I was or whet...",
+          "link": "https://www.youtube.com/shorts/hzQ0brWmVyM",
+          "publishedOn": "2026-09-19T12:00:18.000Z",
+          "wordCount": 3405,
+          "title": "My Biggest Python Mistake",
+          "imageUrl": "https://i.ytimg.com/vi/hzQ0brWmVyM/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD9MVmciuH_X9xSLnLIZrg_Od-9HA&usqp=CCk"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/FGC8-V-UkJs",
+          "author": null,
+          "description": "Is Python still worth learning in 2026? Yes, it's consistently top three in job demand and the default language of AI, and every major data tool and AI frame...",
+          "link": "https://www.youtube.com/shorts/FGC8-V-UkJs",
+          "publishedOn": "2026-09-18T12:00:10.000Z",
+          "wordCount": 3326,
+          "title": "Python Is Still No 1",
+          "imageUrl": "https://i.ytimg.com/vi/FGC8-V-UkJs/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBvJsWleLsuNpXSg-9tiHeU93lpJg&usqp=CCk"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=84-sHkG4AQU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=84-sHkG4AQU",
+          "publishedOn": "2026-09-17T17:18:54.000Z",
+          "wordCount": null,
+          "title": "Top 7 AI Agent Tools That Actually Work",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/_If-cxb-nB8",
+          "author": null,
+          "description": "Why do most people fail at learning Python? The approach is a mess: a Python playlist from one channel, a pandas course from another, an AI tutorial from som...",
+          "link": "https://www.youtube.com/shorts/_If-cxb-nB8",
+          "publishedOn": "2026-09-17T12:00:26.000Z",
+          "wordCount": 3400,
+          "title": "Stop Learning Python Like This",
+          "imageUrl": "https://i.ytimg.com/vi/_If-cxb-nB8/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAkWAmtENj1_HVpdKKyO4YIDprd9Q&usqp=CCk"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=8u3vB6kPdgY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=8u3vB6kPdgY",
+          "publishedOn": "2026-09-16T13:00:25.000Z",
+          "wordCount": null,
+          "title": "Cursor Costs $20. This AI Agent Costs $1,000,000.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/2_bqKTeg5n0",
+          "author": null,
+          "description": "How would I learn Python from scratch in 2026 with no coding, no experience, and no degree? Not just the language, because in 2026 Python alone isn't enough....",
+          "link": "https://www.youtube.com/shorts/2_bqKTeg5n0",
+          "publishedOn": "2026-09-16T11:58:15.000Z",
+          "wordCount": 3255,
+          "title": "How I'd Learn Python From Scratch",
+          "imageUrl": "https://i.ytimg.com/vi/2_bqKTeg5n0/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCNG59Xb4cJjFPa4MRIcPbyg0_Txg&usqp=CCk"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=0nU4lQnnSz0",
           "author": null,
           "description": "",
@@ -384,76 +464,6 @@
           "wordCount": 3848,
           "title": "You Don't Need Python to Keep Up With AI",
           "imageUrl": "https://i.ytimg.com/vi/Dpoj7vXPpfk/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLDoI6NJblcwhp65_uPdMS6QH-9wDw"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/cAYbjlHiWDU",
-          "author": null,
-          "description": "Building an agent, an automation, or a quick product? Don't start by learning Python. Build first with the AI tools that already exist, then learn Python lat...",
-          "link": "https://www.youtube.com/shorts/cAYbjlHiWDU",
-          "publishedOn": "2026-08-22T12:00:27.000Z",
-          "wordCount": 3434,
-          "title": "Don't Learn Python First",
-          "imageUrl": "https://i.ytimg.com/vi/cAYbjlHiWDU/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBUlMUhprb45oTJm8toa8sWQsxSbA&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/5u8z3X8D674",
-          "author": null,
-          "description": "Want a job in software, machine learning, or data science in 2026? You still need Python, and honestly you need to know it better than ever. The advice hasn'...",
-          "link": "https://www.youtube.com/shorts/5u8z3X8D674",
-          "publishedOn": "2026-08-21T12:00:33.000Z",
-          "wordCount": 3427,
-          "title": "AI Won't Replace Learning Python",
-          "imageUrl": "https://i.ytimg.com/vi/5u8z3X8D674/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLC7OJhl4vik2xwuDNACXXOXl3h58A&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=okjvO4BsW98",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=okjvO4BsW98",
-          "publishedOn": "2026-08-20T18:13:08.000Z",
-          "wordCount": null,
-          "title": "One AI agent built a REAL business in 24 hours…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/pHfRm7lE_Ec",
-          "author": null,
-          "description": "Now that AI writes your code, reading it matters more, not less. Your role shifts from developer to reviewer, because AI-generated code usually looks perfect...",
-          "link": "https://www.youtube.com/shorts/pHfRm7lE_Ec",
-          "publishedOn": "2026-08-20T12:00:31.000Z",
-          "wordCount": 3287,
-          "title": "AI Code Looks Perfect It Isn't",
-          "imageUrl": "https://i.ytimg.com/vi/pHfRm7lE_Ec/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLBD3uFbZ0yE4KWpdRYGezTKJD-xFw"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mq-rVs7oUXw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mq-rVs7oUXw",
-          "publishedOn": "2026-08-18T13:00:12.000Z",
-          "wordCount": null,
-          "title": "Build Anything with Kimi K3 - The Next Frontier",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/-SRy2xZLGac",
-          "author": null,
-          "description": "You don't need to code to build AI agents. Over the past year, complete non-programmers have built agents that read their email, manage their calendar, and h...",
-          "link": "https://www.youtube.com/shorts/-SRy2xZLGac",
-          "publishedOn": "2026-08-18T12:00:07.000Z",
-          "wordCount": 3763,
-          "title": "Build AI Agents, No Coding",
-          "imageUrl": "https://i.ytimg.com/vi/-SRy2xZLGac/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLA44BZWwqQAzLKSe9BAQ8d4zloBTw"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=cHlmP4LYdPg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=cHlmP4LYdPg",
-          "publishedOn": "2026-08-17T15:30:32.000Z",
-          "wordCount": null,
-          "title": "Buzz is the BEST AI Tool Of 2026",
-          "imageUrl": null
         }
       ]
     },
@@ -1696,6 +1706,22 @@
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
         {
+          "id": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product",
+          "author": "Lenny Rachitsky",
+          "description": "Peter Sellis on designing teams like terrorist organizations, riding your best people hard, and the three oxymorons of a truly great PM",
+          "link": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product",
+          "publishedOn": "2026-09-20T12:32:17.000Z",
+          "wordCount": null,
+          "title": "90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/213758597/ba2cef9af77bdcfe4be1afa2634bdbe6.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://www.lennysnewsletter.com/p/community-wisdom-finding-your-first",
           "author": "Kiyani",
           "description": "Community Wisdom 299",
@@ -2071,6 +2097,22 @@
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
         {
+          "id": "https://www.thevccorner.com/p/claude-investor-list-engine-scoring-outreach-2026",
+          "author": "Ruben Dominguez",
+          "description": "Most investor lists are half ghosts: wrong stage, dead funds, no way in. This is the scoring system, the Claude Code engine, and the outreach math that fix the part of fundraising where rounds actuall",
+          "link": "https://www.thevccorner.com/p/claude-investor-list-engine-scoring-outreach-2026",
+          "publishedOn": "2026-09-20T13:48:46.000Z",
+          "wordCount": null,
+          "title": "How to Build an Investor List With Claude That Investors Actually Answer",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/fd21c1ad-8ce5-44dd-8220-ea53a2773deb_678x452.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/fd21c1ad-8ce5-44dd-8220-ea53a2773deb_678x452.jpeg"
+        },
+        {
           "id": "https://www.thevccorner.com/p/903-european-seed-funds-you-can-actually",
           "author": "Ruben Dominguez",
           "description": "Every firm on this list publishes a direct email or a deck submission route. The dead ends are already removed.",
@@ -2429,6 +2471,36 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/newsletter/gemini-broke-into-3-real-companies-during-a-safety-test/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/gemini-broke-into-3-real-companies-during-a-safety-test/",
+          "publishedOn": "2026-09-20T17:31:49.405Z",
+          "wordCount": null,
+          "title": "🙀 Gemini broke into 3 real companies during a safety test",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-this-weekend-september-18-19-2026/",
+          "author": null,
+          "description": "Google’s Gemini logged into three real companies during a cyber test, Anthropic juggled a new model and IPO timing, and Washington jumped directly into the AI copyright fight.",
+          "link": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-this-weekend-september-18-19-2026/",
+          "publishedOn": "2026-09-20T15:14:27.236Z",
+          "wordCount": null,
+          "title": "Everything That Happened in AI This Weekend (September 18-19, 2026)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/trump-us-ai-force-ai-czar/",
+          "author": null,
+          "description": "Trump says he is forming a U.S. AI Force and will name an AI czar. Here’s how it could develop and how it fits into the Pentagon’s existing AI-first military strategy.",
+          "link": "https://www.theneuron.ai/news/trump-us-ai-force-ai-czar/",
+          "publishedOn": "2026-09-20T00:02:22.502Z",
+          "wordCount": null,
+          "title": "Trump Says He’s Forming a U.S. ‘AI Force’ and Will Name an AI Czar",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-september-17-2026/",
           "author": null,
@@ -3438,16 +3510,6 @@
           "wordCount": null,
           "title": "The New AI Stack: Qwen, Unsloth, Buzz, Berd, and More",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-august-21-2026/",
-          "author": null,
-          "description": "U.S. AI-related debt issuance hit roughly $220B; DeepSeek added vision to V4 Flash; NVIDIA's AVO swept ARC-AGI-3's public set; Nevada cleared thousands of robotaxis; Micron committed $10B to long-horizon memory research.",
-          "link": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-august-21-2026/",
-          "publishedOn": "2026-08-21T23:58:05.825Z",
-          "wordCount": null,
-          "title": "Everything That Happened in AI Today (Friday, August 21, 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -3456,6 +3518,26 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/graphrag-a-practitioners-guide-to-6-advanced-architectural-patterns/",
+          "author": "Partha Sarkar",
+          "description": "Beyond basic graph retrieval: six production-oriented architectures for combining semantic search, knowledge graphs, and LLM reasoning.\nThe post GraphRAG: A Practitioner's Guide to 6 Advanced Architectural Patterns appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/graphrag-a-practitioners-guide-to-6-advanced-architectural-patterns/",
+          "publishedOn": "2026-09-20T15:00:01.000Z",
+          "wordCount": 9493,
+          "title": "GraphRAG: A Practitioner's Guide to 6 Advanced Architectural Patterns",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1789481785421_ubs6xz.webp"
+        },
+        {
+          "id": "https://towardsdatascience.com/cbam-paper-walkthrough-the-double-attention-mechanism/",
+          "author": "Muhammad Ardi Putra",
+          "description": "Understanding and implementing CBAM (Convolutional Block Attention Module) from scratch with PyTorch\nThe post CBAM Paper Walkthrough: The Double-Attention Mechanism appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/cbam-paper-walkthrough-the-double-attention-mechanism/",
+          "publishedOn": "2026-09-20T13:00:01.000Z",
+          "wordCount": 10957,
+          "title": "CBAM Paper Walkthrough: The Double-Attention Mechanism",
+          "imageUrl": "https://assets.insightmediagroup.io/media/1789357494559_enki42.jpg"
+        },
         {
           "id": "https://towardsdatascience.com/one-vendor-four-spellings-how-deterministic-stages-beat-similarity-scores/",
           "author": "Boris Dzhingarov",
@@ -4495,56 +4577,6 @@
           "wordCount": 6602,
           "title": "Multi-Document RAG: A Folder of Unrelated PDFs Is One Long Document with a Nested Outline",
           "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/mixed_archive_pile_11952176_v3_card.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610722",
-          "author": "Miikka Silfverberg",
-          "description": "LoRA fine-tuning solved our under-labeling problem. Whether it makes sense for you depends on three questions. \nThe post Why We Fine-Tuned SigLip (And Why That’s Not Always the Right Call) appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/why-we-fine-tuned-siglip-and-why-thats-not-always-the-right-call/",
-          "publishedOn": "2026-08-22T13:00:00.000Z",
-          "wordCount": 6359,
-          "title": "Why We Fine-Tuned SigLip (And Why That’s Not Always the Right Call)",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/clay-banks-EskHgf31GUU-unsplash-1-scaled-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610713",
-          "author": "Shuai Guo",
-          "description": "Turning Codex from an interactive assistant into a programmable automation component\nThe post Running Codex as a Headless Agent appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/running-codex-as-a-headless-agent/",
-          "publishedOn": "2026-08-21T18:00:00.000Z",
-          "wordCount": 4138,
-          "title": "Running Codex as a Headless Agent",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/codex_cli-1.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610778",
-          "author": "Elod Pal Csirmaz",
-          "description": "A walkthrough of and the maths behind using low-capacity networks to acquire fine-grained scoring when only categorical labelling is available for training\nThe post Estimating from No Data: Deriving a Continuous Score from Categories appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/estimating-from-no-data-deriving-a-continuous-score-from-categories-2/",
-          "publishedOn": "2026-08-21T17:09:54.000Z",
-          "wordCount": 5552,
-          "title": "Estimating from No Data: Deriving a Continuous Score from Categories",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/elod-pal-image.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610715",
-          "author": "Kezhan Shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #7sexies] - The unit of retrieval doesn’t have to be a page or a paragraph. When the corpus carries tables, each body row with its column headers is a chunk in its own right, and it’s often the one row the reader asked about\nThe post Retrieve One Row from a Table, Not the Whole Table: Row-Level Chunks for RAG appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/retrieve-one-row-from-a-table-not-the-whole-table-row-level-chunks-for-rag/",
-          "publishedOn": "2026-08-21T16:30:00.000Z",
-          "wordCount": 5946,
-          "title": "Retrieve One Row from a Table, Not the Whole Table: Row-Level Chunks for RAG",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/museum_specimen_drawer_16566150_v3_card.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=610711",
-          "author": "Salvatore Cagliari",
-          "description": "Dimensions are one of the two main object types in dimensional modelling. But what are the different types of dimensions? And how can you use them?\nThe post The Types of Dimensions in a Star Schema, and How to Use Them appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/what-are-the-types-of-dimensions-in-a-star-schema-and-how-to-use-them/",
-          "publishedOn": "2026-08-21T15:00:00.000Z",
-          "wordCount": 4729,
-          "title": "The Types of Dimensions in a Star Schema, and How to Use Them",
-          "imageUrl": "https://towardsdatascience.com/wp-content/uploads/2026/08/deng-xiang-WXQm_NTK0U-unsplash.jpg"
         }
       ]
     },
@@ -4559,6 +4591,16 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/cbfa8f9874e8",
+          "author": "Hiroshi Sato",
+          "description": "Designing an interface between writers, readers, and AI\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/ai-nutrition-facts-cbfa8f9874e8?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-09-20T12:36:44.000Z",
+          "wordCount": null,
+          "title": "AI nutrition facts",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/e39edb72df79",
           "author": "Adir SL",
@@ -5239,6 +5281,66 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/2fd1e41e93c9",
+          "author": "Udaykiran Estari",
+          "description": "Why Claude Code abandoned vector RAG — and how to choose between grep, BM25, embeddings, and hybrid retrieval.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/how-bm25-a-30-year-old-algorithm-beats-vector-search-2fd1e41e93c9?source=rss----440100e76000---4",
+          "publishedOn": "2026-09-21T01:30:35.000Z",
+          "wordCount": null,
+          "title": "How BM25, a 30-Year-Old Algorithm, Beats Vector Search",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5e5466163caf",
+          "author": "EMMANUEL NWANGUMA",
+          "description": "I caught my own AI judge agreeing with itself instead of the truth. A paper just showed the same failure, formally, at the level of the…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/theres-a-name-now-for-the-bug-i-kept-finding-in-my-own-benchmarks-metric-overfitting-5e5466163caf?source=rss----440100e76000---4",
+          "publishedOn": "2026-09-21T01:23:16.000Z",
+          "wordCount": null,
+          "title": "There’s A Name Now For The Bug I Kept Finding In My Own Benchmarks: Metric Overfitting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c292cc6b9c7f",
+          "author": "Simranjeet Singh",
+          "description": "A researcher leaving an AI lab is not unusual.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/anthropics-ceo-wants-to-slow-ai-down-elon-musk-and-sam-altman-agree-what-changed-c292cc6b9c7f?source=rss----440100e76000---4",
+          "publishedOn": "2026-09-21T01:19:59.000Z",
+          "wordCount": null,
+          "title": "Anthropic’s CEO Wants to Slow AI Down. Elon Musk and Sam Altman Agree. What Changed?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/aa6cec478044",
+          "author": "Aya Mahmoud",
+          "description": "OpenAI’s six misalignment reports, read as a field guide to how AI agents fail in the exact places developers deploy them.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/openai-listed-six-ways-its-own-ai-broke-the-rules-and-every-one-is-a-risk-developers-ship-now-aa6cec478044?source=rss----440100e76000---4",
+          "publishedOn": "2026-09-21T00:36:13.000Z",
+          "wordCount": null,
+          "title": "OpenAI listed six ways its own AI broke the rules, and every one is a risk developers ship now",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/dd0ed8e785d4",
+          "author": "Jim Clyde Monge",
+          "description": "People are using Jev to review code, control computers, play games, and organize research. Here are my favorites.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/8-cool-things-people-use-the-jev-model-for-dd0ed8e785d4?source=rss----440100e76000---4",
+          "publishedOn": "2026-09-20T15:30:40.000Z",
+          "wordCount": null,
+          "title": "8 Cool Things People Use the Jev Model For",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a8d545262ec6",
+          "author": "Jim Clyde Monge",
+          "description": "Is autonomous hacking the new form of AI marketing?\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/googles-gemini-hacked-three-real-companies-a8d545262ec6?source=rss----440100e76000---4",
+          "publishedOn": "2026-09-20T12:23:24.000Z",
+          "wordCount": null,
+          "title": "Google’s Gemini Hacked Three Real Companies",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/4c595a3abe55",
           "author": "Jim Clyde Monge",
@@ -7287,66 +7389,6 @@
           "publishedOn": "2026-08-23T13:07:46.000Z",
           "wordCount": null,
           "title": "Stripe Bought the Off-Ramp",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/7a9e206594f3",
-          "author": "Prasad Prabhakaran",
-          "description": "",
-          "link": "https://generativeai.pub/the-economics-of-intelligence-part-2-the-true-cost-of-intelligence-7a9e206594f3?source=rss----440100e76000---4",
-          "publishedOn": "2026-08-22T09:29:43.000Z",
-          "wordCount": null,
-          "title": "The Economics of Intelligence, Part 2: The True Cost of Intelligence",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/ac856fda40c3",
-          "author": "shashank Jain",
-          "description": "Recursive self-improvement sounds mysterious. Thinking of an LLM as a probability distribution over possible research ideas makes the…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/how-can-ai-improve-itself-a-simple-distribution-view-of-recursive-self-improvement-ac856fda40c3?source=rss----440100e76000---4",
-          "publishedOn": "2026-08-22T07:45:45.000Z",
-          "wordCount": null,
-          "title": "How Can AI Improve Itself? A Simple Distribution View of Recursive Self-Improvement",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/51c34b99611d",
-          "author": "Toyez",
-          "description": "Researchers used logically inconsistent prompts to amplify response length by up to 26 times, exposing a potential resource-exhaustion…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/the-smarter-the-ai-model-gets-the-easier-it-is-to-break-51c34b99611d?source=rss----440100e76000---4",
-          "publishedOn": "2026-08-22T06:53:55.000Z",
-          "wordCount": null,
-          "title": "The Smarter the AI Model Gets, the Easier It Is to Break",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/222544f24847",
-          "author": "Serhii Kerkez",
-          "description": "",
-          "link": "https://generativeai.pub/i-stopped-using-cinematic-as-my-entire-ai-video-prompt-222544f24847?source=rss----440100e76000---4",
-          "publishedOn": "2026-08-22T04:26:02.000Z",
-          "wordCount": null,
-          "title": "I Stopped Using “Cinematic” as My Entire AI Video Prompt",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/01e3922bad31",
-          "author": "Jim Clyde Monge",
-          "description": "",
-          "link": "https://generativeai.pub/vmake-ai-rebrands-to-vmake-labs-to-focus-on-social-videos-for-brands-and-creators-01e3922bad31?source=rss----440100e76000---4",
-          "publishedOn": "2026-08-22T03:37:11.000Z",
-          "wordCount": null,
-          "title": "Vmake AI Rebrands to Vmake Labs to Focus on Social Videos for Brands and Creators",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/ee471942bebf",
-          "author": "Jim Clyde Monge",
-          "description": "",
-          "link": "https://generativeai.pub/outbid-lol-is-blowing-up-right-now-a-dead-simple-website-and-made-100k-in-less-than-48-hours-ee471942bebf?source=rss----440100e76000---4",
-          "publishedOn": "2026-08-21T16:12:12.000Z",
-          "wordCount": null,
-          "title": "Outbid.lol is Blowing Up Right Now: A Dead-Simple Website and Made $100K in Less Than 48 Hours",
           "imageUrl": null
         }
       ]
