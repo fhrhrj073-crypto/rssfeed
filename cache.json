@@ -2823,6 +2823,76 @@
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
         {
+          "id": "https://www.theneuron.ai/newsletter/48-thought-tavus-s-ai-was-human/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/48-thought-tavus-s-ai-was-human/",
+          "publishedOn": "2026-10-02T09:30:23.966Z",
+          "wordCount": null,
+          "title": "😺 48% thought Tavus’s AI was human",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/metas-muse-hit-5-million-downloads-the-bigger-story-is-how-it-got-there/",
+          "author": null,
+          "description": "Meta’s Muse reached an estimated 5 million downloads in just 22 days, helped by one of the biggest distribution machines in tech. The bigger test is whether Meta can turn that reach into lasting control over how people shop, book, search, and transact—and whether users understand how much authority they’re handing its AI agent along the way.",
+          "link": "https://www.theneuron.ai/news/metas-muse-hit-5-million-downloads-the-bigger-story-is-how-it-got-there/",
+          "publishedOn": "2026-10-02T08:06:46.016Z",
+          "wordCount": null,
+          "title": "Meta’s Muse Hit 5 Million Downloads. The Bigger Story Is How It Got There",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/investigators-found-a-new-problem-with-openais-rogue-agents-missing-evidence/",
+          "author": null,
+          "description": "OpenAI’s latest rogue-agent story is less about a proven government hack than a growing accountability problem. As agents stitch together outside services, the evidence needed to investigate their behavior can become fragmented, private, or temporary.",
+          "link": "https://www.theneuron.ai/news/investigators-found-a-new-problem-with-openais-rogue-agents-missing-evidence/",
+          "publishedOn": "2026-10-02T06:53:00.429Z",
+          "wordCount": null,
+          "title": "Investigators Found a New Problem With OpenAI’s Rogue Agents: Missing Evidence",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/openai-agent-security-new-rules-containing-ai-agents/",
+          "author": null,
+          "description": "An OpenAI Agent Security engineer says frontier AI containment now depends on layered isolation, permissions, monitoring, alignment, and incident-response culture. The Hugging Face incident shows why.",
+          "link": "https://www.theneuron.ai/news/openai-agent-security-new-rules-containing-ai-agents/",
+          "publishedOn": "2026-10-02T06:10:32.054Z",
+          "wordCount": null,
+          "title": "OpenAI Agent Security: The New Rules for Containing AI Agents",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/ai-skill-of-the-day-digest-september-2026-part-2/",
+          "author": null,
+          "description": "Explore 13 practical AI skills from September 16–30, with workflows for ChatGPT, Claude, Gemini, Jev, Codex, and AI agents.",
+          "link": "https://www.theneuron.ai/explainer-articles/ai-skill-of-the-day-digest-september-2026-part-2/",
+          "publishedOn": "2026-10-02T06:06:47.137Z",
+          "wordCount": null,
+          "title": "AI Skill of the Day Digest — September 2026 (Part 2)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/ucla-optical-deepfake-detection/",
+          "author": null,
+          "description": "UCLA researchers are testing a hybrid optical-neural system that screens 15 videos in parallel. The prototype reached 97.79% accuracy on Celeb-DF and could reduce the computing demands of initial deepfake screening.",
+          "link": "https://www.theneuron.ai/news/ucla-optical-deepfake-detection/",
+          "publishedOn": "2026-10-02T04:44:15.479Z",
+          "wordCount": null,
+          "title": "Can Light Make Deepfake Detection Cheaper? UCLA Researchers Think So",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-october-1-2026/",
+          "author": null,
+          "description": "OpenAI parted ways with three safety researchers over alleged information sharing, Anthropic reportedly moved toward a November IPO, and new agent, voice, coding, and robotics tools landed across the ecosystem.",
+          "link": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-october-1-2026/",
+          "publishedOn": "2026-10-02T02:23:42.724Z",
+          "wordCount": null,
+          "title": "Everything That Happened in AI Today (Thursday, October 1, 2026)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theneuron.ai/digest/ai-in-science-math-monthly-guide-september-2026/",
           "author": null,
           "description": "From genome research and laboratory-tested molecules to mathematical proofs and open scientific datasets, September brought a wide range of AI-enabled progress. This monthly guide covers 56 developments and explains what each one establishes—and what remains to be tested.",
@@ -4261,56 +4331,6 @@
           "wordCount": null,
           "title": "😺 Is GPT-6 / Astra about to launch? We’re going LIVE",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/gemini-3-8-and-muse-spark-1-3-go-head-to-head-for-third-place/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/gemini-3-8-and-muse-spark-1-3-go-head-to-head-for-third-place/",
-          "publishedOn": "2026-09-03T09:32:15.141Z",
-          "wordCount": null,
-          "title": "😺 Gemini 3.8 and Muse Spark 1.3 go head to head for third place",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/ai-skill-of-the-day-digest-august-2026-part-2/",
-          "author": null,
-          "description": "Explore 14 practical AI skills from August 16–31, with prompts and workflows for ChatGPT, Claude, Gemini, Codex, Cursor, and local models.",
-          "link": "https://www.theneuron.ai/explainer-articles/ai-skill-of-the-day-digest-august-2026-part-2/",
-          "publishedOn": "2026-09-03T03:53:47.942Z",
-          "wordCount": null,
-          "title": "AI Skill of the Day Digest — August 2026 (Part 2)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-september-2-2026/",
-          "author": null,
-          "description": "Google and Meta launched rival workhorse models; Claude gained background computer use; OpenAI built automated shutdowns; Perplexity open-sourced local inference; plus much more.",
-          "link": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-september-2-2026/",
-          "publishedOn": "2026-09-03T03:38:55.552Z",
-          "wordCount": null,
-          "title": "Everything That Happened in AI Today (Wednesday, September 2, 2026)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/news/openai-automated-ai-shutdown-controls/",
-          "author": null,
-          "description": "OpenAI is building automated AI shutdown controls as CrowdStrike, Boomi, and Meta push powerful agent systems toward governed production work at scale.",
-          "link": "https://www.theneuron.ai/news/openai-automated-ai-shutdown-controls/",
-          "publishedOn": "2026-09-03T03:36:05.652Z",
-          "wordCount": null,
-          "title": "OpenAI Builds Shutdown Controls as AI Agents Gain More Power",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/claude-fable-5-1-live-test/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/claude-fable-5-1-live-test/",
-          "publishedOn": "2026-09-02T16:02:23.383Z",
-          "wordCount": null,
-          "title": "😺 Claude Fable 5.1 can do the work. The hard part is managing it.",
-          "imageUrl": null
         }
       ]
     },
@@ -4319,6 +4339,26 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/where-the-agent-development-lifecycle-fits/",
+          "author": "Andrew Hinton",
+          "description": "Coordinating agent capability development with the application it powers\nThe post Where the Agent Development Lifecycle Fits appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/where-the-agent-development-lifecycle-fits/",
+          "publishedOn": "2026-10-02T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Where the Agent Development Lifecycle Fits",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/how-to-build-a-control-plane-for-ai-agents/",
+          "author": "Ari Joury, PhD",
+          "description": "Giving an LLM permission to act, in 9 steps\nThe post How to Build a Control Plane for AI Agents appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-build-a-control-plane-for-ai-agents/",
+          "publishedOn": "2026-10-02T11:00:00.000Z",
+          "wordCount": null,
+          "title": "How to Build a Control Plane for AI Agents",
+          "imageUrl": null
+        },
         {
           "id": "https://towardsdatascience.com/autoencoders-vs-pca-i-rigged-the-test-and-pca-still-won/",
           "author": "Himanshu Sharma",
@@ -5288,46 +5328,6 @@
           "wordCount": 5636,
           "title": "My Model Worked Perfectly. Then I Tried to Make It Useful.",
           "imageUrl": "https://assets.insightmediagroup.io/media/1788084041405_ighu7h.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/tables-in-pdfs-for-rag-dont-flatten-the-grid/",
-          "author": "Kezhan Shi",
-          "description": "Enterprise Document Intelligence [Vol.1 #B4] - A diagnostic and five composable operations, not a decision tree\nThe post Tables in PDFs for RAG: Don’t Flatten the Grid appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/tables-in-pdfs-for-rag-dont-flatten-the-grid/",
-          "publishedOn": "2026-09-03T14:00:01.000Z",
-          "wordCount": 9581,
-          "title": "Tables in PDFs for RAG: Don’t Flatten the Grid",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1787719196760_wbhavi.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/changing-one-prompt-can-affect-50-others-i-built-a-prompt-dependency-graph-to-find-what-needs-retesting/",
-          "author": "Emmimal P Alexander",
-          "description": "I built a prompt dependency graph that separates everything a component can reach from the smaller set that actually needs targeted evaluation.\nThe post Changing One Prompt Can Affect 50 Others — I Built a Prompt Dependency Graph to Find What Needs Retesting appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/changing-one-prompt-can-affect-50-others-i-built-a-prompt-dependency-graph-to-find-what-needs-retesting/",
-          "publishedOn": "2026-09-03T12:30:01.000Z",
-          "wordCount": 10273,
-          "title": "Changing One Prompt Can Affect 50 Others — I Built a Prompt Dependency Graph to Find What Needs Retesting",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1788014908565_aqq52x.webp"
-        },
-        {
-          "id": "https://towardsdatascience.com/how-to-solve-the-right-problem-in-the-age-of-agentic-ai/",
-          "author": "Mike Huls",
-          "description": "A practical framework for reducing uncertainty before agents accelerate implementation\nThe post How to Solve the Right Problem in the Age of Agentic AI appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-solve-the-right-problem-in-the-age-of-agentic-ai/",
-          "publishedOn": "2026-09-03T11:00:01.000Z",
-          "wordCount": 6907,
-          "title": "How to Solve the Right Problem in the Age of Agentic AI",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1787750810582_aly77w.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/avoiding-entity-key-drift-in-a-data-lake-step-2-when-fuzzy-matching-stops-working/",
-          "author": "Rahul Saha",
-          "description": "I built a matcher meant to finish the cleanup that normalization left behind. Testing it against real data showed that no version of it could be made safe. What follows is the architecture that was left once the matcher was set aside.\nThe post Avoiding Entity Key Drift in a Data Lake: Step 2, When Fuzzy Matching Stops Working appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/avoiding-entity-key-drift-in-a-data-lake-step-2-when-fuzzy-matching-stops-working/",
-          "publishedOn": "2026-09-02T15:30:02.000Z",
-          "wordCount": 11287,
-          "title": "Avoiding Entity Key Drift in a Data Lake: Step 2, When Fuzzy Matching Stops Working",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1787801771917_78tjda.jpg"
         }
       ]
     },
@@ -5342,6 +5342,16 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/01740248eb45",
+          "author": "Stacie Sheldon",
+          "description": "",
+          "link": "https://uxdesign.cc/in-tension-modeling-what-gives-us-the-right-01740248eb45?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-10-02T11:09:56.000Z",
+          "wordCount": null,
+          "title": "In/tension modeling: what gives us the right?",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/5fa6d52e23fc",
           "author": "Patrick Neeman",
@@ -6021,26 +6031,6 @@
           "wordCount": null,
           "title": "What Minority Report got wrong about AI (so far)",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/0128f641223c",
-          "author": "Aurélie Radom",
-          "description": "",
-          "link": "https://uxdesign.cc/when-the-canvas-starts-acting-whos-really-in-control-0128f641223c?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-09-02T22:13:30.000Z",
-          "wordCount": null,
-          "title": "When the canvas starts acting, who’s really in control?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/839b9b6256f2",
-          "author": "Dan Maccarone",
-          "description": "",
-          "link": "https://uxdesign.cc/ai-took-away-engineerings-right-to-say-no-839b9b6256f2?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-09-02T22:13:11.000Z",
-          "wordCount": null,
-          "title": "AI took away engineering’s right to say no",
-          "imageUrl": null
         }
       ]
     },
@@ -6102,6 +6092,66 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/b898cc0ebd1a",
+          "author": "Jim Clyde Monge",
+          "description": "A few more AI terms to know beyond tokens, prompts, and hallucinations.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/8-new-ai-terms-you-should-know-to-be-ahead-of-90-of-people-b898cc0ebd1a?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-02T13:36:37.000Z",
+          "wordCount": null,
+          "title": "8 New AI Terms You Should Know to Be Ahead of 90% of People",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/127d4bc15f54",
+          "author": "Jim Clyde Monge",
+          "description": "",
+          "link": "https://generativeai.pub/civitai-alternative-for-anime-art-why-creators-are-trying-pixais-tsubaki-3-127d4bc15f54?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-02T11:34:20.000Z",
+          "wordCount": null,
+          "title": "CivitAI Alternative for Anime Art: Why Creators Are Trying PixAI’s Tsubaki.3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/5c52a6bd6d96",
+          "author": "Marco van Hurne",
+          "description": "",
+          "link": "https://generativeai.pub/state-based-intelligence-is-nigh-5c52a6bd6d96?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-02T10:46:05.000Z",
+          "wordCount": null,
+          "title": "State-based intelligence is nigh",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/9b9ba3272f79",
+          "author": "Nikos Kafritsas",
+          "description": "Good, Until a Zero-Shot Model Shows Up\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/how-good-can-linear-models-be-for-forecasting-good-until-a-zero-shot-model-shows-up-9b9ba3272f79?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-02T10:04:13.000Z",
+          "wordCount": null,
+          "title": "How Good Can Linear Models Be for Forecasting?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/93c6b1554fc8",
+          "author": "Cezary Gesikowski",
+          "description": "Hype-Free Analysis of Facts and Science Behind Recent AI Meltdown\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/kicking-and-screaming-ai-apocalypse-panic-is-back-93c6b1554fc8?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-02T10:00:13.000Z",
+          "wordCount": null,
+          "title": "Kicking And Screaming: AI Apocalypse Panic Is Back",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a07bea0506ea",
+          "author": "Jim Clyde Monge",
+          "description": "A hands-on look at chat-driven video creation, editable motion graphics, and the parts creators still need to check themselves.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/how-i-make-production-ready-ai-videos-and-animated-infographics-with-fotor-agent-a07bea0506ea?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-02T06:04:55.000Z",
+          "wordCount": null,
+          "title": "How I Make Production-Ready AI Videos and Animated Infographics with Fotor Agent",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/1e50ebae7606",
           "author": "Jim Clyde Monge",
@@ -8340,76 +8390,6 @@
           "publishedOn": "2026-09-04T07:11:55.000Z",
           "wordCount": null,
           "title": "The #1 AI Model Might Be the Worst One for Your Laptop",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c1121c5589f5",
-          "author": "TechbyDevansh",
-          "description": "",
-          "link": "https://generativeai.pub/i-spent-1-month-watching-ai-agents-write-code-in-production-heres-what-nobody-tells-you-c1121c5589f5?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-03T07:24:04.000Z",
-          "wordCount": null,
-          "title": "I Spent 1 Month Watching AI Agents Write Code in Production. Here’s What Nobody Tells You.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f02542553a6b",
-          "author": "TechbyDevansh",
-          "description": "",
-          "link": "https://generativeai.pub/i-built-a-machine-that-watches-you-fall-asleep-for-under-2-000-f02542553a6b?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-03T05:59:54.000Z",
-          "wordCount": null,
-          "title": "I Built A Machine That Watches You Fall Asleep. For Under ₹2,000.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/5e7c1f8f2ec8",
-          "author": "Programming with me",
-          "description": "OpenAI has revealed almost nothing about Astra. Here’s what’s confirmed, what’s still rumor, and what the next generation of AI could…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/gpt-6-astra-explained-what-openais-next-model-actually-is-and-isn-t-5e7c1f8f2ec8?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-03T05:53:25.000Z",
-          "wordCount": null,
-          "title": "GPT-6 Astra Explained: What OpenAI’s Next Model Actually Is (And Isn’t)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/5cb889d0968a",
-          "author": "Marcus Ma",
-          "description": "",
-          "link": "https://generativeai.pub/the-web-was-built-to-be-read-ai-is-learning-to-consume-it-5cb889d0968a?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-03T05:50:43.000Z",
-          "wordCount": null,
-          "title": "The Web Was Built to Be Read. AI Is Learning to Consume It.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/bb7b3dd3fefc",
-          "author": "Jim Clyde Monge",
-          "description": "Fable 5.1 may be Anthropic’s best model yet, but ridiculous quotas, token use, and safeguards make it frustrating to use.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/claude-is-great-anthropic-sucks-bb7b3dd3fefc?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-03T04:38:22.000Z",
-          "wordCount": null,
-          "title": "Claude Is Great. Anthropic Sucks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/89a4996316a6",
-          "author": "Kenny Vaneetvelde",
-          "description": "How a local task board routes work across models, isolates execution, and requires evidence before agent-generated changes can land.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/meet-sidequest-the-kanban-board-where-the-cards-work-themselves-89a4996316a6?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-03T04:25:31.000Z",
-          "wordCount": null,
-          "title": "Meet Sidequest, the Local Kanban Board Where the Cards Work Themselves",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9b968dd2939d",
-          "author": "Harsha Palegar",
-          "description": "Your conversation history is the real drain. Three levels fix it\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/claude-doesnt-eat-tokens-your-habits-do-3-levels-to-increase-usage-limits-9b968dd2939d?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-03T01:14:54.000Z",
-          "wordCount": null,
-          "title": "Claude Doesn’t Eat Tokens. Your Habits Do : 3 Levels to increase usage limits",
           "imageUrl": null
         }
       ]
