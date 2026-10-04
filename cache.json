@@ -2057,6 +2057,22 @@
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
         {
+          "id": "https://www.lennysnewsletter.com/p/community-wisdom-getting-value-from",
+          "author": "Kiyani",
+          "description": "Community Wisdom 301",
+          "link": "https://www.lennysnewsletter.com/p/community-wisdom-getting-value-from",
+          "publishedOn": "2026-10-03T17:00:49.000Z",
+          "wordCount": null,
+          "title": "🧠 Community Wisdom: Getting value from personal AI agents without handing over your inbox, the ego threat of going from IC to manager, uncommon perks to negotiate for, and more",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png"
+        },
+        {
           "id": "https://www.lennysnewsletter.com/p/openai-dev-day-2026-the-releases",
           "author": "Claire Vo",
           "description": "Watch now (24 mins) | 🎙️ Claire tests OpenAI’s DevDay releases, from Dots, Spaces, and Sites to AI-picked thumbnails and a $97 game, and shares what’s worth trying first",
@@ -2439,22 +2455,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png"
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/gpt-6-astra-is-a-banger-heres-everything",
-          "author": "Claire Vo",
-          "description": "Watch now | 🎙️ My hands-on GPT-6 Astra review covers real production work in Figma, Flora, and Adio, one-shot coding wins 5.6 and Fable couldn’t match, and a hardware hack I’ve chased for months",
-          "link": "https://www.lennysnewsletter.com/p/gpt-6-astra-is-a-banger-heres-everything",
-          "publishedOn": "2026-09-03T19:34:20.000Z",
-          "wordCount": null,
-          "title": "GPT-6 Astra is a banger - here’s everything I’ve built",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/214048522/4ae3ffadb011dee13d0f3ad8895f4c9d.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -4291,46 +4291,6 @@
           "wordCount": null,
           "title": "OpenAI Agents Used a Public Wiki to Coordinate: What We Know",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/gpt-6-astra-can-stay-on-the-job-and-use-your-computer/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/gpt-6-astra-can-stay-on-the-job-and-use-your-computer/",
-          "publishedOn": "2026-09-04T09:25:48.671Z",
-          "wordCount": null,
-          "title": "GPT-6 Astra can stay on the job and use your computer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-september-3-2026/",
-          "author": null,
-          "description": "OpenAI launched GPT-6 Astra with huge gains in computer use, science, and cybersecurity; IFM released six fully open K2 Horizon models; Google mapped the complete male fruit-fly brain; xAI shipped Grok Bot for Enterprise; Claude Code showed how its own team works agent-first.",
-          "link": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-september-3-2026/",
-          "publishedOn": "2026-09-04T06:31:25.008Z",
-          "wordCount": null,
-          "title": "Everything That Happened in AI Today (Thursday, September 3, 2026)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/news/gpt-6-astra-everything-you-need-to-know-about-openais-new-model/",
-          "author": null,
-          "description": "GPT-6 Astra can operate computers, build software, solve research problems, and hunt zero-day vulnerabilities. The bigger change is that OpenAI increasingly expects you to give AI work instead of prompts.",
-          "link": "https://www.theneuron.ai/news/gpt-6-astra-everything-you-need-to-know-about-openais-new-model/",
-          "publishedOn": "2026-09-04T05:42:09.740Z",
-          "wordCount": null,
-          "title": "GPT-6 Astra: Everything You Need to Know About OpenAI’s New Model",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/gpt-6-astra-could-launch-today-live/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/gpt-6-astra-could-launch-today-live/",
-          "publishedOn": "2026-09-03T16:56:40.514Z",
-          "wordCount": null,
-          "title": "😺 Is GPT-6 / Astra about to launch? We’re going LIVE",
-          "imageUrl": null
         }
       ]
     },
@@ -4339,6 +4299,26 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/measuring-the-creativity-potential-of-llm-agents/",
+          "author": "Shitanshu Bhushan",
+          "description": "Trying to answer the question of \"Can LLM agents discover?\" through the lens of creativity\nThe post Measuring the Creativity Potential of LLM Agents appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/measuring-the-creativity-potential-of-llm-agents/",
+          "publishedOn": "2026-10-03T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Measuring the Creativity Potential of LLM Agents",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/how-to-use-a-pinn-for-a-navier-stokes-inverse-problem/",
+          "author": "Ferran Alia",
+          "description": "A from-scratch PyTorch build that recovers blood flow, viscosity, and wall shear stress in a narrowed artery from 40 noisy velocity readings\nThe post How to Use a PINN for a Navier-Stokes Inverse Problem appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-use-a-pinn-for-a-navier-stokes-inverse-problem/",
+          "publishedOn": "2026-10-03T12:00:00.000Z",
+          "wordCount": null,
+          "title": "How to Use a PINN for a Navier-Stokes Inverse Problem",
+          "imageUrl": null
+        },
         {
           "id": "https://towardsdatascience.com/where-the-agent-development-lifecycle-fits/",
           "author": "Andrew Hinton",
@@ -5288,46 +5268,6 @@
           "wordCount": 7274,
           "title": "Optimal Traffic Allocation Under Heterogeneous Variant Cost",
           "imageUrl": "https://assets.insightmediagroup.io/media/1788286151360_jjyt80.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/disaggregation-is-a-thousand-gpu-problem/",
-          "author": "Mostafa Ibrahim",
-          "description": "Three conditions that must hold before splitting prefill from decode pays off, and why chunked prefill is the right default below that threshold.\nThe post Disaggregation Is a Thousand-GPU Problem appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/disaggregation-is-a-thousand-gpu-problem/",
-          "publishedOn": "2026-09-04T14:00:02.000Z",
-          "wordCount": 3621,
-          "title": "Disaggregation Is a Thousand-GPU Problem",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1787858702320_n0xwek.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/the-power-bi-developers-survival-guide-to-microsoft-fabric/",
-          "author": "Nikola Ilic",
-          "description": "Power BI Premium is gone. Microsoft Fabric took its place. Here's what actually changed for you, what didn't, and where to start — without the panic.\nThe post The Power BI Developer's Survival Guide to Microsoft Fabric appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-power-bi-developers-survival-guide-to-microsoft-fabric/",
-          "publishedOn": "2026-09-04T12:30:02.000Z",
-          "wordCount": 5416,
-          "title": "The Power BI Developer's Survival Guide to Microsoft Fabric",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1788274893786_zm158n.webp"
-        },
-        {
-          "id": "https://towardsdatascience.com/how-to-run-10-claude-code-sessions-without-a-powerful-computer/",
-          "author": "Eivind Kjosbakken",
-          "description": "Learn how to run a lot of parallel coding agents without expensive, powerful hardware at home\nThe post How to Run 10+ Claude Code Sessions Without a Powerful Computer appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-run-10-claude-code-sessions-without-a-powerful-computer/",
-          "publishedOn": "2026-09-04T11:00:02.000Z",
-          "wordCount": 5270,
-          "title": "How to Run 10+ Claude Code Sessions Without a Powerful Computer",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1788297639039_e3l6hh.webp"
-        },
-        {
-          "id": "https://towardsdatascience.com/my-model-worked-perfectly-then-i-tried-to-make-it-useful/",
-          "author": "Ibrahim Salami",
-          "description": "Turning a trained churn classifier into a FastAPI service that other software can actually call.\nThe post My Model Worked Perfectly. Then I Tried to Make It Useful. appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/my-model-worked-perfectly-then-i-tried-to-make-it-useful/",
-          "publishedOn": "2026-09-03T15:30:01.000Z",
-          "wordCount": 5636,
-          "title": "My Model Worked Perfectly. Then I Tried to Make It Useful.",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1788084041405_ighu7h.jpg"
         }
       ]
     },
@@ -5342,6 +5282,16 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/11e4192f394c",
+          "author": "Pedro A. Brêtas",
+          "description": "",
+          "link": "https://uxdesign.cc/the-feed-i-produce-myself-11e4192f394c?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-10-03T11:12:42.000Z",
+          "wordCount": null,
+          "title": "The feed I produce myself",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/01740248eb45",
           "author": "Stacie Sheldon",
@@ -6021,16 +5971,6 @@
           "wordCount": null,
           "title": "Reading and writing are interfaces. And AI can reduce their friction.",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9048573aa70f",
-          "author": "Patrick Neeman",
-          "description": "",
-          "link": "https://uxdesign.cc/what-minority-report-got-wrong-about-ai-so-far-9048573aa70f?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-09-03T22:39:12.000Z",
-          "wordCount": null,
-          "title": "What Minority Report got wrong about AI (so far)",
-          "imageUrl": null
         }
       ]
     },
@@ -6074,16 +6014,6 @@
           "wordCount": 1982,
           "title": "The Pulse: tech companies move to open AI models",
           "imageUrl": null
-        },
-        {
-          "id": "6a9934b9534530000142389d",
-          "author": "Ivan Klaric",
-          "description": "An in-depth report by Reuters details how Meta’s leadership decided to slash team sizes by 60%. Zuckerberg changed his mind, and now the company is stuck with low morale and culture turned mercenary.",
-          "link": "https://blog.pragmaticengineer.com/the-pulse-meta-wanted-to-reduce-teams-by-60-because-of-ai/",
-          "publishedOn": "2026-09-03T17:01:49.000Z",
-          "wordCount": 3990,
-          "title": "The Pulse: Meta wanted to reduce teams by 60% because of AI",
-          "imageUrl": null
         }
       ]
     },
@@ -6092,6 +6022,106 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/bc82c9e40591",
+          "author": "Singbomb",
+          "description": "I use AI every day for my biology research, and I’m keeping it, but the Australia hack showed me what happens when no law makes anyone…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/openais-agent-hacked-the-australian-government-and-no-law-made-anyone-say-so-bc82c9e40591?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-03T08:21:22.000Z",
+          "wordCount": null,
+          "title": "OpenAI’s Agent Hacked the Australian Government, and No Law Made Anyone Say So",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/46bf8a96999b",
+          "author": "Nina Chen",
+          "description": "",
+          "link": "https://generativeai.pub/gemini-4-argon-benchmarks-access-46bf8a96999b?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-03T08:04:26.000Z",
+          "wordCount": null,
+          "title": "Gemini 4 Argon Launches: Beats GPT-6 Astra on Key Benchmarks, Takes On Google’s 800,000-Line Kernel…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e67478825c01",
+          "author": "Christophe Duc",
+          "description": "First benchmarks with MLX and why Mixture-of-Experts models are the sweet spot for this machine.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/new-mac-mini-m-no-cloud-no-subscription-running-local-ai-models-e67478825c01?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-03T07:55:44.000Z",
+          "wordCount": null,
+          "title": "New Mac mini M6: No Cloud, No Subscription: Running local AI Models",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/86ee046fe236",
+          "author": "Jim hunter",
+          "description": "",
+          "link": "https://generativeai.pub/fidelity-86ee046fe236?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-03T07:47:49.000Z",
+          "wordCount": null,
+          "title": "Fidelity: AI Makes Our Ideas Look Finished Before They’re Ready",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/10554549be1d",
+          "author": "ambuj singh",
+          "description": "The most-used AI assistant in the world just became an ad platform. Here’s what changes for users, and why marketers are paying close…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/chatgpt-has-ads-now-heres-why-that-s-more-interesting-than-it-sounds-10554549be1d?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-03T07:32:13.000Z",
+          "wordCount": null,
+          "title": "ChatGPT Has Ads Now. Here’s Why That’s More Interesting Than It Sounds.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b70e59100be7",
+          "author": "Christophe Duc",
+          "description": "Setting up Hermes Agent with a local Gemma 4 model: no cloud, no subscription, and two gotchas that will save you an hour.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/i-turned-the-new-mac-mini-m6-into-a-private-ai-agent-server-b70e59100be7?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-03T06:52:21.000Z",
+          "wordCount": null,
+          "title": "I Turned the New Mac mini M6 Into a Private AI Agent Server",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b05e80439069",
+          "author": "Ashish Rawat",
+          "description": "",
+          "link": "https://generativeai.pub/you-can-now-change-how-claude-code-works-here-are-5-mods-b05e80439069?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-03T06:46:44.000Z",
+          "wordCount": null,
+          "title": "You Can Now Change How Claude Code Works: Here Are 5 Mods",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d55910cd129e",
+          "author": "CodeTune",
+          "description": "AI can write, explain, debug, and reason alongside us. But some of the work it removes may also be the work that kept our judgment sharp.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/youre-not-going-to-like-what-ai-is-doing-to-your-brain-d55910cd129e?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-03T06:42:24.000Z",
+          "wordCount": null,
+          "title": "You May Not Like What AI Is Doing to the Way You Think",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/de2e60f34110",
+          "author": "Deep concept",
+          "description": "Six simple prompts that help me get clearer answers, ask better questions, learn faster, spot blind spots, and get more out of Claude…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/6-claude-prompt-techniques-that-make-me-better-than-99-of-people-using-ai-de2e60f34110?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-03T06:35:06.000Z",
+          "wordCount": null,
+          "title": "6 Claude Prompt Techniques That Make Me Better Than 99% of People Using AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6b4144d3cfd9",
+          "author": "Zyane",
+          "description": "",
+          "link": "https://generativeai.pub/your-embedded-agent-inherits-a-host-contract-6b4144d3cfd9?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-03T06:30:45.000Z",
+          "wordCount": null,
+          "title": "Your Embedded Agent Inherits a Host Contract",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/b898cc0ebd1a",
           "author": "Jim Clyde Monge",
@@ -8290,106 +8320,6 @@
           "publishedOn": "2026-09-05T05:57:16.000Z",
           "wordCount": null,
           "title": "LangChain4j Beat Spring AI to MCP’s New Spec by 17 Days",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/ae2b6cd0cd3f",
-          "author": "Nina Chen",
-          "description": "",
-          "link": "https://generativeai.pub/a-folder-full-of-drafts-is-just-fast-production-not-a-proven-outcome-ae2b6cd0cd3f?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-04T12:02:19.000Z",
-          "wordCount": null,
-          "title": "A folder full of drafts is just fast production, not a proven outcome.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/50f94b1b42cb",
-          "author": "Sunanda Gupta",
-          "description": "",
-          "link": "https://generativeai.pub/when-the-adults-cant-agree-ai-in-schools-and-the-generation-gap-50f94b1b42cb?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-04T10:21:29.000Z",
-          "wordCount": null,
-          "title": "When the Adults Can’t Agree: AI in Schools and the Generation Gap",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/76be608eeb0b",
-          "author": "Pradeep Kumar Muthukamatchi",
-          "description": "",
-          "link": "https://generativeai.pub/learn-how-to-build-smart-ai-agents-in-minutes-with-microsoft-foundry-76be608eeb0b?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-04T07:51:19.000Z",
-          "wordCount": null,
-          "title": "Learn how to Build Smart AI Agents in Minutes with Microsoft Foundry",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/735933e72f35",
-          "author": "Daniel Hayes",
-          "description": "",
-          "link": "https://generativeai.pub/gartner-just-put-a-name-on-the-sales-call-that-happens-without-you-735933e72f35?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-04T07:47:20.000Z",
-          "wordCount": null,
-          "title": "Gartner Just Put a Name on the Sales Call That Happens Without You",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/78d1963e9bfd",
-          "author": "Marcus Ma",
-          "description": "",
-          "link": "https://generativeai.pub/gpt-6-astra-vs-gpt-5-6-sol-evaluating-the-cost-of-reliability-78d1963e9bfd?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-04T07:41:35.000Z",
-          "wordCount": null,
-          "title": "GPT-6 Astra vs. GPT-5.6 Sol: Evaluating the Cost of Reliability",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/954f9d575ecf",
-          "author": "J.D. Macpherson",
-          "description": "",
-          "link": "https://generativeai.pub/the-verification-economy-why-the-next-fortunes-wont-be-made-creating-things-954f9d575ecf?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-04T07:35:13.000Z",
-          "wordCount": null,
-          "title": "The Verification Economy: Why the Next Fortunes Won’t Be Made Creating Things",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9179e32f7389",
-          "author": "Marcus Beale",
-          "description": "",
-          "link": "https://generativeai.pub/managing-the-flood-of-ai-output-is-the-new-design-ops-9179e32f7389?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-04T07:29:50.000Z",
-          "wordCount": null,
-          "title": "Managing the Flood of AI Output Is the New Design Ops",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/8c9de5a59ed8",
-          "author": "Bharat  Chandera",
-          "description": "AI coding agents didn’t just speed up developers — they’re quietly rewriting the economics of the entire software industry\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/the-great-unbundling-why-32-of-companies-just-quit-buying-software-8c9de5a59ed8?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-04T07:23:25.000Z",
-          "wordCount": null,
-          "title": "The Great Unbundling: Why 32% of Companies Just Quit Buying Software",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/2a86b41783b9",
-          "author": "Aravind Kumar Ramaiah Kothandaramaiah",
-          "description": "",
-          "link": "https://generativeai.pub/from-ai-experiments-to-an-enterprise-capability-2a86b41783b9?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-04T07:19:05.000Z",
-          "wordCount": null,
-          "title": "From AI Experiments to an Enterprise Capability",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/b3dd2bdaa4e5",
-          "author": "Nitin Bisht",
-          "description": "Your hardware and workload matter more than a leaderboard score.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/the-1-ai-model-might-be-the-worst-one-for-your-laptop-b3dd2bdaa4e5?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-04T07:11:55.000Z",
-          "wordCount": null,
-          "title": "The #1 AI Model Might Be the Worst One for Your Laptop",
           "imageUrl": null
         }
       ]

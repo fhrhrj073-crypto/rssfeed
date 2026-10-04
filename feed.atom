@@ -2,10 +2,153 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-10-03T02:27:00.303Z</updated>
+    <updated>2026-10-04T02:56:30.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[🧠 Community Wisdom: Getting value from personal AI agents without handing over your inbox, the ego threat of going from IC to manager, uncommon perks to negotiate for, and more]]></title>
+        <id>https://www.lennysnewsletter.com/p/community-wisdom-getting-value-from</id>
+        <link href="https://www.lennysnewsletter.com/p/community-wisdom-getting-value-from"/>
+        <updated>2026-10-03T17:00:49.000Z</updated>
+        <summary type="html"><![CDATA[Community Wisdom 301]]></summary>
+        <author>
+            <name>Kiyani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring the Creativity Potential of LLM Agents]]></title>
+        <id>https://towardsdatascience.com/measuring-the-creativity-potential-of-llm-agents/</id>
+        <link href="https://towardsdatascience.com/measuring-the-creativity-potential-of-llm-agents/"/>
+        <updated>2026-10-03T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Trying to answer the question of "Can LLM agents discover?" through the lens of creativity
+The post Measuring the Creativity Potential of LLM Agents appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Shitanshu Bhushan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use a PINN for a Navier-Stokes Inverse Problem]]></title>
+        <id>https://towardsdatascience.com/how-to-use-a-pinn-for-a-navier-stokes-inverse-problem/</id>
+        <link href="https://towardsdatascience.com/how-to-use-a-pinn-for-a-navier-stokes-inverse-problem/"/>
+        <updated>2026-10-03T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A from-scratch PyTorch build that recovers blood flow, viscosity, and wall shear stress in a narrowed artery from 40 noisy velocity readings
+The post How to Use a PINN for a Navier-Stokes Inverse Problem appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ferran Alia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The feed I produce myself]]></title>
+        <id>https://medium.com/p/11e4192f394c</id>
+        <link href="https://uxdesign.cc/the-feed-i-produce-myself-11e4192f394c?source=rss----138adf9c44c---4"/>
+        <updated>2026-10-03T11:12:42.000Z</updated>
+        <author>
+            <name>Pedro A. Brêtas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI’s Agent Hacked the Australian Government, and No Law Made Anyone Say So]]></title>
+        <id>https://medium.com/p/bc82c9e40591</id>
+        <link href="https://generativeai.pub/openais-agent-hacked-the-australian-government-and-no-law-made-anyone-say-so-bc82c9e40591?source=rss----440100e76000---4"/>
+        <updated>2026-10-03T08:21:22.000Z</updated>
+        <summary type="html"><![CDATA[I use AI every day for my biology research, and I’m keeping it, but the Australia hack showed me what happens when no law makes anyone…
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Singbomb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini 4 Argon Launches: Beats GPT-6 Astra on Key Benchmarks, Takes On Google’s 800,000-Line Kernel…]]></title>
+        <id>https://medium.com/p/46bf8a96999b</id>
+        <link href="https://generativeai.pub/gemini-4-argon-benchmarks-access-46bf8a96999b?source=rss----440100e76000---4"/>
+        <updated>2026-10-03T08:04:26.000Z</updated>
+        <author>
+            <name>Nina Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Mac mini M6: No Cloud, No Subscription: Running local AI Models]]></title>
+        <id>https://medium.com/p/e67478825c01</id>
+        <link href="https://generativeai.pub/new-mac-mini-m-no-cloud-no-subscription-running-local-ai-models-e67478825c01?source=rss----440100e76000---4"/>
+        <updated>2026-10-03T07:55:44.000Z</updated>
+        <summary type="html"><![CDATA[First benchmarks with MLX and why Mixture-of-Experts models are the sweet spot for this machine.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Christophe Duc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fidelity: AI Makes Our Ideas Look Finished Before They’re Ready]]></title>
+        <id>https://medium.com/p/86ee046fe236</id>
+        <link href="https://generativeai.pub/fidelity-86ee046fe236?source=rss----440100e76000---4"/>
+        <updated>2026-10-03T07:47:49.000Z</updated>
+        <author>
+            <name>Jim hunter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT Has Ads Now. Here’s Why That’s More Interesting Than It Sounds.]]></title>
+        <id>https://medium.com/p/10554549be1d</id>
+        <link href="https://generativeai.pub/chatgpt-has-ads-now-heres-why-that-s-more-interesting-than-it-sounds-10554549be1d?source=rss----440100e76000---4"/>
+        <updated>2026-10-03T07:32:13.000Z</updated>
+        <summary type="html"><![CDATA[The most-used AI assistant in the world just became an ad platform. Here’s what changes for users, and why marketers are paying close…
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>ambuj singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Turned the New Mac mini M6 Into a Private AI Agent Server]]></title>
+        <id>https://medium.com/p/b70e59100be7</id>
+        <link href="https://generativeai.pub/i-turned-the-new-mac-mini-m6-into-a-private-ai-agent-server-b70e59100be7?source=rss----440100e76000---4"/>
+        <updated>2026-10-03T06:52:21.000Z</updated>
+        <summary type="html"><![CDATA[Setting up Hermes Agent with a local Gemma 4 model: no cloud, no subscription, and two gotchas that will save you an hour.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Christophe Duc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You Can Now Change How Claude Code Works: Here Are 5 Mods]]></title>
+        <id>https://medium.com/p/b05e80439069</id>
+        <link href="https://generativeai.pub/you-can-now-change-how-claude-code-works-here-are-5-mods-b05e80439069?source=rss----440100e76000---4"/>
+        <updated>2026-10-03T06:46:44.000Z</updated>
+        <author>
+            <name>Ashish Rawat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You May Not Like What AI Is Doing to the Way You Think]]></title>
+        <id>https://medium.com/p/d55910cd129e</id>
+        <link href="https://generativeai.pub/youre-not-going-to-like-what-ai-is-doing-to-your-brain-d55910cd129e?source=rss----440100e76000---4"/>
+        <updated>2026-10-03T06:42:24.000Z</updated>
+        <summary type="html"><![CDATA[AI can write, explain, debug, and reason alongside us. But some of the work it removes may also be the work that kept our judgment sharp.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>CodeTune</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 Claude Prompt Techniques That Make Me Better Than 99% of People Using AI]]></title>
+        <id>https://medium.com/p/de2e60f34110</id>
+        <link href="https://generativeai.pub/6-claude-prompt-techniques-that-make-me-better-than-99-of-people-using-ai-de2e60f34110?source=rss----440100e76000---4"/>
+        <updated>2026-10-03T06:35:06.000Z</updated>
+        <summary type="html"><![CDATA[Six simple prompts that help me get clearer answers, ask better questions, learn faster, spot blind spots, and get more out of Claude…
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Deep concept</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Embedded Agent Inherits a Host Contract]]></title>
+        <id>https://medium.com/p/6b4144d3cfd9</id>
+        <link href="https://generativeai.pub/your-embedded-agent-inherits-a-host-contract-6b4144d3cfd9?source=rss----440100e76000---4"/>
+        <updated>2026-10-03T06:30:45.000Z</updated>
+        <author>
+            <name>Zyane</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8 New AI Terms You Should Know to Be Ahead of 90% of People]]></title>
         <id>https://medium.com/p/b898cc0ebd1a</id>
@@ -7555,37 +7698,6 @@ The post Optimal Traffic Allocation Under Heterogeneous Variant Cost appeared fi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Disaggregation Is a Thousand-GPU Problem]]></title>
-        <id>https://towardsdatascience.com/disaggregation-is-a-thousand-gpu-problem/</id>
-        <link href="https://towardsdatascience.com/disaggregation-is-a-thousand-gpu-problem/"/>
-        <updated>2026-09-04T14:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Three conditions that must hold before splitting prefill from decode pays off, and why chunked prefill is the right default below that threshold.
-The post Disaggregation Is a Thousand-GPU Problem appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Mostafa Ibrahim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Power BI Developer's Survival Guide to Microsoft Fabric]]></title>
-        <id>https://towardsdatascience.com/the-power-bi-developers-survival-guide-to-microsoft-fabric/</id>
-        <link href="https://towardsdatascience.com/the-power-bi-developers-survival-guide-to-microsoft-fabric/"/>
-        <updated>2026-09-04T12:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Power BI Premium is gone. Microsoft Fabric took its place. Here's what actually changed for you, what didn't, and where to start — without the panic.
-The post The Power BI Developer's Survival Guide to Microsoft Fabric appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Nikola Ilic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A folder full of drafts is just fast production, not a proven outcome.]]></title>
-        <id>https://medium.com/p/ae2b6cd0cd3f</id>
-        <link href="https://generativeai.pub/a-folder-full-of-drafts-is-just-fast-production-not-a-proven-outcome-ae2b6cd0cd3f?source=rss----440100e76000---4"/>
-        <updated>2026-09-04T12:02:19.000Z</updated>
-        <author>
-            <name>Nina Chen</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Non Negotiable FDE Skill]]></title>
         <id>https://www.youtube.com/shorts/bYGw-ONB7WE</id>
         <link href="https://www.youtube.com/shorts/bYGw-ONB7WE"/>
@@ -7596,146 +7708,12 @@ The post The Power BI Developer's Survival Guide to Microsoft Fabric appeared fi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Run 10+ Claude Code Sessions Without a Powerful Computer]]></title>
-        <id>https://towardsdatascience.com/how-to-run-10-claude-code-sessions-without-a-powerful-computer/</id>
-        <link href="https://towardsdatascience.com/how-to-run-10-claude-code-sessions-without-a-powerful-computer/"/>
-        <updated>2026-09-04T11:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to run a lot of parallel coding agents without expensive, powerful hardware at home
-The post How to Run 10+ Claude Code Sessions Without a Powerful Computer appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Eivind Kjosbakken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When the Adults Can’t Agree: AI in Schools and the Generation Gap]]></title>
-        <id>https://medium.com/p/50f94b1b42cb</id>
-        <link href="https://generativeai.pub/when-the-adults-cant-agree-ai-in-schools-and-the-generation-gap-50f94b1b42cb?source=rss----440100e76000---4"/>
-        <updated>2026-09-04T10:21:29.000Z</updated>
-        <author>
-            <name>Sunanda Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-6 Astra can stay on the job and use your computer]]></title>
-        <id>https://www.theneuron.ai/newsletter/gpt-6-astra-can-stay-on-the-job-and-use-your-computer/</id>
-        <link href="https://www.theneuron.ai/newsletter/gpt-6-astra-can-stay-on-the-job-and-use-your-computer/"/>
-        <updated>2026-09-04T09:25:48.671Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn how to Build Smart AI Agents in Minutes with Microsoft Foundry]]></title>
-        <id>https://medium.com/p/76be608eeb0b</id>
-        <link href="https://generativeai.pub/learn-how-to-build-smart-ai-agents-in-minutes-with-microsoft-foundry-76be608eeb0b?source=rss----440100e76000---4"/>
-        <updated>2026-09-04T07:51:19.000Z</updated>
-        <author>
-            <name>Pradeep Kumar Muthukamatchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gartner Just Put a Name on the Sales Call That Happens Without You]]></title>
-        <id>https://medium.com/p/735933e72f35</id>
-        <link href="https://generativeai.pub/gartner-just-put-a-name-on-the-sales-call-that-happens-without-you-735933e72f35?source=rss----440100e76000---4"/>
-        <updated>2026-09-04T07:47:20.000Z</updated>
-        <author>
-            <name>Daniel Hayes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-6 Astra vs. GPT-5.6 Sol: Evaluating the Cost of Reliability]]></title>
-        <id>https://medium.com/p/78d1963e9bfd</id>
-        <link href="https://generativeai.pub/gpt-6-astra-vs-gpt-5-6-sol-evaluating-the-cost-of-reliability-78d1963e9bfd?source=rss----440100e76000---4"/>
-        <updated>2026-09-04T07:41:35.000Z</updated>
-        <author>
-            <name>Marcus Ma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Verification Economy: Why the Next Fortunes Won’t Be Made Creating Things]]></title>
-        <id>https://medium.com/p/954f9d575ecf</id>
-        <link href="https://generativeai.pub/the-verification-economy-why-the-next-fortunes-wont-be-made-creating-things-954f9d575ecf?source=rss----440100e76000---4"/>
-        <updated>2026-09-04T07:35:13.000Z</updated>
-        <author>
-            <name>J.D. Macpherson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Managing the Flood of AI Output Is the New Design Ops]]></title>
-        <id>https://medium.com/p/9179e32f7389</id>
-        <link href="https://generativeai.pub/managing-the-flood-of-ai-output-is-the-new-design-ops-9179e32f7389?source=rss----440100e76000---4"/>
-        <updated>2026-09-04T07:29:50.000Z</updated>
-        <author>
-            <name>Marcus Beale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Great Unbundling: Why 32% of Companies Just Quit Buying Software]]></title>
-        <id>https://medium.com/p/8c9de5a59ed8</id>
-        <link href="https://generativeai.pub/the-great-unbundling-why-32-of-companies-just-quit-buying-software-8c9de5a59ed8?source=rss----440100e76000---4"/>
-        <updated>2026-09-04T07:23:25.000Z</updated>
-        <summary type="html"><![CDATA[AI coding agents didn’t just speed up developers — they’re quietly rewriting the economics of the entire software industry
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Bharat  Chandera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From AI Experiments to an Enterprise Capability]]></title>
-        <id>https://medium.com/p/2a86b41783b9</id>
-        <link href="https://generativeai.pub/from-ai-experiments-to-an-enterprise-capability-2a86b41783b9?source=rss----440100e76000---4"/>
-        <updated>2026-09-04T07:19:05.000Z</updated>
-        <author>
-            <name>Aravind Kumar Ramaiah Kothandaramaiah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The #1 AI Model Might Be the Worst One for Your Laptop]]></title>
-        <id>https://medium.com/p/b3dd2bdaa4e5</id>
-        <link href="https://generativeai.pub/the-1-ai-model-might-be-the-worst-one-for-your-laptop-b3dd2bdaa4e5?source=rss----440100e76000---4"/>
-        <updated>2026-09-04T07:11:55.000Z</updated>
-        <summary type="html"><![CDATA[Your hardware and workload matter more than a leaderboard score.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Nitin Bisht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything That Happened in AI Today (Thursday, September 3, 2026)]]></title>
-        <id>https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-september-3-2026/</id>
-        <link href="https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-september-3-2026/"/>
-        <updated>2026-09-04T06:31:25.008Z</updated>
-        <summary type="html"><![CDATA[OpenAI launched GPT-6 Astra with huge gains in computer use, science, and cybersecurity; IFM released six fully open K2 Horizon models; Google mapped the complete male fruit-fly brain; xAI shipped Grok Bot for Enterprise; Claude Code showed how its own team works agent-first.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-6 Astra: Everything You Need to Know About OpenAI’s New Model]]></title>
-        <id>https://www.theneuron.ai/news/gpt-6-astra-everything-you-need-to-know-about-openais-new-model/</id>
-        <link href="https://www.theneuron.ai/news/gpt-6-astra-everything-you-need-to-know-about-openais-new-model/"/>
-        <updated>2026-09-04T05:42:09.740Z</updated>
-        <summary type="html"><![CDATA[GPT-6 Astra can operate computers, build software, solve research problems, and hunt zero-day vulnerabilities. The bigger change is that OpenAI increasingly expects you to give AI work instead of prompts.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[世界AI新聞快訊（2026年9月4日）｜NVIDIA收購Hugging Face！Google天氣AI大升級，三大助手同時故障]]></title>
         <id>https://www.youtube.com/watch?v=mKxQzAGkjAI</id>
         <link href="https://www.youtube.com/watch?v=mKxQzAGkjAI"/>
         <updated>2026-09-04T00:00:28.000Z</updated>
         <author>
             <name>文恩澄 Rannes Man</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Minority Report got wrong about AI (so far)]]></title>
-        <id>https://medium.com/p/9048573aa70f</id>
-        <link href="https://uxdesign.cc/what-minority-report-got-wrong-about-ai-so-far-9048573aa70f?source=rss----138adf9c44c---4"/>
-        <updated>2026-09-03T22:39:12.000Z</updated>
-        <author>
-            <name>Patrick Neeman</name>
         </author>
     </entry>
     <entry>
@@ -7777,52 +7755,12 @@ Continue reading on Generative AI »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT-6 Astra is a banger - here’s everything I’ve built]]></title>
-        <id>https://www.lennysnewsletter.com/p/gpt-6-astra-is-a-banger-heres-everything</id>
-        <link href="https://www.lennysnewsletter.com/p/gpt-6-astra-is-a-banger-heres-everything"/>
-        <updated>2026-09-03T19:34:20.000Z</updated>
-        <summary type="html"><![CDATA[Watch now | 🎙️ My hands-on GPT-6 Astra review covers real production work in Figma, Flora, and Adio, one-shot coding wins 5.6 and Fable couldn’t match, and a hardware hack I’ve chased for months]]></summary>
-        <author>
-            <name>Claire Vo</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ASTRA IS HERE (GPT-6 RELEASED)]]></title>
         <id>https://www.youtube.com/watch?v=xdXLzFzxA9Q</id>
         <link href="https://www.youtube.com/watch?v=xdXLzFzxA9Q"/>
         <updated>2026-09-03T19:32:50.000Z</updated>
         <author>
             <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pulse: Meta wanted to reduce teams by 60% because of AI]]></title>
-        <id>6a9934b9534530000142389d</id>
-        <link href="https://blog.pragmaticengineer.com/the-pulse-meta-wanted-to-reduce-teams-by-60-because-of-ai/"/>
-        <updated>2026-09-03T17:01:49.000Z</updated>
-        <summary type="html"><![CDATA[An in-depth report by Reuters details how Meta’s leadership decided to slash team sizes by 60%. Zuckerberg changed his mind, and now the company is stuck with low morale and culture turned mercenary.]]></summary>
-        <author>
-            <name>Ivan Klaric</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😺 Is GPT-6 / Astra about to launch? We’re going LIVE]]></title>
-        <id>https://www.theneuron.ai/newsletter/gpt-6-astra-could-launch-today-live/</id>
-        <link href="https://www.theneuron.ai/newsletter/gpt-6-astra-could-launch-today-live/"/>
-        <updated>2026-09-03T16:56:40.514Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Model Worked Perfectly. Then I Tried to Make It Useful.]]></title>
-        <id>https://towardsdatascience.com/my-model-worked-perfectly-then-i-tried-to-make-it-useful/</id>
-        <link href="https://towardsdatascience.com/my-model-worked-perfectly-then-i-tried-to-make-it-useful/"/>
-        <updated>2026-09-03T15:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Turning a trained churn classifier into a FastAPI service that other software can actually call.
-The post My Model Worked Perfectly. Then I Tried to Make It Useful. appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ibrahim Salami</name>
         </author>
     </entry>
     <entry>
