@@ -2017,6 +2017,38 @@
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
         {
+          "id": "https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how",
+          "author": "Lenny Rachitsky",
+          "description": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+          "link": "https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how",
+          "publishedOn": "2026-10-05T15:03:24.000Z",
+          "wordCount": null,
+          "title": "🎙️ How I AI: 8 real Jev use cases + How OpenAI uses ChatGPT Sites (live at DevDay!) + Claire’s DevDay recap",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/c5cdfeff-de11-47d2-b9eb-9686c14dff8d_1456x1048.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/c5cdfeff-de11-47d2-b9eb-9686c14dff8d_1456x1048.png"
+        },
+        {
+          "id": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live",
+          "author": "Claire Vo",
+          "description": "Watch now (36 mins) | 🎙️ Kath Korevec demos ChatGPT Sites live at OpenAI DevDay, showing how to turn Slack, Notion, and calendar data into internal tools that adapt to each person on your team",
+          "link": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live",
+          "publishedOn": "2026-10-05T12:04:54.000Z",
+          "wordCount": null,
+          "title": "How OpenAI uses ChatGPT Sites (live at DevDay!) | Kath Korevec (Product Lead)",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/218411890/aa07f9195211ebc3f9d97bb380bb7bbb.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering",
           "author": "Lenny Rachitsky",
           "description": "Listen now (37 mins) | Tibo Sottiaux on why Dots is OpenAI’s biggest bet, why agents will dominate internet traffic, and what builders are still getting wrong",
@@ -2399,38 +2431,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/why-companies-are-becoming-a-series",
-          "author": "Lenny Rachitsky",
-          "description": "Anish Acharya on why the permanent-underclass fear is wrong, how every job function becomes a loop, and where consumer AI is headed",
-          "link": "https://www.lennysnewsletter.com/p/why-companies-are-becoming-a-series",
-          "publishedOn": "2026-09-06T12:32:00.000Z",
-          "wordCount": null,
-          "title": "Why companies are becoming a series of loops | Anish Acharya (a16z)",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/213044770/4eea366175d335a312e305ba284a8e6c.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/community-wisdom-driving-ai-adoption",
-          "author": "Kiyani",
-          "description": "Community Wisdom 200",
-          "link": "https://www.lennysnewsletter.com/p/community-wisdom-driving-ai-adoption",
-          "publishedOn": "2026-09-05T17:00:46.000Z",
-          "wordCount": null,
-          "title": "🧠 Community Wisdom: Driving AI adoption when habits are the bottleneck, leveling up from APM to a mid-level PM role, converting a wave of new users to subscription, and more",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png"
         }
       ]
     },
@@ -2774,38 +2774,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!Bz44!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38c77874-8b3f-4c18-8c2d-e61c05e79306_1272x716.webp"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/ai-will-collapse-go-big-or-go-broke",
-          "author": "Ruben Dominguez",
-          "description": "Another week, another pulse check on Tech.",
-          "link": "https://www.thevccorner.com/p/ai-will-collapse-go-big-or-go-broke",
-          "publishedOn": "2026-09-06T14:49:45.000Z",
-          "wordCount": null,
-          "title": "AI Will Collapse💥, Go Big or Go Broke🎯, The Rise and Fall of Agent Civilizations🤖",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!bRtT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F13bc16df-29ae-4e2a-8b03-163f6d4c32b1_1200x480.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!bRtT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F13bc16df-29ae-4e2a-8b03-163f6d4c32b1_1200x480.jpeg"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/the-accelerator-atlas",
-          "author": "Ruben Dominguez",
-          "description": "613 Programs, 310 Cities, Terms, Apply Links",
-          "link": "https://www.thevccorner.com/p/the-accelerator-atlas",
-          "publishedOn": "2026-09-05T17:17:54.000Z",
-          "wordCount": null,
-          "title": "The Accelerator Atlas",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!3tNM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feed33a72-cd62-4794-af63-e56c3ba714d7_1280x682.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!3tNM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feed33a72-cd62-4794-af63-e56c3ba714d7_1280x682.jpeg"
         }
       ]
     },
@@ -2814,6 +2782,46 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/news/kyoto-vision-ai-powered-science/",
+          "author": null,
+          "description": "Seventeen countries have endorsed the Kyoto Vision for AI-powered science. Its push toward autonomous discovery raises questions about computing access and how governments will turn policy ambitions into research capacity.",
+          "link": "https://www.theneuron.ai/news/kyoto-vision-ai-powered-science/",
+          "publishedOn": "2026-10-05T12:39:46.276Z",
+          "wordCount": null,
+          "title": "What the Kyoto Vision Means for AI-Powered Science",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/what-if-ai-is-a-phase-in-earths-evolution/",
+          "author": null,
+          "description": "Philosopher Benjamin Bratton has a much bigger way of thinking about AI: as the newest step in a billions-of-years process where matter produced life, life produced intelligence, and intelligence learned to build intelligence of its own.",
+          "link": "https://www.theneuron.ai/explainer-articles/what-if-ai-is-a-phase-in-earths-evolution/",
+          "publishedOn": "2026-10-05T12:14:36.986Z",
+          "wordCount": null,
+          "title": "What If AI Is a Phase in Earth’s Evolution?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/newsletter/trump-named-an-ai-czar/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/trump-named-an-ai-czar/",
+          "publishedOn": "2026-10-05T09:32:02.328Z",
+          "wordCount": null,
+          "title": "😺 Trump named an AI czar",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/why-chipmakers-nvidia-amd-buying-ai-companies/",
+          "author": null,
+          "description": "Nvidia’s planned Hugging Face acquisition and AMD’s World Labs deal bring both chipmakers closer to the developers and researchers shaping future AI workloads, giving them an earlier view of how compute requirements may change.",
+          "link": "https://www.theneuron.ai/news/why-chipmakers-nvidia-amd-buying-ai-companies/",
+          "publishedOn": "2026-10-05T09:03:33.835Z",
+          "wordCount": null,
+          "title": "What Nvidia and AMD’s AI Acquisitions Say About the Next Chip War",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/newsletter/a16z-only-2-disclose-tracked-ai-metrics/",
           "author": null,
@@ -4283,16 +4291,6 @@
           "wordCount": null,
           "title": "AI Skill of the Day Digest — GPT-6 Astra: 7 Better Ways to Work With It",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-saturday-sunday-september-5-6-2026/",
-          "author": null,
-          "description": "OpenAI-linked agents used public wikis to coordinate; NVIDIA’s $12.9B Hugging Face deal reshaped open AI; Anthropic formalized Fermat’s Last Theorem; the U.S. and China prepared AI-safety talks; ByteDance raised $29.6B.",
-          "link": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-saturday-sunday-september-5-6-2026/",
-          "publishedOn": "2026-09-06T15:22:01.285Z",
-          "wordCount": null,
-          "title": "Everything That Happened in AI Today (Friday/Saturday/Sunday, September 5-6, 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -4301,6 +4299,26 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/?p=673377",
+          "author": "Slava Efimov",
+          "description": "Elegant object matching from several viewpoints\nThe post Computer Vision: SIFT algorithm (Scale Invariant Feature Transform) appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/computer-vision-sift-algorithm-scale-invariant-feature-transform/",
+          "publishedOn": "2026-10-05T14:18:00.000Z",
+          "wordCount": null,
+          "title": "Computer Vision: SIFT algorithm (Scale Invariant Feature Transform)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/how-to-build-a-cheap-yet-reliable-model-router-with-jev/",
+          "author": "Thuwarakesh Murallie",
+          "description": "Model routing can finally be a design choice rather than a system enhancement\nThe post How to Build a Cheap, Yet Reliable Model Router With Jev appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-build-a-cheap-yet-reliable-model-router-with-jev/",
+          "publishedOn": "2026-10-05T11:00:00.000Z",
+          "wordCount": null,
+          "title": "How to Build a Cheap, Yet Reliable Model Router With Jev",
+          "imageUrl": null
+        },
         {
           "id": "https://towardsdatascience.com/how-to-govern-ai-agents/",
           "author": "Amber Roberts",
@@ -5240,36 +5258,6 @@
           "wordCount": 5359,
           "title": "Why Most Multi-Agent Systems Fail Even When Evaluation Passes",
           "imageUrl": "https://assets.insightmediagroup.io/media/1788472869074_98pjgr.webp"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=679805",
-          "author": "Chien Vu Minh",
-          "description": "AI companies quietly watermark billions of words a day. Here’s how to apply the same three families of techniques to your own writing—and what real experiments reveal about which watermarks survive copy-paste, editing, and paraphrasing.\nThe post Text Watermarking in Python: Catch Whoever Copies Your Writing appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/text-watermarking-in-python-catch-whoever-copies-your-writing/",
-          "publishedOn": "2026-09-06T14:00:01.000Z",
-          "wordCount": 11527,
-          "title": "Text Watermarking in Python: Catch Whoever Copies Your Writing",
-          "imageUrl": "https://assets.insightmediagroup.io/media/wp-content/uploads/2026/08/patrick-tomasso-Oaqk7qqNh_c-unsplash-scaled.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/linear-discriminant-analysis-lda-in-real-life-dimensionality-reduction-in-a-real-estate-dataset/",
-          "author": "Carolina Bento",
-          "description": "Using LDA for dimensionality reduction in classification problems\nThe post Linear Discriminant Analysis (LDA) in Real-Life: Dimensionality Reduction in a Real-Estate Dataset appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/linear-discriminant-analysis-lda-in-real-life-dimensionality-reduction-in-a-real-estate-dataset/",
-          "publishedOn": "2026-09-06T12:00:02.000Z",
-          "wordCount": 10844,
-          "title": "Linear Discriminant Analysis (LDA) in Real-Life: Dimensionality Reduction in a Real-Estate Dataset",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1788114977139_2qgt1z.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=679744",
-          "author": "Gurjinder Kaur",
-          "description": "From scalar observations to self-attention, and how positional information restores sequence order\nThe post Why Transformers Need Positional Encoding For Time Series: A Visual Guide appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/why-transformers-need-positional-encoding-for-time-series-a-visual-guide/",
-          "publishedOn": "2026-09-05T15:00:01.000Z",
-          "wordCount": 4497,
-          "title": "Why Transformers Need Positional Encoding For Time Series: A Visual Guide",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1788235201320_s6mdb2.webp"
         }
       ]
     },
@@ -5284,6 +5272,46 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/c8de13aefc6f",
+          "author": "Dora Czerna",
+          "description": "Muse comes with an avatar you design and a keyring gadget. Few people would hand Meta their passwords, yet it topped the US App Store.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/is-metas-new-ai-agent-easier-to-trust-because-it-s-cute-c8de13aefc6f?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-10-05T22:00:31.000Z",
+          "wordCount": null,
+          "title": "Is Meta’s new AI agent easier to trust because it’s cute?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1afbf92eb496",
+          "author": "Slava Polonski, PhD",
+          "description": "The hidden cost of outsourcing our thinking to AI.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-10-05T22:00:12.000Z",
+          "wordCount": null,
+          "title": "AI skill atrophy: Are we forgetting how to think?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/32d1523f1f95",
+          "author": "Nicole Alexandra Michaelis",
+          "description": "",
+          "link": "https://uxdesign.cc/the-taste-paradox-why-the-skill-everyone-says-matters-is-the-one-weve-stopped-building-32d1523f1f95?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-10-05T21:59:40.000Z",
+          "wordCount": null,
+          "title": "The taste paradox: why the skill everyone says matters is the one we’ve stopped building",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/cf8162f43284",
+          "author": "Fabricio Teixeira",
+          "description": "",
+          "link": "https://uxdesign.cc/prompt-as-self-portrait-de-slopifying-your-designs-the-strategic-designer-cf8162f43284?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-10-05T11:01:01.000Z",
+          "wordCount": null,
+          "title": "Prompt as self-portrait, De-slopifying your designs, The strategic designer",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/26c6c4e49ba8",
           "author": "Takuma Kakehi",
@@ -6024,6 +6052,106 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/202b2b1d747f",
+          "author": "Jim Clyde Monge",
+          "description": "Jev out, Clef in?\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/cloudflares-clef-beats-jev-in-just-two-weeks-202b2b1d747f?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-05T13:52:35.000Z",
+          "wordCount": null,
+          "title": "Cloudflare’s Clef Beats Jev in Just Two Weeks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/92423c2ff4bc",
+          "author": "Zayd Islam",
+          "description": "From the original Gemini to today’s long-running AI agents, Google’s model family has evolved from answering prompts to pursuing complex…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/gemini-4-argon-googles-new-ai-superpower-is-not-just-smarter-it-can-keep-working-92423c2ff4bc?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-05T13:38:38.000Z",
+          "wordCount": null,
+          "title": "Gemini 4 Argon: Google’s New AI Superpower Is Not Just Smarter. It Can Keep Working.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d88c7fcdd405",
+          "author": "MohamedAbdelmenem",
+          "description": "Raw model benchmarks do not matter if your code cannot survive a state investigation. Here is how safety governance became enterprise…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/the-great-ai-divergence-openai-gets-subpoenas-while-anthropic-heads-to-wall-street-d88c7fcdd405?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-05T13:31:45.000Z",
+          "wordCount": null,
+          "title": "The Great AI Divergence: OpenAI Gets Subpoenas While Anthropic Heads to Wall Street",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/47103a4fa521",
+          "author": "Yashraj Behera",
+          "description": "An open model that clicks, types, and runs code on your desktop, set up in six steps. The headline score belongs to the version you can’t…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/how-to-run-holo4-on-your-own-computer-and-what-its-85-2-hides-47103a4fa521?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-05T13:27:23.000Z",
+          "wordCount": null,
+          "title": "How to run Holo4 on your own computer, and what its 85.2% hides",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ec3a044aa8ff",
+          "author": "Ray Hu",
+          "description": "Stop rewriting auth, retries, and logging in every agent. Write them once, plug them in everywhere.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/langchain-middleware-6-hooks-zero-copy-paste-ec3a044aa8ff?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-05T13:16:28.000Z",
+          "wordCount": null,
+          "title": "LangChain Middleware: 6 Hooks, Zero Copy-Paste",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d3c463178e6e",
+          "author": "Ray Hu",
+          "description": "The tutorials you’ve bookmarked still import FastMCP. It’s called MCPServer now.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/mcp-python-sdk-2-x-from-handshake-to-langgraph-d3c463178e6e?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-05T05:52:52.000Z",
+          "wordCount": null,
+          "title": "MCP Python SDK 2.x: From Handshake to LangGraph",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/0785ee9b1b7b",
+          "author": "Menna Adly",
+          "description": "Tuning WebSocket buffers cannot beat the physics of three consecutive cloud APIs. Here is why the 1,400ms serialization floor is dead.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/stop-chaining-whisper-to-an-llm-why-native-omni-models-make-multi-stage-pipelines-obsolete-0785ee9b1b7b?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-05T05:28:34.000Z",
+          "wordCount": null,
+          "title": "Stop Chaining Whisper to an LLM: Why Native Omni-Models Make Multi-Stage Pipelines Obsolete",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f91371fc85fc",
+          "author": "Tasmia Sharmin",
+          "description": "Prompt engineering was yesterday’s buzzword. Now, companies are looking for people who can orchestrate AI agents to get real work done.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/one-ai-job-posting-increased-by-1-721-guess-which-ai-skill-is-behind-it-f91371fc85fc?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-05T05:15:35.000Z",
+          "wordCount": null,
+          "title": "One AI Job Posting Increased by 1,721%. Guess Which AI Skill Is Behind It?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d74196a1b9f3",
+          "author": "Abhishek Soni",
+          "description": "",
+          "link": "https://generativeai.pub/how-i-built-an-ai-that-turns-plain-english-into-3blue1brown-style-math-animations-d74196a1b9f3?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-05T05:11:19.000Z",
+          "wordCount": null,
+          "title": "How I Built an AI That Turns Plain English Into 3Blue1Brown-Style Math Animations",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/fc6429f818b1",
+          "author": "Raj kumar",
+          "description": "From smarter models to production failures: what the latest AI releases reveal about reliability, cost, security, and the engineering…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/ai-models-are-getting-smarter-why-is-production-ai-still-so-hard-fc6429f818b1?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-05T04:58:36.000Z",
+          "wordCount": null,
+          "title": "AI Models Are Getting Smarter. Why Is Production AI Still So Hard?",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/dcb8a544efd1",
           "author": "Jim Clyde Monge",
@@ -8152,106 +8280,6 @@
           "publishedOn": "2026-09-07T23:26:40.000Z",
           "wordCount": null,
           "title": "Skills vs. MCP vs. RAG vs. Memory: How to Actually Give AI Agents the Knowledge They Need",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/801a03e237d2",
-          "author": "Jim Clyde Monge",
-          "description": "People are using Astra to create 3D games, motion graphics, product ads, and explorable paintings. Here are my favorites so far.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/8-cool-things-people-use-gpt-6-astra-for-801a03e237d2?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-06T12:25:57.000Z",
-          "wordCount": null,
-          "title": "8 Cool Things People Use GPT-6 Astra For",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f511edc445c9",
-          "author": "Arijit Dutta",
-          "description": "",
-          "link": "https://generativeai.pub/agent-compute-broker-stop-using-your-best-ai-model-for-every-task-f511edc445c9?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-06T09:47:11.000Z",
-          "wordCount": null,
-          "title": "Agent Compute Broker: Stop Using Your Best AI Model for Every Task",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/856449343f52",
-          "author": "Kairos Vance",
-          "description": "",
-          "link": "https://generativeai.pub/you-challenged-the-ai-it-sold-harder-856449343f52?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-06T09:39:37.000Z",
-          "wordCount": null,
-          "title": "You Challenged the AI. It Sold Harder.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/289d535d60ba",
-          "author": "AIguru",
-          "description": "A first look at OpenAI’s new agentic model, from website creation and pricing to the cybersecurity risks surrounding its release.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/gpt-6-astra-humbled-me-in-under-10-minutes-here-is-what-actually-changed-289d535d60ba?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-06T06:23:00.000Z",
-          "wordCount": null,
-          "title": "GPT-6 Astra Humbled Me in Under 10 Minutes. Here Is What Actually Changed.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/6d92dae0b039",
-          "author": "CodeWithYog",
-          "description": "A developer-focused comparison of OpenAI’s new model with Claude Fable 5.1, Gemini 3.8 Flash, and GPT-5.6 Sol\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/gpt-6-astra-is-built-to-do-the-work-not-just-answer-the-question-6d92dae0b039?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-06T06:18:16.000Z",
-          "wordCount": null,
-          "title": "GPT-6 Astra Is Built to Do the Work, Not Just Answer the Question",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/4d1a66a832f3",
-          "author": "Tom Ketcham",
-          "description": "",
-          "link": "https://generativeai.pub/the-ai-supply-chain-has-a-supply-chain-problem-4d1a66a832f3?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-06T06:08:32.000Z",
-          "wordCount": null,
-          "title": "The AI Supply Chain Has a Supply Chain (Problem)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/19c986fcabd7",
-          "author": "Rakib.ai",
-          "description": "I benchmarked 22 open-source document, web, and repo converters, and the single best number in 63 cells came from a page that had nothing…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/one-app-to-reduce-token-consumption-by-90-19c986fcabd7?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-06T01:45:45.000Z",
-          "wordCount": null,
-          "title": "One App to Reduce Token Consumption by 90%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9957ae1899ba",
-          "author": "The Smarter Way",
-          "description": "OpenAI went viral. Google went pro. Only one of them fits in a real client workflow.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/sora-2-vs-veo-3-1-which-ai-video-generator-is-actually-production-ready-9957ae1899ba?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-06T01:31:26.000Z",
-          "wordCount": null,
-          "title": "Sora 2 vs. Veo 3.1: Which AI Video Generator Is Actually Production-Ready?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/ca065e4838be",
-          "author": "MohamedAbdelmenem",
-          "description": "The intelligence bottleneck is over. The execution bottleneck is here. Here is how founders can sever their planning and execution layers…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/google-shipped-3-flash-models-in-6-weeks-why-the-llm-parameter-war-is-officially-dead-ca065e4838be?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-06T01:30:02.000Z",
-          "wordCount": null,
-          "title": "Google Shipped 3 Flash Models in 6 Weeks: Why the LLM Parameter War Is Officially Dead",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/216741ef8a13",
-          "author": "Jim Clyde Monge",
-          "description": "",
-          "link": "https://generativeai.pub/generating-microdramas-with-artlists-ai-toolkit-and-studio-216741ef8a13?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-06T01:04:58.000Z",
-          "wordCount": null,
-          "title": "Generating Microdramas With Artlist’s AI Toolkit and Studio",
           "imageUrl": null
         }
       ]
