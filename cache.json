@@ -2415,22 +2415,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/0efca35d-b22d-4ad2-bce1-4ca72972d416_1456x1048.png"
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
-          "author": "Claire Vo",
-          "description": "Watch now | 🎙️ Learn how Stripe scaled AI to everyone at a complex global company by building context, governance, and a shared skills platform directly into their internal agent",
-          "link": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
-          "publishedOn": "2026-09-07T12:04:19.000Z",
-          "wordCount": null,
-          "title": "Build your own company brain: the enterprise AI playbook from Stripe’s engineering team | Sharadh Krishnamurthy",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/214090220/4cccdb9b806152e3e331d85f76bfe4ca.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -2758,22 +2742,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!VAqU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb90a1518-c9a5-40a8-bea6-5a06003891ef_1536x1024.png"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/how-to-find-family-office-investors-claude-playbook-2026",
-          "author": "Ruben Dominguez",
-          "description": "The contacts nobody can find, the warm intros hiding in your own network, and outreach where every message is written for one person.",
-          "link": "https://www.thevccorner.com/p/how-to-find-family-office-investors-claude-playbook-2026",
-          "publishedOn": "2026-09-07T14:39:46.000Z",
-          "wordCount": null,
-          "title": "How to Find Family Office Investors: The Claude Playbook",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!Bz44!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38c77874-8b3f-4c18-8c2d-e61c05e79306_1272x716.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!Bz44!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38c77874-8b3f-4c18-8c2d-e61c05e79306_1272x716.webp"
         }
       ]
     },
@@ -2782,6 +2750,56 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/news/10-ai-agents-tried-to-improve-the-same-model-their-strategies-got-weird/",
+          "author": null,
+          "description": "Ten AI agents got the same model, the same compute budget and one job: make the AI better. Five days later, they were debugging crashes, blowing budgets, rejecting failed experiments and developing surprisingly different research strategies.",
+          "link": "https://www.theneuron.ai/news/10-ai-agents-tried-to-improve-the-same-model-their-strategies-got-weird/",
+          "publishedOn": "2026-10-06T17:29:05.782Z",
+          "wordCount": null,
+          "title": "10 AI Agents Tried to Improve the Same Model. Their Strategies Got Weird",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/utah-ai-acne-prescriptions-nolla-health/",
+          "author": null,
+          "description": "Utah is allowing Nolla Health to test AI-issued initial acne prescriptions under phased physician oversight. The bigger question is whether faster access can come with reliable safeguards and clear responsibility.",
+          "link": "https://www.theneuron.ai/explainer-articles/utah-ai-acne-prescriptions-nolla-health/",
+          "publishedOn": "2026-10-06T17:15:33.336Z",
+          "wordCount": null,
+          "title": "Utah Is Letting AI Write Acne Prescriptions. Who Takes Responsibility?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/newsletter/openai-will-watermark-chatgpt-text/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/openai-will-watermark-chatgpt-text/",
+          "publishedOn": "2026-10-06T09:40:15.264Z",
+          "wordCount": null,
+          "title": "😸 OpenAI will watermark ChatGPT text",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/microsofts-next-ai-reinvention-comes-with-a-meter/",
+          "author": null,
+          "description": "Microsoft is moving enterprise AI beyond the familiar per-seat subscription and toward a model where advanced agents rack up usage charges as they work. That makes AI spending easier to meter—but leaves buyers with a harder problem: proving that the work they paid for was actually worth it.",
+          "link": "https://www.theneuron.ai/news/microsofts-next-ai-reinvention-comes-with-a-meter/",
+          "publishedOn": "2026-10-06T09:28:11.526Z",
+          "wordCount": null,
+          "title": "Microsoft’s Next AI Reinvention Comes With a Meter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/reflection-ai-beam-chinese-open-source-models/",
+          "author": null,
+          "description": "Reflection AI’s Beam targets companies and governments that want a Western model they can run themselves. Its claims of lower inference compute await independent verification, with public weights planned for later in October.",
+          "link": "https://www.theneuron.ai/news/reflection-ai-beam-chinese-open-source-models/",
+          "publishedOn": "2026-10-06T09:04:07.407Z",
+          "wordCount": null,
+          "title": "Reflection AI Launches Beam to Challenge Chinese Open-Source Models",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/news/kyoto-vision-ai-powered-science/",
           "author": null,
@@ -4251,46 +4269,6 @@
           "wordCount": null,
           "title": "😺 AI drug reversed aging markers",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/openai-s-chief-scientist-is-calling-for-brakes/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/openai-s-chief-scientist-is-calling-for-brakes/",
-          "publishedOn": "2026-09-07T09:30:34.584Z",
-          "wordCount": null,
-          "title": "😺 OpenAI's chief scientist is calling for brakes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/news/openai-ai-research-acceleration-alignment-slowdown/",
-          "author": null,
-          "description": "OpenAI’s chief scientist says no lab is ready to responsibly scale AI at maximum speed much longer, even as the company races toward automated AI research and recursive self-improvement with an AI researcher planned for March of 2028.",
-          "link": "https://www.theneuron.ai/news/openai-ai-research-acceleration-alignment-slowdown/",
-          "publishedOn": "2026-09-06T23:43:12.118Z",
-          "wordCount": null,
-          "title": "OpenAI Chief Scientist on AI Recursive Self-Improvement",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/openai-linked-agents-hijacked-german-wiki/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/openai-linked-agents-hijacked-german-wiki/",
-          "publishedOn": "2026-09-06T18:02:25.334Z",
-          "wordCount": null,
-          "title": "😿 OpenAI-linked agents found a way around “read only”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/digest/ai-skill-of-the-day-digest-gpt-6-astra-tips/",
-          "author": null,
-          "description": "Seven practical GPT-6 Astra workflow tips from OpenAI practitioners, with copy-pastable prompts for cleaner instructions, better autonomy, and fewer unnecessary stops.",
-          "link": "https://www.theneuron.ai/digest/ai-skill-of-the-day-digest-gpt-6-astra-tips/",
-          "publishedOn": "2026-09-06T15:46:12.008Z",
-          "wordCount": null,
-          "title": "AI Skill of the Day Digest — GPT-6 Astra: 7 Better Ways to Work With It",
-          "imageUrl": null
         }
       ]
     },
@@ -4299,6 +4277,46 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/how-i-use-ai-to-learn-new-topics-faster-an-ai-assisted-learning-framework/",
+          "author": "Destin Gong",
+          "description": "A practical framework for turning AI into a thinking partner\nThe post How I Use AI to Learn New Topics Faster: An AI-Assisted Learning Framework appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-i-use-ai-to-learn-new-topics-faster-an-ai-assisted-learning-framework/",
+          "publishedOn": "2026-10-06T15:30:00.000Z",
+          "wordCount": null,
+          "title": "How I Use AI to Learn New Topics Faster: An AI-Assisted Learning Framework",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/a-google-team-measured-half-of-my-argument-and-left-the-other-half-open/",
+          "author": "Gal Arav",
+          "description": "Towards Spec-Driven Test Automation: Part 3\nThe post A Google Team Measured Half of My Argument, and Left the Other Half Open appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/a-google-team-measured-half-of-my-argument-and-left-the-other-half-open/",
+          "publishedOn": "2026-10-06T14:00:00.000Z",
+          "wordCount": null,
+          "title": "A Google Team Measured Half of My Argument, and Left the Other Half Open",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/how-to-make-a-cloud-read-a-drones-mind-and-cut-data-usage-by-94/",
+          "author": "Anubhab Banerjee",
+          "description": "Two copies of one small AI model keep a remote machine in sync with the cloud, with no constant streaming. A beginner-friendly world model tutorial in PyTorch.\nThe post How to Make a Cloud Read a Drone's Mind (and Cut Data Usage by 94%) appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-make-a-cloud-read-a-drones-mind-and-cut-data-usage-by-94/",
+          "publishedOn": "2026-10-06T12:30:00.000Z",
+          "wordCount": null,
+          "title": "How to Make a Cloud Read a Drone's Mind (and Cut Data Usage by 94%)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/i-hid-four-traps-in-a-forecasting-task-here-is-what-four-ai-assistants-did/",
+          "author": "Spyros Georgopoulos",
+          "description": "A controlled test of Gemini, DeepSeek, ChatGPT, and Claude on leakage, reporting delays, promotion effects, and structural breaks.\nThe post I Hid Four Traps in a Forecasting Task. Here Is What Four AI Assistants Did. appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/i-hid-four-traps-in-a-forecasting-task-here-is-what-four-ai-assistants-did/",
+          "publishedOn": "2026-10-06T11:00:00.000Z",
+          "wordCount": null,
+          "title": "I Hid Four Traps in a Forecasting Task. Here Is What Four AI Assistants Did.",
+          "imageUrl": null
+        },
         {
           "id": "https://towardsdatascience.com/?p=673377",
           "author": "Slava Efimov",
@@ -5238,26 +5256,6 @@
           "wordCount": 11901,
           "title": "Context Windows Don’t Know What’s Still True — I Built a Validity Layer That Does",
           "imageUrl": "https://assets.insightmediagroup.io/media/1788520758191_noazxn.webp"
-        },
-        {
-          "id": "https://towardsdatascience.com/i-vibe-coded-an-app-in-just-two-hours-and-regretted-it-the-next-day/",
-          "author": "Thuwarakesh Murallie",
-          "description": "I saved my day with a mere $52 bill. But you don't have to repeat my mistake.\nThe post I Vibe-Coded an App in Just Two Hours (And Regretted It the Next Day) appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/i-vibe-coded-an-app-in-just-two-hours-and-regretted-it-the-next-day/",
-          "publishedOn": "2026-09-07T14:00:01.000Z",
-          "wordCount": 3687,
-          "title": "I Vibe-Coded an App in Just Two Hours (And Regretted It the Next Day)",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1788472885830_flwfxd.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/why-most-multi-agent-systems-fail-even-when-evaluation-passes/",
-          "author": "Benjamin Nweke",
-          "description": "How to catch a payload that looks correct but isn't, using a watchdog pattern with working Python.\nThe post Why Most Multi-Agent Systems Fail Even When Evaluation Passes appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/why-most-multi-agent-systems-fail-even-when-evaluation-passes/",
-          "publishedOn": "2026-09-07T12:00:01.000Z",
-          "wordCount": 5359,
-          "title": "Why Most Multi-Agent Systems Fail Even When Evaluation Passes",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1788472869074_98pjgr.webp"
         }
       ]
     },
@@ -5272,6 +5270,36 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/0e9907d2b6f7",
+          "author": "Patrick Neeman",
+          "description": "",
+          "link": "https://uxdesign.cc/jev-how-to-use-it-for-better-faster-and-cheaper-user-decisions-in-ux-0e9907d2b6f7?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-10-06T23:35:43.000Z",
+          "wordCount": null,
+          "title": "Jev: How to use it for better, faster, and cheaper user decisions in UX",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6fa861f58097",
+          "author": "Kai Wong",
+          "description": "Sticky notes don’t help your team. They need your direction\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/why-designers-need-to-stop-reporting-and-start-recommending-at-work-6fa861f58097?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-10-06T23:35:06.000Z",
+          "wordCount": null,
+          "title": "Why designers need to stop reporting and start recommending at work",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f7a5182be6f1",
+          "author": "Bas Wallet",
+          "description": "",
+          "link": "https://uxdesign.cc/how-apps-know-us-better-than-we-do-and-influence-our-decisions-f7a5182be6f1?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-10-06T23:34:41.000Z",
+          "wordCount": null,
+          "title": "How apps know us better than we do and influence our decisions",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/c8de13aefc6f",
           "author": "Dora Czerna",
@@ -5981,26 +6009,6 @@
           "wordCount": null,
           "title": "Villains plan. Heroes react.",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/801f0da7bea6",
-          "author": "Fabricio Teixeira",
-          "description": "",
-          "link": "https://uxdesign.cc/ai-canvas-synthetic-self-the-prompt-is-the-product-801f0da7bea6?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-09-06T23:49:45.000Z",
-          "wordCount": null,
-          "title": "AI canvas, Synthetic self, The prompt is the product",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/8ea9f6024dca",
-          "author": "Anna Lefour",
-          "description": "",
-          "link": "https://uxdesign.cc/ai-in-product-teams-in-2026-the-growing-impact-on-collaboration-8ea9f6024dca?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-09-06T23:47:16.000Z",
-          "wordCount": null,
-          "title": "AI in Product teams: In 2026, the growing impact on collaboration",
-          "imageUrl": null
         }
       ]
     },
@@ -6052,6 +6060,106 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/26dcc5748417",
+          "author": "Aris Novar",
+          "description": "",
+          "link": "https://generativeai.pub/github-took-down-an-ai-torture-chamber-then-it-put-it-back-26dcc5748417?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-06T09:29:14.000Z",
+          "wordCount": null,
+          "title": "GitHub Took Down an “AI Torture Chamber.” Then It Put It Back.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/307466e28f8f",
+          "author": "Saiaashrith Gavini",
+          "description": "",
+          "link": "https://generativeai.pub/why-my-support-agent-missed-an-urgent-ticket-307466e28f8f?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-06T07:35:16.000Z",
+          "wordCount": null,
+          "title": "Why My Support Agent Missed an Urgent Ticket",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/530480c5dc70",
+          "author": "Karthick Thoppe",
+          "description": "Cloudflare, Amazon and Anthropic are making agent decisions smaller, faster and easier to audit\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/from-chatbots-to-deciders-agentic-ai-grows-up-530480c5dc70?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-06T07:32:58.000Z",
+          "wordCount": null,
+          "title": "From Chatbots to Deciders: Agentic AI grows up",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/bc3bdda56bae",
+          "author": "Maximilian Oliver",
+          "description": "The moment I stopped judging AI by a few impressive responses and started measuring what actually changed.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/i-started-testing-ai-outputs-like-software-and-my-good-prompts-didnt-look-so-good-anymore-bc3bdda56bae?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-06T07:30:18.000Z",
+          "wordCount": null,
+          "title": "I Started Testing AI Outputs Like Software — and My “Good” Prompts Didn’t Look So Good Anymore",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/350fd8ede000",
+          "author": "Pasquale Molinaro",
+          "description": "Zero-shot YOLO, a free local VLM, and a retrained YOLO on four datasets, with the code to run each one on free Kaggle GPUs\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/qwen3-8-27b-beat-zero-shot-yolo-with-no-labels-retrained-on-a-few-hundred-images-yolo-won-3-of-4-350fd8ede000?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-06T07:17:36.000Z",
+          "wordCount": null,
+          "title": "Qwen3.8-27B beat zero-shot YOLO with no labels. Retrained on a few hundred images, YOLO won 3 of 4",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f7733b7b4a07",
+          "author": "Delini",
+          "description": "Every AI answer hides a confidence​ score. I trained models from scratch to test whether it warns‌ you before a mistake, a‌nd measured…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/your-ais-confidence-score-is-lying-to-you-but-not-the-way-you-think-f7733b7b4a07?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-06T07:11:06.000Z",
+          "wordCount": null,
+          "title": "Your AI’s Confidence Score Is Lying to You, but Not the Way You Think",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/b4fb5eaa89ba",
+          "author": "Muhammad Mujtaba Raza",
+          "description": "What happens when you remove the LLM from the most expensive parts of your retrieval pipeline and replace it with a model that costs 400×…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/jev-rag-a-more-efficient-solution-for-rag-systems-b4fb5eaa89ba?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-06T05:59:01.000Z",
+          "wordCount": null,
+          "title": "JEV RAG: A More Efficient Solution for RAG Systems?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8c56c5211177",
+          "author": "Codebook Fusion",
+          "description": "Prompting Claude Code harder didn’t work for me. Verification, plan mode, and clean context did. Here is the workflow, with examples and…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/i-stopped-prompting-claude-code-this-worked-much-better-8c56c5211177?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-06T05:53:15.000Z",
+          "wordCount": null,
+          "title": "I Stopped Prompting Claude Code. This Worked Much Better",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f306fe3f4cc0",
+          "author": "Aya Mahmoud",
+          "description": "CVE-2026‑61500 in Rejetto HFS was fixed in July. Horizon3 detailed how Anthropic’s Mythos cracked it on September 30, the same week Google…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/admins-had-79-days-to-patch-a-mythos-found-bug-and-attacks-were-spotted-a-day-after-the-write-up-f306fe3f4cc0?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-06T05:49:54.000Z",
+          "wordCount": null,
+          "title": "Admins Had 79 Days to Patch a Mythos-Found Bug, and Attacks Were Spotted a Day After the Write-Up",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8c86daec197e",
+          "author": "Jahanzaib Ahmad",
+          "description": "",
+          "link": "https://generativeai.pub/reddits-ai-content-rate-looks-low-the-real-number-is-hidden-by-how-it-s-measured-8c86daec197e?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-06T05:41:20.000Z",
+          "wordCount": null,
+          "title": "Reddit’s AI Content Rate Looks Low. The Real Number Is Hidden By How It’s Measured",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/202b2b1d747f",
           "author": "Jim Clyde Monge",
