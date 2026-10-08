@@ -2383,38 +2383,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png"
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/how-we-built-grok-bot-in-a-month",
-          "author": "Lenny Rachitsky",
-          "description": "Listen now | Roman Ugarte of SpaceXAI on going from first line of code to the world’s hottest AI product in seven weeks, and what it really takes to win in the most competitive market ever",
-          "link": "https://www.lennysnewsletter.com/p/how-we-built-grok-bot-in-a-month",
-          "publishedOn": "2026-09-08T12:31:49.000Z",
-          "wordCount": null,
-          "title": "How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/214070217/74500da2d21a92872afb94e2f2b9094d.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
-          "author": "Claire Vo",
-          "description": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-          "link": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
-          "publishedOn": "2026-09-07T15:02:41.000Z",
-          "wordCount": null,
-          "title": "🎙️ How I AI: GPT-6 Astra is a banger + Stripe’s AI playbook + Grok Bot vs. OpenClaw: why I replaced my entire agent stack",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/0efca35d-b22d-4ad2-bce1-4ca72972d416_1456x1048.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/0efca35d-b22d-4ad2-bce1-4ca72972d416_1456x1048.png"
         }
       ]
     },
@@ -2423,6 +2391,22 @@
       "feedUrl": "https://www.thevccorner.com/feed",
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
+        {
+          "id": "https://www.thevccorner.com/p/for-three-years-only-companies-with",
+          "author": "Ruben Dominguez",
+          "description": "Notion, Oracle and Vanta paid cash to reach this audience. Seed startups can now pay with equity. Two seats a month.",
+          "link": "https://www.thevccorner.com/p/for-three-years-only-companies-with",
+          "publishedOn": "2026-10-07T15:07:32.000Z",
+          "wordCount": null,
+          "title": "For Three Years, Only Companies With Big Budgets Could Work With Me. Today That Changes",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/cb4a6552-018d-44e3-b19d-e88994637c57_1200x630.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/cb4a6552-018d-44e3-b19d-e88994637c57_1200x630.jpeg"
+        },
         {
           "id": "https://www.thevccorner.com/p/the-5t-ai-opportunity-the-only-reason",
           "author": "Ruben Dominguez",
@@ -2726,22 +2710,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!cx-s!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6da364f2-6b5a-4c35-a7a6-30264ad85c2b_1247x726.png"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/best-early-investors-follow-on-series-a",
-          "author": "Ruben Dominguez",
-          "description": "It looks like a loss of confidence. Most of the time, it's just fund math nobody explained to you.",
-          "link": "https://www.thevccorner.com/p/best-early-investors-follow-on-series-a",
-          "publishedOn": "2026-09-08T14:44:32.000Z",
-          "wordCount": null,
-          "title": "Why Your Best Early Investors Won't Always Follow You Into the Series A",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!VAqU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb90a1518-c9a5-40a8-bea6-5a06003891ef_1536x1024.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!VAqU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb90a1518-c9a5-40a8-bea6-5a06003891ef_1536x1024.png"
         }
       ]
     },
@@ -2750,6 +2718,86 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/microsoft-windows-hybrid-ai-agents-rtx-spark/",
+          "author": null,
+          "description": "Microsoft wants Windows PCs to carry out more AI work locally while using cloud models where they add value. New agent containers, intelligent routing, and RTX Spark hardware connect that vision, and our interviews explain the engineering and tradeoffs behind it.",
+          "link": "https://www.theneuron.ai/explainer-articles/microsoft-windows-hybrid-ai-agents-rtx-spark/",
+          "publishedOn": "2026-10-07T18:40:09.430Z",
+          "wordCount": null,
+          "title": "Microsoft Wants Your PC to Work While You Sleep, Surface Laptop Ultra Pre-Orders Open",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/explainer-articles/butterfly-ultrasound-chip-medical-ai/",
+          "author": null,
+          "description": "Medical AI depends on the information it receives. Butterfly Network is opening its ultrasound chip and software to developers, with applications ranging from guided procedures to Midjourney’s experimental body scanner.",
+          "link": "https://www.theneuron.ai/explainer-articles/butterfly-ultrasound-chip-medical-ai/",
+          "publishedOn": "2026-10-07T12:55:37.240Z",
+          "wordCount": null,
+          "title": "The Tiny Ultrasound Chip Behind Butterfly’s Bigger AI Bet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/mistrals-new-ai-model-puts-a-price-on-sovereignty/",
+          "author": null,
+          "description": "Mistral Large 4 is competitive with some of the world’s strongest AI models, but its bigger bet is giving enterprises more control over how AI runs. Whether that independence proves practical depends on something benchmarks cannot answer: who can actually afford to use it.",
+          "link": "https://www.theneuron.ai/news/mistrals-new-ai-model-puts-a-price-on-sovereignty/",
+          "publishedOn": "2026-10-07T11:28:02.177Z",
+          "wordCount": null,
+          "title": "Mistral’s New AI Model Puts a Price on Sovereignty",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/newsletter/q4-tna-email-send-2-of-3/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/q4-tna-email-send-2-of-3/",
+          "publishedOn": "2026-10-07T11:02:18.576Z",
+          "wordCount": null,
+          "title": "Q4 TNA Email - Send 2 of 3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/newsletter/q4-tna-email-send-3-of-3/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/q4-tna-email-send-3-of-3/",
+          "publishedOn": "2026-10-07T11:00:25.776Z",
+          "wordCount": null,
+          "title": "Q4 TNA Email - Send 3 of 3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/newsletter/openai-s-ai-produced-722-math-manuscripts/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/openai-s-ai-produced-722-math-manuscripts/",
+          "publishedOn": "2026-10-07T09:31:46.519Z",
+          "wordCount": null,
+          "title": "😺 OpenAI’s AI produced 722 math manuscripts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/dario-amodei-compensation-anthropic-ipo-ai-wealth/",
+          "author": null,
+          "description": "Dario Amodei received approximately $18 million in 2025 compensation. Anthropic’s potential IPO raises questions about how founder wealth and voting power could influence its public-benefit mission.",
+          "link": "https://www.theneuron.ai/news/dario-amodei-compensation-anthropic-ipo-ai-wealth/",
+          "publishedOn": "2026-10-07T07:33:51.198Z",
+          "wordCount": null,
+          "title": "Dario Amodei’s $18 Million Pay Opens a Bigger Question About AI Wealth",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/ai-top-1-percent-spend-903-a-month-a16z-data/",
+          "author": null,
+          "description": "a16z’s new consumer AI ranking shows 4.5% of eligible U.S. consumers in YipitData’s panel paid for ChatGPT, Gemini, or Claude, while the top 1% of AI payers averaged $903 a month.",
+          "link": "https://www.theneuron.ai/news/ai-top-1-percent-spend-903-a-month-a16z-data/",
+          "publishedOn": "2026-10-06T22:38:14.566Z",
+          "wordCount": null,
+          "title": "AI’s Top 1% of Payers Spend $903 a Month, a16z Data Shows",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/news/10-ai-agents-tried-to-improve-the-same-model-their-strategies-got-weird/",
           "author": null,
@@ -4259,16 +4307,6 @@
           "wordCount": null,
           "title": "Claude Managed Agents: What 3 Founders Learned Shipping Them",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/ai-drug-reversed-aging-markers/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/ai-drug-reversed-aging-markers/",
-          "publishedOn": "2026-09-08T09:40:10.996Z",
-          "wordCount": null,
-          "title": "😺 AI drug reversed aging markers",
-          "imageUrl": null
         }
       ]
     },
@@ -4277,6 +4315,46 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/how-wrong-is-your-marketing-mix-model-mmm/",
+          "author": "Ryan OSullivan",
+          "description": "A well-built MMM can still be wrong, because the spend it learns from never held the information it needs. This article tests whether changing when you spend, not how much, can fix that.\nThe post How Wrong Is Your Marketing Mix Model (MMM)? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-wrong-is-your-marketing-mix-model-mmm/",
+          "publishedOn": "2026-10-07T15:30:00.000Z",
+          "wordCount": null,
+          "title": "How Wrong Is Your Marketing Mix Model (MMM)?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/introduction-to-reinforcement-learning-multi-armed-bandit-simulation-in-python/",
+          "author": "Carolina Bento",
+          "description": "When machines learn by themselves\nThe post Introduction to Reinforcement Learning: Multi-Armed Bandit Simulation in Python appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/introduction-to-reinforcement-learning-multi-armed-bandit-simulation-in-python/",
+          "publishedOn": "2026-10-07T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Introduction to Reinforcement Learning: Multi-Armed Bandit Simulation in Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/the-consistency-quadrant-a-visual-guide-to-llm-reliability/",
+          "author": "Robert Martin-Short",
+          "description": "Mapping structural variance against execution outputs to estimate coding agent reliability without ground truth.\nThe post The Consistency Quadrant: A Visual Guide to LLM Reliability appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-consistency-quadrant-a-visual-guide-to-llm-reliability/",
+          "publishedOn": "2026-10-07T12:30:00.000Z",
+          "wordCount": null,
+          "title": "The Consistency Quadrant: A Visual Guide to LLM Reliability",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=669067",
+          "author": "Samit Ganguly",
+          "description": "I put a physics-informed neural network up against a plain finite-difference solver twice: once in 1D and once in 5D. The winner changed.\nThe post When Do PINNs Beat Classical Numerical Methods? A 1D vs 5D Experiment appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/when-do-pinns-beat-classical-numerical-methods-a-1d-vs-5d-experiment/",
+          "publishedOn": "2026-10-07T11:00:00.000Z",
+          "wordCount": null,
+          "title": "When Do PINNs Beat Classical Numerical Methods? A 1D vs 5D Experiment",
+          "imageUrl": null
+        },
         {
           "id": "https://towardsdatascience.com/how-i-use-ai-to-learn-new-topics-faster-an-ai-assisted-learning-framework/",
           "author": "Destin Gong",
@@ -5236,26 +5314,6 @@
           "wordCount": 4439,
           "title": "A Beginner’s Guide to World Models",
           "imageUrl": "https://assets.insightmediagroup.io/media/1787815057461_e8hnid.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/introducing-shipai/",
-          "author": "TDS Editors",
-          "description": "Towards Data Science launches a video showcase for real-world AI work\nThe post Introducing ShipAI appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/introducing-shipai/",
-          "publishedOn": "2026-09-08T13:41:29.000Z",
-          "wordCount": 1667,
-          "title": "Introducing ShipAI",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1788531404847_lruwmt.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/context-windows-dont-know-whats-still-true-i-built-a-validity-layer-that-does/",
-          "author": "Emmimal P Alexander",
-          "description": "A context window can be technically complete and still describe a world that no longer exists. I built a deterministic benchmark to measure the cost of acting on stale context.\nThe post Context Windows Don’t Know What’s Still True — I Built a Validity Layer That Does appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/context-windows-dont-know-whats-still-true-i-built-a-validity-layer-that-does/",
-          "publishedOn": "2026-09-08T11:00:01.000Z",
-          "wordCount": 11901,
-          "title": "Context Windows Don’t Know What’s Still True — I Built a Validity Layer That Does",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1788520758191_noazxn.webp"
         }
       ]
     },
@@ -5270,6 +5328,26 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/823a58fb4192",
+          "author": "Gale Robins",
+          "description": "",
+          "link": "https://uxdesign.cc/bounded-delegation-how-much-authority-should-ai-have-823a58fb4192?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-10-07T19:54:06.000Z",
+          "wordCount": null,
+          "title": "Bounded delegation: How much authority should AI have?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1c4f6e8ef2cc",
+          "author": "Melinda Jacobs",
+          "description": "Part 1 of 3 on designing systems that inspire rather than manipulate.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/beyond-streaks-and-nudges-ethical-gamification-ai-design-1c4f6e8ef2cc?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-10-07T19:48:49.000Z",
+          "wordCount": null,
+          "title": "Beyond streaks and nudges: ethical gamification & AI design",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/0e9907d2b6f7",
           "author": "Patrick Neeman",
@@ -5958,56 +6036,6 @@
           "publishedOn": "2026-09-08T20:34:18.000Z",
           "wordCount": null,
           "title": "Persistent lessons in human-centered automation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/59c531521346",
-          "author": "Kai Wong",
-          "description": "How Skill.MD helps you spell out the depth of your work for your team and organization\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/if-you-can-externalize-your-design-process-you-can-win-back-your-time-59c531521346?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-09-08T11:13:56.000Z",
-          "wordCount": null,
-          "title": "If you can externalize your design process, you can win back your time",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/201913dc69ed",
-          "author": "Takuma Kakehi",
-          "description": "Nobody can see a probability distribution. You only ever see a sequence, and sequences are where human intuition falls apart.\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/tetris-had-to-cheat-to-feel-random-201913dc69ed?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-09-07T22:27:53.000Z",
-          "wordCount": null,
-          "title": "Tetris had to cheat to feel random",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/bfe8881da3c2",
-          "author": "Adrian Levy",
-          "description": "What a 1960 study of city maps explains about AI context.\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/the-model-is-behaving-impeccably-your-information-architecture-isnt-bfe8881da3c2?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-09-07T22:27:32.000Z",
-          "wordCount": null,
-          "title": "The model is behaving impeccably. Your information architecture isn’t.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/14a4f1f26a75",
-          "author": "Vadym Grin",
-          "description": "A framework for emotional design that survives contact with an engagement dashboard\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/the-sycophancy-trap-what-happens-when-feelings-become-the-metric-14a4f1f26a75?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-09-07T22:27:01.000Z",
-          "wordCount": null,
-          "title": "The sycophancy trap: what happens when feelings become the metric",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/ee012a510ecb",
-          "author": "Wira Indra Kusuma",
-          "description": "What product teams should borrow from the people who want to take over the world.\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/villains-plan-heroes-react-ee012a510ecb?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-09-07T22:26:09.000Z",
-          "wordCount": null,
-          "title": "Villains plan. Heroes react.",
           "imageUrl": null
         }
       ]
@@ -8258,136 +8286,6 @@
           "publishedOn": "2026-09-09T00:03:48.000Z",
           "wordCount": null,
           "title": "Give Your Local LLM Private Search and Anti-Detect Browsing with SearXNG and Camofox",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/6073eb406eca",
-          "author": "Syed Shahrukh Haider",
-          "description": "",
-          "link": "https://generativeai.pub/citations-over-cosine-6073eb406eca?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-08T12:54:49.000Z",
-          "wordCount": null,
-          "title": "Citations Over Cosine",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/76f1b85aa2fe",
-          "author": "Gidon Lev Eli",
-          "description": "",
-          "link": "https://generativeai.pub/google-goes-ai-first-how-to-track-visibility-beyond-traditional-seo-76f1b85aa2fe?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-08T12:41:57.000Z",
-          "wordCount": null,
-          "title": "Google Goes AI-First: How to Track Visibility Beyond Traditional SEO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/93110626055a",
-          "author": "Jeet Laha",
-          "description": "",
-          "link": "https://generativeai.pub/did-openai-just-achieve-agi-the-terrifying-power-of-gpt-6-astras-computer-use-93110626055a?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-08T12:35:10.000Z",
-          "wordCount": null,
-          "title": "Did OpenAI Just Achieve AGI? The Terrifying Power of GPT-6 Astra’s “Computer Use”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f4eb8c28df85",
-          "author": "Abul Kalam Azad",
-          "description": "The bottleneck in building autonomous agentic systems isn’t model intelligence. It’s distributed state, idempotency, execution boundaries…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/why-backend-architecture-matters-more-than-your-ai-prompts-f4eb8c28df85?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-08T00:38:04.000Z",
-          "wordCount": null,
-          "title": "Why Backend Architecture Matters More Than Your AI Prompts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9ed05be99b62",
-          "author": "PIXIPACE",
-          "description": "The smartest model in the world still can’t do your job if it can’t log into your tools. That’s the unglamorous problem eating the agentic…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/your-ai-agent-isnt-dumb-it-s-locked-out-9ed05be99b62?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-08T00:35:53.000Z",
-          "wordCount": null,
-          "title": "Your AI Agent Isn’t Dumb. It’s Locked Out.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/053f89152844",
-          "author": "Mostafa Gamal",
-          "description": "We’re Moving from the Age of Scaling to the Age of Research — What This Means for AI?\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/from-benchmarks-to-reality-inside-ilya-sutskevers-new-age-of-ai-research-053f89152844?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-08T00:32:09.000Z",
-          "wordCount": null,
-          "title": "From Benchmarks to Reality: Inside Ilya Sutskever’s New Age of AI Research",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/93dcb05ef437",
-          "author": "Mostafa Gamal",
-          "description": "Why 306 AI Teams Chose Simplicity.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/the-boring-truth-that-wins-in-production-why-306-ai-teams-chose-simplicity-93dcb05ef437?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-08T00:28:15.000Z",
-          "wordCount": null,
-          "title": "The Boring Truth That Wins in Production",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/26ec422fd8db",
-          "author": "S Sankar",
-          "description": "I tried to design a banking chatbot agent, understanding MCP, tool calls, memory, and the harness for the agent.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/i-designed-an-agentic-ai-system-end-to-end-26ec422fd8db?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-08T00:19:09.000Z",
-          "wordCount": null,
-          "title": "I designed an Agentic AI system, end-to-end.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/74eae2c0b11e",
-          "author": "Raj kumar",
-          "description": "How modern enterprises are leveraging stateful, multi-agent architectures to transform decision-making, automate complex workflows, and…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/architecting-autonomous-ai-systems-the-complete-guide-to-building-production-grade-agentic-74eae2c0b11e?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-08T00:15:14.000Z",
-          "wordCount": null,
-          "title": "Architecting Autonomous AI Systems: The Complete Guide to Building Production-Grade Agentic…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/7452364d61db",
-          "author": "Mohit Sewak, Ph.D.",
-          "description": "",
-          "link": "https://generativeai.pub/why-80-of-ai-agents-breach-their-intended-scope-7452364d61db?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-07T23:42:27.000Z",
-          "wordCount": null,
-          "title": "Why 80% of AI Agents Breach Their Intended Scope",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/e725cbf2651b",
-          "author": "Nazmul Hasan",
-          "description": "LanceDB’s one-line create_index() took 190 seconds to build and lost 473 answers. The database everyone tells you to outgrow lost 115.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/pgvector-vs-chroma-vs-lancedb-vs-faiss-i-benchmarked-all-4-defaults-e725cbf2651b?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-07T23:34:12.000Z",
-          "wordCount": null,
-          "title": "pgvector vs Chroma vs LanceDB vs FAISS: I Benchmarked All 4 Defaults.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9fe9565f4fb0",
-          "author": "Marcus Ma",
-          "description": "",
-          "link": "https://generativeai.pub/the-most-important-part-of-openais-alien-mind-warning-is-observability-9fe9565f4fb0?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-07T23:30:09.000Z",
-          "wordCount": null,
-          "title": "The Most Important Part of OpenAI’s “Alien Mind” Warning Is Observability",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/5c6470c5310e",
-          "author": "Veera RS",
-          "description": "A practical guide to the four ways agents get knowledge beyond their training data, and exactly when to reach for each one.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/skills-vs-mcp-vs-rag-vs-memory-how-to-actually-give-ai-agents-the-knowledge-they-need-5c6470c5310e?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-07T23:26:40.000Z",
-          "wordCount": null,
-          "title": "Skills vs. MCP vs. RAG vs. Memory: How to Actually Give AI Agents the Knowledge They Need",
           "imageUrl": null
         }
       ]
