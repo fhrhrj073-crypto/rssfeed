@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-10-10T02:51:53.615Z</updated>
+    <updated>2026-10-11T02:20:48.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[973 VC Funds Under $200M, Cleaned and Scored: The Fresh Fund Sheet and the Fit Finder Prompt]]></title>
+        <id>https://www.thevccorner.com/p/vc-funds-under-200m-list-2026</id>
+        <link href="https://www.thevccorner.com/p/vc-funds-under-200m-list-2026"/>
+        <updated>2026-10-10T15:49:36.000Z</updated>
+        <summary type="html"><![CDATA[148 of these firms closed a fund since 2024. Each comes researched, with its focus, stage and a starting score.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Can AI Agents Read Untrusted Sources Safely?]]></title>
+        <id>https://towardsdatascience.com/how-can-ai-agents-read-untrusted-sources-safely/</id>
+        <link href="https://towardsdatascience.com/how-can-ai-agents-read-untrusted-sources-safely/"/>
+        <updated>2026-10-10T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Add architectural guardrails around how agents read untrusted sources and use them in the workflow.
+The post How Can AI Agents Read Untrusted Sources Safely? appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Thuwarakesh Murallie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🧠 Community Wisdom: Community Wisdom Top Contributors Summer Class 2026 + ML recommendation systems, getting back into product after being fired, deciding when to quit a side project, and more]]></title>
+        <id>https://www.lennysnewsletter.com/p/community-wisdom-community-wisdom</id>
+        <link href="https://www.lennysnewsletter.com/p/community-wisdom-community-wisdom"/>
+        <updated>2026-10-10T13:01:38.000Z</updated>
+        <summary type="html"><![CDATA[Community Wisdom 301]]></summary>
+        <author>
+            <name>Kiyani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Temperature 0 Isn't Deterministic]]></title>
+        <id>https://towardsdatascience.com/why-temperature-0-isnt-deterministic/</id>
+        <link href="https://towardsdatascience.com/why-temperature-0-isnt-deterministic/"/>
+        <updated>2026-10-10T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A one-line formula for how often an LLM's top token flips, and why identical
+completions fall apart after about a hundred tokens
+The post Why Temperature 0 Isn't Deterministic appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Utkarsh Mangal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Designing for an idea before it exists]]></title>
         <id>https://medium.com/p/ecd8cb19999a</id>
@@ -7370,45 +7413,12 @@ The post Coding Agents Don't Need Longer History — They Need Intent Continuity
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Researcher, Jacob Coxon, Fears that AI “Could Kill Us All Within a Decade”]]></title>
-        <id>https://medium.com/p/d3b67e65a8e4</id>
-        <link href="https://generativeai.pub/ai-researcher-jacob-coxon-fears-that-ai-could-kill-us-all-within-a-decade-d3b67e65a8e4?source=rss----440100e76000---4"/>
-        <updated>2026-09-11T14:06:15.000Z</updated>
-        <summary type="html"><![CDATA[Jacob Coxon helped train the AI models. Then he quit and told 90 million people they should be scared.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Jim Clyde Monge</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Build a Local AI Agent in 10 Minutes using Python]]></title>
         <id>https://www.youtube.com/watch?v=ByWCsa8DbF8</id>
         <link href="https://www.youtube.com/watch?v=ByWCsa8DbF8"/>
         <updated>2026-09-11T14:00:35.000Z</updated>
         <author>
             <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Software Design in the Age of AI]]></title>
-        <id>https://towardsdatascience.com/software-design-in-the-age-of-ai/</id>
-        <link href="https://towardsdatascience.com/software-design-in-the-age-of-ai/"/>
-        <updated>2026-09-11T14:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Why AI coding makes software design more important
-The post Software Design in the Age of AI appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Devesh Rajadhyax</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 95% Illusion: Why Your Confidence Interval Isn't What You Think It Is]]></title>
-        <id>https://towardsdatascience.com/the-95-illusion-why-your-confidence-interval-isnt-what-you-think-it-is/</id>
-        <link href="https://towardsdatascience.com/the-95-illusion-why-your-confidence-interval-isnt-what-you-think-it-is/"/>
-        <updated>2026-09-11T12:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Frequentist confidence intervals and Bayesian credible intervals answer different questions, and confusing them can distort product decisions
-The post The 95% Illusion: Why Your Confidence Interval Isn't What You Think It Is appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ananya Bhattacharyya</name>
         </author>
     </entry>
     <entry>
@@ -7431,35 +7441,6 @@ The post The 95% Illusion: Why Your Confidence Interval Isn't What You Think It 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Demystifying Anthropic's J-Space: A Mathematical Primer]]></title>
-        <id>https://towardsdatascience.com/demystifying-anthropics-j-space-a-mathematical-primer/</id>
-        <link href="https://towardsdatascience.com/demystifying-anthropics-j-space-a-mathematical-primer/"/>
-        <updated>2026-09-11T11:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Clarifying the math behind Anthropic’s representation workspace
-The post Demystifying Anthropic's J-Space: A Mathematical Primer appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Pirmin Lemberger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😺 Did OpenAI just speedrun another Millennium problem?!]]></title>
-        <id>https://www.theneuron.ai/newsletter/did-openai-just-speedrun-another-millennium-problem/</id>
-        <link href="https://www.theneuron.ai/newsletter/did-openai-just-speedrun-another-millennium-problem/"/>
-        <updated>2026-09-11T09:31:16.368Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Consistent Anime Characters from Reference Images]]></title>
-        <id>https://medium.com/p/dad84676bfcc</id>
-        <link href="https://generativeai.pub/how-to-create-consistent-anime-characters-from-reference-images-dad84676bfcc?source=rss----440100e76000---4"/>
-        <updated>2026-09-11T05:55:29.000Z</updated>
-        <author>
-            <name>Jim Clyde Monge</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Simulated Fruit Fly Is Learning to Drive]]></title>
         <id>https://www.youtube.com/shorts/B50IGSrfpbQ</id>
         <link href="https://www.youtube.com/shorts/B50IGSrfpbQ"/>
@@ -7467,27 +7448,6 @@ The post Demystifying Anthropic's J-Space: A Mathematical Primer appeared first 
         <summary type="html"><![CDATA[Join My Newsletter for Regular AI Updates 👇🏼https://forwardfuture.comMy Links 🔗👉🏻 X: https://x.com/matthewberman👉🏻 Forward Future X: https://x.com/for...]]></summary>
         <author>
             <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything That Happened in AI Today (Thursday, September 10, 2026)]]></title>
-        <id>https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-september-10-2026/</id>
-        <link href="https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-september-10-2026/"/>
-        <updated>2026-09-11T01:15:18.319Z</updated>
-        <summary type="html"><![CDATA[OpenAI said it made substantial progress on another Millennium Prize problem; Anthropic detailed cyber, surveillance and biological misuse; California signed AI-auditor laws; OpenAI launched an Agents API and finance workspace; UMG and ElevenLabs licensed fan remixes.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your AI Therapist is Ruining Your Relationships]]></title>
-        <id>https://medium.com/p/5b47a8cd7ba2</id>
-        <link href="https://generativeai.pub/your-ai-therapist-is-ruining-your-relationships-5b47a8cd7ba2?source=rss----440100e76000---4"/>
-        <updated>2026-09-11T01:13:39.000Z</updated>
-        <summary type="html"><![CDATA[Understanding AI’s people-pleasing problem and what you can do about it.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>James Wilkins</name>
         </author>
     </entry>
     <entry>
@@ -7501,140 +7461,12 @@ Continue reading on Generative AI »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Claude Code Runs Inside Apple’s Sandbox on Your Mac.]]></title>
-        <id>https://medium.com/p/7e941408b241</id>
-        <link href="https://generativeai.pub/claude-code-runs-inside-apples-sandbox-on-your-mac-7e941408b241?source=rss----440100e76000---4"/>
-        <updated>2026-09-11T01:06:58.000Z</updated>
-        <summary type="html"><![CDATA[Two mechanisms explain nearly every unexplained behaviour: the boundary Seatbelt enforces, and the prefix the cache matches.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Anup Karanjkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22 Ways to Get More Out of Claude]]></title>
-        <id>https://medium.com/p/29608e7daa9a</id>
-        <link href="https://generativeai.pub/22-ways-to-get-more-out-of-claude-29608e7daa9a?source=rss----440100e76000---4"/>
-        <updated>2026-09-11T01:01:09.000Z</updated>
-        <summary type="html"><![CDATA[Less context, better questions, and the features hiding in plain sight.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Ruqaiya Beguwala</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 AI Hype Cycle Reality Check]]></title>
-        <id>https://medium.com/p/c5848b1d64a9</id>
-        <link href="https://generativeai.pub/2026-ai-hype-cycle-reality-check-c5848b1d64a9?source=rss----440100e76000---4"/>
-        <updated>2026-09-11T00:57:34.000Z</updated>
-        <summary type="html"><![CDATA[A Field Guide to Surviving the Gartner Swoosh
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Cezary Gesikowski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One Image, Four Versions: The ChatGPT Commands I Keep Reusing]]></title>
-        <id>https://medium.com/p/e1f291229dad</id>
-        <link href="https://generativeai.pub/four-chatgpt-slash-commands-image-editing-e1f291229dad?source=rss----440100e76000---4"/>
-        <updated>2026-09-11T00:53:23.000Z</updated>
-        <author>
-            <name>Chris Studio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini in Chrome Is Competing for Your Next Click]]></title>
-        <id>https://medium.com/p/f3b767117988</id>
-        <link href="https://generativeai.pub/gemini-in-chrome-is-competing-for-your-next-click-f3b767117988?source=rss----440100e76000---4"/>
-        <updated>2026-09-11T00:47:23.000Z</updated>
-        <author>
-            <name>Elena Brooks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Benchmarking Agents Before Release]]></title>
-        <id>https://medium.com/p/d211dfff80cb</id>
-        <link href="https://generativeai.pub/benchmarking-agents-before-release-d211dfff80cb?source=rss----440100e76000---4"/>
-        <updated>2026-09-11T00:39:04.000Z</updated>
-        <author>
-            <name>Jesse Owen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built a Newsletter Page With Gemini. Here’s What Needed Fixing.]]></title>
-        <id>https://medium.com/p/0c1da5cb79a5</id>
-        <link href="https://generativeai.pub/i-built-a-newsletter-page-with-gemini-heres-what-needed-fixing-0c1da5cb79a5?source=rss----440100e76000---4"/>
-        <updated>2026-09-11T00:31:01.000Z</updated>
-        <author>
-            <name>Nina Chen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub for Beginners: How to Use It With AI Coding Agents]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/github-for-beginners-how-to-use-it-with-ai-coding-agents/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/github-for-beginners-how-to-use-it-with-ai-coding-agents/"/>
-        <updated>2026-09-11T00:26:41.224Z</updated>
-        <summary type="html"><![CDATA[GitHub feels complicated until you realize your AI coding agent can handle most of it for you. Here’s our complete beginner’s guide to repos, commits, branches, forks, pull requests, deployment, security, Copilot, Claude Code, Codex, and more, with timestamps from our live walkthrough with GitHub’s Cassidy Williams.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does More Orchestration Make Better Research?]]></title>
-        <id>https://medium.com/p/85663ae5d2bb</id>
-        <link href="https://generativeai.pub/does-more-orchestration-make-better-research-85663ae5d2bb?source=rss----440100e76000---4"/>
-        <updated>2026-09-11T00:23:10.000Z</updated>
-        <author>
-            <name>Dr Peter McCann Strain</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[世界AI新聞快訊（2026年9月11日）｜iPhone原相可驗證；Claude再爆越界事故]]></title>
         <id>https://www.youtube.com/watch?v=hf0S43HxcZ8</id>
         <link href="https://www.youtube.com/watch?v=hf0S43HxcZ8"/>
         <updated>2026-09-11T00:00:04.000Z</updated>
         <author>
             <name>文恩澄 Rannes Man</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 voice AIUX patterns]]></title>
-        <id>https://medium.com/p/81324c8feaa0</id>
-        <link href="https://uxdesign.cc/8-voice-aiux-patterns-81324c8feaa0?source=rss----138adf9c44c---4"/>
-        <updated>2026-09-10T22:40:55.000Z</updated>
-        <author>
-            <name>Sharang Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How authentication friction frustrates users — and how to stop it]]></title>
-        <id>https://medium.com/p/552635e50a77</id>
-        <link href="https://uxdesign.cc/how-authentication-friction-frustrates-users-and-how-to-stop-it-552635e50a77?source=rss----138adf9c44c---4"/>
-        <updated>2026-09-10T22:39:57.000Z</updated>
-        <summary type="html"><![CDATA[We’ve been doing authentication all wrong. Here’s how to fix it.
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Zeeshan Khalid</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Death of the iPod]]></title>
-        <id>https://medium.com/p/1f22d3d1d065</id>
-        <link href="https://uxdesign.cc/death-of-the-ipod-1f22d3d1d065?source=rss----138adf9c44c---4"/>
-        <updated>2026-09-10T22:38:24.000Z</updated>
-        <summary type="html"><![CDATA[The hacks that made chip-stored sound a standard feature of digital interaction
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Neel Dozome</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Five eras of UX design and the lessons to keep in the AI era]]></title>
-        <id>https://medium.com/p/d76a548747a9</id>
-        <link href="https://uxdesign.cc/five-eras-of-ux-design-and-the-lessons-to-keep-in-the-ai-era-d76a548747a9?source=rss----138adf9c44c---4"/>
-        <updated>2026-09-10T22:38:12.000Z</updated>
-        <author>
-            <name>Patrick Neeman</name>
         </author>
     </entry>
     <entry>
@@ -7654,64 +7486,6 @@ Continue reading on UX Collective »]]></summary>
         <summary type="html"><![CDATA[Get $100 in free Hyperagent credits: https://www.hyperagent.com/forwardfuture100Join My Newsletter for Regular AI Updates 👇🏼https://forwardfuture.comMy Lin...]]></summary>
         <author>
             <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pulse: tech companies move to open AI models]]></title>
-        <id>6aa26df1e3d0390001d47f92</id>
-        <link href="https://blog.pragmaticengineer.com/the-pulse-tech-companies-move-to-open-ai-models/"/>
-        <updated>2026-09-10T17:22:31.000Z</updated>
-        <summary type="html"><![CDATA[Uber, Pinterest, Stripe, Coinbase, Ramp, and AT&T are making large savings on their AI bills by dropping proprietary models and using smart model routing.]]></summary>
-        <author>
-            <name>Ivan Klaric</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[144 Family Offices That Cut Pre-Seed Checks]]></title>
-        <id>https://www.thevccorner.com/p/144-family-offices-that-cut-pre-seed-eda</id>
-        <link href="https://www.thevccorner.com/p/144-family-offices-that-cut-pre-seed-eda"/>
-        <updated>2026-09-10T17:13:23.000Z</updated>
-        <summary type="html"><![CDATA[Named partners, LinkedIn profiles, sector tags and locations. Plus the outreach system that turns a list into replies.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😺 LIVE NOW: GitHub for total beginners]]></title>
-        <id>https://www.theneuron.ai/newsletter/live-github-for-total-beginners-cassidy-williams/</id>
-        <link href="https://www.theneuron.ai/newsletter/live-github-for-total-beginners-cassidy-williams/"/>
-        <updated>2026-09-10T17:02:19.168Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A short history of logos made of data]]></title>
-        <id>https://medium.com/p/bd6a89e732ce</id>
-        <link href="https://uxdesign.cc/a-short-history-of-logos-made-of-data-bd6a89e732ce?source=rss----138adf9c44c---4"/>
-        <updated>2026-09-10T15:57:51.000Z</updated>
-        <author>
-            <name>Louis Charron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your first draft now has a log]]></title>
-        <id>https://medium.com/p/ee378eb7b3e9</id>
-        <link href="https://uxdesign.cc/your-first-draft-now-has-a-log-ee378eb7b3e9?source=rss----138adf9c44c---4"/>
-        <updated>2026-09-10T15:57:17.000Z</updated>
-        <author>
-            <name>Pedro A. Brêtas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to 5x Your Communication Effectiveness with Claude Code]]></title>
-        <id>https://towardsdatascience.com/how-to-5x-your-communication-effectiveness-with-claude-code/</id>
-        <link href="https://towardsdatascience.com/how-to-5x-your-communication-effectiveness-with-claude-code/"/>
-        <updated>2026-09-10T15:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Better understand the intent of your coding agents
-The post How to 5x Your Communication Effectiveness with Claude Code appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Eivind Kjosbakken</name>
         </author>
     </entry>
     <entry>

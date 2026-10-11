@@ -2117,6 +2117,22 @@
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
         {
+          "id": "https://www.lennysnewsletter.com/p/community-wisdom-community-wisdom",
+          "author": "Kiyani",
+          "description": "Community Wisdom 301",
+          "link": "https://www.lennysnewsletter.com/p/community-wisdom-community-wisdom",
+          "publishedOn": "2026-10-10T13:01:38.000Z",
+          "wordCount": null,
+          "title": "🧠 Community Wisdom: Community Wisdom Top Contributors Summer Class 2026 + ML recommendation systems, getting back into product after being fired, deciding when to quit a side project, and more",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png"
+        },
+        {
           "id": "https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how",
           "author": "Lenny Rachitsky",
           "description": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
@@ -2492,6 +2508,22 @@
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
         {
+          "id": "https://www.thevccorner.com/p/vc-funds-under-200m-list-2026",
+          "author": "Ruben Dominguez",
+          "description": "148 of these firms closed a fund since 2024. Each comes researched, with its focus, stage and a starting score.",
+          "link": "https://www.thevccorner.com/p/vc-funds-under-200m-list-2026",
+          "publishedOn": "2026-10-10T15:49:36.000Z",
+          "wordCount": null,
+          "title": "973 VC Funds Under $200M, Cleaned and Scored: The Fresh Fund Sheet and the Fit Finder Prompt",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/999cc1a1-4229-44b7-b0a0-dcdec03116d2_1200x628.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/999cc1a1-4229-44b7-b0a0-dcdec03116d2_1200x628.webp"
+        },
+        {
           "id": "https://www.thevccorner.com/p/venture-capital-mistakes-great-investors-repeat",
           "author": "Ruben Dominguez",
           "description": "Some of the sharpest investors alive passed on the exact companies that made their rivals legendary, and the same reasoning keeps coming back.",
@@ -2810,22 +2842,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/QVnU5lGlKE8"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/144-family-offices-that-cut-pre-seed-eda",
-          "author": "Ruben Dominguez",
-          "description": "Named partners, LinkedIn profiles, sector tags and locations. Plus the outreach system that turns a list into replies.",
-          "link": "https://www.thevccorner.com/p/144-family-offices-that-cut-pre-seed-eda",
-          "publishedOn": "2026-09-10T17:13:23.000Z",
-          "wordCount": null,
-          "title": "144 Family Offices That Cut Pre-Seed Checks",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/42a24cf0-a2c3-4f2d-b83a-38d79524a3c4_1200x736.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/42a24cf0-a2c3-4f2d-b83a-38d79524a3c4_1200x736.jpeg"
         }
       ]
     },
@@ -4353,46 +4369,6 @@
           "wordCount": null,
           "title": "AI Recursive Self-Improvement, Explained: The Real Bottlenecks",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/did-openai-just-speedrun-another-millennium-problem/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/did-openai-just-speedrun-another-millennium-problem/",
-          "publishedOn": "2026-09-11T09:31:16.368Z",
-          "wordCount": null,
-          "title": "😺 Did OpenAI just speedrun another Millennium problem?!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-september-10-2026/",
-          "author": null,
-          "description": "OpenAI said it made substantial progress on another Millennium Prize problem; Anthropic detailed cyber, surveillance and biological misuse; California signed AI-auditor laws; OpenAI launched an Agents API and finance workspace; UMG and ElevenLabs licensed fan remixes.",
-          "link": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-september-10-2026/",
-          "publishedOn": "2026-09-11T01:15:18.319Z",
-          "wordCount": null,
-          "title": "Everything That Happened in AI Today (Thursday, September 10, 2026)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/github-for-beginners-how-to-use-it-with-ai-coding-agents/",
-          "author": null,
-          "description": "GitHub feels complicated until you realize your AI coding agent can handle most of it for you. Here’s our complete beginner’s guide to repos, commits, branches, forks, pull requests, deployment, security, Copilot, Claude Code, Codex, and more, with timestamps from our live walkthrough with GitHub’s Cassidy Williams.",
-          "link": "https://www.theneuron.ai/explainer-articles/github-for-beginners-how-to-use-it-with-ai-coding-agents/",
-          "publishedOn": "2026-09-11T00:26:41.224Z",
-          "wordCount": null,
-          "title": "GitHub for Beginners: How to Use It With AI Coding Agents",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/live-github-for-total-beginners-cassidy-williams/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/live-github-for-total-beginners-cassidy-williams/",
-          "publishedOn": "2026-09-10T17:02:19.168Z",
-          "wordCount": null,
-          "title": "😺 LIVE NOW: GitHub for total beginners",
-          "imageUrl": null
         }
       ]
     },
@@ -4401,6 +4377,26 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/how-can-ai-agents-read-untrusted-sources-safely/",
+          "author": "Thuwarakesh Murallie",
+          "description": "Add architectural guardrails around how agents read untrusted sources and use them in the workflow.\nThe post How Can AI Agents Read Untrusted Sources Safely? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-can-ai-agents-read-untrusted-sources-safely/",
+          "publishedOn": "2026-10-10T14:00:00.000Z",
+          "wordCount": null,
+          "title": "How Can AI Agents Read Untrusted Sources Safely?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/why-temperature-0-isnt-deterministic/",
+          "author": "Utkarsh Mangal",
+          "description": "A one-line formula for how often an LLM's top token flips, and why identical\ncompletions fall apart after about a hundred tokens\nThe post Why Temperature 0 Isn't Deterministic appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/why-temperature-0-isnt-deterministic/",
+          "publishedOn": "2026-10-10T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Why Temperature 0 Isn't Deterministic",
+          "imageUrl": null
+        },
         {
           "id": "https://towardsdatascience.com/can-typesafes-jev-make-ai-agents-safer-without-another-llm/",
           "author": "Benjamin Nweke",
@@ -5340,46 +5336,6 @@
           "wordCount": 8498,
           "title": "Coding Agents Don't Need Longer History — They Need Intent Continuity",
           "imageUrl": "https://assets.insightmediagroup.io/media/1789012369567_r109sa.webp"
-        },
-        {
-          "id": "https://towardsdatascience.com/software-design-in-the-age-of-ai/",
-          "author": "Devesh Rajadhyax",
-          "description": "Why AI coding makes software design more important\nThe post Software Design in the Age of AI appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/software-design-in-the-age-of-ai/",
-          "publishedOn": "2026-09-11T14:00:02.000Z",
-          "wordCount": 8409,
-          "title": "Software Design in the Age of AI",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1788876230373_1b47e6.webp"
-        },
-        {
-          "id": "https://towardsdatascience.com/the-95-illusion-why-your-confidence-interval-isnt-what-you-think-it-is/",
-          "author": "Ananya Bhattacharyya",
-          "description": "Frequentist confidence intervals and Bayesian credible intervals answer different questions, and confusing them can distort product decisions\nThe post The 95% Illusion: Why Your Confidence Interval Isn't What You Think It Is appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/the-95-illusion-why-your-confidence-interval-isnt-what-you-think-it-is/",
-          "publishedOn": "2026-09-11T12:30:02.000Z",
-          "wordCount": 4626,
-          "title": "The 95% Illusion: Why Your Confidence Interval Isn't What You Think It Is",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1788842405425_75maw3.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/demystifying-anthropics-j-space-a-mathematical-primer/",
-          "author": "Pirmin Lemberger",
-          "description": "Clarifying the math behind Anthropic’s representation workspace\nThe post Demystifying Anthropic's J-Space: A Mathematical Primer appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/demystifying-anthropics-j-space-a-mathematical-primer/",
-          "publishedOn": "2026-09-11T11:00:02.000Z",
-          "wordCount": 3250,
-          "title": "Demystifying Anthropic's J-Space: A Mathematical Primer",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1788771866306_trus89.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/how-to-5x-your-communication-effectiveness-with-claude-code/",
-          "author": "Eivind Kjosbakken",
-          "description": "Better understand the intent of your coding agents\nThe post How to 5x Your Communication Effectiveness with Claude Code appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-5x-your-communication-effectiveness-with-claude-code/",
-          "publishedOn": "2026-09-10T15:30:01.000Z",
-          "wordCount": 5285,
-          "title": "How to 5x Your Communication Effectiveness with Claude Code",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1788699575639_nl13r2.webp"
         }
       ]
     },
@@ -6073,66 +6029,6 @@
           "wordCount": null,
           "title": "You’re not behind. The feed is built to make you feel that way.",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/81324c8feaa0",
-          "author": "Sharang Sharma",
-          "description": "",
-          "link": "https://uxdesign.cc/8-voice-aiux-patterns-81324c8feaa0?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-09-10T22:40:55.000Z",
-          "wordCount": null,
-          "title": "8 voice AIUX patterns",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/552635e50a77",
-          "author": "Zeeshan Khalid",
-          "description": "We’ve been doing authentication all wrong. Here’s how to fix it.\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/how-authentication-friction-frustrates-users-and-how-to-stop-it-552635e50a77?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-09-10T22:39:57.000Z",
-          "wordCount": null,
-          "title": "How authentication friction frustrates users — and how to stop it",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/1f22d3d1d065",
-          "author": "Neel Dozome",
-          "description": "The hacks that made chip-stored sound a standard feature of digital interaction\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/death-of-the-ipod-1f22d3d1d065?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-09-10T22:38:24.000Z",
-          "wordCount": null,
-          "title": "Death of the iPod",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d76a548747a9",
-          "author": "Patrick Neeman",
-          "description": "",
-          "link": "https://uxdesign.cc/five-eras-of-ux-design-and-the-lessons-to-keep-in-the-ai-era-d76a548747a9?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-09-10T22:38:12.000Z",
-          "wordCount": null,
-          "title": "Five eras of UX design and the lessons to keep in the AI era",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/bd6a89e732ce",
-          "author": "Louis Charron",
-          "description": "",
-          "link": "https://uxdesign.cc/a-short-history-of-logos-made-of-data-bd6a89e732ce?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-09-10T15:57:51.000Z",
-          "wordCount": null,
-          "title": "A short history of logos made of data",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/ee378eb7b3e9",
-          "author": "Pedro A. Brêtas",
-          "description": "",
-          "link": "https://uxdesign.cc/your-first-draft-now-has-a-log-ee378eb7b3e9?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-09-10T15:57:17.000Z",
-          "wordCount": null,
-          "title": "Your first draft now has a log",
-          "imageUrl": null
         }
       ]
     },
@@ -6175,16 +6071,6 @@
           "publishedOn": "2026-09-24T16:45:01.000Z",
           "wordCount": 2231,
           "title": "The Pulse: a new trend of CPU shortages",
-          "imageUrl": null
-        },
-        {
-          "id": "6aa26df1e3d0390001d47f92",
-          "author": "Ivan Klaric",
-          "description": "Uber, Pinterest, Stripe, Coinbase, Ramp, and AT&T are making large savings on their AI bills by dropping proprietary models and using smart model routing.",
-          "link": "https://blog.pragmaticengineer.com/the-pulse-tech-companies-move-to-open-ai-models/",
-          "publishedOn": "2026-09-10T17:22:31.000Z",
-          "wordCount": 1982,
-          "title": "The Pulse: tech companies move to open AI models",
           "imageUrl": null
         }
       ]
@@ -8212,116 +8098,6 @@
           "publishedOn": "2026-09-12T15:11:42.000Z",
           "wordCount": null,
           "title": "Anthropic’s New AI Threat Report is Absolutely Insane",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d3b67e65a8e4",
-          "author": "Jim Clyde Monge",
-          "description": "Jacob Coxon helped train the AI models. Then he quit and told 90 million people they should be scared.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/ai-researcher-jacob-coxon-fears-that-ai-could-kill-us-all-within-a-decade-d3b67e65a8e4?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-11T14:06:15.000Z",
-          "wordCount": null,
-          "title": "AI Researcher, Jacob Coxon, Fears that AI “Could Kill Us All Within a Decade”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/dad84676bfcc",
-          "author": "Jim Clyde Monge",
-          "description": "",
-          "link": "https://generativeai.pub/how-to-create-consistent-anime-characters-from-reference-images-dad84676bfcc?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-11T05:55:29.000Z",
-          "wordCount": null,
-          "title": "How to Create Consistent Anime Characters from Reference Images",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/5b47a8cd7ba2",
-          "author": "James Wilkins",
-          "description": "Understanding AI’s people-pleasing problem and what you can do about it.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/your-ai-therapist-is-ruining-your-relationships-5b47a8cd7ba2?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-11T01:13:39.000Z",
-          "wordCount": null,
-          "title": "Your AI Therapist is Ruining Your Relationships",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/7e941408b241",
-          "author": "Anup Karanjkar",
-          "description": "Two mechanisms explain nearly every unexplained behaviour: the boundary Seatbelt enforces, and the prefix the cache matches.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/claude-code-runs-inside-apples-sandbox-on-your-mac-7e941408b241?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-11T01:06:58.000Z",
-          "wordCount": null,
-          "title": "Claude Code Runs Inside Apple’s Sandbox on Your Mac.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/29608e7daa9a",
-          "author": "Ruqaiya Beguwala",
-          "description": "Less context, better questions, and the features hiding in plain sight.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/22-ways-to-get-more-out-of-claude-29608e7daa9a?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-11T01:01:09.000Z",
-          "wordCount": null,
-          "title": "22 Ways to Get More Out of Claude",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c5848b1d64a9",
-          "author": "Cezary Gesikowski",
-          "description": "A Field Guide to Surviving the Gartner Swoosh\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/2026-ai-hype-cycle-reality-check-c5848b1d64a9?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-11T00:57:34.000Z",
-          "wordCount": null,
-          "title": "2026 AI Hype Cycle Reality Check",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/e1f291229dad",
-          "author": "Chris Studio",
-          "description": "",
-          "link": "https://generativeai.pub/four-chatgpt-slash-commands-image-editing-e1f291229dad?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-11T00:53:23.000Z",
-          "wordCount": null,
-          "title": "One Image, Four Versions: The ChatGPT Commands I Keep Reusing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f3b767117988",
-          "author": "Elena Brooks",
-          "description": "",
-          "link": "https://generativeai.pub/gemini-in-chrome-is-competing-for-your-next-click-f3b767117988?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-11T00:47:23.000Z",
-          "wordCount": null,
-          "title": "Gemini in Chrome Is Competing for Your Next Click",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d211dfff80cb",
-          "author": "Jesse Owen",
-          "description": "",
-          "link": "https://generativeai.pub/benchmarking-agents-before-release-d211dfff80cb?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-11T00:39:04.000Z",
-          "wordCount": null,
-          "title": "Benchmarking Agents Before Release",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/0c1da5cb79a5",
-          "author": "Nina Chen",
-          "description": "",
-          "link": "https://generativeai.pub/i-built-a-newsletter-page-with-gemini-heres-what-needed-fixing-0c1da5cb79a5?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-11T00:31:01.000Z",
-          "wordCount": null,
-          "title": "I Built a Newsletter Page With Gemini. Here’s What Needed Fixing.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/85663ae5d2bb",
-          "author": "Dr Peter McCann Strain",
-          "description": "",
-          "link": "https://generativeai.pub/does-more-orchestration-make-better-research-85663ae5d2bb?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-11T00:23:10.000Z",
-          "wordCount": null,
-          "title": "Does More Orchestration Make Better Research?",
           "imageUrl": null
         }
       ]
