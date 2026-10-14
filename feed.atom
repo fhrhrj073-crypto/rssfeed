@@ -2,10 +2,170 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-10-13T04:02:07.179Z</updated>
+    <updated>2026-10-14T02:16:10.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Harbor Raised $10M to Insure AI Agents in Its First Year. Here Are the Deck and the Memo]]></title>
+        <id>https://www.thevccorner.com/p/harbor-raised-10m-to-insure-ai-agents</id>
+        <link href="https://www.thevccorner.com/p/harbor-raised-10m-to-insure-ai-agents"/>
+        <updated>2026-10-14T00:04:56.000Z</updated>
+        <summary type="html"><![CDATA[Four founders who met at Stanford, three co-leads and a market with zero loss data. The moves you can copy]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taste is not a design methodology]]></title>
+        <id>https://medium.com/p/e02b37aea148</id>
+        <link href="https://uxdesign.cc/taste-is-not-a-design-methodology-e02b37aea148?source=rss----138adf9c44c---4"/>
+        <updated>2026-10-13T22:27:46.000Z</updated>
+        <author>
+            <name>Patrick Neeman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to talk about a design that looks worse on paper]]></title>
+        <id>https://medium.com/p/da73da6d7b57</id>
+        <link href="https://uxdesign.cc/how-to-talk-about-a-design-that-looks-worse-on-paper-da73da6d7b57?source=rss----138adf9c44c---4"/>
+        <updated>2026-10-13T22:26:58.000Z</updated>
+        <summary type="html"><![CDATA[Why it took Microsoft 5 years to roll out an ‘obvious fix’
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Kai Wong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Agent Doesn't Need More Freedom]]></title>
+        <id>https://towardsdatascience.com/your-agent-doesnt-need-more-freedom/</id>
+        <link href="https://towardsdatascience.com/your-agent-doesnt-need-more-freedom/"/>
+        <updated>2026-10-13T18:28:09.000Z</updated>
+        <summary type="html"><![CDATA[Agents got good. The hard part now is everything around them.
+The post Your Agent Doesn't Need More Freedom appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Gursimar Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Q4 TNA Email - Muse]]></title>
+        <id>https://www.theneuron.ai/newsletter/q4-tna-email-muse/</id>
+        <link href="https://www.theneuron.ai/newsletter/q4-tna-email-muse/"/>
+        <updated>2026-10-13T14:31:20.669Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Samplers, One Posterior: NUTS vs. Emcee vs. Nested Sampling]]></title>
+        <id>https://towardsdatascience.com/three-samplers-one-posterior-nuts-vs-emcee-vs-nested-sampling/</id>
+        <link href="https://towardsdatascience.com/three-samplers-one-posterior-nuts-vs-emcee-vs-nested-sampling/"/>
+        <updated>2026-10-13T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Benchmarking NumPyro, affine-invariant MCMC, and dynesty against exact ground truth and watching them fail.
+The post Three Samplers, One Posterior: NUTS vs. Emcee vs. Nested Sampling appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Samit Ganguly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to tell if a startup has a moat]]></title>
+        <id>https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat</id>
+        <link href="https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat"/>
+        <updated>2026-10-13T12:45:41.000Z</updated>
+        <summary type="html"><![CDATA[A framework for assessing whether the company you’re considering joining is built to last]]></summary>
+        <author>
+            <name>Dan Hockenmaier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coding Agents Can Solve the Task — But How Much Work Did They Waste?]]></title>
+        <id>https://towardsdatascience.com/coding-agents-can-solve-the-task-but-how-much-work-did-they-waste/</id>
+        <link href="https://towardsdatascience.com/coding-agents-can-solve-the-task-but-how-much-work-did-they-waste/"/>
+        <updated>2026-10-13T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Real repositories, seeded agent decisions: what 50,400 runs show about wasted turns, patch churn, and which harness rules help
+The post Coding Agents Can Solve the Task — But How Much Work Did They Waste? appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Emmimal P Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s Playground Turns Prompts Into Games. Can It Build an Audience?]]></title>
+        <id>https://www.theneuron.ai/news/google-playground-unity-spark-ai-games/</id>
+        <link href="https://www.theneuron.ai/news/google-playground-unity-spark-ai-games/"/>
+        <updated>2026-10-13T11:23:47.697Z</updated>
+        <summary type="html"><![CDATA[Google’s Playground lets people create playable games through text prompts, with Unity Spark set to add more advanced tools. The partnership’s next challenge is helping creators refine their games and reach players who keep coming back.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Leverage NLP for Product Data Science]]></title>
+        <id>https://towardsdatascience.com/how-to-leverage-nlp-for-product-data-science/</id>
+        <link href="https://towardsdatascience.com/how-to-leverage-nlp-for-product-data-science/"/>
+        <updated>2026-10-13T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A practical guide to strengthening churn, CLV, and other traditional models with text
+The post How to Leverage NLP for Product Data Science appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Alex Davis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 Meta’s Muse Wonder is here, priced like Opus]]></title>
+        <id>https://www.theneuron.ai/newsletter/meta-s-muse-wonder-is-here-priced-like-opus-ee30/</id>
+        <link href="https://www.theneuron.ai/newsletter/meta-s-muse-wonder-is-here-priced-like-opus-ee30/"/>
+        <updated>2026-10-13T09:41:40.545Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The synth everyone owned and few could program: a lesson for AI design]]></title>
+        <id>https://medium.com/p/6f618ec2aea0</id>
+        <link href="https://uxdesign.cc/the-synth-everyone-owned-and-few-could-program-a-lesson-for-ai-design-6f618ec2aea0?source=rss----138adf9c44c---4"/>
+        <updated>2026-10-13T09:03:24.000Z</updated>
+        <author>
+            <name>Mathieu Poli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8 New AI Terms You Should Know to Be Ahead of 90% of People (Part 2)]]></title>
+        <id>https://medium.com/p/bc2c5615da0d</id>
+        <link href="https://generativeai.pub/8-new-ai-terms-you-should-know-to-be-ahead-of-90-of-people-part-2-bc2c5615da0d?source=rss----440100e76000---4"/>
+        <updated>2026-10-13T08:26:59.000Z</updated>
+        <summary type="html"><![CDATA[A new set of AI terms ya’ll should know about.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Jim Clyde Monge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are we willing to sacrifice for AI?]]></title>
+        <id>https://medium.com/p/a57736f368a1</id>
+        <link href="https://uxdesign.cc/what-are-we-willing-to-sacrifice-for-ai-a57736f368a1?source=rss----138adf9c44c---4"/>
+        <updated>2026-10-13T07:30:43.000Z</updated>
+        <author>
+            <name>Michael Buckley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD’s Helion Could Change the Cost of Running AI Agents]]></title>
+        <id>https://www.theneuron.ai/news/amd-helion-ai-agent-operating-costs/</id>
+        <link href="https://www.theneuron.ai/news/amd-helion-ai-agent-operating-costs/"/>
+        <updated>2026-10-13T06:55:37.075Z</updated>
+        <summary type="html"><![CDATA[AMD’s Helion combines configurable CPU and GPU racks with model routing to address the computing demands of AI agents. Its potential savings depend on deployment costs and real-world performance.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why This Smaller Image Model Is Challenging Much Larger Rivals]]></title>
+        <id>https://medium.com/p/ebfcf3379b76</id>
+        <link href="https://generativeai.pub/why-this-smaller-image-model-is-challenging-much-larger-rivals-ebfcf3379b76?source=rss----440100e76000---4"/>
+        <updated>2026-10-13T04:23:53.000Z</updated>
+        <author>
+            <name>Jim Clyde Monge</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Secret agent bot: accessibility matters for the agents even if you can’t see them]]></title>
         <id>https://medium.com/p/2f53a5670ec9</id>
@@ -7073,15 +7233,6 @@ The post When to Use One Model and When to Use a Team of Agents appeared first o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[For the Designless]]></title>
-        <id>https://medium.com/p/0d3e7936a70c</id>
-        <link href="https://uxdesign.cc/for-the-designless-0d3e7936a70c?source=rss----138adf9c44c---4"/>
-        <updated>2026-09-14T13:59:28.000Z</updated>
-        <author>
-            <name>Joshua Leigh</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Can You Read 1,200 Words Per Minute?]]></title>
         <id>https://www.youtube.com/shorts/LyUoP_5QQOA</id>
         <link href="https://www.youtube.com/shorts/LyUoP_5QQOA"/>
@@ -7098,27 +7249,6 @@ The post When to Use One Model and When to Use a Team of Agents appeared first o
         <updated>2026-09-14T13:00:17.000Z</updated>
         <author>
             <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graph Engineering for AI Agents: From Prompts and Loops to Workflows]]></title>
-        <id>https://towardsdatascience.com/?p=680662</id>
-        <link href="https://towardsdatascience.com/graph-engineering-for-ai-agents-from-prompts-and-loops-to-workflows/"/>
-        <updated>2026-09-14T12:30:01.000Z</updated>
-        <summary type="html"><![CDATA[A viral debate over loops versus graphs points to a bigger shift in how we build AI systems. Here’s what graph engineering actually means, how it differs from prompt, context, and loop engineering, and why it matters.
-The post Graph Engineering for AI Agents: From Prompts and Loops to Workflows appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Nhu Hoang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Grok Bot designers use AI agents to build personal sites and product prototypes | John Bai & Peng Zheng]]></title>
-        <id>https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents</id>
-        <link href="https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents"/>
-        <updated>2026-09-14T12:04:39.000Z</updated>
-        <summary type="html"><![CDATA[Watch now (42 mins) | 🎙️ Two designers at SpaceXAI show me how they use Grok Bot to run Figma from the gym, update a portfolio with one photo, and turn shower thoughts into working prototypes]]></summary>
-        <author>
-            <name>Claire Vo</name>
         </author>
     </entry>
     <entry>
@@ -7141,37 +7271,6 @@ The post Graph Engineering for AI Agents: From Prompts and Loops to Workflows ap
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Five eras of UX, First drafts, Logos made of data, Voice AIUX patterns]]></title>
-        <id>https://medium.com/p/7b326c9aba4a</id>
-        <link href="https://uxdesign.cc/five-eras-of-ux-first-drafts-logos-made-of-data-voice-aiux-patterns-7b326c9aba4a?source=rss----138adf9c44c---4"/>
-        <updated>2026-09-14T11:26:18.000Z</updated>
-        <author>
-            <name>Fabricio Teixeira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to say no when a friend asks for a discount]]></title>
-        <id>https://medium.com/p/d0e48087eb1d</id>
-        <link href="https://uxdesign.cc/how-to-say-no-when-a-friend-asks-for-a-discount-d0e48087eb1d?source=rss----138adf9c44c---4"/>
-        <updated>2026-09-14T11:20:16.000Z</updated>
-        <summary type="html"><![CDATA[How thinking about price can connect to much bigger things.
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Hiroshi Sato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Static to Dynamic Skills: A Different Model for Agent Knowledge]]></title>
-        <id>https://towardsdatascience.com/from-static-to-dynamic-skills-a-different-model-for-agent-knowledge/</id>
-        <link href="https://towardsdatascience.com/from-static-to-dynamic-skills-a-different-model-for-agent-knowledge/"/>
-        <updated>2026-09-14T11:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Why the skill-inflation panic is aimed at the wrong thing, and what it costs to make agent knowledge a build artifact instead of a file.
-The post From Static to Dynamic Skills: A Different Model for Agent Knowledge appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Tomer Mesika</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GPT-6 Made a Fall Guys Game]]></title>
         <id>https://www.youtube.com/shorts/ypNekbQpT5U</id>
         <link href="https://www.youtube.com/shorts/ypNekbQpT5U"/>
@@ -7182,165 +7281,12 @@ The post From Static to Dynamic Skills: A Different Model for Agent Knowledge ap
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Safety’s New Paradox: America May Need a Bigger Lead to Slow Down]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/ai-safetys-new-paradox-america-may-need-a-bigger-lead-to-slow-down/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/ai-safetys-new-paradox-america-may-need-a-bigger-lead-to-slow-down/"/>
-        <updated>2026-09-14T10:09:04.820Z</updated>
-        <summary type="html"><![CDATA[Trump and Anthropic’s Dario Amodei both want America to maintain its AI lead over China. What they disagree on is what that advantage is for. One wants to keep pressing it; the other sees a large enough lead as the breathing room frontier labs need to slow down safely.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI's biggest rivals agree: slow down]]></title>
-        <id>https://www.theneuron.ai/newsletter/ai-s-biggest-rivals-agree-slow-down/</id>
-        <link href="https://www.theneuron.ai/newsletter/ai-s-biggest-rivals-agree-slow-down/"/>
-        <updated>2026-09-14T09:36:29.267Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI’s IPO Can Wait. Can Its Investors?]]></title>
-        <id>https://www.theneuron.ai/news/openai-ipo-delay-ai-safety-investors/</id>
-        <link href="https://www.theneuron.ai/news/openai-ipo-delay-ai-safety-investors/"/>
-        <updated>2026-09-14T09:28:01.535Z</updated>
-        <summary type="html"><![CDATA[OpenAI wants the freedom to slow AI development when safety demands it. Its IPO delay raises a question for future shareholders: how much waiting will they accept?]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Real Price of a Five-Second AI Trend]]></title>
-        <id>https://medium.com/p/5fa2ceb34512</id>
-        <link href="https://generativeai.pub/the-real-price-of-a-five-second-ai-trend-5fa2ceb34512?source=rss----440100e76000---4"/>
-        <updated>2026-09-14T08:44:32.000Z</updated>
-        <summary type="html"><![CDATA[Viral AI portraits may disappear from our feeds in days, but the energy, water, and personal data behind them deserve more than a passing…
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Sunanda Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[90% of Workers Feel Confident Using AI. Only 25% Say It Works the First Time]]></title>
-        <id>https://medium.com/p/1c296d6cedc4</id>
-        <link href="https://generativeai.pub/90-of-workers-feel-confident-using-ai-only-25-say-it-works-the-first-time-1c296d6cedc4?source=rss----440100e76000---4"/>
-        <updated>2026-09-14T08:26:49.000Z</updated>
-        <author>
-            <name>Hannah Lindqvist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everyone is Building AI Agents. Few Are Evaluating in Parallel]]></title>
-        <id>https://medium.com/p/c83e814c601a</id>
-        <link href="https://generativeai.pub/everyone-is-building-ai-agents-few-are-evaluating-in-parallel-c83e814c601a?source=rss----440100e76000---4"/>
-        <updated>2026-09-14T08:23:58.000Z</updated>
-        <summary type="html"><![CDATA[Why evaluation should be built alongside AI agents, not added after they already seem to work.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Alain Sondrae</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can AI Companies Afford to Slow Their Own Progress?]]></title>
-        <id>https://www.theneuron.ai/news/can-ai-companies-afford-to-slow-down/</id>
-        <link href="https://www.theneuron.ai/news/can-ai-companies-afford-to-slow-down/"/>
-        <updated>2026-09-14T07:29:16.150Z</updated>
-        <summary type="html"><![CDATA[Dario Amodei wants outside evaluators inside AI labs and shared rules to slow frontier development. The test is whether companies will accept delays when rivals could gain ground.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Turn LM Studio Into a Local Research Agent With MCP Servers]]></title>
-        <id>https://medium.com/p/6704268e3ae4</id>
-        <link href="https://generativeai.pub/how-to-turn-lm-studio-into-a-local-research-agent-with-mcp-servers-6704268e3ae4?source=rss----440100e76000---4"/>
-        <updated>2026-09-14T06:01:04.000Z</updated>
-        <summary type="html"><![CDATA[Private search, anti-detect browsing, file access, and GitHub, all in one chat, with a working config and a grounding demo you can run…
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Jes Fink-Jensen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Does AI Ace Benchmarks and Fail My Codebase?]]></title>
-        <id>https://medium.com/p/24f0505819ba</id>
-        <link href="https://generativeai.pub/why-does-ai-ace-benchmarks-and-fail-my-codebase-24f0505819ba?source=rss----440100e76000---4"/>
-        <updated>2026-09-14T05:52:38.000Z</updated>
-        <summary type="html"><![CDATA[The Benchmark Everyone Quotes Is Nearly Saturated
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Raza Hussain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-6 Astra Benchmarks: 99.9% or 62.7%? The Full ARC-AGI-3 Story]]></title>
-        <id>https://medium.com/p/2a69bdcc461e</id>
-        <link href="https://generativeai.pub/gpt-6-astra-benchmarks-99-9-or-62-7-the-full-arc-agi-3-story-2a69bdcc461e?source=rss----440100e76000---4"/>
-        <updated>2026-09-14T05:46:46.000Z</updated>
-        <author>
-            <name>Jahanzaib Ahmad</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Solved a 90-Year-Old Math Problem. The Mathematician Says They Stole His Work.]]></title>
-        <id>https://medium.com/p/c5fdfadfe0a5</id>
-        <link href="https://generativeai.pub/openai-solved-a-90-year-old-math-problem-the-mathematician-says-they-stole-his-work-c5fdfadfe0a5?source=rss----440100e76000---4"/>
-        <updated>2026-09-14T05:41:48.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI admits it cannot rule out training on a researcher’s private drafts. Here’s the real story and how to protect your own research…
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>MohamedAbdelmenem</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Next AI Lab Might Look More Like a Physics Lab]]></title>
-        <id>https://medium.com/p/ba6793b0ae10</id>
-        <link href="https://generativeai.pub/the-next-ai-lab-might-look-more-like-a-physics-lab-ba6793b0ae10?source=rss----440100e76000---4"/>
-        <updated>2026-09-14T05:39:17.000Z</updated>
-        <summary type="html"><![CDATA[A model can store exactly tw​o bits per parameter. That numb‍er holds across GPT-2‌,‌ LLaMA, and Mistral⁠, and finding it required…
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Delini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When AI Saves Time, Who Gets the Dividend?]]></title>
-        <id>https://medium.com/p/bc5d532f00c0</id>
-        <link href="https://generativeai.pub/when-ai-saves-time-who-gets-the-dividend-bc5d532f00c0?source=rss----440100e76000---4"/>
-        <updated>2026-09-14T05:35:54.000Z</updated>
-        <summary type="html"><![CDATA[Faster tasks do not decide whether the gain becomes better work, more output, stronger systems, or breathing room.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Suyog Joshi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[世界AI新聞快訊（2026年9月14日）｜Gemini入Windows、Slack生成工作畫面，NASA開源月球AI]]></title>
         <id>https://www.youtube.com/watch?v=zNFcRTuwwd4</id>
         <link href="https://www.youtube.com/watch?v=zNFcRTuwwd4"/>
         <updated>2026-09-14T00:00:19.000Z</updated>
         <author>
             <name>文恩澄 Rannes Man</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YC Summer 2026 Batch⚡, 40 AI Tools for Founders🛠️, Europe’s Race to $1 Trillion💰]]></title>
-        <id>https://www.thevccorner.com/p/yc-summer-2026-batch-40-ai-tools</id>
-        <link href="https://www.thevccorner.com/p/yc-summer-2026-batch-40-ai-tools"/>
-        <updated>2026-09-13T21:37:26.000Z</updated>
-        <summary type="html"><![CDATA[Another week, another pulse check on Tech.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😺 OpenAI asked Congress if AI can slow down]]></title>
-        <id>https://www.theneuron.ai/newsletter/openai-asked-congress-if-ai-can-slow-down/</id>
-        <link href="https://www.theneuron.ai/newsletter/openai-asked-congress-if-ai-can-slow-down/"/>
-        <updated>2026-09-13T17:32:00.811Z</updated>
-        <author>
-            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
