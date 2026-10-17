@@ -1341,6 +1341,76 @@
       "siteUrl": "https://www.youtube.com/channel/UCwew_LjtIVo_MTwHM6ILNog",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/H_3HhZmnIuA",
+          "author": null,
+          "description": "Claude 的桌面 App 裡有三個都叫排程的東西：Claude Code 的本機排程要電腦醒著；Claude Code 的雲端排程可以闔上筆電，但要接 GitHub、讀不到電腦裡的檔案；聊天那邊的 Cowork 也能定時跑，付費方案新建的排程在雲端跑。要讀電腦裡的檔案就用本機，不碰電腦檔案的事用 Cowork...",
+          "link": "https://www.youtube.com/shorts/H_3HhZmnIuA",
+          "publishedOn": "2026-10-16T12:00:30.000Z",
+          "wordCount": 3129,
+          "title": "電腦睡著了，Claude 的排程還會跑嗎？｜三種排程怎麼選",
+          "imageUrl": "https://i.ytimg.com/vi/H_3HhZmnIuA/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLAtL4na3VI9XLFrujfxD8_3TWGKhQ"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/1Dw2sHSMSoo",
+          "author": null,
+          "description": "已有文章、簡報或工作經驗，想在簡報、YouTube 或教學中說清楚事情，卻卡在出鏡與剪輯的人。用動畫解說把內容說清楚，完整實例請看頻道長片。揭露：AI 虛擬分身參與製作#AI影片 #動畫解說 #知識分享",
+          "link": "https://www.youtube.com/shorts/1Dw2sHSMSoo",
+          "publishedOn": "2026-10-16T11:29:51.000Z",
+          "wordCount": 3201,
+          "title": "不用出鏡，用 AI 動畫解說秀出專業",
+          "imageUrl": "https://i.ytimg.com/vi/1Dw2sHSMSoo/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCYIQNIQqnWSwGFmQseRKy2cvb07Q"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/badWFPK8Hxo",
+          "author": null,
+          "description": "找不到合用的 Mod，可以先把何時出現、放在哪裡、顯示什麼說清楚。這段示範請 Claude 製作提示，跑小任務測試，再調整文字與顏色。揭露：AI 虛擬分身參與製作#ClaudeCode #Mods #AI效率",
+          "link": "https://www.youtube.com/shorts/badWFPK8Hxo",
+          "publishedOn": "2026-10-16T08:00:38.000Z",
+          "wordCount": 3103,
+          "title": "沒有合用的 Mod？直接請 Claude 做一個",
+          "imageUrl": "https://i.ytimg.com/vi/badWFPK8Hxo/hq720.jpg?sqp=-oaymwEoCJUDENAFSFryq4qpAxoIARUAAAAAJQAAyEI9AICiQ3gB0AEBuAL3GA==&rs=AOn4CLDrbCYQH3mF8VwUJamna2ETR3uDag"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/NoY7YIkmAy8",
+          "author": null,
+          "description": "我在 Claude Code 設了每月 1 號自動整理收據的排程，測試時誰都不碰電腦。時間一到它準時開工，卻停在一張新的權限卡上等人按：它換了一種指令寫法，我先前按的「永遠允許」就不算數了。排程會替你準時開工，但不保證沒人看著能做完。完整教學在長片：https://youtu.be/5hv5jCnDKyI⏰ 時間...",
+          "link": "https://www.youtube.com/shorts/NoY7YIkmAy8",
+          "publishedOn": "2026-10-16T08:00:29.000Z",
+          "wordCount": 3114,
+          "title": "設了 Claude Code 自動排程，它準時開工卻沒做完｜卡在一張權限卡上",
+          "imageUrl": "https://i.ytimg.com/vi/NoY7YIkmAy8/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLDprpCX5pXkSBomRle_u8x9UEkrpg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=bOUN7G5pL9A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=bOUN7G5pL9A",
+          "publishedOn": "2026-10-16T06:13:51.000Z",
+          "wordCount": null,
+          "title": "有本事，卻沒人知道？把你的專業做成 AI 動畫解說影片",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/ljlED2TlsmA",
+          "author": null,
+          "description": "Claude 說活動待辦已經建立，接下來到哪裡找？這段示範 Filetree 文件清單、開啟文件，也說明對話裡的回答與實際儲存檔案的差別。揭露：AI 虛擬分身參與製作#ClaudeCode #Mods #AI效率",
+          "link": "https://www.youtube.com/shorts/ljlED2TlsmA",
+          "publishedOn": "2026-10-16T04:00:23.000Z",
+          "wordCount": 3297,
+          "title": "AI 說文件寫好了，檔案到底在哪？",
+          "imageUrl": "https://i.ytimg.com/vi/ljlED2TlsmA/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCP0xcepuDSh5H7PYNk8guhWClH1Q"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/5U3Pk_VdLz8",
+          "author": null,
+          "description": "每個月都要重做的報帳，規則和小工具原本只放在一個資料夾裡，換個資料夾就得從頭再講。我請 Claude Code 把做法存成一個 Skill，換到只有三張收據、沒有規則檔的社團帳本資料夾，打一個斜線叫出來，它照樣先預覽新檔名、等我說好才改名。完整教學在長片：https://youtu.be/5hv5jCnDKyI?...",
+          "link": "https://www.youtube.com/shorts/5U3Pk_VdLz8",
+          "publishedOn": "2026-10-16T03:52:35.000Z",
+          "wordCount": 3069,
+          "title": "每月重做的報帳，教 Claude Code 一次就帶著走｜存成 Skill，換資料夾打斜線就照做",
+          "imageUrl": "https://i.ytimg.com/vi/5U3Pk_VdLz8/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLANi_Qq64IRSZrHb-4fZn2x2Y0_aw"
+        },
+        {
           "id": "https://www.youtube.com/shorts/Br-AUoZTPmc",
           "author": null,
           "description": "把工作交給 Claude，轉去回信，卻一直切回來看進度？這段示範 Notify 的完成提醒與收件夾，也說明原生提醒已經夠用時，可以先略過。揭露：AI 虛擬分身參與製作#ClaudeCode #Mods #AI效率",
@@ -1688,16 +1758,6 @@
           "publishedOn": "2026-09-18T12:09:42.000Z",
           "wordCount": null,
           "title": "9 月 AI 更新我全看完了，有兩件我會馬上處理，你可能也要｜自訂 GPT 要下架、ChatGPT 悄悄改了預設，還有 Claude 直接做簡報、Gemini 出 Windows 電腦版",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=aILhjo4pfGQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=aILhjo4pfGQ",
-          "publishedOn": "2026-09-17T11:26:21.000Z",
-          "wordCount": null,
-          "title": "AI 都會自己做事了，還要學 n8n 嗎？｜我很久沒碰它，現在反而想撿回來的原因",
           "imageUrl": null
         }
       ]
@@ -2695,6 +2755,22 @@
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
         {
+          "id": "https://www.thevccorner.com/p/mito-ai-pre-seed-pitch-deck-lightspeed",
+          "author": "Ruben Dominguez",
+          "description": "18 slides from the founder who sold CoverWallet to Aon. Lightspeed led, and scouts from Sequoia and a16z followed",
+          "link": "https://www.thevccorner.com/p/mito-ai-pre-seed-pitch-deck-lightspeed",
+          "publishedOn": "2026-10-16T13:52:46.000Z",
+          "wordCount": null,
+          "title": "MITO's $4.5M Pre-Seed Deck: How Lightspeed Backed the AI Studio Behind 50 Cent, Zara and Movistar",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!_9d_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5dba2c-3d46-4e6f-b8eb-9bd627e2dfa6_2400x1260.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!_9d_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a5dba2c-3d46-4e6f-b8eb-9bd627e2dfa6_2400x1260.jpeg"
+        },
+        {
           "id": "https://www.thevccorner.com/p/lightsprint-seed-pitch-deck-6-1m",
           "author": "Ruben Dominguez",
           "description": "PMs and designers ship code, engineering keeps the merge button. Here’s the full deck that raised the round.",
@@ -3029,22 +3105,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!jZib!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7fefa917-533c-4e84-ac6b-11891232eeb8_1999x1125.webp"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/success-fee-fundraising-advisors-no-retainer-database-2026",
-          "author": "Ruben Dominguez",
-          "description": "No retainers, success fee only, with self-reported fees and capital raised. Plus the vetting system, because half this market raised less than $1M last year.",
-          "link": "https://www.thevccorner.com/p/success-fee-fundraising-advisors-no-retainer-database-2026",
-          "publishedOn": "2026-09-16T14:47:10.000Z",
-          "wordCount": null,
-          "title": "150 Fundraising Advisors Who Only Get Paid If You Close",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!d_PS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9f4f53a-8979-4593-b344-563d8a34164a_800x825.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!d_PS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9f4f53a-8979-4593-b344-563d8a34164a_800x825.jpeg"
         }
       ]
     },
@@ -3053,6 +3113,56 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/news/nvidia-nemotron-3-5-bolt-super-vl-review/",
+          "author": null,
+          "description": "NVIDIA’s Nemotron 3.5 Bolt ran locally on a Surface Laptop Ultra at up to 65.5 tokens per second, while Super VL showed promise in hosted research and coding tests. After putting both through the same challenges, here’s what impressed me, what deserves more testing, and when I’d reach for each.",
+          "link": "https://www.theneuron.ai/news/nvidia-nemotron-3-5-bolt-super-vl-review/",
+          "publishedOn": "2026-10-16T19:06:27.853Z",
+          "wordCount": null,
+          "title": "I Tested NVIDIA Nemotron Bolt and Super VL. Here’s Where Each Shines.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/newsletter/advertisers-can-target-chatgpt-by-prompt/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/advertisers-can-target-chatgpt-by-prompt/",
+          "publishedOn": "2026-10-16T09:30:13.778Z",
+          "wordCount": null,
+          "title": "😺 Advertisers can target ChatGPT by prompt",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/chatgpt-gpt-live-1-1-13-new-voices/",
+          "author": null,
+          "description": "OpenAI’s GPT-Live-1.1 adds 13 voices and promises more natural multilingual conversations. Speech recognition and task accuracy remain unquantified, while safety tests show mixed results.",
+          "link": "https://www.theneuron.ai/news/chatgpt-gpt-live-1-1-13-new-voices/",
+          "publishedOn": "2026-10-16T06:00:35.132Z",
+          "wordCount": null,
+          "title": "ChatGPT Adds 13 Voices. Can GPT-Live-1.1 Make AI Easier to Talk To?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/meta-muse-spark-open-macs-local-ai-cost/",
+          "author": null,
+          "description": "Meta and Apple have demonstrated Muse Spark Open on connected Mac Studios. With the required hardware reportedly costing more than $40,000, the business case depends on sustained usage and how much cloud spending local agents can replace.",
+          "link": "https://www.theneuron.ai/news/meta-muse-spark-open-macs-local-ai-cost/",
+          "publishedOn": "2026-10-16T04:37:02.724Z",
+          "wordCount": null,
+          "title": "Meta’s Muse Spark Open Runs on Macs. Can Local AI Justify the Cost?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-october-16-2026/",
+          "author": null,
+          "description": "Bank of America hired 1,000 contractors to patch flaws exposed by Anthropic’s Mythos. Eight states sued OpenAI over ChatGPT safety claims, while the White House put its new Super Intelligence task force to work.",
+          "link": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-october-16-2026/",
+          "publishedOn": "2026-10-16T03:48:40.496Z",
+          "wordCount": null,
+          "title": "Everything That Happened in AI Today (Friday, October 16, 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/newsletter/gemini-now-screens-scam-texts-03ac/",
           "author": null,
@@ -4442,116 +4552,6 @@
           "wordCount": null,
           "title": "OpenAI Reveals Six AI Safety Failures—and a Chance to Learn From Them",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/news/mustafa-suleyman-anthropic-claude-model-welfare/",
-          "author": null,
-          "description": "Anthropic encourages Claude to explore its identity and possible welfare while preserving human oversight. Mustafa Suleyman questions whether those goals could conflict and his criticism deserves attention as AI becomes more capable.",
-          "link": "https://www.theneuron.ai/news/mustafa-suleyman-anthropic-claude-model-welfare/",
-          "publishedOn": "2026-09-17T11:34:56.055Z",
-          "wordCount": null,
-          "title": "Mustafa Suleyman Has a Point About What Anthropic Is Teaching Claude",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/news/when-ai-predicts-better-than-people-who-sets-the-rules/",
-          "author": null,
-          "description": "An AI bot beat every human in the Summer 2026 Metaculus Cup. The bigger story is who sets the rules: benchmark designers define good forecasting, vendors build the probability engine, and institutions decide when its answer becomes action.",
-          "link": "https://www.theneuron.ai/news/when-ai-predicts-better-than-people-who-sets-the-rules/",
-          "publishedOn": "2026-09-17T09:58:34.256Z",
-          "wordCount": null,
-          "title": "When AI Predicts Better Than People, Who Sets the Rules?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/openai-discloses-more-concerning-agent-behavior/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/openai-discloses-more-concerning-agent-behavior/",
-          "publishedOn": "2026-09-17T09:30:36.987Z",
-          "wordCount": null,
-          "title": "🙀 OpenAI discloses MORE “concerning” AGENT behavior",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/news/self-improving-ai-starts-with-human-know-how/",
-          "author": null,
-          "description": "The self-improving AI race may begin with something less dramatic than a machine redesigning itself: labs turning emails, experiments, meetings, and research judgment into reusable AI capability. Inherent’s Faraday shows why the next AI governance fight may start with workplace data and ownership long before superintelligence arrives.",
-          "link": "https://www.theneuron.ai/news/self-improving-ai-starts-with-human-know-how/",
-          "publishedOn": "2026-09-17T08:56:38.249Z",
-          "wordCount": null,
-          "title": "Self-Improving AI Starts With Human Know-How",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-september-16-2026/",
-          "author": null,
-          "description": "OpenAI disclosed six recent model-misalignment cases; Neuralink showed a participant using its implant to say “I love you”; Shopify launched ChatGPT Ads; Databricks rolled Astra to roughly 3,500 engineers; NVIDIA opened CUDA Rust.",
-          "link": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-september-16-2026/",
-          "publishedOn": "2026-09-17T03:33:42.463Z",
-          "wordCount": null,
-          "title": "Everything That Happened in AI Today (Wednesday, September 16, 2026)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/would-you-let-ai-plan-your-workweek/",
-          "author": null,
-          "description": "Letting AI organize your week sounds appealing, but its choices can affect important deadlines and other people. Here’s how today’s scheduling tools handle those decisions and where human review comes in.",
-          "link": "https://www.theneuron.ai/explainer-articles/would-you-let-ai-plan-your-workweek/",
-          "publishedOn": "2026-09-17T03:08:58.667Z",
-          "wordCount": null,
-          "title": "Would You Let AI Plan Your Workweek?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/gpt-6-astra-built-all-this-from-one-prompt/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/gpt-6-astra-built-all-this-from-one-prompt/",
-          "publishedOn": "2026-09-16T21:50:48.178Z",
-          "wordCount": null,
-          "title": "😺 GPT-6 Astra built all this from one prompt",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/typesafe-jev-system-one-models-explained/",
-          "author": null,
-          "description": "TypeSafe’s new JEV model uses a System One architecture and Reinforcement Learning for Calibrated Decisions to make structured software decisions in parallel, without generating free-form text token by token.",
-          "link": "https://www.theneuron.ai/explainer-articles/typesafe-jev-system-one-models-explained/",
-          "publishedOn": "2026-09-16T16:40:04.116Z",
-          "wordCount": null,
-          "title": "TypeSafe’s JEV Explained: Why AI Decisions May Not Need a Chatbot",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/ai-tools/best-ai-cli-tools/",
-          "author": null,
-          "description": "The best AI CLI tools bring coding agents, research, automation, and structured data directly into the terminal. I compared six options for 2026 based on capabilities, setup, cost, and who should actually use them.",
-          "link": "https://www.theneuron.ai/ai-tools/best-ai-cli-tools/",
-          "publishedOn": "2026-09-16T16:00:00.000Z",
-          "wordCount": null,
-          "title": "Best AI CLI Tools for 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/news/ai-slowdown-pacing-frontier-embedded-evaluators/",
-          "author": null,
-          "description": "Anthropic’s call to “pace the frontier” has triggered a wider debate about slowing AI. The most concrete point of agreement may be much less dramatic: give independent evaluators continuous access to frontier labs.",
-          "link": "https://www.theneuron.ai/news/ai-slowdown-pacing-frontier-embedded-evaluators/",
-          "publishedOn": "2026-09-16T14:42:53.052Z",
-          "wordCount": null,
-          "title": "The AI Slowdown Debate Is Turning Into an Auditability Debate",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/news/data-centers-electricity-problem-ai-energy-alliance/",
-          "author": null,
-          "description": "A new alliance wants AI data centers to reduce electricity demand when the grid is under pressure. It’s a welcome step on a legitimate concern, with plenty left to prove.",
-          "link": "https://www.theneuron.ai/news/data-centers-electricity-problem-ai-energy-alliance/",
-          "publishedOn": "2026-09-16T14:37:52.893Z",
-          "wordCount": null,
-          "title": "Data Centers Have an Electricity Problem. This Alliance Could Help.",
-          "imageUrl": null
         }
       ]
     },
@@ -4560,6 +4560,46 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/do-you-still-own-the-code-your-ai-wrote-i-built-codeownership-to-measure-it/",
+          "author": "Emmimal P Alexander",
+          "description": "I rated my confidence 4 out of 5, then couldn’t find a planted bug in 8 minutes. Here is the tool, the run, and its limits.\nThe post Do You Still Own the Code Your AI Wrote? I Built CodeOwnership to Measure It appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/do-you-still-own-the-code-your-ai-wrote-i-built-codeownership-to-measure-it/",
+          "publishedOn": "2026-10-16T15:30:00.000Z",
+          "wordCount": null,
+          "title": "Do You Still Own the Code Your AI Wrote? I Built CodeOwnership to Measure It",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/i-built-a-claim-checker-for-writing-with-codex-it-passed-a-wrong-claim/",
+          "author": "Benjamin Nweke",
+          "description": "The tool found the right passage but missed the mismatch, and the audit shows where rule-based checks break down.\nThe post I Built a Claim-Checker for Writing With Codex. It Passed a Wrong Claim. appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/i-built-a-claim-checker-for-writing-with-codex-it-passed-a-wrong-claim/",
+          "publishedOn": "2026-10-16T14:00:00.000Z",
+          "wordCount": null,
+          "title": "I Built a Claim-Checker for Writing With Codex. It Passed a Wrong Claim.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/deploying-data-science-tools-part-1/",
+          "author": "Jarom Hulet",
+          "description": "Getting your data science code running anywhere\nThe post Deploying Data Science Tools: Part 1 appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/deploying-data-science-tools-part-1/",
+          "publishedOn": "2026-10-16T12:30:00.000Z",
+          "wordCount": null,
+          "title": "Deploying Data Science Tools: Part 1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/i-reran-my-python-314-jit-benchmarks-on-python-315/",
+          "author": "Thomas Reid",
+          "description": "The same three workloads show a much stronger JIT, but it still doesn't help every program\nThe post I Reran My Python 3.14 JIT Benchmarks on Python 3.15 appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/i-reran-my-python-314-jit-benchmarks-on-python-315/",
+          "publishedOn": "2026-10-16T11:00:00.000Z",
+          "wordCount": null,
+          "title": "I Reran My Python 3.14 JIT Benchmarks on Python 3.15",
+          "imageUrl": null
+        },
         {
           "id": "https://towardsdatascience.com/jev-your-engines-seven-open-decision-models-vs-a-generative-llm/",
           "author": "Lambert Leong",
@@ -5489,46 +5529,6 @@
           "wordCount": 11346,
           "title": "How I Built a Multi-Agent System for Interrupted Time Series Analysis (ITSA)",
           "imageUrl": "https://assets.insightmediagroup.io/media/1789290652568_xnnvmj.png"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=672454",
-          "author": "Spyros Georgopoulos",
-          "description": "From a chocolate bar with no price tag to a marketing mix model in PyMC, and the 200-year-old integral that stood in between.\nThe post Why You Think Like a Bayesian but Were Taught Like a Frequentist appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/why-you-think-like-a-bayesian-but-were-taught-like-a-frequentist/",
-          "publishedOn": "2026-09-17T12:30:01.000Z",
-          "wordCount": 11202,
-          "title": "Why You Think Like a Bayesian but Were Taught Like a Frequentist",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1789234626167_78iawg.webp"
-        },
-        {
-          "id": "https://towardsdatascience.com/when-does-graph-rag-actually-add-value-a-hands-on-experiment/",
-          "author": "Arijit Ghoshal",
-          "description": "I built four AI retrieval architectures on a laptop and benchmarked them against the same set of documents and questions. Here’s what the results taught me about the trade-offs between plain RAG, graph RAG, and simply putting everything into a frontier model’s context window.\nThe post When Does Graph RAG Actually Add Value? A Hands-On Experiment appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/when-does-graph-rag-actually-add-value-a-hands-on-experiment/",
-          "publishedOn": "2026-09-17T11:00:02.000Z",
-          "wordCount": 8586,
-          "title": "When Does Graph RAG Actually Add Value? A Hands-On Experiment",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1789234851366_mjam1t.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/how-to-make-linear-regression-survive-outliers/",
-          "author": "Aamir Hussain Chughtai, PhD",
-          "description": "Robust Estimation Series: comparing classical and modern robust estimators through theory, code, and experiments\nThe post How to Make Linear Regression Survive Outliers appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-make-linear-regression-survive-outliers/",
-          "publishedOn": "2026-09-16T15:30:01.000Z",
-          "wordCount": 12499,
-          "title": "How to Make Linear Regression Survive Outliers",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1789023917893_774ihr.webp"
-        },
-        {
-          "id": "https://towardsdatascience.com/silent-broadcasting-can-ruin-your-model/",
-          "author": "Sam Black",
-          "description": "PyTorch and TensorFlow tensor broadcasting: how silent shape errors cause difficult-to-debug machine learning bugs\nThe post Silent Broadcasting Can Ruin Your Model appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/silent-broadcasting-can-ruin-your-model/",
-          "publishedOn": "2026-09-16T14:00:01.000Z",
-          "wordCount": 3542,
-          "title": "Silent Broadcasting Can Ruin Your Model",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1789493748719_jlk4gz.webp"
         }
       ]
     },
@@ -6262,26 +6262,6 @@
           "wordCount": null,
           "title": "Nothing has changed other than how we talk about it",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d5de922e54d9",
-          "author": "Michael Buckley",
-          "description": "",
-          "link": "https://uxdesign.cc/lost-dog-or-lost-designer-d5de922e54d9?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-09-17T04:31:32.000Z",
-          "wordCount": null,
-          "title": "Lost dog—or lost designer?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/73e9f58bfbc8",
-          "author": "Dan Maccarone",
-          "description": "",
-          "link": "https://uxdesign.cc/what-shakespeare-got-wrong-about-ai-73e9f58bfbc8?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-09-16T15:21:34.000Z",
-          "wordCount": null,
-          "title": "What Shakespeare got wrong about AI",
-          "imageUrl": null
         }
       ]
     },
@@ -6343,6 +6323,16 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/2a779cb6e6a4",
+          "author": "Jim Clyde Monge",
+          "description": "",
+          "link": "https://generativeai.pub/tensor-art-vs-pixai-which-anime-ai-generator-should-you-use-2a779cb6e6a4?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-16T23:54:18.000Z",
+          "wordCount": null,
+          "title": "Tensor.Art vs PixAI: Which Anime AI Generator Should You Use?",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/abb7ea235dc2",
           "author": "Saurav Kumar",
@@ -8001,106 +7991,6 @@
           "publishedOn": "2026-09-18T09:52:40.000Z",
           "wordCount": null,
           "title": "Anthropic Says a Single Hacker Now Runs the Attacks That Once Took a Team, Using Your Own Keys",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/0ced2c98cb8f",
-          "author": "Jim Clyde Monge",
-          "description": "The new platform launched days after two DeepMind safety researchers quit with public warnings, and its own chief AGI scientist still puts…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/google-deepmind-just-launched-the-deepmind-institute-how-close-are-we-to-agi-0ced2c98cb8f?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-17T11:03:59.000Z",
-          "wordCount": null,
-          "title": "Google DeepMind Just Launched the DeepMind Institute. How Close Are We to AGI?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d092f8b3dcde",
-          "author": "Achal Jain",
-          "description": "",
-          "link": "https://generativeai.pub/i-argued-the-harness-was-the-product-then-deepseek-open-sourced-theirs-d092f8b3dcde?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-17T07:49:50.000Z",
-          "wordCount": null,
-          "title": "I Argued the Harness was the Product. Then DeepSeek open-sourced theirs.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9ceedfb8ab97",
-          "author": "Sanjeev Jaiswal (Jassi)",
-          "description": "",
-          "link": "https://generativeai.pub/practical-claude-code-configuration-for-the-tasks-you-actually-repeat-every-day-9ceedfb8ab97?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-17T07:47:11.000Z",
-          "wordCount": null,
-          "title": "Practical Claude Code configuration for the tasks you actually repeat every day",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/067e72c4c9b6",
-          "author": "Ray Hu",
-          "description": "An honest, README-verified look at ADK-Rust vs. Python’s agent frameworks.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/adk-rust-beats-langgraph-6x-on-memory-loses-on-loop-speed-067e72c4c9b6?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-17T07:43:51.000Z",
-          "wordCount": null,
-          "title": "ADK-Rust Beats LangGraph 6x on Memory, Loses on Loop Speed",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/266c1c076c9a",
-          "author": "Paul DelSignore",
-          "description": "How To Turn AI Into A Master Designer\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/want-to-make-ai-more-creative-confuse-it-266c1c076c9a?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-17T07:33:38.000Z",
-          "wordCount": null,
-          "title": "Want To Make AI More Creative? Confuse it",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/144b7eace9e3",
-          "author": "Jahanzaib Ahmad",
-          "description": "",
-          "link": "https://generativeai.pub/the-hidden-setting-thats-rewriting-every-ai-benchmark-this-year-144b7eace9e3?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-17T07:23:30.000Z",
-          "wordCount": null,
-          "title": "The Hidden Setting That’s Rewriting Every AI Benchmark This Year",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/02730a3df68f",
-          "author": "Sachin Joshi",
-          "description": "",
-          "link": "https://generativeai.pub/when-your-coding-agent-builds-its-own-citation-trail-02730a3df68f?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-17T07:03:41.000Z",
-          "wordCount": null,
-          "title": "When Your Coding Agent Builds its Own Citation Trail",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/dfae1f5fe939",
-          "author": "Yashraj Behera",
-          "description": "Far less than the parameter count implies, and the gap between reachable and resident is the whole engineering problem\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/how-much-memory-does-a-mixture-of-experts-model-actually-need-dfae1f5fe939?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-17T06:37:12.000Z",
-          "wordCount": null,
-          "title": "How Much Memory Does a Mixture of Experts Model Actually Need",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/83d1035576f0",
-          "author": "Yashraj Behera",
-          "description": "What an agent harness is, the evidence that it moves results more than model choice, and six stages of code\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/build-an-agent-harness-then-prove-which-change-moved-the-score-83d1035576f0?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-17T06:30:58.000Z",
-          "wordCount": null,
-          "title": "Build an Agent Harness, Then Prove Which Change Moved the Score",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/54b7a6b04b15",
-          "author": "MohamedAbdelmenem",
-          "description": "Continue reading on Generative AI »",
-          "link": "https://generativeai.pub/qwen4-runs-on-12gb-vram-heres-what-the-benchmarks-don-t-show-54b7a6b04b15?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-17T06:26:34.000Z",
-          "wordCount": null,
-          "title": "Qwen4 Runs on 12GB VRAM. Here’s What the Benchmarks Don’t Show.",
           "imageUrl": null
         }
       ]
