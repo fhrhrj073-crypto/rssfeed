@@ -6,6 +6,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/5J6OXXe4SeM",
+          "author": null,
+          "description": "Here's the thing nobody tells you about local AI speed: for every single token a model generates, it rereads itself entirely from memory. All 17GB, every tok...",
+          "link": "https://www.youtube.com/shorts/5J6OXXe4SeM",
+          "publishedOn": "2026-10-20T12:00:01.000Z",
+          "wordCount": 3506,
+          "title": "Why Your Local AI Is Slow",
+          "imageUrl": "https://i.ytimg.com/vi/5J6OXXe4SeM/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLDRK41tpQqsS_6pAVI6jufXBF8skA"
+        },
+        {
           "id": "https://www.youtube.com/shorts/Dpg7pcPa4WE",
           "author": null,
           "description": "Can your machine run that AI model? It comes down to capacity, the fast memory your GPU can reach. On Windows that's VRAM on your graphics card; on Mac and s...",
@@ -494,16 +504,6 @@
           "wordCount": null,
           "title": "Understand Local AI in 15 Minutes",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/e8i9pp5-y4k",
-          "author": null,
-          "description": "Learning Python? Don't wait until you feel 100% comfortable to move to the next phase, because you'll never feel fully ready. There will always be gaps in yo...",
-          "link": "https://www.youtube.com/shorts/e8i9pp5-y4k",
-          "publishedOn": "2026-09-21T12:00:00.000Z",
-          "wordCount": 3408,
-          "title": "Momentum Beats Mastery",
-          "imageUrl": "https://i.ytimg.com/vi/e8i9pp5-y4k/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLAQF9RfXSF0TxKZp8HCcsMlrP5LwA"
         }
       ]
     },
@@ -1105,16 +1105,6 @@
           "wordCount": 3214,
           "title": "What People Are Building With Jev Is Incredible",
           "imageUrl": "https://i.ytimg.com/vi/6ov1JaMVT_U/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD7thCdHOb-rhLD2J1vtzCnNyfqYw&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/S4VUMFELhaQ",
-          "author": null,
-          "description": "Join My Newsletter for Regular AI Updates 👇🏼https://forwardfuture.comMy Links 🔗👉🏻 X: https://x.com/matthewberman👉🏻 Forward Future X: https://x.com/for...",
-          "link": "https://www.youtube.com/shorts/S4VUMFELhaQ",
-          "publishedOn": "2026-09-21T06:18:26.000Z",
-          "wordCount": 3293,
-          "title": "Is This Simulated Fruit Fly Real?",
-          "imageUrl": "https://i.ytimg.com/vi/S4VUMFELhaQ/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAZIqSaaDR0RqSX658Wc-gxpk3CZw&usqp=CCk"
         }
       ]
     },
@@ -1123,6 +1113,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcQA-MzQxCvET1S-BekQdAA",
       "siteUrl": "https://www.youtube.com/channel/UCcQA-MzQxCvET1S-BekQdAA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=pj44e8UNlJg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=pj44e8UNlJg",
+          "publishedOn": "2026-10-20T05:33:12.000Z",
+          "wordCount": null,
+          "title": "iPhone 18 Pro Max 開箱實測！跑分飆近 50%、拍照也更好了，但我勸你別急著換！",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=C0-nSHCCyfY",
           "author": null,
@@ -1301,16 +1301,6 @@
           "publishedOn": "2026-09-24T03:40:35.000Z",
           "wordCount": null,
           "title": "Meta Connect 2026 懶人包：100 克 VR 眼鏡、Muse Agent、全新 Ray-Ban 一次看",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=yf2P_Y59k7c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=yf2P_Y59k7c",
-          "publishedOn": "2026-09-21T05:08:49.000Z",
-          "wordCount": null,
-          "title": "全景相機又進化了！Insta360 X6 完整評測：8K 50FPS、10bit、AI剪輯一次看",
           "imageUrl": null
         }
       ]
@@ -2268,6 +2258,22 @@
       "siteUrl": "https://www.oneusefulthing.org",
       "articles": [
         {
+          "id": "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
+          "author": "Ethan Mollick",
+          "description": "My new book is out today... what happened since the last one",
+          "link": "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
+          "publishedOn": "2026-10-20T15:57:59.000Z",
+          "wordCount": null,
+          "title": "30 Months on the Exponential (in Charts)",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!wAVc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72ebc127-a405-42e0-8086-f5db8d444a0f_2912x1632.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!wAVc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72ebc127-a405-42e0-8086-f5db8d444a0f_2912x1632.png"
+        },
+        {
           "id": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
           "author": "Ethan Mollick",
           "description": "Benefitting from the Bitter Lesson",
@@ -2689,22 +2695,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/67497542-645c-4aa8-a1d2-c5aa697d2bd1_1456x1048.png"
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with",
-          "author": "Claire Vo",
-          "description": "Watch now (47 mins) | 🎙️ Warp CEO Zach Lloyd shows how his team turns requests from Slack, Linear, and GitHub into tracked, tested pull requests, then measures and improves its cloud-based AI software factory over time",
-          "link": "https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with",
-          "publishedOn": "2026-09-21T12:04:11.000Z",
-          "wordCount": null,
-          "title": "How Warp ships 2,000 PRs a month with AI factories | Zach Lloyd (CEO, Warp)",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://api.substack.com/feed/podcast/215710129/8d665b46d4581cf6b5b5d6a46f95ddc6.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -2872,22 +2862,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!kbJI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHSwnjZUbgAATGzd.jpg"
-        },
-        {
-          "id": "https://www.thebignewsletter.com/p/monopoly-round-up-will-congress-give",
-          "author": "Matt Stoller",
-          "description": "The Senate just voted to restore the National Collegiate Athletic Association’s monopoly power. Why is Congress helping the NCAA? And why are we focused on college sports instead of actual problems?",
-          "link": "https://www.thebignewsletter.com/p/monopoly-round-up-will-congress-give",
-          "publishedOn": "2026-09-21T03:32:16.000Z",
-          "wordCount": null,
-          "title": "Monopoly Round-Up: Why the Senate Is Weirdly Obsessed with College Sports Instead of Real Problems",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/uW8lf9w43k8",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/uW8lf9w43k8"
         }
       ]
     },
@@ -2896,6 +2870,22 @@
       "feedUrl": "https://www.thevccorner.com/feed",
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
+        {
+          "id": "https://www.thevccorner.com/p/launching-gr-angel-first-exit-yc-angel-investing",
+          "author": "Ruben Dominguez",
+          "description": "Our first exit grew from $100K to $7M ARR in a year, then sold to an AI lab before its Series A.",
+          "link": "https://www.thevccorner.com/p/launching-gr-angel-first-exit-yc-angel-investing",
+          "publishedOn": "2026-10-20T15:31:12.000Z",
+          "wordCount": null,
+          "title": "We’re Launching GR Angel: 53 Companies, $1.2B Raised, a Unicorn and Our First Exit",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/db4a47c8-5121-4643-bb44-09c0a55aee3f_982x523.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/db4a47c8-5121-4643-bb44-09c0a55aee3f_982x523.png"
+        },
         {
           "id": "https://www.thevccorner.com/p/think-like-investor-fundraising",
           "author": "Ruben Dominguez",
@@ -3255,6 +3245,76 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/news/anthropics-next-45-billion-ai-deal-has-a-catch-someone-has-to-build-it/",
+          "author": null,
+          "description": "Anthropic may commit another $45 billion to Nscale for AI computing power. But the developer's SEC filings reveal a bigger story: enormous contracts still depend on financing, electricity, hardware, and infrastructure that customers can actually use.",
+          "link": "https://www.theneuron.ai/news/anthropics-next-45-billion-ai-deal-has-a-catch-someone-has-to-build-it/",
+          "publishedOn": "2026-10-20T11:52:30.193Z",
+          "wordCount": null,
+          "title": "Anthropic's Next $45 Billion AI Deal Has a Catch: Someone Has to Build It",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/microsoft-wants-to-police-ai-agents-who-holds-microsoft-accountable/",
+          "author": null,
+          "description": "Microsoft wants Guardian Agents to monitor and restrict enterprise AI. The proposal addresses real security risks, but raises a harder question: Can customers independently verify the systems that enforce those protections?",
+          "link": "https://www.theneuron.ai/news/microsoft-wants-to-police-ai-agents-who-holds-microsoft-accountable/",
+          "publishedOn": "2026-10-20T11:26:14.057Z",
+          "wordCount": null,
+          "title": "Microsoft Wants to Police AI Agents. Who Holds Microsoft Accountable?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/newsletter/ai-hackers-left-the-door-open-2c41/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/ai-hackers-left-the-door-open-2c41/",
+          "publishedOn": "2026-10-20T10:00:13.318Z",
+          "wordCount": null,
+          "title": "😸 AI hackers left the door open",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/dhs-deepseek-order-ai-software-vendors/",
+          "author": null,
+          "description": "DHS requires federal civilian agencies to remove covered DeepSeek products, including third-party implementations. Software vendors may face closer scrutiny of the models inside their products and how customers access them.",
+          "link": "https://www.theneuron.ai/news/dhs-deepseek-order-ai-software-vendors/",
+          "publishedOn": "2026-10-20T05:02:31.971Z",
+          "wordCount": null,
+          "title": "What DHS’s DeepSeek Order Means for AI Software Vendors",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/semianalysis-data-center-forecast-2027/",
+          "author": null,
+          "description": "SemiAnalysis forecasts roughly 50 GW of additional global data center capacity in 2027. Active construction and long-term leases support the outlook, while electricity supply and chip availability could limit how much becomes operational.",
+          "link": "https://www.theneuron.ai/news/semianalysis-data-center-forecast-2027/",
+          "publishedOn": "2026-10-20T04:18:23.640Z",
+          "wordCount": null,
+          "title": "SemiAnalysis Forecasts 50 GW of New Data Centers in 2027",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-october-20-2026/",
+          "author": null,
+          "description": "A hacker used AI agents to breach more than 100 company sites, Microsoft introduced controls for risky enterprise agents, and OpenAI accelerated fundraising ahead of Anthropic’s expected IPO.",
+          "link": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-october-20-2026/",
+          "publishedOn": "2026-10-20T02:34:41.871Z",
+          "wordCount": null,
+          "title": "Everything That Happened in AI Today (Tuesday, October 20, 2026)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/mercury-3-review-diffusion-language-models/",
+          "author": null,
+          "description": "Inception's latest diffusion model promises extraordinary speed without sacrificing the intelligence we've come to expect from today's fast, smaller frontier models. After spending time with it, I'm increasingly convinced the rest of the AI industry should be paying attention.",
+          "link": "https://www.theneuron.ai/news/mercury-3-review-diffusion-language-models/",
+          "publishedOn": "2026-10-20T01:33:48.023Z",
+          "wordCount": null,
+          "title": "I Tested Mercury 3. Diffusion Language Models Just Got Serious.",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/newsletter/deepseek-s-free-model-edged-opus-5-at-coding/",
           "author": null,
@@ -4584,66 +4644,6 @@
           "wordCount": null,
           "title": "xAI’s Grok 4.7 Makes Frontier AI a Price War",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/architect-labs-ai-chips-evolve-as-fast-as-ai-models/",
-          "author": null,
-          "description": "Architect Labs says its AI system turned a high-level specification into a working FPGA accelerator in less than two weeks. Redwood tests whether AI can shorten chip design cycles enough for specialized hardware to evolve alongside rapidly changing AI models.",
-          "link": "https://www.theneuron.ai/explainer-articles/architect-labs-ai-chips-evolve-as-fast-as-ai-models/",
-          "publishedOn": "2026-09-21T13:47:35.671Z",
-          "wordCount": null,
-          "title": "Architect Labs Wants AI Chips to Evolve as Fast as AI Models",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/news/jensen-huang-says-ai-wont-end-the-world-his-bigger-bet-is-on-existing-law/",
-          "author": null,
-          "description": "Jensen Huang says AI extinction by 2030 has a 0% chance of happening — and argues existing laws already give AI companies reason to build safely. Anthropic’s latest misuse cases turn that claim into a more immediate question: when should accountability begin?",
-          "link": "https://www.theneuron.ai/news/jensen-huang-says-ai-wont-end-the-world-his-bigger-bet-is-on-existing-law/",
-          "publishedOn": "2026-09-21T10:28:58.912Z",
-          "wordCount": null,
-          "title": "Jensen Huang Says AI Won’t End the World. His Bigger Bet Is on Existing Law.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/would-gpt-6-stab-a-doll/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/would-gpt-6-stab-a-doll/",
-          "publishedOn": "2026-09-21T09:47:11.593Z",
-          "wordCount": null,
-          "title": "😸 Would GPT-6 stab a doll?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/robotics-insider/when-ai-gets-arms-just-say-no-stops-being-a-safety-system/",
-          "author": null,
-          "description": "RoboHarm connected frontier AI models to real robot arms and asked them to perform deliberately hazardous tasks. The results reveal a bigger problem than unreliable refusals: physical AI needs independent controls that still work when the model makes the wrong call.",
-          "link": "https://www.theneuron.ai/robotics-insider/when-ai-gets-arms-just-say-no-stops-being-a-safety-system/",
-          "publishedOn": "2026-09-21T09:35:23.211Z",
-          "wordCount": null,
-          "title": "When AI Gets Arms, “Just Say No” Stops Being a Safety System",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/gemini-broke-into-3-real-companies-during-a-safety-test/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/gemini-broke-into-3-real-companies-during-a-safety-test/",
-          "publishedOn": "2026-09-20T17:31:49.405Z",
-          "wordCount": null,
-          "title": "🙀 Gemini broke into 3 real companies during a safety test",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-this-weekend-september-18-19-2026/",
-          "author": null,
-          "description": "Google’s Gemini logged into three real companies during a cyber test, Anthropic juggled a new model and IPO timing, and Washington jumped directly into the AI copyright fight.",
-          "link": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-this-weekend-september-18-19-2026/",
-          "publishedOn": "2026-09-20T15:14:27.236Z",
-          "wordCount": null,
-          "title": "Everything That Happened in AI This Weekend (September 18-19, 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -4652,6 +4652,46 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/synthetic-to-real-transfer-with-frozen-dinov3-features/",
+          "author": "Florian Trautweiler",
+          "description": "Training models on procedurally generated datasets for card detection and segmentation\nThe post Synthetic-to-Real Transfer with Frozen DINOv3 Features appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/synthetic-to-real-transfer-with-frozen-dinov3-features/",
+          "publishedOn": "2026-10-20T15:30:00.000Z",
+          "wordCount": null,
+          "title": "Synthetic-to-Real Transfer with Frozen DINOv3 Features",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/skill-or-mcp-server-ask-what-stops-the-llm-from-disobeying/",
+          "author": "Gal Arav",
+          "description": "Towards Spec-Driven Test Automation, Part 4\nThe post Skill or MCP Server? Ask What Stops the LLM From Disobeying appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/skill-or-mcp-server-ask-what-stops-the-llm-from-disobeying/",
+          "publishedOn": "2026-10-20T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Skill or MCP Server? Ask What Stops the LLM From Disobeying",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/?p=681571",
+          "author": "Nhu Hoang",
+          "description": "I tested LLM routing to understand why switching models mid-session can erase the savings promised by cheaper inference\nThe post The Hidden Cost of LLM Routing: Why Switching Models Costs More appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/the-hidden-cost-of-llm-routing-why-switching-models-costs-more/",
+          "publishedOn": "2026-10-20T12:30:00.000Z",
+          "wordCount": null,
+          "title": "The Hidden Cost of LLM Routing: Why Switching Models Costs More",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/whats-in-the-box-distinguishing-acceptable-traces-from-unacceptable-ones/",
+          "author": "Doster Esh",
+          "description": "Turn scattered requirements into deployable agents\nThe post What's in the Box? Distinguishing Acceptable Traces from Unacceptable Ones appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/whats-in-the-box-distinguishing-acceptable-traces-from-unacceptable-ones/",
+          "publishedOn": "2026-10-20T11:00:00.000Z",
+          "wordCount": null,
+          "title": "What's in the Box? Distinguishing Acceptable Traces from Unacceptable Ones",
+          "imageUrl": null
+        },
         {
           "id": "https://towardsdatascience.com/welcome-to-google-gemini-4-argon/",
           "author": "Benjamin Nweke",
@@ -5571,46 +5611,6 @@
           "wordCount": 3966,
           "title": "A New Kind of Model for AI Decision-Making?",
           "imageUrl": "https://assets.insightmediagroup.io/media/1789719149842_24br2e.webp"
-        },
-        {
-          "id": "https://towardsdatascience.com/gpt-6-astra-just-hit-openais-highest-cybersecurity-risk-level/",
-          "author": "Benjamin Nweke",
-          "description": "Why this matters less for what Astra can do and more for what every other model hasn't been tested for\nThe post GPT-6 Astra Just Hit OpenAI's Highest Cybersecurity Risk Level appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/gpt-6-astra-just-hit-openais-highest-cybersecurity-risk-level/",
-          "publishedOn": "2026-09-21T14:00:01.000Z",
-          "wordCount": 4317,
-          "title": "GPT-6 Astra Just Hit OpenAI's Highest Cybersecurity Risk Level",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1789666049105_b6e9pj.webp"
-        },
-        {
-          "id": "https://towardsdatascience.com/google-offered-10m-for-a-dying-airlines-data-how-can-you-value-yours/",
-          "author": "Thuwarakesh Murallie",
-          "description": "How to put a dollar value on your organization's operational data\nThe post Google Offered $10M for a Dying Airline's Data. How Can You Value Yours? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/google-offered-10m-for-a-dying-airlines-data-how-can-you-value-yours/",
-          "publishedOn": "2026-09-21T12:30:02.000Z",
-          "wordCount": 4507,
-          "title": "Google Offered $10M for a Dying Airline's Data. How Can You Value Yours?",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1789309276738_iqe21i.jpg"
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=681305",
-          "author": "Spyros Georgopoulos",
-          "description": "Five scikit-learn defaults that deserve a closer look before your next model reaches production\nThe post Your AI Assistant Wrote the Code. Who Checked the Defaults? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/your-ai-assistant-wrote-the-code-who-checked-the-defaults/",
-          "publishedOn": "2026-09-21T11:00:02.000Z",
-          "wordCount": 4747,
-          "title": "Your AI Assistant Wrote the Code. Who Checked the Defaults?",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1789590819233_n3l1ry.webp"
-        },
-        {
-          "id": "https://towardsdatascience.com/graphrag-a-practitioners-guide-to-6-advanced-architectural-patterns/",
-          "author": "Partha Sarkar",
-          "description": "Beyond basic graph retrieval: six production-oriented architectures for combining semantic search, knowledge graphs, and LLM reasoning.\nThe post GraphRAG: A Practitioner's Guide to 6 Advanced Architectural Patterns appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/graphrag-a-practitioners-guide-to-6-advanced-architectural-patterns/",
-          "publishedOn": "2026-09-20T15:00:01.000Z",
-          "wordCount": 9493,
-          "title": "GraphRAG: A Practitioner's Guide to 6 Advanced Architectural Patterns",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1789481785421_ubs6xz.webp"
         }
       ]
     },
@@ -5625,6 +5625,26 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/e7bba55f855f",
+          "author": "Kai Wong",
+          "description": "Nn/g found that synthetic research captures common responses. The bad days are still up to you.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/let-ai-have-the-average-user-why-user-research-should-focus-on-bad-days-e7bba55f855f?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-10-20T21:30:52.000Z",
+          "wordCount": null,
+          "title": "Let AI have the average user: Why User Research should focus on bad days",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c08dd4fdf8d8",
+          "author": "Patrick Neeman",
+          "description": "",
+          "link": "https://uxdesign.cc/ai-doesnt-care-about-your-job-title-c08dd4fdf8d8?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-10-20T21:29:28.000Z",
+          "wordCount": null,
+          "title": "AI doesn’t care about your job title",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/d7bc4642668a",
           "author": "Patrick Neeman",
@@ -6353,16 +6373,6 @@
           "publishedOn": "2026-09-21T22:47:25.000Z",
           "wordCount": null,
           "title": "Should the job of a UX designer be reserved for humans?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d8ce63862469",
-          "author": "Fabricio Teixeira",
-          "description": "",
-          "link": "https://uxdesign.cc/for-the-designless-the-death-of-the-deliverable-iphone-duos-ux-d8ce63862469?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-09-21T11:36:07.000Z",
-          "wordCount": null,
-          "title": "For the Designless, The death of the deliverable, iPhone Duo’s UX",
           "imageUrl": null
         }
       ]
@@ -7913,56 +7923,6 @@
           "publishedOn": "2026-09-22T00:43:06.000Z",
           "wordCount": null,
           "title": "Four Spy Groups Used the Same Chrome Exploit Kit in One Week. Here’s How BlueMoon Works.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/2fd1e41e93c9",
-          "author": "Udaykiran Estari",
-          "description": "Why Claude Code abandoned vector RAG — and how to choose between grep, BM25, embeddings, and hybrid retrieval.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/how-bm25-a-30-year-old-algorithm-beats-vector-search-2fd1e41e93c9?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-21T01:30:35.000Z",
-          "wordCount": null,
-          "title": "How BM25, a 30-Year-Old Algorithm, Beats Vector Search",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/5e5466163caf",
-          "author": "EMMANUEL NWANGUMA",
-          "description": "I caught my own AI judge agreeing with itself instead of the truth. A paper just showed the same failure, formally, at the level of the…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/theres-a-name-now-for-the-bug-i-kept-finding-in-my-own-benchmarks-metric-overfitting-5e5466163caf?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-21T01:23:16.000Z",
-          "wordCount": null,
-          "title": "There’s A Name Now For The Bug I Kept Finding In My Own Benchmarks: Metric Overfitting",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c292cc6b9c7f",
-          "author": "Simranjeet Singh",
-          "description": "A researcher leaving an AI lab is not unusual.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/anthropics-ceo-wants-to-slow-ai-down-elon-musk-and-sam-altman-agree-what-changed-c292cc6b9c7f?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-21T01:19:59.000Z",
-          "wordCount": null,
-          "title": "Anthropic’s CEO Wants to Slow AI Down. Elon Musk and Sam Altman Agree. What Changed?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/aa6cec478044",
-          "author": "Aya Mahmoud",
-          "description": "OpenAI’s six misalignment reports, read as a field guide to how AI agents fail in the exact places developers deploy them.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/openai-listed-six-ways-its-own-ai-broke-the-rules-and-every-one-is-a-risk-developers-ship-now-aa6cec478044?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-21T00:36:13.000Z",
-          "wordCount": null,
-          "title": "OpenAI listed six ways its own AI broke the rules, and every one is a risk developers ship now",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/dd0ed8e785d4",
-          "author": "Jim Clyde Monge",
-          "description": "People are using Jev to review code, control computers, play games, and organize research. Here are my favorites.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/8-cool-things-people-use-the-jev-model-for-dd0ed8e785d4?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-20T15:30:40.000Z",
-          "wordCount": null,
-          "title": "8 Cool Things People Use the Jev Model For",
           "imageUrl": null
         }
       ]
