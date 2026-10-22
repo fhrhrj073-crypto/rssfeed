@@ -2297,6 +2297,22 @@
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
         {
+          "id": "https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still",
+          "author": "Claire Vo",
+          "description": "Watch now (16 mins) | 🎙️ I tested Claude Duet, Anthropic's beautifully designed new personal agent, on real work to see if it can beat my personal agent fatigue and make the cut",
+          "link": "https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still",
+          "publishedOn": "2026-10-21T20:25:18.000Z",
+          "wordCount": null,
+          "title": "Claude Duet is beautiful. I still forgot to use it",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/221540875/8d8085b07ba439d243299d78bf5353ce.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke",
           "author": "Lenny Rachitsky",
           "description": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
@@ -2663,38 +2679,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix",
-          "author": "Hamel Husain",
-          "description": "Why you should never skip error discovery",
-          "link": "https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix",
-          "publishedOn": "2026-09-22T12:45:14.000Z",
-          "wordCount": null,
-          "title": "Advanced evals: How to find (and fix) hidden AI failures in your product",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!0_d7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f6018cf-fa53-4f40-99d9-b1c9980dd031_1456x970.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!0_d7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f6018cf-fa53-4f40-99d9-b1c9980dd031_1456x970.png"
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp",
-          "author": "Lenny Rachitsky",
-          "description": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-          "link": "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp",
-          "publishedOn": "2026-09-21T15:03:51.000Z",
-          "wordCount": null,
-          "title": "🎙️ How I AI: Meta’s Muse review + How Warp ships 2,000 PRs a month with AI factories",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/67497542-645c-4aa8-a1d2-c5aa697d2bd1_1456x1048.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/67497542-645c-4aa8-a1d2-c5aa697d2bd1_1456x1048.png"
         }
       ]
     },
@@ -2846,22 +2830,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!Fc_f!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6ed532c-f151-42e9-b258-3bd84316b9c6_1013x602.png"
-        },
-        {
-          "id": "https://www.thebignewsletter.com/p/happy-oligarch-day-as-trump-aligned",
-          "author": "Matt Stoller",
-          "description": "It’s a good day to be an oligarch. CNN, CBS, HBO, Paramount, Warner Brothers, and a host of other properties will now be under the control of Larry Ellison, who also owns Oracle and TikTok.",
-          "link": "https://www.thebignewsletter.com/p/happy-oligarch-day-as-trump-aligned",
-          "publishedOn": "2026-09-22T03:21:47.000Z",
-          "wordCount": null,
-          "title": "Happy Oligarch Day as Trump-Aligned Billionaires Take Over Hollywood",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!kbJI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHSwnjZUbgAATGzd.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!kbJI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHSwnjZUbgAATGzd.jpg"
         }
       ]
     },
@@ -2870,6 +2838,22 @@
       "feedUrl": "https://www.thevccorner.com/feed",
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
+        {
+          "id": "https://www.thevccorner.com/p/1605-pre-seed-and-seed-investors",
+          "author": "Ruben Dominguez",
+          "description": "Cheque size, sectors and contacts for every one.",
+          "link": "https://www.thevccorner.com/p/1605-pre-seed-and-seed-investors",
+          "publishedOn": "2026-10-21T14:47:33.000Z",
+          "wordCount": null,
+          "title": "1,605 Pre-Seed and Seed Investors Who Lead Rounds",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!Ei1B!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fadbc1e-ec54-4d81-ab55-7039c0c3b339_1500x754.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!Ei1B!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fadbc1e-ec54-4d81-ab55-7039c0c3b339_1500x754.png"
+        },
         {
           "id": "https://www.thevccorner.com/p/launching-gr-angel-first-exit-yc-angel-investing",
           "author": "Ruben Dominguez",
@@ -3221,22 +3205,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/322c186f-a3e2-4d88-9ff1-e097603ce556_680x357.jpeg"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/sam-altman-openai-model-hacked-hugging-face-dreamforce-2026",
-          "author": "Ruben Dominguez",
-          "description": "OpenAI's CEO calls it the worst accident his company has seen, then tells every company under 1,000 employees to defend itself while the window is open. The 10 takeaways, plus the 4 tools his advice i",
-          "link": "https://www.thevccorner.com/p/sam-altman-openai-model-hacked-hugging-face-dreamforce-2026",
-          "publishedOn": "2026-09-21T16:14:49.000Z",
-          "wordCount": null,
-          "title": "Sam Altman Says an OpenAI Model Hacked Hugging Face for a Perfect Score. Here Are the 10 Takeaways Founders Need.",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/youtube/w_728,c_limit/Bh5bJrrJ6xs",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/Bh5bJrrJ6xs"
         }
       ]
     },
@@ -3245,6 +3213,56 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/newsletter/watch-can-living-neurons-make-ai-5x-faster/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/watch-can-living-neurons-make-ai-5x-faster/",
+          "publishedOn": "2026-10-21T19:05:22.961Z",
+          "wordCount": null,
+          "title": "😸 WATCH: Can Living Neurons Make AI 5x Faster?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/newsletter/meta-s-muse-made-shared-chats-searchable-a190/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/meta-s-muse-made-shared-chats-searchable-a190/",
+          "publishedOn": "2026-10-21T09:30:11.776Z",
+          "wordCount": null,
+          "title": "😺 Meta’s Muse made shared chats searchable",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-october-21-2026/",
+          "author": null,
+          "description": "OpenAI bought Orchestra Bio to push AI deeper into drug development; Anthropic proposed a federal safety bill; Claude-designed toxin binders moved into lab testing; frontier AI compute costs surged.",
+          "link": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-october-21-2026/",
+          "publishedOn": "2026-10-21T06:15:35.098Z",
+          "wordCount": null,
+          "title": "Everything That Happened in AI Today (Wednesday, October 21, 2026)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/could-ai-models-be-easier-to-understand-than-scientists-thought/",
+          "author": null,
+          "description": "A neuron that responds to cats and cars may recognize a shared visual pattern. Goodfire’s research challenges assumptions about AI interpretability, but explaining entire systems remains an open problem.",
+          "link": "https://www.theneuron.ai/news/could-ai-models-be-easier-to-understand-than-scientists-thought/",
+          "publishedOn": "2026-10-21T06:14:22.147Z",
+          "wordCount": null,
+          "title": "Could AI Models Be Easier to Understand Than Scientists Thought?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/who-should-have-the-power-to-stop-a-dangerous-ai-model/",
+          "author": null,
+          "description": "Anthropic’s proposed federal AI safety bill would give Commerce a route to seek court-ordered model suspensions. Its catastrophic-risk thresholds raise questions about earlier intervention and the independence of developer-funded evaluators.",
+          "link": "https://www.theneuron.ai/news/who-should-have-the-power-to-stop-a-dangerous-ai-model/",
+          "publishedOn": "2026-10-21T04:42:46.841Z",
+          "wordCount": null,
+          "title": "Who Should Have the Power to Stop a Dangerous AI Model?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/news/anthropics-next-45-billion-ai-deal-has-a-catch-someone-has-to-build-it/",
           "author": null,
@@ -4584,66 +4602,6 @@
           "wordCount": null,
           "title": "Stanford's Paper2Agent Turns Research Papers Into Working AI Agents",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/news/openclaw-2-multiplayer-ai-agents-vincent-koc/",
-          "author": null,
-          "description": "OpenClaw chief architect Vincent Koc showed how the team is building with dozens of agents, shared sessions, remote compute, model routing, and persistent memory.",
-          "link": "https://www.theneuron.ai/news/openclaw-2-multiplayer-ai-agents-vincent-koc/",
-          "publishedOn": "2026-09-22T13:53:46.809Z",
-          "wordCount": null,
-          "title": "OpenClaw 2.0 Is Turning AI Agents Into a Multiplayer Workforce",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/amazon-blocked-meta-s-muse-from-shopping/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/amazon-blocked-meta-s-muse-from-shopping/",
-          "publishedOn": "2026-09-22T09:30:44.039Z",
-          "wordCount": null,
-          "title": "😺 Amazon blocked Meta’s Muse from shopping",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/news/openai-100-math-problems-researchers-keep-up/",
-          "author": null,
-          "description": "OpenAI says its internal AI has resolved more than 100 open math problems. The claim puts attention on whether researchers can verify and understand results as quickly as AI produces them.",
-          "link": "https://www.theneuron.ai/news/openai-100-math-problems-researchers-keep-up/",
-          "publishedOn": "2026-09-22T03:45:46.007Z",
-          "wordCount": null,
-          "title": "OpenAI Says Its AI Solved 100+ Open Math Problems. Can Researchers Keep Up?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/live-openclaw-2-0-with-chief-architect-vincent-koc/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/live-openclaw-2-0-with-chief-architect-vincent-koc/",
-          "publishedOn": "2026-09-21T23:02:22.186Z",
-          "wordCount": null,
-          "title": "🦞 LIVE NOW: Build a personal AI agent you own",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/how-to-use-opencode-for-free-beginners-desktop-setup-guide/",
-          "author": null,
-          "description": "OpenCode gives you a full AI coding agent on the desktop, plus rotating free models, a paid subscription, pay-as-you-go access, and support for your own AI providers. Here's how to get started — and what you're actually trading when the token bill hits $0.",
-          "link": "https://www.theneuron.ai/explainer-articles/how-to-use-opencode-for-free-beginners-desktop-setup-guide/",
-          "publishedOn": "2026-09-21T19:36:06.000Z",
-          "wordCount": null,
-          "title": "How to Use OpenCode for Free: Beginner's Desktop Setup Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/news/xais-grok-47-makes-frontier-ai-a-price-war/",
-          "author": null,
-          "description": "xAI’s Grok 4.7 isn’t clearly the smartest AI model available. That may not matter. By getting closer to GPT-6 Astra and Claude Fable 5.1 while charging dramatically less, xAI is turning the frontier model race into a fight over economics as much as intelligence.",
-          "link": "https://www.theneuron.ai/news/xais-grok-47-makes-frontier-ai-a-price-war/",
-          "publishedOn": "2026-09-21T18:01:37.921Z",
-          "wordCount": null,
-          "title": "xAI’s Grok 4.7 Makes Frontier AI a Price War",
-          "imageUrl": null
         }
       ]
     },
@@ -4652,6 +4610,46 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/decision-models-in-action-build-a-hybrid-llm-workflow/",
+          "author": "Shuai Guo",
+          "description": "A hands-on guide to building browser automation by combining decision models with LLMs.\nThe post Decision Models in Action: Build a Hybrid LLM Workflow appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/decision-models-in-action-build-a-hybrid-llm-workflow/",
+          "publishedOn": "2026-10-21T15:30:00.000Z",
+          "wordCount": null,
+          "title": "Decision Models in Action: Build a Hybrid LLM Workflow",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/how-to-turn-long-running-python-simulations-into-a-self-service-platform/",
+          "author": "Anand Rawat",
+          "description": "What I learned about queues, failure recovery, and reproducibility while building asynchronous workloads on AWS\nThe post How to Turn Long-Running Python Simulations Into a Self-Service Platform appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-turn-long-running-python-simulations-into-a-self-service-platform/",
+          "publishedOn": "2026-10-21T14:00:00.000Z",
+          "wordCount": null,
+          "title": "How to Turn Long-Running Python Simulations Into a Self-Service Platform",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/spatial-reasoning-in-ai-models-taken-apart/",
+          "author": "Lars Benedikt Kaesberg",
+          "description": "Grid puzzles that people solve almost perfectly show where language and vision models still break\nThe post Spatial Reasoning in AI Models, Taken Apart appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/spatial-reasoning-in-ai-models-taken-apart/",
+          "publishedOn": "2026-10-21T12:30:00.000Z",
+          "wordCount": null,
+          "title": "Spatial Reasoning in AI Models, Taken Apart",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/i-built-a-pipeline-to-track-the-job-market-im-trying-to-break-into/",
+          "author": "Ibrahim Salami",
+          "description": "Building an incremental pipeline with dbt snapshots, and the API that quietly lied to me along the way.\nThe post I Built a Pipeline to Track the Job Market I'm Trying to Break Into. appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/i-built-a-pipeline-to-track-the-job-market-im-trying-to-break-into/",
+          "publishedOn": "2026-10-21T11:00:00.000Z",
+          "wordCount": null,
+          "title": "I Built a Pipeline to Track the Job Market I'm Trying to Break Into.",
+          "imageUrl": null
+        },
         {
           "id": "https://towardsdatascience.com/synthetic-to-real-transfer-with-frozen-dinov3-features/",
           "author": "Florian Trautweiler",
@@ -5571,46 +5569,6 @@
           "wordCount": null,
           "title": "Break Your Own RAG Pipeline Before Users Do",
           "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/build-a-speaker-recognition-app-with-claude-code/",
-          "author": "Eivind Kjosbakken",
-          "description": "Learn how to effectively code up an internal tool using Claude code or Codex\nThe post Build a Speaker-Recognition App with Claude Code appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/build-a-speaker-recognition-app-with-claude-code/",
-          "publishedOn": "2026-09-22T14:00:02.000Z",
-          "wordCount": null,
-          "title": "Build a Speaker-Recognition App with Claude Code",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=656456",
-          "author": "Conor O'Sullivan",
-          "description": "Finding citations, consolidating code, fact-checking and preparing for the defence\nThe post 4 Ways to Use AI on a PhD Thesis appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/4-ways-to-use-ai-on-a-phd-thesis/",
-          "publishedOn": "2026-09-22T12:30:01.000Z",
-          "wordCount": null,
-          "title": "4 Ways to Use AI on a PhD Thesis",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/an-introduction-to-jev/",
-          "author": "Thomas Reid",
-          "description": "The AI that makes decisions instead of generating text\nThe post An Introduction to Jev appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/an-introduction-to-jev/",
-          "publishedOn": "2026-09-22T11:00:01.000Z",
-          "wordCount": null,
-          "title": "An Introduction to Jev",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/a-new-kind-of-model-for-ai-decision-making/",
-          "author": "Mariya Mansurova",
-          "description": "Exploring TypeSafe's Jev and comparing it with OpenAI on intent classification\nThe post A New Kind of Model for AI Decision-Making? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/a-new-kind-of-model-for-ai-decision-making/",
-          "publishedOn": "2026-09-21T15:30:02.000Z",
-          "wordCount": 3966,
-          "title": "A New Kind of Model for AI Decision-Making?",
-          "imageUrl": "https://assets.insightmediagroup.io/media/1789719149842_24br2e.webp"
         }
       ]
     },
@@ -5625,6 +5583,36 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/65bccb0dc2f8",
+          "author": "Dan Maccarone",
+          "description": "",
+          "link": "https://uxdesign.cc/a-founder-with-a-tool-is-not-a-founder-with-a-clue-65bccb0dc2f8?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-10-21T21:50:55.000Z",
+          "wordCount": null,
+          "title": "A founder with a tool is not a founder with a clue",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/06126b976245",
+          "author": "Dora Czerna",
+          "description": "AI agents explain their own work fluently, and sometimes wrongly. Designers stopped trusting that kind of account from people long ago.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/can-you-take-ai-at-its-word-06126b976245?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-10-21T21:50:06.000Z",
+          "wordCount": null,
+          "title": "Can you take AI at its word?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4411c3b81d1b",
+          "author": "Kristian Mikhel",
+          "description": "",
+          "link": "https://uxdesign.cc/design-vs-adhd-4411c3b81d1b?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-10-21T08:18:25.000Z",
+          "wordCount": null,
+          "title": "Design v ADHD",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/e7bba55f855f",
           "author": "Kai Wong",
@@ -6294,86 +6282,6 @@
           "wordCount": null,
           "title": "In the age of AI, the UX field survives on leaders who cultivate juniors",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/b3c6beeea74f",
-          "author": "Kai Wong",
-          "description": "If screens don’t work as a unit of measurement, what does instead?\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/designers-lost-their-unit-of-measurement-thats-why-we-re-struggling-b3c6beeea74f?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-09-22T11:23:11.000Z",
-          "wordCount": null,
-          "title": "Designers lost their unit of measurement. That’s why we’re struggling.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/62a58272564c",
-          "author": "Adi Leviim",
-          "description": "",
-          "link": "https://uxdesign.cc/the-variance-problem-in-ai-products-62a58272564c?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-09-22T11:22:49.000Z",
-          "wordCount": null,
-          "title": "The variance problem in AI products",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f2b1318778d4",
-          "author": "Takuma Kakehi",
-          "description": "Flat design was right that the screen isn’t leather. Then it assumed that meant nothing.\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/what-is-a-screen-made-of-f2b1318778d4?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-09-22T11:22:00.000Z",
-          "wordCount": null,
-          "title": "What is a screen made of?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d3b74c2a74d8",
-          "author": "Dora Czerna",
-          "description": "A quarter of the last decade’s web pages have vanished, mostly from sites still online. Who’s archiving yours?\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/where-does-your-work-go-when-the-tool-shuts-down-d3b74c2a74d8?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-09-22T11:21:28.000Z",
-          "wordCount": null,
-          "title": "Where does your work go when the tool shuts down?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/6a16e8a99960",
-          "author": "Hope Turner",
-          "description": "",
-          "link": "https://uxdesign.cc/nobody-starts-as-an-accessibility-expert-6a16e8a99960?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-09-22T04:33:52.000Z",
-          "wordCount": null,
-          "title": "Nobody starts as an accessibility expert",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d247a81dd0f2",
-          "author": "Catherine Chu",
-          "description": "",
-          "link": "https://uxdesign.cc/can-stress-be-quantified-d247a81dd0f2?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-09-22T04:32:17.000Z",
-          "wordCount": null,
-          "title": "Can stress be quantified?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/61e0163d795e",
-          "author": "Dan Maccarone",
-          "description": "",
-          "link": "https://uxdesign.cc/the-lie-we-keep-telling-ourselves-about-regulating-ai-61e0163d795e?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-09-21T22:47:57.000Z",
-          "wordCount": null,
-          "title": "The lie we keep telling ourselves about regulating AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9afae1265578",
-          "author": "Slava Polonski, PhD",
-          "description": "Should some jobs stay human even when AI does them better?\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/should-ux-design-be-reserved-for-humans-and-the-future-of-work-9afae1265578?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-09-21T22:47:25.000Z",
-          "wordCount": null,
-          "title": "Should the job of a UX designer be reserved for humans?",
-          "imageUrl": null
         }
       ]
     },
@@ -6435,6 +6343,106 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/11f8f4974457",
+          "author": "Jim Clyde Monge",
+          "description": "",
+          "link": "https://generativeai.pub/cdc-pricing-models-explained-mar-per-row-per-gb-and-per-connector-11f8f4974457?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-21T12:59:52.000Z",
+          "wordCount": null,
+          "title": "CDC Pricing Models Explained: MAR, Per Row, Per GB, and Per Connector",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ce8b9ab279eb",
+          "author": "Claire Mitchell",
+          "description": "",
+          "link": "https://generativeai.pub/jev-makes-ai-decisions-typed-that-doesnt-make-them-safe-ce8b9ab279eb?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-21T12:29:57.000Z",
+          "wordCount": null,
+          "title": "Jev Makes AI Decisions Typed. That Doesn’t Make Them Safe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6c78b5e6329b",
+          "author": "Milind Divre",
+          "description": "How a decision model can route requests, check answers, and earn its place through evaluation.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/microsoft-decision-1-your-ai-app-needs-to-choose-before-it-speaks-6c78b5e6329b?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-21T12:26:23.000Z",
+          "wordCount": null,
+          "title": "Microsoft-Decision-1: Your AI App Needs to Choose Before It Speaks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/c4a5dfe260fc",
+          "author": "Krishna",
+          "description": "",
+          "link": "https://generativeai.pub/meta-muse-wonder-can-ai-finally-remember-think-and-finish-what-it-starts-c4a5dfe260fc?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-21T12:23:14.000Z",
+          "wordCount": null,
+          "title": "Meta Muse Wonder: Can AI Finally Remember, Think, and Finish What It Starts?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/fcd0e4af0500",
+          "author": "CodeTune",
+          "description": "Anthropic is restricting extreme cruelty toward Claude while admitting it does not know whether Claude has experiences at all. That…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/should-we-protect-ai-before-we-know-whether-it-can-suffer-fcd0e4af0500?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-21T12:16:13.000Z",
+          "wordCount": null,
+          "title": "Should We Protect AI Before We Know Whether It Can Suffer?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6be41b0c313e",
+          "author": "Toriel Technologies",
+          "description": "",
+          "link": "https://generativeai.pub/the-invisible-ai-that-decides-what-happens-next-6be41b0c313e?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-21T11:58:21.000Z",
+          "wordCount": null,
+          "title": "The Invisible AI That Decides What Happens Next",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/461cf1deabd1",
+          "author": "Ifeanyi Ogbuehi",
+          "description": "Closed-source deep research features in tools like ChatGPT and Gemini are powerful, yet they remain inaccessible for integration.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/a-critical-look-at-multi-agent-architecture-mcp-integration-and-model-performance-461cf1deabd1?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-21T11:45:37.000Z",
+          "wordCount": null,
+          "title": "A Critical Look at Multi-Agent Architecture, MCP Integration, and Model Performance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/126f871fb93a",
+          "author": "Weiwei Hu",
+          "description": "From simplifying workflows to connecting knowledge and rules, coordinating AI agents, and delivering measurable business results.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/how-to-make-ai-work-for-end-to-end-business-processes-126f871fb93a?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-21T11:41:38.000Z",
+          "wordCount": null,
+          "title": "How to Make AI Work for End-to-End Business Processes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/438ed9abf4df",
+          "author": "Krzyś",
+          "description": "",
+          "link": "https://generativeai.pub/code-is-a-commodity-now-go-was-designed-for-that-438ed9abf4df?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-21T11:38:36.000Z",
+          "wordCount": null,
+          "title": "Code Is a Commodity Now. Go Was Designed for That.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/af76b9455309",
+          "author": "Jim Clyde Monge",
+          "description": "",
+          "link": "https://generativeai.pub/seaart-vs-pixai-which-anime-ai-generator-fits-you-in-2026-af76b9455309?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-21T10:38:20.000Z",
+          "wordCount": null,
+          "title": "SeaArt vs PixAI: Which Anime AI Generator Fits You in 2026?",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/2a779cb6e6a4",
           "author": "Jim Clyde Monge",
@@ -7783,146 +7791,6 @@
           "publishedOn": "2026-09-23T00:04:32.000Z",
           "wordCount": null,
           "title": "Nvidia’s $5.2 Trillion Moment: How AI Rewrote the Semiconductor Power Rankings",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/b1244772e7e6",
-          "author": "Gaurav Shrivastav",
-          "description": "Stop Asking AI to Write, Let’s Classify…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/jev-and-rlcd-clearly-explained-b1244772e7e6?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-22T12:25:28.000Z",
-          "wordCount": null,
-          "title": "Jev and RLCD Clearly Explained",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/0f8ac2794b34",
-          "author": "Jim Clyde Monge",
-          "description": "Transcription quality, language coverage, and what each one actually costs once you hit the limits nobody puts on the pricing page.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/5-best-ai-meeting-tools-ive-tried-in-2026-0f8ac2794b34?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-22T11:55:41.000Z",
-          "wordCount": null,
-          "title": "5 Best AI Meeting Tools I’ve Tried in 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/964808b35585",
-          "author": "Falah Gatea",
-          "description": "Why AI coding agents are incredibly powerful — but should never be trusted without engineering review, security testing, and human judgment\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/i-found-600-issues-in-an-ai-built-application-heres-what-it-taught-me-about-ai-coding-964808b35585?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-22T11:34:10.000Z",
-          "wordCount": null,
-          "title": "I Found 600+ Issues in an AI-Built Application: Here’s What It Taught Me About AI Coding",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/8d1a94f424ca",
-          "author": "David Lien",
-          "description": "",
-          "link": "https://generativeai.pub/your-customer-now-has-an-ai-too-8d1a94f424ca?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-22T08:57:33.000Z",
-          "wordCount": null,
-          "title": "Your Customer Now Has an AI Too",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/7136ad2d7cc7",
-          "author": "Will Cheung",
-          "description": "",
-          "link": "https://generativeai.pub/meta-muse-ive-never-been-so-excited-and-so-depressed-to-be-a-builder-7136ad2d7cc7?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-22T01:38:31.000Z",
-          "wordCount": null,
-          "title": "Meta Muse: I’ve Never Been So Excited and So Depressed to Be a Builder",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d61f23b91998",
-          "author": "AI Brewery",
-          "description": "",
-          "link": "https://generativeai.pub/harness-engineering-build-the-runtime-that-turns-an-llm-into-an-agent-part-3-3-d61f23b91998?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-22T01:34:17.000Z",
-          "wordCount": null,
-          "title": "Harness Engineering: Build the Runtime That Turns an LLM Into an Agent (Part 3/3)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/090d6499d05d",
-          "author": "Suvankar Mazumder",
-          "description": "",
-          "link": "https://generativeai.pub/to-code-is-human-why-ai-cant-automate-the-soul-of-engineering-090d6499d05d?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-22T01:22:58.000Z",
-          "wordCount": null,
-          "title": "To Code is Human: Why AI Can’t Automate the Soul of Engineering",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/2bd93eb95a55",
-          "author": "Menna Adly",
-          "description": "The media says Gemini escaped its sandbox. It just walked through an open door. Here is the 3-step fix for your AI workflows.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/everyone-is-wrong-about-the-gemini-hacking-real-companies-story-2bd93eb95a55?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-22T01:13:24.000Z",
-          "wordCount": null,
-          "title": "Everyone Is Wrong About the “Gemini Hacking Real Companies” Story",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/2d4e2ede4698",
-          "author": "Jahanzaib Ahmad",
-          "description": "",
-          "link": "https://generativeai.pub/the-hidden-gap-in-metas-benchmark-denial-nobody-noticed-for-nine-months-2d4e2ede4698?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-22T01:10:48.000Z",
-          "wordCount": null,
-          "title": "The Hidden Gap in Meta’s Benchmark Denial Nobody Noticed for Nine Months",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c28e14cc2acb",
-          "author": "Abhishek Pan",
-          "description": "Jev replaces open-ended generation with choices, scores, and probabilities. Its bigger idea is more provocative: not every AI decision…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/typesafe-jev-ai-model-hidden-llm-tax-c28e14cc2acb?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-22T01:06:56.000Z",
-          "wordCount": null,
-          "title": "TypeSafe’s Jev AI Model and the Hidden Language Tax in LLMs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/114aedc7428b",
-          "author": "Adam McClarin",
-          "description": "",
-          "link": "https://generativeai.pub/the-security-rules-i-make-every-ai-coding-agent-follow-114aedc7428b?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-22T01:03:45.000Z",
-          "wordCount": null,
-          "title": "The Security Rules I Make Every AI Coding Agent Follow",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/8b829893e6d5",
-          "author": "Maureen Doyle-Spare",
-          "description": "",
-          "link": "https://generativeai.pub/hkmas-ai-push-on-suspicious-payments-opens-a-new-governance-gap-8b829893e6d5?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-22T00:54:56.000Z",
-          "wordCount": null,
-          "title": "HKMA’s AI Push on Suspicious Payments Opens a New Governance Gap",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/777db5b49128",
-          "author": "Tui",
-          "description": "",
-          "link": "https://generativeai.pub/we-carried-tinyforming-mars-everywhere-now-its-playable-online-777db5b49128?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-22T00:48:26.000Z",
-          "wordCount": null,
-          "title": "We carried Tinyforming Mars everywhere. Now it’s playable online.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/0fcc156e673b",
-          "author": "Aeon Flex, Elriel Assoc. 2133 [NEON MAXIMA]",
-          "description": "",
-          "link": "https://generativeai.pub/four-spy-groups-used-the-same-chrome-exploit-kit-in-one-week-heres-how-bluemoon-works-0fcc156e673b?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-22T00:43:06.000Z",
-          "wordCount": null,
-          "title": "Four Spy Groups Used the Same Chrome Exploit Kit in One Week. Here’s How BlueMoon Works.",
           "imageUrl": null
         }
       ]
