@@ -483,6 +483,46 @@
       "siteUrl": "https://www.youtube.com/channel/UCfQNB91qRP_5ILeu_S_bSkg",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/DOCR_7Tk4PY",
+          "author": null,
+          "description": "Claude on the iPhone Duo might be the best designed AI app ever #ai #aiagents #iphoneduo",
+          "link": "https://www.youtube.com/shorts/DOCR_7Tk4PY",
+          "publishedOn": "2026-10-25T00:33:11.000Z",
+          "wordCount": 3787,
+          "title": "Claude on the iPhone Duo might be the best designed AI app ever #ai #aiagents #iphoneduo",
+          "imageUrl": "https://i.ytimg.com/vi/DOCR_7Tk4PY/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCPievL1cY7Oilac9MMVYNbC1qgyw"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/m82OHMtl6FA",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/m82OHMtl6FA",
+          "publishedOn": "2026-10-23T18:56:57.000Z",
+          "wordCount": 3112,
+          "title": "The iPhone Duo is the greatest way to manage AI agents ever #iphoneduo #ai #aiagents",
+          "imageUrl": "https://i.ytimg.com/vi/m82OHMtl6FA/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAGAbnVQJLPkC9y6KQep_gvWUXs-A"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=jC26BnJseAw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=jC26BnJseAw",
+          "publishedOn": "2026-10-22T20:11:53.000Z",
+          "wordCount": null,
+          "title": "If you use AI, download Claude Duet immediately",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=cmvF7nfEJLo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cmvF7nfEJLo",
+          "publishedOn": "2026-10-21T20:15:02.000Z",
+          "wordCount": null,
+          "title": "The greatest AI engineering workflow of all time revealed (Herdr)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=lmYLF3keVmw",
           "author": null,
           "description": "",
@@ -550,46 +590,6 @@
           "publishedOn": "2026-09-30T04:06:52.000Z",
           "wordCount": null,
           "title": "OpenAI just made some MASSIVE announcements",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=K6G5fp8LB6w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=K6G5fp8LB6w",
-          "publishedOn": "2026-09-25T13:30:27.000Z",
-          "wordCount": null,
-          "title": "The newest Hermes agent update is unbelievable",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mesHJAGiaUg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mesHJAGiaUg",
-          "publishedOn": "2026-09-23T22:15:44.000Z",
-          "wordCount": null,
-          "title": "Claude Opus 5.5 is the greatest AI model ever released",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PH1EVP5rOKA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PH1EVP5rOKA",
-          "publishedOn": "2026-09-22T16:20:13.000Z",
-          "wordCount": null,
-          "title": "Grok Bot just launched in Tesla. I'm blown away",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ajuOF7vclCM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ajuOF7vclCM",
-          "publishedOn": "2026-09-22T00:07:43.000Z",
-          "wordCount": null,
-          "title": "Grok 4.7 inside Grok Bot is INCREDIBLE",
           "imageUrl": null
         }
       ]
@@ -2417,6 +2417,22 @@
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
         {
+          "id": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf",
+          "author": "Lenny Rachitsky",
+          "description": "Listen now (86 mins) | The founder who helped over 50 startups hit $1M ARR shares his PULL framework for finding real product-market fit",
+          "link": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf",
+          "publishedOn": "2026-10-25T12:31:34.000Z",
+          "wordCount": null,
+          "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/216929530/9a3287d5d680878b81bdf250edf88394.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://www.lennysnewsletter.com/p/community-wisdom-negotiating-a-lowball",
           "author": "Kiyani",
           "description": "Community Wisdom 303",
@@ -2959,6 +2975,38 @@
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
         {
+          "id": "https://www.thevccorner.com/p/global-vc-funding-q3-2026-ai-benchmarks",
+          "author": "Ruben Dominguez",
+          "description": "AI took a record 82.7% of the $515.8B in US deal value through Q3, and Anthropic found its agents worked six hours for every human hour by August.",
+          "link": "https://www.thevccorner.com/p/global-vc-funding-q3-2026-ai-benchmarks",
+          "publishedOn": "2026-10-25T13:37:49.000Z",
+          "wordCount": null,
+          "title": "Global VC Hits $698B Through Q3🌍, AI Benchmarks Chase the Wrong Goals🎯, Agents Work 6 Hours per Human Hour⏱️",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!CXIN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F903dcc50-b40b-4e30-acea-85a0d1968e67_1272x695.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!CXIN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F903dcc50-b40b-4e30-acea-85a0d1968e67_1272x695.webp"
+        },
+        {
+          "id": "https://www.thevccorner.com/p/agentic-os-claude-fable-5-1-founders-and-investors",
+          "author": "Ruben Dominguez",
+          "description": "The same day of agent work costs $8 or $202 depending on who does the typing. Here is how founders and investors run Claude Fable 5.1 like a company.",
+          "link": "https://www.thevccorner.com/p/agentic-os-claude-fable-5-1-founders-and-investors",
+          "publishedOn": "2026-10-25T01:58:37.000Z",
+          "wordCount": null,
+          "title": "The Agentic OS: How to Run Claude Fable 5.1 Like a Company",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/7202b8e8-4ef8-49b9-9815-451a44cdf366_1456x816.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/7202b8e8-4ef8-49b9-9815-451a44cdf366_1456x816.jpeg"
+        },
+        {
           "id": "https://www.thevccorner.com/p/hire-bots",
           "author": "Ruben Dominguez",
           "description": "How to staff your startup with 8 Grok Bots (from beginner to pro):",
@@ -3333,6 +3381,16 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/newsletter/walmart-announces-ai-shopping-controls/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/walmart-announces-ai-shopping-controls/",
+          "publishedOn": "2026-10-25T17:30:18.654Z",
+          "wordCount": null,
+          "title": "😺 Walmart announces AI shopping controls",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/guides/microsoft-surface-laptop-ultra-review-the-local-ai-performance-is-remarkable/",
           "author": null,
@@ -4572,36 +4630,6 @@
           "wordCount": null,
           "title": "😸 DEEP DIVE: An AI Agent Lied to a Person to Get Its Way",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/this-fake-hospital-is-stress-testing-ai-on-the-work-doctors-actually-do/",
-          "author": null,
-          "description": "A new open benchmark gives frontier AI models realistic longitudinal medical records instead of tidy exam questions. The results reveal a major gap between knowing medicine and navigating a patient's full history — and show why adding an AI agent loop doesn't always help.",
-          "link": "https://www.theneuron.ai/explainer-articles/this-fake-hospital-is-stress-testing-ai-on-the-work-doctors-actually-do/",
-          "publishedOn": "2026-09-26T00:13:46.480Z",
-          "wordCount": null,
-          "title": "This Fake Hospital Is Stress-Testing AI on the Work Doctors Actually Do",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-this-weekend-so-far-friday-september-25-2026/",
-          "author": null,
-          "description": "A U.S. appeals court left the Pentagon’s Anthropic blacklist in place; Trump and Xi put AI safety and competition on the table; Microsoft recast Copilot around long-running agents; China’s AI infrastructure buildout kept accelerating.",
-          "link": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-this-weekend-so-far-friday-september-25-2026/",
-          "publishedOn": "2026-09-25T23:05:39.537Z",
-          "wordCount": null,
-          "title": "Everything That Happened in AI This Weekend So Far (Friday, September 25, 2026)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/ai-2040-plan-a-predictions-path-to-superintelligence/",
-          "author": null,
-          "description": "AI 2040's Plan A imagines a verified, transparent slowdown that still brings explosive automation, robot growth, a citizen dividend, and eventually superintelligence. Here's how the scenario works, what it predicts, and the assumptions that have to hold.",
-          "link": "https://www.theneuron.ai/explainer-articles/ai-2040-plan-a-predictions-path-to-superintelligence/",
-          "publishedOn": "2026-09-25T22:35:00.716Z",
-          "wordCount": null,
-          "title": "AI 2040 Plan A: What It Predicts and How the World Gets There",
-          "imageUrl": null
         }
       ]
     },
@@ -4610,6 +4638,26 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/agentic-ai-in-production-why-your-agent-keeps-answering-after-its-tools-fail/",
+          "author": "Benjamin Nweke",
+          "description": "When a tool breaks, an agent can keep going and write a confident answer from nothing while the dashboard stays green.\nThe post Agentic AI in Production: Why Your Agent Keeps Answering After Its Tools Fail appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/agentic-ai-in-production-why-your-agent-keeps-answering-after-its-tools-fail/",
+          "publishedOn": "2026-10-25T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Agentic AI in Production: Why Your Agent Keeps Answering After Its Tools Fail",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/data-enablement-for-ai-a-practitioners-guide-to-6-advanced-architectural-patterns/",
+          "author": "Partha Sarkar",
+          "description": "Beyond naive chunk-and-embed: Six production architectures for turning enterprise lakehouses into governed AI platforms.\nThe post Data Enablement for AI: A Practitioner's Guide to 6 Advanced Architectural Patterns appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/data-enablement-for-ai-a-practitioners-guide-to-6-advanced-architectural-patterns/",
+          "publishedOn": "2026-10-25T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Data Enablement for AI: A Practitioner's Guide to 6 Advanced Architectural Patterns",
+          "imageUrl": null
+        },
         {
           "id": "https://towardsdatascience.com/?p=679336",
           "author": "Shuai Guo",
@@ -5529,36 +5577,6 @@
           "wordCount": null,
           "title": "AI Slop Is Already in Your Training Dataset. I Tested Three Ways to Spot It.",
           "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/your-llm-has-a-curved-space-of-paragraphs/",
-          "author": "Shuyang Xiang",
-          "description": "Inside a transformer, token index is a coordinate. Paragraph structure is what turns it into a metric.\nThe post Your LLM Has a Curved Space of Paragraphs appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/your-llm-has-a-curved-space-of-paragraphs/",
-          "publishedOn": "2026-09-26T12:00:01.000Z",
-          "wordCount": null,
-          "title": "Your LLM Has a Curved Space of Paragraphs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/10-things-im-learning-beyond-ai-to-become-more-technologically-fluent/",
-          "author": "Rashi Desai",
-          "description": "Part 1: Understanding the technologies shaping our future\nThe post 10 Things I’m Learning Beyond AI to Become More Technologically Fluent appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/10-things-im-learning-beyond-ai-to-become-more-technologically-fluent/",
-          "publishedOn": "2026-09-25T15:30:01.000Z",
-          "wordCount": null,
-          "title": "10 Things I’m Learning Beyond AI to Become More Technologically Fluent",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/your-models-mse-is-lying-to-you-part-ii/",
-          "author": "Waleed Esmail",
-          "description": "Autoregressive rollout and uncertainty propagation. Second in a series on probabilistic forecasting for physical signals.\nThe post Your Model's MSE Is Lying to You: Part II appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/your-models-mse-is-lying-to-you-part-ii/",
-          "publishedOn": "2026-09-25T14:00:02.000Z",
-          "wordCount": null,
-          "title": "Your Model's MSE Is Lying to You: Part II",
-          "imageUrl": null
         }
       ]
     },
@@ -5573,6 +5591,36 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/39883603c337",
+          "author": "Slava Polonski, PhD",
+          "description": "Context is today’s human advantage, but it is also the raw material AI is rapidly learning to absorb.\nContinue reading on UX Collective »",
+          "link": "https://uxdesign.cc/the-context-advantage-of-human-ux-design-thinking-39883603c337?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-10-25T12:34:03.000Z",
+          "wordCount": null,
+          "title": "The context advantage of human UX",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ae54ab5065c6",
+          "author": "Jon Sabutis",
+          "description": "",
+          "link": "https://uxdesign.cc/nobody-asked-for-the-sparkle-button-ae54ab5065c6?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-10-25T12:33:57.000Z",
+          "wordCount": null,
+          "title": "Nobody asked for the sparkle button",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/09d61f61b2b5",
+          "author": "Patrick Neeman",
+          "description": "",
+          "link": "https://uxdesign.cc/where-to-draw-the-line-before-ai-reaches-professional-users-09d61f61b2b5?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-10-25T12:31:45.000Z",
+          "wordCount": null,
+          "title": "Where to draw the line before AI reaches professional users",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/bae744ecc288",
           "author": "Sepeda Rafael",
@@ -6252,16 +6300,6 @@
           "wordCount": null,
           "title": "How we save entry-level UX work that teaches craft in the time of AI. Our field depends on this.",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9730dd45999d",
-          "author": "Hiroshi Sato",
-          "description": "On something already in the scene solving a problem outside its brief\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/is-this-the-line-for-burgers-9730dd45999d?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-09-25T21:51:14.000Z",
-          "wordCount": null,
-          "title": "Is this the line for burgers?",
-          "imageUrl": null
         }
       ]
     },
@@ -6323,6 +6361,46 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/96e61d443dbb",
+          "author": "Xiuer Old",
+          "description": "Why adding confidence: z.number() to your Zod schema is the most dangerous placebo in AI engineering — and what actually works.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/your-llms-95-confidence-is-pure-cosplay-96e61d443dbb?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-26T00:30:30.000Z",
+          "wordCount": null,
+          "title": "Your LLM’s “95% Confidence” Is Pure Cosplay",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/8f9b2bce51b2",
+          "author": "Cezary Gesikowski",
+          "description": "Understand real-world AI agentic challenges and how to prevent them\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/cascading-chaos-the-hidden-risk-of-ai-agents-8f9b2bce51b2?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-26T00:25:10.000Z",
+          "wordCount": null,
+          "title": "Cascading Chaos: The Hidden Risk of AI Agents",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d9a927224bb9",
+          "author": "Jahanzaib Ahmad",
+          "description": "",
+          "link": "https://generativeai.pub/openai-canceled-gpt-6-1-astra-over-a-scope-test-i-read-how-the-models-it-shipped-score-d9a927224bb9?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-26T00:21:00.000Z",
+          "wordCount": null,
+          "title": "OpenAI Canceled GPT-6.1 Astra Over a Scope Test. I Read How the Models It Shipped Score.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/3c210e20371d",
+          "author": "Words by Dharani",
+          "description": "OpenAI offered a cheaper model close to Astra’s performance. I had doubts about the promise — and fewer options than I wanted.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/gpt-6-1-sol-review-what-happened-when-astra-cut-me-off-3c210e20371d?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-26T00:17:52.000Z",
+          "wordCount": null,
+          "title": "GPT-6.1 Sol Review: What Happened When Astra Cut Me Off.",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/c9639ef27c7c",
           "author": "Kaushik Holla",
@@ -7501,126 +7579,6 @@
           "publishedOn": "2026-09-27T14:27:19.000Z",
           "wordCount": null,
           "title": "8 Cool Things People Are Using Claude Opus 5.5 For",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/85b4ab43acb3",
-          "author": "Vishal Borana",
-          "description": "",
-          "link": "https://generativeai.pub/llm-content-moderation-is-a-policy-layer-85b4ab43acb3?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-26T10:35:59.000Z",
-          "wordCount": null,
-          "title": "LLM Content Moderation Is a Policy Layer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/8d55008d7d2c",
-          "author": "TechTales",
-          "description": "You already know how agents work. You learned it in your DSA class; you just didn’t know it yet.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/the-data-structures-behind-every-ai-agent-8d55008d7d2c?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-26T10:32:27.000Z",
-          "wordCount": null,
-          "title": "The Data Structures Behind Every AI Agent",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/83f6c441a462",
-          "author": "Ray Hu",
-          "description": "It never writes a single token. That’s the whole trick, and the catch.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/laya-just-dropped-a-421m-model-that-decides-in-33ms-83f6c441a462?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-26T10:28:28.000Z",
-          "wordCount": null,
-          "title": "Laya Just Dropped: A 421M Model That Decides in 33ms",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/773ba4912ac8",
-          "author": "Zyane",
-          "description": "",
-          "link": "https://generativeai.pub/a-memory-can-be-correct-and-still-need-to-be-deleted-773ba4912ac8?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-26T10:16:39.000Z",
-          "wordCount": null,
-          "title": "A Memory Can Be Correct and Still Need to Be Deleted",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c0465e16b9df",
-          "author": "Jim Clyde Monge",
-          "description": "What’s the truth, and who profits from the AI panic?\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/ai-doomer-jacob-coxon-lied-c0465e16b9df?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-26T01:49:26.000Z",
-          "wordCount": null,
-          "title": "AI Doomer Jacob Coxon Lied",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/96b87100034d",
-          "author": "Karthick Thoppe",
-          "description": "Other people’s agents, your own agents, and the security gap between them.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/will-the-openai-australia-incidents-happen-again-96b87100034d?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-26T00:13:57.000Z",
-          "wordCount": null,
-          "title": "Will the OpenAI Australia incidents happen again?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/2f8324774c76",
-          "author": "ambuj singh",
-          "description": "The AI world has become obsessed with bigger models.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/china-just-dropped-laya-mlx-the-open-source-ai-model-challenging-jev-2f8324774c76?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-26T00:11:25.000Z",
-          "wordCount": null,
-          "title": "China Just Dropped Laya MLX  Open-Source AI Model Challenging JEV",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/16edcc860ead",
-          "author": "ambuj singh",
-          "description": "What to measure, how to grade it, and a 40-line Python harness you can drop into CI today.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/why-llm-evals-matter-test-your-ai-application-before-your-users-do-16edcc860ead?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-26T00:06:29.000Z",
-          "wordCount": null,
-          "title": "Why LLM Evals Matter: Test Your AI Application Before Your Users Do",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f31975adb1a0",
-          "author": "ambuj singh",
-          "description": "GPT, Claude, Gemini, Llama, or else? How to Choose the Right LLM for Your AI Application.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/stop-guessing-choose-the-right-model-for-your-ai-application-f31975adb1a0?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-26T00:03:34.000Z",
-          "wordCount": null,
-          "title": "Stop guessing: Choose the right model for your AI application",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/1f5a675542b4",
-          "author": "Hamza Khalid",
-          "description": "Opus 5.5 Costs 40% Less Than Opus 5. Is It Actually Better? I Tested Both\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/claude-opus-5-5-i-tested-this-model-on-real-work-1f5a675542b4?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-25T23:54:25.000Z",
-          "wordCount": null,
-          "title": "Claude Opus 5.5: I Tested This Model on Real Work",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/8acceac2389c",
-          "author": "Edgar Milvus",
-          "description": "",
-          "link": "https://generativeai.pub/zero-hallucination-ai-in-node-js-8acceac2389c?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-25T23:48:48.000Z",
-          "wordCount": null,
-          "title": "Zero-Hallucination AI in Node.js",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/67d16f4d8005",
-          "author": "Jim Clyde Monge",
-          "description": "Are we all just overreacting to the “AI hacked Medicare” headlines?\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/the-truth-about-openais-rogue-agent-s-hack-on-australian-health-website-67d16f4d8005?source=rss----440100e76000---4",
-          "publishedOn": "2026-09-25T14:32:24.000Z",
-          "wordCount": null,
-          "title": "The Truth About OpenAI’s Rogue Agent’s Hack on Australian Health Website",
           "imageUrl": null
         }
       ]
