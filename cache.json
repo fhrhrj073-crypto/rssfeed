@@ -2473,22 +2473,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!wAVc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72ebc127-a405-42e0-8086-f5db8d444a0f_2912x1632.png"
-        },
-        {
-          "id": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
-          "author": "Ethan Mollick",
-          "description": "Benefitting from the Bitter Lesson",
-          "link": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
-          "publishedOn": "2026-10-01T10:54:12.000Z",
-          "wordCount": null,
-          "title": "The Dot and the Swarm",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!Narw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe3014425-47c2-47aa-848b-3528f4dc9517_2912x1632.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!Narw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe3014425-47c2-47aa-848b-3528f4dc9517_2912x1632.png"
         }
       ]
     },
@@ -3008,6 +2992,38 @@
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
         {
+          "id": "https://www.thevccorner.com/p/global-vc-funding-750b-q3-2026-weekly-recap",
+          "author": "Ruben Dominguez",
+          "description": "Another week, another pulse check on Tech.",
+          "link": "https://www.thevccorner.com/p/global-vc-funding-750b-q3-2026-weekly-recap",
+          "publishedOn": "2026-10-30T20:54:47.000Z",
+          "wordCount": null,
+          "title": "Global VC Hits $750B💰, AI Raises $519B📈, a $200 Claude Code Team🤖",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/b4efc984-5f9a-4e82-8c04-ee7c551c3b8f_1456x816.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/b4efc984-5f9a-4e82-8c04-ee7c551c3b8f_1456x816.jpeg"
+        },
+        {
+          "id": "https://www.thevccorner.com/p/startups-raising-now-october-2026",
+          "author": "Ruben Dominguez",
+          "description": "A bootstrapped fintech with $12.13M in GMV leads the October list. Founders join for free.",
+          "link": "https://www.thevccorner.com/p/startups-raising-now-october-2026",
+          "publishedOn": "2026-10-30T15:00:21.000Z",
+          "wordCount": null,
+          "title": "46 Startups Raising Now, Decks Included",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/41299396-5ab5-45be-88dc-83296ca0dde4_1456x816.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/41299396-5ab5-45be-88dc-83296ca0dde4_1456x816.jpeg"
+        },
+        {
           "id": "https://www.thevccorner.com/p/the-new-b2b-pricing-models",
           "author": "Ruben Dominguez",
           "description": "AI agents are shrinking the seat counts that B2B software bills on. Here are the pricing models replacing per-seat, and how a startup should pick one.",
@@ -3390,38 +3406,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!Hqi2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fafbb0563-a523-4a49-a76f-f2ee961c019a_1500x844.jpeg"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/ant-international-amp-agentic-commerce-agentsafepay",
-          "author": null,
-          "description": "With AMP, KYA, and a built-in guarantee against agent hallucinations, Ant International just built the full-stack infrastructure for the $5 trillion agentic economy.",
-          "link": "https://www.thevccorner.com/p/ant-international-amp-agentic-commerce-agentsafepay",
-          "publishedOn": "2026-10-01T12:01:43.000Z",
-          "wordCount": null,
-          "title": "Building the Agentic Rail: Ant International Unveils an End-to-End, AI-Native Payments Stack",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/a4c8f0fc-7eb4-438c-bed4-8fdd0249fb31_867x447.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/a4c8f0fc-7eb4-438c-bed4-8fdd0249fb31_867x447.png"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/bending-spoons-evernote-playbook",
-          "author": "Ruben Dominguez",
-          "description": "Bending Spoons owns 50+ businesses and has beaten every rival bidder for five years",
-          "link": "https://www.thevccorner.com/p/bending-spoons-evernote-playbook",
-          "publishedOn": "2026-09-30T16:23:32.000Z",
-          "wordCount": null,
-          "title": "Luca Ferrari Runs Evernote With 20 People. Here Are His 10 Rules for Doing More With Less",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substack-post-media.s3.amazonaws.com/public/images/0cdb37f8-b10f-4e05-91e4-6fc6851c7452_1155x768.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/0cdb37f8-b10f-4e05-91e4-6fc6851c7452_1155x768.png"
         }
       ]
     },
@@ -3430,6 +3414,36 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/newsletter/mistral-released-a-1t-parameter-open-model/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/mistral-released-a-1t-parameter-open-model/",
+          "publishedOn": "2026-10-30T09:30:10.479Z",
+          "wordCount": null,
+          "title": "😸 Mistral released a 1T-parameter open model",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/openai-model-spec-chatgpt-human-intent/",
+          "author": null,
+          "description": "OpenAI wants ChatGPT to understand what you mean when your instructions leave something unsaid. Its updated Model Spec explains how remembered preferences should inform responses and when an agent needs permission. The company acknowledges its models don’t fully meet those expectations yet.",
+          "link": "https://www.theneuron.ai/news/openai-model-spec-chatgpt-human-intent/",
+          "publishedOn": "2026-10-30T06:59:15.645Z",
+          "wordCount": null,
+          "title": "OpenAI Wants ChatGPT to Understand What You Mean, Not Just What You Say",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-october-30-2026/",
+          "author": null,
+          "description": "OpenAI tested AI monitors against a previous agent escape; Reddit blamed AI search for lost traffic; Canada backed Cohere; Mistral opened its trillion-parameter model; and Anthropic expanded its science partnerships.",
+          "link": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-october-30-2026/",
+          "publishedOn": "2026-10-30T04:43:29.144Z",
+          "wordCount": null,
+          "title": "Everything That Happened in AI Today (Friday, October 30, 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/newsletter/new-york-curbs-ai-chatbots-for-kids/",
           "author": null,
@@ -4529,66 +4543,6 @@
           "wordCount": null,
           "title": "Everything That Happened in AI Today (Thursday, October 1, 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/digest/ai-in-science-math-monthly-guide-september-2026/",
-          "author": null,
-          "description": "From genome research and laboratory-tested molecules to mathematical proofs and open scientific datasets, September brought a wide range of AI-enabled progress. This monthly guide covers 56 developments and explains what each one establishes—and what remains to be tested.",
-          "link": "https://www.theneuron.ai/digest/ai-in-science-math-monthly-guide-september-2026/",
-          "publishedOn": "2026-10-01T11:45:45.832Z",
-          "wordCount": null,
-          "title": "AI in Science, Math: A Monthly Guide to AI-Enabled Progress — September 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/news/a16z-state-of-markets-2026-ai-became-a-capital-cycle/",
-          "author": null,
-          "description": "a16z’s 90-page State of Markets report argues AI has escaped the software industry and become a macroeconomic force, reshaping capital spending, debt, labor, power, hardware, and markets.",
-          "link": "https://www.theneuron.ai/news/a16z-state-of-markets-2026-ai-became-a-capital-cycle/",
-          "publishedOn": "2026-10-01T11:32:29.441Z",
-          "wordCount": null,
-          "title": "a16z State of Markets 2026: AI Became a Capital Cycle",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/news/china-ai-companion-rules-emotional-attachment/",
-          "author": null,
-          "description": "China is setting rules for how AI companions develop emotional relationships and respond when users try to leave. The requirements address manipulation and risks to minors, while distress monitoring raises questions about privacy and intervention.",
-          "link": "https://www.theneuron.ai/news/china-ai-companion-rules-emotional-attachment/",
-          "publishedOn": "2026-10-01T10:06:22.682Z",
-          "wordCount": null,
-          "title": "China Is Regulating How AI Companions Build Emotional Attachment",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/trump-renamed-ai-super-intelligence/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/trump-renamed-ai-super-intelligence/",
-          "publishedOn": "2026-10-01T09:41:13.605Z",
-          "wordCount": null,
-          "title": "😸 Trump renamed AI \"Super Intelligence\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-september-30-2026/",
-          "author": null,
-          "description": "The FTC opened a broad AI-lab probe, DeepMind watermarked AI-designed proteins, ElevenLabs hit a $22B valuation, and agents kept spreading into finance, medicine, shopping, coding, and robotics.",
-          "link": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-september-30-2026/",
-          "publishedOn": "2026-10-01T01:31:06.312Z",
-          "wordCount": null,
-          "title": "Everything That Happened in AI Today (Wednesday, September 30, 2026)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/hume-ai-voice-has-a-listening-problem/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/hume-ai-voice-has-a-listening-problem/",
-          "publishedOn": "2026-09-30T19:01:42.705Z",
-          "wordCount": null,
-          "title": "😺 Hume AI: Voice Has a Listening Problem",
-          "imageUrl": null
         }
       ]
     },
@@ -4597,6 +4551,46 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/pick-a-number-between-1-and-10/",
+          "author": "Spyros Georgopoulos",
+          "description": "A viral tweet says LLMs pick 7 because of gradient descent. The math says it’s more interesting than that.\nThe post Pick a Number Between 1 and 10 appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/pick-a-number-between-1-and-10/",
+          "publishedOn": "2026-10-30T15:30:00.000Z",
+          "wordCount": null,
+          "title": "Pick a Number Between 1 and 10",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/binning-or-feature-selection-which-one-won-us-an-insurance-hackathon/",
+          "author": "Mario Defrance",
+          "description": "For a year, we believed that supervised binning carried our winning entry to an insurance competition. After four seeds per arm and one shared feature set, the credit belongs elsewhere.\nThe post Binning or Feature Selection: Which One Won Us an Insurance Hackathon? appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/binning-or-feature-selection-which-one-won-us-an-insurance-hackathon/",
+          "publishedOn": "2026-10-30T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Binning or Feature Selection: Which One Won Us an Insurance Hackathon?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/your-agents-tools-can-make-decisions-too/",
+          "author": "Shuai Guo",
+          "description": "Decision models as tools: a hands-on guide\nThe post Your Agent’s Tools Can Make Decisions, Too appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/your-agents-tools-can-make-decisions-too/",
+          "publishedOn": "2026-10-30T12:30:00.000Z",
+          "wordCount": null,
+          "title": "Your Agent’s Tools Can Make Decisions, Too",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/claude-code-mods-custom-hooks-to-fix-my-biggest-ai-coding-frustrations/",
+          "author": "Chien Vu Minh",
+          "description": "How I built four Claude Code mods to protect API keys, track plan progress, catch untested code, and monitor context usage — with 135 passing tests and up to 100× less overhead than traditional hooks — and why they can outperform traditional hooks.\nThe post Claude Code Mods: Custom Hooks to Fix My Biggest AI Coding Frustrations appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/claude-code-mods-custom-hooks-to-fix-my-biggest-ai-coding-frustrations/",
+          "publishedOn": "2026-10-30T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Claude Code Mods: Custom Hooks to Fix My Biggest AI Coding Frustrations",
+          "imageUrl": null
+        },
         {
           "id": "https://towardsdatascience.com/when-labels-say-no-but-embeddings-say-yes/",
           "author": "Theophano Mitsa",
@@ -5506,46 +5500,6 @@
           "wordCount": null,
           "title": "Autoencoders vs. PCA: I Rigged the Test and PCA Still Won",
           "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/can-an-apartment-search-agent-call-the-model-fewer-times-and-still-find-good-matches/",
-          "author": "Abdullahi Dattijo",
-          "description": "I traced 2,500 listing checks with Weights & Biases Weave, removed avoidable model work one change at a time, and scored every version against the same answers.\nThe post Can an Apartment Search Agent Call the Model Fewer Times and Still Find Good Matches? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/can-an-apartment-search-agent-call-the-model-fewer-times-and-still-find-good-matches/",
-          "publishedOn": "2026-10-01T14:00:01.000Z",
-          "wordCount": null,
-          "title": "Can an Apartment Search Agent Call the Model Fewer Times and Still Find Good Matches?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/what-the-relu-revolution-revealed-about-biological-plausibility/",
-          "author": "Rob Taylor",
-          "description": "The activation function was never a fixed biological commitment but a working hypothesis revised under empirical pressure.\nThe post What the ReLU Revolution Revealed About Biological Plausibility appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/what-the-relu-revolution-revealed-about-biological-plausibility/",
-          "publishedOn": "2026-10-01T12:30:01.000Z",
-          "wordCount": null,
-          "title": "What the ReLU Revolution Revealed About Biological Plausibility",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/your-ai-bill-is-a-toll-booth-stop-paying-twice/",
-          "author": "Gursimar Singh",
-          "description": "The budget nobody saw coming\nThe post Your AI Bill Is a Toll Booth. Stop Paying Twice. appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/your-ai-bill-is-a-toll-booth-stop-paying-twice/",
-          "publishedOn": "2026-10-01T11:00:01.000Z",
-          "wordCount": null,
-          "title": "Your AI Bill Is a Toll Booth. Stop Paying Twice.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/how-many-stories-can-your-data-tell/",
-          "author": "Sara A. Metwalli",
-          "description": "How the way we represent data can change what we think the data is saying\nThe post How Many Stories Can Your Data Tell? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-many-stories-can-your-data-tell/",
-          "publishedOn": "2026-09-30T15:30:02.000Z",
-          "wordCount": null,
-          "title": "How Many Stories Can Your Data Tell?",
-          "imageUrl": null
         }
       ]
     },
@@ -5560,6 +5514,16 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/473c7f2ebb94",
+          "author": "Patrick Neeman",
+          "description": "",
+          "link": "https://uxdesign.cc/the-people-using-ai-should-set-its-strategy-473c7f2ebb94?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-10-30T07:06:26.000Z",
+          "wordCount": null,
+          "title": "The people using AI should set its strategy",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/fee7afc2b967",
           "author": "Lisa Liu",
@@ -6269,56 +6233,6 @@
           "wordCount": null,
           "title": "AI beyond average: from chatting to collaborating",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/60ab1ca5635e",
-          "author": "Theresa-Marie Rhyne",
-          "description": "Gemini & Qualitative Data Color Scheme Design\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/five-step-color-balancing-with-genai-60ab1ca5635e?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-09-30T23:11:26.000Z",
-          "wordCount": null,
-          "title": "Five-step color balancing with GenAI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/22d4ec56b1c2",
-          "author": "Michael Buckley",
-          "description": "",
-          "link": "https://uxdesign.cc/federal-pressure-may-force-design-education-to-rethink-its-identity-22d4ec56b1c2?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-09-30T23:10:32.000Z",
-          "wordCount": null,
-          "title": "Federal pressure may force design education to rethink its identity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f219c33245c7",
-          "author": "Patrick Neeman",
-          "description": "",
-          "link": "https://uxdesign.cc/headless-ai-will-make-every-product-a-platform-heres-what-to-consider-when-designing-for-this-f219c33245c7?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-09-30T23:10:18.000Z",
-          "wordCount": null,
-          "title": "Headless AI will make every product a platform. Here’s what to consider when designing for this.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/83634e21ecff",
-          "author": "Dan Maccarone",
-          "description": "",
-          "link": "https://uxdesign.cc/what-the-bible-got-wrong-about-ai-83634e21ecff?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-09-30T23:08:39.000Z",
-          "wordCount": null,
-          "title": "What the Bible got wrong about AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/db601958ea47",
-          "author": "Dulanjala Aluthge",
-          "description": "",
-          "link": "https://uxdesign.cc/intelligent-accessibility-what-if-accessibility-could-adapt-to-you-db601958ea47?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-09-30T23:08:19.000Z",
-          "wordCount": null,
-          "title": "Intelligent Accessibility: What If Accessibility Could Adapt to You?",
-          "imageUrl": null
         }
       ]
     },
@@ -6333,6 +6247,16 @@
       "feedUrl": "https://blog.pragmaticengineer.com/feed",
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
+        {
+          "id": "6ae30eb2e8571500017259da",
+          "author": "Ivan Klaric",
+          "description": "A month’s worth of security breaches in a single day – will things get worse before they improve?",
+          "link": "https://blog.pragmaticengineer.com/the-pulse-time-to-rethink-software-security-because-of-ai/",
+          "publishedOn": "2026-10-30T16:49:15.000Z",
+          "wordCount": 3784,
+          "title": "The Pulse: Time to rethink software security because of AI?",
+          "imageUrl": null
+        },
         {
           "id": "6ad9d6a8c85f710001b1d77a",
           "author": "Ivan Klaric",
@@ -6380,6 +6304,96 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/b258729b5dfe",
+          "author": "Jim Clyde Monge",
+          "description": "",
+          "link": "https://generativeai.pub/ai-anime-generators-with-fewer-restrictions-chatgpt-grok-and-pixai-tested-b258729b5dfe?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-31T02:16:54.000Z",
+          "wordCount": null,
+          "title": "AI Anime Generators With Fewer Restrictions? ChatGPT, Grok, and PixAI Tested",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/be809fa9fcb9",
+          "author": "Kim Monge",
+          "description": "",
+          "link": "https://generativeai.pub/ai-in-my-20s-i-started-with-interest-not-experience-be809fa9fcb9?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-30T05:43:02.000Z",
+          "wordCount": null,
+          "title": "AI in My 20s: I Started With Interest, Not Experience",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/f3d1b2ca8465",
+          "author": "CodeInsights",
+          "description": "Across 33,000 agent trajectories, 76–80% of failed prompt injections were ignored rather than refused. That means every “0.5% attack…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/the-agent-didnt-resist-the-attack-it-didn-t-notice-f3d1b2ca8465?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-30T05:42:04.000Z",
+          "wordCount": null,
+          "title": "The Agent Didn’t Resist the Attack. It Didn’t Notice.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/237de76e95f0",
+          "author": "DevQuill Insights",
+          "description": "Fewer than 100 characters of instructions. Twenty-three hours per breach. No zero-days. The Reuters numbers that quietly reprice every…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/one-hacker-breached-100-companies-for-5-000-thats-50-a-breach-237de76e95f0?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-30T05:37:53.000Z",
+          "wordCount": null,
+          "title": "One Hacker Breached 100 Companies for $5,000. That’s $50 a Breach.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/54c98991fa32",
+          "author": "Code&future",
+          "description": "AI agents, verification, world models, and persistent memory are pushing AI beyond fluent answers toward systems that can act, check their…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/the-next-big-ai-breakthrough-isnt-about-generating-text-54c98991fa32?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-30T04:17:12.000Z",
+          "wordCount": null,
+          "title": "The Next Big AI Breakthrough Isn’t About Generating Text",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/37cab49f11ec",
+          "author": "Nishkarsh Gupta",
+          "description": "One term, four meanings, and the parts you still own.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/generative-ui-explained-what-designers-still-control-37cab49f11ec?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-30T03:28:16.000Z",
+          "wordCount": null,
+          "title": "Generative UI Explained: What Designers Still Control",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/50933c5ba104",
+          "author": "Milind Divre",
+          "description": "The surprising reason memory bandwidth can matter more than GPU computing power during LLM inference.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/your-gpu-is-fast-so-why-is-your-llm-still-slow-50933c5ba104?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-30T03:22:53.000Z",
+          "wordCount": null,
+          "title": "Your GPU Is Fast. So Why Is Your LLM Still Slow?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/1d3b287fec1c",
+          "author": "Programming with me",
+          "description": "Seven practical Git commands that help you recover lost work, find bugs faster, clean up commits, and avoid overwriting a teammate’s…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/7-git-commands-most-developers-learn-too-late-1d3b287fec1c?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-30T03:16:47.000Z",
+          "wordCount": null,
+          "title": "7 Git Commands Most Developers Learn Too Late",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/4191873249b1",
+          "author": "Guillermo Baigorria",
+          "description": "",
+          "link": "https://generativeai.pub/what-googles-harness%C2%B2-shows-about-improving-an-ai-agent-4191873249b1?source=rss----440100e76000---4",
+          "publishedOn": "2026-10-30T03:15:51.000Z",
+          "wordCount": null,
+          "title": "What Google’s Harness² shows about improving an AI agent",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/d90ccbe73919",
           "author": "Jim Clyde Monge",
@@ -7568,196 +7582,6 @@
           "publishedOn": "2026-10-02T01:55:12.000Z",
           "wordCount": null,
           "title": "8 Cool Facts About Jev You Probably Didn’t Know",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/a41587f62746",
-          "author": "ambuj singh",
-          "description": "Google’s newest frontier model isn’t just smarter. It can keep thinking long after other models give up, and that changes what “AI help”…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/google-just-launched-gemini-4-argon-and-it-will-blow-your-mind-a41587f62746?source=rss----440100e76000---4",
-          "publishedOn": "2026-10-01T10:32:31.000Z",
-          "wordCount": null,
-          "title": "Google Just Launched Gemini 4 Argon, and It Will Blow Your Mind",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/bbdaef4afca7",
-          "author": "Menna Adly",
-          "description": "VCs believe closed-source AI holds a permanent lead. Data proves it is a rolling four-month delay. Here is how to build a…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/the-multi-billion-dollar-ai-moat-is-actually-just-120-days-bbdaef4afca7?source=rss----440100e76000---4",
-          "publishedOn": "2026-10-01T10:23:54.000Z",
-          "wordCount": null,
-          "title": "The Multi-Billion-Dollar AI Moat is Actually Just 120 Days",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/eb6ae9a7601c",
-          "author": "Jim Clyde Monge",
-          "description": "Google announces Gemini 4 Argon with insane benchmarks!\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/did-google-finally-solve-ai-hallucination-with-gemini-4-argon-eb6ae9a7601c?source=rss----440100e76000---4",
-          "publishedOn": "2026-10-01T07:06:54.000Z",
-          "wordCount": null,
-          "title": "Did Google Finally Solve AI Hallucination with Gemini 4 Argon?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/e0620acedcbf",
-          "author": "Md Nabil Hossain | BBA",
-          "description": "Claude vs. ChatGPT: Compare writing, coding, image generation, pricing, and ease of use to find out which AI tool is best suited for your…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/claude-vs-chatgpt-which-is-best-for-you-in-2026-e0620acedcbf?source=rss----440100e76000---4",
-          "publishedOn": "2026-10-01T06:11:59.000Z",
-          "wordCount": null,
-          "title": "Claude vs. ChatGPT: Which is best for you in 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/4fcd42fdc868",
-          "author": "Phil | Rentier Digital",
-          "description": "🔥 Oh, and MCP Can Also Get You Hacked\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/mcp-the-security-wake-up-call-for-ai-agents-4fcd42fdc868?source=rss----440100e76000---4",
-          "publishedOn": "2026-10-01T06:08:44.000Z",
-          "wordCount": null,
-          "title": "MCP: The Security Wake-Up Call for AI Agents",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/9c308eaeef72",
-          "author": "Jim Clyde Monge",
-          "description": "We’re in an era of personal agents sending our personal address to random strangers online.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/metas-muse-ai-and-the-end-of-user-privacy-9c308eaeef72?source=rss----440100e76000---4",
-          "publishedOn": "2026-10-01T04:28:29.000Z",
-          "wordCount": null,
-          "title": "Meta’s Muse AI and the End of User Privacy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/3d62ab85b562",
-          "author": "MohamedAbdelmenem",
-          "description": "When Google’s Gemini breached three private corporate networks, commentators warned of rogue machine intelligence. The technical…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/ai-did-not-break-out-of-its-sandbox-someone-left-the-firewall-open-3d62ab85b562?source=rss----440100e76000---4",
-          "publishedOn": "2026-10-01T03:18:55.000Z",
-          "wordCount": null,
-          "title": "AI Did Not Break Out of Its Sandbox. Someone Left the Firewall Open.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/ea31ac648a7e",
-          "author": "Ahmed M. Abdelfattah",
-          "description": "On OpenAI’s own broken-tool test, GPT-6 Luna guessed instead of flagging the failure in 28.7% of cases. The Decisions API runs on Luna.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/28-7-the-luna-footnote-behind-openais-decisions-api-ea31ac648a7e?source=rss----440100e76000---4",
-          "publishedOn": "2026-10-01T03:16:23.000Z",
-          "wordCount": null,
-          "title": "28.7%: The Luna Footnote Behind OpenAI’s Decisions API",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/2d0e207be280",
-          "author": "CodeTune",
-          "description": "Muse is cheaper, faster in some configurations, and built around parallel agents. But the useful comparison is not benchmark score. It is…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/muse-vs-claude-where-does-muse-actually-win-2d0e207be280?source=rss----440100e76000---4",
-          "publishedOn": "2026-10-01T03:13:03.000Z",
-          "wordCount": null,
-          "title": "Muse vs Claude: Where Does Muse Actually Win?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/b1eaf323b22b",
-          "author": "Ivan Ruzic, Ph.D.",
-          "description": "",
-          "link": "https://generativeai.pub/i-benchmarked-27-llm-configurations-across-two-machines-and-a-zero-retention-cloud-tier-b1eaf323b22b?source=rss----440100e76000---4",
-          "publishedOn": "2026-10-01T02:18:41.000Z",
-          "wordCount": null,
-          "title": "I Benchmarked 27 LLM Configurations Across Two Machines and a Zero-Retention Cloud Tier",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/2c60b25cb3cf",
-          "author": "Yashraj Behera",
-          "description": "OpenAI’s new always-on agents have their own computer, run on schedules, and react to events. Claude has most of those pieces under a…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/how-to-get-openai-dots-on-claude-2c60b25cb3cf?source=rss----440100e76000---4",
-          "publishedOn": "2026-10-01T01:56:53.000Z",
-          "wordCount": null,
-          "title": "How to get OpenAI Dots on Claude",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/e975a66dcb6b",
-          "author": "Kushal Banda",
-          "description": "",
-          "link": "https://generativeai.pub/gpt-6-sol-vs-claude-opus-5-5-same-week-different-bet-e975a66dcb6b?source=rss----440100e76000---4",
-          "publishedOn": "2026-10-01T01:52:51.000Z",
-          "wordCount": null,
-          "title": "GPT-6 Sol vs Claude Opus 5.5: Same Week, Different Bet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/80f833f3ca6c",
-          "author": "Hamza Khalid",
-          "description": "Turn Claude Opus 5.5 into your AI motion designer and create polished motion graphics videos with prompts, code, and animations.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/how-to-create-motion-graphics-with-claude-opus-5-5-complete-course-80f833f3ca6c?source=rss----440100e76000---4",
-          "publishedOn": "2026-10-01T01:49:28.000Z",
-          "wordCount": null,
-          "title": "How to Create Motion Graphics With Claude Opus 5.5 (Complete Course)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/e4de7d6819c1",
-          "author": "ambuj singh",
-          "description": "Continue reading on Generative AI »",
-          "link": "https://generativeai.pub/is-the-vibe-coded-application-hacked-check-with-strix-e4de7d6819c1?source=rss----440100e76000---4",
-          "publishedOn": "2026-10-01T01:42:00.000Z",
-          "wordCount": null,
-          "title": "Is the Vibe-coded application hacked ? Check with Strix.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/5a1c9ac11b21",
-          "author": "ambuj singh",
-          "description": "Announced at DevDay 2026, Dots run on GPT-6 Astra, have their own computer, and keep working after you close the chat.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/openai-just-launched-dots-and-its-amazing-5a1c9ac11b21?source=rss----440100e76000---4",
-          "publishedOn": "2026-10-01T01:36:51.000Z",
-          "wordCount": null,
-          "title": "OpenAI Just Launched DOTS—And It’s Amazing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/b143442796eb",
-          "author": "Hamman Samuel, PhD",
-          "description": "Can an AI system understand a research-level scientific problem and turn that into working numerical code?\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/from-navier-stokes-to-scicode-testing-ai-at-the-scientific-frontier-b143442796eb?source=rss----440100e76000---4",
-          "publishedOn": "2026-10-01T01:04:01.000Z",
-          "wordCount": null,
-          "title": "From Navier–Stokes to SciCode: Testing AI at the Scientific Frontier",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/593692930651",
-          "author": "Sijuade Oguntayo",
-          "description": "",
-          "link": "https://generativeai.pub/what-does-it-mean-for-an-ai-to-understand-the-world-593692930651?source=rss----440100e76000---4",
-          "publishedOn": "2026-10-01T00:58:28.000Z",
-          "wordCount": null,
-          "title": "What Does It Mean for an AI to Understand the World?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/2c5c03dfb926",
-          "author": "Sonia Akther",
-          "description": "A practical guide to testing delegation, missing evidence, and stale results in multi-agent workflows.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/three-ai-agents-one-broken-promise-2c5c03dfb926?source=rss----440100e76000---4",
-          "publishedOn": "2026-10-01T00:49:59.000Z",
-          "wordCount": null,
-          "title": "Three AI Agents. One Broken Promise.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/ca268e11a517",
-          "author": "Sourav Kasula",
-          "description": "",
-          "link": "https://generativeai.pub/your-ai-is-overqualified-for-this-job-meet-jev-ca268e11a517?source=rss----440100e76000---4",
-          "publishedOn": "2026-10-01T00:46:22.000Z",
-          "wordCount": null,
-          "title": "Your AI Is Overqualified for This Job! Meet Jev.",
           "imageUrl": null
         }
       ]
