@@ -2,10 +2,102 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-10-31T02:50:53.255Z</updated>
+    <updated>2026-11-01T02:43:11.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Claude Cuts Task Time by About 80%. Make It Run Your Week]]></title>
+        <id>https://www.thevccorner.com/p/claude-skills-founder-operating-system</id>
+        <link href="https://www.thevccorner.com/p/claude-skills-founder-operating-system"/>
+        <updated>2026-10-31T22:02:12.000Z</updated>
+        <summary type="html"><![CDATA[10 installable Claude Skills for the raise, the board, the hires and the price, plus the weekly cadence that runs most of them while you sleep.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🧠 Community Wisdom: The biggest sources of interruptions for PMs, hiring junior PMs with case studies vs. behavioral interviews, building a product harness for AI-driven development, and more]]></title>
+        <id>https://www.lennysnewsletter.com/p/community-wisdom-the-biggest-sources</id>
+        <link href="https://www.lennysnewsletter.com/p/community-wisdom-the-biggest-sources"/>
+        <updated>2026-10-31T16:14:41.000Z</updated>
+        <summary type="html"><![CDATA[Community Wisdom 304]]></summary>
+        <author>
+            <name>Kiyani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Bug-Free Applications with Claude Code]]></title>
+        <id>https://towardsdatascience.com/how-to-build-bug-free-applications-with-claude-code/</id>
+        <link href="https://towardsdatascience.com/how-to-build-bug-free-applications-with-claude-code/"/>
+        <updated>2026-10-31T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Use E2E tests to minimize bugs
+The post How to Build Bug-Free Applications with Claude Code appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Taught AI to Answer Questions. Who Taught It to Change Its Mind?]]></title>
+        <id>https://towardsdatascience.com/we-taught-ai-to-answer-questions-who-taught-it-to-change-its-mind/</id>
+        <link href="https://towardsdatascience.com/we-taught-ai-to-answer-questions-who-taught-it-to-change-its-mind/"/>
+        <updated>2026-10-31T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When new evidence kills one conclusion, do the decisions built on it change too? I tested six update strategies, then a local model.
+The post We Taught AI to Answer Questions. Who Taught It to Change Its Mind? appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Emmimal P Alexander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic Isn't Just a Company, It's a Payoff]]></title>
+        <id>https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech</id>
+        <link href="https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech"/>
+        <updated>2026-10-31T12:10:43.000Z</updated>
+        <summary type="html"><![CDATA[The trillion dollar Anthropic IPO will enrich Google and Amazon, who are ostensibly competitors. How does that make sense? It doesn’t, unless Anthropic is four flailing monopolies in a trench coat.]]></summary>
+        <author>
+            <name>Matt Stoller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Told an AI Agent That Its Wrong Answers Were Right. One Model Believed Me.]]></title>
+        <id>https://towardsdatascience.com/i-told-an-ai-agent-that-its-wrong-answers-were-right-one-model-believed-me/</id>
+        <link href="https://towardsdatascience.com/i-told-an-ai-agent-that-its-wrong-answers-were-right-one-model-believed-me/"/>
+        <updated>2026-10-31T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A research paper claims reward labels barely change how agents learn. I tested that on three models, and one of them did exactly what the wrong labels told it to.
+The post I Told an AI Agent That Its Wrong Answers Were Right. One Model Believed Me. appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Abdullahi Dattijo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Neuron Academy - Dedicated Send - 10.31.26]]></title>
+        <id>https://www.theneuron.ai/newsletter/the-neuron-academy-dedicated-send-10-31-26/</id>
+        <link href="https://www.theneuron.ai/newsletter/the-neuron-academy-dedicated-send-10-31-26/"/>
+        <updated>2026-10-31T09:30:08.699Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Can Design the Architecture. Who Verifies That It Will Work?]]></title>
+        <id>https://medium.com/p/5b8d6b0b55ab</id>
+        <link href="https://generativeai.pub/ai-can-design-the-architecture-who-verifies-that-it-will-work-5b8d6b0b55ab?source=rss----440100e76000---4"/>
+        <updated>2026-10-31T05:32:15.000Z</updated>
+        <summary type="html"><![CDATA[An e-commerce inventory problem shows the difference between generating code, designing a system, and gathering evidence that it behaves…
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Content Tech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ultimate Guide to LLM Fine-Tuning: Full Fine-Tuning, PEFT, LoRA, QLoRA, DoRA & QDoRA]]></title>
+        <id>https://medium.com/p/739b32ecd9c6</id>
+        <link href="https://generativeai.pub/the-ultimate-guide-to-llm-fine-tuning-full-fine-tuning-parameter-efficient-fine-tuning-peft-739b32ecd9c6?source=rss----440100e76000---4"/>
+        <updated>2026-10-31T05:25:50.000Z</updated>
+        <author>
+            <name>Srikanth Dongala</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Anime Generators With Fewer Restrictions? ChatGPT, Grok, and PixAI Tested]]></title>
         <id>https://medium.com/p/b258729b5dfe</id>
@@ -6504,28 +6596,6 @@ Continue reading on Generative AI »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[8 New AI Terms You Should Know to Be Ahead of 90% of People]]></title>
-        <id>https://medium.com/p/b898cc0ebd1a</id>
-        <link href="https://generativeai.pub/8-new-ai-terms-you-should-know-to-be-ahead-of-90-of-people-b898cc0ebd1a?source=rss----440100e76000---4"/>
-        <updated>2026-10-02T13:36:37.000Z</updated>
-        <summary type="html"><![CDATA[A few more AI terms to know beyond tokens, prompts, and hallucinations.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Jim Clyde Monge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where the Agent Development Lifecycle Fits]]></title>
-        <id>https://towardsdatascience.com/where-the-agent-development-lifecycle-fits/</id>
-        <link href="https://towardsdatascience.com/where-the-agent-development-lifecycle-fits/"/>
-        <updated>2026-10-02T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Coordinating agent capability development with the application it powers
-The post Where the Agent Development Lifecycle Fits appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Andrew Hinton</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Arizona LLC - How to Start an LLC in Arizona 2026 (Step by Step)]]></title>
         <id>https://www.youtube.com/watch?v=vhY7OGIh1v0</id>
         <link href="https://www.youtube.com/watch?v=vhY7OGIh1v0"/>
@@ -6545,85 +6615,6 @@ The post Where the Agent Development Lifecycle Fits appeared first on Towards Da
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CivitAI Alternative for Anime Art: Why Creators Are Trying PixAI’s Tsubaki.3]]></title>
-        <id>https://medium.com/p/127d4bc15f54</id>
-        <link href="https://generativeai.pub/civitai-alternative-for-anime-art-why-creators-are-trying-pixais-tsubaki-3-127d4bc15f54?source=rss----440100e76000---4"/>
-        <updated>2026-10-02T11:34:20.000Z</updated>
-        <author>
-            <name>Jim Clyde Monge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In/tension modeling: what gives us the right?]]></title>
-        <id>https://medium.com/p/01740248eb45</id>
-        <link href="https://uxdesign.cc/in-tension-modeling-what-gives-us-the-right-01740248eb45?source=rss----138adf9c44c---4"/>
-        <updated>2026-10-02T11:09:56.000Z</updated>
-        <author>
-            <name>Stacie Sheldon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Control Plane for AI Agents]]></title>
-        <id>https://towardsdatascience.com/how-to-build-a-control-plane-for-ai-agents/</id>
-        <link href="https://towardsdatascience.com/how-to-build-a-control-plane-for-ai-agents/"/>
-        <updated>2026-10-02T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Giving an LLM permission to act, in 9 steps
-The post How to Build a Control Plane for AI Agents appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ari Joury, PhD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[State-based intelligence is nigh]]></title>
-        <id>https://medium.com/p/5c52a6bd6d96</id>
-        <link href="https://generativeai.pub/state-based-intelligence-is-nigh-5c52a6bd6d96?source=rss----440100e76000---4"/>
-        <updated>2026-10-02T10:46:05.000Z</updated>
-        <author>
-            <name>Marco van Hurne</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Good Can Linear Models Be for Forecasting?]]></title>
-        <id>https://medium.com/p/9b9ba3272f79</id>
-        <link href="https://generativeai.pub/how-good-can-linear-models-be-for-forecasting-good-until-a-zero-shot-model-shows-up-9b9ba3272f79?source=rss----440100e76000---4"/>
-        <updated>2026-10-02T10:04:13.000Z</updated>
-        <summary type="html"><![CDATA[Good, Until a Zero-Shot Model Shows Up
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Nikos Kafritsas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kicking And Screaming: AI Apocalypse Panic Is Back]]></title>
-        <id>https://medium.com/p/93c6b1554fc8</id>
-        <link href="https://generativeai.pub/kicking-and-screaming-ai-apocalypse-panic-is-back-93c6b1554fc8?source=rss----440100e76000---4"/>
-        <updated>2026-10-02T10:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Hype-Free Analysis of Facts and Science Behind Recent AI Meltdown
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Cezary Gesikowski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😺 48% thought Tavus’s AI was human]]></title>
-        <id>https://www.theneuron.ai/newsletter/48-thought-tavus-s-ai-was-human/</id>
-        <link href="https://www.theneuron.ai/newsletter/48-thought-tavus-s-ai-was-human/"/>
-        <updated>2026-10-02T09:30:23.966Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s Muse Hit 5 Million Downloads. The Bigger Story Is How It Got There]]></title>
-        <id>https://www.theneuron.ai/news/metas-muse-hit-5-million-downloads-the-bigger-story-is-how-it-got-there/</id>
-        <link href="https://www.theneuron.ai/news/metas-muse-hit-5-million-downloads-the-bigger-story-is-how-it-got-there/"/>
-        <updated>2026-10-02T08:06:46.016Z</updated>
-        <summary type="html"><![CDATA[Meta’s Muse reached an estimated 5 million downloads in just 22 days, helped by one of the biggest distribution machines in tech. The bigger test is whether Meta can turn that reach into lasting control over how people shop, book, search, and transact—and whether users understand how much authority they’re handing its AI agent along the way.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[台灣還不能用的 Meta Muse AI 助理教你怎麼免費申請註冊立刻玩]]></title>
         <id>https://www.youtube.com/shorts/yY5RtgOk4nU</id>
         <link href="https://www.youtube.com/shorts/yY5RtgOk4nU"/>
@@ -6631,119 +6622,6 @@ Continue reading on Generative AI »]]></summary>
         <summary type="html"><![CDATA[文字版：https://www.kocpc.com.tw/archives/670693]]></summary>
         <author>
             <name>電腦王阿達</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Investigators Found a New Problem With OpenAI’s Rogue Agents: Missing Evidence]]></title>
-        <id>https://www.theneuron.ai/news/investigators-found-a-new-problem-with-openais-rogue-agents-missing-evidence/</id>
-        <link href="https://www.theneuron.ai/news/investigators-found-a-new-problem-with-openais-rogue-agents-missing-evidence/"/>
-        <updated>2026-10-02T06:53:00.429Z</updated>
-        <summary type="html"><![CDATA[OpenAI’s latest rogue-agent story is less about a proven government hack than a growing accountability problem. As agents stitch together outside services, the evidence needed to investigate their behavior can become fragmented, private, or temporary.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Agent Security: The New Rules for Containing AI Agents]]></title>
-        <id>https://www.theneuron.ai/news/openai-agent-security-new-rules-containing-ai-agents/</id>
-        <link href="https://www.theneuron.ai/news/openai-agent-security-new-rules-containing-ai-agents/"/>
-        <updated>2026-10-02T06:10:32.054Z</updated>
-        <summary type="html"><![CDATA[An OpenAI Agent Security engineer says frontier AI containment now depends on layered isolation, permissions, monitoring, alignment, and incident-response culture. The Hugging Face incident shows why.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Skill of the Day Digest — September 2026 (Part 2)]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/ai-skill-of-the-day-digest-september-2026-part-2/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/ai-skill-of-the-day-digest-september-2026-part-2/"/>
-        <updated>2026-10-02T06:06:47.137Z</updated>
-        <summary type="html"><![CDATA[Explore 13 practical AI skills from September 16–30, with workflows for ChatGPT, Claude, Gemini, Jev, Codex, and AI agents.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Make Production-Ready AI Videos and Animated Infographics with Fotor Agent]]></title>
-        <id>https://medium.com/p/a07bea0506ea</id>
-        <link href="https://generativeai.pub/how-i-make-production-ready-ai-videos-and-animated-infographics-with-fotor-agent-a07bea0506ea?source=rss----440100e76000---4"/>
-        <updated>2026-10-02T06:04:55.000Z</updated>
-        <summary type="html"><![CDATA[A hands-on look at chat-driven video creation, editable motion graphics, and the parts creators still need to check themselves.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Jim Clyde Monge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can Light Make Deepfake Detection Cheaper? UCLA Researchers Think So]]></title>
-        <id>https://www.theneuron.ai/news/ucla-optical-deepfake-detection/</id>
-        <link href="https://www.theneuron.ai/news/ucla-optical-deepfake-detection/"/>
-        <updated>2026-10-02T04:44:15.479Z</updated>
-        <summary type="html"><![CDATA[UCLA researchers are testing a hybrid optical-neural system that screens 15 videos in parallel. The prototype reached 97.79% accuracy on Celeb-DF and could reduce the computing demands of initial deepfake screening.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything That Happened in AI Today (Thursday, October 1, 2026)]]></title>
-        <id>https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-october-1-2026/</id>
-        <link href="https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-october-1-2026/"/>
-        <updated>2026-10-02T02:23:42.724Z</updated>
-        <summary type="html"><![CDATA[OpenAI parted ways with three safety researchers over alleged information sharing, Anthropic reportedly moved toward a November IPO, and new agent, voice, coding, and robotics tools landed across the ecosystem.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 Cool Facts About Jev You Probably Didn’t Know]]></title>
-        <id>https://medium.com/p/1e50ebae7606</id>
-        <link href="https://generativeai.pub/8-cool-facts-about-jev-you-probably-didnt-know-1e50ebae7606?source=rss----440100e76000---4"/>
-        <updated>2026-10-02T01:55:12.000Z</updated>
-        <summary type="html"><![CDATA[The Jev architecture is not a new idea.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Jim Clyde Monge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop blaming the model for slow AI. Using Doherty’s threshold as a guideline.]]></title>
-        <id>https://medium.com/p/5fa6d52e23fc</id>
-        <link href="https://uxdesign.cc/stop-blaming-the-model-for-slow-ai-heres-how-to-design-for-it-doherty-s-threshold-as-a-guideline-5fa6d52e23fc?source=rss----138adf9c44c---4"/>
-        <updated>2026-10-01T22:52:26.000Z</updated>
-        <author>
-            <name>Patrick Neeman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design’s consensus was AI’s first casualty]]></title>
-        <id>https://medium.com/p/8143c1bada80</id>
-        <link href="https://uxdesign.cc/designs-consensus-was-ai-s-first-casualty-8143c1bada80?source=rss----138adf9c44c---4"/>
-        <updated>2026-10-01T22:51:02.000Z</updated>
-        <summary type="html"><![CDATA[The same evidence about AI is being read two opposite ways, and designers are left choosing between them without a clear consensus to lean…
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Anamol Rajbhandari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI beyond average: from chatting to collaborating]]></title>
-        <id>https://medium.com/p/7b308dd9317a</id>
-        <link href="https://uxdesign.cc/ai-beyond-average-from-chatting-to-collaborating-7b308dd9317a?source=rss----138adf9c44c---4"/>
-        <updated>2026-10-01T22:49:51.000Z</updated>
-        <summary type="html"><![CDATA[How context, skills, and feedback turn the same model into a different kind of collaborator
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Sen Lin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[McDonald's Caught Cheating Consumers for Profit as Rage Over Cost of Living Burns]]></title>
-        <id>https://www.thebignewsletter.com/p/a-scandal-at-mcdonalds-shows-why</id>
-        <link href="https://www.thebignewsletter.com/p/a-scandal-at-mcdonalds-shows-why"/>
-        <updated>2026-10-01T20:58:30.000Z</updated>
-        <summary type="html"><![CDATA[Why are people so mad about the price of a Big Mac, and what does all that anger say about where our politics are headed? It’s not just the inflation, it’s the cheating and profits behind it.]]></summary>
-        <author>
-            <name>Lee Hepner</name>
         </author>
     </entry>
     <entry>
@@ -6763,27 +6641,6 @@ Continue reading on UX Collective »]]></summary>
         <summary type="html"><![CDATA[Try these four tasks with Muse from Meta.You can text Muse like a friend and ask it to do real work for you. Make a personalized birthday card, plan meals ar...]]></summary>
         <author>
             <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pulse: RoR creator sparks new “death of coding by hand” debate]]></title>
-        <id>6abe3b03734bf80001b842c0</id>
-        <link href="https://blog.pragmaticengineer.com/the-pulse-ror-creator-sparks-new-death-of-coding-by-hand-debate/"/>
-        <updated>2026-10-01T16:44:13.000Z</updated>
-        <summary type="html"><![CDATA[In his Rails World keynote, David Heinemeier Hansson (DHH) declared the end for writing code by hand for professional work – at 37signals at least. Is this change now unstoppable?]]></summary>
-        <author>
-            <name>Ivan Klaric</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Autoencoders vs. PCA: I Rigged the Test and PCA Still Won]]></title>
-        <id>https://towardsdatascience.com/autoencoders-vs-pca-i-rigged-the-test-and-pca-still-won/</id>
-        <link href="https://towardsdatascience.com/autoencoders-vs-pca-i-rigged-the-test-and-pca-still-won/"/>
-        <updated>2026-10-01T15:30:02.000Z</updated>
-        <summary type="html"><![CDATA[A theoretical advantage that didn't survive contact with a real benchmark.
-The post Autoencoders vs. PCA: I Rigged the Test and PCA Still Won appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Himanshu Sharma</name>
         </author>
     </entry>
     <entry>
