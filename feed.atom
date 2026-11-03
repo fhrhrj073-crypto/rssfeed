@@ -2,10 +2,149 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-11-02T02:51:53.411Z</updated>
+    <updated>2026-11-03T04:08:35.686Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why UPDF Might Be the Only Document Tool with AI You Need This Year]]></title>
+        <id>https://medium.com/p/4288ce635235</id>
+        <link href="https://generativeai.pub/why-updf-might-be-the-only-document-tool-with-ai-you-need-this-year-4288ce635235?source=rss----440100e76000---4"/>
+        <updated>2026-11-03T02:08:49.000Z</updated>
+        <author>
+            <name>Jim Clyde Monge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[State of a system]]></title>
+        <id>https://medium.com/p/5c8473db1e9</id>
+        <link href="https://uxdesign.cc/state-of-a-system-5c8473db1e9?source=rss----138adf9c44c---4"/>
+        <updated>2026-11-02T17:56:46.000Z</updated>
+        <author>
+            <name>Pekka Oskari Puhakka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Virtue ethics in everyday interface design]]></title>
+        <id>https://medium.com/p/5f2aca841781</id>
+        <link href="https://uxdesign.cc/virtue-ethics-in-everyday-interface-design-5f2aca841781?source=rss----138adf9c44c---4"/>
+        <updated>2026-11-02T17:55:34.000Z</updated>
+        <author>
+            <name>Michael Buckley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎙️ How I AI: Grok vs. Dot vs. Muse vs. Duet + How Figma’s PMs actually use AI every day]]></title>
+        <id>https://www.lennysnewsletter.com/p/how-i-ai-grok-vs-dot-vs-muse-vs-duet</id>
+        <link href="https://www.lennysnewsletter.com/p/how-i-ai-grok-vs-dot-vs-muse-vs-duet"/>
+        <updated>2026-11-02T16:02:08.000Z</updated>
+        <summary type="html"><![CDATA[Your weekly listens from How I AI, part of the Lenny's Podcast Network]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Credit Risk: What Are We Actually Measuring?]]></title>
+        <id>https://towardsdatascience.com/credit-risk-what-are-we-actually-measuring/</id>
+        <link href="https://towardsdatascience.com/credit-risk-what-are-we-actually-measuring/"/>
+        <updated>2026-11-02T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s start with a loan and work out what PD, LGD, and EAD tell us about losses and bank capital.
+The post Credit Risk: What Are We Actually Measuring? appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>JUNIOR JUMBONG</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1,999 European Family Offices and Private Investors: The 2026 Database]]></title>
+        <id>https://www.thevccorner.com/p/european-family-offices-private-investors-database-2026</id>
+        <link href="https://www.thevccorner.com/p/european-family-offices-private-investors-database-2026"/>
+        <updated>2026-11-02T15:24:34.000Z</updated>
+        <summary type="html"><![CDATA[1,999 European family offices and private investors, each with a named decision-maker you can email.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflection's Beam Is the New Open-Weight Model Everyone Is Talking About]]></title>
+        <id>https://towardsdatascience.com/reflections-beam-is-the-new-open-weight-model-everyone-is-talking-about/</id>
+        <link href="https://towardsdatascience.com/reflections-beam-is-the-new-open-weight-model-everyone-is-talking-about/"/>
+        <updated>2026-11-02T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A 501B model that only activates 23B parameters per token sounds like a bargain, until you look at what it takes to host.
+The post Reflection's Beam Is the New Open-Weight Model Everyone Is Talking About appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Benjamin Nweke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Figma’s PMs actually use AI every day | Ezra Mechaber (PM, Figma)]]></title>
+        <id>https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every</id>
+        <link href="https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every"/>
+        <updated>2026-11-02T13:04:11.000Z</updated>
+        <summary type="html"><![CDATA[Listen now | 🎙️ Figma growth PM Ezra Mechaber demos PM OS, a 31-skill repo used by 60+ PMs, and AutoXP, an agent that runs growth experiments with one human checkpoint]]></summary>
+        <author>
+            <name>Claire Vo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our AI Has an Invisible Footprint — Let's see How to Measure It]]></title>
+        <id>https://towardsdatascience.com/our-ai-has-an-invisible-footprint-lets-see-how-to-measure-it/</id>
+        <link href="https://towardsdatascience.com/our-ai-has-an-invisible-footprint-lets-see-how-to-measure-it/"/>
+        <updated>2026-11-02T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The hardest part is no longer getting the numbers. It's deciding what to do with them.
+The post Our AI Has an Invisible Footprint — Let's see How to Measure It appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Sabrine Bendimerad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let Decision Models Watch Your Agents]]></title>
+        <id>https://towardsdatascience.com/let-decision-models-watch-your-agents/</id>
+        <link href="https://towardsdatascience.com/let-decision-models-watch-your-agents/"/>
+        <updated>2026-11-02T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A hands-on guide to detecting behavioral anomalies from an agent’s evolving execution history
+The post Let Decision Models Watch Your Agents appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Shuai Guo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sparkle buttons, Autonomy by design, AI reckoning in UX, Figma with MCP]]></title>
+        <id>https://medium.com/p/c93e38fa36e3</id>
+        <link href="https://uxdesign.cc/sparkle-buttons-autonomy-by-design-ai-reckoning-in-ux-figma-with-mcp-c93e38fa36e3?source=rss----138adf9c44c---4"/>
+        <updated>2026-11-02T10:22:22.000Z</updated>
+        <author>
+            <name>Fabricio Teixeira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 Microsoft's binding AI school deal]]></title>
+        <id>https://www.theneuron.ai/newsletter/microsoft-s-binding-ai-school-deal/</id>
+        <link href="https://www.theneuron.ai/newsletter/microsoft-s-binding-ai-school-deal/"/>
+        <updated>2026-11-02T09:45:17.771Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything That Happened in AI Today (Monday, November 2, 2026)]]></title>
+        <id>https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-2-2026/</id>
+        <link href="https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-2-2026/"/>
+        <updated>2026-11-02T04:54:52.545Z</updated>
+        <summary type="html"><![CDATA[OpenAI detailed shared ChatGPT and Codex usage starting in December; Meta's ads grew 26% versus Google Search's 12%; AWS surged 39.3%; Apple set China rollout dates; and Anthropic clarified Claude's restrictions.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monopoly Round-Up: Did Bernie Sanders Set the Terms for the Midterm Elections?]]></title>
+        <id>https://www.thebignewsletter.com/p/monopoly-round-up-did-bernie-sanders</id>
+        <link href="https://www.thebignewsletter.com/p/monopoly-round-up-did-bernie-sanders"/>
+        <updated>2026-11-02T03:01:24.000Z</updated>
+        <summary type="html"><![CDATA[From data center opposition to California’s billionaire wealth tax, economic populism has defined the 2026 midterm election cycle, on both the left and right. But can it produce a governing agenda?]]></summary>
+        <author>
+            <name>Lee Hepner</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[😺 Publishers sell ads only AI agents see]]></title>
         <id>https://www.theneuron.ai/newsletter/publishers-sell-ads-only-ai-agents-see/</id>
@@ -130,6 +269,15 @@ The post A Neural Network Learned to Read Digits From Pure Noise appeared first 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《機動警察》迷看了會瘋！ 真的可以操控的 PATLABOR LAB 1：1 英格蘭姆駕駛體驗]]></title>
+        <id>https://www.youtube.com/watch?v=vDTzDXbzXJk</id>
+        <link href="https://www.youtube.com/watch?v=vDTzDXbzXJk"/>
+        <updated>2026-11-01T10:04:58.000Z</updated>
+        <author>
+            <name>電腦王阿達</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Claude Cuts Task Time by About 80%. Make It Run Your Week]]></title>
         <id>https://www.thevccorner.com/p/claude-skills-founder-operating-system</id>
         <link href="https://www.thevccorner.com/p/claude-skills-founder-operating-system"/>
@@ -219,6 +367,15 @@ Continue reading on Generative AI »]]></summary>
         <updated>2026-10-31T05:25:50.000Z</updated>
         <author>
             <name>Srikanth Dongala</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[竟有這麼多缺點！？首款摺疊 iPhone Duo 開箱實測：我覺得蘋果這次翻車了]]></title>
+        <id>https://www.youtube.com/watch?v=Dj-MKwcCVVw</id>
+        <link href="https://www.youtube.com/watch?v=Dj-MKwcCVVw"/>
+        <updated>2026-10-31T04:08:36.000Z</updated>
+        <author>
+            <name>電腦王阿達</name>
         </author>
     </entry>
     <entry>
@@ -446,6 +603,16 @@ Continue reading on Generative AI »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[厲害了！中國開發者成功使用 RK3588 開發板運行安裝 macOS 27.2 系統黑蘋果]]></title>
+        <id>https://www.youtube.com/shorts/5caGyIqMvJM</id>
+        <link href="https://www.youtube.com/shorts/5caGyIqMvJM"/>
+        <updated>2026-10-29T16:27:22.000Z</updated>
+        <summary type="html"><![CDATA[詳細報導：https://www.kocpc.com.tw/archives/701391]]></summary>
+        <author>
+            <name>電腦王阿達</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Old B2B Pricing Model Is Dead. These Are the New Kings]]></title>
         <id>https://www.thevccorner.com/p/the-new-b2b-pricing-models</id>
         <link href="https://www.thevccorner.com/p/the-new-b2b-pricing-models"/>
@@ -486,6 +653,16 @@ The post Difference-in-Differences vs Lagged-Outcome Regression appeared first o
 The post Is the #1 AI Model Really #1? appeared first on Towards Data Science.]]></summary>
         <author>
             <name>Utkarsh Mangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[唔識 Vibe Coding 都做到？！我用 OpenAI Codex 做出超高質動態 PPT！]]></title>
+        <id>https://www.youtube.com/shorts/AChOTc1S-BY</id>
+        <link href="https://www.youtube.com/shorts/AChOTc1S-BY"/>
+        <updated>2026-10-29T12:00:23.000Z</updated>
+        <summary type="html"><![CDATA[唔識 Vibe Coding 都做到？！我用 OpenAI Codex 做出超高質動態 PPT！平時用 AI 做 PowerPoint，大多數都係幫你整理內容、設計版面同生成 Slides。但如果想做到流暢動畫、動態數據圖表，甚至可以即時互動嘅簡報，又得唔得？今次我會實測 OpenAI Codex，配合 HTML...]]></summary>
+        <author>
+            <name>Dr. Jackei 科技生活日誌</name>
         </author>
     </entry>
     <entry>
@@ -736,6 +913,16 @@ Continue reading on UX Collective »]]></summary>
         <updated>2026-10-28T19:05:24.329Z</updated>
         <author>
             <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple 推出首台可觸控筆電 PROLED XDR 螢幕 MacBook Pro，配備動態島、發光 Apple 標誌也回來了]]></title>
+        <id>https://www.youtube.com/shorts/O164wTLNE90</id>
+        <link href="https://www.youtube.com/shorts/O164wTLNE90"/>
+        <updated>2026-10-28T18:56:21.000Z</updated>
+        <summary type="html"><![CDATA[文字版報導：https://www.kocpc.com.tw/archives/701374]]></summary>
+        <author>
+            <name>電腦王阿達</name>
         </author>
     </entry>
     <entry>
@@ -6429,54 +6616,12 @@ Continue reading on Generative AI »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Everything That Happened in AI Today (Friday, October 2, 2026)]]></title>
-        <id>https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-october-2-2026/</id>
-        <link href="https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-october-2-2026/"/>
-        <updated>2026-10-04T15:03:39.866Z</updated>
-        <summary type="html"><![CDATA[Frontier models beat a CPA human baseline on structured month-end work; Ataraxos beat a Stratego champion; OpenAI funded 163 nonprofits; and new local, agent, coding, and VFX tools landed.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The building was there first]]></title>
-        <id>https://medium.com/p/26c6c4e49ba8</id>
-        <link href="https://uxdesign.cc/the-building-was-there-first-26c6c4e49ba8?source=rss----138adf9c44c---4"/>
-        <updated>2026-10-04T14:34:28.000Z</updated>
-        <summary type="html"><![CDATA[A style’s real output isn’t what it makes. It’s the category it installs in whoever looks.
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Takuma Kakehi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Build Your Own Agentic Harness in Python - Full Tutorial]]></title>
         <id>https://www.youtube.com/watch?v=H5o1P8RMiMw</id>
         <link href="https://www.youtube.com/watch?v=H5o1P8RMiMw"/>
         <updated>2026-10-04T14:11:56.000Z</updated>
         <author>
             <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Govern AI Agents]]></title>
-        <id>https://towardsdatascience.com/how-to-govern-ai-agents/</id>
-        <link href="https://towardsdatascience.com/how-to-govern-ai-agents/"/>
-        <updated>2026-10-04T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[From guarding one agent to steering a fleet
-The post How to Govern AI Agents appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Amber Roberts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) | Tibo Sottiaux]]></title>
-        <id>https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering</id>
-        <link href="https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering"/>
-        <updated>2026-10-04T12:32:47.000Z</updated>
-        <summary type="html"><![CDATA[Listen now (37 mins) | Tibo Sottiaux on why Dots is OpenAI’s biggest bet, why agents will dominate internet traffic, and what builders are still getting wrong]]></summary>
-        <author>
-            <name>Lenny Rachitsky</name>
         </author>
     </entry>
     <entry>
@@ -6499,44 +6644,12 @@ The post How to Govern AI Agents appeared first on Towards Data Science.]]></sum
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Reversal Curse: Why a Language Model That Knows “A Is B” Can’t Tell You “B Is A”]]></title>
-        <id>https://towardsdatascience.com/the-reversal-curse-why-a-language-model-that-knows-a-is-b-cant-tell-you-b-is-a/</id>
-        <link href="https://towardsdatascience.com/the-reversal-curse-why-a-language-model-that-knows-a-is-b-cant-tell-you-b-is-a/"/>
-        <updated>2026-10-04T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A model can recall a fact in the direction it learned it and fail in the other. Here's a toy version of why
-The post The Reversal Curse: Why a Language Model That Knows “A Is B” Can’t Tell You “B Is A” appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Utkarsh Mangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Godfather of AI Thinks Something Huge Is About to Happen]]></title>
-        <id>https://medium.com/p/bb571396f1f6</id>
-        <link href="https://generativeai.pub/the-godfather-of-ai-thinks-something-huge-is-about-to-happen-bb571396f1f6?source=rss----440100e76000---4"/>
-        <updated>2026-10-04T02:51:30.000Z</updated>
-        <summary type="html"><![CDATA[Geoffrey Hinton says the intelligence explosion once seemed distant, but now it could be much closer than expected.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Jim Clyde Monge</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[世界AI新聞快訊（2026年10月4日）｜Meta開源AI裝置工具、Kolibri模型登場、Ai2研究報告AI]]></title>
         <id>https://www.youtube.com/watch?v=UUZiDzvEjaQ</id>
         <link href="https://www.youtube.com/watch?v=UUZiDzvEjaQ"/>
         <updated>2026-10-04T00:00:09.000Z</updated>
         <author>
             <name>文恩澄 Rannes Man</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧠 Community Wisdom: Getting value from personal AI agents without handing over your inbox, the ego threat of going from IC to manager, uncommon perks to negotiate for, and more]]></title>
-        <id>https://www.lennysnewsletter.com/p/community-wisdom-getting-value-from</id>
-        <link href="https://www.lennysnewsletter.com/p/community-wisdom-getting-value-from"/>
-        <updated>2026-10-03T17:00:49.000Z</updated>
-        <summary type="html"><![CDATA[Community Wisdom 301]]></summary>
-        <author>
-            <name>Kiyani</name>
         </author>
     </entry>
     <entry>
@@ -6568,15 +6681,6 @@ Continue reading on Generative AI »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小米又來當價格破壞者！Xiaomi 掃拖機器人 6 Pro 實測：AI避障、活水拖地一次到位]]></title>
-        <id>https://www.youtube.com/watch?v=Zr28HX_DLpU</id>
-        <link href="https://www.youtube.com/watch?v=Zr28HX_DLpU"/>
-        <updated>2026-10-03T05:10:33.000Z</updated>
-        <author>
-            <name>電腦王阿達</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why AI Avatars Are Changing Everything (And How to Build One)]]></title>
         <id>https://www.youtube.com/watch?v=OtpdA8Ye2OY</id>
         <link href="https://www.youtube.com/watch?v=OtpdA8Ye2OY"/>
@@ -6602,16 +6706,6 @@ Continue reading on Generative AI »]]></summary>
         <summary type="html"><![CDATA[Should you still grind LeetCode to land a software job? Do a little, but algorithms alone are the old game. Companies still test them, but they're increasing...]]></summary>
         <author>
             <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[台灣還不能用的 Meta Muse AI 助理教你怎麼免費申請註冊立刻玩]]></title>
-        <id>https://www.youtube.com/shorts/yY5RtgOk4nU</id>
-        <link href="https://www.youtube.com/shorts/yY5RtgOk4nU"/>
-        <updated>2026-10-02T07:13:38.000Z</updated>
-        <summary type="html"><![CDATA[文字版：https://www.kocpc.com.tw/archives/670693]]></summary>
-        <author>
-            <name>電腦王阿達</name>
         </author>
     </entry>
     <entry>
@@ -6653,31 +6747,12 @@ Continue reading on Generative AI »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[教大家怎麼更換 ChatGPT 裡面的吉祥物換成自己]]></title>
-        <id>https://www.youtube.com/shorts/7tXnN2pVhoU</id>
-        <link href="https://www.youtube.com/shorts/7tXnN2pVhoU"/>
-        <updated>2026-10-01T09:33:37.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>電腦王阿達</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[世界AI新聞快訊（2026年10月1日）｜OpenClaw企業版、語音AI新模型、洗衫機械人]]></title>
         <id>https://www.youtube.com/watch?v=m7gSWUNv4zw</id>
         <link href="https://www.youtube.com/watch?v=m7gSWUNv4zw"/>
         <updated>2026-10-01T00:00:33.000Z</updated>
         <author>
             <name>文恩澄 Rannes Man</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Dev Day 中文翻譯：Dots、GPT-6.1 Sol、Ultrafast、雲端 Codex 一次看懂]]></title>
-        <id>https://www.youtube.com/watch?v=jk2SQgRg-6w</id>
-        <link href="https://www.youtube.com/watch?v=jk2SQgRg-6w"/>
-        <updated>2026-09-30T16:04:19.000Z</updated>
-        <author>
-            <name>電腦王阿達</name>
         </author>
     </entry>
     <entry>
@@ -6697,15 +6772,6 @@ Continue reading on Generative AI »]]></summary>
         <summary type="html"><![CDATA[如果你也想把時間留給家人，想用 AI 把做內容的時間省下來，這支是我放棄三次別人眼中的成功，才走到今天的故事。前美光大數據工程師，放棄近 200 萬年薪。共同創辦金融新創，又退股回到家人身邊。放下經營十年的美股招牌，從頭做 AI。2025 年營收 440 萬，老婆提早退休，我們一年將近一半的時間帶女兒在國外生活。...]]></summary>
         <author>
             <name>追日Gucci-AI效率革命聯盟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HONOR Magic V6 開箱實測：僅 8.75mm、219g！摺疊旗艦竟然比直板機還輕薄，AI長焦效果驚人]]></title>
-        <id>https://www.youtube.com/watch?v=YbhQSCHeokU</id>
-        <link href="https://www.youtube.com/watch?v=YbhQSCHeokU"/>
-        <updated>2026-09-30T12:08:48.000Z</updated>
-        <author>
-            <name>電腦王阿達</name>
         </author>
     </entry>
     <entry>
@@ -6783,50 +6849,12 @@ Continue reading on Generative AI »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Grok Bot Multi-Agent 實測｜5 個 AI Agent 自己分工，1 個 Prompt 直接做到網站上線！]]></title>
-        <id>https://www.youtube.com/watch?v=lHFbRtHRMKM</id>
-        <link href="https://www.youtube.com/watch?v=lHFbRtHRMKM"/>
-        <updated>2026-09-29T11:59:48.000Z</updated>
-        <author>
-            <name>Dr. Jackei 科技生活日誌</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Washington LLC - How to Start an LLC in Washington in 10 Minutes (2026)]]></title>
         <id>https://www.youtube.com/watch?v=qm9Dy19qEss</id>
         <link href="https://www.youtube.com/watch?v=qm9Dy19qEss"/>
         <updated>2026-09-29T11:00:22.000Z</updated>
         <author>
             <name>Metics Media</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新 iPhone 買完先別裸機！2026 蘋果新機必備 imos 3 大配件一次看]]></title>
-        <id>https://www.youtube.com/shorts/7q_L52sb5ss</id>
-        <link href="https://www.youtube.com/shorts/7q_L52sb5ss"/>
-        <updated>2026-09-29T09:54:47.000Z</updated>
-        <summary type="html"><![CDATA[這裡買：https://www.imos-shop.tw/products/18rpf80ar]]></summary>
-        <author>
-            <name>電腦王阿達</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M6 Mac mini 黑神話悟空實測，詳細實測會出影片]]></title>
-        <id>https://www.youtube.com/shorts/Qzllvq7YX3Y</id>
-        <link href="https://www.youtube.com/shorts/Qzllvq7YX3Y"/>
-        <updated>2026-09-29T09:03:59.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>電腦王阿達</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東京電玩展2026逛爆！眾多最新大廠 3A 新作，MSI、華碩、技嘉新品展場一次看]]></title>
-        <id>https://www.youtube.com/watch?v=zYZdpaE-dVg</id>
-        <link href="https://www.youtube.com/watch?v=zYZdpaE-dVg"/>
-        <updated>2026-09-29T06:43:58.000Z</updated>
-        <author>
-            <name>電腦王阿達</name>
         </author>
     </entry>
     <entry>
