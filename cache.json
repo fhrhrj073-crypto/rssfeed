@@ -6,6 +6,156 @@
       "siteUrl": "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=v5FYtD1hy6w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=v5FYtD1hy6w",
+          "publishedOn": "2026-11-04T13:00:38.000Z",
+          "wordCount": null,
+          "title": "The New Job of a Software Engineer (It's Not Writing Code)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/aZ1Ae7vjafk",
+          "author": null,
+          "description": "What makes Agent Zero different from other AI agents? It gets a full Linux machine inside Docker all to itself, and instead of shipping with a fixed list of ...",
+          "link": "https://www.youtube.com/shorts/aZ1Ae7vjafk",
+          "publishedOn": "2026-11-04T12:00:28.000Z",
+          "wordCount": 3410,
+          "title": "The AI Agent That Writes Its Own Tools",
+          "imageUrl": "https://i.ytimg.com/vi/aZ1Ae7vjafk/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBAJp5Pqc8MreZxegLcIA4pBum1YQ"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/UUrTt-vTdTQ",
+          "author": null,
+          "description": "Normally, creating an ad campaign means bouncing between chat, image generation tools, video editors, and downloads. But by connecting Runway directly to Cla...",
+          "link": "https://www.youtube.com/shorts/UUrTt-vTdTQ",
+          "publishedOn": "2026-11-03T18:15:50.000Z",
+          "wordCount": 3463,
+          "title": "I Built an Entire AI Ad Campaign in One Chat Window",
+          "imageUrl": "https://i.ytimg.com/vi/UUrTt-vTdTQ/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDTlwkQF_-PBc5f2D3S3dVjGgk4wg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Sc_D4o9-vNk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Sc_D4o9-vNk",
+          "publishedOn": "2026-11-03T14:06:47.000Z",
+          "wordCount": null,
+          "title": "I Looked Inside my Agents Context Window...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/fBW4CFf9ztw",
+          "author": null,
+          "description": "What's the downside of a self-learning AI agent like Hermes? It can teach itself the wrong skills, and then it keeps repeating those mistakes, so it needs a ...",
+          "link": "https://www.youtube.com/shorts/fBW4CFf9ztw",
+          "publishedOn": "2026-11-03T12:00:15.000Z",
+          "wordCount": 3833,
+          "title": "This AI Can Teach Itself Wrong",
+          "imageUrl": "https://i.ytimg.com/vi/fBW4CFf9ztw/hq720.jpg?sqp=-oaymwEoCJUDENAFSFryq4qpAxoIARUAAAAAJQAAyEI9AICiQ3gB0AEBuAL3GA==&rs=AOn4CLAGe8L3luPW1NqBHeH45-VOR90pmg"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/1oMTgxXTFpI",
+          "author": null,
+          "description": "Should you use Hermes Agent? Go for it if you'll chat with it a lot and have workflows you want it to learn, because the more you use it, the smarter it gets...",
+          "link": "https://www.youtube.com/shorts/1oMTgxXTFpI",
+          "publishedOn": "2026-11-02T12:00:22.000Z",
+          "wordCount": 4603,
+          "title": "This AI Agent Gets Smarter Over Time",
+          "imageUrl": "https://i.ytimg.com/vi/1oMTgxXTFpI/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLBFgBx3LxNkpxXmTEe3HU0_LQOAYQ"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/Z5QpwLqPQm4",
+          "author": null,
+          "description": "AI can generate text all day, but what if you could make it actually make structured decisions? Jev lets you build AI-powered decision systems with Python, u...",
+          "link": "https://www.youtube.com/shorts/Z5QpwLqPQm4",
+          "publishedOn": "2026-11-01T12:00:02.000Z",
+          "wordCount": 3434,
+          "title": "AI can do more than just generate text",
+          "imageUrl": "https://i.ytimg.com/vi/Z5QpwLqPQm4/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBeqbBdFSgLl_cfgRB7tsvQMQbfBg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Jwos3ibkEeM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Jwos3ibkEeM",
+          "publishedOn": "2026-10-31T13:04:08.000Z",
+          "wordCount": null,
+          "title": "Jev Python Tutorial: AI Decisions in 10 Minutes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/LNu8NAJo62Y",
+          "author": null,
+          "description": "What makes Hermes Agent different from other AI agents? It learns. On the surface it looks like Open Claw, but the difference is the core: Open Claw is a mes...",
+          "link": "https://www.youtube.com/shorts/LNu8NAJo62Y",
+          "publishedOn": "2026-10-31T12:00:03.000Z",
+          "wordCount": 3749,
+          "title": "The AI Agent That Teaches Itself",
+          "imageUrl": "https://i.ytimg.com/vi/LNu8NAJo62Y/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCSrNiMqLVfaDcAZSCAf-WqB2bS9A"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=f9uAG3AQGWM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=f9uAG3AQGWM",
+          "publishedOn": "2026-10-30T13:00:35.000Z",
+          "wordCount": null,
+          "title": "How to Build RAG From Scratch in 50 Lines of Python - Full Tutorial",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/NH9jVwWa23Q",
+          "author": null,
+          "description": "Who should actually use Open Claw? Reach for it if you want an assistant you can message like a person and keep simple. Skip it if you want something more co...",
+          "link": "https://www.youtube.com/shorts/NH9jVwWa23Q",
+          "publishedOn": "2026-10-30T12:00:08.000Z",
+          "wordCount": 3618,
+          "title": "The Simplest AI Assistant to Deploy",
+          "imageUrl": "https://i.ytimg.com/vi/NH9jVwWa23Q/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD4tY56AZJN9H-es9clyMoc0YmqdA"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/e1vuX2svBrE",
+          "author": null,
+          "description": "Should you use OpenClaw as your AI assistant? The pros: it's one of the fastest and easiest to set up, works with any model, and has such a big community tha...",
+          "link": "https://www.youtube.com/shorts/e1vuX2svBrE",
+          "publishedOn": "2026-10-29T12:00:32.000Z",
+          "wordCount": 3493,
+          "title": "OpenClaw The Honest Pros and Cons",
+          "imageUrl": "https://i.ytimg.com/vi/e1vuX2svBrE/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBVZDgwfA6Qi3fytR_ZVbMNROLoGw"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=KlZDeqvD52A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KlZDeqvD52A",
+          "publishedOn": "2026-10-28T14:00:32.000Z",
+          "wordCount": null,
+          "title": "I Tested The Viral Reverse Engineering Repo",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/6dsRGjyjqN4",
+          "author": null,
+          "description": "What if your AI agent lived inside the chat apps you already use? That's OpenClaw, an always-on personal assistant you run from WhatsApp, Telegram, Slack, Di...",
+          "link": "https://www.youtube.com/shorts/6dsRGjyjqN4",
+          "publishedOn": "2026-10-28T12:00:21.000Z",
+          "wordCount": 3978,
+          "title": "The AI Agent in Your Chat Apps",
+          "imageUrl": "https://i.ytimg.com/vi/6dsRGjyjqN4/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLB1Xvx41Hq9Axn_qRx--Ig_1T9aNA"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=S8fc9na4pA8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=S8fc9na4pA8",
+          "publishedOn": "2026-10-27T14:00:10.000Z",
+          "wordCount": null,
+          "title": "Everything New in Hermes Agent (Full Setup Guide)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/watch?v=3UFpGesW2_U",
           "author": null,
           "description": "",
@@ -304,176 +454,6 @@
           "wordCount": 3547,
           "title": "How to Pass a Python Live Coding Interview in 2026",
           "imageUrl": "https://i.ytimg.com/vi/TwpizYlIcbg/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLDIcSyCKgcL3X8PoBIhsyRLzDvDqQ"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uccBE9Tun6M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uccBE9Tun6M",
-          "publishedOn": "2026-10-06T13:54:31.000Z",
-          "wordCount": null,
-          "title": "I Unleashed 100 AI Agents at Once. Here’s What Happened.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/-Xlvmc6Y8Eg",
-          "author": null,
-          "description": "Why doesn't a working Python script get you hired? Because there's a huge gap between code that runs once on your machine and code another developer can open...",
-          "link": "https://www.youtube.com/shorts/-Xlvmc6Y8Eg",
-          "publishedOn": "2026-10-06T12:00:06.000Z",
-          "wordCount": 3595,
-          "title": "Write Code That Others People Can Work With",
-          "imageUrl": "https://i.ytimg.com/vi/-Xlvmc6Y8Eg/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCqjp1URD5Vf_4J14fsEpRK8Ed8-g"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/BwUNZPfOeCQ",
-          "author": null,
-          "description": "What actually makes Claude Code smart? Not just the model, the harness around it. To prove it, I built my own harness in pure Python from scratch. Start with...",
-          "link": "https://www.youtube.com/shorts/BwUNZPfOeCQ",
-          "publishedOn": "2026-10-05T12:28:21.000Z",
-          "wordCount": 3871,
-          "title": "What Actually Makes Claude Code Smart",
-          "imageUrl": "https://i.ytimg.com/vi/BwUNZPfOeCQ/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBV7VcIHR8CyvyNyl2Rnw1wAiocKQ&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/1gHEWetDx6U",
-          "author": null,
-          "description": "What are developers actually paid for in 2026? Not writing Python, AI handles for loops, file parsing, and basic scripting now. The skills that are worth mor...",
-          "link": "https://www.youtube.com/shorts/1gHEWetDx6U",
-          "publishedOn": "2026-10-05T11:52:35.000Z",
-          "wordCount": 3914,
-          "title": "These Skills Are Worth More Than Ever",
-          "imageUrl": "https://i.ytimg.com/vi/1gHEWetDx6U/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLBGxg1OCM_5fQvi7Iyz-bxlKW_x3g"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=H5o1P8RMiMw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=H5o1P8RMiMw",
-          "publishedOn": "2026-10-04T14:11:56.000Z",
-          "wordCount": null,
-          "title": "Build Your Own Agentic Harness in Python - Full Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/u3HMv_QlhBM",
-          "author": null,
-          "description": "Software engineering is changing drastically, so what is it changing into? Five things: system design, ownership, using AI tools, the engineering layer, and ...",
-          "link": "https://www.youtube.com/shorts/u3HMv_QlhBM",
-          "publishedOn": "2026-10-04T12:00:15.000Z",
-          "wordCount": 3508,
-          "title": "Software Engineering Is Changing Here's What to Focus On",
-          "imageUrl": "https://i.ytimg.com/vi/u3HMv_QlhBM/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLAi-FPVe-At3HiYKIzNHm31_IsZNw"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0F7fGYpqOZg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0F7fGYpqOZg",
-          "publishedOn": "2026-10-03T14:00:26.000Z",
-          "wordCount": null,
-          "title": "Local AI + Cloud AI Is INSANE - Hybrid Computer FULL Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/zbp8q3SgKZY",
-          "author": null,
-          "description": "Is software engineering still worth it in 2026? It's one of the best jobs in the world, and yes, it's gotten harder to break into, but you absolutely still c...",
-          "link": "https://www.youtube.com/shorts/zbp8q3SgKZY",
-          "publishedOn": "2026-10-03T12:00:01.000Z",
-          "wordCount": 3484,
-          "title": "Software Engineering Is Still One of the Best Jobs",
-          "imageUrl": "https://i.ytimg.com/vi/zbp8q3SgKZY/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLDmU0lZNaIUYgRPdndsFg_R15WuGw"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OtpdA8Ye2OY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OtpdA8Ye2OY",
-          "publishedOn": "2026-10-02T14:36:36.000Z",
-          "wordCount": null,
-          "title": "Why AI Avatars Are Changing Everything (And How to Build One)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/iKYtddHwkvE",
-          "author": null,
-          "description": "Should you still grind LeetCode to land a software job? Do a little, but algorithms alone are the old game. Companies still test them, but they're increasing...",
-          "link": "https://www.youtube.com/shorts/iKYtddHwkvE",
-          "publishedOn": "2026-10-02T12:00:20.000Z",
-          "wordCount": 3521,
-          "title": "LeetCode Isn't the Whole Game Anymore",
-          "imageUrl": "https://i.ytimg.com/vi/iKYtddHwkvE/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAQv-5edwe-Vyz7_k0f_gyZ5fG8xg&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/1iC4b4d4-Zc",
-          "author": null,
-          "description": "Already employed and want into AI work? The highest-leverage move isn't job hunting, it's becoming the AI person on your team. Volunteer for the AI feature n...",
-          "link": "https://www.youtube.com/shorts/1iC4b4d4-Zc",
-          "publishedOn": "2026-10-01T12:00:08.000Z",
-          "wordCount": 3558,
-          "title": "The Highest Leverage AI Career Move",
-          "imageUrl": "https://i.ytimg.com/vi/1iC4b4d4-Zc/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuAL3GA==&rs=AOn4CLBatlgzeGG7Fns58bDtgd_YjWiH4Q&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=x6siPRkPAeQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=x6siPRkPAeQ",
-          "publishedOn": "2026-09-30T13:00:29.000Z",
-          "wordCount": null,
-          "title": "The Only Guide You Need for Local AI Hardware",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/Y7BNSNLlqmI",
-          "author": null,
-          "description": "How do you actually stand out in a hyper-competitive job market? Claims are worthless, evidence is everything, and the strongest evidence is a shipped projec...",
-          "link": "https://www.youtube.com/shorts/Y7BNSNLlqmI",
-          "publishedOn": "2026-09-30T12:00:39.000Z",
-          "wordCount": 3370,
-          "title": "Sep 30, 2026   These AI Skills Are Learnable",
-          "imageUrl": "https://i.ytimg.com/vi/Y7BNSNLlqmI/oar2.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLCXhn5uI4hiGH-tR0awia5aLleM1g&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lFA-zuZRG4Q",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lFA-zuZRG4Q",
-          "publishedOn": "2026-09-29T13:00:38.000Z",
-          "wordCount": null,
-          "title": "Why You NEED This New Python Tool",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/EpHVYqaqw_o",
-          "author": null,
-          "description": "Do you need a PhD or heavy math to become an AI engineer? No. If you can already code, the AI layer is just a set of learnable skills on top of what you have...",
-          "link": "https://www.youtube.com/shorts/EpHVYqaqw_o",
-          "publishedOn": "2026-09-29T12:00:32.000Z",
-          "wordCount": 3688,
-          "title": "The AI Skills That Sit on Top of Coding",
-          "imageUrl": "https://i.ytimg.com/vi/EpHVYqaqw_o/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLBEMhkZF6YtLDQoFJiWuN8AJzmWtg"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/s5E6pwMBgNg",
-          "author": null,
-          "description": "What's the most valuable software skill right now? Building AI into products, not just using AI to code faster. Writing code quicker with Cursor is helping y...",
-          "link": "https://www.youtube.com/shorts/s5E6pwMBgNg",
-          "publishedOn": "2026-09-28T13:47:35.000Z",
-          "wordCount": 3423,
-          "title": "Every Company Wants This AI Skill",
-          "imageUrl": "https://i.ytimg.com/vi/s5E6pwMBgNg/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD-8JDQ5S25HAHypfJbSn-xezs37Q&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=misjUj4Q_ho",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=misjUj4Q_ho",
-          "publishedOn": "2026-09-28T12:29:51.000Z",
-          "wordCount": null,
-          "title": "Building a Real App with Claude Code (Start to Finish)",
-          "imageUrl": null
         }
       ]
     },
@@ -482,6 +462,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfQNB91qRP_5ILeu_S_bSkg",
       "siteUrl": "https://www.youtube.com/channel/UCfQNB91qRP_5ILeu_S_bSkg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=q3QhN1Hr8UU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=q3QhN1Hr8UU",
+          "publishedOn": "2026-11-04T21:19:40.000Z",
+          "wordCount": null,
+          "title": "Claude Opus 5.5 is INCREDIBLE at building video games",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=V7dsUn8xh6Y",
           "author": null,
@@ -611,16 +601,6 @@
           "wordCount": null,
           "title": "Hark is a MIND BLOWING AI Agent you need to try",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5Hw4nHrTMR0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5Hw4nHrTMR0",
-          "publishedOn": "2026-10-05T23:28:01.000Z",
-          "wordCount": null,
-          "title": "6 Meta Muse use cases that will change your life",
-          "imageUrl": null
         }
       ]
     },
@@ -629,6 +609,66 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuwpzP90g1LuGk6JUNms_AQ",
       "siteUrl": "https://www.youtube.com/channel/UCuwpzP90g1LuGk6JUNms_AQ",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=p6sPn17Rm_Q",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=p6sPn17Rm_Q",
+          "publishedOn": "2026-11-03T12:54:04.000Z",
+          "wordCount": null,
+          "title": "Build the PERFECT WordPress Website with AI (Full Guide)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=dPUjUIXnbc4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dPUjUIXnbc4",
+          "publishedOn": "2026-11-01T12:30:20.000Z",
+          "wordCount": null,
+          "title": "Hostinger WooCommerce Tutorial (2026) - Full Setup Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Mt91SiQotOU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Mt91SiQotOU",
+          "publishedOn": "2026-10-30T13:00:05.000Z",
+          "wordCount": null,
+          "title": "Higgsfield AI Tutorial for Beginners (2026) | Step-by-Step",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=q5RagIqBtjc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=q5RagIqBtjc",
+          "publishedOn": "2026-10-28T13:00:25.000Z",
+          "wordCount": null,
+          "title": "Master Hermes Agent in 20 Minutes (Beginner Tutorial)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=knZBpQddnJc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=knZBpQddnJc",
+          "publishedOn": "2026-10-26T12:00:17.000Z",
+          "wordCount": null,
+          "title": "Full Hermes Agent Setup Tutorial: Step-by-Step Walkthrough",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-7jk1Y7AU7w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-7jk1Y7AU7w",
+          "publishedOn": "2026-10-25T11:07:55.000Z",
+          "wordCount": null,
+          "title": "Build $10,000 Websites using ChatGPT (Ultimate Guide)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=3W1VhiKLNp4",
           "author": null,
@@ -688,96 +728,6 @@
           "wordCount": null,
           "title": "The Ultimate Beginner’s Guide to Hermes Agent",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=d1X2YiDozLQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=d1X2YiDozLQ",
-          "publishedOn": "2026-10-05T11:00:16.000Z",
-          "wordCount": null,
-          "title": "WooCommerce Tutorial for Beginners (2026) - Step by Step",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=9X-4QbVC7dM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=9X-4QbVC7dM",
-          "publishedOn": "2026-10-04T12:00:15.000Z",
-          "wordCount": null,
-          "title": "Illinois LLC - How to Start an LLC in Illinois 2026 (Step by Step)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5CmsCgg0lAI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5CmsCgg0lAI",
-          "publishedOn": "2026-10-03T12:00:08.000Z",
-          "wordCount": null,
-          "title": "Michigan LLC - How to Start an LLC in Michigan 2026 (Step by Step)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vhY7OGIh1v0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vhY7OGIh1v0",
-          "publishedOn": "2026-10-02T12:00:25.000Z",
-          "wordCount": null,
-          "title": "Arizona LLC - How to Start an LLC in Arizona 2026 (Step by Step)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6aQADNTZeIc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6aQADNTZeIc",
-          "publishedOn": "2026-10-01T12:00:13.000Z",
-          "wordCount": null,
-          "title": "Colorado LLC - How to Start an LLC in Colorado in 10 Minutes (2026)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_44QkCeAI7g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_44QkCeAI7g",
-          "publishedOn": "2026-09-30T12:00:29.000Z",
-          "wordCount": null,
-          "title": "Delaware LLC - How to Start an LLC in Delaware in 10 Minutes (2026)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qm9Dy19qEss",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qm9Dy19qEss",
-          "publishedOn": "2026-09-29T11:00:22.000Z",
-          "wordCount": null,
-          "title": "Washington LLC - How to Start an LLC in Washington in 10 Minutes (2026)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=3pEGqrE1aaQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=3pEGqrE1aaQ",
-          "publishedOn": "2026-09-27T11:00:19.000Z",
-          "wordCount": null,
-          "title": "WordPress - Full Course for Beginners (2026)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TXpbGxctLG8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TXpbGxctLG8",
-          "publishedOn": "2026-09-25T12:00:04.000Z",
-          "wordCount": null,
-          "title": "Shopify Tutorial for Beginners 2026 (Full Store Setup Guide)",
-          "imageUrl": null
         }
       ]
     },
@@ -786,6 +736,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCawZsQWqfGSbCI5yjkdVkTA",
       "siteUrl": "https://www.youtube.com/channel/UCawZsQWqfGSbCI5yjkdVkTA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/t8-RG3ju_Ao",
+          "author": null,
+          "description": "Join My Newsletter for Regular AI Updates 👇🏼https://forwardfuture.comMy Links 🔗👉🏻 X: https://x.com/matthewberman👉🏻 Forward Future X: https://x.com/for...",
+          "link": "https://www.youtube.com/shorts/t8-RG3ju_Ao",
+          "publishedOn": "2026-11-05T01:33:35.000Z",
+          "wordCount": 3329,
+          "title": "I built my own PDF reader to replace Adobe Acrobat",
+          "imageUrl": "https://i.ytimg.com/vi/t8-RG3ju_Ao/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAgO4aLRfWXm7ZadRL21NWxQ238Og"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=j09uV1oAuIo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=j09uV1oAuIo",
+          "publishedOn": "2026-11-04T17:09:34.000Z",
+          "wordCount": null,
+          "title": "The most important paper in AI right now",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=r0cJOa9MZsE",
           "author": null,
@@ -1175,16 +1145,6 @@
           "wordCount": null,
           "title": "Mistral is BACK! (Le Chonk)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/yrn7FqgVOW8",
-          "author": null,
-          "description": "Join My Newsletter for Regular AI Updates 👇🏼https://forwardfuture.comMy Links 🔗👉🏻 X: https://x.com/matthewberman👉🏻 Forward Future X: https://x.com/for...",
-          "link": "https://www.youtube.com/shorts/yrn7FqgVOW8",
-          "publishedOn": "2026-10-06T08:13:55.000Z",
-          "wordCount": 3470,
-          "title": "Video Game Mashups: Minecraft and Mario in Elden Ring",
-          "imageUrl": "https://i.ytimg.com/vi/yrn7FqgVOW8/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAOz9pLkopniZAi8kxuqoOVCif7AQ&usqp=CCk"
         }
       ]
     },
@@ -1370,6 +1330,156 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwew_LjtIVo_MTwHM6ILNog",
       "siteUrl": "https://www.youtube.com/channel/UCwew_LjtIVo_MTwHM6ILNog",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/n1aSlpR2Sig",
+          "author": null,
+          "description": "停看聽交易台：掃描找訊號、多道濾網先淘汰、Jev AI 評審把關、風控算部位、出場保護，每筆決策都留紀錄。→ 掃描找到訊號，先過突破濾網，再查大盤、財報日和重大經濟數據；價差、成交量、追價過晚，任何一項不合格就淘汰→ 留下的訊號才交給 Jev AI 評審，每筆都要回答固定四個問題，四題全過門檻才放行；Jev 只能...",
+          "link": "https://www.youtube.com/shorts/n1aSlpR2Sig",
+          "publishedOn": "2026-11-04T12:00:40.000Z",
+          "wordCount": 3855,
+          "title": "停看聽交易台：AI 評審 Jev 一關一關審交易訊號（模擬示範）#Shorts",
+          "imageUrl": "https://i.ytimg.com/vi/n1aSlpR2Sig/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLB_YcajSt_GZMAlmY5nrhpnhG7znw"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=AJXnYz0rV0c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=AJXnYz0rV0c",
+          "publishedOn": "2026-11-04T12:00:38.000Z",
+          "wordCount": null,
+          "title": "pstack｜SpaceX 工程師一個月 2000 張 PR，靠什麼？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/yjMhN7OT3xs",
+          "author": null,
+          "description": "從儀表板擷取數字，和讀懂客戶訊息的意思，是不同任務。Terra 可以先用來整理明確資訊；繁簡校對與訊息關係，保留原文核對。這段引用 Dustin 的合成題小樣本測試，並非所有中文情境的排名。完整影片：《Terra 6.1 到底有多強？哪些工作最適合交給它？》https://youtu.be/ex9SK40NobM...",
+          "link": "https://www.youtube.com/shorts/yjMhN7OT3xs",
+          "publishedOn": "2026-11-04T10:00:17.000Z",
+          "wordCount": 3143,
+          "title": "Terra 6.1 讀圖很強，這兩種細節仍要核對",
+          "imageUrl": "https://i.ytimg.com/vi/yjMhN7OT3xs/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAOKSESE0UyMH8wzwrwop6qo-owNQ"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/udY9bAOjPFM",
+          "author": null,
+          "description": "Grok Bot 是我今年用過最好的 AI 助理才用了 48 小時，我就忍不住想分享。最讓我興奮的是：工作終於能交給有分工的助手，不用開著好幾個聊天視窗，自己在中間傳話。Atlassian 今年調查了 12,035 位知識工作者，85% 已經在用 AI，卻只有 29% 真正把它融入每天的工作。問 AI 一個問題很...",
+          "link": "https://www.youtube.com/shorts/udY9bAOjPFM",
+          "publishedOn": "2026-11-04T08:05:31.000Z",
+          "wordCount": 3334,
+          "title": "Grok Bot 是我今年用過最好的 AI 助理 #Shorts",
+          "imageUrl": "https://i.ytimg.com/vi/udY9bAOjPFM/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLB5SR6gdZfYFxKzvPpQ8IEP_E91kg"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/M6kIyw2l_UA",
+          "author": null,
+          "description": "想讓 AI 接手目標清楚的電腦操作，可以先試 Terra 6.1。官方指定專業軟體任務相較 Sol、Astra 快三倍以上；這是該組任務的結果，實際工作仍要測量，也需要有電腦操作功能的工具。完整影片：《Terra 6.1 到底有多強？哪些工作最適合交給它？》https://youtu.be/ex9SK40NobM...",
+          "link": "https://www.youtube.com/shorts/M6kIyw2l_UA",
+          "publishedOn": "2026-11-04T06:00:22.000Z",
+          "wordCount": 3826,
+          "title": "Terra 6.1 快在哪？這類電腦工作先試它",
+          "imageUrl": "https://i.ytimg.com/vi/M6kIyw2l_UA/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLDsWT9jwVOu64Te7kWGqN2ufc6b2g"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/al606ifaeTk",
+          "author": null,
+          "description": "讓 AI 核對一個已提出的說法，和請它主動找原因，選模型的方式不同。Plotly 的合成風電資料測試中，20 題一般分析三個模型全對；5 個隱藏模式，Terra 漏 2 個、Sol 找齊。這是選擇測試起點的線索，不是真實業績的效果保證。完整影片：《Terra 6.1 到底有多強？哪些工作最適合交給它？》https...",
+          "link": "https://www.youtube.com/shorts/al606ifaeTk",
+          "publishedOn": "2026-11-04T01:30:35.000Z",
+          "wordCount": 3158,
+          "title": "報表算得對，原因卻找不齊？Terra 和 Sol 怎麼選",
+          "imageUrl": "https://i.ytimg.com/vi/al606ifaeTk/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLBSZXgKNC18yhf7YAB8rNFar9Hqnw"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ex9SK40NobM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ex9SK40NobM",
+          "publishedOn": "2026-11-03T13:43:14.000Z",
+          "wordCount": null,
+          "title": "Terra 6.1 到底有多強？哪些工作最適合交給它？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/A4y3UNeSwK0",
+          "author": null,
+          "description": "「沒有露臉的東西會有人想看嗎？」我一開始也這樣問過自己想試做第一支不用出鏡的動畫解說影片？在這裡留言「YT」，免費領取《知識上癮》製作指南與工具，我會回覆你領取方式。YT／yt 都可以。有專業、有產品或服務，想用 YouTube 讓人認識你，可是一想到要露臉、要準備內容，就遲遲沒開始？這篇寫給你。我剛開始準備做長...",
+          "link": "https://www.youtube.com/shorts/A4y3UNeSwK0",
+          "publishedOn": "2026-11-03T08:00:34.000Z",
+          "wordCount": 3633,
+          "title": "沒露臉會有人看嗎？（我一開始也懷疑）",
+          "imageUrl": "https://i.ytimg.com/vi/A4y3UNeSwK0/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCVymcQs_oV5JXdOrx2xksmyBqWMg"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/bCtylEblUGU",
+          "author": null,
+          "description": "你做 YouTube 長片，可以 1 秒都不出鏡。想經營 YouTube，卻一想到錄影、安排畫面、剪輯，就遲遲沒開始？我做的是動畫解說長片：用旁白搭配會動的圖形、文字與圖表，把你的觀點和知識講清楚。免費的《知識上癮》製作指南與工具，會用 AI 簡短訪談帶你，把你懂的一個觀念，試做成第一支動畫解說影片。準備一台電腦...",
+          "link": "https://www.youtube.com/shorts/bCtylEblUGU",
+          "publishedOn": "2026-11-03T00:01:03.000Z",
+          "wordCount": 3146,
+          "title": "你做 YouTube 長片，可以 1 秒都不出鏡",
+          "imageUrl": "https://i.ytimg.com/vi/bCtylEblUGU/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLARebGA3j7FCxwGqF0f7xawaNxt8Q"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/pJnCZzRIows",
+          "author": null,
+          "description": "「沒有露臉的東西會有人想看嗎？」我一開始也這樣問過自己想試做第一支不用出鏡的動畫解說影片？在這裡留言「YT」，免費領取《知識上癮》製作指南與工具，我會回覆你領取方式。YT／yt 都可以。有專業、有產品或服務，想用 YouTube 讓人認識你，可是一想到要露臉、要準備內容，就遲遲沒開始？這篇寫給你。我剛開始準備做長...",
+          "link": "https://www.youtube.com/shorts/pJnCZzRIows",
+          "publishedOn": "2026-11-02T12:00:44.000Z",
+          "wordCount": 3530,
+          "title": "沒露臉會有人看嗎？（我一開始也懷疑）",
+          "imageUrl": "https://i.ytimg.com/vi/pJnCZzRIows/hq720.jpg?sqp=-oaymwEoCJUDENAFSFryq4qpAxoIARUAAAAAJQAAyEI9AICiQ3gB0AEBuALzGA==&rs=AOn4CLDifcjzLJz6tX46ocIcGWF72hh4sA"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/zubIyywmtW8",
+          "author": null,
+          "description": "如果只能跟一個被出鏡卡住的專業者講一句話，我會說：「先有內容，再去思考內容好不好，以及要不要出鏡。」想試做第一支不用出鏡的動畫解說影片？在這裡留言「YT」，免費領取《知識上癮》製作指南與工具，我會回覆你領取方式。YT／yt 都可以。說要做 YouTube 卻一直沒做的人，通常卡在很多個地方：要露臉、要架鏡頭、要寫...",
+          "link": "https://www.youtube.com/shorts/zubIyywmtW8",
+          "publishedOn": "2026-11-02T08:00:19.000Z",
+          "wordCount": 3081,
+          "title": "被出鏡卡住的專業者（我只想說這一句）",
+          "imageUrl": "https://i.ytimg.com/vi/zubIyywmtW8/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCmfPXttnZSMHUIaLvH6k3LfRq9CA"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/Wirn7YmH3lQ",
+          "author": null,
+          "description": "「你再這樣，媽媽就不要你了喔。」很多上一代的父母用這句嚇停小孩，因為它真的馬上有效：那是孩子最深的恐懼，被丟下。但對孩子來說，這不是情緒用語，是一個威脅：愛是可以被收回的。所以我們家把行為跟愛分開講：生氣是因為你做的這件事，但不管你做了什麼，我們永遠都會愛你。✅ 生氣時講清楚：是因為「這件事」，不是因為「你這個人...",
+          "link": "https://www.youtube.com/shorts/Wirn7YmH3lQ",
+          "publishedOn": "2026-11-02T04:00:31.000Z",
+          "wordCount": 3301,
+          "title": "「媽媽不要你了」很有效，但代價很大｜孩子學到的是：愛可以被收回",
+          "imageUrl": "https://i.ytimg.com/vi/Wirn7YmH3lQ/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLA6OlKx5mIkoRz8cNjclAVyekuNEA"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/vp0QXxNxoDw",
+          "author": null,
+          "description": "你好棒、你畫得好漂亮、你好聰明，表面是讚美，其實在偷偷教小孩：只要別人說我好，我才是好的。長大之後，很容易變成不停尋求肯定、害怕被討厭的討好型人格。所以女兒畫了一張畫，我們家盡量不只說「你好棒」，改問她怎麼看自己的作品。焦點從「我來評價你」，換成「你怎麼看你自己」。✅ 你為什麼想用這個顏色？✅ 你自己喜歡這一張嗎...",
+          "link": "https://www.youtube.com/shorts/vp0QXxNxoDw",
+          "publishedOn": "2026-11-01T12:00:25.000Z",
+          "wordCount": 3150,
+          "title": "常對孩子說「你好棒」？它可能在教孩子討好別人｜我們家改問這三個問題",
+          "imageUrl": "https://i.ytimg.com/vi/vp0QXxNxoDw/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLBqvZAj_jLTIG7q3a6eRb-wWwGW8w"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/1OgndJx_mnU",
+          "author": null,
+          "description": "一支短片按讚再多，按讚的人還是不知道你能幫他什麼。我會在 YouTube 短片底下接一支同一題的長片，想多問一句的人點下去，十分鐘講完；長片不用出鏡，旁白配上會動的圖解就做得出來。畫面裡的短片和長片是我頻道上的〈Claude 聊天跟 Cowork 合併了〉那一組。想試做第一支不用出鏡的動畫解說影片？在這裡留言「Y...",
+          "link": "https://www.youtube.com/shorts/1OgndJx_mnU",
+          "publishedOn": "2026-11-01T04:00:19.000Z",
+          "wordCount": 3025,
+          "title": "短片有人按讚，想多問一句的人要去哪？",
+          "imageUrl": "https://i.ytimg.com/eb/vi/1OgndJx_mnU/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD7trLDuYVCjxZFfqzqDcQIuDG6mw&usqp=CCA"
+        },
+        {
+          "id": "https://www.youtube.com/shorts/uu6UV3MwhSw",
+          "author": null,
+          "description": "什麼片才需要露臉？我給自己畫了三條線想試做第一支不用出鏡的動畫解說影片？在這裡留言「YT」，免費領取《知識上癮》製作指南與工具，我會回覆你領取方式。YT／yt 都可以。研發這套做法的那段時間，我幾乎沒時間露臉拍片。三條線：1. 要 demo 偏操作面、功能概念要講很深的東西，才考慮露臉2. 其他的交給動畫，需要露...",
+          "link": "https://www.youtube.com/shorts/uu6UV3MwhSw",
+          "publishedOn": "2026-11-01T00:01:02.000Z",
+          "wordCount": 3152,
+          "title": "什麼片才需要露臉？（我只在這時開鏡頭）",
+          "imageUrl": "https://i.ytimg.com/vi/uu6UV3MwhSw/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLAIiAPS5F4mDEu0dg9cs0zP2YbrrQ"
+        },
         {
           "id": "https://www.youtube.com/shorts/yEGs_fyOqQs",
           "author": null,
@@ -1949,26 +2059,6 @@
           "wordCount": null,
           "title": "10 分鐘上手 Claude Code：不會寫程式，交代一次就記住，不用每次重講｜跟聊天差在哪、怎麼交代它做事、新手 3 個坑",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/Wi6alQe8ze4",
-          "author": null,
-          "description": "如果你也想把時間留給家人，想用 AI 把做內容的時間省下來，這支是我放棄三次別人眼中的成功，才走到今天的故事。前美光大數據工程師，放棄近 200 萬年薪。共同創辦金融新創，又退股回到家人身邊。放下經營十年的美股招牌，從頭做 AI。2025 年營收 440 萬，老婆提早退休，我們一年將近一半的時間帶女兒在國外生活。...",
-          "link": "https://www.youtube.com/shorts/Wi6alQe8ze4",
-          "publishedOn": "2026-09-30T12:25:48.000Z",
-          "wordCount": 3213,
-          "title": "放棄美光近200萬年薪，現在線上事業年收440萬(退休我老婆)",
-          "imageUrl": "https://i.ytimg.com/vi/Wi6alQe8ze4/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAbTI3hmOwuorXYpgQQjwtm8suCiw"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/9r3a1BLcBZg",
-          "author": null,
-          "description": "孩子作業突然變快又變漂亮，不用急著罵，先問一句：這一題你可以講給我聽嗎？再來把「幫我寫」換成「幫我學」：叫 AI 直接給答案是幫我寫；叫它出題考你、換個方式解釋、寫完幫你挑錯，是幫我學。同一題數學，換一種問法，第三步、第四步就是孩子自己算的。🗣️ 先問一句：這一題你可以講給我聽嗎？✍️ 幫我寫 → 幫我學：出題...",
-          "link": "https://www.youtube.com/shorts/9r3a1BLcBZg",
-          "publishedOn": "2026-09-29T00:00:06.000Z",
-          "wordCount": 4543,
-          "title": "同樣用 AI 寫數學作業，換一句話就不同｜把「幫我寫」換成「幫我學」，孩子從抄答案變成自己算",
-          "imageUrl": "https://i.ytimg.com/vi/9r3a1BLcBZg/hqdefault.jpg?sqp=-oaymwEkCMoBEOgCSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLBiwoXLB2vJNWbqQsrevVf5alkrOw"
         }
       ]
     },
@@ -1977,6 +2067,96 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC38YXS2v9NWq99MCzXj9vJA",
       "siteUrl": "https://www.youtube.com/channel/UC38YXS2v9NWq99MCzXj9vJA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=3XN3R61gcDk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=3XN3R61gcDk",
+          "publishedOn": "2026-11-04T00:00:18.000Z",
+          "wordCount": null,
+          "title": "2026年11月4日｜24小時世界AI新聞台-重溫｜ChatGPT與Codex共用額度、LongCat 2.5、金管局SAGE",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=GHIxUwqzlf4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GHIxUwqzlf4",
+          "publishedOn": "2026-11-04T00:00:02.000Z",
+          "wordCount": null,
+          "title": "2026年11月3日｜24小時世界AI新聞台-重溫｜Apple智能中國測試、Claude Ultra、Mischief 1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=-r436tP88C0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-r436tP88C0",
+          "publishedOn": "2026-11-02T00:00:09.000Z",
+          "wordCount": null,
+          "title": "2026年11月2日｜24小時世界AI新聞台-重溫｜微軟 Mage-VL-Cowork、Mac影片生成預覽、NESFormer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ghJUr0Qsv1A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ghJUr0Qsv1A",
+          "publishedOn": "2026-11-01T00:00:30.000Z",
+          "wordCount": null,
+          "title": "2026年11月1日｜24小時世界AI新聞台-重溫｜Mistral Large 4開放權重、Pika H3 Flex、Wabi融資",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=QIPU5GIrahA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=QIPU5GIrahA",
+          "publishedOn": "2026-10-31T00:00:30.000Z",
+          "wordCount": null,
+          "title": "2026年10月31日｜24小時世界AI新聞台-重溫｜Gemini 4 Carbon、XREAL Aura、香港 Clover",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=hWNYFS5wk2E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=hWNYFS5wk2E",
+          "publishedOn": "2026-10-30T08:34:03.000Z",
+          "wordCount": null,
+          "title": "🔴 AI新聞直播｜24小時 世界AI新聞台：過去24小時重點消息，每小時更新輪播｜廣東話",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=7Y6VgevJZlY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=7Y6VgevJZlY",
+          "publishedOn": "2026-10-30T00:00:39.000Z",
+          "wordCount": null,
+          "title": "2026年10月30日｜24小時世界AI新聞台-重溫｜ANYmal X 交付、Genie 4 世界模型、Liquid LFM3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=KLNi39FXOT0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KLNi39FXOT0",
+          "publishedOn": "2026-10-29T00:00:20.000Z",
+          "wordCount": null,
+          "title": "2026年10月29日｜24小時世界AI新聞台-重溫｜Discourse2Draft 研究草稿、蘋果碰傷辨識、機械臂量盲孔",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=CYI0KsQXr2A",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CYI0KsQXr2A",
+          "publishedOn": "2026-10-28T00:00:31.000Z",
+          "wordCount": null,
+          "title": "2026年10月28日｜24小時世界AI新聞台-重溫｜ResCarry 搬運模擬、樹幹敲聲辨朽、夜間行人偵測",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=1wsdPXcSlYA",
           "author": null,
@@ -2216,106 +2396,6 @@
           "wordCount": null,
           "title": "2026年10月8日｜24小時世界AI新聞台-重溫｜OpenAI 合約 AI 測試、Reka Rho-1、Google Earth AI",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jFooAol7ttA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jFooAol7ttA",
-          "publishedOn": "2026-10-06T11:01:16.000Z",
-          "wordCount": null,
-          "title": "AI 末日論再爆爭議｜研究員警告失控，黃仁勳卻話 2030 前零機會？拆解證據與推測｜文恩澄｜廣東話",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=D8BlYcrvtS8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=D8BlYcrvtS8",
-          "publishedOn": "2026-10-06T00:00:18.000Z",
-          "wordCount": null,
-          "title": "世界AI新聞快訊（2026年10月6日）｜ChatGPT 生圖將測試新廣告；AI 文字水印、機械人送餐",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/XUVtZp4kLXw",
-          "author": null,
-          "description": "學 AI 只係識問問題、寫 Prompt 就夠？今次由日常用法講到專業工具，睇下點樣令 AI 真正幫到手；片尾亦會介紹我教嘅 Adobe Premiere Pro 基礎剪接課程。🎬 Adobe Premiere Pro 基礎剪接課程（初階）：https://www.hkai-solve-academy.com/...",
-          "link": "https://www.youtube.com/shorts/XUVtZp4kLXw",
-          "publishedOn": "2026-10-05T18:28:40.000Z",
-          "wordCount": 3213,
-          "title": "學 AI 唔係淨係學 Prompt：真正要識嘅係乜？ #人工智能  #rannesman  #文恩澄 #廣東話",
-          "imageUrl": "https://i.ytimg.com/vi/XUVtZp4kLXw/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCopTM_5k6XxYK2pBKTzEUV6aazgA"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=svdN2PJaJgs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=svdN2PJaJgs",
-          "publishedOn": "2026-10-05T00:00:17.000Z",
-          "wordCount": null,
-          "title": "世界AI新聞快訊（2026年10月5日）｜Gemini 免費版將只可用 Flash-Lite；AI 視覺助手、Mac 權限新動向",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UUZiDzvEjaQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UUZiDzvEjaQ",
-          "publishedOn": "2026-10-04T00:00:09.000Z",
-          "wordCount": null,
-          "title": "世界AI新聞快訊（2026年10月4日）｜Meta開源AI裝置工具、Kolibri模型登場、Ai2研究報告AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=m7gSWUNv4zw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=m7gSWUNv4zw",
-          "publishedOn": "2026-10-01T00:00:33.000Z",
-          "wordCount": null,
-          "title": "世界AI新聞快訊（2026年10月1日）｜OpenClaw企業版、語音AI新模型、洗衫機械人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IwqO_TrZbPM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IwqO_TrZbPM",
-          "publishedOn": "2026-09-30T00:00:18.000Z",
-          "wordCount": null,
-          "title": "世界AI新聞快訊（2026年9月30日）｜OpenAI Dot登場、Claude Sonnet 5.5亮相、機械人有觸覺",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=jjnIl7fZ28U",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=jjnIl7fZ28U",
-          "publishedOn": "2026-09-29T12:00:04.000Z",
-          "wordCount": null,
-          "title": "ChatGPT Images 2.5 升級有幾大？由第一張圖到最後交稿，我最關心呢件事｜文恩澄｜廣東話",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Y4P94ysEcm0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Y4P94ysEcm0",
-          "publishedOn": "2026-09-29T00:00:34.000Z",
-          "wordCount": null,
-          "title": "世界AI新聞快訊（2026年9月29日）｜NVIDIA為AI代理加安全護欄、Holo4識用電腦、Meta進軍企業AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=BtRpS_vhZSI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=BtRpS_vhZSI",
-          "publishedOn": "2026-09-28T00:00:37.000Z",
-          "wordCount": null,
-          "title": "世界AI新聞快訊（2026年9月28日）｜MiniMax新模型、AI簡報可以再改、一家人用AI整遊戲",
-          "imageUrl": null
         }
       ]
     },
@@ -2423,16 +2503,6 @@
           "wordCount": 3713,
           "title": "Microsoft Copilot 終於識跟公司 PowerPoint Template？我用 Brand Kit 做 PPT 實測",
           "imageUrl": "https://i.ytimg.com/vi/6q2AS2yj-H0/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCAXR-K4aLlGC4C79jvlxgJpav44Q"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xq-_2VkCNlc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xq-_2VkCNlc",
-          "publishedOn": "2026-10-06T11:59:52.000Z",
-          "wordCount": null,
-          "title": "Microsoft Copilot 終於識跟公司 PowerPoint Template？我用 Brand Kit 做 PPT 實測",
-          "imageUrl": null
         }
       ]
     },
@@ -2441,6 +2511,56 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTPhGcD_get0sdECVEBYpvw",
       "siteUrl": "https://www.youtube.com/channel/UCTPhGcD_get0sdECVEBYpvw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=yF7SsUPojWA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yF7SsUPojWA",
+          "publishedOn": "2026-11-04T06:00:11.000Z",
+          "wordCount": null,
+          "title": "Git & GitHub 新手教學｜安裝、上傳專案、兩台電腦同步，用 VS Code 點按鈕不用背指令",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=E4RB4Ee7Y3E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=E4RB4Ee7Y3E",
+          "publishedOn": "2026-10-30T03:25:51.000Z",
+          "wordCount": null,
+          "title": "我用 Silver 重做了自己的官網｜ZEDOTECH 官網改造",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/W262mU69OLQ",
+          "author": null,
+          "description": "網站做好以後，改一行字也要等工程師？我們打造品牌網站，交付後由你的團隊自己更新：先預覽再發布，用現成區塊組出新頁面。網站後台使用 Silver 內容管理系統。建站服務：design.zedotech.com/graphite/zh-TW/build-with-silver 聯絡信箱：nicky@zedotech....",
+          "link": "https://www.youtube.com/shorts/W262mU69OLQ",
+          "publishedOn": "2026-10-27T13:05:09.000Z",
+          "wordCount": 3044,
+          "title": "改一行字，要等多久？｜ZEDOTECH 品牌網站建置",
+          "imageUrl": "https://i.ytimg.com/vi/W262mU69OLQ/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAuaojhzggbWN1jEyh5b78tYPWwZQ"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lLgmC6WwkfU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lLgmC6WwkfU",
+          "publishedOn": "2026-10-27T12:43:32.000Z",
+          "wordCount": null,
+          "title": "想改，就改。｜ZEDOTECH 品牌網站建置",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xdl4eC4Zdqg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xdl4eC4Zdqg",
+          "publishedOn": "2026-10-27T12:43:24.000Z",
+          "wordCount": null,
+          "title": "Silver 網站後台完整操作｜產品、頁面、選單、權限 13 項功能一次看懂",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=f8ylZSaSX9Y",
           "author": null,
@@ -2825,6 +2945,22 @@
       "siteUrl": "https://www.thebignewsletter.com",
       "articles": [
         {
+          "id": "https://www.thebignewsletter.com/p/ten-things-to-know-about-this-crushing",
+          "author": "Lee Hepner",
+          "description": "Democrats are joyful, the stock market is weirdly higher, and a $400 billion corporation, CVS, just broke itself up trying to get ahead of a new political moment.",
+          "link": "https://www.thebignewsletter.com/p/ten-things-to-know-about-this-crushing",
+          "publishedOn": "2026-11-05T00:48:47.000Z",
+          "wordCount": null,
+          "title": "Anti-Monopolists Soared in the Midterms. You Can Help With What's Next.",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!ibvz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F884cd15a-fee6-4b2e-bae0-f63509325621_996x760.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!ibvz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F884cd15a-fee6-4b2e-bae0-f63509325621_996x760.png"
+        },
+        {
           "id": "https://www.thebignewsletter.com/p/monopoly-round-up-did-bernie-sanders",
           "author": "Lee Hepner",
           "description": "From data center opposition to California’s billionaire wealth tax, economic populism has defined the 2026 midterm election cycle, on both the left and right. But can it produce a governing agenda?",
@@ -3007,6 +3143,22 @@
       "feedUrl": "https://www.thevccorner.com/feed",
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
+        {
+          "id": "https://www.thevccorner.com/p/adam-robinson-playbook-bootstrapping-rb2b-10m-arr",
+          "author": "Ruben Dominguez",
+          "description": "Adam Robinson walked away from more than 50 VC firms and took RB2B from launch to $10M ARR in 32 months, publishing his numbers as he went. Here is the operating system he left founders.",
+          "link": "https://www.thevccorner.com/p/adam-robinson-playbook-bootstrapping-rb2b-10m-arr",
+          "publishedOn": "2026-11-04T13:23:29.000Z",
+          "wordCount": null,
+          "title": "The Adam Robinson Playbook: How RB2B Reached $10M ARR With One Full-Time Employee",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/00b26095-433a-4765-990f-b1d9a078530a_2912x1632.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/00b26095-433a-4765-990f-b1d9a078530a_2912x1632.jpeg"
+        },
         {
           "id": "https://www.thevccorner.com/p/state-of-ai-marketing-2026",
           "author": null,
@@ -3494,6 +3646,66 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/newsletter/watch-napster-is-an-ai-company-now/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/watch-napster-is-an-ai-company-now/",
+          "publishedOn": "2026-11-04T20:05:29.688Z",
+          "wordCount": null,
+          "title": "😸 WATCH: Napster Is an AI Company Now. Seriously.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/openai-pierre-deal-github-ai-coding/",
+          "author": null,
+          "description": "OpenAI’s planned Pierre acquisition follows its unveiling of Pando, a new Git backend. With Cursor and Entire also entering GitHub’s territory, the AI coding race is expanding into the infrastructure where software gets built and reviewed.",
+          "link": "https://www.theneuron.ai/news/openai-pierre-deal-github-ai-coding/",
+          "publishedOn": "2026-11-04T14:06:31.494Z",
+          "wordCount": null,
+          "title": "OpenAI’s Pierre deal brings the AI coding fight to GitHub’s doorstep",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/newsletter/november-4-wednesday/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/november-4-wednesday/",
+          "publishedOn": "2026-11-04T09:30:08.341Z",
+          "wordCount": null,
+          "title": "😾 Google will cut Search for schools without AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/nvidia-ai-agents-seti-alien-signals/",
+          "author": null,
+          "description": "NVIDIA is helping SETI use AI agents to operate radio telescopes and analyze signals from space in real time. But can the technology distinguish potential alien transmissions from ordinary radio interference?",
+          "link": "https://www.theneuron.ai/news/nvidia-ai-agents-seti-alien-signals/",
+          "publishedOn": "2026-11-04T06:40:21.472Z",
+          "wordCount": null,
+          "title": "NVIDIA Puts AI Agents on the Hunt for Aliens. Can They Tell What's Real?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/openai-security-warnings-outside-hackers/",
+          "author": null,
+          "description": "OpenAI employees reportedly warned about security weaknesses for years. Now the company is partnering with hackers who previously accessed Anthropic's business systems. Can outside testing help resolve those concerns?",
+          "link": "https://www.theneuron.ai/news/openai-security-warnings-outside-hackers/",
+          "publishedOn": "2026-11-04T05:35:17.286Z",
+          "wordCount": null,
+          "title": "OpenAI Faced Years of Security Warnings. Why Is It Hiring Outside Hackers Now?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-4-2026/",
+          "author": null,
+          "description": "OpenAI faced fresh scrutiny over years of security warnings and brought in hackers who previously breached Anthropic; Google made schools choose between Search and AI; Apple warned about autonomous agents; and OpenAI demonstrated AI-designed hardware.",
+          "link": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-4-2026/",
+          "publishedOn": "2026-11-04T04:28:07.552Z",
+          "wordCount": null,
+          "title": "Everything That Happened in AI Today (Wednesday, November 4, 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/newsletter/proton-s-ai-staff-revolt/",
           "author": null,
@@ -4543,36 +4755,6 @@
           "wordCount": null,
           "title": "Utah Is Letting AI Write Acne Prescriptions. Who Takes Responsibility?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/openai-will-watermark-chatgpt-text/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/openai-will-watermark-chatgpt-text/",
-          "publishedOn": "2026-10-06T09:40:15.264Z",
-          "wordCount": null,
-          "title": "😸 OpenAI will watermark ChatGPT text",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/news/microsofts-next-ai-reinvention-comes-with-a-meter/",
-          "author": null,
-          "description": "Microsoft is moving enterprise AI beyond the familiar per-seat subscription and toward a model where advanced agents rack up usage charges as they work. That makes AI spending easier to meter—but leaves buyers with a harder problem: proving that the work they paid for was actually worth it.",
-          "link": "https://www.theneuron.ai/news/microsofts-next-ai-reinvention-comes-with-a-meter/",
-          "publishedOn": "2026-10-06T09:28:11.526Z",
-          "wordCount": null,
-          "title": "Microsoft’s Next AI Reinvention Comes With a Meter",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/news/reflection-ai-beam-chinese-open-source-models/",
-          "author": null,
-          "description": "Reflection AI’s Beam targets companies and governments that want a Western model they can run themselves. Its claims of lower inference compute await independent verification, with public weights planned for later in October.",
-          "link": "https://www.theneuron.ai/news/reflection-ai-beam-chinese-open-source-models/",
-          "publishedOn": "2026-10-06T09:04:07.407Z",
-          "wordCount": null,
-          "title": "Reflection AI Launches Beam to Challenge Chinese Open-Source Models",
-          "imageUrl": null
         }
       ]
     },
@@ -4581,6 +4763,46 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/a-computational-analysis-of-womens-suffrage-in-historical-newspapers/",
+          "author": "Renish Joshi",
+          "description": "Using 600,546 digitized newspaper pages to measure how suffrage coverage changed from 1890 to 1920\nThe post A Computational Analysis of Women’s Suffrage in Historical Newspapers appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/a-computational-analysis-of-womens-suffrage-in-historical-newspapers/",
+          "publishedOn": "2026-11-04T15:30:00.000Z",
+          "wordCount": null,
+          "title": "A Computational Analysis of Women’s Suffrage in Historical Newspapers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/how-to-combine-contradictory-filters-in-dax/",
+          "author": "Salvatore Cagliari",
+          "description": "Sometimes we need to calculate results based on contradictory filters. Without any action, these filters will lead to an empty result. Let's see how we can improve the data model to make it work.\nThe post How to Combine Contradictory Filters in DAX appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-combine-contradictory-filters-in-dax/",
+          "publishedOn": "2026-11-04T14:00:00.000Z",
+          "wordCount": null,
+          "title": "How to Combine Contradictory Filters in DAX",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/let-decision-models-guide-your-voice-assistant/",
+          "author": "Shuai Guo",
+          "description": "GPT-Live does the talking. A decision model tracks what’s confirmed and picks what to ask next.\nThe post Let Decision Models Guide Your Voice Assistant appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/let-decision-models-guide-your-voice-assistant/",
+          "publishedOn": "2026-11-04T12:30:00.000Z",
+          "wordCount": null,
+          "title": "Let Decision Models Guide Your Voice Assistant",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/beyond-classical-a-quantum-approach-to-time-series-prediction/",
+          "author": "Davinder Singh",
+          "description": "Introducing CoQS-LSTM, a Coherent Quantum Long Short-Term Memory Architecture\nThe post Beyond Classical: A Quantum Approach to Time-Series Prediction appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/beyond-classical-a-quantum-approach-to-time-series-prediction/",
+          "publishedOn": "2026-11-04T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Beyond Classical: A Quantum Approach to Time-Series Prediction",
+          "imageUrl": null
+        },
         {
           "id": "https://towardsdatascience.com/ai-will-do-your-job-that-should-be-good-news/",
           "author": "James O'Brien",
@@ -5540,46 +5762,6 @@
           "wordCount": null,
           "title": "When Do PINNs Beat Classical Numerical Methods? A 1D vs 5D Experiment",
           "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/how-i-use-ai-to-learn-new-topics-faster-an-ai-assisted-learning-framework/",
-          "author": "Destin Gong",
-          "description": "A practical framework for turning AI into a thinking partner\nThe post How I Use AI to Learn New Topics Faster: An AI-Assisted Learning Framework appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-i-use-ai-to-learn-new-topics-faster-an-ai-assisted-learning-framework/",
-          "publishedOn": "2026-10-06T15:30:00.000Z",
-          "wordCount": null,
-          "title": "How I Use AI to Learn New Topics Faster: An AI-Assisted Learning Framework",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/a-google-team-measured-half-of-my-argument-and-left-the-other-half-open/",
-          "author": "Gal Arav",
-          "description": "Towards Spec-Driven Test Automation: Part 3\nThe post A Google Team Measured Half of My Argument, and Left the Other Half Open appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/a-google-team-measured-half-of-my-argument-and-left-the-other-half-open/",
-          "publishedOn": "2026-10-06T14:00:00.000Z",
-          "wordCount": null,
-          "title": "A Google Team Measured Half of My Argument, and Left the Other Half Open",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/how-to-make-a-cloud-read-a-drones-mind-and-cut-data-usage-by-94/",
-          "author": "Anubhab Banerjee",
-          "description": "Two copies of one small AI model keep a remote machine in sync with the cloud, with no constant streaming. A beginner-friendly world model tutorial in PyTorch.\nThe post How to Make a Cloud Read a Drone's Mind (and Cut Data Usage by 94%) appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-make-a-cloud-read-a-drones-mind-and-cut-data-usage-by-94/",
-          "publishedOn": "2026-10-06T12:30:00.000Z",
-          "wordCount": null,
-          "title": "How to Make a Cloud Read a Drone's Mind (and Cut Data Usage by 94%)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/i-hid-four-traps-in-a-forecasting-task-here-is-what-four-ai-assistants-did/",
-          "author": "Spyros Georgopoulos",
-          "description": "A controlled test of Gemini, DeepSeek, ChatGPT, and Claude on leakage, reporting delays, promotion effects, and structural breaks.\nThe post I Hid Four Traps in a Forecasting Task. Here Is What Four AI Assistants Did. appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/i-hid-four-traps-in-a-forecasting-task-here-is-what-four-ai-assistants-did/",
-          "publishedOn": "2026-10-06T11:00:00.000Z",
-          "wordCount": null,
-          "title": "I Hid Four Traps in a Forecasting Task. Here Is What Four AI Assistants Did.",
-          "imageUrl": null
         }
       ]
     },
@@ -5594,6 +5776,36 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/525c17dd927f",
+          "author": "Dan Maccarone",
+          "description": "",
+          "link": "https://uxdesign.cc/in-a-world-of-panic-calm-and-certainty-win-525c17dd927f?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-11-04T22:13:21.000Z",
+          "wordCount": null,
+          "title": "In a world of panic, calm and certainty win",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a5f3a3e81986",
+          "author": "Dolphia",
+          "description": "",
+          "link": "https://uxdesign.cc/ai-can-generate-the-interface-what-makes-it-worth-caring-about-a5f3a3e81986?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-11-04T22:12:46.000Z",
+          "wordCount": null,
+          "title": "AI can generate the interface. What makes it worth caring about?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d4e8e8f4ceb2",
+          "author": "Anna Lefour",
+          "description": "",
+          "link": "https://uxdesign.cc/what-ai-has-changed-in-design-systems-and-what-is-still-up-to-us-d4e8e8f4ceb2?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-11-04T22:12:09.000Z",
+          "wordCount": null,
+          "title": "What AI has changed in Design Systems, and what is still up to us",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/3ec2a0cf870c",
           "author": "Michał Krztoń",
@@ -6353,36 +6565,6 @@
           "wordCount": null,
           "title": "How apps know us better than we do and influence our decisions",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/c8de13aefc6f",
-          "author": "Dora Czerna",
-          "description": "Muse comes with an avatar you design and a keyring gadget. Few people would hand Meta their passwords, yet it topped the US App Store.\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/is-metas-new-ai-agent-easier-to-trust-because-it-s-cute-c8de13aefc6f?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-10-05T22:00:31.000Z",
-          "wordCount": null,
-          "title": "Is Meta’s new AI agent easier to trust because it’s cute?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/1afbf92eb496",
-          "author": "Slava Polonski, PhD",
-          "description": "The hidden cost of outsourcing our thinking to AI.\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-10-05T22:00:12.000Z",
-          "wordCount": null,
-          "title": "AI skill atrophy: Are we forgetting how to think?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/32d1523f1f95",
-          "author": "Nicole Alexandra Michaelis",
-          "description": "",
-          "link": "https://uxdesign.cc/the-taste-paradox-why-the-skill-everyone-says-matters-is-the-one-weve-stopped-building-32d1523f1f95?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-10-05T21:59:40.000Z",
-          "wordCount": null,
-          "title": "The taste paradox: why the skill everyone says matters is the one we’ve stopped building",
-          "imageUrl": null
         }
       ]
     },
@@ -6444,6 +6626,56 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/121bc7f9ff61",
+          "author": "Ray Hu",
+          "description": "Score the trajectory and the database state, not just the final answer.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/ai-agent-evals-15-metrics-you-can-run-in-pure-python-121bc7f9ff61?source=rss----440100e76000---4",
+          "publishedOn": "2026-11-05T02:51:38.000Z",
+          "wordCount": null,
+          "title": "AI Agent Evals: 15 Metrics You Can Run in Pure Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/db9544e7adef",
+          "author": "Injamamul Haque Sonet",
+          "description": "",
+          "link": "https://generativeai.pub/architecting-an-understanding-layer-for-ai-first-systems-and-why-it-matters-db9544e7adef?source=rss----440100e76000---4",
+          "publishedOn": "2026-11-04T12:51:44.000Z",
+          "wordCount": null,
+          "title": "Architecting an Understanding Layer for AI-First Systems, and Why It Matters",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/ed947bad965f",
+          "author": "Raj kumar",
+          "description": "Why autonomous agents need their own identity, least-privilege permissions, short-lived credentials, delegation boundaries, and audit…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/your-ai-agent-needs-an-identity-the-missing-security-layer-in-production-agentic-ai-ed947bad965f?source=rss----440100e76000---4",
+          "publishedOn": "2026-11-04T12:34:45.000Z",
+          "wordCount": null,
+          "title": "Your AI Agent Needs an Identity: The Missing Security Layer in Production Agentic AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6ea0573a13bd",
+          "author": "Jim Clyde Monge",
+          "description": "",
+          "link": "https://generativeai.pub/civitai-alternatives-for-anime-creators-6ea0573a13bd?source=rss----440100e76000---4",
+          "publishedOn": "2026-11-04T11:35:29.000Z",
+          "wordCount": null,
+          "title": "Civitai Alternatives for Anime Creators",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/d358f73fc5f5",
+          "author": "Jim Clyde Monge",
+          "description": "ReScene turns product photos into interactive 3D shopping experiences.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/my-official-entry-to-metas-global-ai-hackathon-2026-d358f73fc5f5?source=rss----440100e76000---4",
+          "publishedOn": "2026-11-04T06:35:36.000Z",
+          "wordCount": null,
+          "title": "My Official Entry to Meta’s Global AI Hackathon 2026",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/614ac1ea4162",
           "author": "Raza Hussain",
@@ -7442,106 +7674,6 @@
           "publishedOn": "2026-10-08T03:01:13.000Z",
           "wordCount": null,
           "title": "4 Notable Upgrades to Nano Banana 2.1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/26dcc5748417",
-          "author": "Aris Novar",
-          "description": "",
-          "link": "https://generativeai.pub/github-took-down-an-ai-torture-chamber-then-it-put-it-back-26dcc5748417?source=rss----440100e76000---4",
-          "publishedOn": "2026-10-06T09:29:14.000Z",
-          "wordCount": null,
-          "title": "GitHub Took Down an “AI Torture Chamber.” Then It Put It Back.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/307466e28f8f",
-          "author": "Saiaashrith Gavini",
-          "description": "",
-          "link": "https://generativeai.pub/why-my-support-agent-missed-an-urgent-ticket-307466e28f8f?source=rss----440100e76000---4",
-          "publishedOn": "2026-10-06T07:35:16.000Z",
-          "wordCount": null,
-          "title": "Why My Support Agent Missed an Urgent Ticket",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/530480c5dc70",
-          "author": "Karthick Thoppe",
-          "description": "Cloudflare, Amazon and Anthropic are making agent decisions smaller, faster and easier to audit\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/from-chatbots-to-deciders-agentic-ai-grows-up-530480c5dc70?source=rss----440100e76000---4",
-          "publishedOn": "2026-10-06T07:32:58.000Z",
-          "wordCount": null,
-          "title": "From Chatbots to Deciders: Agentic AI grows up",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/bc3bdda56bae",
-          "author": "Maximilian Oliver",
-          "description": "The moment I stopped judging AI by a few impressive responses and started measuring what actually changed.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/i-started-testing-ai-outputs-like-software-and-my-good-prompts-didnt-look-so-good-anymore-bc3bdda56bae?source=rss----440100e76000---4",
-          "publishedOn": "2026-10-06T07:30:18.000Z",
-          "wordCount": null,
-          "title": "I Started Testing AI Outputs Like Software — and My “Good” Prompts Didn’t Look So Good Anymore",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/350fd8ede000",
-          "author": "Pasquale Molinaro",
-          "description": "Zero-shot YOLO, a free local VLM, and a retrained YOLO on four datasets, with the code to run each one on free Kaggle GPUs\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/qwen3-8-27b-beat-zero-shot-yolo-with-no-labels-retrained-on-a-few-hundred-images-yolo-won-3-of-4-350fd8ede000?source=rss----440100e76000---4",
-          "publishedOn": "2026-10-06T07:17:36.000Z",
-          "wordCount": null,
-          "title": "Qwen3.8-27B beat zero-shot YOLO with no labels. Retrained on a few hundred images, YOLO won 3 of 4",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f7733b7b4a07",
-          "author": "Delini",
-          "description": "Every AI answer hides a confidence​ score. I trained models from scratch to test whether it warns‌ you before a mistake, a‌nd measured…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/your-ais-confidence-score-is-lying-to-you-but-not-the-way-you-think-f7733b7b4a07?source=rss----440100e76000---4",
-          "publishedOn": "2026-10-06T07:11:06.000Z",
-          "wordCount": null,
-          "title": "Your AI’s Confidence Score Is Lying to You, but Not the Way You Think",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/b4fb5eaa89ba",
-          "author": "Muhammad Mujtaba Raza",
-          "description": "What happens when you remove the LLM from the most expensive parts of your retrieval pipeline and replace it with a model that costs 400×…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/jev-rag-a-more-efficient-solution-for-rag-systems-b4fb5eaa89ba?source=rss----440100e76000---4",
-          "publishedOn": "2026-10-06T05:59:01.000Z",
-          "wordCount": null,
-          "title": "JEV RAG: A More Efficient Solution for RAG Systems?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/8c56c5211177",
-          "author": "Codebook Fusion",
-          "description": "Prompting Claude Code harder didn’t work for me. Verification, plan mode, and clean context did. Here is the workflow, with examples and…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/i-stopped-prompting-claude-code-this-worked-much-better-8c56c5211177?source=rss----440100e76000---4",
-          "publishedOn": "2026-10-06T05:53:15.000Z",
-          "wordCount": null,
-          "title": "I Stopped Prompting Claude Code. This Worked Much Better",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/f306fe3f4cc0",
-          "author": "Aya Mahmoud",
-          "description": "CVE-2026‑61500 in Rejetto HFS was fixed in July. Horizon3 detailed how Anthropic’s Mythos cracked it on September 30, the same week Google…\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/admins-had-79-days-to-patch-a-mythos-found-bug-and-attacks-were-spotted-a-day-after-the-write-up-f306fe3f4cc0?source=rss----440100e76000---4",
-          "publishedOn": "2026-10-06T05:49:54.000Z",
-          "wordCount": null,
-          "title": "Admins Had 79 Days to Patch a Mythos-Found Bug, and Attacks Were Spotted a Day After the Write-Up",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/8c86daec197e",
-          "author": "Jahanzaib Ahmad",
-          "description": "",
-          "link": "https://generativeai.pub/reddits-ai-content-rate-looks-low-the-real-number-is-hidden-by-how-it-s-measured-8c86daec197e?source=rss----440100e76000---4",
-          "publishedOn": "2026-10-06T05:41:20.000Z",
-          "wordCount": null,
-          "title": "Reddit’s AI Content Rate Looks Low. The Real Number Is Hidden By How It’s Measured",
           "imageUrl": null
         }
       ]
