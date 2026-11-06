@@ -2,10 +2,243 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-11-05T03:49:49.752Z</updated>
+    <updated>2026-11-06T03:46:56.857Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Coding Didn’t Become Everyone’s Job. Reviewing Did.]]></title>
+        <id>https://medium.com/p/8912a03c7686</id>
+        <link href="https://generativeai.pub/coding-didnt-become-everyone-s-job-reviewing-did-8912a03c7686?source=rss----440100e76000---4"/>
+        <updated>2026-11-06T01:46:29.000Z</updated>
+        <summary type="html"><![CDATA[I ship front-end with Claude Code and barely type code anymore. Most of my day goes into reading what it wrote.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Koyote Wrakoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI’s New Data Center Pitch Starts With Letting Officials Talk]]></title>
+        <id>https://www.theneuron.ai/news/openai-data-center-reset-no-ndas-public-officials/</id>
+        <link href="https://www.theneuron.ai/news/openai-data-center-reset-no-ndas-public-officials/"/>
+        <updated>2026-11-05T20:11:08.528Z</updated>
+        <summary type="html"><![CDATA[OpenAI’s new data center plans put transparency front and center, including a pledge against mandatory NDAs for public officials. The test is how those commitments work in local agreements.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Report for 100+ Clients With One Semantic Model]]></title>
+        <id>https://towardsdatascience.com/how-to-report-for-100-clients-with-one-semantic-model/</id>
+        <link href="https://towardsdatascience.com/how-to-report-for-100-clients-with-one-semantic-model/"/>
+        <updated>2026-11-05T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Configuration-driven reporting: one semantic model, one metric catalog, and a few lines of configuration per audience
+The post How to Report for 100+ Clients With One Semantic Model appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>VAL YE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[100 LP Contacts at 36 Funds of Funds and Multi-Manager Allocators: The Database and Outreach Playbook]]></title>
+        <id>https://www.thevccorner.com/p/funds-of-funds-lp-contacts-database-2026</id>
+        <link href="https://www.thevccorner.com/p/funds-of-funds-lp-contacts-database-2026"/>
+        <updated>2026-11-05T15:50:52.000Z</updated>
+        <summary type="html"><![CDATA[LP contacts at 36 funds of funds and multi-manager allocators in 19 countries, in one workbook, plus the multi-quarter plan to reach them before the next vintage fills up.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Found 948 Ways to Get Root Access in Linux. That’s Progress.]]></title>
+        <id>https://www.theneuron.ai/news/openai-linux-security-bugs-ai-windows-patches/</id>
+        <link href="https://www.theneuron.ai/news/openai-linux-security-bugs-ai-windows-patches/"/>
+        <updated>2026-11-05T15:36:53.372Z</updated>
+        <summary type="html"><![CDATA[Enormous vulnerability counts look alarming. But AI is helping defenders expose and repair weaknesses that were already there and giving them a head start is worth some patience.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How We Built NASA's Zero-Shot Detector for Gas Leaks from Space]]></title>
+        <id>https://towardsdatascience.com/how-we-built-nasas-zero-shot-detector-for-gas-leaks-from-space/</id>
+        <link href="https://towardsdatascience.com/how-we-built-nasas-zero-shot-detector-for-gas-leaks-from-space/"/>
+        <updated>2026-11-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We trained one model on methane. Without retraining, it also maps carbon monoxide, ammonia and nitrogen dioxide plumes, including the first automated CO detections from NASA’s EMIT.
+The post How We Built NASA's Zero-Shot Detector for Gas Leaks from Space appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Vít Růžička</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How GEO, WebMCP, and Bot Paywalls Are Building the AI-Native Internet]]></title>
+        <id>https://towardsdatascience.com/how-geo-webmcp-and-bot-paywalls-are-building-the-ai-native-internet/</id>
+        <link href="https://towardsdatascience.com/how-geo-webmcp-and-bot-paywalls-are-building-the-ai-native-internet/"/>
+        <updated>2026-11-05T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The internet of the future will look much different than the one today. Businesses are already transitioning.
+The post How GEO, WebMCP, and Bot Paywalls Are Building the AI-Native Internet appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Rodrigo Almeida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India Just Gave Companies Six Hours to Report AI Hacks]]></title>
+        <id>https://medium.com/p/c388b904c943</id>
+        <link href="https://generativeai.pub/india-just-gave-companies-six-hours-to-report-ai-hacks-c388b904c943?source=rss----440100e76000---4"/>
+        <updated>2026-11-05T12:19:54.000Z</updated>
+        <author>
+            <name>Ajay Kumar Pattem</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Manage Multiple AI Coding Agents]]></title>
+        <id>https://medium.com/p/2381d00a2f04</id>
+        <link href="https://generativeai.pub/how-to-manage-multiple-ai-coding-agents-2381d00a2f04?source=rss----440100e76000---4"/>
+        <updated>2026-11-05T12:13:27.000Z</updated>
+        <summary type="html"><![CDATA[Worktrees, subagents, and review limits, from the vendors’ own docs.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Nishkarsh Gupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent Skills Took Over GitHub Trending. Read One Before You Install It.]]></title>
+        <id>https://medium.com/p/25ca5bce6700</id>
+        <link href="https://generativeai.pub/agent-skills-took-over-github-trending-read-one-before-you-install-it-25ca5bce6700?source=rss----440100e76000---4"/>
+        <updated>2026-11-05T12:08:55.000Z</updated>
+        <author>
+            <name>Abhinav Dobhal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Model Lost 21 Points. Another Lost 0.87. Nothing Else Changed.]]></title>
+        <id>https://medium.com/p/fc0e12448144</id>
+        <link href="https://generativeai.pub/one-model-lost-21-points-another-lost-0-87-nothing-else-changed-fc0e12448144?source=rss----440100e76000---4"/>
+        <updated>2026-11-05T12:06:54.000Z</updated>
+        <summary type="html"><![CDATA[Researchers sealed every leak in a coding benchmark and reran all 731 tasks. The models that had been reading the answers collapsed. The…
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>CodeInsights</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why a Tiny GPT Can Know Two Facts and Still Not Connect Them]]></title>
+        <id>https://towardsdatascience.com/why-a-tiny-gpt-can-know-two-facts-and-still-not-connect-them/</id>
+        <link href="https://towardsdatascience.com/why-a-tiny-gpt-can-know-two-facts-and-still-not-connect-them/"/>
+        <updated>2026-11-05T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A tiny GPT memorized every fact I gave it, then couldn’t answer a single question that needed two of them. I tested the one-line fix from a recent paper, and it only half worked.
+The post Why a Tiny GPT Can Know Two Facts and Still Not Connect Them appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Utkarsh Mangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Sync Succeeded” Doesn’t Mean Your Data Is Correct: What I Learned Testing 97 Real Connector Bugs]]></title>
+        <id>https://medium.com/p/9427561c1134</id>
+        <link href="https://generativeai.pub/sync-succeeded-doesnt-mean-your-data-is-correct-what-i-learned-testing-97-real-connector-bugs-9427561c1134?source=rss----440100e76000---4"/>
+        <updated>2026-11-05T11:55:23.000Z</updated>
+        <author>
+            <name>Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Built a 4-Agent Codex Pipeline for Real Software Delivery]]></title>
+        <id>https://medium.com/p/a13b31fea5bb</id>
+        <link href="https://generativeai.pub/i-built-a-4-agent-codex-pipeline-for-real-software-delivery-a13b31fea5bb?source=rss----440100e76000---4"/>
+        <updated>2026-11-05T11:48:48.000Z</updated>
+        <summary type="html"><![CDATA[From ADO to PR with planner, coder, tester, and reviewer.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Rittika Jindal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everyone Calls It Claude 2.0. Here Are the 9 Features Worth Your Time]]></title>
+        <id>https://medium.com/p/672855e9847d</id>
+        <link href="https://generativeai.pub/everyone-calls-it-claude-2-0-here-are-the-9-features-worth-your-time-672855e9847d?source=rss----440100e76000---4"/>
+        <updated>2026-11-05T11:39:15.000Z</updated>
+        <summary type="html"><![CDATA[Side chats, split view, nested sessions, routines, dashboards and mods: what each new feature does, where to find it, and the job it’s…
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>NAJAM US SAQIB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get Rid of AI Slop in Your App’s UI Without a Designer]]></title>
+        <id>https://medium.com/p/64be4ea4fc34</id>
+        <link href="https://generativeai.pub/get-rid-of-ai-slop-in-your-apps-ui-without-a-designer-64be4ea4fc34?source=rss----440100e76000---4"/>
+        <updated>2026-11-05T11:18:04.000Z</updated>
+        <summary type="html"><![CDATA[What AI gets wrong when it designs a screen, what I changed to fix it, and the prompt that does it for you.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Koyote Wrakoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design by numbers: is AI ruining UX or just pouring gasoline on the fire?]]></title>
+        <id>https://medium.com/p/24164d49e422</id>
+        <link href="https://uxdesign.cc/design-by-numbers-is-ai-ruining-ux-or-just-pouring-gasoline-on-the-fire-24164d49e422?source=rss----138adf9c44c---4"/>
+        <updated>2026-11-05T10:49:10.000Z</updated>
+        <author>
+            <name>Russell Pinkston</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everyone’s got a quick question]]></title>
+        <id>https://medium.com/p/374a736ff7cb</id>
+        <link href="https://uxdesign.cc/everyones-got-a-quick-question-374a736ff7cb?source=rss----138adf9c44c---4"/>
+        <updated>2026-11-05T10:47:24.000Z</updated>
+        <author>
+            <name>Bill Guo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 OpenAI launched Images 2.6 with GIFs]]></title>
+        <id>https://www.theneuron.ai/newsletter/openai-launched-images-2-6-with-gifs/</id>
+        <link href="https://www.theneuron.ai/newsletter/openai-launched-images-2-6-with-gifs/"/>
+        <updated>2026-11-05T09:30:07.439Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Engineers Boost MoE Inference on NVIDIA DGX Spark by 42.5%]]></title>
+        <id>https://medium.com/p/085d5085cffc</id>
+        <link href="https://generativeai.pub/nvidia-engineers-boost-moe-inference-on-nvidia-dgx-spark-by-42-5-085d5085cffc?source=rss----440100e76000---4"/>
+        <updated>2026-11-05T09:10:16.000Z</updated>
+        <author>
+            <name>Jim Clyde Monge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Helped Scientists Investigate a 40-Year-Old Cell Mystery. Here's What It Found]]></title>
+        <id>https://www.theneuron.ai/news/claude-anthropic-40-year-old-cell-mystery/</id>
+        <link href="https://www.theneuron.ai/news/claude-anthropic-40-year-old-cell-mystery/"/>
+        <updated>2026-11-05T06:52:10.631Z</updated>
+        <summary type="html"><![CDATA[Claude helped Anthropic researchers investigate a 40-year-old cell mystery and cut a three-day lab process to 90 minutes. Its mistakes also delayed the project, raising questions about AI's reliability in scientific research.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Tested ChatGPT’s New GIF Feature. Here's What Happened]]></title>
+        <id>https://www.theneuron.ai/news/chatgpt-gif-creation-test/</id>
+        <link href="https://www.theneuron.ai/news/chatgpt-gif-creation-test/"/>
+        <updated>2026-11-05T06:24:36.601Z</updated>
+        <summary type="html"><![CDATA[ChatGPT can now create animated GIFs from prompts or photos. I tried the workflow with a strawberry-wearing cat and checked what happened between the still image and the finished loop.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything That Happened in AI Today (Thursday, November 5, 2026)]]></title>
+        <id>https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-november-5-2026/</id>
+        <link href="https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-november-5-2026/"/>
+        <updated>2026-11-05T03:49:59.271Z</updated>
+        <summary type="html"><![CDATA[OpenAI reported 948 Linux security vulnerabilities found by AI agents; Anthropic investigated mysterious cell particles; Apple cut employee AI budgets; election-focused AI PACs saw mixed results; Meta acquired AI coding startup Conductor.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Agent Evals: 15 Metrics You Can Run in Pure Python]]></title>
         <id>https://medium.com/p/121bc7f9ff61</id>
@@ -6856,27 +7089,6 @@ Continue reading on UX Collective »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Wrong Is Your Marketing Mix Model (MMM)?]]></title>
-        <id>https://towardsdatascience.com/how-wrong-is-your-marketing-mix-model-mmm/</id>
-        <link href="https://towardsdatascience.com/how-wrong-is-your-marketing-mix-model-mmm/"/>
-        <updated>2026-10-07T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A well-built MMM can still be wrong, because the spend it learns from never held the information it needs. This article tests whether changing when you spend, not how much, can fix that.
-The post How Wrong Is Your Marketing Mix Model (MMM)? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ryan OSullivan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[For Three Years, Only Companies With Big Budgets Could Work With Me. Today That Changes]]></title>
-        <id>https://www.thevccorner.com/p/for-three-years-only-companies-with</id>
-        <link href="https://www.thevccorner.com/p/for-three-years-only-companies-with"/>
-        <updated>2026-10-07T15:07:32.000Z</updated>
-        <summary type="html"><![CDATA[Notion, Oracle and Vanta paid cash to reach this audience. Seed startups can now pay with equity. Two seats a month.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Register free through the event link on my channel.]]></title>
         <id>https://www.youtube.com/shorts/gwysoMn-n3Q</id>
         <link href="https://www.youtube.com/shorts/gwysoMn-n3Q"/>
@@ -6884,38 +7096,6 @@ The post How Wrong Is Your Marketing Mix Model (MMM)? appeared first on Towards 
         <summary type="html"><![CDATA[Curious about making money with AI?On October 13–14, I’ll show you the path from working agent to real business offer.The masterclass is live and free. Regis...]]></summary>
         <author>
             <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction to Reinforcement Learning: Multi-Armed Bandit Simulation in Python]]></title>
-        <id>https://towardsdatascience.com/introduction-to-reinforcement-learning-multi-armed-bandit-simulation-in-python/</id>
-        <link href="https://towardsdatascience.com/introduction-to-reinforcement-learning-multi-armed-bandit-simulation-in-python/"/>
-        <updated>2026-10-07T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When machines learn by themselves
-The post Introduction to Reinforcement Learning: Multi-Armed Bandit Simulation in Python appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Carolina Bento</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Tiny Ultrasound Chip Behind Butterfly’s Bigger AI Bet]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/butterfly-ultrasound-chip-medical-ai/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/butterfly-ultrasound-chip-medical-ai/"/>
-        <updated>2026-10-07T12:55:37.240Z</updated>
-        <summary type="html"><![CDATA[Medical AI depends on the information it receives. Butterfly Network is opening its ultrasound chip and software to developers, with applications ranging from guided procedures to Midjourney’s experimental body scanner.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Consistency Quadrant: A Visual Guide to LLM Reliability]]></title>
-        <id>https://towardsdatascience.com/the-consistency-quadrant-a-visual-guide-to-llm-reliability/</id>
-        <link href="https://towardsdatascience.com/the-consistency-quadrant-a-visual-guide-to-llm-reliability/"/>
-        <updated>2026-10-07T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Mapping structural variance against execution outputs to estimate coding agent reliability without ground truth.
-The post The Consistency Quadrant: A Visual Guide to LLM Reliability appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Robert Martin-Short</name>
         </author>
     </entry>
     <entry>
@@ -6929,60 +7109,12 @@ The post The Consistency Quadrant: A Visual Guide to LLM Reliability appeared fi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mistral’s New AI Model Puts a Price on Sovereignty]]></title>
-        <id>https://www.theneuron.ai/news/mistrals-new-ai-model-puts-a-price-on-sovereignty/</id>
-        <link href="https://www.theneuron.ai/news/mistrals-new-ai-model-puts-a-price-on-sovereignty/"/>
-        <updated>2026-10-07T11:28:02.177Z</updated>
-        <summary type="html"><![CDATA[Mistral Large 4 is competitive with some of the world’s strongest AI models, but its bigger bet is giving enterprises more control over how AI runs. Whether that independence proves practical depends on something benchmarks cannot answer: who can actually afford to use it.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Q4 TNA Email - Send 2 of 3]]></title>
-        <id>https://www.theneuron.ai/newsletter/q4-tna-email-send-2-of-3/</id>
-        <link href="https://www.theneuron.ai/newsletter/q4-tna-email-send-2-of-3/"/>
-        <updated>2026-10-07T11:02:18.576Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Q4 TNA Email - Send 3 of 3]]></title>
-        <id>https://www.theneuron.ai/newsletter/q4-tna-email-send-3-of-3/</id>
-        <link href="https://www.theneuron.ai/newsletter/q4-tna-email-send-3-of-3/"/>
-        <updated>2026-10-07T11:00:25.776Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Do PINNs Beat Classical Numerical Methods? A 1D vs 5D Experiment]]></title>
-        <id>https://towardsdatascience.com/?p=669067</id>
-        <link href="https://towardsdatascience.com/when-do-pinns-beat-classical-numerical-methods-a-1d-vs-5d-experiment/"/>
-        <updated>2026-10-07T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I put a physics-informed neural network up against a plain finite-difference solver twice: once in 1D and once in 5D. The winner changed.
-The post When Do PINNs Beat Classical Numerical Methods? A 1D vs 5D Experiment appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Samit Ganguly</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[10 分鐘上手 Claude Code：不會寫程式，交代一次就記住，不用每次重講｜跟聊天差在哪、怎麼交代它做事、新手 3 個坑]]></title>
         <id>https://www.youtube.com/watch?v=M3Fw1PixATY</id>
         <link href="https://www.youtube.com/watch?v=M3Fw1PixATY"/>
         <updated>2026-10-07T10:42:32.000Z</updated>
         <author>
             <name>追日Gucci-AI效率革命聯盟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😺 OpenAI’s AI produced 722 math manuscripts]]></title>
-        <id>https://www.theneuron.ai/newsletter/openai-s-ai-produced-722-math-manuscripts/</id>
-        <link href="https://www.theneuron.ai/newsletter/openai-s-ai-produced-722-math-manuscripts/"/>
-        <updated>2026-10-07T09:31:46.519Z</updated>
-        <author>
-            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -6996,81 +7128,12 @@ The post When Do PINNs Beat Classical Numerical Methods? A 1D vs 5D Experiment a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dario Amodei’s $18 Million Pay Opens a Bigger Question About AI Wealth]]></title>
-        <id>https://www.theneuron.ai/news/dario-amodei-compensation-anthropic-ipo-ai-wealth/</id>
-        <link href="https://www.theneuron.ai/news/dario-amodei-compensation-anthropic-ipo-ai-wealth/"/>
-        <updated>2026-10-07T07:33:51.198Z</updated>
-        <summary type="html"><![CDATA[Dario Amodei received approximately $18 million in 2025 compensation. Anthropic’s potential IPO raises questions about how founder wealth and voting power could influence its public-benefit mission.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mistral is BACK! (Le Chonk)]]></title>
         <id>https://www.youtube.com/watch?v=Hu1JOK6aXsI</id>
         <link href="https://www.youtube.com/watch?v=Hu1JOK6aXsI"/>
         <updated>2026-10-07T00:12:03.000Z</updated>
         <author>
             <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jev: How to use it for better, faster, and cheaper user decisions in UX]]></title>
-        <id>https://medium.com/p/0e9907d2b6f7</id>
-        <link href="https://uxdesign.cc/jev-how-to-use-it-for-better-faster-and-cheaper-user-decisions-in-ux-0e9907d2b6f7?source=rss----138adf9c44c---4"/>
-        <updated>2026-10-06T23:35:43.000Z</updated>
-        <author>
-            <name>Patrick Neeman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why designers need to stop reporting and start recommending at work]]></title>
-        <id>https://medium.com/p/6fa861f58097</id>
-        <link href="https://uxdesign.cc/why-designers-need-to-stop-reporting-and-start-recommending-at-work-6fa861f58097?source=rss----138adf9c44c---4"/>
-        <updated>2026-10-06T23:35:06.000Z</updated>
-        <summary type="html"><![CDATA[Sticky notes don’t help your team. They need your direction
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Kai Wong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How apps know us better than we do and influence our decisions]]></title>
-        <id>https://medium.com/p/f7a5182be6f1</id>
-        <link href="https://uxdesign.cc/how-apps-know-us-better-than-we-do-and-influence-our-decisions-f7a5182be6f1?source=rss----138adf9c44c---4"/>
-        <updated>2026-10-06T23:34:41.000Z</updated>
-        <author>
-            <name>Bas Wallet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI’s Top 1% of Payers Spend $903 a Month, a16z Data Shows]]></title>
-        <id>https://www.theneuron.ai/news/ai-top-1-percent-spend-903-a-month-a16z-data/</id>
-        <link href="https://www.theneuron.ai/news/ai-top-1-percent-spend-903-a-month-a16z-data/"/>
-        <updated>2026-10-06T22:38:14.566Z</updated>
-        <summary type="html"><![CDATA[a16z’s new consumer AI ranking shows 4.5% of eligible U.S. consumers in YipitData’s panel paid for ChatGPT, Gemini, or Claude, while the top 1% of AI payers averaged $903 a month.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 AI Agents Tried to Improve the Same Model. Their Strategies Got Weird]]></title>
-        <id>https://www.theneuron.ai/news/10-ai-agents-tried-to-improve-the-same-model-their-strategies-got-weird/</id>
-        <link href="https://www.theneuron.ai/news/10-ai-agents-tried-to-improve-the-same-model-their-strategies-got-weird/"/>
-        <updated>2026-10-06T17:29:05.782Z</updated>
-        <summary type="html"><![CDATA[Ten AI agents got the same model, the same compute budget and one job: make the AI better. Five days later, they were debugging crashes, blowing budgets, rejecting failed experiments and developing surprisingly different research strategies.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Utah Is Letting AI Write Acne Prescriptions. Who Takes Responsibility?]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/utah-ai-acne-prescriptions-nolla-health/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/utah-ai-acne-prescriptions-nolla-health/"/>
-        <updated>2026-10-06T17:15:33.336Z</updated>
-        <summary type="html"><![CDATA[Utah is allowing Nolla Health to test AI-issued initial acne prescriptions under phased physician oversight. The bigger question is whether faster access can come with reliable safeguards and clear responsibility.]]></summary>
-        <author>
-            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
