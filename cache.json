@@ -3119,22 +3119,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!uRXI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F751a7515-d986-40e4-8340-e90d1b46b55b_1165x809.png"
-        },
-        {
-          "id": "https://www.thebignewsletter.com/p/raises-for-me-layoffs-for-thee-the",
-          "author": "Matt Stoller",
-          "description": "It’s not a happy ending, as billionaire David Ellison gives himself and his team huge raises, while planning big layoffs. But the really bad sign is he just fired the hitmakers from Warner Brothers.",
-          "link": "https://www.thebignewsletter.com/p/raises-for-me-layoffs-for-thee-the",
-          "publishedOn": "2026-10-08T01:29:44.000Z",
-          "wordCount": null,
-          "title": "Paramount Stock CRUSHED After Merger with Warner Discovery Closes",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!NSVJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fnews_img%2F2107508111842144259%2FfOaRw8EV%3Fformat%3Djpg%26name%3Dorig",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!NSVJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fnews_img%2F2107508111842144259%2FfOaRw8EV%3Fformat%3Djpg%26name%3Dorig"
         }
       ]
     },
@@ -3143,6 +3127,22 @@
       "feedUrl": "https://www.thevccorner.com/feed",
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
+        {
+          "id": "https://www.thevccorner.com/p/rewarding-talent-2026-edition-the",
+          "author": "Ruben Dominguez",
+          "description": "Pool sizes, grant grids, exercise windows and the rules in 25 countries, plus the Equity Toolkit and 23 resources",
+          "link": "https://www.thevccorner.com/p/rewarding-talent-2026-edition-the",
+          "publishedOn": "2026-11-06T16:32:30.000Z",
+          "wordCount": null,
+          "title": "Rewarding Talent, 2026 Edition: The Founder’s Stock Option Playbook",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/d7ff8f52-70f5-4b01-8f60-e67310c1d73c_2912x2096.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/d7ff8f52-70f5-4b01-8f60-e67310c1d73c_2912x2096.jpeg"
+        },
         {
           "id": "https://www.thevccorner.com/p/funds-of-funds-lp-contacts-database-2026",
           "author": "Ruben Dominguez",
@@ -3646,6 +3646,66 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/news/nvidia-ai-agents-memory-waste/",
+          "author": null,
+          "description": "AI agents accumulate context as they read, reason, and use tools. NVIDIA’s memory strategy shows why making those agents affordable requires careful decisions about what to store, where it belongs, and when to reuse it.",
+          "link": "https://www.theneuron.ai/news/nvidia-ai-agents-memory-waste/",
+          "publishedOn": "2026-11-06T17:30:46.828Z",
+          "wordCount": null,
+          "title": "NVIDIA’s Plan to Stop AI Agents From Wasting Expensive Memory",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/newsletter/openai-released-gpt-6-cyber-a-hacking-ai/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/openai-released-gpt-6-cyber-a-hacking-ai/",
+          "publishedOn": "2026-11-06T10:00:08.603Z",
+          "wordCount": null,
+          "title": "😺 OpenAI released GPT-6 Cyber, a hacking AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/doj-super-intelligence-task-force-explained/",
+          "author": null,
+          "description": "The DOJ's new Super Intelligence Task Force will coordinate AI-related prosecutions while also challenging certain state AI laws. Here's what its responsibilities mean for AI companies.",
+          "link": "https://www.theneuron.ai/news/doj-super-intelligence-task-force-explained/",
+          "publishedOn": "2026-11-06T07:19:27.613Z",
+          "wordCount": null,
+          "title": "Trump's New Super Intelligence Task Force Has Two Very Different Jobs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/claude-bank-accounts-financial-data-privacy/",
+          "author": null,
+          "description": "Claude can now analyze your bank transactions through Plaid. Anthropic promises read-only access and limits on AI training, but disconnecting your bank doesn't erase financial information from previous chats.",
+          "link": "https://www.theneuron.ai/news/claude-bank-accounts-financial-data-privacy/",
+          "publishedOn": "2026-11-06T06:45:04.342Z",
+          "wordCount": null,
+          "title": "Claude Can Now Read Your Bank Accounts. How Private Is Your Financial Data?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-6-2026/",
+          "author": null,
+          "description": "Independent researchers say Anthropic's AI development is accelerating at roughly twice its previous pace, but key evidence remains redacted. Meanwhile, OpenAI released GPT-6 Cyber, Google faced growing resistance to data centers, and Claude gained access to personal financial accounts.",
+          "link": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-6-2026/",
+          "publishedOn": "2026-11-06T05:33:56.961Z",
+          "wordCount": null,
+          "title": "Everything That Happened in AI Today (Friday, November 6, 2026)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/openais-gpt-6-cyber-can-hack-better-can-it-stay-within-the-rules/",
+          "author": null,
+          "description": "OpenAI's GPT-6 Cyber can develop working exploits and shows major improvements in following authorized testing boundaries. But its safety results vary across benchmarks, raising questions about how model training, access restrictions, and external controls will work together in real deployments.",
+          "link": "https://www.theneuron.ai/news/openais-gpt-6-cyber-can-hack-better-can-it-stay-within-the-rules/",
+          "publishedOn": "2026-11-06T04:57:47.079Z",
+          "wordCount": null,
+          "title": "OpenAI's GPT-6 Cyber Can Hack Better. Can It Stay Within the Rules?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/news/openai-data-center-reset-no-ndas-public-officials/",
           "author": null,
@@ -4655,76 +4715,6 @@
           "wordCount": null,
           "title": "Google Wants a Bigger Role in How Work Gets Done",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/news/biohub-meta-deepmind-us-government-virtual-cells/",
-          "author": null,
-          "description": "Meta, Google DeepMind and U.S. agencies are backing Biohub’s effort to build the experimental data AI needs to predict cellular behavior. The promise is faster discovery; the test is whether those predictions hold up in the lab.",
-          "link": "https://www.theneuron.ai/news/biohub-meta-deepmind-us-government-virtual-cells/",
-          "publishedOn": "2026-10-08T12:20:48.346Z",
-          "wordCount": null,
-          "title": "Why Meta, DeepMind and the U.S. Government Are Backing Virtual Cells",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/news/haiku-5-5-claude-most-practical-launch/",
-          "author": null,
-          "description": "Claude’s smaller model has a timely opening: agents need affordable intelligence they can call repeatedly. Haiku 5.5 delivers lower rates, but reasoning effort, growing context, and completion quality determine the real savings.",
-          "link": "https://www.theneuron.ai/news/haiku-5-5-claude-most-practical-launch/",
-          "publishedOn": "2026-10-08T12:07:23.804Z",
-          "wordCount": null,
-          "title": "Haiku 5.5 Could Be Claude’s Most Practical Launch Yet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/news/google-synthid-ai-watermark-checker/",
-          "author": null,
-          "description": "Google’s SynthID Detector can now check AI watermarks from OpenAI, NVIDIA, Kakao, and Google itself. The expansion could make AI content verification easier, but an undetected watermark does not prove authenticity. As regulators push for machine-readable AI labels, questions about reliability, independent auditing, and Google's role in verification are becoming harder to ignore.",
-          "link": "https://www.theneuron.ai/news/google-synthid-ai-watermark-checker/",
-          "publishedOn": "2026-10-08T10:24:38.907Z",
-          "wordCount": null,
-          "title": "Google Wants SynthID to Become the Web’s AI Watermark Checker",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/october-08-thursday/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/october-08-thursday/",
-          "publishedOn": "2026-10-08T09:40:42.114Z",
-          "wordCount": null,
-          "title": "😺 ChatGPT's GPT-6 now builds calculators",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/blog/openai-gpt-6-chatgpt-interactive-tools/",
-          "author": null,
-          "description": "GPT-6’s Intelligent UI lets ChatGPT assemble interactive tools as it responds. The rollout could change how people use AI and whether they open a separate app to complete a task.",
-          "link": "https://www.theneuron.ai/blog/openai-gpt-6-chatgpt-interactive-tools/",
-          "publishedOn": "2026-10-08T04:47:36.522Z",
-          "wordCount": null,
-          "title": "OpenAI’s GPT-6 Turns ChatGPT Answers Into Interactive Tools",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/news/chatgpt-for-teens-expansion-safety-safeguards/",
-          "author": null,
-          "description": "OpenAI’s plans for College Planner would give ChatGPT a larger role in teenagers’ education. Common Sense Media’s testing raises questions about whether age detection and safety protections are ready for that expansion.",
-          "link": "https://www.theneuron.ai/news/chatgpt-for-teens-expansion-safety-safeguards/",
-          "publishedOn": "2026-10-08T03:04:22.266Z",
-          "wordCount": null,
-          "title": "ChatGPT for Teens Is Expanding. Are Its Safeguards Ready?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/microsoft-windows-hybrid-ai-agents-rtx-spark/",
-          "author": null,
-          "description": "Microsoft wants Windows PCs to carry out more AI work locally while using cloud models where they add value. New agent containers, intelligent routing, and RTX Spark hardware connect that vision, and our interviews explain the engineering and tradeoffs behind it.",
-          "link": "https://www.theneuron.ai/explainer-articles/microsoft-windows-hybrid-ai-agents-rtx-spark/",
-          "publishedOn": "2026-10-07T18:40:09.430Z",
-          "wordCount": null,
-          "title": "Microsoft Wants Your PC to Work While You Sleep, Surface Laptop Ultra Pre-Orders Open",
-          "imageUrl": null
         }
       ]
     },
@@ -4733,6 +4723,46 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/how-to-measure-ai-adoption-performance-and-roi-with-12-kpis/",
+          "author": "Weiwei Hu",
+          "description": "Includes a worked example with 50 users and $110,000 in first-year cost, plus baselines, targets, and ownership rules for every AI initiative.\nThe post How to Measure AI Adoption, Performance, and ROI With 12 KPIs appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-measure-ai-adoption-performance-and-roi-with-12-kpis/",
+          "publishedOn": "2026-11-06T16:30:00.000Z",
+          "wordCount": null,
+          "title": "How to Measure AI Adoption, Performance, and ROI With 12 KPIs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/how-to-manage-python-environments-with-uv-instead-of-venv-and-pip/",
+          "author": "Sara A. Metwalli",
+          "description": "A side-by-side walkthrough of venv plus pip and uv init, uv add, uv run, and uv sync, with a lockfile that recreates the project on another machine.\nThe post How to Manage Python Environments with uv Instead of venv and pip appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-manage-python-environments-with-uv-instead-of-venv-and-pip/",
+          "publishedOn": "2026-11-06T15:00:00.000Z",
+          "wordCount": null,
+          "title": "How to Manage Python Environments with uv Instead of venv and pip",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/build-your-first-multi-tool-ai-agent-with-ollama-and-python/",
+          "author": "Thomas Reid",
+          "description": "AI Agents for Beginners, Part 2: The agent picks between three database tools, uses each result to choose its next call, and stops at an eight-turn circuit-breaker if it gets stuck.\nThe post Build Your First Multi-Tool AI Agent with Ollama and Python appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/build-your-first-multi-tool-ai-agent-with-ollama-and-python/",
+          "publishedOn": "2026-11-06T13:30:00.000Z",
+          "wordCount": null,
+          "title": "Build Your First Multi-Tool AI Agent with Ollama and Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/give-your-python-ai-agent-persistent-memory-with-one-json-file/",
+          "author": "Mahnoor Javed",
+          "description": "Three Python classes, an OpenRouter key, and gpt-4.1-mini give the agent a calculator, a stub web search, and conversation recall that survives restarts.\nThe post Give Your Python AI Agent Persistent Memory with One JSON File appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/give-your-python-ai-agent-persistent-memory-with-one-json-file/",
+          "publishedOn": "2026-11-06T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Give Your Python AI Agent Persistent Memory with One JSON File",
+          "imageUrl": null
+        },
         {
           "id": "https://towardsdatascience.com/how-to-report-for-100-clients-with-one-semantic-model/",
           "author": "VAL YE",
@@ -5702,36 +5732,6 @@
           "wordCount": null,
           "title": "Everyone Is Selling AI at You — Here’s How to Keep Your Judgement",
           "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/?p=664280",
-          "author": "Chien Vu Minh",
-          "description": "AI agents can now write CUDA kernels that outperform PyTorch—but proving those speedups are real is the harder problem. I put them to the test on an NVIDIA DGX Spark and found that benchmark design matters just as much as the code.\nThe post AI Agents Beat PyTorch: Writing Faster CUDA Kernels appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/ai-agents-beat-pytorch-writing-faster-cuda-kernels/",
-          "publishedOn": "2026-10-08T14:00:00.000Z",
-          "wordCount": null,
-          "title": "AI Agents Beat PyTorch: Writing Faster CUDA Kernels",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/your-models-mse-is-lying-to-you-iii-time-series-diffusion/",
-          "author": "Waleed Esmail",
-          "description": "A diffusion head for probabilistic time series forecasting: why a forecast can get the mean and the variance right and still describe a future that never happens, and how to fix it.\nThe post Your Model's MSE Is Lying to You III: Time Series Diffusion appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/your-models-mse-is-lying-to-you-iii-time-series-diffusion/",
-          "publishedOn": "2026-10-08T12:30:00.000Z",
-          "wordCount": null,
-          "title": "Your Model's MSE Is Lying to You III: Time Series Diffusion",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/ai-engineers-applied-scientists-forward-deployed-engineers-lets-unpack/",
-          "author": "Piero Paialunga",
-          "description": "An exploration of the new data science roles emerging after the Large Language Model explosion.\nThe post AI Engineers, Applied Scientists, Forward Deployed Engineers: Let's Unpack. appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/ai-engineers-applied-scientists-forward-deployed-engineers-lets-unpack/",
-          "publishedOn": "2026-10-08T11:00:00.000Z",
-          "wordCount": null,
-          "title": "AI Engineers, Applied Scientists, Forward Deployed Engineers: Let's Unpack.",
-          "imageUrl": null
         }
       ]
     },
@@ -5746,6 +5746,36 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/2e3157387662",
+          "author": "Oliver Meredith Cox",
+          "description": "",
+          "link": "https://uxdesign.cc/after-the-ai-bubble-a-manifesto-2e3157387662?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-11-06T22:42:58.000Z",
+          "wordCount": null,
+          "title": "After the AI bubble: a manifesto",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/6d7174099500",
+          "author": "Patrick Neeman",
+          "description": "",
+          "link": "https://uxdesign.cc/berrypicking-still-beats-the-single-answer-for-search-even-in-the-world-of-ai-6d7174099500?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-11-06T04:13:24.000Z",
+          "wordCount": null,
+          "title": "Berrypicking still beats the single answer for search, even in the world of AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/09bc4f27ddce",
+          "author": "Mathieu Poli",
+          "description": "",
+          "link": "https://uxdesign.cc/native-is-a-floor-not-a-ceiling-09bc4f27ddce?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-11-06T04:12:29.000Z",
+          "wordCount": null,
+          "title": "Native is a floor, not a ceiling",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/24164d49e422",
           "author": "Russell Pinkston",
@@ -6495,36 +6525,6 @@
           "wordCount": null,
           "title": "What the AI era owes you",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/d4708a3dda9e",
-          "author": "Patrizia Bertini",
-          "description": "",
-          "link": "https://uxdesign.cc/ai-incidents-by-design-d4708a3dda9e?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-10-08T09:20:37.000Z",
-          "wordCount": null,
-          "title": "AI: incidents by design",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/823a58fb4192",
-          "author": "Gale Robins",
-          "description": "",
-          "link": "https://uxdesign.cc/bounded-delegation-how-much-authority-should-ai-have-823a58fb4192?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-10-07T19:54:06.000Z",
-          "wordCount": null,
-          "title": "Bounded delegation: How much authority should AI have?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/1c4f6e8ef2cc",
-          "author": "Melinda Jacobs",
-          "description": "Part 1 of 3 on designing systems that inspire rather than manipulate.\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/beyond-streaks-and-nudges-ethical-gamification-ai-design-1c4f6e8ef2cc?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-10-07T19:48:49.000Z",
-          "wordCount": null,
-          "title": "Beyond streaks and nudges: ethical gamification & AI design",
-          "imageUrl": null
         }
       ]
     },
@@ -6586,6 +6586,26 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/89d95e4d2630",
+          "author": "Pradeep Kumar Muthukamatchi",
+          "description": "",
+          "link": "https://generativeai.pub/your-ai-model-has-an-expiration-date-your-architecture-shouldnt-89d95e4d2630?source=rss----440100e76000---4",
+          "publishedOn": "2026-11-06T10:24:09.000Z",
+          "wordCount": null,
+          "title": "Your AI Model Has an Expiration Date. Your Architecture Shouldn’t.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/145dcc2ba0d8",
+          "author": "Jim Clyde Monge",
+          "description": "Nasdaq suffers its worst crash since April 2025.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/2-5-trillion-wiped-out-as-wall-street-panics-over-ai-slowdown-fears-145dcc2ba0d8?source=rss----440100e76000---4",
+          "publishedOn": "2026-11-06T06:20:58.000Z",
+          "wordCount": null,
+          "title": "$2.5 Trillion Wiped Out as Wall Street Panics Over AI Slowdown Fears",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/8912a03c7686",
           "author": "Koyote Wrakoon",
@@ -7714,26 +7734,6 @@
           "publishedOn": "2026-10-09T02:20:46.000Z",
           "wordCount": null,
           "title": "OpenAI shelved a smarter model because it stopped asking permission",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/bf9134a570fd",
-          "author": "Jim Clyde Monge",
-          "description": "",
-          "link": "https://generativeai.pub/how-to-build-3d-scenes-with-gpt-6-astra-on-topview-ai-bf9134a570fd?source=rss----440100e76000---4",
-          "publishedOn": "2026-10-08T13:40:15.000Z",
-          "wordCount": null,
-          "title": "How to Build 3D Scenes with GPT-6 Astra on Topview AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/271d2dc819c4",
-          "author": "Jim Clyde Monge",
-          "description": "Why is it not based on Gemini 4 Argon?\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/4-notable-upgrades-to-nano-banana-2-1-271d2dc819c4?source=rss----440100e76000---4",
-          "publishedOn": "2026-10-08T03:01:13.000Z",
-          "wordCount": null,
-          "title": "4 Notable Upgrades to Nano Banana 2.1",
           "imageUrl": null
         }
       ]

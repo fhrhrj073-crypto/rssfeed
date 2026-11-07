@@ -2,10 +2,170 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-11-06T03:46:56.857Z</updated>
+    <updated>2026-11-07T03:20:10.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[After the AI bubble: a manifesto]]></title>
+        <id>https://medium.com/p/2e3157387662</id>
+        <link href="https://uxdesign.cc/after-the-ai-bubble-a-manifesto-2e3157387662?source=rss----138adf9c44c---4"/>
+        <updated>2026-11-06T22:42:58.000Z</updated>
+        <author>
+            <name>Oliver Meredith Cox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA’s Plan to Stop AI Agents From Wasting Expensive Memory]]></title>
+        <id>https://www.theneuron.ai/news/nvidia-ai-agents-memory-waste/</id>
+        <link href="https://www.theneuron.ai/news/nvidia-ai-agents-memory-waste/"/>
+        <updated>2026-11-06T17:30:46.828Z</updated>
+        <summary type="html"><![CDATA[AI agents accumulate context as they read, reason, and use tools. NVIDIA’s memory strategy shows why making those agents affordable requires careful decisions about what to store, where it belongs, and when to reuse it.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rewarding Talent, 2026 Edition: The Founder’s Stock Option Playbook]]></title>
+        <id>https://www.thevccorner.com/p/rewarding-talent-2026-edition-the</id>
+        <link href="https://www.thevccorner.com/p/rewarding-talent-2026-edition-the"/>
+        <updated>2026-11-06T16:32:30.000Z</updated>
+        <summary type="html"><![CDATA[Pool sizes, grant grids, exercise windows and the rules in 25 countries, plus the Equity Toolkit and 23 resources]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Measure AI Adoption, Performance, and ROI With 12 KPIs]]></title>
+        <id>https://towardsdatascience.com/how-to-measure-ai-adoption-performance-and-roi-with-12-kpis/</id>
+        <link href="https://towardsdatascience.com/how-to-measure-ai-adoption-performance-and-roi-with-12-kpis/"/>
+        <updated>2026-11-06T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Includes a worked example with 50 users and $110,000 in first-year cost, plus baselines, targets, and ownership rules for every AI initiative.
+The post How to Measure AI Adoption, Performance, and ROI With 12 KPIs appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Weiwei Hu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Manage Python Environments with uv Instead of venv and pip]]></title>
+        <id>https://towardsdatascience.com/how-to-manage-python-environments-with-uv-instead-of-venv-and-pip/</id>
+        <link href="https://towardsdatascience.com/how-to-manage-python-environments-with-uv-instead-of-venv-and-pip/"/>
+        <updated>2026-11-06T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A side-by-side walkthrough of venv plus pip and uv init, uv add, uv run, and uv sync, with a lockfile that recreates the project on another machine.
+The post How to Manage Python Environments with uv Instead of venv and pip appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Sara A. Metwalli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Your First Multi-Tool AI Agent with Ollama and Python]]></title>
+        <id>https://towardsdatascience.com/build-your-first-multi-tool-ai-agent-with-ollama-and-python/</id>
+        <link href="https://towardsdatascience.com/build-your-first-multi-tool-ai-agent-with-ollama-and-python/"/>
+        <updated>2026-11-06T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[AI Agents for Beginners, Part 2: The agent picks between three database tools, uses each result to choose its next call, and stops at an eight-turn circuit-breaker if it gets stuck.
+The post Build Your First Multi-Tool AI Agent with Ollama and Python appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Thomas Reid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Give Your Python AI Agent Persistent Memory with One JSON File]]></title>
+        <id>https://towardsdatascience.com/give-your-python-ai-agent-persistent-memory-with-one-json-file/</id>
+        <link href="https://towardsdatascience.com/give-your-python-ai-agent-persistent-memory-with-one-json-file/"/>
+        <updated>2026-11-06T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Three Python classes, an OpenRouter key, and gpt-4.1-mini give the agent a calculator, a stub web search, and conversation recall that survives restarts.
+The post Give Your Python AI Agent Persistent Memory with One JSON File appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Mahnoor Javed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your AI Model Has an Expiration Date. Your Architecture Shouldn’t.]]></title>
+        <id>https://medium.com/p/89d95e4d2630</id>
+        <link href="https://generativeai.pub/your-ai-model-has-an-expiration-date-your-architecture-shouldnt-89d95e4d2630?source=rss----440100e76000---4"/>
+        <updated>2026-11-06T10:24:09.000Z</updated>
+        <author>
+            <name>Pradeep Kumar Muthukamatchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 OpenAI released GPT-6 Cyber, a hacking AI]]></title>
+        <id>https://www.theneuron.ai/newsletter/openai-released-gpt-6-cyber-a-hacking-ai/</id>
+        <link href="https://www.theneuron.ai/newsletter/openai-released-gpt-6-cyber-a-hacking-ai/"/>
+        <updated>2026-11-06T10:00:08.603Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump's New Super Intelligence Task Force Has Two Very Different Jobs]]></title>
+        <id>https://www.theneuron.ai/news/doj-super-intelligence-task-force-explained/</id>
+        <link href="https://www.theneuron.ai/news/doj-super-intelligence-task-force-explained/"/>
+        <updated>2026-11-06T07:19:27.613Z</updated>
+        <summary type="html"><![CDATA[The DOJ's new Super Intelligence Task Force will coordinate AI-related prosecutions while also challenging certain state AI laws. Here's what its responsibilities mean for AI companies.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Can Now Read Your Bank Accounts. How Private Is Your Financial Data?]]></title>
+        <id>https://www.theneuron.ai/news/claude-bank-accounts-financial-data-privacy/</id>
+        <link href="https://www.theneuron.ai/news/claude-bank-accounts-financial-data-privacy/"/>
+        <updated>2026-11-06T06:45:04.342Z</updated>
+        <summary type="html"><![CDATA[Claude can now analyze your bank transactions through Plaid. Anthropic promises read-only access and limits on AI training, but disconnecting your bank doesn't erase financial information from previous chats.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$2.5 Trillion Wiped Out as Wall Street Panics Over AI Slowdown Fears]]></title>
+        <id>https://medium.com/p/145dcc2ba0d8</id>
+        <link href="https://generativeai.pub/2-5-trillion-wiped-out-as-wall-street-panics-over-ai-slowdown-fears-145dcc2ba0d8?source=rss----440100e76000---4"/>
+        <updated>2026-11-06T06:20:58.000Z</updated>
+        <summary type="html"><![CDATA[Nasdaq suffers its worst crash since April 2025.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Jim Clyde Monge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything That Happened in AI Today (Friday, November 6, 2026)]]></title>
+        <id>https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-6-2026/</id>
+        <link href="https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-6-2026/"/>
+        <updated>2026-11-06T05:33:56.961Z</updated>
+        <summary type="html"><![CDATA[Independent researchers say Anthropic's AI development is accelerating at roughly twice its previous pace, but key evidence remains redacted. Meanwhile, OpenAI released GPT-6 Cyber, Google faced growing resistance to data centers, and Claude gained access to personal financial accounts.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI's GPT-6 Cyber Can Hack Better. Can It Stay Within the Rules?]]></title>
+        <id>https://www.theneuron.ai/news/openais-gpt-6-cyber-can-hack-better-can-it-stay-within-the-rules/</id>
+        <link href="https://www.theneuron.ai/news/openais-gpt-6-cyber-can-hack-better-can-it-stay-within-the-rules/"/>
+        <updated>2026-11-06T04:57:47.079Z</updated>
+        <summary type="html"><![CDATA[OpenAI's GPT-6 Cyber can develop working exploits and shows major improvements in following authorized testing boundaries. But its safety results vary across benchmarks, raising questions about how model training, access restrictions, and external controls will work together in real deployments.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berrypicking still beats the single answer for search, even in the world of AI]]></title>
+        <id>https://medium.com/p/6d7174099500</id>
+        <link href="https://uxdesign.cc/berrypicking-still-beats-the-single-answer-for-search-even-in-the-world-of-ai-6d7174099500?source=rss----138adf9c44c---4"/>
+        <updated>2026-11-06T04:13:24.000Z</updated>
+        <author>
+            <name>Patrick Neeman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Native is a floor, not a ceiling]]></title>
+        <id>https://medium.com/p/09bc4f27ddce</id>
+        <link href="https://uxdesign.cc/native-is-a-floor-not-a-ceiling-09bc4f27ddce?source=rss----138adf9c44c---4"/>
+        <updated>2026-11-06T04:12:29.000Z</updated>
+        <author>
+            <name>Mathieu Poli</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coding Didn’t Become Everyone’s Job. Reviewing Did.]]></title>
         <id>https://medium.com/p/8912a03c7686</id>
@@ -6824,26 +6984,6 @@ The post Everyone Is Selling AI at You — Here’s How to Keep Your Judgement a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Agents Beat PyTorch: Writing Faster CUDA Kernels]]></title>
-        <id>https://towardsdatascience.com/?p=664280</id>
-        <link href="https://towardsdatascience.com/ai-agents-beat-pytorch-writing-faster-cuda-kernels/"/>
-        <updated>2026-10-08T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AI agents can now write CUDA kernels that outperform PyTorch—but proving those speedups are real is the harder problem. I put them to the test on an NVIDIA DGX Spark and found that benchmark design matters just as much as the code.
-The post AI Agents Beat PyTorch: Writing Faster CUDA Kernels appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Chien Vu Minh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build 3D Scenes with GPT-6 Astra on Topview AI]]></title>
-        <id>https://medium.com/p/bf9134a570fd</id>
-        <link href="https://generativeai.pub/how-to-build-3d-scenes-with-gpt-6-astra-on-topview-ai-bf9134a570fd?source=rss----440100e76000---4"/>
-        <updated>2026-10-08T13:40:15.000Z</updated>
-        <author>
-            <name>Jim Clyde Monge</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[You do not need an AI startup]]></title>
         <id>https://www.youtube.com/shorts/pclw-q_jCUc</id>
         <link href="https://www.youtube.com/shorts/pclw-q_jCUc"/>
@@ -6851,37 +6991,6 @@ The post AI Agents Beat PyTorch: Writing Faster CUDA Kernels appeared first on T
         <summary type="html"><![CDATA[You do not need a billion-dollar AI startup to make money with AI.You need to identify a painful business task, AI agents, and the ability to show the value....]]></summary>
         <author>
             <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Model's MSE Is Lying to You III: Time Series Diffusion]]></title>
-        <id>https://towardsdatascience.com/your-models-mse-is-lying-to-you-iii-time-series-diffusion/</id>
-        <link href="https://towardsdatascience.com/your-models-mse-is-lying-to-you-iii-time-series-diffusion/"/>
-        <updated>2026-10-08T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A diffusion head for probabilistic time series forecasting: why a forecast can get the mean and the variance right and still describe a future that never happens, and how to fix it.
-The post Your Model's MSE Is Lying to You III: Time Series Diffusion appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Waleed Esmail</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Meta, DeepMind and the U.S. Government Are Backing Virtual Cells]]></title>
-        <id>https://www.theneuron.ai/news/biohub-meta-deepmind-us-government-virtual-cells/</id>
-        <link href="https://www.theneuron.ai/news/biohub-meta-deepmind-us-government-virtual-cells/"/>
-        <updated>2026-10-08T12:20:48.346Z</updated>
-        <summary type="html"><![CDATA[Meta, Google DeepMind and U.S. agencies are backing Biohub’s effort to build the experimental data AI needs to predict cellular behavior. The promise is faster discovery; the test is whether those predictions hold up in the lab.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Haiku 5.5 Could Be Claude’s Most Practical Launch Yet]]></title>
-        <id>https://www.theneuron.ai/news/haiku-5-5-claude-most-practical-launch/</id>
-        <link href="https://www.theneuron.ai/news/haiku-5-5-claude-most-practical-launch/"/>
-        <updated>2026-10-08T12:07:23.804Z</updated>
-        <summary type="html"><![CDATA[Claude’s smaller model has a timely opening: agents need affordable intelligence they can call repeatedly. Haiku 5.5 delivers lower rates, but reasoning effort, growing context, and completion quality determine the real savings.]]></summary>
-        <author>
-            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -6914,45 +7023,6 @@ The post Your Model's MSE Is Lying to You III: Time Series Diffusion appeared fi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Engineers, Applied Scientists, Forward Deployed Engineers: Let's Unpack.]]></title>
-        <id>https://towardsdatascience.com/ai-engineers-applied-scientists-forward-deployed-engineers-lets-unpack/</id>
-        <link href="https://towardsdatascience.com/ai-engineers-applied-scientists-forward-deployed-engineers-lets-unpack/"/>
-        <updated>2026-10-08T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[An exploration of the new data science roles emerging after the Large Language Model explosion.
-The post AI Engineers, Applied Scientists, Forward Deployed Engineers: Let's Unpack. appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Piero Paialunga</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Wants SynthID to Become the Web’s AI Watermark Checker]]></title>
-        <id>https://www.theneuron.ai/news/google-synthid-ai-watermark-checker/</id>
-        <link href="https://www.theneuron.ai/news/google-synthid-ai-watermark-checker/"/>
-        <updated>2026-10-08T10:24:38.907Z</updated>
-        <summary type="html"><![CDATA[Google’s SynthID Detector can now check AI watermarks from OpenAI, NVIDIA, Kakao, and Google itself. The expansion could make AI content verification easier, but an undetected watermark does not prove authenticity. As regulators push for machine-readable AI labels, questions about reliability, independent auditing, and Google's role in verification are becoming harder to ignore.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😺 ChatGPT's GPT-6 now builds calculators]]></title>
-        <id>https://www.theneuron.ai/newsletter/october-08-thursday/</id>
-        <link href="https://www.theneuron.ai/newsletter/october-08-thursday/"/>
-        <updated>2026-10-08T09:40:42.114Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI: incidents by design]]></title>
-        <id>https://medium.com/p/d4708a3dda9e</id>
-        <link href="https://uxdesign.cc/ai-incidents-by-design-d4708a3dda9e?source=rss----138adf9c44c---4"/>
-        <updated>2026-10-08T09:20:37.000Z</updated>
-        <author>
-            <name>Patrizia Bertini</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[清邁親子旅居 60 天｜忙著給孩子更好的生活，也想和孩子一起好好生活【動物相遇篇】]]></title>
         <id>https://www.youtube.com/watch?v=hJ2sE3CMu3U</id>
         <link href="https://www.youtube.com/watch?v=hJ2sE3CMu3U"/>
@@ -6978,47 +7048,6 @@ The post AI Engineers, Applied Scientists, Forward Deployed Engineers: Let's Unp
         <updated>2026-10-08T05:49:25.000Z</updated>
         <author>
             <name>電腦王阿達</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI’s GPT-6 Turns ChatGPT Answers Into Interactive Tools]]></title>
-        <id>https://www.theneuron.ai/blog/openai-gpt-6-chatgpt-interactive-tools/</id>
-        <link href="https://www.theneuron.ai/blog/openai-gpt-6-chatgpt-interactive-tools/"/>
-        <updated>2026-10-08T04:47:36.522Z</updated>
-        <summary type="html"><![CDATA[GPT-6’s Intelligent UI lets ChatGPT assemble interactive tools as it responds. The rollout could change how people use AI and whether they open a separate app to complete a task.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT for Teens Is Expanding. Are Its Safeguards Ready?]]></title>
-        <id>https://www.theneuron.ai/news/chatgpt-for-teens-expansion-safety-safeguards/</id>
-        <link href="https://www.theneuron.ai/news/chatgpt-for-teens-expansion-safety-safeguards/"/>
-        <updated>2026-10-08T03:04:22.266Z</updated>
-        <summary type="html"><![CDATA[OpenAI’s plans for College Planner would give ChatGPT a larger role in teenagers’ education. Common Sense Media’s testing raises questions about whether age detection and safety protections are ready for that expansion.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 Notable Upgrades to Nano Banana 2.1]]></title>
-        <id>https://medium.com/p/271d2dc819c4</id>
-        <link href="https://generativeai.pub/4-notable-upgrades-to-nano-banana-2-1-271d2dc819c4?source=rss----440100e76000---4"/>
-        <updated>2026-10-08T03:01:13.000Z</updated>
-        <summary type="html"><![CDATA[Why is it not based on Gemini 4 Argon?
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Jim Clyde Monge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paramount Stock CRUSHED After Merger with Warner Discovery Closes]]></title>
-        <id>https://www.thebignewsletter.com/p/raises-for-me-layoffs-for-thee-the</id>
-        <link href="https://www.thebignewsletter.com/p/raises-for-me-layoffs-for-thee-the"/>
-        <updated>2026-10-08T01:29:44.000Z</updated>
-        <summary type="html"><![CDATA[It’s not a happy ending, as billionaire David Ellison gives himself and his team huge raises, while planning big layoffs. But the really bad sign is he just fired the hitmakers from Warner Brothers.]]></summary>
-        <author>
-            <name>Matt Stoller</name>
         </author>
     </entry>
     <entry>
@@ -7056,36 +7085,6 @@ Continue reading on Generative AI »]]></summary>
         <summary type="html"><![CDATA[Join My Newsletter for Regular AI Updates 👇🏼https://forwardfuture.comMy Links 🔗👉🏻 X: https://x.com/matthewberman👉🏻 Forward Future X: https://x.com/for...]]></summary>
         <author>
             <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bounded delegation: How much authority should AI have?]]></title>
-        <id>https://medium.com/p/823a58fb4192</id>
-        <link href="https://uxdesign.cc/bounded-delegation-how-much-authority-should-ai-have-823a58fb4192?source=rss----138adf9c44c---4"/>
-        <updated>2026-10-07T19:54:06.000Z</updated>
-        <author>
-            <name>Gale Robins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond streaks and nudges: ethical gamification & AI design]]></title>
-        <id>https://medium.com/p/1c4f6e8ef2cc</id>
-        <link href="https://uxdesign.cc/beyond-streaks-and-nudges-ethical-gamification-ai-design-1c4f6e8ef2cc?source=rss----138adf9c44c---4"/>
-        <updated>2026-10-07T19:48:49.000Z</updated>
-        <summary type="html"><![CDATA[Part 1 of 3 on designing systems that inspire rather than manipulate.
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Melinda Jacobs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Wants Your PC to Work While You Sleep, Surface Laptop Ultra Pre-Orders Open]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/microsoft-windows-hybrid-ai-agents-rtx-spark/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/microsoft-windows-hybrid-ai-agents-rtx-spark/"/>
-        <updated>2026-10-07T18:40:09.430Z</updated>
-        <summary type="html"><![CDATA[Microsoft wants Windows PCs to carry out more AI work locally while using cloud models where they add value. New agent containers, intelligent routing, and RTX Spark hardware connect that vision, and our interviews explain the engineering and tradeoffs behind it.]]></summary>
-        <author>
-            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
