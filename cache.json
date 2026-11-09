@@ -2602,6 +2602,22 @@
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
         {
+          "id": "https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier",
+          "author": "Lenny Rachitsky",
+          "description": "Listen now (59 mins) | Tulsee Doshi on building Google’s frontier models, why evals and vibes both matter, and her 60-20-20 framework for shipping ahead of the curve",
+          "link": "https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier",
+          "publishedOn": "2026-11-08T13:31:32.000Z",
+          "wordCount": null,
+          "title": "Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/219474705/5fcf90cae186120b6d62e9a3f792b5f7.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://www.lennysnewsletter.com/p/lennys-newsletter-holiday-gift-guide-057",
           "author": "Lenny Rachitsky",
           "description": "100+ gift ideas—all things I actually use, love, and recommend",
@@ -2920,22 +2936,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/community-wisdom-community-wisdom",
-          "author": "Kiyani",
-          "description": "Community Wisdom 301",
-          "link": "https://www.lennysnewsletter.com/p/community-wisdom-community-wisdom",
-          "publishedOn": "2026-10-10T13:01:38.000Z",
-          "wordCount": null,
-          "title": "🧠 Community Wisdom: Community Wisdom Top Contributors Summer Class 2026 + ML recommendation systems, getting back into product after being fired, deciding when to quit a side project, and more",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!KxHU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1ca8352-9571-4b81-b041-52374176f4fc_2912x1456.png"
         }
       ]
     },
@@ -3127,6 +3127,22 @@
       "feedUrl": "https://www.thevccorner.com/feed",
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
+        {
+          "id": "https://www.thevccorner.com/p/anthropic-commitments-enterprise-ai-177b-sequoia-london",
+          "author": "Ruben Dominguez",
+          "description": "Another week, another pulse check on Tech.",
+          "link": "https://www.thevccorner.com/p/anthropic-commitments-enterprise-ai-177b-sequoia-london",
+          "publishedOn": "2026-11-08T14:55:36.000Z",
+          "wordCount": null,
+          "title": "Anthropic’s $437.4B Commitments📊, Enterprise AI Spend Hits $177B💰, Sequoia Closes London Office🌲",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!dXma!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa50771be-cbeb-470e-8ccd-fac079e3fb9c_1456x720.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!dXma!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa50771be-cbeb-470e-8ccd-fac079e3fb9c_1456x720.png"
+        },
         {
           "id": "https://www.thevccorner.com/p/the-us-investor-list-2026-894-funds",
           "author": "Ruben Dominguez",
@@ -3622,22 +3638,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/999cc1a1-4229-44b7-b0a0-dcdec03116d2_1200x628.webp"
-        },
-        {
-          "id": "https://www.thevccorner.com/p/venture-capital-mistakes-great-investors-repeat",
-          "author": "Ruben Dominguez",
-          "description": "Some of the sharpest investors alive passed on the exact companies that made their rivals legendary, and the same reasoning keeps coming back.",
-          "link": "https://www.thevccorner.com/p/venture-capital-mistakes-great-investors-repeat",
-          "publishedOn": "2026-10-09T16:44:09.000Z",
-          "wordCount": null,
-          "title": "These Famous VC Mistakes Still Teach the Best Investing Lessons",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!zdZ2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2aad6ea7-c612-4e71-9f31-48c245381868_1674x939.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!zdZ2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2aad6ea7-c612-4e71-9f31-48c245381868_1674x939.png"
         }
       ]
     },
@@ -3646,6 +3646,16 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/newsletter/voters-reject-data-centers-openai-offers-concessions/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/voters-reject-data-centers-openai-offers-concessions/",
+          "publishedOn": "2026-11-08T18:30:16.620Z",
+          "wordCount": null,
+          "title": "😸 Voters reject data centers. OpenAI offers concessions.",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/news/nvidia-ai-agents-memory-waste/",
           "author": null,
@@ -4664,6 +4674,26 @@
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
         {
+          "id": "https://towardsdatascience.com/?p=678368",
+          "author": "Shuai Guo",
+          "description": "Build an EV purchase adviser and a support agent in Python, then see how fan-out, pipelines, hierarchies, and swarms reuse the same building blocks.\nThe post How to Build Multi-Agent Systems with the OpenAI Agents SDK appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-build-multi-agent-systems-with-the-openai-agents-sdk/",
+          "publishedOn": "2026-11-08T15:00:00.000Z",
+          "wordCount": null,
+          "title": "How to Build Multi-Agent Systems with the OpenAI Agents SDK",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/change-one-monty-hall-rule-and-five-llms-still-say-switch/",
+          "author": "Utkarsh Mangal",
+          "description": "Even with step-by-step reasoning, the models landed near 33% accuracy, and one quoted the host's rule correctly before ignoring it.\nThe post Change One Monty Hall Rule and Five LLMs Still Say Switch appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/change-one-monty-hall-rule-and-five-llms-still-say-switch/",
+          "publishedOn": "2026-11-08T13:00:00.000Z",
+          "wordCount": null,
+          "title": "Change One Monty Hall Rule and Five LLMs Still Say Switch",
+          "imageUrl": null
+        },
+        {
           "id": "https://towardsdatascience.com/timestral-t0-tabby-and-morpheus-20-compared-on-gift-eval/",
           "author": "Sean Moran",
           "description": "All four time-series foundation models scale, patch, and predict quantiles; the real split is how series share information.\nThe post Timestral, t0, Tabby, and Morpheus-2.0 Compared on GIFT-Eval appeared first on Towards Data Science.",
@@ -5622,36 +5652,6 @@
           "wordCount": null,
           "title": "Agentic Systems: A Practitioner's Guide to 6 Advanced Architectural Patterns",
           "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/how-can-ai-agents-read-untrusted-sources-safely/",
-          "author": "Thuwarakesh Murallie",
-          "description": "Add architectural guardrails around how agents read untrusted sources and use them in the workflow.\nThe post How Can AI Agents Read Untrusted Sources Safely? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-can-ai-agents-read-untrusted-sources-safely/",
-          "publishedOn": "2026-10-10T14:00:00.000Z",
-          "wordCount": null,
-          "title": "How Can AI Agents Read Untrusted Sources Safely?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/why-temperature-0-isnt-deterministic/",
-          "author": "Utkarsh Mangal",
-          "description": "A one-line formula for how often an LLM's top token flips, and why identical\ncompletions fall apart after about a hundred tokens\nThe post Why Temperature 0 Isn't Deterministic appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/why-temperature-0-isnt-deterministic/",
-          "publishedOn": "2026-10-10T12:00:00.000Z",
-          "wordCount": null,
-          "title": "Why Temperature 0 Isn't Deterministic",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/can-typesafes-jev-make-ai-agents-safer-without-another-llm/",
-          "author": "Benjamin Nweke",
-          "description": "How a decision-first model can catch risky tool calls before they turn into real-world actions\nThe post Can TypeSafe's Jev Make AI Agents Safer Without Another LLM? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/can-typesafes-jev-make-ai-agents-safer-without-another-llm/",
-          "publishedOn": "2026-10-09T15:30:00.000Z",
-          "wordCount": null,
-          "title": "Can TypeSafe's Jev Make AI Agents Safer Without Another LLM?",
-          "imageUrl": null
         }
       ]
     },
@@ -6395,16 +6395,6 @@
           "wordCount": null,
           "title": "AI-generated UI, What the AI era owes you, Amazing Glass, Jev for UX",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/ecd8cb19999a",
-          "author": "Hiroshi Sato / 佐藤 仁",
-          "description": "On empty seats, metaphors, and the useful parts that don’t quite fit\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/designing-for-an-idea-before-it-exists-ecd8cb19999a?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-10-09T20:32:02.000Z",
-          "wordCount": null,
-          "title": "Designing for an idea before it exists",
-          "imageUrl": null
         }
       ]
     },
@@ -6456,6 +6446,26 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/4d3c998b6292",
+          "author": "Vishal Shrestha",
+          "description": "Claude Code gave the model your account email, and the model sometimes pasted it into web requests as a “contact” address. Anthropic’s…\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/claude-code-sent-your-email-address-to-websites-heres-how-to-check-if-you-re-exposed-4d3c998b6292?source=rss----440100e76000---4",
+          "publishedOn": "2026-11-08T05:12:59.000Z",
+          "wordCount": null,
+          "title": "Claude Code Sent Your Email Address to Websites. Here’s How to Check If You’re Exposed.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/613df833cdc5",
+          "author": "Nishkarsh Gupta",
+          "description": "Veracode’s 56%, Georgia Tech’s CVE count, and the figures that do not add up.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/is-ai-written-code-secure-which-numbers-to-trust-613df833cdc5?source=rss----440100e76000---4",
+          "publishedOn": "2026-11-08T05:08:43.000Z",
+          "wordCount": null,
+          "title": "Is AI-Written Code Secure? Which Numbers to Trust",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/45bb3ffe6ba4",
           "author": "Yogesh Yadav",

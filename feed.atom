@@ -2,10 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-11-08T02:49:30.361Z</updated>
+    <updated>2026-11-09T03:07:40.152Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[😸 Voters reject data centers. OpenAI offers concessions.]]></title>
+        <id>https://www.theneuron.ai/newsletter/voters-reject-data-centers-openai-offers-concessions/</id>
+        <link href="https://www.theneuron.ai/newsletter/voters-reject-data-centers-openai-offers-concessions/"/>
+        <updated>2026-11-08T18:30:16.620Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Multi-Agent Systems with the OpenAI Agents SDK]]></title>
+        <id>https://towardsdatascience.com/?p=678368</id>
+        <link href="https://towardsdatascience.com/how-to-build-multi-agent-systems-with-the-openai-agents-sdk/"/>
+        <updated>2026-11-08T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Build an EV purchase adviser and a support agent in Python, then see how fan-out, pipelines, hierarchies, and swarms reuse the same building blocks.
+The post How to Build Multi-Agent Systems with the OpenAI Agents SDK appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Shuai Guo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic’s $437.4B Commitments📊, Enterprise AI Spend Hits $177B💰, Sequoia Closes London Office🌲]]></title>
+        <id>https://www.thevccorner.com/p/anthropic-commitments-enterprise-ai-177b-sequoia-london</id>
+        <link href="https://www.thevccorner.com/p/anthropic-commitments-enterprise-ai-177b-sequoia-london"/>
+        <updated>2026-11-08T14:55:36.000Z</updated>
+        <summary type="html"><![CDATA[Another week, another pulse check on Tech.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)]]></title>
+        <id>https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier</id>
+        <link href="https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier"/>
+        <updated>2026-11-08T13:31:32.000Z</updated>
+        <summary type="html"><![CDATA[Listen now (59 mins) | Tulsee Doshi on building Google’s frontier models, why evals and vibes both matter, and her 60-20-20 framework for shipping ahead of the curve]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Change One Monty Hall Rule and Five LLMs Still Say Switch]]></title>
+        <id>https://towardsdatascience.com/change-one-monty-hall-rule-and-five-llms-still-say-switch/</id>
+        <link href="https://towardsdatascience.com/change-one-monty-hall-rule-and-five-llms-still-say-switch/"/>
+        <updated>2026-11-08T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Even with step-by-step reasoning, the models landed near 33% accuracy, and one quoted the host's rule correctly before ignoring it.
+The post Change One Monty Hall Rule and Five LLMs Still Say Switch appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Utkarsh Mangal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code Sent Your Email Address to Websites. Here’s How to Check If You’re Exposed.]]></title>
+        <id>https://medium.com/p/4d3c998b6292</id>
+        <link href="https://generativeai.pub/claude-code-sent-your-email-address-to-websites-heres-how-to-check-if-you-re-exposed-4d3c998b6292?source=rss----440100e76000---4"/>
+        <updated>2026-11-08T05:12:59.000Z</updated>
+        <summary type="html"><![CDATA[Claude Code gave the model your account email, and the model sometimes pasted it into web requests as a “contact” address. Anthropic’s…
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Vishal Shrestha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is AI-Written Code Secure? Which Numbers to Trust]]></title>
+        <id>https://medium.com/p/613df833cdc5</id>
+        <link href="https://generativeai.pub/is-ai-written-code-secure-which-numbers-to-trust-613df833cdc5?source=rss----440100e76000---4"/>
+        <updated>2026-11-08T05:08:43.000Z</updated>
+        <summary type="html"><![CDATA[Veracode’s 56%, Georgia Tech’s CVE count, and the figures that do not add up.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Nishkarsh Gupta</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Otherwise you’re just a machine]]></title>
         <id>https://medium.com/p/a9d3b21179b5</id>
@@ -6583,17 +6656,6 @@ The post Agentic Systems: A Practitioner's Guide to 6 Advanced Architectural Pat
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Can AI Agents Read Untrusted Sources Safely?]]></title>
-        <id>https://towardsdatascience.com/how-can-ai-agents-read-untrusted-sources-safely/</id>
-        <link href="https://towardsdatascience.com/how-can-ai-agents-read-untrusted-sources-safely/"/>
-        <updated>2026-10-10T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Add architectural guardrails around how agents read untrusted sources and use them in the workflow.
-The post How Can AI Agents Read Untrusted Sources Safely? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Thuwarakesh Murallie</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[說好的省時間呢？交給 AI 前，先講清楚這 4 件事]]></title>
         <id>https://www.youtube.com/shorts/NDDbRC7b4cQ</id>
         <link href="https://www.youtube.com/shorts/NDDbRC7b4cQ"/>
@@ -6610,28 +6672,6 @@ The post How Can AI Agents Read Untrusted Sources Safely? appeared first on Towa
         <updated>2026-10-10T13:30:14.000Z</updated>
         <author>
             <name>Alex Finn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧠 Community Wisdom: Community Wisdom Top Contributors Summer Class 2026 + ML recommendation systems, getting back into product after being fired, deciding when to quit a side project, and more]]></title>
-        <id>https://www.lennysnewsletter.com/p/community-wisdom-community-wisdom</id>
-        <link href="https://www.lennysnewsletter.com/p/community-wisdom-community-wisdom"/>
-        <updated>2026-10-10T13:01:38.000Z</updated>
-        <summary type="html"><![CDATA[Community Wisdom 301]]></summary>
-        <author>
-            <name>Kiyani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Temperature 0 Isn't Deterministic]]></title>
-        <id>https://towardsdatascience.com/why-temperature-0-isnt-deterministic/</id>
-        <link href="https://towardsdatascience.com/why-temperature-0-isnt-deterministic/"/>
-        <updated>2026-10-10T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A one-line formula for how often an LLM's top token flips, and why identical
-completions fall apart after about a hundred tokens
-The post Why Temperature 0 Isn't Deterministic appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Utkarsh Mangal</name>
         </author>
     </entry>
     <entry>
@@ -6673,27 +6713,6 @@ The post Why Temperature 0 Isn't Deterministic appeared first on Towards Data Sc
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Designing for an idea before it exists]]></title>
-        <id>https://medium.com/p/ecd8cb19999a</id>
-        <link href="https://uxdesign.cc/designing-for-an-idea-before-it-exists-ecd8cb19999a?source=rss----138adf9c44c---4"/>
-        <updated>2026-10-09T20:32:02.000Z</updated>
-        <summary type="html"><![CDATA[On empty seats, metaphors, and the useful parts that don’t quite fit
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Hiroshi Sato / 佐藤 仁</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[These Famous VC Mistakes Still Teach the Best Investing Lessons]]></title>
-        <id>https://www.thevccorner.com/p/venture-capital-mistakes-great-investors-repeat</id>
-        <link href="https://www.thevccorner.com/p/venture-capital-mistakes-great-investors-repeat"/>
-        <updated>2026-10-09T16:44:09.000Z</updated>
-        <summary type="html"><![CDATA[Some of the sharpest investors alive passed on the exact companies that made their rivals legendary, and the same reasoning keeps coming back.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[可以準備退定 PS 了！開源團隊釋出用 AI 重做的 Adobe 七件套還開源免費下載]]></title>
         <id>https://www.youtube.com/shorts/ld7r_tVDaFQ</id>
         <link href="https://www.youtube.com/shorts/ld7r_tVDaFQ"/>
@@ -6710,17 +6729,6 @@ Continue reading on UX Collective »]]></summary>
         <updated>2026-10-09T15:58:42.000Z</updated>
         <author>
             <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can TypeSafe's Jev Make AI Agents Safer Without Another LLM?]]></title>
-        <id>https://towardsdatascience.com/can-typesafes-jev-make-ai-agents-safer-without-another-llm/</id>
-        <link href="https://towardsdatascience.com/can-typesafes-jev-make-ai-agents-safer-without-another-llm/"/>
-        <updated>2026-10-09T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[How a decision-first model can catch risky tool calls before they turn into real-world actions
-The post Can TypeSafe's Jev Make AI Agents Safer Without Another LLM? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Benjamin Nweke</name>
         </author>
     </entry>
     <entry>
