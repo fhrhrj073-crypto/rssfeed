@@ -2,10 +2,202 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-11-10T04:51:03.423Z</updated>
+    <updated>2026-11-11T03:15:28.169Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI made Box features obsolete before launch]]></title>
+        <id>https://www.youtube.com/shorts/L2acYRMzig8</id>
+        <link href="https://www.youtube.com/shorts/L2acYRMzig8"/>
+        <updated>2026-11-10T23:57:13.000Z</updated>
+        <summary type="html"><![CDATA[Join My Newsletter for Regular AI Updates 👇🏼https://forwardfuture.comMy Links 🔗👉🏻 X: https://x.com/matthewberman👉🏻 Forward Future X: https://x.com/for...]]></summary>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Prototyping inside your design system. A hands-on guide for design & product teams.]]></title>
+        <id>https://medium.com/p/44825904c08d</id>
+        <link href="https://uxdesign.cc/ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design-product-teams-44825904c08d?source=rss----138adf9c44c---4"/>
+        <updated>2026-11-10T23:34:58.000Z</updated>
+        <author>
+            <name>Christine Vallaure</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who’s Investing in Anthropic’s IPO? Inside the $26 Billion Tech Bet]]></title>
+        <id>https://www.theneuron.ai/news/whos-investing-in-anthropics-ipo-inside-the-26-billion-tech-bet/</id>
+        <link href="https://www.theneuron.ai/news/whos-investing-in-anthropics-ipo-inside-the-26-billion-tech-bet/"/>
+        <updated>2026-11-10T21:27:05.572Z</updated>
+        <summary type="html"><![CDATA[Seven tech giants have agreed to invest $26 billion alongside Anthropic’s IPO. Their interests extend from Claude’s share price to the chips, cloud services, and memory powering its growth.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scikit-Learn Matched or Beat Jev's Calibration on BANKING77]]></title>
+        <id>https://towardsdatascience.com/scikit-learn-matched-or-beat-jevs-calibration-on-banking77/</id>
+        <link href="https://towardsdatascience.com/scikit-learn-matched-or-beat-jevs-calibration-on-banking77/"/>
+        <updated>2026-11-10T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Jev needs no training and at most three examples per intent; the open rebuild needs labels. Both still fall into the none-of-the-above trap.
+The post Scikit-Learn Matched or Beat Jev's Calibration on BANKING77 appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ankur Tomar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA’s GR00T 2 Learns From Human Video. Can That Make Robots Scale?]]></title>
+        <id>https://www.theneuron.ai/robotics-insider/nvidia-gr00t-2-human-video-robot-learning/</id>
+        <link href="https://www.theneuron.ai/robotics-insider/nvidia-gr00t-2-human-video-robot-learning/"/>
+        <updated>2026-11-10T15:54:43.866Z</updated>
+        <summary type="html"><![CDATA[NVIDIA’s GR00T 2 bets that human video can make robot training scale. Its reported adaptation results are promising, but testing gaps and pending model releases leave important questions unanswered.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Australia’s AI Safety Plan Puts Reporting, Evaluations and Penalties on the Table]]></title>
+        <id>https://www.theneuron.ai/news/australia-ai-safety-laws-medicare-agent-breach/</id>
+        <link href="https://www.theneuron.ai/news/australia-ai-safety-laws-medicare-agent-breach/"/>
+        <updated>2026-11-10T15:39:43.444Z</updated>
+        <summary type="html"><![CDATA[Australia’s response to the Medicare agent breach includes a proposed safety regulator, mandatory incident reporting and possible criminal-law reform. The legislation is still ahead, but the accountability questions are already here.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[State of the tech job market: late 2026]]></title>
+        <id>https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late</id>
+        <link href="https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late"/>
+        <updated>2026-11-10T15:04:03.000Z</updated>
+        <summary type="html"><![CDATA[PMs are winning, engineers are plateauing, designers are hurting, and the biggest AI hiring boom isn’t in software]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Session-Start Hook Raised Claude Code Skill Firing From 15% to 62%]]></title>
+        <id>https://towardsdatascience.com/a-session-start-hook-raised-claude-code-skill-firing-from-15-to-62/</id>
+        <link href="https://towardsdatascience.com/a-session-start-hook-raised-claude-code-skill-firing-from-15-to-62/"/>
+        <updated>2026-11-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A software tester ran six testing skills on Haiku, Sonnet, and Opus; pushy descriptions added only 5 points, and near-miss requests never fired a skill.
+The post A Session-Start Hook Raised Claude Code Skill Firing From 15% to 62% appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Serhii Romanov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Startup Data Room Template for 2026, Built in Notion]]></title>
+        <id>https://www.thevccorner.com/p/startup-data-room-template-notion-2026</id>
+        <link href="https://www.thevccorner.com/p/startup-data-room-template-notion-2026"/>
+        <updated>2026-11-10T14:43:46.000Z</updated>
+        <summary type="html"><![CDATA[71 documents, three access tiers and a Notion workspace to run diligence from seed to Series A.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Cool Things People Are Building with Claude Fable 5.2]]></title>
+        <id>https://medium.com/p/d348e3affdbe</id>
+        <link href="https://generativeai.pub/5-cool-things-people-are-building-with-claude-fable-5-2-d348e3affdbe?source=rss----440100e76000---4"/>
+        <updated>2026-11-10T14:34:39.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic just released Claude Fable 5.2. Here’s what’s new and what people are already building with it.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Jim Clyde Monge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Scientists Can—and Still Can’t—Learn From AI’s Inner Workings]]></title>
+        <id>https://www.theneuron.ai/explainer-articles/mechanistic-interpretability-ai-safety/</id>
+        <link href="https://www.theneuron.ai/explainer-articles/mechanistic-interpretability-ai-safety/"/>
+        <updated>2026-11-10T13:34:06.286Z</updated>
+        <summary type="html"><![CDATA[Researchers are getting better at inspecting the machinery behind AI’s answers. A new survey examines the harder question: when does that understanding actually help prevent failures?]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Validate LLM Output in a DuckDB and dbt Pipeline]]></title>
+        <id>https://towardsdatascience.com/how-to-validate-llm-output-in-a-duckdb-and-dbt-pipeline/</id>
+        <link href="https://towardsdatascience.com/how-to-validate-llm-output-in-a-duckdb-and-dbt-pipeline/"/>
+        <updated>2026-11-10T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A Gemini Flash-Lite step pulls skills, seniority, and Nigeria eligibility from 18 RemoteOK postings, with Python checks and dbt tests guarding every answer.
+The post How to Validate LLM Output in a DuckDB and dbt Pipeline appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ibrahim Salami</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What being the new kid taught me about persuasion as a designer]]></title>
+        <id>https://medium.com/p/c731818f91d9</id>
+        <link href="https://uxdesign.cc/what-being-the-new-kid-taught-me-about-persuasion-as-a-designer-c731818f91d9?source=rss----138adf9c44c---4"/>
+        <updated>2026-11-10T12:09:18.000Z</updated>
+        <summary type="html"><![CDATA[People don’t say yes to ideas. They say yes to who they get to be.
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Kai Wong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Every new medium gets called cheating]]></title>
+        <id>https://medium.com/p/b990d7d53c0e</id>
+        <link href="https://uxdesign.cc/every-new-medium-gets-called-cheating-b990d7d53c0e?source=rss----138adf9c44c---4"/>
+        <updated>2026-11-10T12:09:06.000Z</updated>
+        <author>
+            <name>Nicole Alexandra Michaelis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Caught 8 of 8 Diff Bugs With Rules, 0 of 2 Outside the Diff]]></title>
+        <id>https://towardsdatascience.com/copilot-caught-8-of-8-diff-bugs-with-rules-0-of-2-outside-the-diff/</id>
+        <link href="https://towardsdatascience.com/copilot-caught-8-of-8-diff-bugs-with-rules-0-of-2-outside-the-diff/"/>
+        <updated>2026-11-10T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A guard on negative enrollment days looked correct while the function it called overbilled a customer 11 days, and an invariant test would have caught it.
+The post Copilot Caught 8 of 8 Diff Bugs With Rules, 0 of 2 Outside the Diff appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Naga Chand Putta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 Anthropic released Claude Fable 5.2]]></title>
+        <id>https://www.theneuron.ai/newsletter/anthropic-released-claude-fable-5-2/</id>
+        <link href="https://www.theneuron.ai/newsletter/anthropic-released-claude-fable-5-2/"/>
+        <updated>2026-11-10T09:30:17.510Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choosing the Best AI Model to Generate Motion Graphics Videos (Prompts & Workflow)]]></title>
+        <id>https://medium.com/p/aa8403d56a00</id>
+        <link href="https://generativeai.pub/choosing-the-best-ai-model-to-generate-motion-graphics-videos-prompts-workflow-aa8403d56a00?source=rss----440100e76000---4"/>
+        <updated>2026-11-10T06:59:12.000Z</updated>
+        <author>
+            <name>Jim Clyde Monge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Built Control Room to Stop AI Experiments That Go Wrong]]></title>
+        <id>https://www.theneuron.ai/news/openai-control-room-stop-ai-experiments/</id>
+        <link href="https://www.theneuron.ai/news/openai-control-room-stop-ai-experiments/"/>
+        <updated>2026-11-10T06:24:32.443Z</updated>
+        <summary type="html"><![CDATA[OpenAI's Control Room can stop internal AI research output within 35 seconds of a stop instruction. Here's why OpenAI built it after research agents bypassed security restrictions.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fireworks AI Was Hacked. Here's How Criminals Make Money From Stolen AI Access]]></title>
+        <id>https://www.theneuron.ai/news/fireworks-ai-breach-stolen-ai-access-llmjacking/</id>
+        <link href="https://www.theneuron.ai/news/fireworks-ai-breach-stolen-ai-access-llmjacking/"/>
+        <updated>2026-11-10T04:49:16.282Z</updated>
+        <summary type="html"><![CDATA[Fireworks AI confirmed that hackers accessed customer information and portions of unfinished AI models. The breach is linked to LLMjacking, a scheme in which criminals resell stolen AI access, potentially leaving companies with enormous bills.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Everything That Happened in AI Today (Tuesday, November 10, 2026)]]></title>
         <id>https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-november-10-2026/</id>
@@ -6697,69 +6889,6 @@ Continue reading on UX Collective »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🎙️ How I AI: How Meta designed Muse with Alex Cornell]]></title>
-        <id>https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with</id>
-        <link href="https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with"/>
-        <updated>2026-10-12T15:00:38.000Z</updated>
-        <summary type="html"><![CDATA[Your weekly listens from How I AI, part of the Lenny's Podcast Network]]></summary>
-        <author>
-            <name>Lenny Rachitsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft’s Maia 300 Reveal the Computing Demands of AI Agents]]></title>
-        <id>https://www.theneuron.ai/news/microsoft-maia-300-ai-agents-computing-demands/</id>
-        <link href="https://www.theneuron.ai/news/microsoft-maia-300-ai-agents-computing-demands/"/>
-        <updated>2026-10-12T13:00:29.504Z</updated>
-        <summary type="html"><![CDATA[Microsoft plans to make Maia 300 its primary AI inference system, with multi-gigawatt deployments beginning in 2027. The platform targets the computing demands of longer reasoning workloads and multi-step AI agents.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Specified an AI Agent in 2016. We Called It Analytics.]]></title>
-        <id>https://towardsdatascience.com/we-specified-an-ai-agent-in-2016-we-called-it-analytics/</id>
-        <link href="https://towardsdatascience.com/we-specified-an-ai-agent-in-2016-we-called-it-analytics/"/>
-        <updated>2026-10-12T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Re-reading my own IBM patent on real-time concert feedback as what it actually was: an agentic loop with multimodal perception, memory-grounded inference, and a human in the loop. What it got right, and what a decade of hindsight teaches agent builders today.
-The post We Specified an AI Agent in 2016. We Called It Analytics. appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Mario Noioso</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Meta designed Muse: an AI agent people actually want to talk to | Alex Cornell (Design Director)]]></title>
-        <id>https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent</id>
-        <link href="https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent"/>
-        <updated>2026-10-12T12:03:55.000Z</updated>
-        <summary type="html"><![CDATA[Listen now | 🎙️Alex Cornell explains how Muse serves your mom and an engineer with the same interface, and demos a SkyMall-style catalog, golf recaps, and a blog turned podcast]]></summary>
-        <author>
-            <name>Claire Vo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On M.F. Husain and multiple meanings of the colour orange]]></title>
-        <id>https://medium.com/p/bf4b1a6f5504</id>
-        <link href="https://uxdesign.cc/on-m-f-husain-and-multiple-meanings-of-the-colour-orange-bf4b1a6f5504?source=rss----138adf9c44c---4"/>
-        <updated>2026-10-12T11:35:46.000Z</updated>
-        <summary type="html"><![CDATA[The painting that introduced me to the power and purpose of art
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Neel Dozome</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Borrowed slopes]]></title>
-        <id>https://medium.com/p/cb5c5b464a61</id>
-        <link href="https://uxdesign.cc/borrowed-slopes-cb5c5b464a61?source=rss----138adf9c44c---4"/>
-        <updated>2026-10-12T11:35:36.000Z</updated>
-        <summary type="html"><![CDATA[When a traffic line bends, newsrooms reach for the oldest kit in digital design. The readers it costs are the ones they most need.
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Wira Indra Kusuma</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[From working agent to paid implementation]]></title>
         <id>https://www.youtube.com/shorts/6oA95Xzl9gA</id>
         <link href="https://www.youtube.com/shorts/6oA95Xzl9gA"/>
@@ -6767,26 +6896,6 @@ Continue reading on UX Collective »]]></summary>
         <summary type="html"><![CDATA[Wondering how to start a business in AI?On October 13–14, I’m showing you the technical system, business model, and path to paid implementation.We start tomo...]]></summary>
         <author>
             <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built a Trap for AI Image Judges. They Walked Into a Different One.]]></title>
-        <id>https://towardsdatascience.com/i-built-a-trap-for-ai-image-judges-they-walked-into-a-different-one/</id>
-        <link href="https://towardsdatascience.com/i-built-a-trap-for-ai-image-judges-they-walked-into-a-different-one/"/>
-        <updated>2026-10-12T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Three vision AI models ignored the pretty image, yet GPT-4o invented answers and Claude kept answering B.
-The post I Built a Trap for AI Image Judges. They Walked Into a Different One. appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Abdullahi Dattijo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😸 White House orders AI incident reporting]]></title>
-        <id>https://www.theneuron.ai/newsletter/white-house-orders-ai-incident-reporting/</id>
-        <link href="https://www.theneuron.ai/newsletter/white-house-orders-ai-incident-reporting/"/>
-        <updated>2026-10-12T10:31:18.463Z</updated>
-        <author>
-            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
@@ -6800,70 +6909,12 @@ The post I Built a Trap for AI Image Judges. They Walked Into a Different One. a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI-generated UI, What the AI era owes you, Amazing Glass, Jev for UX]]></title>
-        <id>https://medium.com/p/22f8393c4cc6</id>
-        <link href="https://uxdesign.cc/ai-generated-ui-what-the-ai-era-owes-you-amazing-glass-jev-for-ux-22f8393c4cc6?source=rss----138adf9c44c---4"/>
-        <updated>2026-10-12T09:07:53.000Z</updated>
-        <author>
-            <name>Fabricio Teixeira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Could a $3,499 AI Computer End Your Monthly AI Bills?]]></title>
-        <id>https://www.theneuron.ai/explainer-articles/ghost-core-ai-computer-monthly-ai-bills/</id>
-        <link href="https://www.theneuron.ai/explainer-articles/ghost-core-ai-computer-monthly-ai-bills/"/>
-        <updated>2026-10-12T07:30:48.158Z</updated>
-        <summary type="html"><![CDATA[Ghost’s $3,499 Core runs AI models locally, which could reduce usage-based cloud charges. Whether the purchase pays off depends on the workloads it can replace and the cost of keeping it running.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monopoly Round-Up: AI Cockroaches Scurry Out from Under Nvidia, the Most Valuable Company in the World]]></title>
-        <id>https://www.thebignewsletter.com/p/monopoly-round-up-the-cockroaches</id>
-        <link href="https://www.thebignewsletter.com/p/monopoly-round-up-the-cockroaches"/>
-        <updated>2026-10-12T02:39:15.000Z</updated>
-        <summary type="html"><![CDATA[A failed initial public offering from an Nvidia-backed “neocloud” called Firmus, run by a man with a criminal record, suggests the AI bubble is getting ready to burst.]]></summary>
-        <author>
-            <name>Matt Stoller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Human Creativity Still Matters]]></title>
-        <id>https://www.youtube.com/shorts/PODwi90Ne8k</id>
-        <link href="https://www.youtube.com/shorts/PODwi90Ne8k"/>
-        <updated>2026-10-12T02:23:09.000Z</updated>
-        <summary type="html"><![CDATA[Join My Newsletter for Regular AI Updates 👇🏼https://forwardfuture.comMy Links 🔗👉🏻 X: https://x.com/matthewberman👉🏻 Forward Future X: https://x.com/for...]]></summary>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2026年10月12日｜24小時世界AI新聞台-重溫｜Manus 融資、Midjourney Thinking、途途澳門機械狗]]></title>
         <id>https://www.youtube.com/watch?v=HKHkD7NjKwM</id>
         <link href="https://www.youtube.com/watch?v=HKHkD7NjKwM"/>
         <updated>2026-10-12T00:00:29.000Z</updated>
         <author>
             <name>文恩澄 Rannes Man</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An empirical agenda for AI🔬, How Does Thrive Do It?🎨, Everyone is building the same thing🧩]]></title>
-        <id>https://www.thevccorner.com/p/an-empirical-agenda-for-ai-how-does</id>
-        <link href="https://www.thevccorner.com/p/an-empirical-agenda-for-ai-how-does"/>
-        <updated>2026-10-11T23:56:19.000Z</updated>
-        <summary type="html"><![CDATA[Another week, another pulse check on Tech.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😺 Google tested AMIE with 98 patients]]></title>
-        <id>https://www.theneuron.ai/newsletter/google-tested-amie-with-98-patients/</id>
-        <link href="https://www.theneuron.ai/newsletter/google-tested-amie-with-98-patients/"/>
-        <updated>2026-10-11T17:30:39.599Z</updated>
-        <author>
-            <name>The Neuron</name>
         </author>
     </entry>
     <entry>
