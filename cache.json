@@ -2598,6 +2598,22 @@
       "siteUrl": "https://www.lennysnewsletter.com",
       "articles": [
         {
+          "id": "https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai",
+          "author": "Claire Vo",
+          "description": "Watch now (34 mins) | 🎙️ Scott Farrar walks through the Claude Code and Obsidian system he built to track appliances, chase insurance quotes, and keep household projects moving",
+          "link": "https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai",
+          "publishedOn": "2026-11-11T13:04:09.000Z",
+          "wordCount": null,
+          "title": "Claude Code + Obsidian: My family’s AI brain | Scott Farrar",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://api.substack.com/feed/podcast/224221477/e714fff25978e0a4d943e3d0fd317f24.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late",
           "author": "Lenny Rachitsky",
           "description": "PMs are winning, engineers are plateauing, designers are hurting, and the biggest AI hiring boom isn’t in software",
@@ -2932,22 +2948,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat",
-          "author": "Dan Hockenmaier",
-          "description": "A framework for assessing whether the company you’re considering joining is built to last",
-          "link": "https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat",
-          "publishedOn": "2026-10-13T12:45:41.000Z",
-          "wordCount": null,
-          "title": "How to tell if a startup has a moat",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!7Uce!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb5a8d5c-1e31-45f5-b9f8-93426e87a971_1456x970.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!7Uce!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb5a8d5c-1e31-45f5-b9f8-93426e87a971_1456x970.png"
         }
       ]
     },
@@ -3123,6 +3123,22 @@
       "feedUrl": "https://www.thevccorner.com/feed",
       "siteUrl": "https://www.thevccorner.com",
       "articles": [
+        {
+          "id": "https://www.thevccorner.com/p/startup-pitch-deck-examples-database",
+          "author": "Ruben Dominguez",
+          "description": "Airbnb, Uber, Coinbase and 219 more, sorted by stage, business model and money raised.",
+          "link": "https://www.thevccorner.com/p/startup-pitch-deck-examples-database",
+          "publishedOn": "2026-11-11T17:29:04.000Z",
+          "wordCount": null,
+          "title": "222 Startup Pitch Decks Behind $117 Billion in Funding",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substack-post-media.s3.amazonaws.com/public/images/d3ef3498-b7cf-45d4-b4b2-633883d5f8f0_2912x1632.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substack-post-media.s3.amazonaws.com/public/images/d3ef3498-b7cf-45d4-b4b2-633883d5f8f0_2912x1632.jpeg"
+        },
         {
           "id": "https://www.thevccorner.com/p/startup-data-room-template-notion-2026",
           "author": "Ruben Dominguez",
@@ -3642,6 +3658,96 @@
       "feedUrl": "https://www.theneuron.ai/feed",
       "siteUrl": "https://www.theneuron.ai/",
       "articles": [
+        {
+          "id": "https://www.theneuron.ai/news/ai-spending-boom-most-companies-spend-very-little/",
+          "author": null,
+          "description": "Corporate AI spending reached another record in October, but most businesses are spending very little. Ramp's latest data shows that a small group of companies accounts for most AI spending, even as adoption rises and model prices fall.",
+          "link": "https://www.theneuron.ai/news/ai-spending-boom-most-companies-spend-very-little/",
+          "publishedOn": "2026-11-12T02:26:37.927Z",
+          "wordCount": null,
+          "title": "The AI Spending Boom Has a Problem: Most Companies Spend Very Little",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-november-12-2026/",
+          "author": null,
+          "description": "United restricted unauthorized AI agents from booking flights; Databricks introduced an always-on business assistant; Google unveiled AlphaGenome 2; and a Federal Reserve official warned about AI investment risks.",
+          "link": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-november-12-2026/",
+          "publishedOn": "2026-11-12T01:54:26.381Z",
+          "wordCount": null,
+          "title": "Everything That Happened in AI Today (Thursday, November 12, 2026)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/newsletter/watch-ai-changed-more-in-4-years-than-you-remember/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/watch-ai-changed-more-in-4-years-than-you-remember/",
+          "publishedOn": "2026-11-11T20:05:30.961Z",
+          "wordCount": null,
+          "title": "😸 WATCH: AI Changed More in 4 Years Than You Remember",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/united-wants-you-to-book-the-flight-your-ai-agent-isnt-invited/",
+          "author": null,
+          "description": "United’s restrictions on personal AI agents expose a growing business conflict. If your assistant knows your preferences and chooses where to buy, companies could lose their place at the center of the customer relationship.",
+          "link": "https://www.theneuron.ai/news/united-wants-you-to-book-the-flight-your-ai-agent-isnt-invited/",
+          "publishedOn": "2026-11-11T19:44:53.203Z",
+          "wordCount": null,
+          "title": "United Is Blocking AI Agents. The Fight Is Over Who Owns You(r Data).",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/googles-alphagenome-2-wants-to-find-where-disease-begins/",
+          "author": null,
+          "description": "A disease-linked DNA change is only a clue. DeepMind’s AlphaGenome 2 aims to identify the cells where it matters, helping researchers decide what to investigate next.",
+          "link": "https://www.theneuron.ai/news/googles-alphagenome-2-wants-to-find-where-disease-begins/",
+          "publishedOn": "2026-11-11T19:12:18.704Z",
+          "wordCount": null,
+          "title": "Google’s AlphaGenome 2 Wants to Find Where Disease Begins",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/newsletter/3-ai-labs-shipped-for-you/",
+          "author": null,
+          "description": "",
+          "link": "https://www.theneuron.ai/newsletter/3-ai-labs-shipped-for-you/",
+          "publishedOn": "2026-11-11T09:30:07.888Z",
+          "wordCount": null,
+          "title": "😸 3 AI labs shipped for you",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/google-ai-math-signal-security-verification/",
+          "author": null,
+          "description": "Google DeepMind used AI to generate 6.5 million lines of mathematical proofs to check Signal's encryption code in just four weeks. Researchers even restored two previously fixed security bugs to test whether the system could catch them. Could this approach help developers prevent future vulnerabilities?",
+          "link": "https://www.theneuron.ai/news/google-ai-math-signal-security-verification/",
+          "publishedOn": "2026-11-11T07:11:07.664Z",
+          "wordCount": null,
+          "title": "Can AI Use Math to Catch Security Bugs? Google Put It to the Test",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-11-2026/",
+          "author": null,
+          "description": "Anthropic launched its IPO roadshow; OpenAI reportedly reached $10 billion in quarterly revenue amid heavy losses; Google unveiled an AI encryption breakthrough; Railway disclosed $740,000 in fraudulent AI charges; and New York began AI testing.",
+          "link": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-11-2026/",
+          "publishedOn": "2026-11-11T06:08:58.475Z",
+          "wordCount": null,
+          "title": "Everything That Happened in AI Today (Wednesday, November 11, 2026)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theneuron.ai/news/google-anthropic-openai-ai-assistants-workspaces/",
+          "author": null,
+          "description": "New tools from Google, Anthropic, and OpenAI bring more tasks inside AI products. Their value depends on what users can finish, check, share, and reuse.",
+          "link": "https://www.theneuron.ai/news/google-anthropic-openai-ai-assistants-workspaces/",
+          "publishedOn": "2026-11-11T04:24:18.602Z",
+          "wordCount": null,
+          "title": "Google, Anthropic, and OpenAI Are Turning AI Assistants Into Workspaces",
+          "imageUrl": null
+        },
         {
           "id": "https://www.theneuron.ai/news/whos-investing-in-anthropics-ipo-inside-the-26-billion-tech-bet/",
           "author": null,
@@ -4721,56 +4827,6 @@
           "wordCount": null,
           "title": "OpenAI Used Its Own AI to Investigate a Hidden Office Recorder",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/q4-tna-email-muse/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/q4-tna-email-muse/",
-          "publishedOn": "2026-10-13T14:31:20.669Z",
-          "wordCount": null,
-          "title": "Q4 TNA Email - Muse",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/news/google-playground-unity-spark-ai-games/",
-          "author": null,
-          "description": "Google’s Playground lets people create playable games through text prompts, with Unity Spark set to add more advanced tools. The partnership’s next challenge is helping creators refine their games and reach players who keep coming back.",
-          "link": "https://www.theneuron.ai/news/google-playground-unity-spark-ai-games/",
-          "publishedOn": "2026-10-13T11:23:47.697Z",
-          "wordCount": null,
-          "title": "Google’s Playground Turns Prompts Into Games. Can It Build an Audience?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/newsletter/meta-s-muse-wonder-is-here-priced-like-opus-ee30/",
-          "author": null,
-          "description": "",
-          "link": "https://www.theneuron.ai/newsletter/meta-s-muse-wonder-is-here-priced-like-opus-ee30/",
-          "publishedOn": "2026-10-13T09:41:40.545Z",
-          "wordCount": null,
-          "title": "😺 Meta’s Muse Wonder is here, priced like Opus",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/news/amd-helion-ai-agent-operating-costs/",
-          "author": null,
-          "description": "AMD’s Helion combines configurable CPU and GPU racks with model routing to address the computing demands of AI agents. Its potential savings depend on deployment costs and real-world performance.",
-          "link": "https://www.theneuron.ai/news/amd-helion-ai-agent-operating-costs/",
-          "publishedOn": "2026-10-13T06:55:37.075Z",
-          "wordCount": null,
-          "title": "AMD’s Helion Could Change the Cost of Running AI Agents",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theneuron.ai/explainer-articles/how-to-learn-ai-in-2026-the-neuron-beginner-livestream-roadmap/",
-          "author": null,
-          "description": "The Neuron’s YouTube archive has grown huge. Here is the fastest route through it, from AI basics to models, projects, skills, agents, coding, voice, open source AI, and new model releases.",
-          "link": "https://www.theneuron.ai/explainer-articles/how-to-learn-ai-in-2026-the-neuron-beginner-livestream-roadmap/",
-          "publishedOn": "2026-10-12T19:26:25.033Z",
-          "wordCount": null,
-          "title": "How to Learn AI in 2026: The Neuron’s Beginner Livestream Roadmap",
-          "imageUrl": null
         }
       ]
     },
@@ -4779,6 +4835,46 @@
       "feedUrl": "https://towardsdatascience.com/feed",
       "siteUrl": "https://towardsdatascience.com/",
       "articles": [
+        {
+          "id": "https://towardsdatascience.com/are-you-sure-flipped-qwen25-15bs-right-answer-2-times-in-3/",
+          "author": "Utkarsh Mangal",
+          "description": "Three small open models, 150 MMLU questions each, five pushback styles: “That’s wrong” did more damage, and naming a wrong option was close to fatal.\nThe post “Are You Sure?” Flipped Qwen2.5-1.5B’s Right Answer 2 Times in 3 appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/are-you-sure-flipped-qwen25-15bs-right-answer-2-times-in-3/",
+          "publishedOn": "2026-11-11T16:30:00.000Z",
+          "wordCount": null,
+          "title": "“Are You Sure?” Flipped Qwen2.5-1.5B’s Right Answer 2 Times in 3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/ai-assistant-vs-copilot-vs-agent-and-when-to-use-each/",
+          "author": "Gursimar Singh",
+          "description": "A palace-hotel wedding week shows where assistants, copilots, agents, and orchestration fit, and why Gartner expects 40%+ of agentic AI projects to be cancelled.\nThe post AI Assistant vs. Copilot vs. Agent, and When to Use Each appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/ai-assistant-vs-copilot-vs-agent-and-when-to-use-each/",
+          "publishedOn": "2026-11-11T15:00:00.000Z",
+          "wordCount": null,
+          "title": "AI Assistant vs. Copilot vs. Agent, and When to Use Each",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/how-to-use-apples-fm-cli-to-run-on-device-llms-from-python/",
+          "author": "Irfan Alghani Khalid",
+          "description": "A Sate Padang vision test and a Malaysia capital question show why the free, private model needs grounding and validation before it leaves prototyping.\nThe post How to Use Apple's fm CLI to Run On-Device LLMs From Python appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/how-to-use-apples-fm-cli-to-run-on-device-llms-from-python/",
+          "publishedOn": "2026-11-11T13:30:00.000Z",
+          "wordCount": null,
+          "title": "How to Use Apple's fm CLI to Run On-Device LLMs From Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://towardsdatascience.com/a-jev-of-all-trades-build-and-train-a-jev-style-decision-model-from-scratch/",
+          "author": "Lambert Leong",
+          "description": "Trained on six PathMNIST tissues with a small KEEP adapter, it handled added labels without retraining, though a linear classifier hit 88% on familiar ones.\nThe post A Jev of All Trades: Build and Train a Jev-style Decision Model From Scratch appeared first on Towards Data Science.",
+          "link": "https://towardsdatascience.com/a-jev-of-all-trades-build-and-train-a-jev-style-decision-model-from-scratch/",
+          "publishedOn": "2026-11-11T12:00:00.000Z",
+          "wordCount": null,
+          "title": "A Jev of All Trades: Build and Train a Jev-style Decision Model From Scratch",
+          "imageUrl": null
+        },
         {
           "id": "https://towardsdatascience.com/scikit-learn-matched-or-beat-jevs-calibration-on-banking77/",
           "author": "Ankur Tomar",
@@ -5768,36 +5864,6 @@
           "wordCount": null,
           "title": "Your Agent Doesn't Need More Freedom",
           "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/three-samplers-one-posterior-nuts-vs-emcee-vs-nested-sampling/",
-          "author": "Samit Ganguly",
-          "description": "Benchmarking NumPyro, affine-invariant MCMC, and dynesty against exact ground truth and watching them fail.\nThe post Three Samplers, One Posterior: NUTS vs. Emcee vs. Nested Sampling appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/three-samplers-one-posterior-nuts-vs-emcee-vs-nested-sampling/",
-          "publishedOn": "2026-10-13T14:00:00.000Z",
-          "wordCount": null,
-          "title": "Three Samplers, One Posterior: NUTS vs. Emcee vs. Nested Sampling",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/coding-agents-can-solve-the-task-but-how-much-work-did-they-waste/",
-          "author": "Emmimal P Alexander",
-          "description": "Real repositories, seeded agent decisions: what 50,400 runs show about wasted turns, patch churn, and which harness rules help\nThe post Coding Agents Can Solve the Task — But How Much Work Did They Waste? appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/coding-agents-can-solve-the-task-but-how-much-work-did-they-waste/",
-          "publishedOn": "2026-10-13T12:30:00.000Z",
-          "wordCount": null,
-          "title": "Coding Agents Can Solve the Task — But How Much Work Did They Waste?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://towardsdatascience.com/how-to-leverage-nlp-for-product-data-science/",
-          "author": "Alex Davis",
-          "description": "A practical guide to strengthening churn, CLV, and other traditional models with text\nThe post How to Leverage NLP for Product Data Science appeared first on Towards Data Science.",
-          "link": "https://towardsdatascience.com/how-to-leverage-nlp-for-product-data-science/",
-          "publishedOn": "2026-10-13T11:00:00.000Z",
-          "wordCount": null,
-          "title": "How to Leverage NLP for Product Data Science",
-          "imageUrl": null
         }
       ]
     },
@@ -5812,6 +5878,46 @@
       "feedUrl": "https://uxdesign.cc/feed",
       "siteUrl": "https://uxdesign.cc?source=rss----138adf9c44c---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/52e6e165eef7",
+          "author": "Heenesh Patel",
+          "description": "",
+          "link": "https://uxdesign.cc/why-are-we-cloning-photoshop-52e6e165eef7?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-11-11T22:20:42.000Z",
+          "wordCount": null,
+          "title": "Why are we cloning Photoshop?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/e3f00b6cabb8",
+          "author": "Arin Bhowmick",
+          "description": "",
+          "link": "https://uxdesign.cc/every-click-has-a-price-now-who-designs-how-that-feels-e3f00b6cabb8?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-11-11T22:15:19.000Z",
+          "wordCount": null,
+          "title": "Every click has a price now. Who designs how that “feels”?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/a26d50145d47",
+          "author": "Sophie Shrimpton",
+          "description": "",
+          "link": "https://uxdesign.cc/the-bathroom-flaws-that-infuriate-every-designer-a26d50145d47?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-11-11T22:10:34.000Z",
+          "wordCount": null,
+          "title": "The bathroom flaws that infuriate every designer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://medium.com/p/7372b128de9a",
+          "author": "Christine Vallaure",
+          "description": "",
+          "link": "https://uxdesign.cc/in-system-design-from-code-to-figma-and-back-prototyping-in-your-real-design-system-7372b128de9a?source=rss----138adf9c44c---4",
+          "publishedOn": "2026-11-11T22:08:32.000Z",
+          "wordCount": null,
+          "title": "In-system design: from code to Figma and back. Prototyping in your real design system",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/44825904c08d",
           "author": "Christine Vallaure",
@@ -6551,46 +6657,6 @@
           "wordCount": null,
           "title": "How to talk about a design that looks worse on paper",
           "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/6f618ec2aea0",
-          "author": "Mathieu Poli",
-          "description": "",
-          "link": "https://uxdesign.cc/the-synth-everyone-owned-and-few-could-program-a-lesson-for-ai-design-6f618ec2aea0?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-10-13T09:03:24.000Z",
-          "wordCount": null,
-          "title": "The synth everyone owned and few could program: a lesson for AI design",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/a57736f368a1",
-          "author": "Michael Buckley",
-          "description": "",
-          "link": "https://uxdesign.cc/what-are-we-willing-to-sacrifice-for-ai-a57736f368a1?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-10-13T07:30:43.000Z",
-          "wordCount": null,
-          "title": "What are we willing to sacrifice for AI?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/2f53a5670ec9",
-          "author": "Patrick Neeman",
-          "description": "",
-          "link": "https://uxdesign.cc/secret-agent-bot-accessibility-matters-for-the-agents-even-if-you-cant-see-them-2f53a5670ec9?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-10-12T20:19:31.000Z",
-          "wordCount": null,
-          "title": "Secret agent bot: accessibility matters for the agents even if you can’t see them",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/b7069db250fd",
-          "author": "Anamol Rajbhandari",
-          "description": "For fifteen years, the design process kept growing while the time left for making the product kept shrinking.\nContinue reading on UX Collective »",
-          "link": "https://uxdesign.cc/ai-is-hollowing-out-the-middle-of-design-leaving-an-hourglass-behind-b7069db250fd?source=rss----138adf9c44c---4",
-          "publishedOn": "2026-10-12T20:17:45.000Z",
-          "wordCount": null,
-          "title": "AI is hollowing out the middle of design, leaving an hourglass behind",
-          "imageUrl": null
         }
       ]
     },
@@ -6642,6 +6708,16 @@
       "feedUrl": "https://generativeai.pub/feed",
       "siteUrl": "https://generativeai.pub?source=rss----440100e76000---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/c8d04e9ee28a",
+          "author": "Jim Clyde Monge",
+          "description": "I want to believe him, even if the doctors who know this best say it’s impossible.\nContinue reading on Generative AI »",
+          "link": "https://generativeai.pub/anthropic-ceo-predicts-cancer-will-be-cured-in-less-than-10-years-c8d04e9ee28a?source=rss----440100e76000---4",
+          "publishedOn": "2026-11-11T11:13:22.000Z",
+          "wordCount": null,
+          "title": "Anthropic CEO Predicts Cancer Will Be Cured in Less than 10 Years",
+          "imageUrl": null
+        },
         {
           "id": "https://medium.com/p/d348e3affdbe",
           "author": "Jim Clyde Monge",
@@ -7760,26 +7836,6 @@
           "publishedOn": "2026-10-14T23:46:21.000Z",
           "wordCount": null,
           "title": "The Coding Guild Is Over. The Factory Is Hiring (About Ten of Us).",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/bc2c5615da0d",
-          "author": "Jim Clyde Monge",
-          "description": "A new set of AI terms ya’ll should know about.\nContinue reading on Generative AI »",
-          "link": "https://generativeai.pub/8-new-ai-terms-you-should-know-to-be-ahead-of-90-of-people-part-2-bc2c5615da0d?source=rss----440100e76000---4",
-          "publishedOn": "2026-10-13T08:26:59.000Z",
-          "wordCount": null,
-          "title": "8 New AI Terms You Should Know to Be Ahead of 90% of People (Part 2)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://medium.com/p/ebfcf3379b76",
-          "author": "Jim Clyde Monge",
-          "description": "",
-          "link": "https://generativeai.pub/why-this-smaller-image-model-is-challenging-much-larger-rivals-ebfcf3379b76?source=rss----440100e76000---4",
-          "publishedOn": "2026-10-13T04:23:53.000Z",
-          "wordCount": null,
-          "title": "Why This Smaller Image Model Is Challenging Much Larger Rivals",
           "imageUrl": null
         }
       ]
