@@ -2,10 +2,178 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-11-12T04:27:39.704Z</updated>
+    <updated>2026-11-13T03:42:17.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI is the new old design material]]></title>
+        <id>https://medium.com/p/0e7f83540c9a</id>
+        <link href="https://uxdesign.cc/ai-is-the-new-old-design-material-0e7f83540c9a?source=rss----138adf9c44c---4"/>
+        <updated>2026-11-13T02:33:09.000Z</updated>
+        <author>
+            <name>Patrick Neeman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pulse: Details of incident.io’s AI spend]]></title>
+        <id>6aec73282f23c10001da42a7</id>
+        <link href="https://blog.pragmaticengineer.com/the-pulse-details-of-incident-ios-ai-spend/"/>
+        <updated>2026-11-12T19:00:11.000Z</updated>
+        <summary type="html"><![CDATA[The resiliency startup has slashed the amount it spends on AI; down from $4,500 per dev, per month, in August, to $1,600 now.]]></summary>
+        <author>
+            <name>Ivan Klaric</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😸 LIVE in 2 Minutes: The AI Patch Tsunami is here!]]></title>
+        <id>https://www.theneuron.ai/newsletter/live-in-2-minutes-the-ai-patch-tsunami-is-here/</id>
+        <link href="https://www.theneuron.ai/newsletter/live-in-2-minutes-the-ai-patch-tsunami-is-here/"/>
+        <updated>2026-11-12T17:58:26.075Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jensen Huang Resigns. Nvidia Will Probably Be Fine—Eventually.]]></title>
+        <id>https://www.theneuron.ai/news/jensen-huang-resigns-nvidia-future/</id>
+        <link href="https://www.theneuron.ai/news/jensen-huang-resigns-nvidia-future/"/>
+        <updated>2026-11-12T17:33:48.411Z</updated>
+        <summary type="html"><![CDATA[Jensen Huang’s departure leaves Nvidia facing serious leadership and governance questions. Its deeply embedded technology gives the company staying power,  but customers and competitors will be watching what happens next.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mark Cuban Puts Agents on Healthcare Lawsuits and Flags a Possible AI Debt Bubble. Here Are 10 Lessons.]]></title>
+        <id>https://www.thevccorner.com/p/mark-cuban-ai-interview-takeaways</id>
+        <link href="https://www.thevccorner.com/p/mark-cuban-ai-interview-takeaways"/>
+        <updated>2026-11-12T16:49:30.000Z</updated>
+        <summary type="html"><![CDATA[Cuban hands the grinding to agents and keeps the final call for himself.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RAG Retrieval Lost 40 Points When Distracting Passages Grew to 2.68M]]></title>
+        <id>https://towardsdatascience.com/rag-retrieval-lost-40-points-when-distracting-passages-grew-to-268m/</id>
+        <link href="https://towardsdatascience.com/rag-retrieval-lost-40-points-when-distracting-passages-grew-to-268m/"/>
+        <updated>2026-11-12T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A reproducible test of BM25, embeddings, and parent documents shows why author-written evals overrate search, and why answer position in context matters.
+The post RAG Retrieval Lost 40 Points When Distracting Passages Grew to 2.68M appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Abdullahi Dattijo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Mutation-Tested 50 Python Libraries. Tests in the Young Ones Missed 41% of Planted Faults.]]></title>
+        <id>https://towardsdatascience.com/i-mutation-tested-50-python-libraries-tests-in-the-young-ones-missed-41-of-planted-faults/</id>
+        <link href="https://towardsdatascience.com/i-mutation-tested-50-python-libraries-tests-in-the-young-ones-missed-41-of-planted-faults/"/>
+        <updated>2026-11-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Across 2,312 planted faults the study also surfaced four real library problems, from a Windows data-loss bug to README examples that do not work as written.
+The post I Mutation-Tested 50 Python Libraries. Tests in the Young Ones Missed 41% of Planted Faults. appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Gal Arav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Soft-Label MNIST Testbed for Human vs. Model Confidence]]></title>
+        <id>https://towardsdatascience.com/a-soft-label-mnist-testbed-for-human-vs-model-confidence/</id>
+        <link href="https://towardsdatascience.com/a-soft-label-mnist-testbed-for-human-vs-model-confidence/"/>
+        <updated>2026-11-12T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Annotators marked each MNIST and Mukhoti digit yes, no, or unsure, producing image-level soft labels and uncertainty scores.
+The post A Soft-Label MNIST Testbed for Human vs. Model Confidence appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Maja Pavlovic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Read Cross Pair Correlation in R Without Fake Repulsion (Part 3)]]></title>
+        <id>https://towardsdatascience.com/how-to-read-cross-pair-correlation-in-r-without-fake-repulsion-part-3/</id>
+        <link href="https://towardsdatascience.com/how-to-read-cross-pair-correlation-in-r-without-fake-repulsion-part-3/"/>
+        <updated>2026-11-12T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A simulated scar and data from 31 animals after ischemia show how an inhomogeneous estimator, random labelling, and brms separate tissue loss from real interaction.
+The post How to Read Cross Pair Correlation in R Without Fake Repulsion (Part 3) appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Daniel Manrique Castano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI mind tax that afflicts those who use AI best]]></title>
+        <id>https://medium.com/p/3eb67ff167d0</id>
+        <link href="https://uxdesign.cc/the-ai-mind-tax-that-afflicts-those-who-use-ai-best-3eb67ff167d0?source=rss----138adf9c44c---4"/>
+        <updated>2026-11-12T11:14:40.000Z</updated>
+        <author>
+            <name>Dan Maccarone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harness Engineering for Swift: Making AI Coding Agents Follow Your Engineering Standards]]></title>
+        <id>https://medium.com/p/9aefbf1f6ede</id>
+        <link href="https://generativeai.pub/harness-engineering-ios-swift-ai-agents-9aefbf1f6ede?source=rss----440100e76000---4"/>
+        <updated>2026-11-12T10:58:07.000Z</updated>
+        <author>
+            <name>Ravi Rawal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 DeepMind launched AlphaGenome 2 for DNA]]></title>
+        <id>https://www.theneuron.ai/newsletter/deepmind-launched-alphagenome-2-for-dna-a377/</id>
+        <link href="https://www.theneuron.ai/newsletter/deepmind-launched-alphagenome-2-for-dna-a377/"/>
+        <updated>2026-11-12T09:45:10.106Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond Prompting: Harness Engineering for AI-Generated Maestro Tests]]></title>
+        <id>https://medium.com/p/94f46eebbf96</id>
+        <link href="https://generativeai.pub/harness-engineering-ai-agents-maestro-ui-automation-94f46eebbf96?source=rss----440100e76000---4"/>
+        <updated>2026-11-12T06:47:53.000Z</updated>
+        <author>
+            <name>Ravi Rawal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Gave an AI Bot My WooCommerce Store. Here’s What It Got Right and Wrong]]></title>
+        <id>https://medium.com/p/647a5053b819</id>
+        <link href="https://generativeai.pub/i-gave-an-ai-bot-my-woocommerce-store-heres-what-it-got-right-and-wrong-647a5053b819?source=rss----440100e76000---4"/>
+        <updated>2026-11-12T06:36:02.000Z</updated>
+        <summary type="html"><![CDATA[The bot is the easy part. The store data is where it goes wrong.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Abhisake Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does AI Make You Dumber? What the Studies Actually Measured]]></title>
+        <id>https://medium.com/p/46a31d864bac</id>
+        <link href="https://generativeai.pub/does-ai-make-you-dumber-what-the-studies-actually-measured-46a31d864bac?source=rss----440100e76000---4"/>
+        <updated>2026-11-12T06:30:55.000Z</updated>
+        <author>
+            <name>Zoost</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jensen Huang Admitted an Affair, and Nvidia Opened a Spy Inquiry, Exposing How Much of AI Runs…]]></title>
+        <id>https://medium.com/p/e91df158643a</id>
+        <link href="https://generativeai.pub/jensen-huang-admitted-an-affair-and-nvidia-opened-a-spy-inquiry-exposing-how-much-of-ai-runs-e91df158643a?source=rss----440100e76000---4"/>
+        <updated>2026-11-12T06:20:40.000Z</updated>
+        <summary type="html"><![CDATA[Nvidia’s board says its founder was the target of a foreign intelligence effort and sees no sign that secrets were compromised. Congress…
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Aya Mahmoud</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Summarize a Podcast Transcript With ChatGPT Without Losing the Middle]]></title>
+        <id>https://medium.com/p/5ca0685bbe67</id>
+        <link href="https://generativeai.pub/how-to-summarize-a-podcast-transcript-with-chatgpt-without-losing-the-middle-5ca0685bbe67?source=rss----440100e76000---4"/>
+        <updated>2026-11-12T06:17:22.000Z</updated>
+        <author>
+            <name>Zoost</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The AI Spending Boom Has a Problem: Most Companies Spend Very Little]]></title>
         <id>https://www.theneuron.ai/news/ai-spending-boom-most-companies-spend-very-little/</id>
@@ -6642,65 +6810,12 @@ Continue reading on Generative AI »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Does Stacking Beat Your Best Model?]]></title>
-        <id>https://towardsdatascience.com/does-stacking-beat-your-best-model/</id>
-        <link href="https://towardsdatascience.com/does-stacking-beat-your-best-model/"/>
-        <updated>2026-10-14T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[It only helps when your models make different mistakes.
-The post Does Stacking Beat Your Best Model? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Himanshu Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rippling's Outbound GTM Strategy Is Worth $17B]]></title>
-        <id>https://www.thevccorner.com/p/ripplings-outbound-gtm-strategy-is</id>
-        <link href="https://www.thevccorner.com/p/ripplings-outbound-gtm-strategy-is"/>
-        <updated>2026-10-14T14:27:42.000Z</updated>
-        <summary type="html"><![CDATA[When a cold call gets you to $17B valuation, it means you did something right.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I Had Opus 5.5 Build me 3 Apps at Every Effort Level]]></title>
         <id>https://www.youtube.com/watch?v=1J_zOJlBPGc</id>
         <link href="https://www.youtube.com/watch?v=1J_zOJlBPGc"/>
         <updated>2026-10-14T14:00:11.000Z</updated>
         <author>
             <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Do Word Embeddings Capture Relationships Between Words?]]></title>
-        <id>https://towardsdatascience.com/how-do-word-embeddings-capture-relationships-between-words/</id>
-        <link href="https://towardsdatascience.com/how-do-word-embeddings-capture-relationships-between-words/"/>
-        <updated>2026-10-14T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Understanding how words become related in a learned vector space
-The post How Do Word Embeddings Capture Relationships Between Words? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Nikhil Dasari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Voting on Features: Federated Feature Selection Without Sharing Data]]></title>
-        <id>https://towardsdatascience.com/voting-on-features-federated-feature-selection-without-sharing-data/</id>
-        <link href="https://towardsdatascience.com/voting-on-features-federated-feature-selection-without-sharing-data/"/>
-        <updated>2026-10-14T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Hospitals, banks, and edge devices can agree on which features matter by sharing votes instead of rows, runnable in NVIDIA FLARE and Flower
-The post Voting on Features: Federated Feature Selection Without Sharing Data appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Ioannis Christofilogiannis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s new ‘Muse Wonder’ model: good for AI agents, bad for design]]></title>
-        <id>https://www.lennysnewsletter.com/p/metas-new-muse-wonder-model-good</id>
-        <link href="https://www.lennysnewsletter.com/p/metas-new-muse-wonder-model-good"/>
-        <updated>2026-10-14T12:04:05.000Z</updated>
-        <summary type="html"><![CDATA[Watch now (24 mins) | 🎙️Meta launched Muse Wonder with claims of frontier agentic performance, so I ran it headlessly through Claude Code against nearly 20 tasks to find out if any of it is true]]></summary>
-        <author>
-            <name>Claire Vo</name>
         </author>
     </entry>
     <entry>
@@ -6723,67 +6838,6 @@ The post Voting on Features: Federated Feature Selection Without Sharing Data ap
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Scaffold at the Gate: Building AI Applications That Can Evolve]]></title>
-        <id>https://towardsdatascience.com/a-scaffold-at-the-gate-building-ai-applications-that-can-evolve/</id>
-        <link href="https://towardsdatascience.com/a-scaffold-at-the-gate-building-ai-applications-that-can-evolve/"/>
-        <updated>2026-10-14T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A technical reflection on why data scientists need software engineering principles when AI agents write code.
-The post A Scaffold at the Gate: Building AI Applications That Can Evolve appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Erika Gomes-Gonçalves</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😸 Google launched Gemini 4 Argon, tying GPT-6]]></title>
-        <id>https://www.theneuron.ai/newsletter/google-launched-gemini-4-argon-tying-gpt-6-b85b/</id>
-        <link href="https://www.theneuron.ai/newsletter/google-launched-gemini-4-argon-tying-gpt-6-b85b/"/>
-        <updated>2026-10-14T10:01:37.579Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How getting good at your job can stop you getting better]]></title>
-        <id>https://medium.com/p/023b6e7637ec</id>
-        <link href="https://uxdesign.cc/how-getting-good-at-your-job-can-stop-you-getting-better-023b6e7637ec?source=rss----138adf9c44c---4"/>
-        <updated>2026-10-14T08:53:49.000Z</updated>
-        <summary type="html"><![CDATA[Many experienced people plateau out of sight. Whether they keep growing depends partly on the problems they’re given to tackle.
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Dora Czerna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything That Happened in AI Today (Tuesday, October 13, 2026)]]></title>
-        <id>https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-october-13-2026/</id>
-        <link href="https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-october-13-2026/"/>
-        <updated>2026-10-14T07:57:26.920Z</updated>
-        <summary type="html"><![CDATA[OpenAI says its models helped identify an employee accused of planting a hidden recorder in its office; Google opened Gemini 4 Argon broadly; and AI-authenticity fights spread through hiring, literature, and Hollywood.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini 4 Argon Can Work Overnight. What Gets Finished?]]></title>
-        <id>https://www.theneuron.ai/news/gemini-4-argon-overnight-ai-work/</id>
-        <link href="https://www.theneuron.ai/news/gemini-4-argon-overnight-ai-work/"/>
-        <updated>2026-10-14T06:37:38.846Z</updated>
-        <summary type="html"><![CDATA[Google’s Gemini 4 Argon worked overnight on code optimizations. Its release puts the focus on how much usable work AI completes and what each accepted result costs.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Used Its Own AI to Investigate a Hidden Office Recorder]]></title>
-        <id>https://www.theneuron.ai/news/openai-ai-hidden-recording-device-investigation/</id>
-        <link href="https://www.theneuron.ai/news/openai-ai-hidden-recording-device-investigation/"/>
-        <updated>2026-10-14T04:36:20.821Z</updated>
-        <summary type="html"><![CDATA[An OpenAI engineer faces charges over an alleged hidden recorder in an executive conference room. The company says its own AI models helped examine the device, bringing physical security and AI-assisted investigations into focus.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[50+ 功能塞進去只要 2 千多？續航直接撐 12 天？LARMI Ai7 全能智慧手錶實測開箱]]></title>
         <id>https://www.youtube.com/shorts/TPh6opFX7xw</id>
         <link href="https://www.youtube.com/shorts/TPh6opFX7xw"/>
@@ -6803,42 +6857,12 @@ Continue reading on UX Collective »]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Harbor Raised $10M to Insure AI Agents in Its First Year. Here Are the Deck and the Memo]]></title>
-        <id>https://www.thevccorner.com/p/harbor-raised-10m-to-insure-ai-agents</id>
-        <link href="https://www.thevccorner.com/p/harbor-raised-10m-to-insure-ai-agents"/>
-        <updated>2026-10-14T00:04:56.000Z</updated>
-        <summary type="html"><![CDATA[Four founders who met at Stanford, three co-leads and a market with zero loss data. The moves you can copy]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2026年10月14日｜24小時世界AI新聞台-重溫｜OpenClaw 新版、Grok 代購說法、Maia 300 計劃]]></title>
         <id>https://www.youtube.com/watch?v=LHCL_BdPglQ</id>
         <link href="https://www.youtube.com/watch?v=LHCL_BdPglQ"/>
         <updated>2026-10-14T00:00:08.000Z</updated>
         <author>
             <name>文恩澄 Rannes Man</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taste is not a design methodology]]></title>
-        <id>https://medium.com/p/e02b37aea148</id>
-        <link href="https://uxdesign.cc/taste-is-not-a-design-methodology-e02b37aea148?source=rss----138adf9c44c---4"/>
-        <updated>2026-10-13T22:27:46.000Z</updated>
-        <author>
-            <name>Patrick Neeman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to talk about a design that looks worse on paper]]></title>
-        <id>https://medium.com/p/da73da6d7b57</id>
-        <link href="https://uxdesign.cc/how-to-talk-about-a-design-that-looks-worse-on-paper-da73da6d7b57?source=rss----138adf9c44c---4"/>
-        <updated>2026-10-13T22:26:58.000Z</updated>
-        <summary type="html"><![CDATA[Why it took Microsoft 5 years to roll out an ‘obvious fix’
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Kai Wong</name>
         </author>
     </entry>
     <entry>
@@ -6858,17 +6882,6 @@ Continue reading on UX Collective »]]></summary>
         <summary type="html"><![CDATA[Join My Newsletter for Regular AI Updates 👇🏼https://forwardfuture.comMy Links 🔗👉🏻 X: https://x.com/matthewberman👉🏻 Forward Future X: https://x.com/for...]]></summary>
         <author>
             <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Agent Doesn't Need More Freedom]]></title>
-        <id>https://towardsdatascience.com/your-agent-doesnt-need-more-freedom/</id>
-        <link href="https://towardsdatascience.com/your-agent-doesnt-need-more-freedom/"/>
-        <updated>2026-10-13T18:28:09.000Z</updated>
-        <summary type="html"><![CDATA[Agents got good. The hard part now is everything around them.
-The post Your Agent Doesn't Need More Freedom appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Gursimar Singh</name>
         </author>
     </entry>
     <entry>
