@@ -2,10 +2,345 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-11-17T05:19:51.782Z</updated>
+    <updated>2026-11-18T04:47:31.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[體積不變，電量多50%！能源方舟1800行動電站開箱，小巧輕量卻有 1.5 度電大容量！]]></title>
+        <id>https://www.youtube.com/watch?v=8Qv0SIwiE3E</id>
+        <link href="https://www.youtube.com/watch?v=8Qv0SIwiE3E"/>
+        <updated>2026-11-18T04:24:37.000Z</updated>
+        <author>
+            <name>電腦王阿達</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code 自己點了按鈕：Vercel 開源 agent-desktop，讓 AI 按得到你整台電腦 #ai #aiagents #開源]]></title>
+        <id>https://www.youtube.com/shorts/y0l-yOvFs0s</id>
+        <link href="https://www.youtube.com/shorts/y0l-yOvFs0s"/>
+        <updated>2026-11-18T04:23:11.000Z</updated>
+        <summary type="html"><![CDATA[agent-desktop 讀作業系統給視障朋友用的無障礙樹，每個按鈕都有編號，AI 照編號點；跑一行 agent-desktop mcp 就能接上 Claude Code，蘋果、微軟、Linux 都能用。它看得到你螢幕上的私人內容，最好開個獨立帳號給它用。#ai #aiagents #claudecode #開源]]></summary>
+        <author>
+            <name>追日Gucci-AI效率革命聯盟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Models Picked Civilians as Military Targets. A Game Prompt Made It Worse.]]></title>
+        <id>https://www.theneuron.ai/news/ai-models-civilians-military-targets-game-prompt/</id>
+        <link href="https://www.theneuron.ai/news/ai-models-civilians-military-targets-game-prompt/"/>
+        <updated>2026-11-18T02:41:42.867Z</updated>
+        <summary type="html"><![CDATA[AI models from Anthropic, OpenAI, and other companies identified civilians as potential military targets in simulated tests. Researchers found that presenting battlefield scenarios as games often bypassed refusals, raising concerns about how AI companies enforce weapons-related safety restrictions.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔴 AI新聞直播｜24小時 世界AI新聞台：過去24小時重點消息，每小時更新輪播｜廣東話]]></title>
+        <id>https://www.youtube.com/watch?v=oGl_b4Z7Dbw</id>
+        <link href="https://www.youtube.com/watch?v=oGl_b4Z7Dbw"/>
+        <updated>2026-11-18T02:23:21.000Z</updated>
+        <author>
+            <name>文恩澄 Rannes Man</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything That Happened in AI Today (Wednesday, November 18, 2026)]]></title>
+        <id>https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-18-2026/</id>
+        <link href="https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-18-2026/"/>
+        <updated>2026-11-18T01:15:05.352Z</updated>
+        <summary type="html"><![CDATA[OpenAI launched GPT-6.2 Astra and Sol; Nvidia reaffirmed its open-source strategy after Jensen Huang's exit; Google revised Gemini privacy controls; researchers exposed AI military-targeting risks; and Microsoft unveiled cheaper coding models.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grok Bot 不會寫程式用得起來嗎？我三天就有了 5 個 AI 同事｜非工程師從第一個 bot 到放手權限的完整入門]]></title>
+        <id>https://www.youtube.com/watch?v=3wGgnYIk1Cw</id>
+        <link href="https://www.youtube.com/watch?v=3wGgnYIk1Cw"/>
+        <updated>2026-11-18T01:10:27.000Z</updated>
+        <author>
+            <name>追日Gucci-AI效率革命聯盟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skills, Hooks, Subagents and MCP: How Claude Code’s Parts Actually Fit Together]]></title>
+        <id>https://medium.com/p/b7d70d831c3e</id>
+        <link href="https://generativeai.pub/skills-hooks-subagents-and-mcp-how-claude-codes-parts-actually-fit-together-b7d70d831c3e?source=rss----440100e76000---4"/>
+        <updated>2026-11-18T01:05:36.000Z</updated>
+        <summary type="html"><![CDATA[What each part is, when it loads, and what it costs you, plus the question I ask to pick between them
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Koyote Wrakoon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Context Rot Is Only Half the Problem]]></title>
+        <id>https://medium.com/p/11cade71c200</id>
+        <link href="https://generativeai.pub/context-rot-is-only-half-the-problem-11cade71c200?source=rss----440100e76000---4"/>
+        <updated>2026-11-18T00:54:59.000Z</updated>
+        <summary type="html"><![CDATA[AI agents are developing a second kind of memory failure, and no context window is big enough to fix it.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Hayanan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 只給你 60 分？先問它這 4 題]]></title>
+        <id>https://www.youtube.com/shorts/Eb9_JckME00</id>
+        <link href="https://www.youtube.com/shorts/Eb9_JckME00"/>
+        <updated>2026-11-18T00:00:36.000Z</updated>
+        <summary type="html"><![CDATA[你交給 AI 的事，它常常只給你六十分：你沒要求的，它就給你一般水準。Claude 團隊的工程主管 Felix 有一招，動手前先叫 AI 回答四個問題：頂尖的人多做了什麼？從哪份原始材料下手？用什麼方法和工具？什麼能證明結果是對的？答完，再照答案改寫你的要求。我把它接在「幫我寫一篇文章」後面跑了一次，AI 沒有直...]]></summary>
+        <author>
+            <name>追日Gucci-AI效率革命聯盟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年11月18日｜24小時世界AI新聞台-重溫｜騰訊 Hy4 Flash、腦部 MRI、網絡安全]]></title>
+        <id>https://www.youtube.com/watch?v=duAQ-MxreRs</id>
+        <link href="https://www.youtube.com/watch?v=duAQ-MxreRs"/>
+        <updated>2026-11-18T00:00:10.000Z</updated>
+        <author>
+            <name>文恩澄 Rannes Man</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a researcher’s worth?]]></title>
+        <id>https://medium.com/p/ea14c95c6d12</id>
+        <link href="https://uxdesign.cc/what-is-a-researchers-worth-ea14c95c6d12?source=rss----138adf9c44c---4"/>
+        <updated>2026-11-17T23:26:24.000Z</updated>
+        <author>
+            <name>Matt Rafalow, PhD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everyone knows sparkles mean AI. Use them to make design audits easier]]></title>
+        <id>https://medium.com/p/bdacc76cef11</id>
+        <link href="https://uxdesign.cc/everyone-knows-sparkles-mean-ai-use-them-to-make-design-audits-easier-bdacc76cef11?source=rss----138adf9c44c---4"/>
+        <updated>2026-11-17T23:25:21.000Z</updated>
+        <summary type="html"><![CDATA[How to decipher your PM’s AI-generated mockup without losing hours
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Kai Wong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Ignite 2026: Autopilot, Today, and the AI Updates That Matter]]></title>
+        <id>https://www.theneuron.ai/news/microsoft-ignite-2026-copilot-autopilot-today-fusion/</id>
+        <link href="https://www.theneuron.ai/news/microsoft-ignite-2026-copilot-autopilot-today-fusion/"/>
+        <updated>2026-11-17T23:08:13.473Z</updated>
+        <summary type="html"><![CDATA[Microsoft wants Copilot to keep work moving between prompts. From Ignite in San Francisco, we unpack Autopilot, the new Today experience, and GitHub Copilot Fusion, including what’s available and where the costs come in.]]></summary>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Can Now Ship Real Apps (IT Approved)]]></title>
+        <id>https://www.youtube.com/watch?v=IKHF1u7N75o</id>
+        <link href="https://www.youtube.com/watch?v=IKHF1u7N75o"/>
+        <updated>2026-11-17T22:10:24.000Z</updated>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CHATGPT 6.2 ASTRA JUST RELEASED! I CAN'T BELIEVE THIS...]]></title>
+        <id>https://www.youtube.com/watch?v=cFHjSViXEjM</id>
+        <link href="https://www.youtube.com/watch?v=cFHjSViXEjM"/>
+        <updated>2026-11-17T21:18:18.000Z</updated>
+        <author>
+            <name>Alex Finn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI GPT-6.2 Astra 來了！跑分、對手比較、API 價格一次看]]></title>
+        <id>https://www.youtube.com/watch?v=myuX56KzoII</id>
+        <link href="https://www.youtube.com/watch?v=myuX56KzoII"/>
+        <updated>2026-11-17T20:09:52.000Z</updated>
+        <author>
+            <name>電腦王阿達</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Texas LLC - How to Start an LLC in Texas in 10 Minutes (2026)]]></title>
+        <id>https://www.youtube.com/watch?v=etfFKhRq8K8</id>
+        <link href="https://www.youtube.com/watch?v=etfFKhRq8K8"/>
+        <updated>2026-11-17T18:57:20.000Z</updated>
+        <author>
+            <name>Metics Media</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[35 premium tools free for a year—now with OpenRouter, LangChain, Sentry, TextExpander, and Ploy 💥]]></title>
+        <id>https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow</id>
+        <link href="https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow"/>
+        <updated>2026-11-17T18:02:02.000Z</updated>
+        <summary type="html"><![CDATA[Over $40,000 in value, exclusively for Lenny’s Newsletter subscribers]]></summary>
+        <author>
+            <name>Lenny Rachitsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「突發」黃仁勳辭職 5 天親自發文：董事會開口我就回任]]></title>
+        <id>https://www.youtube.com/shorts/lWYl5cQBGsE</id>
+        <link href="https://www.youtube.com/shorts/lWYl5cQBGsE"/>
+        <updated>2026-11-17T17:33:24.000Z</updated>
+        <summary type="html"><![CDATA[辭職才 5 天，黃仁勳在 X 發出第一份聲明：只要董事會認為對股東、員工、公司和美國最好，他「很榮幸回任執行長」。但董事會傳出的答案是：沒在考慮。✅ 先道歉：他承認私生活犯了嚴重錯誤，錯誤完全由他承擔，會配合董事會的獨立調查 ✅ 挺他的人：馬斯克說雇用他是榮幸並簽了連署；連署超過 18 萬人；川普說不介意他回來；...]]></summary>
+        <author>
+            <name>電腦王阿達</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Improve Coding Agent Efficiency by 30% with an Orchestrator]]></title>
+        <id>https://towardsdatascience.com/how-to-improve-coding-agent-efficiency-by-30-with-an-orchestrator/</id>
+        <link href="https://towardsdatascience.com/how-to-improve-coding-agent-efficiency-by-30-with-an-orchestrator/"/>
+        <updated>2026-11-17T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Stop hunting through sessions for pending questions: a herder agent surfaces them by priority, kept current by webhooks or cheap Haiku polling.
+The post How to Improve Coding Agent Efficiency by 30% with an Orchestrator appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Govern Coding Agent Skills Across Repos With Plugins]]></title>
+        <id>https://towardsdatascience.com/how-to-govern-coding-agent-skills-across-repos-with-plugins/</id>
+        <link href="https://towardsdatascience.com/how-to-govern-coding-agent-skills-across-repos-with-plugins/"/>
+        <updated>2026-11-17T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Package skills, rules, hooks, and MCP tool configs as versioned plugins, then distribute them through a marketplace, shown with Claude Code and AWS.
+The post How to Govern Coding Agent Skills Across Repos With Plugins appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Erika Gomes-Gonçalves</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The YC Fall 2026 Directory: All 235 Startups and My 30 Picks]]></title>
+        <id>https://www.thevccorner.com/p/yc-fall-2026-directory-best-startups-picks</id>
+        <link href="https://www.thevccorner.com/p/yc-fall-2026-directory-best-startups-picks"/>
+        <updated>2026-11-17T13:43:16.000Z</updated>
+        <summary type="html"><![CDATA[One YC batch returned 11x and another lost half its money. The returns data, every Fall 2026 startup in one filterable table and the 30 I rate highest before Demo Day.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google ADK Agents That Pause, Resume, and Wait Hours for a Human]]></title>
+        <id>https://towardsdatascience.com/google-adk-agents-that-pause-resume-and-wait-hours-for-a-human/</id>
+        <link href="https://towardsdatascience.com/google-adk-agents-that-pause-resume-and-wait-hours-for-a-human/"/>
+        <updated>2026-11-17T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A synchronous call kept an RSS agent's connection open for 83 seconds; webhooks and 202 receipts free the client while the agent works.
+The post Google ADK Agents That Pause, Resume, and Wait Hours for a Human appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Benjamin Etienne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Concepts to Know for Coding with AI Agents]]></title>
+        <id>https://www.youtube.com/watch?v=DfAOBID70Q0</id>
+        <link href="https://www.youtube.com/watch?v=DfAOBID70Q0"/>
+        <updated>2026-11-17T13:00:33.000Z</updated>
+        <author>
+            <name>Tech With Tim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Design MCP Servers That Leave Orchestration to the Host]]></title>
+        <id>https://towardsdatascience.com/how-to-design-mcp-servers-that-leave-orchestration-to-the-host/</id>
+        <link href="https://towardsdatascience.com/how-to-design-mcp-servers-that-leave-orchestration-to-the-host/"/>
+        <updated>2026-11-17T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Python SDK v2 catalogue server with two narrow tools, one resource, and one prompt shows how to keep planning, workflow state, and authorisation host-side.
+The post How to Design MCP Servers That Leave Orchestration to the Host appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Priyansh Bhardwaj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 搵完資料，仲要自己做成品？YouMind 由 Deep Research 做到 Vibe Coding 互動網站！]]></title>
+        <id>https://www.youtube.com/watch?v=6w5RCLAv_pk</id>
+        <link href="https://www.youtube.com/watch?v=6w5RCLAv_pk"/>
+        <updated>2026-11-17T11:59:47.000Z</updated>
+        <author>
+            <name>Dr. Jackei 科技生活日誌</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT for Healthcare：AI 代理走進醫院，99% 評為安全 #Shorts]]></title>
+        <id>https://www.youtube.com/shorts/_REFQvj4ABg</id>
+        <link href="https://www.youtube.com/shorts/_REFQvj4ABg"/>
+        <updated>2026-11-17T10:15:08.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI 11/16 更新 ChatGPT 醫療照護版：AI 代理會看螢幕、點滑鼠、打字。官方測試：醫師審查 325 個任務，99% 評為安全；GPT-6 Luna 每個任務 8.5 美分。完整解說看長片：https://youtu.be/gbSXiEq-8_I#ChatGPT #OpenAI #Shorts...]]></summary>
+        <author>
+            <name>ZEDOTECH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😺 California sued OpenAI over rogue agents]]></title>
+        <id>https://www.theneuron.ai/newsletter/california-sued-openai-over-rogue-agents/</id>
+        <link href="https://www.theneuron.ai/newsletter/california-sued-openai-over-rogue-agents/"/>
+        <updated>2026-11-17T10:15:06.640Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT for Healthcare 更新：AI 開始幫醫院「點滑鼠」了｜3 大重點＋未來會怎麼走]]></title>
+        <id>https://www.youtube.com/watch?v=gbSXiEq-8_I</id>
+        <link href="https://www.youtube.com/watch?v=gbSXiEq-8_I"/>
+        <updated>2026-11-17T10:00:13.000Z</updated>
+        <author>
+            <name>ZEDOTECH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[史丹佛 AI Agent 課第一講：70 分鐘的課，15 分鐘看懂｜把事情交給 AI，為什麼會出事？]]></title>
+        <id>https://www.youtube.com/watch?v=iT6MU772tZk</id>
+        <link href="https://www.youtube.com/watch?v=iT6MU772tZk"/>
+        <updated>2026-11-17T09:54:29.000Z</updated>
+        <author>
+            <name>追日Gucci-AI效率革命聯盟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 越用越笨？記錯一條筆記，比沒記憶還糟]]></title>
+        <id>https://www.youtube.com/shorts/bwi2TvVqUgE</id>
+        <link href="https://www.youtube.com/shorts/bwi2TvVqUgE"/>
+        <updated>2026-11-17T08:00:32.000Z</updated>
+        <summary type="html"><![CDATA[AI 用久了好像越來越笨？Anthropic 讓 Claude 玩寶可夢，它只記錯一件事，就照著那條筆記從懸崖掉回原路三次。同一份錯筆記比了三種跑法，結果是：記錯，比沒記還糟。完整版《AI 越用越笨？記錯一條筆記，比沒記憶還糟：一段話幫你的 Claude Code 健檢整份記憶｜Anthropic 的記憶研究》：...]]></summary>
+        <author>
+            <name>追日Gucci-AI效率革命聯盟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is WordPress Still Worth It? Here's What I Built With Claude Instead.]]></title>
+        <id>https://medium.com/p/bc964980ada0</id>
+        <link href="https://generativeai.pub/is-wordpress-still-worth-it-heres-what-i-built-with-claude-instead-bc964980ada0?source=rss----440100e76000---4"/>
+        <updated>2026-11-17T07:47:22.000Z</updated>
+        <summary type="html"><![CDATA[Thirty years of building websites taught me that clients don't want a CMS.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Thierry Lechanteur</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI’s GPT-6 Astra Quietly Did Worse When the Work Was Safety Research]]></title>
+        <id>https://medium.com/p/42624841b3d9</id>
+        <link href="https://generativeai.pub/openais-gpt-6-astra-quietly-did-worse-when-the-work-was-safety-research-42624841b3d9?source=rss----440100e76000---4"/>
+        <updated>2026-11-17T07:45:49.000Z</updated>
+        <summary type="html"><![CDATA[Same code, same request, different label. OpenAI’s own researchers found Astra completed roughly 40% fewer hidden goals when a task was…
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Aya Mahmoud</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[老主機別丟！破解 PS4、PS5 直接變身本機 AI 伺服器]]></title>
+        <id>https://www.youtube.com/shorts/In5MVQ8MoYI</id>
+        <link href="https://www.youtube.com/shorts/In5MVQ8MoYI"/>
+        <updated>2026-11-17T07:08:56.000Z</updated>
+        <summary type="html"><![CDATA[13 年前的 PS4，現在竟然能離線跑 90 億參數的 AI 😳 連 PS5 都被改成 AI 伺服器了！✅ PS4：開源專案 Garlic LLM 在主機 GPU 上跑阿里巴巴 Qwen3.5-9B，不接電腦、不用上網，聊天每秒 31～39 Token、寫程式最高 43✅ 三招塞進 8GB：4-bit＋3-bi...]]></summary>
+        <author>
+            <name>電腦王阿達</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最強的 AI 九次都選錯：問題不在模型，在你給了什麼]]></title>
         <id>https://www.youtube.com/shorts/ib-rIGUcjZ0</id>
@@ -7080,282 +7415,6 @@ The post What's in the Box? Distinguishing Acceptable Traces from Unacceptable O
 Continue reading on UX Collective »]]></summary>
         <author>
             <name>Hiroshi Sato / 佐藤 仁</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Order To Raise From a VC, You Need To Think Like a VC]]></title>
-        <id>https://www.thevccorner.com/p/think-like-investor-fundraising</id>
-        <link href="https://www.thevccorner.com/p/think-like-investor-fundraising"/>
-        <updated>2026-10-19T15:30:56.000Z</updated>
-        <summary type="html"><![CDATA[This is the number 1 thing founders need to understand in order to have 100% success with fundraising.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welcome to Google Gemini 4 Argon]]></title>
-        <id>https://towardsdatascience.com/welcome-to-google-gemini-4-argon/</id>
-        <link href="https://towardsdatascience.com/welcome-to-google-gemini-4-argon/"/>
-        <updated>2026-10-19T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A million-token output window changes what you can hand a model in one go, and the benchmarks and the bill show who it actually suits.
-The post Welcome to Google Gemini 4 Argon appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Benjamin Nweke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎙️ How I AI: Meta Muse Wonder + How Brooke Lacey is scaling video with AI]]></title>
-        <id>https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke</id>
-        <link href="https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke"/>
-        <updated>2026-10-19T15:03:35.000Z</updated>
-        <summary type="html"><![CDATA[Your weekly listens from How I AI, part of the Lenny's Podcast Network]]></summary>
-        <author>
-            <name>Lenny Rachitsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can Conformal Prediction Take You from Accurate to Reliable Machine Learning?]]></title>
-        <id>https://towardsdatascience.com/can-conformal-prediction-take-you-from-accurate-to-reliable-machine-learning/</id>
-        <link href="https://towardsdatascience.com/can-conformal-prediction-take-you-from-accurate-to-reliable-machine-learning/"/>
-        <updated>2026-10-19T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ML model adoption doesn't stop with acceptance of accuracy; it starts there.
-The post Can Conformal Prediction Take You from Accurate to Reliable Machine Learning? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Devashish Thakar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Many EEG Channels Do You Actually Need?]]></title>
-        <id>https://towardsdatascience.com/how-many-eeg-channels-do-you-actually-need/</id>
-        <link href="https://towardsdatascience.com/how-many-eeg-channels-do-you-actually-need/"/>
-        <updated>2026-10-19T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Testing sensor reduction, feature ranking, and generalization to unseen
-participants
-The post How Many EEG Channels Do You Actually Need? appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Renish Joshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Claude cuts my TikTok”: How this creator is scaling video with AI | Brooke Lacey]]></title>
-        <id>https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator</id>
-        <link href="https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator"/>
-        <updated>2026-10-19T12:04:52.000Z</updated>
-        <summary type="html"><![CDATA[Watch now (37 mins) | 🎙️ Brooke Lacey shows live how Claude Code turns a raw phone video into a captioned, jump-cut TikTok in about 15 seconds]]></summary>
-        <author>
-            <name>Claire Vo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VRAM Explained What Decides If a Model Fits]]></title>
-        <id>https://www.youtube.com/shorts/Dpg7pcPa4WE</id>
-        <link href="https://www.youtube.com/shorts/Dpg7pcPa4WE"/>
-        <updated>2026-10-19T12:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Can your machine run that AI model? It comes down to capacity, the fast memory your GPU can reach. On Windows that's VRAM on your graphics card; on Mac and s...]]></summary>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[報告改到一半，ChatGPT 跳出「額度用完了」？多半不是你做錯了]]></title>
-        <id>https://www.youtube.com/shorts/XKYVGYt_il0</id>
-        <link href="https://www.youtube.com/shorts/XKYVGYt_il0"/>
-        <updated>2026-10-19T12:00:37.000Z</updated>
-        <summary type="html"><![CDATA[整份資料反覆丟、每一步都選最強的模型、一輪又一輪重改，額度就是這樣被吃掉的。撞到上限，訂閱不會停：額度是每個模型分開算的，可以換一個還有額度的模型，或等它重置。✍️ 一般的整理、改寫，不必每次都挑最強的模型，也不用每次丟整份資料。揭露：AI 虛擬分身參與製作#ChatGPT #AI工作效率 #AI工具 #上班族]]></summary>
-        <author>
-            <name>追日Gucci-AI效率革命聯盟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why design (still) matters, Taste is not a methodology, Borrowed slopes]]></title>
-        <id>https://medium.com/p/62701d4c33dc</id>
-        <link href="https://uxdesign.cc/why-design-still-matters-taste-is-not-a-methodology-borrowed-slopes-62701d4c33dc?source=rss----138adf9c44c---4"/>
-        <updated>2026-10-19T11:50:05.000Z</updated>
-        <author>
-            <name>Fabricio Teixeira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What if AI sets us free?]]></title>
-        <id>https://medium.com/p/084f4310709b</id>
-        <link href="https://uxdesign.cc/what-if-ai-sets-us-free-084f4310709b?source=rss----138adf9c44c---4"/>
-        <updated>2026-10-19T11:12:29.000Z</updated>
-        <author>
-            <name>Nicole Alexandra Michaelis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UX designers are not designing interfaces, they design personalities]]></title>
-        <id>https://medium.com/p/d94d874bb43d</id>
-        <link href="https://uxdesign.cc/ux-designers-are-not-designing-interfaces-they-design-personalities-d94d874bb43d?source=rss----138adf9c44c---4"/>
-        <updated>2026-10-19T11:12:12.000Z</updated>
-        <author>
-            <name>Bas Wallet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Your First AI Agent in 20 Minutes (No Coding)]]></title>
-        <id>https://www.youtube.com/watch?v=rCkYVxOX-dI</id>
-        <link href="https://www.youtube.com/watch?v=rCkYVxOX-dI"/>
-        <updated>2026-10-19T11:00:25.000Z</updated>
-        <author>
-            <name>Metics Media</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Harms and Their Technical Causes]]></title>
-        <id>https://towardsdatascience.com/ai-harms-and-their-technical-causes/</id>
-        <link href="https://towardsdatascience.com/ai-harms-and-their-technical-causes/"/>
-        <updated>2026-10-19T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How technical choices can lead to safety failures, and what to do differently
-The post AI Harms and Their Technical Causes appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Stephanie Kirmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😺 DeepSeek's free model edged Opus 5 at coding]]></title>
-        <id>https://www.theneuron.ai/newsletter/deepseek-s-free-model-edged-opus-5-at-coding/</id>
-        <link href="https://www.theneuron.ai/newsletter/deepseek-s-free-model-edged-opus-5-at-coding/"/>
-        <updated>2026-10-19T10:00:10.405Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond the Canvas]]></title>
-        <id>https://medium.com/p/03fce0bcbf7b</id>
-        <link href="https://uxdesign.cc/beyond-the-canvas-03fce0bcbf7b?source=rss----138adf9c44c---4"/>
-        <updated>2026-10-19T09:29:20.000Z</updated>
-        <author>
-            <name>Nil Thyrion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[下班闔上筆電，OpenAI dot 還在替你做事｜這個 AI Agent 跟 ChatGPT 差在哪、哪些工作現在就能交給它，我實測過]]></title>
-        <id>https://www.youtube.com/watch?v=dog4pR8RwsE</id>
-        <link href="https://www.youtube.com/watch?v=dog4pR8RwsE"/>
-        <updated>2026-10-19T09:22:47.000Z</updated>
-        <author>
-            <name>追日Gucci-AI效率革命聯盟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT 200 美元方案量少一半：AI 公司補貼你的時代要結束了？]]></title>
-        <id>https://www.youtube.com/shorts/Y6WBpN3fr9E</id>
-        <link href="https://www.youtube.com/shorts/Y6WBpN3fr9E"/>
-        <updated>2026-10-19T08:00:03.000Z</updated>
-        <summary type="html"><![CDATA[9 月底，OpenAI 每月 200 美元那一檔月費不變，能用的量大約少了一半；20 美元的 Plus 這次沒動。網路上有人說補貼的時代要結束了，OpenAI 說是模型更有效率。兩種說法不用急著選邊，只有你自己的用量會告訴你答案。📊 不管你付哪一檔，先打開用量頁，看額度花在哪。揭露：AI 虛擬分身參與製作#Ch...]]></summary>
-        <author>
-            <name>追日Gucci-AI效率革命聯盟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Is Still Hiring. Junior Technical Roles Are Taking a Smaller Share]]></title>
-        <id>https://www.theneuron.ai/news/anthropic-junior-technical-hiring-ai/</id>
-        <link href="https://www.theneuron.ai/news/anthropic-junior-technical-hiring-ai/"/>
-        <updated>2026-10-19T07:39:21.775Z</updated>
-        <summary type="html"><![CDATA[Anthropic continued expanding its technical workforce as junior employees’ share of new hires fell from 27% to 9%. The findings suggest AI adoption could change recruitment priorities and how employees gain experience.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Consults Lawyers on How AI Agents Should Negotiate]]></title>
-        <id>https://www.theneuron.ai/news/anthropic-ai-agents-negotiation-lawyers/</id>
-        <link href="https://www.theneuron.ai/news/anthropic-ai-agents-negotiation-lawyers/"/>
-        <updated>2026-10-19T06:47:02.551Z</updated>
-        <summary type="html"><![CDATA[Anthropic is exploring AI agents that negotiate for users. Its book-trading research shows how misunderstood preferences can affect outcomes, while commercial use raises questions about authorization and disputed agreements.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 在自己電腦上跑就比較安全嗎？Claude 官方的一句話說明了為什麼不一定]]></title>
-        <id>https://www.youtube.com/shorts/SvJ1r_RbDtA</id>
-        <link href="https://www.youtube.com/shorts/SvJ1r_RbDtA"/>
-        <updated>2026-10-19T06:03:19.000Z</updated>
-        <summary type="html"><![CDATA[Claude 的 Cowork 以前在你的電腦上跑，10 月起改到雲端，很多人因此覺得本機那一版比較安全。官方安全說明寫的是：隔離只限制它的程式在哪裡跑，不限制它讀什麼、做什麼。今年 7 月也有報導指出，舊的本機版 Cowork 被找到漏洞，隔離空間突破後能碰到整台 Mac 上的檔案。🔑 你真正能控制的，是讓它...]]></summary>
-        <author>
-            <name>追日Gucci-AI效率革命聯盟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything That Happened in AI Today (Monday, October 19, 2026)]]></title>
-        <id>https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-october-19-2026/</id>
-        <link href="https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-october-19-2026/"/>
-        <updated>2026-10-19T03:48:51.371Z</updated>
-        <summary type="html"><![CDATA[OpenAI disclosed four new rogue-agent incidents, Anthropic’s junior technical hiring share fell sharply, and OpenCode reported a breach connected to a model-distillation attack.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monopoly Round-Up: Pop the Damn AI Bubble Already]]></title>
-        <id>https://www.thebignewsletter.com/p/monopoly-round-up-pop-the-damn-ai</id>
-        <link href="https://www.thebignewsletter.com/p/monopoly-round-up-pop-the-damn-ai"/>
-        <updated>2026-10-19T01:37:41.000Z</updated>
-        <summary type="html"><![CDATA[More AI cockroaches are getting flattened, and an important index shows the broader market is starting to shift away from AI. This is not a panic, but time to plan accordingly.]]></summary>
-        <author>
-            <name>Lee Hepner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你跟 Claude 說的話會被拿去訓練嗎？答案在設定裡的一個開關]]></title>
-        <id>https://www.youtube.com/shorts/SE6CpYJd_H8</id>
-        <link href="https://www.youtube.com/shorts/SE6CpYJd_H8"/>
-        <updated>2026-10-19T00:00:17.000Z</updated>
-        <summary type="html"><![CDATA[個人的 Pro 跟 Max，看設定裡隱私那一頁的 Help improve our AI models：開著，對話可能被拿去訓練、最多保留五年；關掉，新的對話就不會被拿去訓練。公司買的 Team 跟企業版預設不拿來訓練；刪掉的對話，官方說 30 天內會從後端刪除。你交給它的檔案算不算在裡面，官方沒有寫清楚。🔒 ...]]></summary>
-        <author>
-            <name>追日Gucci-AI效率革命聯盟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026年10月19日｜24小時世界AI新聞台-重溫｜Kling 4.0、DeepSeek 更新、AI 隨身裝置]]></title>
-        <id>https://www.youtube.com/watch?v=50mTUQobrjw</id>
-        <link href="https://www.youtube.com/watch?v=50mTUQobrjw"/>
-        <updated>2026-10-19T00:00:04.000Z</updated>
-        <author>
-            <name>文恩澄 Rannes Man</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How DeepSeek Uses Less Memory]]></title>
-        <id>https://www.youtube.com/shorts/RS9vWYlJeH8</id>
-        <link href="https://www.youtube.com/shorts/RS9vWYlJeH8"/>
-        <updated>2026-10-18T23:02:55.000Z</updated>
-        <summary type="html"><![CDATA[Join My Newsletter for Regular AI Updates 👇🏼https://forwardfuture.comMy Links 🔗👉🏻 X: https://x.com/matthewberman👉🏻 Forward Future X: https://x.com/for...]]></summary>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to build a brand foundation with AI without losing your craft]]></title>
-        <id>https://medium.com/p/d616b05cb838</id>
-        <link href="https://uxdesign.cc/how-to-build-a-brand-foundation-with-ai-without-losing-your-craft-d616b05cb838?source=rss----138adf9c44c---4"/>
-        <updated>2026-10-18T19:06:49.000Z</updated>
-        <summary type="html"><![CDATA[Here is how to use Claude and a handful of guardrails to build a design system that developers respect and clients can actually ship.
-Continue reading on UX Collective »]]></summary>
-        <author>
-            <name>Zeeshan Khalid</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😺 Meta’s new terms cover website scraping]]></title>
-        <id>https://www.theneuron.ai/newsletter/meta-s-new-terms-cover-website-scraping/</id>
-        <link href="https://www.theneuron.ai/newsletter/meta-s-new-terms-cover-website-scraping/"/>
-        <updated>2026-10-18T17:30:39.397Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😺 Meta’s new terms cover website scraping]]></title>
-        <id>https://www.theneuron.ai/newsletter/meta-s-new-terms-cover-website-scraping-5099/</id>
-        <link href="https://www.theneuron.ai/newsletter/meta-s-new-terms-cover-website-scraping-5099/"/>
-        <updated>2026-10-18T17:30:10.479Z</updated>
-        <author>
-            <name>The Neuron</name>
         </author>
     </entry>
 </feed>
