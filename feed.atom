@@ -2,10 +2,159 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fhrhrj073-crypto.github.io/rssfeed/index.html</id>
     <title>OpenClaw 學習資源</title>
-    <updated>2026-11-21T04:22:44.563Z</updated>
+    <updated>2026-11-22T03:37:07.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://fhrhrj073-crypto.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://fhrhrj073-crypto.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google TPU 都能訓練 Gemini 3，客戶為什麼不搬？卡在 750 萬人在用的 CUDA]]></title>
+        <id>https://www.youtube.com/shorts/SzwM6x3o_QI</id>
+        <link href="https://www.youtube.com/shorts/SzwM6x3o_QI"/>
+        <updated>2026-11-22T00:01:25.000Z</updated>
+        <summary type="html"><![CDATA[Google 自己的 AI 晶片，連 Gemini 3 都拿它來訓練，客戶卻沒有直接搬過去。卡在軟體：做 AI 的公司，程式多半照 NVIDIA 的工具 CUDA 寫，全世界超過 750 萬個開發者在用。以前接一種新晶片，要幾十個工程師做好幾個月。Anthropic 這次讓自家 AI 去試，三天就讓 Claude...]]></summary>
+        <author>
+            <name>追日Gucci-AI效率革命聯盟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年11月22日｜24小時世界AI新聞台-重溫｜Gemini Mac、Google Flow、歐盟AI素養]]></title>
+        <id>https://www.youtube.com/watch?v=JDcDvmadw10</id>
+        <link href="https://www.youtube.com/watch?v=JDcDvmadw10"/>
+        <updated>2026-11-22T00:00:24.000Z</updated>
+        <author>
+            <name>文恩澄 Rannes Man</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I’m Crashing Out About Anthropic]]></title>
+        <id>https://www.youtube.com/watch?v=I0Fasi1-teQ</id>
+        <link href="https://www.youtube.com/watch?v=I0Fasi1-teQ"/>
+        <updated>2026-11-21T21:23:31.000Z</updated>
+        <author>
+            <name>Matthew Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google AI 黑五最高 5 折提前開跑！現有訂戶、新用戶怎麼買最划算一次看]]></title>
+        <id>https://www.youtube.com/shorts/GP_QPXcGou0</id>
+        <link href="https://www.youtube.com/shorts/GP_QPXcGou0"/>
+        <updated>2026-11-21T18:40:07.000Z</updated>
+        <summary type="html"><![CDATA[📖 完整圖文攻略：https://www.kocpc.com.tw/archives/704268 🔗 查詢你的專屬黑五優惠：https://one.google.com/aiGoogle AI 黑五優惠提前開跑，最高直接打 5 折，但現在點進去並不是人人都看得到！這波優惠分「現有訂戶」與「新用戶」兩波，4 ...]]></summary>
+        <author>
+            <name>電腦王阿達</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🧠 Community Wisdom: Handling context switching with multiple agents, giving feedback on AI-generated designs, getting AI to write less like AI, why PMs don’t share what they’re really working on]]></title>
+        <id>https://www.lennysnewsletter.com/p/community-wisdom-handling-context</id>
+        <link href="https://www.lennysnewsletter.com/p/community-wisdom-handling-context"/>
+        <updated>2026-11-21T16:49:56.000Z</updated>
+        <summary type="html"><![CDATA[Community Wisdom 306]]></summary>
+        <author>
+            <name>Kiyani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude May Have Just Solved Riemann Hypothesis, the Most Famous Problem in Mathematics]]></title>
+        <id>https://medium.com/p/d765ab2ebf43</id>
+        <link href="https://generativeai.pub/claude-may-have-just-solved-the-most-famous-problem-in-mathematics-d765ab2ebf43?source=rss----440100e76000---4"/>
+        <updated>2026-11-21T15:32:06.000Z</updated>
+        <summary type="html"><![CDATA[History has been made today.
+Continue reading on Generative AI »]]></summary>
+        <author>
+            <name>Jim Clyde Monge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Learn Supply Chain Analytics in 2027 with Claude Code]]></title>
+        <id>https://towardsdatascience.com/how-to-learn-supply-chain-analytics-in-2027-with-claude-code/</id>
+        <link href="https://towardsdatascience.com/how-to-learn-supply-chain-analytics-in-2027-with-claude-code/"/>
+        <updated>2026-11-21T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Each 5-minute case study pairs operational context, a problem statement, and documented code, so data scientists and non-coding planners learn together.
+The post How to Learn Supply Chain Analytics in 2027 with Claude Code appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Samir Saci</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The judge used to be the user]]></title>
+        <id>https://medium.com/p/0a958f24bb32</id>
+        <link href="https://uxdesign.cc/the-judge-used-to-be-the-user-0a958f24bb32?source=rss----138adf9c44c---4"/>
+        <updated>2026-11-21T14:34:16.000Z</updated>
+        <summary type="html"><![CDATA[AI collapsed the slow middle of building models. The people who once defined correct went with it.
+Continue reading on UX Collective »]]></summary>
+        <author>
+            <name>Wira Indra Kusuma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Censored vs. Truncated Regression in Python, Explained]]></title>
+        <id>https://towardsdatascience.com/censored-vs-truncated-regression-in-python-explained/</id>
+        <link href="https://towardsdatascience.com/censored-vs-truncated-regression-in-python-explained/"/>
+        <updated>2026-11-21T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A simulated salary survey shows OLS shrinking a $5k-per-year effect to $3.2k, then recovers it with Tobit and truncated likelihoods built from scratch.
+The post Censored vs. Truncated Regression in Python, Explained appeared first on Towards Data Science.]]></summary>
+        <author>
+            <name>Ananya Bhattacharyya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[明明存過的筆記、檔案，為什麼就是搜不到？換成照意思找，第一個就跳出來｜Second Brain 2.0 連 PDF、做過的作品都找得回來]]></title>
+        <id>https://www.youtube.com/watch?v=L4UKOpXkPUQ</id>
+        <link href="https://www.youtube.com/watch?v=L4UKOpXkPUQ"/>
+        <updated>2026-11-21T11:56:10.000Z</updated>
+        <author>
+            <name>追日Gucci-AI效率革命聯盟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI Selloff Wiped Out $8 Trillion in 45 Days. Here Is What It Means for Startups and VCs]]></title>
+        <id>https://www.thevccorner.com/p/the-ai-selloff-wiped-out-8-trillion</id>
+        <link href="https://www.thevccorner.com/p/the-ai-selloff-wiped-out-8-trillion"/>
+        <updated>2026-11-21T11:01:09.000Z</updated>
+        <summary type="html"><![CDATA[Nvidia is down 47.5%, Anthropic listed anyway, and AI took 82.7% of US venture dollars this year.]]></summary>
+        <author>
+            <name>Ruben Dominguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[同一句提示詞考 4 個 AI：Gemini 4 Neon、GPT-6.2 Astra、Fable 5.2 誰做的彈珠台最好？我寫程式幫它們評分]]></title>
+        <id>https://www.youtube.com/watch?v=qra8vSgDE14</id>
+        <link href="https://www.youtube.com/watch?v=qra8vSgDE14"/>
+        <updated>2026-11-21T11:00:34.000Z</updated>
+        <author>
+            <name>ZEDOTECH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Neuron Academy - Dedicated Send - 11.21.26]]></title>
+        <id>https://www.theneuron.ai/newsletter/the-neuron-academy-dedicated-send-11-21-26/</id>
+        <link href="https://www.theneuron.ai/newsletter/the-neuron-academy-dedicated-send-11-21-26/"/>
+        <updated>2026-11-21T10:30:06.929Z</updated>
+        <author>
+            <name>The Neuron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 晶片誰贏台灣都賺？我去查了，只有台積電兩邊都收錢]]></title>
+        <id>https://www.youtube.com/shorts/ITLAB7Z_zMs</id>
+        <link href="https://www.youtube.com/shorts/ITLAB7Z_zMs"/>
+        <updated>2026-11-21T10:20:34.000Z</updated>
+        <summary type="html"><![CDATA[大家都說 AI 晶片不管 Google 還是 NVIDIA 贏，台灣都賺。我去查了：兩邊的晶片都交給台積電代工，它照做了幾片收錢，去年營收大約八成六是晶圓。再往下一層，鴻海、廣達、英業達搶的是機櫃訂單；聯發科做客製晶片，四場法說會都沒說客戶是誰。鴻海董事長還說，不少客製晶片的案子，晶片是客戶自己的。完整版長片：《...]]></summary>
+        <author>
+            <name>追日Gucci-AI效率革命聯盟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「我們是給人第二次機會的國家」川普表態挺黃仁勳回任]]></title>
+        <id>https://www.youtube.com/shorts/IherD887p4Q</id>
+        <link href="https://www.youtube.com/shorts/IherD887p4Q"/>
+        <updated>2026-11-21T09:44:28.000Z</updated>
+        <summary type="html"><![CDATA[川普在白宮記者會公開喊話：輝達應該讓黃仁勳道歉、回去工作。但他身邊的人，意見可沒那麼一致 👀✅ 川普（美國時間 11/20）：「我們是給人第二次機會的國家」，比起他推薦過的庫克，更想看黃仁勳回去 ✅ 副總統萬斯：重點是把產業搬回美國、保護關鍵技術，對回任沒有表態；財長貝森特則說新 CEO 應該從外面找 ✅ 馬斯...]]></summary>
+        <author>
+            <name>電腦王阿達</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[花 38.5 萬買 Mac Studio 值得嗎？M5 Ultra 跑 AI、影片圖片生成、遊戲完整實測！]]></title>
         <id>https://www.youtube.com/watch?v=3BEicSwl7Ho</id>
@@ -7119,324 +7268,6 @@ The post Python 3.15 Has a New Profiler appeared first on Towards Data Science.
         <updated>2026-10-23T16:36:20.000Z</updated>
         <author>
             <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don’t Let Messy Data Bend Your Curves]]></title>
-        <id>https://towardsdatascience.com/dont-let-messy-data-bend-your-curves/</id>
-        <link href="https://towardsdatascience.com/dont-let-messy-data-bend-your-curves/"/>
-        <updated>2026-10-23T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Robust Estimation Series: Building Accurate Curves with Polynomials and Splines With Spurious Data
-The post Don’t Let Messy Data Bend Your Curves appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Aamir Hussain Chughtai, PhD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Your Own Muse/Dot: Under the Hood of Three Open-Source Architectures]]></title>
-        <id>https://medium.com/p/c9639ef27c7c</id>
-        <link href="https://generativeai.pub/how-to-build-your-own-muse-dot-under-the-hood-of-three-open-source-architectures-c9639ef27c7c?source=rss----440100e76000---4"/>
-        <updated>2026-10-23T14:26:58.000Z</updated>
-        <author>
-            <name>Kaushik Holla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can Claude Build LEGO?]]></title>
-        <id>https://medium.com/p/fb056ba027e0</id>
-        <link href="https://generativeai.pub/can-claude-build-lego-fb056ba027e0?source=rss----440100e76000---4"/>
-        <updated>2026-10-23T14:25:37.000Z</updated>
-        <summary type="html"><![CDATA[I let an AI design LEGO buildings and Then Built Them for Real
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Felix Pappe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qwen-Image-2.1-Turbo’s real constraint lives in config files, not the step count]]></title>
-        <id>https://medium.com/p/8346a492cac0</id>
-        <link href="https://generativeai.pub/qwen-image-2-1-turbos-real-constraint-lives-in-config-files-not-the-step-count-8346a492cac0?source=rss----440100e76000---4"/>
-        <updated>2026-10-23T14:10:59.000Z</updated>
-        <summary type="html"><![CDATA[Diffusers 0.41.0 silently uses the checkpoint’s eight-value sigma grid instead of the step count you pass.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>allglenn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understand Base44 in 15 Minutes]]></title>
-        <id>https://www.youtube.com/watch?v=5h4qzPxXIqc</id>
-        <link href="https://www.youtube.com/watch?v=5h4qzPxXIqc"/>
-        <updated>2026-10-23T14:00:37.000Z</updated>
-        <author>
-            <name>Tech With Tim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skewness and Kurtosis: From Moments to Machine Learning]]></title>
-        <id>https://towardsdatascience.com/skewness-and-kurtosis-from-moments-to-machine-learning/</id>
-        <link href="https://towardsdatascience.com/skewness-and-kurtosis-from-moments-to-machine-learning/"/>
-        <updated>2026-10-23T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The mathematics, intuition, interpretation, and practical use of higher-order moments.
-The post Skewness and Kurtosis: From Moments to Machine Learning appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Mansi Bramta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Parameter Count Is Not Model Complexity: An Introduction to Effective Dimension]]></title>
-        <id>https://towardsdatascience.com/why-parameter-count-is-not-model-complexity-an-introduction-to-effective-dimension/</id>
-        <link href="https://towardsdatascience.com/why-parameter-count-is-not-model-complexity-an-introduction-to-effective-dimension/"/>
-        <updated>2026-10-23T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[What does effective dimension reveal about redundancy, generalization, and trainability that parameter count, loss, and accuracy do not?
-The post Why Parameter Count Is Not Model Complexity: An Introduction to Effective Dimension appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Adrian Panasiewicz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[華航：履歷用 AI 寫，永不錄用｜那上班交 AI 報告呢？我查完研究：主管看的是拿掉 AI 之後的你]]></title>
-        <id>https://www.youtube.com/watch?v=dP6ENYDTJds</id>
-        <link href="https://www.youtube.com/watch?v=dP6ENYDTJds"/>
-        <updated>2026-10-23T12:11:10.000Z</updated>
-        <author>
-            <name>追日Gucci-AI效率革命聯盟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seeing More or Reasoning Better?]]></title>
-        <id>https://medium.com/p/f8fa1cff82de</id>
-        <link href="https://generativeai.pub/seeing-more-or-reasoning-better-understanding-how-paligemma-2-scales-f8fa1cff82de?source=rss----440100e76000---4"/>
-        <updated>2026-10-23T11:36:01.000Z</updated>
-        <author>
-            <name>Azizayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Entering Atomic Design from the screen]]></title>
-        <id>https://medium.com/p/bae744ecc288</id>
-        <link href="https://uxdesign.cc/entering-atomic-design-from-the-screen-bae744ecc288?source=rss----138adf9c44c---4"/>
-        <updated>2026-10-23T11:16:30.000Z</updated>
-        <author>
-            <name>Sepeda Rafael</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supersonic dreams: how post-war France invented the future, and then stopped]]></title>
-        <id>https://medium.com/p/fe2cb26dc7cc</id>
-        <link href="https://uxdesign.cc/supersonic-dreams-how-post-war-france-invented-the-future-and-then-stopped-fe2cb26dc7cc?source=rss----138adf9c44c---4"/>
-        <updated>2026-10-23T11:15:20.000Z</updated>
-        <author>
-            <name>Gor Walowski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Six AI Models Are Really Two: The Math of Correlated Mistakes]]></title>
-        <id>https://towardsdatascience.com/your-six-ai-models-are-really-two-the-math-of-correlated-mistakes/</id>
-        <link href="https://towardsdatascience.com/your-six-ai-models-are-really-two-the-math-of-correlated-mistakes/"/>
-        <updated>2026-10-23T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask several models the same question, take a vote, and you get fewer independent opinions than you paid for. One formula says how many, and I checked it on six open models and 1,500 exam questions.
-The post Your Six AI Models Are Really Two: The Math of Correlated Mistakes appeared first on Towards Data Science.]]></summary>
-        <author>
-            <name>Utkarsh Mangal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😺 Microsoft AI scored 83% where doctors got 36%]]></title>
-        <id>https://www.theneuron.ai/newsletter/microsoft-ai-scored-83-where-doctors-got-36/</id>
-        <link href="https://www.theneuron.ai/newsletter/microsoft-ai-scored-83-where-doctors-got-36/"/>
-        <updated>2026-10-23T09:30:27.618Z</updated>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If AI Removes the Starter Work, What Replaces the Learning Loop?]]></title>
-        <id>https://medium.com/p/bdf3920d205d</id>
-        <link href="https://generativeai.pub/if-ai-removes-the-starter-work-what-replaces-the-learning-loop-bdf3920d205d?source=rss----440100e76000---4"/>
-        <updated>2026-10-23T08:05:50.000Z</updated>
-        <author>
-            <name>Zyane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Data Is AI’s Oxygen: The Behavioural Substrate]]></title>
-        <id>https://medium.com/p/90b9ec1209c2</id>
-        <link href="https://generativeai.pub/your-data-is-ais-oxygen-the-behavioural-substrate-90b9ec1209c2?source=rss----440100e76000---4"/>
-        <updated>2026-10-23T08:02:42.000Z</updated>
-        <author>
-            <name>Saqib Mahmood</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Sonnet 5.5 vs Opus 5.5, and when the cheaper model costs more]]></title>
-        <id>https://medium.com/p/5c2de8ff64a4</id>
-        <link href="https://generativeai.pub/claude-sonnet-5-5-vs-opus-5-5-and-when-the-cheaper-model-costs-more-5c2de8ff64a4?source=rss----440100e76000---4"/>
-        <updated>2026-10-23T07:57:49.000Z</updated>
-        <summary type="html"><![CDATA[Same token price as GPT-6.1 Sol, half the token price of Opus, and a bill that depends almost entirely on the effort setting.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Yashraj Behera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why AI Agents Fail in Production: The Engineering Problems Nobody Sees in the Demo]]></title>
-        <id>https://medium.com/p/148cd3861b5a</id>
-        <link href="https://generativeai.pub/why-ai-agents-fail-in-production-the-engineering-problems-nobody-sees-in-the-demo-148cd3861b5a?source=rss----440100e76000---4"/>
-        <updated>2026-10-23T07:54:41.000Z</updated>
-        <summary type="html"><![CDATA[A practical engineering guide to context failures, tool errors, excessive permissions, runaway workflows, multi-agent failures…
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Raj kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Multi-Agent RAG System with LangGraph and Hugging Face]]></title>
-        <id>https://medium.com/p/f15609fb9a0b</id>
-        <link href="https://generativeai.pub/build-a-multi-agent-rag-system-with-langgraph-and-hugging-face-f15609fb9a0b?source=rss----440100e76000---4"/>
-        <updated>2026-10-23T07:43:03.000Z</updated>
-        <summary type="html"><![CDATA[Combine Retrieval, Specialist Agents, and Grounded Answers
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Zayd Islam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s Muse was the Best Deal in AI for About Three Weeks]]></title>
-        <id>https://medium.com/p/61db1d7e139e</id>
-        <link href="https://generativeai.pub/metas-muse-was-the-best-deal-in-ai-for-about-three-weeks-61db1d7e139e?source=rss----440100e76000---4"/>
-        <updated>2026-10-23T07:39:26.000Z</updated>
-        <summary type="html"><![CDATA[Muse, Muse Code, and Muse Spark 1.3, checked against the leaderboard that replaced the one in the launch headlines.
-Continue reading on Generative AI »]]></summary>
-        <author>
-            <name>Yashraj Behera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Catch Behind Microsoft's Medical Superintelligence Breakthrough]]></title>
-        <id>https://www.theneuron.ai/news/the-catch-behind-microsofts-medical-superintelligence-breakthrough/</id>
-        <link href="https://www.theneuron.ai/news/the-catch-behind-microsofts-medical-superintelligence-breakthrough/"/>
-        <updated>2026-10-23T07:30:24.030Z</updated>
-        <summary type="html"><![CDATA[Microsoft says its diagnostic AI can outperform physicians on complex medical cases. But a closer look reveals narrower gains over GPT-5 alone, cost savings that depend on configuration, and major questions that only real-world clinical trials can answer.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who Is Responsible When AI Agents Start Moving Your Money?]]></title>
-        <id>https://www.theneuron.ai/news/who-is-responsible-when-ai-agents-start-moving-your-money/</id>
-        <link href="https://www.theneuron.ai/news/who-is-responsible-when-ai-agents-start-moving-your-money/"/>
-        <updated>2026-10-23T06:15:43.812Z</updated>
-        <summary type="html"><![CDATA[Visa’s live pilot lets AI agents complete approved supplier payments as banks restrict third-party account access. Greater financial autonomy depends on enforceable permissions and clear procedures for disputed losses.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can AI Companies Trust Their Safety Monitors When Agents Can Bypass Them?]]></title>
-        <id>https://www.theneuron.ai/news/can-ai-companies-trust-safety-monitors-agents-bypass/</id>
-        <link href="https://www.theneuron.ai/news/can-ai-companies-trust-safety-monitors-agents-bypass/"/>
-        <updated>2026-10-23T06:04:46.860Z</updated>
-        <summary type="html"><![CDATA[METR and Redwood Research identified vulnerabilities that could conceal AI agent activity from OpenAI’s safety monitors. OpenAI says it has patched the affected safeguards, but researchers have not independently verified the fixes.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything That Happened in AI Today (Friday, October 23, 2026)]]></title>
-        <id>https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-october-23-2026/</id>
-        <link href="https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-october-23-2026/"/>
-        <updated>2026-10-23T04:44:00.431Z</updated>
-        <summary type="html"><![CDATA[AI agents reached bank accounts while a China-linked actor used agentic AI in a supply-chain breach. Microsoft also reported a diagnostic system that outperformed general physicians on difficult medical cases.]]></summary>
-        <author>
-            <name>The Neuron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI協助找到藏了20年的PHP驚天漏洞，全球各地政府網站集體下線避風頭]]></title>
-        <id>https://www.youtube.com/shorts/xmV9C15mnCw</id>
-        <link href="https://www.youtube.com/shorts/xmV9C15mnCw"/>
-        <updated>2026-10-23T04:36:02.000Z</updated>
-        <summary type="html"><![CDATA[這次PHP漏洞嚴重到國外一堆政府網站乾脆關網站，一次看懂文字版：https://www.kocpc.com.tw/archives/700257]]></summary>
-        <author>
-            <name>電腦王阿達</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[怕 AI 誤刪資料？先看它能動哪些東西]]></title>
-        <id>https://www.youtube.com/shorts/OQpVhJv1wkk</id>
-        <link href="https://www.youtube.com/shorts/OQpVhJv1wkk"/>
-        <updated>2026-10-23T04:00:28.000Z</updated>
-        <summary type="html"><![CDATA[想把 AI 接進工作流，讓它真的幫你做事？免費加入《AI 效率啟動營》：https://guccidgi.com/aifree也可以點我頭像，到個人頁找到社群連結。你叫 AI 整理檔案，也寫了「不要刪除」。如果它仍然能動到所有資料，這句話夠保險嗎？指令當然要寫，因為它交代你想要的工作。但實際限制要看工具和帳號怎麼...]]></summary>
-        <author>
-            <name>追日Gucci-AI效率革命聯盟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026年10月23日｜24小時世界AI新聞台-重溫｜OpenAI 接入 Google Cloud、MiniMax M3.1 Flash、Chrome 防騙]]></title>
-        <id>https://www.youtube.com/watch?v=niGc3BAiicQ</id>
-        <link href="https://www.youtube.com/watch?v=niGc3BAiicQ"/>
-        <updated>2026-10-23T00:00:28.000Z</updated>
-        <author>
-            <name>文恩澄 Rannes Man</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 說「完成了」，你敢直接拿去交差嗎？]]></title>
-        <id>https://www.youtube.com/shorts/6uHXoL9iw-Q</id>
-        <link href="https://www.youtube.com/shorts/6uHXoL9iw-Q"/>
-        <updated>2026-10-23T00:00:12.000Z</updated>
-        <summary type="html"><![CDATA[想把 AI 接進工作流，讓它真的幫你做事？免費加入《AI 效率啟動營》：https://guccidgi.com/aifree也可以點我頭像，到個人頁找到社群連結。AI 跟你說「完成了」，你敢直接拿去交差嗎？OpenAI 的一次內部測試裡，AI 解不出題，竟然開始研究怎麼騙評分。測試原本安排了指定的程式和題目，代...]]></summary>
-        <author>
-            <name>追日Gucci-AI效率革命聯盟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buy vs. build is now also a UX decision, especially in enterprise]]></title>
-        <id>https://medium.com/p/6b4345715c63</id>
-        <link href="https://uxdesign.cc/buy-versus-build-is-now-also-a-ux-decision-especially-in-enterprise-6b4345715c63?source=rss----138adf9c44c---4"/>
-        <updated>2026-10-22T21:55:36.000Z</updated>
-        <author>
-            <name>Patrick Neeman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sam Altman on AI’s Discovery Era]]></title>
-        <id>https://www.youtube.com/shorts/9WZpou1faFU</id>
-        <link href="https://www.youtube.com/shorts/9WZpou1faFU"/>
-        <updated>2026-10-22T20:47:14.000Z</updated>
-        <summary type="html"><![CDATA[Join My Newsletter for Regular AI Updates 👇🏼https://forwardfuture.comMy Links 🔗👉🏻 X: https://x.com/matthewberman👉🏻 Forward Future X: https://x.com/for...]]></summary>
-        <author>
-            <name>Matthew Berman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50 Free Places to Launch Your Startup in 2026]]></title>
-        <id>https://www.thevccorner.com/p/free-places-to-launch-your-startup-2026</id>
-        <link href="https://www.thevccorner.com/p/free-places-to-launch-your-startup-2026"/>
-        <updated>2026-10-22T20:33:48.000Z</updated>
-        <summary type="html"><![CDATA[Where to launch and what to post on each of them.]]></summary>
-        <author>
-            <name>Ruben Dominguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If you use AI, download Claude Duet immediately]]></title>
-        <id>https://www.youtube.com/watch?v=jC26BnJseAw</id>
-        <link href="https://www.youtube.com/watch?v=jC26BnJseAw"/>
-        <updated>2026-10-22T20:11:53.000Z</updated>
-        <author>
-            <name>Alex Finn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk Just Threatened the Coming Democratic Majority]]></title>
-        <id>https://www.thebignewsletter.com/p/elon-musk-just-threatened-the-coming</id>
-        <link href="https://www.thebignewsletter.com/p/elon-musk-just-threatened-the-coming"/>
-        <updated>2026-10-22T19:03:59.000Z</updated>
-        <summary type="html"><![CDATA[Perhaps Dems’ best response to Musk’s “live by the sword, die by the sword,” should draw on another scripture: The government gave, and the government can take away.]]></summary>
-        <author>
-            <name>Lee Hepner</name>
         </author>
     </entry>
 </feed>
